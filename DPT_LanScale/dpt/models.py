@@ -118,20 +118,20 @@ class DPTDepthModel(DPT):
         # LanScale to pred scale and shift here.
         # NYU use pre-defined scale and shift, should be better to conditioned on single image.
         if self.invert:
-            print("inv_relative_depth:", inv_relative_depth.min().item(),inv_relative_depth.max().item(), flush=True) # 430.75, 3370;
+            # print("inv_relative_depth:", inv_relative_depth.min().item(),inv_relative_depth.max().item(), flush=True) # 430.75, 3370;
             # relative depth, number itself has no meaning, just to show relative depth among pixels
             scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
             shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
 
             inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
             # inv_metric_depth = scale_pred * (inv_relative_depth + 1e-6)
-            print("inv_metric_depth:", inv_metric_depth.min().item(), inv_metric_depth.max().item(), flush=True)
+            # print("inv_metric_depth:", inv_metric_depth.min().item(), inv_metric_depth.max().item(), flush=True)
 
             # sigmoid for scale_pred
             # scale lives in some range, print init scale range
             metric_depth = 1.0 / inv_metric_depth #  TODO: may cause numeric instablity
 
-            print("metric_depth:", metric_depth.min().item(),metric_depth.max().item(), flush=True) # 0.646, 2.6855, absolute depth
+            # print("metric_depth:", metric_depth.min().item(),metric_depth.max().item(), flush=True) # 0.646, 2.6855, absolute depth
             return metric_depth
         else:
             return inv_relative_depth

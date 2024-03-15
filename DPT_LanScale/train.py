@@ -284,7 +284,7 @@ def main():
 
         for step, sample_batched in enumerate(dataloader.data):
             optimizer.zero_grad()
-            print("--------New Iter--------", flush=True)
+            # print("--------New Iter--------", flush=True)
 
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
@@ -298,12 +298,12 @@ def main():
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            print("scale:", scale_pred, flush=True)
-            print("shift:", shift_pred, flush=True)
+            # print("scale:", scale_pred, flush=True)
+            # print("shift:", shift_pred, flush=True)
             pred_depth = DPT_model(image, scale_pred.float(), shift_pred.float())
             # BP
             loss = depth_loss(depth_prediction=pred_depth, gts=depth_gt)
-            print("loss:", loss.item(), flush=True)
+            # print("loss:", loss.item(), flush=True)
             loss.backward()
             # for name, param in LanScale_model.named_parameters():
             #     print("grad:", name, param.grad.data, flush=True)
@@ -396,7 +396,7 @@ if __name__ == '__main__':
     command = 'cp ' + sys.argv[1] + ' ' + args_out_path
     os.system(command)
     os.system('cp ' + "train.py" + ' ' + args_out_path + "/train.py.backup")
-    os.system('cp ' + "lanscale.py" + ' ' + args_out_path + "/wordepth.py.backup")
+    os.system('cp ' + "lanscale.py" + ' ' + args_out_path + "/lanscale.py.backup")
     os.system('cp ' + "dpt/models.py" + ' ' + args_out_path + "/dpt_models.py.backup")
 
     main()
