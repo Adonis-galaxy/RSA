@@ -1,4 +1,4 @@
---model_name 0314_2_sigmoid_scale_no_init_larger_lr_tmux_2
+--model_name 0314_2_test_tmux_0
 --batch_size 5
 --num_threads 5
 --num_epochs 50
