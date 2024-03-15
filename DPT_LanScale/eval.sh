@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python eval.py configs/arguments_eval_nyu.txt
