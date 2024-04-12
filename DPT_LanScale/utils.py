@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.distributed as dist
 from torch.utils.data import Sampler
 from torchvision import transforms
-
+import random
 import os, sys
 import numpy as np
 import math
@@ -31,7 +31,9 @@ def remove_repetitive_words(text):
     result = ' '.join(unique_words)
     return result
 
-def combine_repetitive_words(text):
+
+
+def combine_repetitive_words(text, remove_prob=0):
     # Split the text into individual words
     words = text.split()
 
@@ -40,12 +42,19 @@ def combine_repetitive_words(text):
 
     # Iterate through the counted words
     combined_words = []
+    init=True
     for word, count in word_counts.items():
         # If the count is greater than 1, combine the word with its count
-        if count > 1:
-            combined_words.append(f"{count} {word}s")
-        else:
+        if init is True:
             combined_words.append(word)
+            if word=="with":
+                init = False
+        else:
+            if random.random() > remove_prob:
+                if count > 1:
+                    combined_words.append(f"{count} {word}")
+                else:
+                    combined_words.append(word)
 
     # Join the words back into a single string
     combined_text = ' '.join(combined_words)

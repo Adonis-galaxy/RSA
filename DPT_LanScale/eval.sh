@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=3 python eval.py configs/arguments_eval_nyu.txt
+python3 run_monodepth.py --model_type dpt_hybrid_kitti --kitti_crop --absolute_depth --model_weights weights/dpt_hybrid_kitti-cb926ef4.pt  --input_path /media/staging1/zyzeng/kitti_raw_data/

@@ -4,7 +4,6 @@ import torch.backends.cudnn as cudnn
 import os, sys
 import argparse
 import numpy as np
-from tqdm import tqdm
 
 from dpt.models import DPTDepthModel
 from utils import compute_errors, combine_repetitive_words, remove_repetitive_words
@@ -15,17 +14,16 @@ from tensorboardX import SummaryWriter
 from CLIP import clip
 from PIL import Image
 
-
-
-
-
 def convert_arg_line_to_args(arg_line):
     for arg in arg_line.split():
         if not arg.strip():
             continue
         yield arg
 
-def get_text(data_path, sample_path, mode="train"):
+# Do lanagugage description augmentation here
+def get_text(data_path, sample_path, mode="train", remove_prob=0):
+    if mode=="eval":
+        remove_prob=0
     class_list = []
     for i in range(len(sample_path)): # B=4
         txt_path=data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
@@ -50,7 +48,7 @@ def get_text(data_path, sample_path, mode="train"):
                     language_description+=word
                     language_description+=", "
 
-            language_description = remove_repetitive_words(language_description)
+            language_description = combine_repetitive_words(language_description,remove_prob=remove_prob)
             language_description = language_description.replace("_", " ")
             language_description = language_description[:-1] + "."
             class_list.append(language_description)
@@ -74,17 +72,21 @@ parser.add_argument('--dataset',                   type=str,   help='dataset to 
 parser.add_argument('--input_height',              type=int,   help='input height', default=480)
 parser.add_argument('--input_width',               type=int,   help='input width',  default=640)
 
-
 # Preprocessing
 parser.add_argument('--do_random_rotate',                      help='if set, will perform random rotation for augmentation', action='store_true')
 parser.add_argument('--degree',                    type=float, help='random rotation maximum degree', default=2.5)
 parser.add_argument('--do_kb_crop',                            help='if set, crop input images as kitti benchmark images', action='store_true')
 parser.add_argument('--use_right',                             help='if set, will randomly use right images when train on KITTI', action='store_true')
 
+# Data
+parser.add_argument('--data_path_eval',            type=str,   help='path to the data for evaluation', required=True)
+parser.add_argument('--gt_path_eval',              type=str,   help='path to the groundtruth data for evaluation', required=True)
+parser.add_argument('--filenames_file_eval',       type=str,   help='path to the filenames text file for evaluation', required=True)
+parser.add_argument('--data_path',            type=str,   help='path to the data for training', required=True)
+parser.add_argument('--gt_path',              type=str,   help='path to the groundtruth data for training', required=True)
+parser.add_argument('--filenames_file',       type=str,   help='path to the filenames text file for evaluation', required=True)
+
 # Eval
-parser.add_argument('--data_path_eval',            type=str,   help='path to the data for evaluation', default="/media/home/zyzeng/code/datasets/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test")
-parser.add_argument('--gt_path_eval',              type=str,   help='path to the groundtruth data for evaluation', default="/media/home/zyzeng/code/datasets/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test")
-parser.add_argument('--filenames_file_eval',       type=str,   help='path to the filenames text file for evaluation', default="data_splits/nyudepthv2_test_files_with_gt.txt")
 parser.add_argument('--min_depth_eval',            type=float, help='minimum depth for evaluation', default=1e-3)
 parser.add_argument('--max_depth_eval',            type=float, help='maximum depth for evaluation', default=10)
 parser.add_argument('--eigen_crop',                            help='if set, crops according to Eigen NIPS14', action='store_true', default=True)
@@ -100,9 +102,9 @@ parser.add_argument('--num_threads',               type=int,   help='number of t
 parser.add_argument('--num_epochs',                type=int,   help='number of epochs', default=50)
 parser.add_argument('--learning_rate',             type=float, help='initial learning rate', default=1e-4)
 parser.add_argument('--end_learning_rate',         type=float, help='end learning rate', default=-1)
-parser.add_argument('--data_path',            type=str,   help='path to the data for training', default="/media/home/zyzeng/code/datasets/nyu_depth_v2_LanScale/nyu_depth_v2/sync")
-parser.add_argument('--gt_path',              type=str,   help='path to the groundtruth data for training', default="/media/home/zyzeng/code/datasets/nyu_depth_v2_LanScale/nyu_depth_v2/sync")
-parser.add_argument('--filenames_file',       type=str,   help='path to the filenames text file for evaluation', default="data_splits/nyudepthv2_train_files_with_gt.txt")
+parser.add_argument('--remove_prob',         type=float, help='prob to randomly remove some words', default=0)
+
+
 
 
 # Log and save
@@ -129,7 +131,7 @@ elif args.dataset == 'kittipred':
 
 def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False):
     eval_measures = torch.zeros(10).cuda()
-    for _, eval_sample_batched in enumerate(tqdm(dataloader_eval.data)):
+    for _, eval_sample_batched in enumerate(dataloader_eval.data):
         with torch.no_grad():
             image = torch.autograd.Variable(eval_sample_batched['image'].cuda())
             gt_depth = eval_sample_batched['depth']
@@ -145,7 +147,13 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            pred_depth = Depth_model(image, scale_pred.float(), shift_pred.float())
+
+            # inverse relative depth from DPT to metric predication depth
+            inv_relative_depth = Depth_model(image)
+            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
+            pred_depth = 1.0 / inv_metric_depth
 
             # Standard Eval
             pred_depth = pred_depth.cpu().numpy().squeeze()
@@ -196,6 +204,19 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
     for i in range(8):
         print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
     print('{:7.4f}'.format(eval_measures_cpu[8]))
+
+    if args.dataset == 'nyu':
+        print("Results for sheets, NYUD2:")
+        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2','d3', 'abs_rel', 'log10', 'rms'))
+        for i in [6,7,8,1,2,3]:
+            print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+
+    if args.dataset == 'kitti':
+        print("Results for sheets, KITTI:")
+        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2','d3', 'abs_rel', 'log_rms', 'rms'))
+        for i in [6,7,8,1,5,3]:
+            print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+
     return eval_measures_cpu
 
 
@@ -218,7 +239,7 @@ def main():
         non_negative=True,
         enable_attention_hooks=False,
     )
-    DPT_model.eval() # MUST BE TRAIN, OTHERWISE NO GRAD FOR SCALE AND SHIFT
+    DPT_model.eval()
     DPT_model.cuda()
     print("== DPT Model Initialized")
 
@@ -226,7 +247,8 @@ def main():
     LanScale_model = LanScaleModel(
         text_feat_dim=1024,
         default_scale=args.scale,
-        default_shift=args.shift
+        default_shift=args.shift,
+        dataset=args.dataset
     )
     LanScale_model.train()
     LanScale_model.cuda()
@@ -276,8 +298,8 @@ def main():
             eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False)
         LanScale_model.train()
 
-
     # Training Process
+    init_flag = True
     while epoch < args.num_epochs:
         if args.distributed:
             dataloader.train_sampler.set_epoch(epoch)
@@ -289,25 +311,27 @@ def main():
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-
-
-
             # Forward
-            class_list=get_text(args.data_path, sample_batched['sample_path'],"train")
+            class_list=get_text(args.data_path, sample_batched['sample_path'],"train",remove_prob=args.remove_prob)
             text = clip.tokenize(class_list, truncate=True).to("cuda")
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            # print("scale:", scale_pred, flush=True)
-            # print("shift:", shift_pred, flush=True)
-            pred_depth = DPT_model(image, scale_pred.float(), shift_pred.float())
+
+            if init_flag is True:
+                init_flag = False
+                print("scale:", scale_pred, flush=True)
+                print("shift:", shift_pred, flush=True)
+            # inverse relative depth from DPT to metric predication depth
+            inv_relative_depth = DPT_model(image)
+            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
+            pred_depth = 1.0 / inv_metric_depth
             # BP
             loss = depth_loss(depth_prediction=pred_depth, gts=depth_gt)
-            # print("loss:", loss.item(), flush=True)
             loss.backward()
-            # for name, param in LanScale_model.named_parameters():
-            #     print("grad:", name, param.grad.data, flush=True)
-            # print(torch.sum(LanScale_model.shift_net[0].weight.grad))
+
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
             optimizer.step()
 
@@ -326,18 +350,19 @@ def main():
 
 
             # Save Checkpoitns by frequency, vis pred
-            if (global_step >= args.save_freq_ckpt and global_step % args.save_freq_ckpt ==0) or (global_step==num_total_steps):
-                # Save CKPT
-                model_save_name = '/model_{}'.format(global_step)
-                print('Saving model. Step:',global_step)
-                checkpoint = {'global_step': global_step,
-                                'LanScale_model': LanScale_model.state_dict()}
-                torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
+            # if (global_step >= args.save_freq_ckpt and global_step % args.save_freq_ckpt ==0) or (global_step==num_total_steps):
+            #     # Save CKPT
+            #     model_save_name = '/model_{}'.format(global_step)
+            #     print('Saving model. Step:',global_step)
+            #     checkpoint = {'global_step': global_step,
+            #                     'LanScale_model': LanScale_model.state_dict()}
+            #     torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
 
 
             if global_step % args.eval_freq == 0:
                 LanScale_model.eval()
                 with torch.no_grad():
+                    print("Starting Evaluation, global step=", flush=True)
                     eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False)
                 if eval_measures is not None:
                     for i in range(9):

@@ -10,7 +10,7 @@ class LanScaleModel(nn.Module):
         text_feat_dim: int
             dimension of input CLIP text feature
     '''
-    def __init__(self,text_feat_dim=1024,default_scale=0.000305, default_shift=0.1378):
+    def __init__(self,text_feat_dim=1024,default_scale=0.000305, default_shift=0.1378, dataset=None):
         super().__init__()
         self.default_scale=default_scale
         self.default_shift=default_shift
@@ -37,7 +37,7 @@ class LanScaleModel(nn.Module):
             nn.LeakyReLU(),
             nn.Linear(64,1)
         )
-
+        self.dataset = dataset
         # nn.init.zeros_(self.shift_net[-1].weight)
         # nn.init.zeros_(self.shift_net[-1].bias)
         # nn.init.zeros_(self.scale_net[-1].weight)
@@ -60,11 +60,13 @@ class LanScaleModel(nn.Module):
                 N x 1
         '''
         scene_feat = self.scene_feat_net(text_feat)
-        # scale_pred = self.scale_net(scene_feat) + self.default_scale
-        # shift_pred = self.shift_net(scene_feat) + self.default_shift
-        scale_pred = torch.sigmoid(self.scale_net(scene_feat))
-        shift_pred = self.shift_net(scene_feat)
 
-        # scale_pred = self.scale_global.unsqueeze(0).expand(text_feat.shape[0], -1)
-        # shift_pred = self.shift_global.unsqueeze(0).expand(text_feat.shape[0], -1)
+        scale_pred = torch.sigmoid(self.scale_net(scene_feat))
+        shift_pred = torch.exp(self.shift_net(scene_feat))
+        # shift_pred = self.shift_net(scene_feat) + 1
+
+        if self.dataset == "kitti":
+            scale_pred = scale_pred * 0.000125
+            shift_pred = shift_pred * 0.005
+            
         return scale_pred, shift_pred
