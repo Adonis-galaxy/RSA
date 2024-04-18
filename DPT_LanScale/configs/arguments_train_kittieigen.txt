@@ -1,10 +1,10 @@
 --mode train
---model_name 0412_kitti_sigmoid_0d001_exp_0d1_right_data_tmux1
+--model_name 0416_kitti_default_init_tmux1
 --dataset kitti
 --data_path /media/staging1/zyzeng/kitti_raw_data_LanScale/
 --gt_path /media/staging1/zyzeng/ground_truth/
 --filenames_file data_splits/eigen_train_files_with_gt.txt
---batch_size 3
+--batch_size 6
 --num_epochs 50
 --learning_rate 3e-5
 --end_learning_rate 1e-5

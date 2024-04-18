@@ -1,18 +1,14 @@
 import torch
 import torch.backends.cudnn as cudnn
-
 import os, sys
 import argparse
 import numpy as np
-import math
 from dpt.models import DPTDepthModel
-from utils import compute_errors, combine_repetitive_words, remove_repetitive_words
+from utils import compute_errors, combine_repetitive_words
 from lanscale import LanScaleModel
-from loss import L1Loss, SILogLoss
+from loss import L1Loss
 from tensorboardX import SummaryWriter
-
 from CLIP import clip
-from PIL import Image
 import random
 
 def convert_arg_line_to_args(arg_line):
@@ -22,67 +18,68 @@ def convert_arg_line_to_args(arg_line):
         yield arg
 
 # Do lanagugage description augmentation here
-def get_text(data_path, sample_path, remove_lambda=100, mode="train"):
-    class_list = []
-    for i in range(len(sample_path)): # B=4
-        txt_path=data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
+def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=None):
+    text_list = []
+    for i in range(len(sample_path)):  # B=4
+        txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
         if mode == "train":
-            room_name=""
-            room_name_list=sample_path[i].split(' ')[0].split("_")[:-2]
+            room_name = ""
+            room_name_list = sample_path[i].split(' ')[0].split("_")[:-2]
             for i in range(len(room_name_list)):
-                word=room_name_list[i]
-                if i==0:
-                    room_name=room_name+word[1:]+" "
+                word = room_name_list[i]
+                if i == 0:
+                    room_name = room_name+word[1:]+" "
                 else:
-                    room_name=room_name+word+" "
+                    room_name = room_name+word+" "
         elif mode == "eval":
-            room_name=sample_path[i].split(' ')[0].split("/")[0]+" "
-        else:
-            raise()
+            room_name = sample_path[i].split(' ')[0].split("/")[0]+" "
+
+        if dataset == "kitti":
+            room_name = "outdoor scene "
+            image_area = 1216 * 352
+        if dataset == "nyu":
+            image_area = 480 * 640
         with open(txt_path, 'r') as file:
-            language_description="A "+room_name+"with "
-            object_list=[]
-            area_list=[]
+            language_description = "A "+room_name+"with "
+            object_list = []
+            area_list = []
             for j, line in enumerate(file):
                 if j % 2 == 0:
-                    word=line.strip()
+                    word = line.strip()
                     object_list.append(word)
                 else:
-                    coords=line.split(' ')
-                    area=(float(coords[3])-float(coords[1]))*(float(coords[2])-float(coords[0]))
+                    coords = line.split(' ')
+                    area = (float(coords[3])-float(coords[1]))*(float(coords[2])-float(coords[0]))
                     area_list.append(area)
 
             # remove instance based on prob=lamda/box area
-            assert len(object_list)==len(area_list)
-            if mode=="train":
-                i=0
-                while i<len(object_list):
-                    area_percent = area_list[i]/(480*640)
-                    area_percent*=remove_lambda
+            assert len(object_list) == len(area_list)
+            if mode == "train":
+                i = 0
+                while i < len(object_list):
+                    area_percent = area_list[i]/image_area
+                    area_percent *= remove_lambda
                     # 0->0.5,
                     remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
                     remove_prob = 1 - remove_prob
                     # print(object_list[i], round(remove_prob,4))
-                    if random.random()<remove_prob:
+                    if random.random() < remove_prob:
                         del object_list[i]
                         del area_list[i]
                     else:
-                        i+=1
-
-
+                        i += 1
 
             for word in object_list:
-                language_description+=word
-                language_description+=", "
+                language_description += word
+                language_description += ", "
             language_description = combine_repetitive_words(language_description)
             language_description = language_description.replace("_", " ")
             language_description = language_description[:-1] + "."
             # print(language_description, flush=True)
 
-            class_list.append(language_description)
-
-    return class_list
-
+            text_list.append(language_description)
+    # print(text_list, flush=True)
+    return text_list
 
 
 parser = argparse.ArgumentParser(description='LanScale', fromfile_prefix_chars='@')
@@ -133,8 +130,6 @@ parser.add_argument('--end_learning_rate',         type=float, help='end learnin
 parser.add_argument('--remove_lambda',         type=float, help='remove prob = lambda/box area', default=100)
 
 
-
-
 # Log and save
 parser.add_argument('--model_name',                type=str,   help='model name', default='lanscale')
 parser.add_argument('--log_directory',             type=str,   help='directory to save checkpoints and summaries', default='./models/')
@@ -142,7 +137,6 @@ parser.add_argument('--log_freq',                  type=int,   help='Logging fre
 parser.add_argument('--save_freq_ckpt',                 type=int,   help='Checkpoint saving frequency in global steps', default=10000)
 parser.add_argument('--eval_freq',                  type=int,   help='Eval frequency in global steps', default=500)
 parser.add_argument('--eval_before_train',                  action='store_true')
-
 
 
 if sys.argv.__len__() == 2:
@@ -157,7 +151,7 @@ elif args.dataset == 'kittipred':
     from dataloaders.dataloader_kittipred import NewDataLoader
 
 
-def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False):
+def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False, dataset=None):
     eval_measures = torch.zeros(10).cuda()
     for _, eval_sample_batched in enumerate(dataloader_eval.data):
         with torch.no_grad():
@@ -169,11 +163,11 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 continue
 
             # Forward
-            class_list=get_text(args.data_path_eval, eval_sample_batched['sample_path'],mode="eval")
+            text_list = get_text(args.data_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
 
-            text = clip.tokenize(class_list, truncate=True).to("cuda")
+            text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             with torch.no_grad():
-                text_features = CLIP_model.encode_text(text)
+                text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             # inverse relative depth from DPT to metric predication depth
@@ -235,19 +229,17 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
 
     if args.dataset == 'nyu':
         print("Results for sheets, NYUD2:")
-        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2','d3', 'abs_rel', 'log10', 'rms'))
-        for i in [6,7,8,1,2,3]:
+        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log10', 'rms'))
+        for i in [6, 7, 8, 1, 2, 3]:
             print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
 
     if args.dataset == 'kitti':
         print("Results for sheets, KITTI:")
-        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2','d3', 'abs_rel', 'log_rms', 'rms'))
-        for i in [6,7,8,1,5,3]:
+        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log_rms', 'rms'))
+        for i in [6, 7, 8, 1, 5, 3]:
             print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
 
     return eval_measures_cpu
-
-
 
 
 def main():
@@ -288,12 +280,9 @@ def main():
     CLIP_model.train()
     LanScale_model.cuda()
 
-
-
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
     eval_summary_writer = SummaryWriter(eval_summary_path, flush_secs=30)
-
 
     # Training Setting
     # depth_loss = SILogLoss(SI_loss_lambda=args.SI_loss_lambda, max_depth=args.max_depth_eval, min_depth=args.min_depth_eval)
@@ -305,12 +294,7 @@ def main():
         {'params': CLIP_model.parameters()}
     ], lr=args.learning_rate)
 
-
-
-
-
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
-
 
     best_eval_measures_lower_better = torch.zeros(6).cpu() + 1e3
     best_eval_measures_higher_better = torch.zeros(3).cpu()
@@ -318,8 +302,8 @@ def main():
     steps_per_epoch = len(dataloader.data)
     num_total_steps = args.num_epochs * steps_per_epoch
     epoch = global_step // steps_per_epoch
-    print("Total Steps:",num_total_steps)
-    print("Save Frequency:",args.save_freq_ckpt)
+    print("Total Steps:", num_total_steps)
+    print("Save Frequency:", args.save_freq_ckpt)
     print("Start Training!")
 
     # Eval Before Training
@@ -327,7 +311,7 @@ def main():
         LanScale_model.eval()
         CLIP_model.eval()
         with torch.no_grad():
-            eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False)
+            eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
         LanScale_model.train()
         CLIP_model.train()
 
@@ -345,10 +329,10 @@ def main():
             depth_gt = sample_batched['depth'].cuda()
 
             # Forward
-            class_list=get_text(args.data_path, sample_batched['sample_path'],mode="train",remove_lambda=args.remove_lambda)
-            text = clip.tokenize(class_list, truncate=True).to("cuda")
+            text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
+            text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             with torch.no_grad():
-                text_features = CLIP_model.encode_text(text)
+                text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             if init_flag is True:
@@ -369,19 +353,14 @@ def main():
             torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
-
-            #Change Lr
+            # Change Lr
             for param_group in optimizer.param_groups:
                 current_lr = (args.learning_rate - end_learning_rate) * (1 - global_step / num_total_steps) ** 0.9 + end_learning_rate
                 param_group['lr'] = current_lr
 
-
             # Log
-            if global_step % args.log_freq==0:
+            if global_step % args.log_freq == 0:
                 eval_summary_writer.add_scalar("Train Loss", loss.item()/image.shape[0], int(global_step))
-                # eval_summary_writer.add_scalar("Depth Loss", loss_depth.item(), int(global_step))
-
-
 
             # Save Checkpoitns by frequency, vis pred
             # if (global_step >= args.save_freq_ckpt and global_step % args.save_freq_ckpt ==0) or (global_step==num_total_steps):
@@ -392,13 +371,12 @@ def main():
             #                     'LanScale_model': LanScale_model.state_dict()}
             #     torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
 
-
             if global_step % args.eval_freq == 0:
                 LanScale_model.eval()
                 CLIP_model.eval()
                 with torch.no_grad():
                     print("Starting Evaluation, global step=", flush=True)
-                    eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False)
+                    eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
                 if eval_measures is not None:
                     for i in range(9):
                         eval_summary_writer.add_scalar(eval_metrics[i], eval_measures[i].cpu(), int(global_step))
@@ -424,7 +402,6 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                          #'optimizer': optimizer.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better,
                                           'best_eval_steps': best_eval_steps
@@ -436,19 +413,7 @@ def main():
 
             global_step += 1
 
-
         epoch += 1
-
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
