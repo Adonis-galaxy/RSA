@@ -33,7 +33,7 @@ def remove_repetitive_words(text):
 
 
 
-def combine_repetitive_words(text, remove_prob=0):
+def combine_repetitive_words(text):
     # Split the text into individual words
     words = text.split()
 
@@ -50,11 +50,10 @@ def combine_repetitive_words(text, remove_prob=0):
             if word=="with":
                 init = False
         else:
-            if random.random() > remove_prob:
-                if count > 1:
-                    combined_words.append(f"{count} {word}")
-                else:
-                    combined_words.append(word)
+            if count > 1:
+                combined_words.append(f"{count} {word}")
+            else:
+                combined_words.append(word)
 
     # Join the words back into a single string
     combined_text = ' '.join(combined_words)

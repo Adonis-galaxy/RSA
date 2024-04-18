@@ -4,7 +4,7 @@ import torch.backends.cudnn as cudnn
 import os, sys
 import argparse
 import numpy as np
-
+import math
 from dpt.models import DPTDepthModel
 from utils import compute_errors, combine_repetitive_words, remove_repetitive_words
 from lanscale import LanScaleModel
@@ -13,6 +13,7 @@ from tensorboardX import SummaryWriter
 
 from CLIP import clip
 from PIL import Image
+import random
 
 def convert_arg_line_to_args(arg_line):
     for arg in arg_line.split():
@@ -21,9 +22,7 @@ def convert_arg_line_to_args(arg_line):
         yield arg
 
 # Do lanagugage description augmentation here
-def get_text(data_path, sample_path, mode="train", remove_prob=0):
-    if mode=="eval":
-        remove_prob=0
+def get_text(data_path, sample_path, remove_lambda=100, mode="train"):
     class_list = []
     for i in range(len(sample_path)): # B=4
         txt_path=data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
@@ -42,15 +41,44 @@ def get_text(data_path, sample_path, mode="train", remove_prob=0):
             raise()
         with open(txt_path, 'r') as file:
             language_description="A "+room_name+"with "
+            object_list=[]
+            area_list=[]
             for j, line in enumerate(file):
                 if j % 2 == 0:
                     word=line.strip()
-                    language_description+=word
-                    language_description+=", "
+                    object_list.append(word)
+                else:
+                    coords=line.split(' ')
+                    area=(float(coords[3])-float(coords[1]))*(float(coords[2])-float(coords[0]))
+                    area_list.append(area)
 
-            language_description = combine_repetitive_words(language_description,remove_prob=remove_prob)
+            # remove instance based on prob=lamda/box area
+            assert len(object_list)==len(area_list)
+            if mode=="train":
+                i=0
+                while i<len(object_list):
+                    area_percent = area_list[i]/(480*640)
+                    area_percent*=remove_lambda
+                    # 0->0.5,
+                    remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
+                    remove_prob = 1 - remove_prob
+                    # print(object_list[i], round(remove_prob,4))
+                    if random.random()<remove_prob:
+                        del object_list[i]
+                        del area_list[i]
+                    else:
+                        i+=1
+
+
+
+            for word in object_list:
+                language_description+=word
+                language_description+=", "
+            language_description = combine_repetitive_words(language_description)
             language_description = language_description.replace("_", " ")
             language_description = language_description[:-1] + "."
+            # print(language_description, flush=True)
+
             class_list.append(language_description)
 
     return class_list
@@ -102,7 +130,7 @@ parser.add_argument('--num_threads',               type=int,   help='number of t
 parser.add_argument('--num_epochs',                type=int,   help='number of epochs', default=50)
 parser.add_argument('--learning_rate',             type=float, help='initial learning rate', default=1e-4)
 parser.add_argument('--end_learning_rate',         type=float, help='end learning rate', default=-1)
-parser.add_argument('--remove_prob',         type=float, help='prob to randomly remove some words', default=0)
+parser.add_argument('--remove_lambda',         type=float, help='remove prob = lambda/box area', default=100)
 
 
 
@@ -141,7 +169,7 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 continue
 
             # Forward
-            class_list=get_text(args.data_path_eval, eval_sample_batched['sample_path'],"eval")
+            class_list=get_text(args.data_path_eval, eval_sample_batched['sample_path'],mode="eval")
 
             text = clip.tokenize(class_list, truncate=True).to("cuda")
             with torch.no_grad():
@@ -257,7 +285,8 @@ def main():
     # CLIP Model
     CLIP_model, preprocess = clip.load("RN50", device="cuda")
     # CLIP_model, preprocess = clip.load("ViT-B/32", device="cuda")
-    CLIP_model.eval()
+    CLIP_model.train()
+    LanScale_model.cuda()
 
 
 
@@ -271,8 +300,10 @@ def main():
     depth_loss = L1Loss(max_depth=args.max_depth_eval, min_depth=args.min_depth_eval, normalize=args.normalize)
 
     global_step = 1
-    optimizer = torch.optim.Adam([{'params':LanScale_model.parameters()}],
-                                lr=args.learning_rate)
+    optimizer = torch.optim.Adam([
+        {'params': LanScale_model.parameters()},
+        {'params': CLIP_model.parameters()}
+    ], lr=args.learning_rate)
 
 
 
@@ -294,9 +325,11 @@ def main():
     # Eval Before Training
     if args.eval_before_train:
         LanScale_model.eval()
+        CLIP_model.eval()
         with torch.no_grad():
             eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False)
         LanScale_model.train()
+        CLIP_model.train()
 
     # Training Process
     init_flag = True
@@ -312,7 +345,7 @@ def main():
             depth_gt = sample_batched['depth'].cuda()
 
             # Forward
-            class_list=get_text(args.data_path, sample_batched['sample_path'],"train",remove_prob=args.remove_prob)
+            class_list=get_text(args.data_path, sample_batched['sample_path'],mode="train",remove_lambda=args.remove_lambda)
             text = clip.tokenize(class_list, truncate=True).to("cuda")
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text)
@@ -333,6 +366,7 @@ def main():
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
+            torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
 
@@ -361,6 +395,7 @@ def main():
 
             if global_step % args.eval_freq == 0:
                 LanScale_model.eval()
+                CLIP_model.eval()
                 with torch.no_grad():
                     print("Starting Evaluation, global step=", flush=True)
                     eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False)
@@ -397,6 +432,7 @@ def main():
                             torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
                     eval_summary_writer.flush()
                 LanScale_model.train()
+                CLIP_model.train()
 
             global_step += 1
 

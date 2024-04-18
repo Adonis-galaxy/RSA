@@ -1,6 +1,6 @@
---model_name 0411_nyu_text_aug_number_removeprob_0d5_tmux0
---batch_size 5
---num_threads 5
+--model_name 0416_nyu_remove_lambda_100_tmux3
+--batch_size 6
+--num_threads 2
 --num_epochs 50
 --scale 3e-4
 --shift 0.1378
@@ -15,4 +15,4 @@
 --gt_path_eval /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test
 --filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
 
---remove_prob 0.5
+--remove_lambda 100
