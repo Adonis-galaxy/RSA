@@ -1,5 +1,5 @@
 --mode train
---model_name 0416_kitti_default_init_tmux1
+--model_name 0416_kitti_exp_scale_tmux2
 --dataset kitti
 --data_path /media/staging1/zyzeng/kitti_raw_data_LanScale/
 --gt_path /media/staging1/zyzeng/ground_truth/

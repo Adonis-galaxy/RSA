@@ -60,7 +60,7 @@ class LanScaleModel(nn.Module):
         '''
         scene_feat = self.scene_feat_net(text_feat)
 
-        scale_pred = torch.sigmoid(self.scale_net(scene_feat))
+        scale_pred = torch.exp(self.scale_net(scene_feat))
         shift_pred = torch.exp(self.shift_net(scene_feat))
         # shift_pred = self.shift_net(scene_feat) + 1
 

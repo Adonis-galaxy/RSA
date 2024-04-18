@@ -375,7 +375,8 @@ def main():
                 LanScale_model.eval()
                 CLIP_model.eval()
                 with torch.no_grad():
-                    print("Starting Evaluation, global step=", flush=True)
+                    print("", flush=True)
+                    print("Starting Evaluation, global step=", global_step, flush=True)
                     eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
                 if eval_measures is not None:
                     for i in range(9):
