@@ -10,6 +10,7 @@ from loss import L1Loss, SILogLoss
 from tensorboardX import SummaryWriter
 from CLIP import clip
 import random
+import re
 
 def convert_arg_line_to_args(arg_line):
     for arg in arg_line.split():
@@ -40,7 +41,7 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
         if dataset == "nyu":
             image_area = 480 * 640
         with open(txt_path, 'r') as file:
-            language_description = "A "+room_name+"with "
+            text = "A "+room_name+"with "
             object_list = []
             area_list = []
             for j, line in enumerate(file):
@@ -68,16 +69,31 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
                         del area_list[i]
                     else:
                         i += 1
-            random.shuffle(object_list)  # swap word as augmentation
-            for word in object_list:
-                language_description += word
-                language_description += ", "
-            language_description = combine_repetitive_words(language_description)
-            language_description = language_description.replace("_", " ")
-            language_description = language_description[:-1] + "."
-            # print(language_description, flush=True)
 
-            text_list.append(language_description)
+            # swap word as augmentation
+            length = len(object_list)
+            indices = list(range(length))
+            random.shuffle(indices)
+            object_list = [object_list[i] for i in indices]
+            area_list = [area_list[i] for i in indices]
+
+            for i in range(length):
+                text += object_list[i]
+                # include area percent
+                text += " occupied " + str(round(area_list[i]/image_area*100, 2)) + "% image, "
+
+            # text = combine_repetitive_words(text)
+            text = text.replace("_", " ")
+            text = text[:-2] + "."
+
+            # This handles nested parentheses
+            pattern = r'\([^()]*\) '
+            while re.search(pattern, text):
+                text = re.sub(pattern, '', text)
+
+            # print(text, flush=True)
+
+            text_list.append(text)
     # print(text_list, flush=True)
     return text_list
 
@@ -400,6 +416,7 @@ def main():
                                 os.system(command)
                             best_eval_steps[i] = global_step
                             model_save_name = '/model-{}-best_{}_{:.5f}'.format(global_step, eval_metrics[i], measure)
+                            print("")
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
