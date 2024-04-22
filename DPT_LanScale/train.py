@@ -6,7 +6,7 @@ import numpy as np
 from dpt.models import DPTDepthModel
 from utils import compute_errors, combine_repetitive_words
 from lanscale import LanScaleModel
-from loss import L1Loss
+from loss import L1Loss, SILogLoss
 from tensorboardX import SummaryWriter
 from CLIP import clip
 import random
@@ -68,7 +68,7 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
                         del area_list[i]
                     else:
                         i += 1
-
+            random.shuffle(object_list)  # swap word as augmentation
             for word in object_list:
                 language_description += word
                 language_description += ", "
@@ -285,8 +285,8 @@ def main():
     eval_summary_writer = SummaryWriter(eval_summary_path, flush_secs=30)
 
     # Training Setting
-    # depth_loss = SILogLoss(SI_loss_lambda=args.SI_loss_lambda, max_depth=args.max_depth_eval, min_depth=args.min_depth_eval)
-    depth_loss = L1Loss(max_depth=args.max_depth_eval, min_depth=args.min_depth_eval, normalize=args.normalize)
+    depth_loss = SILogLoss(SI_loss_lambda=args.SI_loss_lambda, max_depth=args.max_depth_eval, min_depth=args.min_depth_eval)
+    # depth_loss = L1Loss(max_depth=args.max_depth_eval, min_depth=args.min_depth_eval, normalize=args.normalize)
 
     global_step = 1
     optimizer = torch.optim.Adam([
