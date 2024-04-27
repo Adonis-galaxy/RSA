@@ -1,4 +1,4 @@
---model_name 0422_nyu_only_percent_tmux1
+--model_name 0425_nyu_ablation_tmux0
 --batch_size 6
 --num_threads 2
 --num_epochs 50
@@ -16,3 +16,5 @@
 --filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
 
 --remove_lambda 100
+--eval_before_train
+--load_ckpt_path /media/home/zyzeng/code/workspace/LanScale/DPT_LanScale/models/model-145000-best_abs_rel_0.09733

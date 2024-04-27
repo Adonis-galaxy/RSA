@@ -68,6 +68,7 @@ parser.add_argument('--save_freq_ckpt',                 type=int,   help='Checkp
 parser.add_argument('--eval_freq',                  type=int,   help='Eval frequency in global steps', default=500)
 parser.add_argument('--eval_before_train',                  action='store_true')
 parser.add_argument('--load_ckpt_path',                type=str,   default=None)
+parser.add_argument('--two_dataset',                action='store_true')
 
 
 if sys.argv.__len__() == 2:
@@ -76,11 +77,7 @@ if sys.argv.__len__() == 2:
 else:
     args = parser.parse_args()
 
-if args.dataset == 'kitti' or args.dataset == 'nyu':
-    from dataloaders.dataloader import NewDataLoader
-elif args.dataset == 'kittipred':
-    from dataloaders.dataloader_kittipred import NewDataLoader
-
+from dataloaders.dataloader import NewDataLoader
 
 def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False, dataset=None):
     eval_measures = torch.zeros(10).cuda()

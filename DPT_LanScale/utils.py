@@ -10,6 +10,92 @@ import math
 import torch
 from collections import Counter
 
+def convert_arg_line_to_args(arg_line):
+    for arg in arg_line.split():
+        if not arg.strip():
+            continue
+        yield arg
+
+# Do lanagugage description augmentation here
+def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=None):
+    text_list = []
+    for i in range(len(sample_path)):  # B=4
+        txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
+        if mode == "train":
+            room_name = ""
+            room_name_list = sample_path[i].split(' ')[0].split("_")[:-2]
+            for i in range(len(room_name_list)):
+                word = room_name_list[i]
+                if i == 0:
+                    room_name = room_name+word[1:]+" "
+                else:
+                    room_name = room_name+word+" "
+        elif mode == "eval":
+            room_name = sample_path[i].split(' ')[0].split("/")[0]+" "
+
+        if dataset == "kitti":
+            room_name = "outdoor scene "
+            image_area = 1216 * 352
+        if dataset == "nyu":
+            image_area = 480 * 640
+        with open(txt_path, 'r') as file:
+            text = "A "+room_name+"with "
+            object_list = []
+            area_list = []
+            for j, line in enumerate(file):
+                if j % 2 == 0:
+                    word = line.strip()
+                    object_list.append(word)
+                else:
+                    coords = line.split(' ')
+                    area = (float(coords[3])-float(coords[1]))*(float(coords[2])-float(coords[0]))
+                    area_list.append(area)
+
+            # remove instance based on prob=lamda/box area
+            assert len(object_list) == len(area_list)
+            if mode == "train":
+                i = 0
+                while i < len(object_list):
+                    area_percent = area_list[i]/image_area
+                    area_percent *= remove_lambda
+                    # 0->0.5,
+                    remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
+                    remove_prob = 1 - remove_prob
+                    # print(object_list[i], round(remove_prob,4))
+                    if random.random() < remove_prob:
+                        del object_list[i]
+                        del area_list[i]
+                    else:
+                        i += 1
+
+            # swap word as augmentation
+            length = len(object_list)
+            indices = list(range(length))
+            random.shuffle(indices)
+            object_list = [object_list[i] for i in indices]
+            area_list = [area_list[i] for i in indices]
+
+            for i in range(length):
+                text += object_list[i]
+                # include area percent
+                text += " occupied " + str(round(area_list[i]/image_area*100, 2)) + "% image, "
+                # text += ", " + str(round(area_list[i]/image_area*100, 2)) + "%; "
+
+            # text = combine_repetitive_words(text)
+            text = text.replace("_", " ")
+            text = text[:-2] + "."
+
+            # This handles nested parentheses
+            pattern = r' \([^()]*\)'
+            while re.search(pattern, text):
+                text = re.sub(pattern, '', text)
+
+            # print(text, flush=True)
+
+            text_list.append(text)
+    # print(text_list, flush=True)
+    return text_list
+
 def remove_repetitive_words(text):
     # Split the text into individual words
     words = text.split()
