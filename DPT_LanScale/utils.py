@@ -9,6 +9,7 @@ import numpy as np
 import math
 import torch
 from collections import Counter
+import re
 
 def convert_arg_line_to_args(arg_line):
     for arg in arg_line.split():

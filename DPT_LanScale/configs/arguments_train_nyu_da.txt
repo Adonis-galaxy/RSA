@@ -1,0 +1,19 @@
+--model_name 0502_depth_anything_minibatch_tmux3
+--batch_size 16
+--num_threads 2
+--num_epochs 50
+--scale 3e-4
+--shift 0.1378
+--learning_rate 1e-4
+--eval_freq 500
+
+--data_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync
+--gt_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync
+--filenames_file ./data_splits/nyudepthv2_train_files_with_gt.txt
+
+--data_path_eval /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test
+--gt_path_eval /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test
+--filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
+
+--remove_lambda 100
+--eval_before_train
