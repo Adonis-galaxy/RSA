@@ -4,7 +4,8 @@
 --num_epochs 50
 --scale 3e-4
 --shift 0.1378
---learning_rate 1e-4
+--learning_rate 3e-5
+--end_learning_rate 1e-5
 --eval_freq 500
 
 --data_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync

@@ -227,8 +227,8 @@ def main():
     eval_summary_writer = SummaryWriter(eval_summary_path, flush_secs=30)
 
     # Training Setting
-    depth_loss = SILogLoss(SI_loss_lambda=args.SI_loss_lambda, max_depth=args.max_depth_eval, min_depth=args.min_depth_eval)
-    # depth_loss = L1Loss(max_depth=args.max_depth_eval, min_depth=args.min_depth_eval, normalize=args.normalize)
+    # depth_loss = SILogLoss(SI_loss_lambda=args.SI_loss_lambda, max_depth=args.max_depth_eval, min_depth=args.min_depth_eval)
+    depth_loss = L1Loss(max_depth=args.max_depth_eval, min_depth=args.min_depth_eval, normalize=args.normalize)
 
     global_step = 1
     optimizer = torch.optim.Adam([
@@ -289,6 +289,7 @@ def main():
                 init_flag = False
                 print("scale:", scale_pred, flush=True)
                 print("shift:", shift_pred, flush=True)
+                print(text_list, flush=True)
             # inverse relative depth from DPT to metric predication depth
             pred_depth = depth_anything(image)
 
@@ -378,6 +379,7 @@ if __name__ == '__main__':
     os.system(command)
     os.system('cp ' + "train.py" + ' ' + args_out_path + "/train.py.backup")
     os.system('cp ' + "lanscale.py" + ' ' + args_out_path + "/lanscale.py.backup")
+    os.system('cp ' + "utils.py" + ' ' + args_out_path + "/utils.py.backup")
     os.system('cp ' + "dpt/models.py" + ' ' + args_out_path + "/dpt_models.py.backup")
 
     main()

@@ -1,10 +1,11 @@
---model_name 0502_depth_anything_minibatch_tmux3
+--model_name 0504_depth_anything_nyu_room_type_tmux2
 --batch_size 16
 --num_threads 2
---num_epochs 50
+--num_epochs 200
 --scale 3e-4
 --shift 0.1378
---learning_rate 1e-4
+--learning_rate 3e-5
+--end_learning_rate 1e-5
 --eval_freq 500
 
 --data_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync

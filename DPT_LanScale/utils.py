@@ -79,7 +79,8 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
             for i in range(length):
                 text += object_list[i]
                 # include area percent
-                text += " occupied " + str(round(area_list[i]/image_area*100, 2)) + "% image, "
+                # text += " occupied " + str(round(area_list[i]/image_area*100, 2)) + "% image, "
+                text +=", "
                 # text += ", " + str(round(area_list[i]/image_area*100, 2)) + "%; "
 
             # text = combine_repetitive_words(text)
