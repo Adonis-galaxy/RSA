@@ -40,7 +40,8 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
         if dataset == "nyu":
             image_area = 480 * 640
         with open(txt_path, 'r') as file:
-            text = "A "+room_name+"with "
+            # text = "A "+room_name+"with "
+            text = "An image with "
             object_list = []
             area_list = []
             for j, line in enumerate(file):

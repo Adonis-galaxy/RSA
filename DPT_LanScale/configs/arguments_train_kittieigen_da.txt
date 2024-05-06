@@ -1,5 +1,5 @@
 --mode train
---model_name 0504_depth_anything_kitti_nofinetune_clip_tmux1
+--model_name 0506_da_kitti_image_no_roomtype_tmux3
 --dataset kitti
 --data_path /media/staging1/zyzeng/kitti_raw_data_LanScale/
 --gt_path /media/staging1/zyzeng/ground_truth/
