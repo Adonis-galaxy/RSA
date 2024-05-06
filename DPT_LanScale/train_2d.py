@@ -311,6 +311,8 @@ def main():
         iterator_kitti = iter(dataloader_kitti.data)
         change_to_nyu(args)
         for step, sample_batched in enumerate(dataloader.data):
+            if step == 7715:
+                break
             change_to_nyu(args)
             optimizer.zero_grad()
             # print("--------New Iter--------", flush=True)
