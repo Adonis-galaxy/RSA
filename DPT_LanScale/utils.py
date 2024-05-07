@@ -72,10 +72,11 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
 
             # swap word as augmentation
             length = len(object_list)
-            indices = list(range(length))
-            random.shuffle(indices)
-            object_list = [object_list[i] for i in indices]
-            area_list = [area_list[i] for i in indices]
+            if mode == "train":
+                indices = list(range(length))
+                random.shuffle(indices)
+                object_list = [object_list[i] for i in indices]
+                area_list = [area_list[i] for i in indices]
 
             for i in range(length):
                 text += object_list[i]
