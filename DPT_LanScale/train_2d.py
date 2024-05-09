@@ -99,6 +99,7 @@ parser.add_argument('--eval_before_train',                  action='store_true')
 parser.add_argument('--load_ckpt_path',                type=str,   default=None)
 parser.add_argument('--two_dataset',                action='store_true')
 
+parser.add_argument('--baseline',               type=str)
 
 if sys.argv.__len__() == 2:
     arg_filename_with_prefix = '@' + sys.argv[1]

@@ -1,14 +1,13 @@
---model_name 0509_2d_da_tmux1
---batch_size 8
+--model_name 0509_nyu_midas_tmux2
+--batch_size 6
 --num_threads 2
---num_epochs 200
+--num_epochs 50
 --scale 3e-4
 --shift 0.1378
 --learning_rate 3e-5
 --end_learning_rate 1e-5
 --eval_freq 500
 
---data_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync
 --data_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync
 --gt_path /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync
 --filenames_file ./data_splits/nyudepthv2_train_files_with_gt.txt
