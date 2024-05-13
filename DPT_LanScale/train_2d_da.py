@@ -141,16 +141,17 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             # print(text_list[0],flush=True)  # Text_Ablation
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            with torch.no_grad():
-                text_features = CLIP_model.encode_text(text_tokens)
-            scale_pred, _ = LanScale_model(text_features.float())
+            text_features = CLIP_model.encode_text(text_tokens)
+            scale_pred, shift_pred = LanScale_model(text_features.float())
             # print("scale=",scale_pred[0].item(),"shift=",shift_pred[0].item(),flush=True)  # Text_Ablation
 
             # inverse relative depth from DPT to metric predication depth
 
             relative_depth = Depth_model(image)
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            pred_depth = scale_pred * relative_depth
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
 
             # Standard Eval
             pred_depth = pred_depth.cpu().numpy().squeeze()
@@ -246,13 +247,12 @@ def main():
     # CLIP Model
     CLIP_model, preprocess = clip.load("RN50", device="cuda")
     # CLIP_model, preprocess = clip.load("ViT-B/32", device="cuda")
-    CLIP_model.train()
+    CLIP_model.eval()
     LanScale_model.cuda()
 
     if args.load_ckpt_path is not None:
         checkpoint = torch.load(args.load_ckpt_path)
         LanScale_model.load_state_dict(checkpoint['model'])
-        # CLIP_model.load_state_dict(checkpoint['CLIP_model'])
 
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
@@ -265,8 +265,7 @@ def main():
 
     global_step = 1
     optimizer = torch.optim.Adam([
-        {'params': LanScale_model.parameters()},
-        {'params': CLIP_model.parameters()}
+        {'params': LanScale_model.parameters()}
     ], lr=args.learning_rate)
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
@@ -289,14 +288,13 @@ def main():
     # Eval Before Training
     if args.eval_before_train:
         LanScale_model.eval()
-        CLIP_model.eval()
         with torch.no_grad():
             change_to_nyu(args)
             eval_measures = eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
             change_to_kitti(args)
             eval_measures = eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
         LanScale_model.train()
-        CLIP_model.train()
+
 
     # Training Process
     change_to_nyu(args)
@@ -324,21 +322,23 @@ def main():
             # Forward
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            with torch.no_grad():
-                text_features = CLIP_model.encode_text(text_tokens)
-            scale_pred, _ = LanScale_model(text_features.float())
+            text_features = CLIP_model.encode_text(text_tokens)
+            scale_pred, shift_pred = LanScale_model(text_features.float())
 
 
             if init_flag is True:
                 init_flag = False
                 print("scale:", scale_pred, flush=True)
+                print("shift:", shift_pred, flush=True)
                 print(text_list)
                 # print("shift:", shift_pred, flush=True)
             # inverse relative depth from DPT to metric predication depth
 
             relative_depth = depth_anything(image)
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            pred_depth = scale_pred * relative_depth
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
             loss = depth_loss(depth_prediction=pred_depth, gts=depth_gt)
             loss.backward()
@@ -361,20 +361,19 @@ def main():
 
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            with torch.no_grad():
-                text_features = CLIP_model.encode_text(text_tokens)
-            scale_pred, _ = LanScale_model(text_features.float())
+            text_features = CLIP_model.encode_text(text_tokens)
+            scale_pred, shift_pred = LanScale_model(text_features.float())
             relative_depth = depth_anything(image)
 
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = scale_pred * relative_depth
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
             loss = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
-            torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
             # Change Lr
@@ -430,7 +429,6 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                          'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_nyu,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_nyu,
                                           'best_eval_steps': best_eval_steps_nyu
@@ -469,7 +467,6 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                          'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_kitti,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_kitti,
                                           'best_eval_steps': best_eval_steps_kitti
@@ -478,7 +475,7 @@ def main():
 
 
                 LanScale_model.train()
-                CLIP_model.train()
+
 
             global_step += 1
 

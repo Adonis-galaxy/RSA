@@ -112,17 +112,18 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text_tokens)
-            scale_pred, _ = LanScale_model(text_features.float())
+            scale_pred, shift_pred = LanScale_model(text_features.float())
 
-            pred_depth = Depth_model(image)
+            relative_depth = Depth_model(image)
             # print("median pred_depth=", round(torch.median(pred_depth).item(), 4))  # Text_Ablation
             # print("mean pred_depth=", round(torch.mean(pred_depth).item(), 4))
             # print("min pred_depth=", round(torch.min(pred_depth).item(), 4))
             # print("max pred_depth=", round(torch.max(pred_depth).item(), 4))
 
-            scale_pred = scale_pred.unsqueeze(2).expand(pred_depth.shape[0], pred_depth.shape[1], pred_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = pred_depth * scale_pred
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
 
             # Standard Eval
             pred_depth = pred_depth.cpu().numpy().squeeze()
@@ -282,19 +283,20 @@ def main():
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text_tokens)
-            scale_pred, _ = LanScale_model(text_features.float())
+            scale_pred, shift_pred = LanScale_model(text_features.float())
 
             if init_flag is True:
                 init_flag = False
                 print("scale:", scale_pred, flush=True)
-                # print("shift:", shift_pred, flush=True)
+                print("shift:", shift_pred, flush=True)
                 print(text_list, flush=True)
             # inverse relative depth from DPT to metric predication depth
-            pred_depth = depth_anything(image)
+            relative_depth = depth_anything(image)
 
-            scale_pred = scale_pred.unsqueeze(2).expand(pred_depth.shape[0], pred_depth.shape[1], pred_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = pred_depth * scale_pred
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
 
             loss = depth_loss(depth_prediction=pred_depth, gts=depth_gt)
@@ -355,7 +357,7 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                          'CLIP_model': CLIP_model.state_dict(),
+                                        #   'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better,
                                           'best_eval_steps': best_eval_steps

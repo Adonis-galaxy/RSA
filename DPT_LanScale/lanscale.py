@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+import math
 
 class LanScaleModel(nn.Module):
     '''
@@ -45,6 +46,14 @@ class LanScaleModel(nn.Module):
         # self.scale_global = nn.Parameter(torch.tensor(default_scale))
         # self.shift_global = nn.Parameter(torch.tensor(default_shift))
 
+        # for linear fit
+        # if dataset == "nyu":
+        #     self.scale_pred = torch.nn.Parameter(torch.tensor(math.log(3.00E-04)), requires_grad=True)
+        #     self.shift_pred = torch.nn.Parameter(torch.tensor(math.log(0.1378)), requires_grad=True)
+        # else:
+        #     self.scale_pred = torch.nn.Parameter(torch.tensor(math.log(6.02E-05)), requires_grad=True)
+        #     self.shift_pred = torch.nn.Parameter(torch.tensor(math.log(5.79E-03)), requires_grad=True)
+
     def forward(self, text_feat):
         '''
         Forwards the inputs through the network
@@ -67,5 +76,5 @@ class LanScaleModel(nn.Module):
         # if self.dataset == "kitti":
         #     scale_pred = scale_pred * 0.000125
         #     shift_pred = shift_pred * 0.005
-
         return scale_pred, shift_pred
+        # return torch.exp(self.scale_pred.repeat(text_feat.shape[0], 1)), torch.exp(self.shift_pred.repeat(text_feat.shape[0], 1))

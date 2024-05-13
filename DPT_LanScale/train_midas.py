@@ -103,6 +103,13 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             with torch.no_grad():
                 text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
+
+            # if dataset == "kitti":
+            #     scale_pred[0] = 3.50E-05
+            #     shift_pred[0] = 5.79E-03
+            # if dataset == "nyu":
+            #     scale_pred[0] = 2.80E-04
+            #     shift_pred[0] = 0.1378
             # print("scale=",scale_pred[0].item(),"shift=",shift_pred[0].item(),flush=True)  # Text_Ablation
 
             # inverse relative depth from DPT to metric predication depth
@@ -187,7 +194,7 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
         print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log_rms', 'rms'))
         for i in [6, 7, 8, 1, 5, 3]:
             print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
-
+    # exit()
     return eval_measures_cpu
 
 
