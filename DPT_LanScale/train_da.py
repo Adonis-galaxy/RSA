@@ -92,12 +92,26 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             image = torch.autograd.Variable(eval_sample_batched['image'].cuda())
             gt_depth = eval_sample_batched['depth']
 
-            if dataset == "nyu":
-                image = image[:, :, 45:479, 43:603]
-                gt_depth = gt_depth[:, 45:479, 43:603, :]
+            image_h, image_w = image.shape[2], image.shape[3]
+            if args.dataset == "nyu":
+                a = 479 - 45
+                b = 603 - 43
             else:
-                image = image[:, :, :350, :1204]
-                gt_depth = gt_depth[:, :350, :1204, :]
+                a = 350
+                b = 1204
+            image = torch.nn.functional.interpolate(
+                image,
+                size=(a, b),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = Depth_model(image)
+            relative_depth = torch.nn.functional.interpolate(
+                relative_depth.unsqueeze(1),
+                size=(image_h, image_w),
+                mode="bicubic",
+                align_corners=False,
+            ).squeeze(1)
 
             has_valid_depth = eval_sample_batched['has_valid_depth']
             if not has_valid_depth:
@@ -114,7 +128,7 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
-            relative_depth = Depth_model(image)
+            # relative_depth = Depth_model(image)
             # print("median pred_depth=", round(torch.median(pred_depth).item(), 4))  # Text_Ablation
             # print("mean pred_depth=", round(torch.mean(pred_depth).item(), 4))
             # print("min pred_depth=", round(torch.min(pred_depth).item(), 4))
@@ -271,12 +285,26 @@ def main():
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
+            image_h, image_w = image.shape[2], image.shape[3]
             if args.dataset == "nyu":
-                image = image[:, :, 45:479, 43:603]
-                depth_gt = depth_gt[:, :, 45:479, 43:603]
+                a = 479 - 45
+                b = 603 - 43
             else:
-                image = image[:, :, :350, :1204]
-                depth_gt = depth_gt[:, :, :350, :1204]
+                a = 350
+                b = 1204
+            image = torch.nn.functional.interpolate(
+                image,
+                size=(a, b),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = depth_anything(image)
+            relative_depth = torch.nn.functional.interpolate(
+                relative_depth.unsqueeze(1),
+                size=(image_h, image_w),
+                mode="bicubic",
+                align_corners=False,
+            ).squeeze(1)
 
             # Forward
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
