@@ -140,8 +140,8 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 args.max_depth_eval = 80
                 data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
             text_list = get_text(data_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
-            print("\n"+eval_sample_batched['sample_path'][0].split(" ")[0],flush=True)  # Text_Ablation
-            print(text_list[0],flush=True)  # Text_Ablation
+            # print("\n"+eval_sample_batched['sample_path'][0].split(" ")[0],flush=True)  # Text_Ablation
+            # print(text_list[0],flush=True)  # Text_Ablation
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
@@ -156,10 +156,10 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             #     shift_fit = 0.006198
             #     scale_pred[0] = 0.009503680981595092
                 # shift_pred[0] = 0.006197699386503067
-            vis_scale = round(scale_pred[0].item(),4)
-            vis_shift = round(shift_pred[0].item(),4)
-            print("scale=",vis_scale,flush=True)  # Text_Ablation
-            print("shift=",vis_shift,flush=True)
+            # vis_scale = round(scale_pred[0].item(),4)
+            # vis_shift = round(shift_pred[0].item(),4)
+            # print("scale=",vis_scale,flush=True)  # Text_Ablation
+            # print("shift=",vis_shift,flush=True)
 
 
 
@@ -208,10 +208,10 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
         pred_depth[np.isinf(pred_depth)] = args.max_depth_eval
         pred_depth[np.isnan(pred_depth)] = args.min_depth_eval
 
-        valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
-        vis_median_gt = round(np.median(gt_depth[valid_mask]).item(),4)
-        print("median_gt=", vis_median_gt,flush=True)  # Text_Ablation
-        print("median_pred=", round(np.median(pred_depth[valid_mask]).item(),4),flush=True)
+        # valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
+        # vis_median_gt = round(np.median(gt_depth[valid_mask]).item(),4)
+        # print("median_gt=", vis_median_gt,flush=True)  # Text_Ablation
+        # print("median_pred=", round(np.median(pred_depth[valid_mask]).item(),4),flush=True)
         # x.append(vis_median_gt)
         # s.append(vis_shift)
         # y.append(vis_scale)
@@ -557,7 +557,7 @@ def main():
                             print("")
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
-                                          'model': LanScale_model.state_dict(),
+                                        #   'model': LanScale_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_kitti,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_kitti,
                                           'best_eval_steps': best_eval_steps_kitti

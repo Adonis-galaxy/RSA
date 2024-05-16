@@ -250,7 +250,7 @@ def main():
     # CLIP Model
     CLIP_model, preprocess = clip.load("RN50", device="cuda")
     # CLIP_model, preprocess = clip.load("ViT-B/32", device="cuda")
-    CLIP_model.train()
+    CLIP_model.eval()
     LanScale_model.cuda()
 
     if args.load_ckpt_path is not None:
@@ -269,8 +269,8 @@ def main():
 
     global_step = 1
     optimizer = torch.optim.Adam([
-        {'params': LanScale_model.parameters()},
-        {'params': CLIP_model.parameters()}
+        {'params': LanScale_model.parameters()}
+        # {'params': CLIP_model.parameters()}
     ], lr=args.learning_rate)
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
@@ -293,14 +293,14 @@ def main():
     # Eval Before Training
     if args.eval_before_train:
         LanScale_model.eval()
-        CLIP_model.eval()
+        # CLIP_model.eval()
         with torch.no_grad():
             change_to_nyu(args)
             eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
             change_to_kitti(args)
             eval_measures = eval(LanScale_model, DPT_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
         LanScale_model.train()
-        CLIP_model.train()
+        # CLIP_model.train()
 
     # Training Process
     change_to_nyu(args)
@@ -362,7 +362,7 @@ def main():
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
-            torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
+            # torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
             # Change Lr
@@ -385,7 +385,7 @@ def main():
 
             if global_step % args.eval_freq == 0:
                 LanScale_model.eval()
-                CLIP_model.eval()
+                # CLIP_model.eval()
 
                 change_to_nyu(args)
                 with torch.no_grad():
@@ -418,7 +418,7 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                          'CLIP_model': CLIP_model.state_dict(),
+                                        #   'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_nyu,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_nyu,
                                           'best_eval_steps': best_eval_steps_nyu
@@ -457,7 +457,7 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                          'CLIP_model': CLIP_model.state_dict(),
+                                        #   'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_kitti,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_kitti,
                                           'best_eval_steps': best_eval_steps_kitti
@@ -466,7 +466,7 @@ def main():
 
 
                 LanScale_model.train()
-                CLIP_model.train()
+                # CLIP_model.train()
 
             global_step += 1
 
