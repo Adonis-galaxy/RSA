@@ -1,4 +1,4 @@
---model_name 0514_2d_da_resize_tmux2
+--model_name 0514_2d_da_resize_tmux3
 --batch_size 8
 --num_threads 2
 --num_epochs 200
