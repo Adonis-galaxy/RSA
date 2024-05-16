@@ -9,7 +9,7 @@ vim  ~/.bash_profile
 ```
 Insert the following line to vim:
 ```
-alias lanscale="export CUDA_HOME=/usr/local/cuda-11.1 && source ~/venvs/wordepth/bin/activate"
+alias lanscale="export CUDA_HOME=/usr/local/cuda-11.1 && source ~/venvs/lanscale/bin/activate"
 ```
 Then activate it, install all packages:
 ```
