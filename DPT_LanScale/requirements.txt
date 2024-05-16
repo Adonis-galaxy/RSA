@@ -149,3 +149,4 @@ websockets==11.0.3
 werkzeug==3.0.1
 yacs==0.1.8
 zipp==3.17.0
+timm==0.6.12
