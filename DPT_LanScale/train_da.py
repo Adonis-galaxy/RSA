@@ -246,8 +246,7 @@ def main():
 
     global_step = 1
     optimizer = torch.optim.Adam([
-        {'params': LanScale_model.parameters()},
-        {'params': CLIP_model.parameters()}
+        {'params': LanScale_model.parameters()}
     ], lr=args.learning_rate)
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
@@ -319,7 +318,7 @@ def main():
                 print("shift:", shift_pred, flush=True)
                 print(text_list, flush=True)
             # inverse relative depth from DPT to metric predication depth
-            relative_depth = depth_anything(image)
+            # relative_depth = depth_anything(image)
 
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
@@ -331,7 +330,7 @@ def main():
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
-            torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
+            # torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
             # Change Lr

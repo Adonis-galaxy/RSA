@@ -82,11 +82,12 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
                 text += object_list[i]
                 # include area percent
                 text += " occupied " + str(round(area_list[i]/image_area*100, 2)) + "% image, "
-                # text += ", "
+                # text += ", "  # for combine words
                 # text += ", " + str(round(area_list[i]/image_area*100, 2)) + "%; "
 
-            # text = combine_repetitive_words(text)
+            # text = combine_repetitive_words(text)  # for combine words
             text = text.replace("_", " ")
+            # text = text[:-1] + "."  # for combine words
             text = text[:-2] + "."
 
             # This handles nested parentheses
