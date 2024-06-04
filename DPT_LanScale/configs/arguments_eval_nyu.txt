@@ -1,2 +1,0 @@
---checkpoint_path /media/home/zyzeng/code/LanScale/DPT_LanScale/models/0221_lanscale_baseline_tmux0/model_150000
-
