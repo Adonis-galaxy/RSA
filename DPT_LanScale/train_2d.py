@@ -13,6 +13,8 @@ import random
 import re
 import matplotlib.pyplot as plt
 from depth_anything.dpt import DepthAnything
+from midas.model_loader import default_models, load_model
+from dpt.models import DPTDepthModel
 
 def change_to_kitti(args):
     args.dataset = "kitti"
@@ -47,10 +49,6 @@ parser = argparse.ArgumentParser(description='LanScale', fromfile_prefix_chars='
 parser.convert_arg_line_to_args = convert_arg_line_to_args
 
 # LanScale
-parser.add_argument("--SI_loss_lambda", type=float, default=0.85)
-parser.add_argument("--scale", type=float, default=0.000305)
-parser.add_argument("--shift", type=float, default=0.1378)
-parser.add_argument('--dpt_model_path', type=str, default='weights/dpt_hybrid_nyu-2ce69ec7.pt')
 parser.add_argument('--normalize', help='use normalize l1 loss', action='store_true')
 
 # Dataset
@@ -65,6 +63,7 @@ parser.add_argument('--do_kb_crop',                            help='if set, cro
 parser.add_argument('--use_right',                             help='if set, will randomly use right images when train on KITTI', action='store_true')
 
 # Data
+parser.add_argument('--distributed',                           help='Multiple GPU?', action='store_true', default=False)
 parser.add_argument('--data_path_eval',            type=str,   help='path to the data for evaluation', required=True)
 parser.add_argument('--gt_path_eval',              type=str,   help='path to the groundtruth data for evaluation', required=True)
 parser.add_argument('--filenames_file_eval',       type=str,   help='path to the filenames text file for evaluation', required=True)
@@ -111,7 +110,7 @@ else:
 
 from dataloaders.dataloader import NewDataLoader
 
-def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False, dataset=None):
+def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=False, dataset=None):
     eval_measures = torch.zeros(10).cuda()
 
     for step, eval_sample_batched in enumerate(dataloader_eval.data):
@@ -158,7 +157,7 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 mode="bicubic",
                 align_corners=False,
             )
-            relative_depth = depth_model_nyu(image) # predict relative depth
+            relative_depth = depth_model(image) # predict relative depth
             if args.depth_model == "da" or args.depth_model == "midas":
                 relative_depth = torch.nn.functional.interpolate(
                     relative_depth.unsqueeze(1),
@@ -188,6 +187,8 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
         pred_depth[pred_depth > args.max_depth_eval] = args.max_depth_eval
         pred_depth[np.isinf(pred_depth)] = args.max_depth_eval
         pred_depth[np.isnan(pred_depth)] = args.min_depth_eval
+
+        valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
 
         if dataset == "kitti":
             gt_height, gt_width = gt_depth.shape
@@ -246,12 +247,12 @@ def main():
         depth_model = DepthAnything.from_pretrained('LiheYoung/depth_anything_{:}14'.format(encoder)).to("cuda").eval()
         depth_model.eval()
         depth_model.cuda()
-        depth_model_nyu = dpeth_model
-        dpeth_model_kitti = depth_model
+        depth_model_nyu = depth_model
+        depth_model_kitti = depth_model
     if args.depth_model == "dpt":
         # DPT Model
         depth_model_nyu = DPTDepthModel(
-            path=args.dpt_model_path,
+            path="weights/dpt_hybrid_nyu-2ce69ec7.pt",
             invert=True,
             backbone="vitb_rn50_384",
             non_negative=True,
@@ -259,7 +260,7 @@ def main():
         )
         depth_model_nyu.eval()
         depth_model_nyu.cuda()
-        dpeth_model_kitti = DPTDepthModel(
+        depth_model_kitti = DPTDepthModel(
             path="weights/dpt_hybrid_kitti-cb926ef4.pt",
             invert=True,
             backbone="vitb_rn50_384",
@@ -275,8 +276,8 @@ def main():
         depth_model, transform, net_w, net_h = load_model(device, model_path, model_type, optimize=False, height=None, square=False)
         depth_model.eval()
         depth_model.cuda()
-        depth_model_nyu = dpeth_model
-        dpeth_model_kitti = depth_model
+        depth_model_nyu = depth_model
+        depth_model_kitti = depth_model
 
     change_to_nyu(args)
     print("== DPT Model Initialized")
@@ -338,7 +339,7 @@ def main():
         with torch.no_grad():
             # NYU Eval
             change_to_nyu(args)
-            eval_measures = eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
+            eval_measures = eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
 
             # KITTI Eval
             change_to_kitti(args)
@@ -350,6 +351,8 @@ def main():
     change_to_nyu(args)
     init_flag = True
     while epoch < args.num_epochs:
+        if args.distributed:
+            dataloader.train_sampler.set_epoch(epoch)
         change_to_kitti(args)
         iterator_kitti = iter(dataloader_kitti.data)
         change_to_nyu(args)

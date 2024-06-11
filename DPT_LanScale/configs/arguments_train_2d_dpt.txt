@@ -1,9 +1,7 @@
---model_name 0507_2d_midas_tmux0
+--model_name 0611_2d_dpt_tmux2
 --batch_size 3
 --num_threads 2
 --num_epochs 200
---scale 3e-4
---shift 0.1378
 --learning_rate 3e-5
 --end_learning_rate 1e-5
 --eval_freq 500
@@ -18,4 +16,4 @@
 --filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
 
 --remove_lambda 100
---baseline midas
+--depth_mode dpt
