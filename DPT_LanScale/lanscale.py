@@ -10,10 +10,8 @@ class LanScaleModel(nn.Module):
         text_feat_dim: int
             dimension of input CLIP text feature
     '''
-    def __init__(self, text_feat_dim=1024, default_scale=0.000305, default_shift=0.1378, dataset=None):
+    def __init__(self, text_feat_dim=1024):
         super().__init__()
-        self.default_scale = default_scale
-        self.default_shift = default_shift
         self.scene_feat_net = nn.Sequential(
             nn.Linear(text_feat_dim, 512),
             nn.LeakyReLU(),
@@ -37,22 +35,6 @@ class LanScaleModel(nn.Module):
             nn.LeakyReLU(),
             nn.Linear(64, 1)
         )
-        self.dataset = dataset
-        # nn.init.zeros_(self.shift_net[-1].weight)
-        # nn.init.zeros_(self.shift_net[-1].bias)
-        # nn.init.zeros_(self.scale_net[-1].weight)
-        # nn.init.zeros_(self.scale_net[-1].bias)
-
-        # self.scale_global = nn.Parameter(torch.tensor(default_scale))
-        # self.shift_global = nn.Parameter(torch.tensor(default_shift))
-
-        # for linear fit
-        # if dataset == "nyu":
-        #     self.scale_pred = torch.nn.Parameter(torch.tensor(math.log(3.00E-04)), requires_grad=True)
-        #     self.shift_pred = torch.nn.Parameter(torch.tensor(math.log(0.1378)), requires_grad=True)
-        # else:
-        #     self.scale_pred = torch.nn.Parameter(torch.tensor(math.log(6.02E-05)), requires_grad=True)
-        #     self.shift_pred = torch.nn.Parameter(torch.tensor(math.log(5.79E-03)), requires_grad=True)
 
     def forward(self, text_feat):
         '''
@@ -71,10 +53,5 @@ class LanScaleModel(nn.Module):
 
         scale_pred = torch.exp(self.scale_net(scene_feat))
         shift_pred = torch.exp(self.shift_net(scene_feat))
-        # shift_pred = self.shift_net(scene_feat) + 1
 
-        # if self.dataset == "kitti":
-        #     scale_pred = scale_pred * 0.000125
-        #     shift_pred = shift_pred * 0.005
         return scale_pred, shift_pred
-        # return torch.exp(self.scale_pred.repeat(text_feat.shape[0], 1)), torch.exp(self.shift_pred.repeat(text_feat.shape[0], 1))

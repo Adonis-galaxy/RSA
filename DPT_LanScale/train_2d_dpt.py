@@ -11,8 +11,6 @@ from tensorboardX import SummaryWriter
 from CLIP import clip
 import random
 import re
-import matplotlib.pyplot as plt
-from depth_anything.dpt import DepthAnything
 
 def change_to_kitti(args):
     args.dataset = "kitti"
@@ -101,6 +99,7 @@ parser.add_argument('--eval_before_train',                  action='store_true')
 parser.add_argument('--load_ckpt_path',                type=str,   default=None)
 parser.add_argument('--two_dataset',                action='store_true')
 
+parser.add_argument('--baseline',               type=str)
 
 if sys.argv.__len__() == 2:
     arg_filename_with_prefix = '@' + sys.argv[1]
@@ -112,21 +111,10 @@ from dataloaders.dataloader import NewDataLoader
 
 def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False, dataset=None):
     eval_measures = torch.zeros(10).cuda()
-    # x=[]
-    # s=[]
-    # y=[]
-    for step, eval_sample_batched in enumerate(dataloader_eval.data):
+    for _, eval_sample_batched in enumerate(dataloader_eval.data):
         with torch.no_grad():
             image = torch.autograd.Variable(eval_sample_batched['image'].cuda())
             gt_depth = eval_sample_batched['depth']
-
-            # if args.dataset == "nyu":
-            #     image = image[:, :, 45:479, 43:603]
-            #     gt_depth = gt_depth[:, 45:479, 43:603, :]
-            # else:
-            #     image = image[:, :, :350, :1204]
-            #     gt_depth = gt_depth[:, :350, :1204, :]
-
             has_valid_depth = eval_sample_batched['has_valid_depth']
             if not has_valid_depth:
                 print('Invalid depth. continue.')
@@ -140,56 +128,21 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 args.max_depth_eval = 80
                 data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
             text_list = get_text(data_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
-            # print("\n"+eval_sample_batched['sample_path'][0].split(" ")[0],flush=True)  # Text_Ablation
+            # print(eval_sample_batched['sample_path'][0].split(" ")[0],flush=True)  # Text_Ablation
             # print(text_list[0],flush=True)  # Text_Ablation
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            with torch.no_grad():
+                text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            # if dataset == "nyu":
-            #     scale_fit = 0.03269
-            #     shift_fit = 0.2178
-            #     scale_pred[0] = 0.03269418960244648
-            #     shift_pred[0] = 0.2177776758409786
-            # if dataset == "kitti":
-            #     scale_fit = 0.009504
-            #     shift_fit = 0.006198
-            #     scale_pred[0] = 0.009503680981595092
-                # shift_pred[0] = 0.006197699386503067
-            # vis_scale = round(scale_pred[0].item(),4)
-            # vis_shift = round(shift_pred[0].item(),4)
-            # print("scale=",vis_scale,flush=True)  # Text_Ablation
-            # print("shift=",vis_shift,flush=True)
-
-
+            # print("scale=",scale_pred[0].item(),"shift=",shift_pred[0].item(),flush=True)  # Text_Ablation
 
             # inverse relative depth from DPT to metric predication depth
-
-            image_h, image_w = image.shape[2], image.shape[3]
-            if args.dataset == "nyu":
-                a = 479 - 45
-                b = 603 - 43
-            else:
-                a = 350
-                b = 1204
-            image = torch.nn.functional.interpolate(
-                image,
-                size=(a, b),
-                mode="bicubic",
-                align_corners=False,
-            )
-            relative_depth = Depth_model(image)
-            relative_depth = torch.nn.functional.interpolate(
-                relative_depth.unsqueeze(1),
-                size=(image_h, image_w),
-                mode="bicubic",
-                align_corners=False,
-            ).squeeze(1)
-
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+            inv_relative_depth = Depth_model(image)
+            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
+            pred_depth = 1.0 / inv_metric_depth
 
             # Standard Eval
             pred_depth = pred_depth.cpu().numpy().squeeze()
@@ -208,13 +161,7 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
         pred_depth[np.isinf(pred_depth)] = args.max_depth_eval
         pred_depth[np.isnan(pred_depth)] = args.min_depth_eval
 
-        # valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
-        # vis_median_gt = round(np.median(gt_depth[valid_mask]).item(),4)
-        # print("median_gt=", vis_median_gt,flush=True)  # Text_Ablation
-        # print("median_pred=", round(np.median(pred_depth[valid_mask]).item(),4),flush=True)
-        # x.append(vis_median_gt)
-        # s.append(vis_shift)
-        # y.append(vis_scale)
+        valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
 
         if dataset == "kitti":
             gt_height, gt_width = gt_depth.shape
@@ -223,10 +170,7 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
             eval_mask[int(0.40810811 * gt_height):int(0.99189189 * gt_height), int(0.03594771 * gt_width):int(0.96405229 * gt_width)] = 1
 
             valid_mask = np.logical_and(valid_mask, eval_mask)
-        # gt_depth = np.expand_dims(gt_depth, axis=0)
-        # pred_depth = np.expand_dims(pred_depth, axis=0)
-        # print(pred_depth.shape)
-        # print(valid_mask.shape)
+
         measures = compute_errors(gt_depth[valid_mask], pred_depth[valid_mask])
 
         eval_measures[:9] += torch.tensor(measures).cuda()
@@ -269,10 +213,25 @@ def main():
     dataloader_kitti = NewDataLoader(args, 'train')
     dataloader_eval_kitti = NewDataLoader(args, 'online_eval')
 
-    # DA Model
-    encoder = 'vits' # can also be 'vitb' or 'vitl'
-    depth_anything = DepthAnything.from_pretrained('LiheYoung/depth_anything_{:}14'.format(encoder)).to("cuda").eval()
-
+    # DPT Model
+    DPT_model = DPTDepthModel(
+        path=args.dpt_model_path,
+        invert=True,
+        backbone="vitb_rn50_384",
+        non_negative=True,
+        enable_attention_hooks=False,
+    )
+    DPT_model.eval()
+    DPT_model.cuda()
+    DPT_model_kitti = DPTDepthModel(
+        path="weights/dpt_hybrid_kitti-cb926ef4.pt",
+        invert=True,
+        backbone="vitb_rn50_384",
+        non_negative=True,
+        enable_attention_hooks=False,
+    )
+    DPT_model_kitti.eval()
+    DPT_model_kitti.cuda()
 
     change_to_nyu(args)
     print("== DPT Model Initialized")
@@ -297,6 +256,7 @@ def main():
     if args.load_ckpt_path is not None:
         checkpoint = torch.load(args.load_ckpt_path)
         LanScale_model.load_state_dict(checkpoint['model'])
+        # CLIP_model.load_state_dict(checkpoint['CLIP_model'])
 
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
@@ -310,6 +270,7 @@ def main():
     global_step = 1
     optimizer = torch.optim.Adam([
         {'params': LanScale_model.parameters()}
+        # {'params': CLIP_model.parameters()}
     ], lr=args.learning_rate)
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
@@ -332,40 +293,14 @@ def main():
     # Eval Before Training
     if args.eval_before_train:
         LanScale_model.eval()
+        # CLIP_model.eval()
         with torch.no_grad():
             change_to_nyu(args)
-            # eval_measures, x_nyu, y_nyu, s_nyu= eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
-            eval_measures = eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
-
+            eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
             change_to_kitti(args)
-            # eval_measures, x_kitti, y_kitti, s_kitti = eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
-            eval_measures = eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
-            # x = x_nyu + x_kitti
-            # y = y_nyu + y_kitti
-            # print("scale_mean_nyu=",np.mean(y_nyu),flush=True)
-            # print("shift_mean_nyu=",np.mean(s_nyu),flush=True)
-            # print("scale_mean_kitti=",np.mean(y_kitti),flush=True)
-            # print("shift_mean_kitti=",np.mean(s_kitti),flush=True)
-            # # plt
-            # plt.scatter(x, y, s=3)
-            # from matplotlib.ticker import LogLocator
-            # def model(x, a, b):
-            #     return 1/(a * x + b)
-            # # Curve fitting
-            # from scipy.optimize import curve_fit
-            # params, params_covariance = curve_fit(model, x, y)
-            # plt.yscale("log")
-            # plt.xlim(0,20)
-            # plt.ylim(0,0.1)
-            # x = np.linspace(0, 20, 100)
-            # print("a=",params[0])
-            # print("b=",params[1])
-            # plt.plot(x, model(x, params[0], params[1]), color='red')
-            # plt.xlabel('Median value of depth ground truth (m)')
-            # plt.ylabel('Predicted inverse scale')
-            # plt.savefig("2d_scale_ylog_curve_fit_inv_ss.png")
+            eval_measures = eval(LanScale_model, DPT_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
         LanScale_model.train()
-    # exit()
+        # CLIP_model.train()
 
     # Training Process
     change_to_nyu(args)
@@ -377,94 +312,57 @@ def main():
         iterator_kitti = iter(dataloader_kitti.data)
         change_to_nyu(args)
         for step, sample_batched in enumerate(dataloader.data):
+            if step == 7715:
+                break
             change_to_nyu(args)
             optimizer.zero_grad()
             # print("--------New Iter--------", flush=True)
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-            # if args.dataset == "nyu":
-            #     image = image[:, :, 45:479, 43:603]
-            #     depth_gt = depth_gt[:, :, 45:479, 43:603]
-            # else:
-            #     image = image[:, :, :350, :1204]
-            #     depth_gt = depth_gt[:, :, :350, :1204]
-
             # Forward
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            with torch.no_grad():
+                text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-
 
             if init_flag is True:
                 init_flag = False
                 print("scale:", scale_pred, flush=True)
                 print("shift:", shift_pred, flush=True)
-                print(text_list, flush=True)
-                # print("shift:", shift_pred, flush=True)
             # inverse relative depth from DPT to metric predication depth
-
-            image_h, image_w = image.shape[2], image.shape[3]
-            if args.dataset == "nyu":
-                a = 479 - 45
-                b = 603 - 43
-            else:
-                a = 350
-                b = 1204
-            image = torch.nn.functional.interpolate(
-                image,
-                size=(a, b),
-                mode="bicubic",
-                align_corners=False,
-            )
-            relative_depth = depth_anything(image)
-            relative_depth = torch.nn.functional.interpolate(
-                relative_depth.unsqueeze(1),
-                size=(image_h, image_w),
-                mode="bicubic",
-                align_corners=False,
-            ).squeeze(1)
-
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+            inv_relative_depth = DPT_model(image)
+            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
+            pred_depth = 1.0 / inv_metric_depth
             # BP
             loss = depth_loss(depth_prediction=pred_depth, gts=depth_gt)
             loss.backward()
 
             change_to_kitti(args)
             # dataloader_kitti = NewDataLoader(args, 'train')
-            try:
-                sample_batched = next(iterator_kitti)
-            except:
-                break
+
+            sample_batched = next(iterator_kitti)
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
-
-            if args.dataset == "nyu":
-                image = image[:, :, 45:479, 43:603]
-                depth_gt = depth_gt[:, :, 45:479, 43:603]
-            else:
-                image = image[:, :, :350, :1204]
-                depth_gt = depth_gt[:, :, :350, :1204]
-
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            with torch.no_grad():
+                text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            relative_depth = depth_anything(image)
-
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+            inv_relative_depth = DPT_model_kitti(image)
+            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
+            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
+            pred_depth = 1.0 / inv_metric_depth
             # BP
             loss = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
+            # torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
             # Change Lr
@@ -487,13 +385,13 @@ def main():
 
             if global_step % args.eval_freq == 0:
                 LanScale_model.eval()
-                CLIP_model.eval()
+                # CLIP_model.eval()
 
                 change_to_nyu(args)
                 with torch.no_grad():
                     print("", flush=True)
                     print("Starting Evaluation NYU, global step=", global_step, flush=True)
-                    eval_measures= eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
+                    eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
                 if eval_measures is not None:
                     for i in range(9):
                         eval_summary_writer.add_scalar(eval_metrics[i], eval_measures[i].cpu(), int(global_step))
@@ -520,6 +418,7 @@ def main():
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
+                                        #   'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_nyu,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_nyu,
                                           'best_eval_steps': best_eval_steps_nyu
@@ -531,7 +430,7 @@ def main():
                 with torch.no_grad():
                     print("", flush=True)
                     print("Starting Evaluation KITTI, global step=", global_step, flush=True)
-                    eval_measures = eval(LanScale_model, depth_anything, CLIP_model, dataloader_eval_kitti, post_process=False, dataset=args.dataset)
+                    eval_measures = eval(LanScale_model, DPT_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset=args.dataset)
                 if eval_measures is not None:
                     for i in range(9):
                         eval_summary_writer.add_scalar(eval_metrics[i], eval_measures[i].cpu(), int(global_step))
@@ -557,7 +456,8 @@ def main():
                             print("")
                             print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
                             checkpoint = {'global_step': global_step,
-                                        #   'model': LanScale_model.state_dict(),
+                                          'model': LanScale_model.state_dict(),
+                                        #   'CLIP_model': CLIP_model.state_dict(),
                                           'best_eval_measures_higher_better': best_eval_measures_higher_better_kitti,
                                           'best_eval_measures_lower_better': best_eval_measures_lower_better_kitti,
                                           'best_eval_steps': best_eval_steps_kitti
@@ -566,7 +466,7 @@ def main():
 
 
                 LanScale_model.train()
-
+                # CLIP_model.train()
 
             global_step += 1
 

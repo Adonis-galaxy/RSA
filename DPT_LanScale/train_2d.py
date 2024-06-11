@@ -11,6 +11,8 @@ from tensorboardX import SummaryWriter
 from CLIP import clip
 import random
 import re
+import matplotlib.pyplot as plt
+from depth_anything.dpt import DepthAnything
 
 def change_to_kitti(args):
     args.dataset = "kitti"
@@ -75,7 +77,6 @@ parser.add_argument('--min_depth_eval',            type=float, help='minimum dep
 parser.add_argument('--max_depth_eval',            type=float, help='maximum depth for evaluation', default=10)
 parser.add_argument('--eigen_crop',                            help='if set, crops according to Eigen NIPS14', action='store_true', default=True)
 parser.add_argument('--garg_crop',                             help='if set, crops according to Garg  ECCV16', action='store_true')
-parser.add_argument('--distributed',                           help='Multiple GPU?', action='store_true', default=False)
 eval_metrics = ['silog', 'abs_rel', 'log10', 'rms', 'sq_rel', 'log_rms', 'd1', 'd2', 'd3']
 
 # Training
@@ -99,7 +100,8 @@ parser.add_argument('--eval_before_train',                  action='store_true')
 parser.add_argument('--load_ckpt_path',                type=str,   default=None)
 parser.add_argument('--two_dataset',                action='store_true')
 
-parser.add_argument('--baseline',               type=str)
+parser.add_argument('--depth_model',                type=str, required=True)
+
 
 if sys.argv.__len__() == 2:
     arg_filename_with_prefix = '@' + sys.argv[1]
@@ -111,7 +113,8 @@ from dataloaders.dataloader import NewDataLoader
 
 def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=False, dataset=None):
     eval_measures = torch.zeros(10).cuda()
-    for _, eval_sample_batched in enumerate(dataloader_eval.data):
+
+    for step, eval_sample_batched in enumerate(dataloader_eval.data):
         with torch.no_grad():
             image = torch.autograd.Variable(eval_sample_batched['image'].cuda())
             gt_depth = eval_sample_batched['depth']
@@ -128,21 +131,46 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
                 args.max_depth_eval = 80
                 data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
             text_list = get_text(data_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
-            # print(eval_sample_batched['sample_path'][0].split(" ")[0],flush=True)  # Text_Ablation
-            # print(text_list[0],flush=True)  # Text_Ablation
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            with torch.no_grad():
-                text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            # print("scale=",scale_pred[0].item(),"shift=",shift_pred[0].item(),flush=True)  # Text_Ablation
 
-            # inverse relative depth from DPT to metric predication depth
-            inv_relative_depth = Depth_model(image)
-            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
-            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
-            pred_depth = 1.0 / inv_metric_depth
+            # For DA and Midas, do resize for image
+            image_h, image_w = image.shape[2], image.shape[3]
+            if args.depth_model == "da":
+                if args.dataset == "nyu":
+                    a = 479 - 45
+                    b = 603 - 43
+                else:
+                    a = 350
+                    b = 1204
+                image = torch.nn.functional.interpolate(
+                    image,
+                    size=(a, b),
+                    mode="bicubic",
+                    align_corners=False,
+                )
+            if args.depth_model == "midas":
+                image = torch.nn.functional.interpolate(
+                image,
+                size=(384,384),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = depth_model_nyu(image) # predict relative depth
+            if args.depth_model == "da" or args.depth_model == "midas":
+                relative_depth = torch.nn.functional.interpolate(
+                    relative_depth.unsqueeze(1),
+                    size=(image_h, image_w),
+                    mode="bicubic",
+                    align_corners=False,
+                ).squeeze(1)
+
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
 
             # Standard Eval
             pred_depth = pred_depth.cpu().numpy().squeeze()
@@ -160,8 +188,6 @@ def eval(LanScale_model, Depth_model, CLIP_model, dataloader_eval, post_process=
         pred_depth[pred_depth > args.max_depth_eval] = args.max_depth_eval
         pred_depth[np.isinf(pred_depth)] = args.max_depth_eval
         pred_depth[np.isnan(pred_depth)] = args.min_depth_eval
-
-        valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
 
         if dataset == "kitti":
             gt_height, gt_width = gt_depth.shape
@@ -213,35 +239,51 @@ def main():
     dataloader_kitti = NewDataLoader(args, 'train')
     dataloader_eval_kitti = NewDataLoader(args, 'online_eval')
 
-    # DPT Model
-    DPT_model = DPTDepthModel(
-        path=args.dpt_model_path,
-        invert=True,
-        backbone="vitb_rn50_384",
-        non_negative=True,
-        enable_attention_hooks=False,
-    )
-    DPT_model.eval()
-    DPT_model.cuda()
-    DPT_model_kitti = DPTDepthModel(
-        path="weights/dpt_hybrid_kitti-cb926ef4.pt",
-        invert=True,
-        backbone="vitb_rn50_384",
-        non_negative=True,
-        enable_attention_hooks=False,
-    )
-    DPT_model_kitti.eval()
-    DPT_model_kitti.cuda()
+    print("Depth Model:", args.depth_model)
+    if args.depth_model == "da":
+        # DA Model
+        encoder = 'vits' # can also be 'vitb' or 'vitl'
+        depth_model = DepthAnything.from_pretrained('LiheYoung/depth_anything_{:}14'.format(encoder)).to("cuda").eval()
+        depth_model.eval()
+        depth_model.cuda()
+        depth_model_nyu = dpeth_model
+        dpeth_model_kitti = depth_model
+    if args.depth_model == "dpt":
+        # DPT Model
+        depth_model_nyu = DPTDepthModel(
+            path=args.dpt_model_path,
+            invert=True,
+            backbone="vitb_rn50_384",
+            non_negative=True,
+            enable_attention_hooks=False,
+        )
+        depth_model_nyu.eval()
+        depth_model_nyu.cuda()
+        dpeth_model_kitti = DPTDepthModel(
+            path="weights/dpt_hybrid_kitti-cb926ef4.pt",
+            invert=True,
+            backbone="vitb_rn50_384",
+            non_negative=True,
+            enable_attention_hooks=False,
+        )
+        depth_model_kitti.eval()
+        depth_model_kitti.cuda()
+    if args.depth_model == "midas":
+        model_path = "./dpt_swin2_large_384.pt"
+        device = torch.device("cuda")
+        model_type = "dpt_swin2_large_384"
+        depth_model, transform, net_w, net_h = load_model(device, model_path, model_type, optimize=False, height=None, square=False)
+        depth_model.eval()
+        depth_model.cuda()
+        depth_model_nyu = dpeth_model
+        dpeth_model_kitti = depth_model
 
     change_to_nyu(args)
     print("== DPT Model Initialized")
 
     # LanScale Model
     LanScale_model = LanScaleModel(
-        text_feat_dim=1024,
-        default_scale=args.scale,
-        default_shift=args.shift,
-        dataset=args.dataset
+        text_feat_dim=1024
     )
     LanScale_model.train()
     LanScale_model.cuda()
@@ -256,32 +298,31 @@ def main():
     if args.load_ckpt_path is not None:
         checkpoint = torch.load(args.load_ckpt_path)
         LanScale_model.load_state_dict(checkpoint['model'])
-        # CLIP_model.load_state_dict(checkpoint['CLIP_model'])
 
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
     eval_summary_writer = SummaryWriter(eval_summary_path, flush_secs=30)
 
     # Training Setting
-    # depth_loss = SILogLoss(SI_loss_lambda=args.SI_loss_lambda, max_depth=args.max_depth_eval, min_depth=args.min_depth_eval)
-    depth_loss = L1Loss(max_depth=10, min_depth=args.min_depth_eval, normalize=args.normalize)
+    depth_loss_nyu = L1Loss(max_depth=10, min_depth=args.min_depth_eval, normalize=args.normalize)
     depth_loss_kitti = L1Loss(max_depth=80, min_depth=args.min_depth_eval, normalize=args.normalize)
 
     global_step = 1
     optimizer = torch.optim.Adam([
         {'params': LanScale_model.parameters()}
-        # {'params': CLIP_model.parameters()}
     ], lr=args.learning_rate)
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
 
-    best_eval_measures_lower_better_nyu = torch.zeros(6).cpu() + 1e3
-    best_eval_measures_higher_better_nyu = torch.zeros(3).cpu()
-    best_eval_steps_nyu = np.zeros(9, dtype=np.int32)
+    nyu_best_measures = torch.zeros(9).cpu()
+    nyu_best_measures[6] += 1e3
+    nyu_best_measures[7] += 1e3
+    nyu_best_measures[8] += 1e3
 
-    best_eval_measures_lower_better_kitti = torch.zeros(6).cpu() + 1e3
-    best_eval_measures_higher_better_kitti = torch.zeros(3).cpu()
-    best_eval_steps_kitti = np.zeros(9, dtype=np.int32)
+    kitti_best_measures = torch.zeros(9).cpu()
+    kitti_best_measures[6] += 1e3
+    kitti_best_measures[7] += 1e3
+    kitti_best_measures[8] += 1e3
 
     steps_per_epoch = len(dataloader.data)
     num_total_steps = args.num_epochs * steps_per_epoch
@@ -293,76 +334,138 @@ def main():
     # Eval Before Training
     if args.eval_before_train:
         LanScale_model.eval()
-        # CLIP_model.eval()
+
         with torch.no_grad():
+            # NYU Eval
             change_to_nyu(args)
-            eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
+            eval_measures = eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
+
+            # KITTI Eval
             change_to_kitti(args)
-            eval_measures = eval(LanScale_model, DPT_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
+            eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
+
         LanScale_model.train()
-        # CLIP_model.train()
 
     # Training Process
     change_to_nyu(args)
     init_flag = True
     while epoch < args.num_epochs:
-        if args.distributed:
-            dataloader.train_sampler.set_epoch(epoch)
         change_to_kitti(args)
         iterator_kitti = iter(dataloader_kitti.data)
         change_to_nyu(args)
         for step, sample_batched in enumerate(dataloader.data):
-            if step == 7715:
-                break
             change_to_nyu(args)
             optimizer.zero_grad()
             # print("--------New Iter--------", flush=True)
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-            # Forward
+            # Forward, predict scale and shift
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            with torch.no_grad():
-                text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
+
 
             if init_flag is True:
                 init_flag = False
                 print("scale:", scale_pred, flush=True)
                 print("shift:", shift_pred, flush=True)
-            # inverse relative depth from DPT to metric predication depth
-            inv_relative_depth = DPT_model(image)
-            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
-            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
-            pred_depth = 1.0 / inv_metric_depth
+                print(text_list, flush=True)
+
+            # For DA and Midas, do resize for image
+            image_h, image_w = image.shape[2], image.shape[3]
+            if args.depth_model == "da":
+                if args.dataset == "nyu":
+                    a = 479 - 45
+                    b = 603 - 43
+                else:
+                    a = 350
+                    b = 1204
+                image = torch.nn.functional.interpolate(
+                    image,
+                    size=(a, b),
+                    mode="bicubic",
+                    align_corners=False,
+                )
+            if args.depth_model == "midas":
+                image = torch.nn.functional.interpolate(
+                image,
+                size=(384,384),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = depth_model_nyu(image) # predict relative depth
+            if args.depth_model == "da" or args.depth_model == "midas":
+                relative_depth = torch.nn.functional.interpolate(
+                    relative_depth.unsqueeze(1),
+                    size=(image_h, image_w),
+                    mode="bicubic",
+                    align_corners=False,
+                ).squeeze(1)
+
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
-            loss = depth_loss(depth_prediction=pred_depth, gts=depth_gt)
+            loss = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
             loss.backward()
 
+            # Training, KITTI Loop
             change_to_kitti(args)
-            # dataloader_kitti = NewDataLoader(args, 'train')
-
-            sample_batched = next(iterator_kitti)
+            try:
+                sample_batched = next(iterator_kitti)
+            except:
+                break # end of kitti iteration
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
+
             text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            with torch.no_grad():
-                text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
-            inv_relative_depth = DPT_model_kitti(image)
-            scale_pred = scale_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(inv_relative_depth.shape[0], inv_relative_depth.shape[1], inv_relative_depth.shape[2])
-            inv_metric_depth = scale_pred * inv_relative_depth + shift_pred
-            pred_depth = 1.0 / inv_metric_depth
+
+            # For DA and Midas, do resize for image
+            image_h, image_w = image.shape[2], image.shape[3]
+            if args.depth_model == "da":
+                if args.dataset == "nyu":
+                    a = 479 - 45
+                    b = 603 - 43
+                else:
+                    a = 350
+                    b = 1204
+                image = torch.nn.functional.interpolate(
+                    image,
+                    size=(a, b),
+                    mode="bicubic",
+                    align_corners=False,
+                )
+            if args.depth_model == "midas":
+                image = torch.nn.functional.interpolate(
+                image,
+                size=(384,384),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = depth_model_kitti(image) # predict relative depth
+            if args.depth_model == "da" or args.depth_model == "midas":
+                relative_depth = torch.nn.functional.interpolate(
+                    relative_depth.unsqueeze(1),
+                    size=(image_h, image_w),
+                    mode="bicubic",
+                    align_corners=False,
+                ).squeeze(1)
+
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
             loss = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
-            # torch.nn.utils.clip_grad_norm_(CLIP_model.parameters(), 1.0)
             optimizer.step()
 
             # Change Lr
@@ -374,7 +477,7 @@ def main():
             if global_step % args.log_freq == 0:
                 eval_summary_writer.add_scalar("Train Loss", loss.item()/image.shape[0], int(global_step))
 
-            # Save Checkpoitns by frequency, vis pred
+            # Save Checkpoitns by frequency
             # if (global_step >= args.save_freq_ckpt and global_step % args.save_freq_ckpt ==0) or (global_step==num_total_steps):
             #     # Save CKPT
             #     model_save_name = '/model_{}'.format(global_step)
@@ -385,91 +488,58 @@ def main():
 
             if global_step % args.eval_freq == 0:
                 LanScale_model.eval()
-                # CLIP_model.eval()
+                CLIP_model.eval()
 
                 change_to_nyu(args)
                 with torch.no_grad():
                     print("", flush=True)
                     print("Starting Evaluation NYU, global step=", global_step, flush=True)
-                    eval_measures = eval(LanScale_model, DPT_model, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
+                    eval_measures= eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
+                    nyu_eval_measures = eval_measures
                 if eval_measures is not None:
-                    for i in range(9):
-                        eval_summary_writer.add_scalar(eval_metrics[i], eval_measures[i].cpu(), int(global_step))
+                    for i in [1, 2, 3, 6, 7, 8]:
+                        eval_summary_writer.add_scalar("nyu_"+eval_metrics[i], eval_measures[i].cpu(), int(global_step))
                         measure = eval_measures[i]
-                        is_best = False
-                        if i < 6 and measure < best_eval_measures_lower_better_nyu[i]:
-                            old_best = best_eval_measures_lower_better_nyu[i].item()
-                            best_eval_measures_lower_better_nyu[i] = measure.item()
-                            is_best = True
-                        elif i >= 6 and measure > best_eval_measures_higher_better_nyu[i-6]:
-                            old_best = best_eval_measures_higher_better_nyu[i-6].item()
-                            best_eval_measures_higher_better_nyu[i-6] = measure.item()
-                            is_best = True
-                        if is_best:
-                            old_best_step = best_eval_steps_nyu[i]
-                            old_best_name = '/model-nyu-{}-best_{}_{:.5f}'.format(old_best_step, eval_metrics[i], old_best)
-                            model_path = args.log_directory + '/' + args.model_name + old_best_name
-                            if os.path.exists(model_path):
-                                command = 'rm {}'.format(model_path)
-                                os.system(command)
-                            best_eval_steps_nyu[i] = global_step
-                            model_save_name = '/model-nyu-{}-best_{}_{:.5f}'.format(global_step, eval_metrics[i], measure)
-                            print("")
-                            print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
-                            checkpoint = {'global_step': global_step,
-                                          'model': LanScale_model.state_dict(),
-                                        #   'CLIP_model': CLIP_model.state_dict(),
-                                          'best_eval_measures_higher_better': best_eval_measures_higher_better_nyu,
-                                          'best_eval_measures_lower_better': best_eval_measures_lower_better_nyu,
-                                          'best_eval_steps': best_eval_steps_nyu
-                                          }
-                            torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
+                        is_best = 0
+                        if i < 6 and measure <= nyu_best_measures[i]:
+                            is_best += 1
+                        elif i >= 6 and measure >= nyu_best_measures[i]:
+                            is_best += 1
                     eval_summary_writer.flush()
 
                 change_to_kitti(args)
                 with torch.no_grad():
                     print("", flush=True)
                     print("Starting Evaluation KITTI, global step=", global_step, flush=True)
-                    eval_measures = eval(LanScale_model, DPT_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset=args.dataset)
+                    eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset=args.dataset)
+                    kitti_eval_measures = eval_measures
                 if eval_measures is not None:
-                    for i in range(9):
-                        eval_summary_writer.add_scalar(eval_metrics[i], eval_measures[i].cpu(), int(global_step))
+                    for i in [1, 3, 5, 6, 7, 8]:
+                        eval_summary_writer.add_scalar("kitti_"+eval_metrics[i], eval_measures[i].cpu(), int(global_step))
                         measure = eval_measures[i]
-                        is_best = False
-                        if i < 6 and measure < best_eval_measures_lower_better_kitti[i]:
-                            old_best = best_eval_measures_lower_better_kitti[i].item()
-                            best_eval_measures_lower_better_kitti[i] = measure.item()
-                            is_best = True
-                        elif i >= 6 and measure > best_eval_measures_higher_better_kitti[i-6]:
-                            old_best = best_eval_measures_higher_better_kitti[i-6].item()
-                            best_eval_measures_higher_better_kitti[i-6] = measure.item()
-                            is_best = True
-                        if is_best:
-                            old_best_step = best_eval_steps_kitti[i]
-                            old_best_name = '/model-kitti-{}-best_{}_{:.5f}'.format(old_best_step, eval_metrics[i], old_best)
+                        if i < 6 and measure <= kitti_best_measures[i]:
+                            is_best += 1
+                        elif i >= 6 and measure >= kitti_best_measures[i]:
+                            is_best += 1
+                        if is_best >= 6:
+                            kitti_best_measures = kitti_eval_measures[:9]
+                            nyu_best_measures = nyu_eval_measures[:9]
+                            old_best_name = '/model-{}'.format(old_best_step)
                             model_path = args.log_directory + '/' + args.model_name + old_best_name
                             if os.path.exists(model_path):
                                 command = 'rm {}'.format(model_path)
                                 os.system(command)
-                            best_eval_steps_kitti[i] = global_step
-                            model_save_name = '/model-kitti-{}-best_{}_{:.5f}'.format(global_step, eval_metrics[i], measure)
+                            model_save_name = '/model-{}'.format(global_step)
                             print("")
-                            print('New best for {}. Saving model: {}'.format(eval_metrics[i], model_save_name))
+                            print('New best model at step {}. Saving model: {}'.format(global_step, model_save_name))
                             checkpoint = {'global_step': global_step,
                                           'model': LanScale_model.state_dict(),
-                                        #   'CLIP_model': CLIP_model.state_dict(),
-                                          'best_eval_measures_higher_better': best_eval_measures_higher_better_kitti,
-                                          'best_eval_measures_lower_better': best_eval_measures_lower_better_kitti,
-                                          'best_eval_steps': best_eval_steps_kitti
+                                          'best_eval_measures_kitti': kitti_best_measures,
+                                          'best_eval_measures_nyu': nyu_best_measures,
                                           }
                             torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
-
-
                 LanScale_model.train()
-                # CLIP_model.train()
-
             global_step += 1
-
         epoch += 1
 
 
