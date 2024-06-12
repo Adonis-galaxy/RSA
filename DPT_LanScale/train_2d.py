@@ -318,11 +318,10 @@ def main():
     nyu_best_measures = torch.zeros(9).cpu()
     for i in range(6):
         nyu_best_measures[i] += 1e3
-
-
     kitti_best_measures = torch.zeros(9).cpu()
     for i in range(6):
         kitti_best_measures[i] += 1e3
+    old_best_step = 0
 
     steps_per_epoch = len(dataloader.data)
     num_total_steps = args.num_epochs * steps_per_epoch
@@ -527,6 +526,7 @@ def main():
                             kitti_best_measures = kitti_eval_measures[:9]
                             nyu_best_measures = nyu_eval_measures[:9]
                             old_best_name = '/model-{}'.format(old_best_step)
+                            old_best_step = global_step
                             model_path = args.log_directory + '/' + args.model_name + old_best_name
                             if os.path.exists(model_path):
                                 command = 'rm {}'.format(model_path)
@@ -550,8 +550,8 @@ if __name__ == '__main__':
     args_out_path = os.path.join(args.log_directory, args.model_name)
     command = 'cp ' + sys.argv[1] + ' ' + args_out_path
     os.system(command)
-    os.system('cp ' + "train.py" + ' ' + args_out_path + "/train.py.backup")
+    os.system('cp ' + "train_2d.py" + ' ' + args_out_path + "/train_2d.py.backup")
     os.system('cp ' + "lanscale.py" + ' ' + args_out_path + "/lanscale.py.backup")
-    os.system('cp ' + "dpt/models.py" + ' ' + args_out_path + "/dpt_models.py.backup")
-
+    os.system('cp ' + "utils.py" + ' ' + args_out_path + "/utils.py.backup")
+    os.system('cp ' + "loss.py" + ' ' + args_out_path + "/loss.py.backup")
     main()
