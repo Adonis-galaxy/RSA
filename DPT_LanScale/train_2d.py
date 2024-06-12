@@ -316,14 +316,13 @@ def main():
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
 
     nyu_best_measures = torch.zeros(9).cpu()
-    nyu_best_measures[6] += 1e3
-    nyu_best_measures[7] += 1e3
-    nyu_best_measures[8] += 1e3
+    for i in range(6):
+        nyu_best_measures[i] += 1e3
+
 
     kitti_best_measures = torch.zeros(9).cpu()
-    kitti_best_measures[6] += 1e3
-    kitti_best_measures[7] += 1e3
-    kitti_best_measures[8] += 1e3
+    for i in range(6):
+        kitti_best_measures[i] += 1e3
 
     steps_per_epoch = len(dataloader.data)
     num_total_steps = args.num_epochs * steps_per_epoch
@@ -524,7 +523,7 @@ def main():
                             is_best += 1
                         elif i >= 6 and measure >= kitti_best_measures[i]:
                             is_best += 1
-                        if is_best >= 6:
+                        if is_best >= 1:
                             kitti_best_measures = kitti_eval_measures[:9]
                             nyu_best_measures = nyu_eval_measures[:9]
                             old_best_name = '/model-{}'.format(old_best_step)
