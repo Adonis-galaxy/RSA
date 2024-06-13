@@ -6,7 +6,7 @@ import numpy as np
 from dpt.models import DPTDepthModel
 from utils import compute_errors, get_text, convert_arg_line_to_args
 from lanscale import LanScaleModel
-from loss import L1Loss, SILogLoss
+from loss import L1_Loss
 from tensorboardX import SummaryWriter
 from CLIP import clip
 import random

@@ -35,7 +35,7 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
             room_name = sample_path[i].split(' ')[0].split("/")[0]+" "
 
         if dataset == "kitti":
-            room_name = "outdoor scene "
+            # room_name = "outdoor scene "
             image_area = 1216 * 352
         if dataset == "nyu":
             image_area = 480 * 640
