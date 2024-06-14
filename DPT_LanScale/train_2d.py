@@ -6,7 +6,7 @@ import numpy as np
 from dpt.models import DPTDepthModel
 from utils import compute_errors, get_text, convert_arg_line_to_args
 from lanscale import LanScaleModel
-from loss import L1_Loss
+from loss import L1Loss
 from tensorboardX import SummaryWriter
 from CLIP import clip
 import random
@@ -100,6 +100,7 @@ parser.add_argument('--load_ckpt_path',                type=str,   default=None)
 parser.add_argument('--two_dataset',                action='store_true')
 
 parser.add_argument('--depth_model',                type=str, required=True)
+parser.add_argument('--lambda_nyu',                type=float, default = 0.5)
 
 
 if sys.argv.__len__() == 2:
@@ -410,8 +411,8 @@ def main():
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
-            loss = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
-            loss.backward()
+            loss_nyu = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
+            # loss.backward()
 
             # Training, KITTI Loop
             change_to_kitti(args)
@@ -463,10 +464,11 @@ def main():
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
-            loss = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
+            loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
+            loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
             loss.backward()
 
-            torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0)
+            # torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0) # could be a problem
             optimizer.step()
 
             # Change Lr
