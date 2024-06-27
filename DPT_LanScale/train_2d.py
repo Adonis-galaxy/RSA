@@ -246,8 +246,6 @@ def main():
         # DA Model
         encoder = 'vits' # can also be 'vitb' or 'vitl'
         depth_model = DepthAnything.from_pretrained('LiheYoung/depth_anything_{:}14'.format(encoder)).to("cuda").eval()
-        depth_model.eval()
-        depth_model.cuda()
         depth_model_nyu = depth_model
         depth_model_kitti = depth_model
     if args.depth_model == "dpt":
@@ -295,7 +293,6 @@ def main():
     CLIP_model, preprocess = clip.load("RN50", device="cuda")
     # CLIP_model, preprocess = clip.load("ViT-B/32", device="cuda")
     CLIP_model.eval()
-    LanScale_model.cuda()
 
     if args.load_ckpt_path is not None:
         checkpoint = torch.load(args.load_ckpt_path)
@@ -316,6 +313,7 @@ def main():
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
 
+    # init best measures
     nyu_best_measures = torch.zeros(9).cpu()
     for i in range(6):
         nyu_best_measures[i] += 1e3
