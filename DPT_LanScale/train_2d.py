@@ -466,7 +466,7 @@ def main():
             loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
             loss.backward()
 
-            # torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0) # could be a problem
+            torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0) # could be a problem
             optimizer.step()
 
             # Change Lr
