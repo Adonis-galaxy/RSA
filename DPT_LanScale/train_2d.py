@@ -463,7 +463,10 @@ def main():
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
-            loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
+
+            # loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
+            loss = loss_nyu / torch.norm(loss_nyu) + loss_kitti / torch.norm(loss_kitti)
+
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0) # could be a problem
