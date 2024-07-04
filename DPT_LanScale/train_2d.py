@@ -464,8 +464,8 @@ def main():
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
 
-            loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
-            # loss = loss_nyu / torch.norm(loss_nyu) + loss_kitti / torch.norm(loss_kitti)
+            # loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
+            loss = loss_nyu / torch.norm(loss_nyu).detach() + loss_kitti / torch.norm(loss_kitti).detach()
             # loss = loss_nyu + loss_kitti
 
             loss.backward()
