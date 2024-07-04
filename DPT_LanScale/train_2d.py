@@ -460,12 +460,13 @@ def main():
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + 1e-3)
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
 
-            # loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
-            loss = loss_nyu / torch.norm(loss_nyu) + loss_kitti / torch.norm(loss_kitti)
+            loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
+            # loss = loss_nyu / torch.norm(loss_nyu) + loss_kitti / torch.norm(loss_kitti)
+            # loss = loss_nyu + loss_kitti
 
             loss.backward()
 
@@ -525,7 +526,7 @@ def main():
                             is_best += 1
                         elif i >= 6 and measure >= kitti_best_measures[i]:
                             is_best += 1
-                        if is_best >= 1:
+                        if is_best >= 6:
                             kitti_best_measures = kitti_eval_measures[:9]
                             nyu_best_measures = nyu_eval_measures[:9]
                             old_best_name = '/model-{}'.format(old_best_step)
