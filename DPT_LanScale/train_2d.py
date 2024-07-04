@@ -407,7 +407,7 @@ def main():
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + 1e-3)
             # BP
             loss_nyu = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
             # loss.backward()
