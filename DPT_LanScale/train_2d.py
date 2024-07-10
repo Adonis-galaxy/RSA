@@ -19,12 +19,14 @@ from dpt.models import DPTDepthModel
 def change_to_kitti(args):
     args.dataset = "kitti"
     args.data_path = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
+    args.txt_path = "./seg_txt/kitti/train"
     args.gt_path = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file = "data_splits/eigen_train_files_with_gt.txt"
     args.input_height = 352
     args.input_width = 1216
     args.do_kb_crop = True
     args.data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
+    args.txt_path_eval = "./seg_txt/kitti/test"
     args.gt_path_eval = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file_eval = "data_splits/eigen_test_files_with_gt.txt"
     args.max_depth_eval = 80
@@ -33,6 +35,7 @@ def change_to_kitti(args):
 def change_to_nyu(args):
     args.dataset = "nyu"
     args.data_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
+    args.txt_path = "./seg_txt/nyu/train"
     args.gt_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
     args.filenames_file = "data_splits/nyudepthv2_train_files_with_gt.txt"
     args.input_height = 480
@@ -40,8 +43,9 @@ def change_to_nyu(args):
     args.do_kb_crop = False
     args.data_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
     args.gt_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
+    args.txt_path_eval = "./seg_txt/nyu/test"
     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
-    args.max_depth_eval = 80
+    args.max_depth_eval = 10
     args.garg_crop = False
 
 
@@ -68,6 +72,8 @@ parser.add_argument('--data_path_eval',            type=str,   help='path to the
 parser.add_argument('--gt_path_eval',              type=str,   help='path to the groundtruth data for evaluation', required=True)
 parser.add_argument('--filenames_file_eval',       type=str,   help='path to the filenames text file for evaluation', required=True)
 parser.add_argument('--data_path',            type=str,   help='path to the data for training', required=True)
+parser.add_argument('--txt_path',            type=str,   help='path to the text for training')
+parser.add_argument('--txt_path_eval',            type=str,   help='path to the text for training')
 parser.add_argument('--gt_path',              type=str,   help='path to the groundtruth data for training', required=True)
 parser.add_argument('--filenames_file',       type=str,   help='path to the filenames text file for evaluation', required=True)
 
@@ -124,13 +130,7 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
                 continue
 
             # Forward
-            if dataset == "nyu":
-                args.max_depth_eval = 10
-                data_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
-            elif dataset == "kitti":
-                args.max_depth_eval = 80
-                data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-            text_list = get_text(data_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
+            text_list = get_text(args.txt_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
@@ -361,7 +361,7 @@ def main():
             depth_gt = sample_batched['depth'].cuda()
 
             # Forward, predict scale and shift
-            text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
@@ -421,7 +421,7 @@ def main():
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-            text_list = get_text(args.data_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
