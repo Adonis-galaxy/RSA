@@ -1,4 +1,4 @@
-exp_name="0709_2d_da_eps_nyul09_tmux0_con"
+exp_name="0710_2d_da_seg_txt_norm_loss_tmux2"
 
 mkdir models/${exp_name}
-CUDA_VISIBLE_DEVICES=0 python train_2d.py configs/arguments_train_2d_da.txt  2>&1 | tee models/${exp_name}/result.log
+CUDA_VISIBLE_DEVICES=2 python train_2d.py configs/arguments_train_2d_da.txt  2>&1 | tee models/${exp_name}/result.log

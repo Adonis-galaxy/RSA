@@ -16,6 +16,8 @@ from depth_anything.dpt import DepthAnything
 from midas.model_loader import default_models, load_model
 from dpt.models import DPTDepthModel
 
+EPS = 1e-8
+
 def change_to_kitti(args):
     args.dataset = "kitti"
     args.data_path = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
@@ -93,6 +95,7 @@ parser.add_argument('--num_epochs',                type=int,   help='number of e
 parser.add_argument('--learning_rate',             type=float, help='initial learning rate', default=1e-4)
 parser.add_argument('--end_learning_rate',         type=float, help='end learning rate', default=-1)
 parser.add_argument('--remove_lambda',         type=float, help='remove prob = lambda/box area', default=100)
+parser.add_argument('--norm_loss',         action='store_true')
 
 
 # Log and save
@@ -294,9 +297,22 @@ def main():
     # CLIP_model, preprocess = clip.load("ViT-B/32", device="cuda")
     CLIP_model.eval()
 
+    # init best measures
+    nyu_best_measures = torch.zeros(9).cpu()
+    for i in range(6):
+        nyu_best_measures[i] += 1e3
+    kitti_best_measures = torch.zeros(9).cpu()
+    for i in range(6):
+        kitti_best_measures[i] += 1e3
+    old_best_step = 0
+    global_step = 1
+
     if args.load_ckpt_path is not None:
         checkpoint = torch.load(args.load_ckpt_path)
         LanScale_model.load_state_dict(checkpoint['model'])
+        global_step = checkpoint['global_step']
+        kitti_best_measures = checkpoint['best_eval_measures_kitti']
+        nyu_best_measures = checkpoint['best_eval_measures_nyu']
 
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
@@ -306,21 +322,12 @@ def main():
     depth_loss_nyu = L1Loss(max_depth=10, min_depth=args.min_depth_eval, normalize=args.normalize)
     depth_loss_kitti = L1Loss(max_depth=80, min_depth=args.min_depth_eval, normalize=args.normalize)
 
-    global_step = 1
+
     optimizer = torch.optim.Adam([
         {'params': LanScale_model.parameters()}
     ], lr=args.learning_rate)
 
     end_learning_rate = args.end_learning_rate if args.end_learning_rate != -1 else args.learning_rate
-
-    # init best measures
-    nyu_best_measures = torch.zeros(9).cpu()
-    for i in range(6):
-        nyu_best_measures[i] += 1e3
-    kitti_best_measures = torch.zeros(9).cpu()
-    for i in range(6):
-        kitti_best_measures[i] += 1e3
-    old_best_step = 0
 
     steps_per_epoch = len(dataloader.data)
     num_total_steps = args.num_epochs * steps_per_epoch
@@ -407,7 +414,7 @@ def main():
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + 1e-3)
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
             # BP
             loss_nyu = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
             # loss.backward()
@@ -460,12 +467,15 @@ def main():
             scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
-            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + 1e-3)
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
 
-            loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
-            # loss = loss_nyu / (torch.norm(loss_nyu).detach()+1e-3) + loss_kitti / (torch.norm(loss_kitti).detach()+1e-3)
+            if args.norm_loss:
+                loss = loss_nyu / (torch.norm(loss_nyu).detach()+EPS) + loss_kitti / (torch.norm(loss_kitti).detach()+EPS)
+            else:
+                loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
+            #
             # loss = loss_nyu + loss_kitti
 
             loss.backward()
@@ -481,6 +491,8 @@ def main():
             # Log
             if global_step % args.log_freq == 0:
                 eval_summary_writer.add_scalar("Train Loss", loss.item()/image.shape[0], int(global_step))
+                eval_summary_writer.add_scalar("NYU Loss", loss_nyu.item()/image.shape[0], int(global_step))
+                eval_summary_writer.add_scalar("KITTI Loss", loss_kitti.item()/image.shape[0], int(global_step))
 
             # Save Checkpoitns by frequency
             # if (global_step >= args.save_freq_ckpt and global_step % args.save_freq_ckpt ==0) or (global_step==num_total_steps):

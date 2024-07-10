@@ -1,4 +1,4 @@
---model_name 0709_2d_da_eps_nyul09_tmux0_con
+--model_name 0710_2d_da_seg_txt_norm_loss_tmux2
 --batch_size 6
 --num_threads 2
 --num_epochs 200
@@ -18,5 +18,5 @@
 --remove_lambda 100
 
 --depth_mode da
---lambda_nyu 0.9
---load_ckpt_path /media/home/zyzeng/code/workspace/LanScale/DPT_LanScale/models/0704_2d_da_eps_nyul09_tmux0/model-240000
+--lambda_nyu 0.5
+--norm_loss
