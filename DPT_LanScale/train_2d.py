@@ -109,7 +109,7 @@ parser.add_argument('--load_ckpt_path',                type=str,   default=None)
 parser.add_argument('--two_dataset',                action='store_true')
 
 parser.add_argument('--depth_model',                type=str, required=True)
-parser.add_argument('--lambda_nyu',                type=float, default = 0.5)
+parser.add_argument('--lambda_nyu',                type=float, default = 0.6, help="loss ratio should be around 0.5 of kitti, to 0.32 of nyu. ratio should be around 0.6")
 
 
 if sys.argv.__len__() == 2:
