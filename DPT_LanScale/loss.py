@@ -3,14 +3,31 @@ import torch.nn as nn
 import torch.nn.functional as F
 import math
 import numpy as np
+class NormalizedL1Loss(nn.Module):
+    def __init__(self):
+        super(NormalizedL1Loss, self).__init__()
+
+    def forward(self, y_pred, y_true):
+        loss = torch.abs(y_pred - y_true)
+        norm_factor = torch.abs(y_true).mean()
+        normalized_loss = loss / norm_factor
+        return normalized_loss.mean()
 
 class L1Loss(nn.Module):
-    def __init__(self, max_depth=10, min_depth=1e-3, normalize=False):
+    def __init__(self, max_depth=10, min_depth=1e-3, loss_type = "L1"):
         super(L1Loss, self).__init__()
 
         self.max_depth = max_depth
         self.min_depth = min_depth
-        self.normalize = normalize
+        if loss_type == "NormalizedL1":
+            self.loss = NormalizedL1Loss()
+        elif loss_type == "L1":
+            self.loss = torch.nn.L1Loss()
+        elif loss_type == "Huber":
+            self.loss = torch.nn.Huber(reduction='mean', delta=1.0)
+        elif loss_type == "L2":
+            self.loss = torch.nn.MSELoss()
+
 
 
     def forward(self, depth_prediction, gts):
@@ -22,17 +39,12 @@ class L1Loss(nn.Module):
             torch.ones_like(gts),
             torch.zeros_like(gts)
         )
-        
+
         # gts = weight_depth * gts  # remove invalid gt
 
-        if self.normalize:
-            diff = torch.abs(depth_prediction - gts)
-            loss = torch.where(weight_depth == 1, diff / gts, torch.zeros_like(diff))
-            loss = torch.sum(loss, dim=(1, 2, 3)) / torch.sum(weight_depth, dim=(1, 2, 3))
-            loss = torch.mean(loss)
-            return loss
-        else:
-            diff = torch.abs(depth_prediction - gts)
+
+
+        diff = self.loss(depth_prediction, gts)
 
         num_pixels = (gts > self.min_depth) * (gts < self.max_depth)
 

@@ -55,7 +55,7 @@ parser = argparse.ArgumentParser(description='LanScale', fromfile_prefix_chars='
 parser.convert_arg_line_to_args = convert_arg_line_to_args
 
 # LanScale
-parser.add_argument('--normalize', help='use normalize l1 loss', action='store_true')
+parser.add_argument('--loss_type', type=str, default="L1")
 
 # Dataset
 parser.add_argument('--dataset',                   type=str,   help='dataset to train on, kitti or nyu', default='nyu')
@@ -319,8 +319,8 @@ def main():
     eval_summary_writer = SummaryWriter(eval_summary_path, flush_secs=30)
 
     # Training Setting
-    depth_loss_nyu = L1Loss(max_depth=10, min_depth=args.min_depth_eval, normalize=args.normalize)
-    depth_loss_kitti = L1Loss(max_depth=80, min_depth=args.min_depth_eval, normalize=args.normalize)
+    depth_loss_nyu = L1Loss(max_depth=10, min_depth=args.min_depth_eval, loss_type=args.loss_type)
+    depth_loss_kitti = L1Loss(max_depth=80, min_depth=args.min_depth_eval, loss_type=args.loss_type)
 
 
     optimizer = torch.optim.Adam([
