@@ -22,11 +22,11 @@ class L1Loss(nn.Module):
         if loss_type == "NormalizedL1":
             self.loss = NormalizedL1Loss()
         elif loss_type == "L1":
-            self.loss = torch.nn.L1Loss(reduction = 'sum')
+            self.loss = torch.nn.L1Loss(reduction = 'none')
         elif loss_type == "Huber":
-            self.loss = torch.nn.Huber(reduction = 'sum', delta=1.0)
+            self.loss = torch.nn.HuberLoss(reduction = 'none', delta=1.0)
         elif loss_type == "L2":
-            self.loss = torch.nn.MSELoss(reduction = 'sum')
+            self.loss = torch.nn.MSELoss(reduction = 'none')
         else:
             raise()
 

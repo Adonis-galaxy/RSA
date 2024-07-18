@@ -378,7 +378,8 @@ def main():
                 init_flag = False
                 print("scale:", scale_pred, flush=True)
                 print("shift:", shift_pred, flush=True)
-                print(text_list, flush=True)
+                for text in text_list:
+                    print(text, flush=True)
 
             # For DA and Midas, do resize for image
             image_h, image_w = image.shape[2], image.shape[3]

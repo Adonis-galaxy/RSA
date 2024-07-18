@@ -1,5 +1,5 @@
---model_name 0710_2d_midas_seg_txt_norm_loss_tmux3
---batch_size 2
+--model_name 0718_2d_midas_seg_txt_norm_loss_Nl1_tmux0
+--batch_size 3
 --num_threads 2
 --num_epochs 50
 --learning_rate 3e-5
@@ -18,3 +18,5 @@
 --remove_lambda 100
 --depth_mode midas
 --norm_loss
+
+--loss_type NormalizedL1
