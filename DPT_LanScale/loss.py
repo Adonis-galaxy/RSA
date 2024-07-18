@@ -11,7 +11,7 @@ class NormalizedL1Loss(nn.Module):
         loss = torch.abs(y_pred - y_true)
         norm_factor = torch.abs(y_true).mean()
         normalized_loss = loss / norm_factor
-        return normalized_loss.mean()
+        return normalized_loss
 
 class L1Loss(nn.Module):
     def __init__(self, max_depth=10, min_depth=1e-3, loss_type = "L1"):
@@ -22,11 +22,13 @@ class L1Loss(nn.Module):
         if loss_type == "NormalizedL1":
             self.loss = NormalizedL1Loss()
         elif loss_type == "L1":
-            self.loss = torch.nn.L1Loss()
+            self.loss = torch.nn.L1Loss(reduction = 'sum')
         elif loss_type == "Huber":
-            self.loss = torch.nn.Huber(reduction='mean', delta=1.0)
+            self.loss = torch.nn.Huber(reduction = 'sum', delta=1.0)
         elif loss_type == "L2":
-            self.loss = torch.nn.MSELoss()
+            self.loss = torch.nn.MSELoss(reduction = 'sum')
+        else:
+            raise()
 
 
 
