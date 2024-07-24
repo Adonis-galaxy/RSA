@@ -57,21 +57,19 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
                 area_percent_list.append(float(line[line.rfind(" "):]))
 
             # remove instance based on prob=lamda/box area
-            assert len(object_list) == len(area_percent_list)
-            if mode == "train":
-                i = 0
-                while i < len(object_list):
-                    area_percent = area_percent_list[i]
-                    # 0->0.5,
-                    # Remove Objects
-                    # remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
-                    # remove_prob = 1 - remove_prob
-                    # # print(object_list[i], round(remove_prob,4))
-                    # if random.random() < remove_prob:
-                    #     del object_list[i]
-                    #     del area_percent_list[i]
-                    # else:
-                    #     i += 1
+            # assert len(object_list) == len(area_percent_list)
+            # if mode == "train":
+            #     i = 0
+            #     while i < len(object_list):
+            #         area_percent = area_percent_list[i]
+            #         remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
+            #         remove_prob = 1 - remove_prob
+            #         # print(object_list[i], round(remove_prob,4))
+            #         if random.random() < remove_prob:
+            #             del object_list[i]
+            #             del area_percent_list[i]
+            #         else:
+            #             i += 1
 
             # swap word as augmentation
             length = len(object_list)

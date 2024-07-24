@@ -374,7 +374,6 @@ def main():
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
-
             if init_flag is True:
                 # print("scale:", scale_pred, flush=True)
                 # print("shift:", shift_pred, flush=True)
