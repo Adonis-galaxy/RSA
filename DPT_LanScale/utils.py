@@ -18,7 +18,7 @@ def convert_arg_line_to_args(arg_line):
         yield arg
 
 # Do lanagugage description augmentation here
-def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=None):
+def get_text(data_path, sample_path, remove_lambda=100, mode="train", dataset=None, combine_words_no_area = False):
     text_list = []
     for i in range(len(sample_path)):  # B=4
         txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
@@ -84,14 +84,20 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train",dataset=Non
             for i in range(length):
                 text += object_list[i]
                 # include area percent
-                text += " occupied " + str(round(area_percent_list[i]*100, 2)) + "% of image, "
+                if combine_words_no_area is False:
+                    text += " occupied " + str(round(area_percent_list[i]*100, 2)) + "% of image, "
+                else:
+                    text += ", "
                 # text += ", "  # for combine words
                 # text += ", " + str(round(area_list[i]/image_area*100, 2)) + "%; "
-
-            # text = combine_repetitive_words(text)  # for combine words
+            if combine_words_no_area is True:
+                text = combine_repetitive_words(text)  # for combine words
             text = text.replace("_", " ")
-            # text = text[:-1] + "."  # for combine words
-            text = text[:-2] + "."
+
+            if combine_words_no_area is True:
+                text = text[:-1] + "."  # for combine words
+            else:
+                text = text[:-2] + "."
 
             # This handles nested parentheses
             pattern = r' \([^()]*\)'

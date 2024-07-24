@@ -96,6 +96,8 @@ parser.add_argument('--learning_rate',             type=float, help='initial lea
 parser.add_argument('--end_learning_rate',         type=float, help='end learning rate', default=-1)
 parser.add_argument('--remove_lambda',         type=float, help='remove prob = lambda/box area', default=100)
 parser.add_argument('--norm_loss',         action='store_true')
+parser.add_argument('--combine_words_no_area',         action='store_true')
+
 
 
 # Log and save
@@ -133,7 +135,7 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
                 continue
 
             # Forward
-            text_list = get_text(args.txt_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset)
+            text_list = get_text(args.txt_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset, combine_words_no_area = args.combine_words_no_area)
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
@@ -368,7 +370,7 @@ def main():
             depth_gt = sample_batched['depth'].cuda()
 
             # Forward, predict scale and shift
-            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
@@ -429,7 +431,7 @@ def main():
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
