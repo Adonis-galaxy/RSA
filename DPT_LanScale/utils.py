@@ -19,7 +19,7 @@ def convert_arg_line_to_args(arg_line):
         yield arg
 
 # Do lanagugage description augmentation here
-def get_text(data_path, sample_path, remove_lambda=100, mode="train", dataset=None, combine_words_no_area = False):
+def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_no_area = False):
     text_list = []
     for i in range(len(sample_path)):  # B=4
         txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
@@ -61,18 +61,17 @@ def get_text(data_path, sample_path, remove_lambda=100, mode="train", dataset=No
             if mode == "train":
                 i = 0
                 while i < len(object_list):
-                    # area_percent = area_list[i]/image_area
-                    # area_percent *= remove_lambda
                     area_percent = area_percent_list[i]
                     # 0->0.5,
-                    remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
-                    remove_prob = 1 - remove_prob
-                    # print(object_list[i], round(remove_prob,4))
-                    if random.random() < remove_prob:
-                        del object_list[i]
-                        del area_percent_list[i]
-                    else:
-                        i += 1
+                    # Remove Objects
+                    # remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
+                    # remove_prob = 1 - remove_prob
+                    # # print(object_list[i], round(remove_prob,4))
+                    # if random.random() < remove_prob:
+                    #     del object_list[i]
+                    #     del area_percent_list[i]
+                    # else:
+                    #     i += 1
 
             # swap word as augmentation
             length = len(object_list)

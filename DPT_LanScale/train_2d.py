@@ -94,7 +94,6 @@ parser.add_argument('--num_threads',               type=int,   help='number of t
 parser.add_argument('--num_epochs',                type=int,   help='number of epochs', default=50)
 parser.add_argument('--learning_rate',             type=float, help='initial learning rate', default=1e-4)
 parser.add_argument('--end_learning_rate',         type=float, help='end learning rate', default=-1)
-parser.add_argument('--remove_lambda',         type=float, help='remove prob = lambda/box area', default=100)
 parser.add_argument('--norm_loss',         action='store_true')
 parser.add_argument('--combine_words_no_area',         action='store_true')
 
@@ -370,7 +369,7 @@ def main():
             depth_gt = sample_batched['depth'].cuda()
 
             # Forward, predict scale and shift
-            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
@@ -430,7 +429,7 @@ def main():
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", remove_lambda=args.remove_lambda, dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
