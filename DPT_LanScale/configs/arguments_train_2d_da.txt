@@ -15,8 +15,6 @@
 --gt_path_eval /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test
 --filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
 
---remove_lambda 100
-
 --depth_mode da
 --norm_loss
 
