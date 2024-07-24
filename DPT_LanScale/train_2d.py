@@ -377,9 +377,8 @@ def main():
 
 
             if init_flag is True:
-                init_flag = False
-                print("scale:", scale_pred, flush=True)
-                print("shift:", shift_pred, flush=True)
+                # print("scale:", scale_pred, flush=True)
+                # print("shift:", shift_pred, flush=True)
                 for text in text_list:
                     print(text, flush=True)
 
@@ -435,6 +434,13 @@ def main():
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
+
+            if init_flag is True:
+                init_flag = False
+                # print("scale:", scale_pred, flush=True)
+                # print("shift:", shift_pred, flush=True)
+                for text in text_list:
+                    print(text, flush=True)
 
             # For DA and Midas, do resize for image
             image_h, image_w = image.shape[2], image.shape[3]

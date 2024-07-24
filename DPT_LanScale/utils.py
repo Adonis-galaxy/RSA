@@ -10,6 +10,7 @@ import math
 import torch
 from collections import Counter
 import re
+import inflect
 
 def convert_arg_line_to_args(arg_line):
     for arg in arg_line.split():
@@ -134,6 +135,7 @@ def remove_repetitive_words(text):
 
 
 def combine_repetitive_words(text):
+    p = inflect.engine()
     # Split the text into individual words
     words = text.split()
 
@@ -151,7 +153,8 @@ def combine_repetitive_words(text):
                 init = False
         else:
             if count > 1:
-                combined_words.append(f"{count} {word}")
+                plural_word = p.plural(word[:-1])
+                combined_words.append(f"{count} {plural_word},")
             else:
                 combined_words.append(word)
 
