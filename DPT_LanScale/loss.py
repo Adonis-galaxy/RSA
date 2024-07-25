@@ -9,8 +9,10 @@ class NormalizedL1Loss(nn.Module):
 
     def forward(self, y_pred, y_true):
         loss = torch.abs(y_pred - y_true)
-        norm_factor = torch.abs(y_true).mean()
-        normalized_loss = loss / norm_factor
+        # norm_factor = torch.abs(y_true)
+        norm_factor = torch.exp(- torch.abs(y_pred - y_true) / torch.abs(y_true)) # try different kinds of decay, exp, sigmoid, might do a warmup using NL1 first
+        normalized_loss = loss * norm_factor
+        # normalized_loss = loss / norm_factor
         return normalized_loss
 
 class L1Loss(nn.Module):
