@@ -1,4 +1,4 @@
---model_name 0612_2d_dpt_tmux2
+--model_name 0731_2d_dpt_car_scale_01_001_tmux3
 --batch_size 3
 --num_threads 2
 --num_epochs 50
@@ -15,5 +15,11 @@
 --gt_path_eval /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test
 --filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
 
---remove_lambda 100
 --depth_mode dpt
+--norm_loss
+
+--loss_type Huber
+--combine_words_no_area
+
+--close_car_percent 0.01
+--far_car_percent 0.001

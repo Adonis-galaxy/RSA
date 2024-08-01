@@ -19,7 +19,7 @@ def convert_arg_line_to_args(arg_line):
         yield arg
 
 # Do lanagugage description augmentation here
-def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_no_area = False):
+def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_no_area = False, close_car_percent=0.01, far_car_percent=0.001):
     text_list = []
     for i in range(len(sample_path)):  # B=4
         txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
@@ -80,6 +80,14 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
                 area_percent_list = [area_percent_list[i] for i in indices]
 
             for i in range(length):
+                # add object scale
+                if object_list[i] == "car":
+                    if area_percent_list[i] > close_car_percent:
+                        object_list[i] = "close car"
+                    if area_percent_list[i] < far_car_percent:
+                        object_list[i] = "far car"
+
+
                 text += object_list[i]
                 # include area percent
                 if combine_words_no_area is False:
@@ -139,7 +147,6 @@ def combine_repetitive_words(text):
     words[0]=words[0][14:]
     words.insert(0, buffer)
     words=words[:-1]
-    print(words, flush=True)
 
     # Count the occurrences of each word
     word_counts = Counter(words)

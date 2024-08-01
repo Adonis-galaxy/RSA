@@ -97,7 +97,8 @@ parser.add_argument('--end_learning_rate',         type=float, help='end learnin
 parser.add_argument('--norm_loss',         action='store_true')
 parser.add_argument('--combine_words_no_area',         action='store_true')
 
-
+parser.add_argument('--close_car_percent',         type=float,    default=0.01)
+parser.add_argument('--far_car_percent',         type=float,    default=0.001)
 
 # Log and save
 parser.add_argument('--model_name',                type=str,   help='model name', default='lanscale')
@@ -134,7 +135,8 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
                 continue
 
             # Forward
-            text_list = get_text(args.txt_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset, combine_words_no_area = args.combine_words_no_area)
+            text_list = get_text(args.txt_path_eval, eval_sample_batched['sample_path'], mode="eval", dataset=dataset, \
+                combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
@@ -369,7 +371,8 @@ def main():
             depth_gt = sample_batched['depth'].cuda()
 
             # Forward, predict scale and shift
-            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, \
+                combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
@@ -428,10 +431,12 @@ def main():
             image = sample_batched['image'].cuda()  # torch.Size([B, 3, 480, 640])
             depth_gt = sample_batched['depth'].cuda()
 
-            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, combine_words_no_area = args.combine_words_no_area)
+            text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, \
+                combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
+
 
             if init_flag is True:
                 init_flag = False
