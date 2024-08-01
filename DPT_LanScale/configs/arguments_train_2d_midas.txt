@@ -1,4 +1,4 @@
---model_name 0724_2d_midas_panoptic_seg_txt_Huber_NumberOnlyNoArea_tmux2
+--model_name 0731_2d_midas_car_scale_01_001_tmux0
 --batch_size 3
 --num_threads 2
 --num_epochs 50
@@ -20,3 +20,6 @@
 
 --loss_type Huber
 --combine_words_no_area
+
+--close_car_percent 0.01
+--far_car_percent 0.001
