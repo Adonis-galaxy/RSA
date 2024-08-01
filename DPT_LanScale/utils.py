@@ -134,7 +134,12 @@ def remove_repetitive_words(text):
 def combine_repetitive_words(text):
     p = inflect.engine()
     # Split the text into individual words
-    words = text.split()
+    words = text.split(", ")
+    buffer=words[0][0:13]
+    words[0]=words[0][14:]
+    words.insert(0, buffer)
+    words=words[:-1]
+    print(words, flush=True)
 
     # Count the occurrences of each word
     word_counts = Counter(words)
@@ -146,14 +151,14 @@ def combine_repetitive_words(text):
         # If the count is greater than 1, combine the word with its count
         if init is True:
             combined_words.append(word)
-            if word=="with":
+            if word=="An image with":
                 init = False
         else:
             if count > 1:
-                plural_word = p.plural(word[:-1])
+                plural_word = p.plural(word)
                 combined_words.append(f"{count} {plural_word},")
             else:
-                combined_words.append(word)
+                combined_words.append(word+",")
 
     # Join the words back into a single string
     combined_text = ' '.join(combined_words)

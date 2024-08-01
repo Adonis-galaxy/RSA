@@ -1,4 +1,4 @@
---model_name 0724_2d_da_panoptic_seg_txt_NL1_NumberOnlyNoArea_tmux3
+--model_name 0731_2d_da_panoptic_seg_txt_Huber_car_scale_tmux0
 --batch_size 6
 --num_threads 2
 --num_epochs 50
@@ -18,5 +18,5 @@
 --depth_mode da
 --norm_loss
 
---loss_type NormalizedL1
+--loss_type Huber
 --combine_words_no_area

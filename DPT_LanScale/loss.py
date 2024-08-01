@@ -3,17 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import math
 import numpy as np
-class NormalizedL1Loss(nn.Module):
-    def __init__(self):
-        super(NormalizedL1Loss, self).__init__()
-
-    def forward(self, y_pred, y_true):
-        loss = torch.abs(y_pred - y_true)
-        # norm_factor = torch.abs(y_true)
-        norm_factor = torch.exp(- torch.abs(y_pred - y_true) / torch.abs(y_true)) # try different kinds of decay, exp, sigmoid, might do a warmup using NL1 first
-        normalized_loss = loss * norm_factor
-        # normalized_loss = loss / norm_factor
-        return normalized_loss
 
 class L1Loss(nn.Module):
     def __init__(self, max_depth=10, min_depth=1e-3, loss_type = "L1"):
@@ -21,9 +10,7 @@ class L1Loss(nn.Module):
 
         self.max_depth = max_depth
         self.min_depth = min_depth
-        if loss_type == "NormalizedL1":
-            self.loss = NormalizedL1Loss()
-        elif loss_type == "L1":
+        if loss_type == "L1":
             self.loss = torch.nn.L1Loss(reduction = 'none')
         elif loss_type == "Huber":
             self.loss = torch.nn.HuberLoss(reduction = 'none', delta=1.0)
