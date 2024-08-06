@@ -15,7 +15,7 @@
 --gt_path_eval /media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test
 --filenames_file_eval ./data_splits/nyudepthv2_test_files_with_gt.txt
 
---depth_mode midas
+--depth_model midas
 --norm_loss
 
 --loss_type Huber
