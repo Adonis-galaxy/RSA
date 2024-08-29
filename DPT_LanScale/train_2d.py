@@ -21,14 +21,14 @@ EPS = 1e-8
 def change_to_kitti(args):
     args.dataset = "kitti"
     args.data_path = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-    args.txt_path = "./seg_txt_panoptic/kitti/train"
+    args.txt_path = "./text/text_llava-v1.6-vicuna-7b/kitti/train"
     args.gt_path = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file = "data_splits/eigen_train_files_with_gt.txt"
     args.input_height = 352
     args.input_width = 1216
     args.do_kb_crop = True
     args.data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-    args.txt_path_eval = "./seg_txt_panoptic/kitti/test"
+    args.txt_path_eval = "./text/text_llava-v1.6-vicuna-7b/kitti/test"
     args.gt_path_eval = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file_eval = "data_splits/eigen_test_files_with_gt.txt"
     args.max_depth_eval = 80
@@ -37,7 +37,7 @@ def change_to_kitti(args):
 def change_to_nyu(args):
     args.dataset = "nyu"
     args.data_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
-    args.txt_path = "./seg_txt_panoptic/nyu/train"
+    args.txt_path = "./text/text_llava-v1.6-vicuna-7b/nyu/train"
     args.gt_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
     args.filenames_file = "data_splits/nyudepthv2_train_files_with_gt.txt"
     args.input_height = 480
@@ -45,7 +45,7 @@ def change_to_nyu(args):
     args.do_kb_crop = False
     args.data_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
     args.gt_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
-    args.txt_path_eval = "./seg_txt_panoptic/nyu/test"
+    args.txt_path_eval = "./text/text_llava-v1.6-vicuna-7b/nyu/test"
     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
     args.max_depth_eval = 10
     args.garg_crop = False

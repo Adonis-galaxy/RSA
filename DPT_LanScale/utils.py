@@ -18,102 +18,14 @@ def convert_arg_line_to_args(arg_line):
             continue
         yield arg
 
-# Do lanagugage description augmentation here
 def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_no_area = False, close_car_percent=0.01, far_car_percent=0.001):
     text_list = []
     for i in range(len(sample_path)):  # B=4
         txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
-        if mode == "train":
-            room_name = ""
-            room_name_list = sample_path[i].split(' ')[0].split("_")[:-2]
-            for i in range(len(room_name_list)):
-                word = room_name_list[i]
-                if i == 0:
-                    room_name = room_name+word[1:]+" "
-                else:
-                    room_name = room_name+word+" "
-        elif mode == "eval":
-            room_name = sample_path[i].split(' ')[0].split("/")[0]+" "
-
-        if dataset == "kitti":
-            # room_name = "outdoor scene "
-            image_area = 1216 * 352
-        if dataset == "nyu":
-            image_area = 480 * 640
         with open(txt_path, 'r') as file:
-            # text = "A "+room_name+"with "
-            text = "An image with "
-            object_list = []
-            area_percent_list = []
             for j, line in enumerate(file):
-                # if j % 2 == 0:
-                #     word = line.strip()
-                #     object_list.append(word)
-                # else:
-                #     coords = line.split(' ')
-                #     area = (float(coords[3])-float(coords[1]))*(float(coords[2])-float(coords[0]))
-                #     area_list.append(area)
-                object_list.append(line[:line.rfind(" ")])
-                area_percent_list.append(float(line[line.rfind(" "):]))
-
-            # remove instance based on prob=lamda/box area
-            # assert len(object_list) == len(area_percent_list)
-            # if mode == "train":
-            #     i = 0
-            #     while i < len(object_list):
-            #         area_percent = area_percent_list[i]
-            #         remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
-            #         remove_prob = 1 - remove_prob
-            #         # print(object_list[i], round(remove_prob,4))
-            #         if random.random() < remove_prob:
-            #             del object_list[i]
-            #             del area_percent_list[i]
-            #         else:
-            #             i += 1
-
-            # swap word as augmentation
-            length = len(object_list)
-            if mode == "train":
-                indices = list(range(length))
-                random.shuffle(indices)
-                object_list = [object_list[i] for i in indices]
-                area_percent_list = [area_percent_list[i] for i in indices]
-
-            for i in range(length):
-                # add object scale
-                if object_list[i] == "car":
-                    if area_percent_list[i] > close_car_percent:
-                        object_list[i] = "close car"
-                    if area_percent_list[i] < far_car_percent:
-                        object_list[i] = "far car"
-
-
-                text += object_list[i]
-                # include area percent
-                if combine_words_no_area is False:
-                    text += " occupied " + str(round(area_percent_list[i]*100, 2)) + "% of image, "
-                else:
-                    text += ", "
-                # text += ", "  # for combine words
-                # text += ", " + str(round(area_list[i]/image_area*100, 2)) + "%; "
-            if combine_words_no_area is True:
-                text = combine_repetitive_words(text)  # for combine words
-            text = text.replace("_", " ")
-
-            if combine_words_no_area is True:
-                text = text[:-1] + "."  # for combine words
-            else:
-                text = text[:-2] + "."
-
-            # This handles nested parentheses
-            pattern = r' \([^()]*\)'
-            while re.search(pattern, text):
-                text = re.sub(pattern, '', text)
-
-            # print(text, flush=True)
-
+                text = line
             text_list.append(text)
-    # print(text_list, flush=True)
     return text_list
 
 def remove_repetitive_words(text):
@@ -411,3 +323,102 @@ class DistributedSamplerNoEvenlyDivisible(Sampler):
 
     def set_epoch(self, epoch):
         self.epoch = epoch
+
+# Old get text which performs text processing and augmentation for strctured text
+# # Do lanagugage description augmentation here
+# def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_no_area = False, close_car_percent=0.01, far_car_percent=0.001):
+#     text_list = []
+#     for i in range(len(sample_path)):  # B=4
+#         txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
+#         if mode == "train":
+#             room_name = ""
+#             room_name_list = sample_path[i].split(' ')[0].split("_")[:-2]
+#             for i in range(len(room_name_list)):
+#                 word = room_name_list[i]
+#                 if i == 0:
+#                     room_name = room_name+word[1:]+" "
+#                 else:
+#                     room_name = room_name+word+" "
+#         elif mode == "eval":
+#             room_name = sample_path[i].split(' ')[0].split("/")[0]+" "
+
+#         if dataset == "kitti":
+#             # room_name = "outdoor scene "
+#             image_area = 1216 * 352
+#         if dataset == "nyu":
+#             image_area = 480 * 640
+#         with open(txt_path, 'r') as file:
+#             # text = "A "+room_name+"with "
+#             text = "An image with "
+#             object_list = []
+#             area_percent_list = []
+#             for j, line in enumerate(file):
+#                 # if j % 2 == 0:
+#                 #     word = line.strip()
+#                 #     object_list.append(word)
+#                 # else:
+#                 #     coords = line.split(' ')
+#                 #     area = (float(coords[3])-float(coords[1]))*(float(coords[2])-float(coords[0]))
+#                 #     area_list.append(area)
+#                 object_list.append(line[:line.rfind(" ")])
+#                 area_percent_list.append(float(line[line.rfind(" "):]))
+
+#             # remove instance based on prob=lamda/box area
+#             # assert len(object_list) == len(area_percent_list)
+#             # if mode == "train":
+#             #     i = 0
+#             #     while i < len(object_list):
+#             #         area_percent = area_percent_list[i]
+#             #         remove_prob = 1 / (1 + np.exp(-area_percent))  # sigmoid
+#             #         remove_prob = 1 - remove_prob
+#             #         # print(object_list[i], round(remove_prob,4))
+#             #         if random.random() < remove_prob:
+#             #             del object_list[i]
+#             #             del area_percent_list[i]
+#             #         else:
+#             #             i += 1
+
+#             # swap word as augmentation
+#             length = len(object_list)
+#             if mode == "train":
+#                 indices = list(range(length))
+#                 random.shuffle(indices)
+#                 object_list = [object_list[i] for i in indices]
+#                 area_percent_list = [area_percent_list[i] for i in indices]
+
+#             for i in range(length):
+#                 # add object scale
+#                 if object_list[i] == "car":
+#                     if area_percent_list[i] > close_car_percent:
+#                         object_list[i] = "close car"
+#                     if area_percent_list[i] < far_car_percent:
+#                         object_list[i] = "far car"
+
+
+#                 text += object_list[i]
+#                 # include area percent
+#                 if combine_words_no_area is False:
+#                     text += " occupied " + str(round(area_percent_list[i]*100, 2)) + "% of image, "
+#                 else:
+#                     text += ", "
+#                 # text += ", "  # for combine words
+#                 # text += ", " + str(round(area_list[i]/image_area*100, 2)) + "%; "
+#             if combine_words_no_area is True:
+#                 text = combine_repetitive_words(text)  # for combine words
+#             text = text.replace("_", " ")
+
+#             if combine_words_no_area is True:
+#                 text = text[:-1] + "."  # for combine words
+#             else:
+#                 text = text[:-2] + "."
+
+#             # This handles nested parentheses
+#             pattern = r' \([^()]*\)'
+#             while re.search(pattern, text):
+#                 text = re.sub(pattern, '', text)
+
+#             # print(text, flush=True)
+
+#             text_list.append(text)
+#     # print(text_list, flush=True)
+#     return text_list
