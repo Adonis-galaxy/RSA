@@ -203,7 +203,7 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, ground_truths
             # # shift_pred = torch.mean(shift_pred[~torch.isnan(shift_pred)])
             # print(scale_pred, shift_pred)
 
-            # pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
 
         # Median Scaling
             # relative_depth = 1 / relative_depth
