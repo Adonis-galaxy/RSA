@@ -360,7 +360,6 @@ def main():
         normalized_image_range=[0, 1])
 
     # Eval
-
     LanScale_model.eval()
 
     with torch.no_grad():

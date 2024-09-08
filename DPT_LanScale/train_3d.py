@@ -15,6 +15,11 @@ import matplotlib.pyplot as plt
 from depth_anything.dpt import DepthAnything
 from midas.model_loader import default_models, load_model
 from dpt.models import DPTDepthModel
+# Void
+import eval_void.data_utils as data_utils
+from eval_void.transforms import Transforms
+from eval_void.datasets import KBNetInferenceDataset
+
 
 EPS = 1e-8
 
@@ -49,6 +54,20 @@ def change_to_nyu(args):
     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
     args.max_depth_eval = 10
     args.garg_crop = False
+
+def change_to_void(args):
+    args.dataset = "void"
+    args.txt_path_eval = "./seg_txt_void_test"
+    args.do_kb_crop = False
+    args.max_depth_eval = 5
+    args.min_depth_eval = 0.2
+    args.garg_crop = False
+    args.val_image_path_void = "./data_splits/void/test_image.txt"
+    args.val_sparse_depth_path_void = "./data_splits/void/test_sparse_depth.txt"
+    args.val_intrinsics_path_void = "./data_splits/void/test_intrinsics.txt"
+    args.val_ground_truth_path_void = "./data_splits/void/test_ground_truth.txt"
+    args.txt_path_eval_void = "./text/text_llava-v1.6-vicuna-7b/void/test"
+
 
 
 parser = argparse.ArgumentParser(description='LanScale', fromfile_prefix_chars='@')
@@ -112,6 +131,14 @@ parser.add_argument('--two_dataset',                action='store_true')
 
 parser.add_argument('--depth_model',                type=str, required=True)
 parser.add_argument('--lambda_nyu',                type=float, default = 0.6, help="loss ratio should be around 0.5 of kitti, to 0.32 of nyu. ratio should be around 0.6")
+
+# Void
+parser.add_argument('--val_image_path_void',                   type=str)
+parser.add_argument('--val_sparse_depth_path_void',            type=str)
+parser.add_argument('--val_intrinsics_path_void',            type=str)
+parser.add_argument('--val_ground_truth_path_void',            type=str)
+parser.add_argument('--txt_path_eval_void',            type=str)
+
 
 
 if sys.argv.__len__() == 2:
@@ -235,6 +262,93 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
 
     return eval_measures_cpu
 
+def eval_void(LanScale_model, depth_model, CLIP_model, dataloader_eval, ground_truths, post_process=False, dataset=None):
+    eval_measures = torch.zeros(10).cuda()
+
+    # for step, eval_sample_batched in enumerate(dataloader_eval.data):
+    for idx, (image_tuple, gt_depth) in enumerate(zip(dataloader_eval, ground_truths)):
+        image, image_path = image_tuple
+        image = image.cuda()
+        # gt_depth = gt_depth.cuda()
+        image_path = [image_path[0][23:]]
+        with torch.no_grad():
+            # Forward
+            text_list = get_text(args.txt_path_eval_void, image_path, mode="eval", dataset=dataset, \
+                combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
+            text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
+            text_features = CLIP_model.encode_text(text_tokens)
+            scale_pred, shift_pred = LanScale_model(text_features.float())
+
+            # For DA and Midas, do resize for image
+            image_h, image_w = image.shape[2], image.shape[3]
+
+            if args.depth_model == "da":
+                a = 479 - 45
+                b = 603 - 43
+                image = torch.nn.functional.interpolate(
+                    image,
+                    size=(a, b),
+                    mode="bicubic",
+                    align_corners=False,
+                )
+            if args.depth_model == "midas":
+                image = torch.nn.functional.interpolate(
+                image,
+                size=(384,384),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = depth_model(image) # predict relative depth
+            if args.depth_model == "da" or args.depth_model == "midas":
+                relative_depth = torch.nn.functional.interpolate(
+                    relative_depth.unsqueeze(1),
+                    size=(image_h, image_w),
+                    mode="bicubic",
+                    align_corners=False,
+                ).squeeze(1)
+
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
+
+            # Standard Eval
+            pred_depth = pred_depth.cpu().numpy().squeeze()
+            gt_depth = gt_depth.squeeze()
+
+
+
+
+        pred_depth[pred_depth < args.min_depth_eval] = args.min_depth_eval
+        pred_depth[pred_depth > args.max_depth_eval] = args.max_depth_eval
+        pred_depth[np.isinf(pred_depth)] = args.max_depth_eval
+        pred_depth[np.isnan(pred_depth)] = args.min_depth_eval
+
+        valid_mask = np.logical_and(gt_depth > args.min_depth_eval, gt_depth < args.max_depth_eval)
+
+        measures = compute_errors(gt_depth[valid_mask], pred_depth[valid_mask])
+
+        eval_measures[:9] += torch.tensor(measures).cuda()
+        eval_measures[9] += 1
+
+    eval_measures_cpu = eval_measures.cpu()
+    cnt = eval_measures_cpu[9].item()
+    eval_measures_cpu /= cnt
+    print('Computing errors for {} eval samples'.format(int(cnt)), ', post_process: ', post_process)
+    print("{:>7}, {:>7}, {:>7}, {:>7}, {:>7}, {:>7}, {:>7}, {:>7}, {:>7}".format('silog', 'abs_rel', 'log10', 'rms',
+                                                                                    'sq_rel', 'log_rms', 'd1', 'd2',
+                                                                                    'd3'))
+    for i in range(8):
+        print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+    print('{:7.4f}'.format(eval_measures_cpu[8]))
+
+    if dataset == 'void':
+        print("Results for sheets, VOID:")
+        print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log10', 'rms'))
+        for i in [6, 7, 8, 1, 2, 3]:
+            print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+
+    return eval_measures_cpu
 
 def main():
     # Flag Init
@@ -248,6 +362,30 @@ def main():
     dataloader_kitti = NewDataLoader(args, 'train')
     dataloader_eval_kitti = NewDataLoader(args, 'online_eval')
 
+    # Void Eval
+    change_to_void(args)
+    val_image_paths_void = data_utils.read_paths(args.val_image_path_void)
+    val_sparse_depth_paths = data_utils.read_paths(args.val_sparse_depth_path_void)
+    val_intrinsics_paths = data_utils.read_paths(args.val_intrinsics_path_void)
+    val_ground_truth_paths = data_utils.read_paths(args.val_ground_truth_path_void)
+
+    n_val_sample = len(val_image_paths_void)
+
+    ground_truths_void = []
+    for path in val_ground_truth_paths:
+        ground_truth, validity_map = data_utils.load_depth_with_validity_map(path)
+        ground_truths_void.append(ground_truth)
+
+    dataloader_eval_void = torch.utils.data.DataLoader(
+        KBNetInferenceDataset(
+            image_paths=val_image_paths_void,
+            sparse_depth_paths=val_sparse_depth_paths,
+            intrinsics_paths=val_intrinsics_paths),
+        batch_size=1,
+        shuffle=False,
+        num_workers=1,
+        drop_last=False)
+
     print("Depth Model:", args.depth_model)
     if args.depth_model == "da":
         # DA Model
@@ -255,6 +393,7 @@ def main():
         depth_model = DepthAnything.from_pretrained('LiheYoung/depth_anything_{:}14'.format(encoder)).to("cuda").eval()
         depth_model_nyu = depth_model
         depth_model_kitti = depth_model
+        depth_model_void = depth_model
     if args.depth_model == "dpt":
         # DPT Model
         depth_model_nyu = DPTDepthModel(
@@ -266,6 +405,7 @@ def main():
         )
         depth_model_nyu.eval()
         depth_model_nyu.cuda()
+        depth_model_void = depth_model_nyu
         depth_model_kitti = DPTDepthModel(
             path="weights/dpt_hybrid_kitti-cb926ef4.pt",
             invert=True,
@@ -283,6 +423,7 @@ def main():
         depth_model.eval()
         depth_model.cuda()
         depth_model_nyu = depth_model
+        depth_model_kitti = depth_model
         depth_model_kitti = depth_model
 
     change_to_nyu(args)
@@ -308,6 +449,10 @@ def main():
     kitti_best_measures = torch.zeros(9).cpu()
     for i in range(6):
         kitti_best_measures[i] += 1e3
+    void_best_measures = torch.zeros(9).cpu()
+    for i in range(6):
+        void_best_measures[i] += 1e3
+
     old_best_step = 0
     global_step = 1
 
@@ -317,6 +462,7 @@ def main():
         global_step = checkpoint['global_step']
         kitti_best_measures = checkpoint['best_eval_measures_kitti']
         nyu_best_measures = checkpoint['best_eval_measures_nyu']
+        void_best_measures = checkpoint['best_eval_measures_void']
 
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
@@ -325,6 +471,7 @@ def main():
     # Training Setting
     depth_loss_nyu = L1Loss(max_depth=10, min_depth=args.min_depth_eval, loss_type=args.loss_type)
     depth_loss_kitti = L1Loss(max_depth=80, min_depth=args.min_depth_eval, loss_type=args.loss_type)
+    depth_loss_void = L1Loss(max_depth=5, min_depth=args.min_depth_eval, loss_type=args.loss_type)
 
 
     optimizer = torch.optim.Adam([
@@ -345,13 +492,17 @@ def main():
         LanScale_model.eval()
 
         with torch.no_grad():
-            # NYU Eval
-            change_to_nyu(args)
-            eval_measures = eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
+            # # NYU Eval
+            # change_to_nyu(args)
+            # eval_measures = eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
 
-            # KITTI Eval
-            change_to_kitti(args)
-            eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
+            # # KITTI Eval
+            # change_to_kitti(args)
+            # eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
+
+            # Void Eval
+            change_to_void(args)
+            eval_measures = eval_void(LanScale_model, depth_model_void, CLIP_model, dataloader_eval_void, ground_truths_void, post_process=False, dataset="void")
 
         LanScale_model.train()
 

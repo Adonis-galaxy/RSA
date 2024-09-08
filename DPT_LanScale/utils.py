@@ -21,7 +21,12 @@ def convert_arg_line_to_args(arg_line):
 def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_no_area = False, close_car_percent=0.01, far_car_percent=0.001):
     text_list = []
     for i in range(len(sample_path)):  # B=4
-        txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
+        if dataset == "void":
+            txt_path = data_path+"/"+sample_path[i][:-4]+'.txt'
+            print(data_path, flush=True)
+            print(sample_path[i], flush=True)
+        else:
+            txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
         with open(txt_path, 'r') as file:
             if mode=="train":
                 random_number = random.randint(0, 4)

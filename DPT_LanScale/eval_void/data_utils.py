@@ -36,7 +36,7 @@ def read_paths(filepath):
             # If there was nothing to read
             if path == '':
                 break
-            path = "/media/home/zyzeng/code/workspace/" + path
+            path = "/media/staging1/zyzeng/" + path
             path_list.append(path)
 
     return path_list
