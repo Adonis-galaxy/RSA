@@ -23,8 +23,13 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
     for i in range(len(sample_path)):  # B=4
         txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
         with open(txt_path, 'r') as file:
+            if mode=="train":
+                random_number = random.randint(0, 4)
+            else:
+                random_number = 0
             for j, line in enumerate(file):
-                text = line
+                if j == random_number:
+                    text = line
             text_list.append(text)
     return text_list
 

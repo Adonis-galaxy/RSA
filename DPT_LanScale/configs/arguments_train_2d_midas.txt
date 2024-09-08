@@ -1,4 +1,4 @@
---model_name 0829_2d_midas_llava16vicuna7btext_tmux1
+--model_name 0901_2d_midas_llava16mistral7btext_5captions_tmux1
 --batch_size 3
 --num_threads 2
 --num_epochs 50

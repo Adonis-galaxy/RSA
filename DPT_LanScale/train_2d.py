@@ -51,6 +51,24 @@ def change_to_nyu(args):
     args.garg_crop = False
 
 
+# def change_to_void(args):
+#     args.dataset = "void"
+#     args.data_path = "/media/staging1/zyzeng"
+#     args.txt_path = "./text/text_llava-v1.6-vicuna-7b/void/train"
+#     args.gt_path = "/media/staging1/zyzeng"
+#     args.filenames_file = "data_splits/void/train_image.txt"
+#     args.input_height = 480
+#     args.input_width = 640
+#     args.do_kb_crop = False
+#     args.data_path_eval = "/media/staging1/zyzeng/"
+#     args.gt_path_eval = "/media/staging1/zyzeng/"
+#     args.txt_path_eval = "./text/text_llava-v1.6-vicuna-7b/nyu/test"
+#     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
+#     args.max_depth_eval = 10
+#     args.garg_crop = False
+
+
+
 parser = argparse.ArgumentParser(description='LanScale', fromfile_prefix_chars='@')
 parser.convert_arg_line_to_args = convert_arg_line_to_args
 
@@ -418,6 +436,7 @@ def main():
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
+            # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
             # BP
             loss_nyu = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
             # loss.backward()
@@ -480,6 +499,7 @@ def main():
             shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
+            # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
 
