@@ -182,12 +182,14 @@ class KBNetTrainingDataset(torch.utils.data.Dataset):
                  image_paths,
                  sparse_depth_paths,
                  intrinsics_paths,
+                 depth_gt_paths,
                  shape=None,
                  random_crop_type=['none']):
 
         self.image_paths = image_paths
         self.sparse_depth_paths = sparse_depth_paths
         self.intrinsics_paths = intrinsics_paths
+        self.depth_gt_paths = depth_gt_paths
 
         self.shape = shape
         self.do_random_crop = \
@@ -198,31 +200,41 @@ class KBNetTrainingDataset(torch.utils.data.Dataset):
 
     def __getitem__(self, index):
         # Load image
-        image1, image0, image2 = load_image_triplet(
-            self.image_paths[index],
-            normalize=False)
+        # image1, image0, image2 = load_image_triplet(
+        #     self.image_paths[index],
+        #     normalize=False)
+        image = data_utils.load_image(
+                self.image_paths[index],
+                normalize=False,
+                data_format='CHW')
 
         # Load depth
-        sparse_depth0 = load_depth(self.sparse_depth_paths[index])
+        # sparse_depth0 = load_depth(self.sparse_depth_paths[index])
 
-        # Load camera intrinsics
-        intrinsics = np.load(self.intrinsics_paths[index]).astype(np.float32)
+        depth_gt = load_depth(self.depth_gt_paths[index])
 
-        # Crop image, depth and adjust intrinsics
-        if self.do_random_crop:
-            [image0, image1, image2, sparse_depth0], intrinsics = random_crop(
-                inputs=[image0, image1, image2, sparse_depth0],
-                shape=self.shape,
-                intrinsics=intrinsics,
-                crop_type=self.random_crop_type)
+        # # Load camera intrinsics
+        # intrinsics = np.load(self.intrinsics_paths[index]).astype(np.float32)
 
-        # Convert to float32
-        image0, image1, image2, sparse_depth0, intrinsics = [
-            T.astype(np.float32)
-            for T in [image0, image1, image2, sparse_depth0, intrinsics]
-        ]
+        # # Crop image, depth and adjust intrinsics
+        # if self.do_random_crop:
+        #     [image0, image1, image2, sparse_depth0], intrinsics = random_crop(
+        #         inputs=[image0, image1, image2, sparse_depth0],
+        #         shape=self.shape,
+        #         intrinsics=intrinsics,
+        #         crop_type=self.random_crop_type)
 
-        return image0, image1, image2, sparse_depth0, intrinsics
+        # # Convert to float32
+        # image0, image1, image2, sparse_depth0, intrinsics = [
+        #     T.astype(np.float32)
+        #     for T in [image0, image1, image2, sparse_depth0, intrinsics]
+        # ]
+
+        # return image0, image1, image2, sparse_depth0, intrinsics, depth_gt
+        # image = image.astype(np.float32)
+        # depth_gt = depth_gt.astype(np.float32)
+
+        return image, depth_gt, self.image_paths[index][23:]
 
     def __len__(self):
         return len(self.image_paths)

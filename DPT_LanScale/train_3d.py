@@ -18,7 +18,7 @@ from dpt.models import DPTDepthModel
 # Void
 import eval_void.data_utils as data_utils
 from eval_void.transforms import Transforms
-from eval_void.datasets import KBNetInferenceDataset
+from eval_void.datasets import KBNetInferenceDataset, KBNetTrainingDataset
 
 
 EPS = 1e-8
@@ -57,11 +57,18 @@ def change_to_nyu(args):
 
 def change_to_void(args):
     args.dataset = "void"
-    args.txt_path_eval = "./seg_txt_void_test"
+
     args.do_kb_crop = False
     args.max_depth_eval = 5
     args.min_depth_eval = 0.2
     args.garg_crop = False
+
+    args.txt_path = "./text/text_llava-v1.6-vicuna-7b/void/train"
+    args.train_image_path_void = "./data_splits/void/train_image.txt"
+    args.train_sparse_depth_path_void = "./data_splits/void/train_sparse_depth.txt"
+    args.train_intrinsics_path_void = "./data_splits/void/train_intrinsics.txt"
+    args.train_ground_truth_path_void = "./data_splits/void/train_ground_truth.txt"
+
     args.val_image_path_void = "./data_splits/void/test_image.txt"
     args.val_sparse_depth_path_void = "./data_splits/void/test_sparse_depth.txt"
     args.val_intrinsics_path_void = "./data_splits/void/test_intrinsics.txt"
@@ -127,7 +134,6 @@ parser.add_argument('--save_freq_ckpt',                 type=int,   help='Checkp
 parser.add_argument('--eval_freq',                  type=int,   help='Eval frequency in global steps', default=500)
 parser.add_argument('--eval_before_train',                  action='store_true')
 parser.add_argument('--load_ckpt_path',                type=str,   default=None)
-parser.add_argument('--two_dataset',                action='store_true')
 
 parser.add_argument('--depth_model',                type=str, required=True)
 parser.add_argument('--lambda_nyu',                type=float, default = 0.6, help="loss ratio should be around 0.5 of kitti, to 0.32 of nyu. ratio should be around 0.6")
@@ -386,6 +392,25 @@ def main():
         num_workers=1,
         drop_last=False)
 
+    # Void Train
+    train_image_paths_void = data_utils.read_paths(args.train_image_path_void)
+    train_sparse_depth_paths = data_utils.read_paths(args.train_sparse_depth_path_void)
+    train_intrinsics_paths = data_utils.read_paths(args.train_intrinsics_path_void)
+    train_ground_truth_paths = data_utils.read_paths(args.train_ground_truth_path_void)
+
+    n_train_sample = len(train_image_paths_void)
+
+    dataloader_train_void = torch.utils.data.DataLoader(
+        KBNetTrainingDataset(
+            image_paths=train_image_paths_void,
+            sparse_depth_paths=train_sparse_depth_paths,
+            intrinsics_paths=train_intrinsics_paths,
+            depth_gt_paths=train_ground_truth_paths),
+        batch_size=args.batch_size,
+        shuffle=False,
+        num_workers=args.num_threads,
+        drop_last=False)
+
     print("Depth Model:", args.depth_model)
     if args.depth_model == "da":
         # DA Model
@@ -424,7 +449,7 @@ def main():
         depth_model.cuda()
         depth_model_nyu = depth_model
         depth_model_kitti = depth_model
-        depth_model_kitti = depth_model
+        depth_model_void = depth_model
 
     change_to_nyu(args)
     print("== DPT Model Initialized")
@@ -492,13 +517,13 @@ def main():
         LanScale_model.eval()
 
         with torch.no_grad():
-            # # NYU Eval
-            # change_to_nyu(args)
-            # eval_measures = eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
+            # NYU Eval
+            change_to_nyu(args)
+            eval_measures = eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset="nyu")
 
-            # # KITTI Eval
-            # change_to_kitti(args)
-            # eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
+            # KITTI Eval
+            change_to_kitti(args)
+            eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset="kitti")
 
             # Void Eval
             change_to_void(args)
@@ -514,6 +539,8 @@ def main():
             dataloader.train_sampler.set_epoch(epoch)
         change_to_kitti(args)
         iterator_kitti = iter(dataloader_kitti.data)
+        change_to_void(args)
+        iterator_void = iter(dataloader_train_void)
         change_to_nyu(args)
         for step, sample_batched in enumerate(dataloader.data):
             change_to_nyu(args)
@@ -530,11 +557,10 @@ def main():
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             if init_flag is True:
-                # print("scale:", scale_pred, flush=True)
-                # print("shift:", shift_pred, flush=True)
+                print('')
                 for text in text_list:
                     print(text, flush=True)
-
+                print('')
             # For DA and Midas, do resize for image
             image_h, image_w = image.shape[2], image.shape[3]
             if args.depth_model == "da":
@@ -590,13 +616,10 @@ def main():
             text_features = CLIP_model.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
-
             if init_flag is True:
-                init_flag = False
-                # print("scale:", scale_pred, flush=True)
-                # print("shift:", shift_pred, flush=True)
                 for text in text_list:
                     print(text, flush=True)
+                print('')
 
             # For DA and Midas, do resize for image
             image_h, image_w = image.shape[2], image.shape[3]
@@ -637,10 +660,69 @@ def main():
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
 
+            # Void Forward
+            change_to_void(args)
+            image, depth_gt, image_path = next(iterator_void)  # torch.Size([B, 3, 480, 640])
+
+            # depth_gt = train_ground_truths_void[step]
+
+            # Forward, predict scale and shift
+            text_list = get_text(args.txt_path, image_path, mode="train", dataset=args.dataset, \
+                combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
+            text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
+            text_features = CLIP_model.encode_text(text_tokens)
+            scale_pred, shift_pred = LanScale_model(text_features.float())
+
+            if init_flag is True:
+                init_flag = False
+                for text in text_list:
+                    print(text, flush=True)
+                print('')
+
+
+            # For DA and Midas, do resize for image
+            image_h, image_w = image.shape[2], image.shape[3]
+            if args.depth_model == "da":
+                a = 479 - 45
+                b = 603 - 43
+                image = torch.nn.functional.interpolate(
+                    image,
+                    size=(a, b),
+                    mode="bicubic",
+                    align_corners=False,
+                )
+            if args.depth_model == "midas":
+                image = torch.nn.functional.interpolate(
+                image,
+                size=(384,384),
+                mode="bicubic",
+                align_corners=False,
+            )
+            relative_depth = depth_model_void(image.cuda()) # predict relative depth
+            if args.depth_model == "da" or args.depth_model == "midas":
+                relative_depth = torch.nn.functional.interpolate(
+                    relative_depth.unsqueeze(1),
+                    size=(image_h, image_w),
+                    mode="bicubic",
+                    align_corners=False,
+                ).squeeze(1)
+
+            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+
+            pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
+            # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
+            # BP
+            loss_void = depth_loss_void(depth_prediction=pred_depth, gts=depth_gt.cuda())
+
+
+
+
             if args.norm_loss:
-                loss = loss_nyu / (torch.norm(loss_nyu).detach()+EPS) + loss_kitti / (torch.norm(loss_kitti).detach()+EPS)
+                loss = loss_nyu / (torch.norm(loss_nyu).detach()+EPS) + loss_kitti / (torch.norm(loss_kitti).detach()+EPS) + loss_void / (torch.norm(loss_void).detach()+EPS)
             else:
-                loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
+                raise()
+                # loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
             #
             # loss = loss_nyu + loss_kitti
 
@@ -659,6 +741,7 @@ def main():
                 eval_summary_writer.add_scalar("Train Loss", loss.item()/image.shape[0], int(global_step))
                 eval_summary_writer.add_scalar("NYU Loss", loss_nyu.item()/image.shape[0], int(global_step))
                 eval_summary_writer.add_scalar("KITTI Loss", loss_kitti.item()/image.shape[0], int(global_step))
+                eval_summary_writer.add_scalar("Void Loss", loss_void.item()/image.shape[0], int(global_step))
 
             # Save Checkpoitns by frequency
             # if (global_step >= args.save_freq_ckpt and global_step % args.save_freq_ckpt ==0) or (global_step==num_total_steps):
@@ -675,7 +758,7 @@ def main():
 
                 change_to_nyu(args)
                 with torch.no_grad():
-                    print("", flush=True)
+                    print("\n", flush=True)
                     print("Starting Evaluation NYU, global step=", global_step, flush=True)
                     eval_measures= eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
                     nyu_eval_measures = eval_measures
@@ -692,7 +775,7 @@ def main():
 
                 change_to_kitti(args)
                 with torch.no_grad():
-                    print("", flush=True)
+                    print("\n", flush=True)
                     print("Starting Evaluation KITTI, global step=", global_step, flush=True)
                     eval_measures = eval(LanScale_model, depth_model_kitti, CLIP_model, dataloader_eval_kitti, post_process=False, dataset=args.dataset)
                     kitti_eval_measures = eval_measures
@@ -704,24 +787,45 @@ def main():
                             is_best += 1
                         elif i >= 6 and measure >= kitti_best_measures[i]:
                             is_best += 1
-                        if is_best >= 6:
-                            kitti_best_measures = kitti_eval_measures[:9]
-                            nyu_best_measures = nyu_eval_measures[:9]
-                            old_best_name = '/model-{}'.format(old_best_step)
-                            old_best_step = global_step
-                            model_path = args.log_directory + '/' + args.model_name + old_best_name
-                            if os.path.exists(model_path):
-                                command = 'rm {}'.format(model_path)
-                                os.system(command)
-                            model_save_name = '/model-{}'.format(global_step)
-                            print("")
-                            print('New best model at step {}. Saving model: {}'.format(global_step, model_save_name))
-                            checkpoint = {'global_step': global_step,
-                                          'model': LanScale_model.state_dict(),
-                                          'best_eval_measures_kitti': kitti_best_measures,
-                                          'best_eval_measures_nyu': nyu_best_measures,
-                                          }
-                            torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
+                    eval_summary_writer.flush()
+
+                change_to_void(args)
+                with torch.no_grad():
+                    print("\n", flush=True)
+                    print("Starting Evaluation Void, global step=", global_step, flush=True)
+                    eval_measures = eval_void(LanScale_model, depth_model_void, CLIP_model, dataloader_eval_void, ground_truths_void, post_process=False, dataset="void")
+                    void_eval_measures = eval_measures
+                    print("\n", flush=True)
+                if eval_measures is not None:
+                    for i in [1, 2, 3, 6, 7, 8]:
+                        eval_summary_writer.add_scalar("void_"+eval_metrics[i], eval_measures[i].cpu(), int(global_step))
+                        measure = eval_measures[i]
+                        is_best = 0
+                        if i < 6 and measure <= void_best_measures[i]:
+                            is_best += 1
+                        elif i >= 6 and measure >= void_best_measures[i]:
+                            is_best += 1
+                    eval_summary_writer.flush()
+
+                if is_best >= 9:
+                    kitti_best_measures = kitti_eval_measures[:9]
+                    nyu_best_measures = nyu_eval_measures[:9]
+                    old_best_name = '/model-{}'.format(old_best_step)
+                    old_best_step = global_step
+                    model_path = args.log_directory + '/' + args.model_name + old_best_name
+                    if os.path.exists(model_path):
+                        command = 'rm {}'.format(model_path)
+                        os.system(command)
+                    model_save_name = '/model-{}'.format(global_step)
+                    print("")
+                    print('New best model at step {}. Saving model: {}'.format(global_step, model_save_name))
+                    checkpoint = {'global_step': global_step,
+                                    'model': LanScale_model.state_dict(),
+                                    'best_eval_measures_kitti': kitti_best_measures,
+                                    'best_eval_measures_nyu': nyu_best_measures,
+                                    'best_eval_measures_void': void_best_measures,
+                                    }
+                    torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
                 LanScale_model.train()
             global_step += 1
         epoch += 1

@@ -22,20 +22,27 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
     text_list = []
     for i in range(len(sample_path)):  # B=4
         if dataset == "void":
+            # if mode == "train":
+            #     print(sample_path[i].split(" ")[0], flush=True)
+            #     txt_path = data_path+"/" + sample_path[i].split(" ")[0].replace("image_02", "image")[:-4]+'.txt', flush=True)
+            # else:
             txt_path = data_path+"/"+sample_path[i][:-4]+'.txt'
-            print(data_path, flush=True)
-            print(sample_path[i], flush=True)
         else:
             txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
         with open(txt_path, 'r') as file:
-            if mode=="train":
-                random_number = random.randint(0, 4)
-            else:
-                random_number = 0
+            # for multi captions
+            # if mode=="train":
+            #     random_number = random.randint(0, 4)
+            # else:
+            random_number = 0
             for j, line in enumerate(file):
                 if j == random_number:
                     text = line
-            text_list.append(text)
+            if dataset == "void":
+                text_list.append(text.replace("\n", ""))
+            else:
+                text_list.append(text)
+
     return text_list
 
 def remove_repetitive_words(text):
