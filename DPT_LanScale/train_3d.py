@@ -1,4 +1,5 @@
 import torch
+import torch.nn as nn
 import torch.backends.cudnn as cudnn
 import os, sys
 import argparse
@@ -38,6 +39,7 @@ def change_to_kitti(args):
     args.filenames_file_eval = "data_splits/eigen_test_files_with_gt.txt"
     args.max_depth_eval = 80
     args.garg_crop = True
+    # args.batch_size = 2
 
 def change_to_nyu(args):
     args.dataset = "nyu"
@@ -54,6 +56,7 @@ def change_to_nyu(args):
     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
     args.max_depth_eval = 10
     args.garg_crop = False
+    # args.batch_size = 2
 
 def change_to_void(args):
     args.dataset = "void"
@@ -74,6 +77,8 @@ def change_to_void(args):
     args.val_intrinsics_path_void = "./data_splits/void/test_intrinsics.txt"
     args.val_ground_truth_path_void = "./data_splits/void/test_ground_truth.txt"
     args.txt_path_eval_void = "./text/text_llava-v1.6-vicuna-7b/void/test"
+
+    # args.batch_size = 1
 
 
 
@@ -136,7 +141,7 @@ parser.add_argument('--eval_before_train',                  action='store_true')
 parser.add_argument('--load_ckpt_path',                type=str,   default=None)
 
 parser.add_argument('--depth_model',                type=str, required=True)
-parser.add_argument('--lambda_nyu',                type=float, default = 0.6, help="loss ratio should be around 0.5 of kitti, to 0.32 of nyu. ratio should be around 0.6")
+# parser.add_argument('--lambda_nyu',                type=float, default = 0.6, help="loss ratio should be around 0.5 of kitti, to 0.32 of nyu. ratio should be around 0.6")
 
 # Void
 parser.add_argument('--val_image_path_void',                   type=str)
@@ -172,7 +177,7 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
                 combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
 
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.module.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             # For DA and Midas, do resize for image
@@ -282,7 +287,7 @@ def eval_void(LanScale_model, depth_model, CLIP_model, dataloader_eval, ground_t
             text_list = get_text(args.txt_path_eval_void, image_path, mode="eval", dataset=dataset, \
                 combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.module.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             # For DA and Midas, do resize for image
@@ -411,6 +416,13 @@ def main():
         num_workers=args.num_threads,
         drop_last=False)
 
+    # train_transforms = Transforms(
+    #     normalized_image_range=[0, 1],
+    #     random_flip_type=['none'],
+    #     random_remove_points=[0.60, 0.70],
+    #     random_noise_type='none',
+    #     random_noise_spread=-1)
+
     print("Depth Model:", args.depth_model)
     if args.depth_model == "da":
         # DA Model
@@ -451,6 +463,8 @@ def main():
         depth_model_kitti = depth_model
         depth_model_void = depth_model
 
+
+
     change_to_nyu(args)
     print("== DPT Model Initialized")
 
@@ -488,6 +502,15 @@ def main():
         kitti_best_measures = checkpoint['best_eval_measures_kitti']
         nyu_best_measures = checkpoint['best_eval_measures_nyu']
         void_best_measures = checkpoint['best_eval_measures_void']
+
+    # Multi GPU
+    if torch.cuda.device_count() > 1:
+        print(f"Using {torch.cuda.device_count()} GPUs!")
+        depth_model_nyu = nn.DataParallel(depth_model_nyu)
+        depth_model_kitti = nn.DataParallel(depth_model_kitti)
+        depth_model_void = nn.DataParallel(depth_model_void)
+        LanScale_model = nn.DataParallel(LanScale_model)
+        CLIP_model = nn.DataParallel(CLIP_model)
 
     # Logging
     eval_summary_path = os.path.join(args.log_directory, args.model_name, 'eval')
@@ -553,7 +576,7 @@ def main():
             text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, \
                 combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.module.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             if init_flag is True:
@@ -613,7 +636,7 @@ def main():
             text_list = get_text(args.txt_path, sample_batched['sample_path'], mode="train", dataset=args.dataset, \
                 combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.module.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             if init_flag is True:
@@ -660,17 +683,25 @@ def main():
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
 
-            # Void Forward
+            # Void Forward, Training
             change_to_void(args)
             image, depth_gt, image_path = next(iterator_void)  # torch.Size([B, 3, 480, 640])
 
-            # depth_gt = train_ground_truths_void[step]
+            # Do data augmentation
+            # image_re, depth_gt_re, _ = train_transforms.transform(
+            #         images_arr=[image],
+            #         range_maps_arr=[depth_gt],
+            #         random_transform_probability=1)
+
+            # image = image_re[0]
+            # depth_gt = depth_gt_re[0]
+
 
             # Forward, predict scale and shift
             text_list = get_text(args.txt_path, image_path, mode="train", dataset=args.dataset, \
                 combine_words_no_area = args.combine_words_no_area, close_car_percent=args.close_car_percent, far_car_percent = args.far_car_percent)
             text_tokens = clip.tokenize(text_list, truncate=True).to("cuda")
-            text_features = CLIP_model.encode_text(text_tokens)
+            text_features = CLIP_model.module.encode_text(text_tokens)
             scale_pred, shift_pred = LanScale_model(text_features.float())
 
             if init_flag is True:
@@ -762,11 +793,12 @@ def main():
                     print("Starting Evaluation NYU, global step=", global_step, flush=True)
                     eval_measures= eval(LanScale_model, depth_model_nyu, CLIP_model, dataloader_eval, post_process=False, dataset=args.dataset)
                     nyu_eval_measures = eval_measures
+
+                is_best = 0
                 if eval_measures is not None:
                     for i in [1, 2, 3, 6, 7, 8]:
                         eval_summary_writer.add_scalar("nyu_"+eval_metrics[i], eval_measures[i].cpu(), int(global_step))
                         measure = eval_measures[i]
-                        is_best = 0
                         if i < 6 and measure <= nyu_best_measures[i]:
                             is_best += 1
                         elif i >= 6 and measure >= nyu_best_measures[i]:
@@ -800,16 +832,17 @@ def main():
                     for i in [1, 2, 3, 6, 7, 8]:
                         eval_summary_writer.add_scalar("void_"+eval_metrics[i], eval_measures[i].cpu(), int(global_step))
                         measure = eval_measures[i]
-                        is_best = 0
                         if i < 6 and measure <= void_best_measures[i]:
                             is_best += 1
                         elif i >= 6 and measure >= void_best_measures[i]:
                             is_best += 1
                     eval_summary_writer.flush()
 
+                print("is_best=",is_best)
                 if is_best >= 9:
                     kitti_best_measures = kitti_eval_measures[:9]
                     nyu_best_measures = nyu_eval_measures[:9]
+                    void_best_measures = void_eval_measures[:9]
                     old_best_name = '/model-{}'.format(old_best_step)
                     old_best_step = global_step
                     model_path = args.log_directory + '/' + args.model_name + old_best_name
