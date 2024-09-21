@@ -129,10 +129,10 @@ class DataLoadPreprocess(Dataset):
                     image = image.crop((43, 45, 608, 472))
 
 
-            if self.args.do_random_rotate is True:
-                random_angle = (random.random() - 0.5) * 2 * self.args.degree
-                image = self.rotate_image(image, random_angle)
-                depth_gt = self.rotate_image(depth_gt, random_angle, flag=Image.NEAREST)
+            # if self.args.do_random_rotate is True:
+            #     random_angle = (random.random() - 0.5) * 2 * self.args.degree
+            #     image = self.rotate_image(image, random_angle)
+            #     depth_gt = self.rotate_image(depth_gt, random_angle, flag=Image.NEAREST)
 
             image = np.asarray(image, dtype=np.float32) / 255.0
             depth_gt = np.asarray(depth_gt, dtype=np.float32)
@@ -145,7 +145,7 @@ class DataLoadPreprocess(Dataset):
 
             if image.shape[0] != self.args.input_height or image.shape[1] != self.args.input_width:
                 image, depth_gt = self.random_crop(image, depth_gt, self.args.input_height, self.args.input_width)
-            image, depth_gt = self.train_preprocess(image, depth_gt)
+            # image, depth_gt = self.train_preprocess(image, depth_gt)
             sample = {'image': image, 'depth': depth_gt, 'focal': focal, 'sample_path':sample_path}
 
 
@@ -199,55 +199,55 @@ class DataLoadPreprocess(Dataset):
 
         return sample
 
-    def rotate_image(self, image, angle, flag=Image.BILINEAR):
-        result = image.rotate(angle, resample=flag)
-        return result
+    # def rotate_image(self, image, angle, flag=Image.BILINEAR):
+    #     result = image.rotate(angle, resample=flag)
+    #     return result
 
-    def random_crop(self, img, depth, height, width):
-        assert img.shape[0] >= height
-        assert img.shape[1] >= width
-        assert img.shape[0] == depth.shape[0]
-        assert img.shape[1] == depth.shape[1]
-        x = random.randint(0, img.shape[1] - width)
-        y = random.randint(0, img.shape[0] - height)
-        img = img[y:y + height, x:x + width, :]
-        depth = depth[y:y + height, x:x + width, :]
-        return img, depth
+    # def random_crop(self, img, depth, height, width):
+    #     assert img.shape[0] >= height
+    #     assert img.shape[1] >= width
+    #     assert img.shape[0] == depth.shape[0]
+    #     assert img.shape[1] == depth.shape[1]
+    #     x = random.randint(0, img.shape[1] - width)
+    #     y = random.randint(0, img.shape[0] - height)
+    #     img = img[y:y + height, x:x + width, :]
+    #     depth = depth[y:y + height, x:x + width, :]
+    #     return img, depth
 
-    def train_preprocess(self, image, depth_gt):
-        # Random flipping
-        do_flip = random.random()
-        if do_flip > 0.5:
-            image = (image[:, ::-1, :]).copy()
-            depth_gt = (depth_gt[:, ::-1, :]).copy()
+    # def train_preprocess(self, image, depth_gt):
+    #     # Random flipping
+    #     do_flip = random.random()
+    #     if do_flip > 0.5:
+    #         image = (image[:, ::-1, :]).copy()
+    #         depth_gt = (depth_gt[:, ::-1, :]).copy()
 
-        # Random gamma, brightness, color augmentation
-        do_augment = random.random()
-        if do_augment > 0.5:
-            image = self.augment_image(image)
+    #     # Random gamma, brightness, color augmentation
+    #     do_augment = random.random()
+    #     if do_augment > 0.5:
+    #         image = self.augment_image(image)
 
-        return image, depth_gt
+    #     return image, depth_gt
 
-    def augment_image(self, image):
-        # gamma augmentation
-        gamma = random.uniform(0.9, 1.1)
-        image_aug = image ** gamma
+    # def augment_image(self, image):
+    #     # gamma augmentation
+    #     gamma = random.uniform(0.9, 1.1)
+    #     image_aug = image ** gamma
 
-        # brightness augmentation
-        if self.args.dataset == 'nyu':
-            brightness = random.uniform(0.75, 1.25)
-        else:
-            brightness = random.uniform(0.9, 1.1)
-        image_aug = image_aug * brightness
+    #     # brightness augmentation
+    #     if self.args.dataset == 'nyu':
+    #         brightness = random.uniform(0.75, 1.25)
+    #     else:
+    #         brightness = random.uniform(0.9, 1.1)
+    #     image_aug = image_aug * brightness
 
-        # color augmentation
-        colors = np.random.uniform(0.9, 1.1, size=3)
-        white = np.ones((image.shape[0], image.shape[1]))
-        color_image = np.stack([white * colors[i] for i in range(3)], axis=2)
-        image_aug *= color_image
-        image_aug = np.clip(image_aug, 0, 1)
+    #     # color augmentation
+    #     colors = np.random.uniform(0.9, 1.1, size=3)
+    #     white = np.ones((image.shape[0], image.shape[1]))
+    #     color_image = np.stack([white * colors[i] for i in range(3)], axis=2)
+    #     image_aug *= color_image
+    #     image_aug = np.clip(image_aug, 0, 1)
 
-        return image_aug
+    #     return image_aug
 
     def __len__(self):
         return len(self.filenames)

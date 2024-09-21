@@ -27,14 +27,14 @@ EPS = 1e-8
 def change_to_kitti(args):
     args.dataset = "kitti"
     args.data_path = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-    args.txt_path = "./text/text_llava-v1.6-vicuna-7b/kitti/train"
+    args.txt_path = "./text/text_llava-v1.6-mistral-7b_5captions/kitti/train"
     args.gt_path = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file = "data_splits/eigen_train_files_with_gt.txt"
     args.input_height = 352
     args.input_width = 1216
     args.do_kb_crop = True
     args.data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-    args.txt_path_eval = "./text/text_llava-v1.6-vicuna-7b/kitti/test"
+    args.txt_path_eval = "./text/text_llava-v1.6-mistral-7b_5captions/kitti/test"
     args.gt_path_eval = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file_eval = "data_splits/eigen_test_files_with_gt.txt"
     args.max_depth_eval = 80
@@ -44,7 +44,7 @@ def change_to_kitti(args):
 def change_to_nyu(args):
     args.dataset = "nyu"
     args.data_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
-    args.txt_path = "./text/text_llava-v1.6-vicuna-7b/nyu/train"
+    args.txt_path = "./text/text_llava-v1.6-mistral-7b_5captions/nyu/train"
     args.gt_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
     args.filenames_file = "data_splits/nyudepthv2_train_files_with_gt.txt"
     args.input_height = 480
@@ -52,7 +52,7 @@ def change_to_nyu(args):
     args.do_kb_crop = False
     args.data_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
     args.gt_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
-    args.txt_path_eval = "./text/text_llava-v1.6-vicuna-7b/nyu/test"
+    args.txt_path_eval = "./text/text_llava-v1.6-mistral-7b_5captions/nyu/test"
     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
     args.max_depth_eval = 10
     args.garg_crop = False
@@ -66,7 +66,7 @@ def change_to_void(args):
     args.min_depth_eval = 0.2
     args.garg_crop = False
 
-    args.txt_path = "./text/text_llava-v1.6-vicuna-7b/void/train"
+    args.txt_path = "./text/text_llava-v1.6-mistral-7b_5captions/void/train"
     args.train_image_path_void = "./data_splits/void/train_image.txt"
     args.train_sparse_depth_path_void = "./data_splits/void/train_sparse_depth.txt"
     args.train_intrinsics_path_void = "./data_splits/void/train_intrinsics.txt"
@@ -76,7 +76,7 @@ def change_to_void(args):
     args.val_sparse_depth_path_void = "./data_splits/void/test_sparse_depth.txt"
     args.val_intrinsics_path_void = "./data_splits/void/test_intrinsics.txt"
     args.val_ground_truth_path_void = "./data_splits/void/test_ground_truth.txt"
-    args.txt_path_eval_void = "./text/text_llava-v1.6-vicuna-7b/void/test"
+    args.txt_path_eval_void = "./text/text_llava-v1.6-mistral-7b_5captions/void/test"
 
     # args.batch_size = 1
 
@@ -622,6 +622,8 @@ def main():
             # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
             # BP
             loss_nyu = depth_loss_nyu(depth_prediction=pred_depth, gts=depth_gt)
+            loss_nyu = loss_nyu / (torch.norm(loss_nyu).detach()+EPS)
+            loss_nyu.backward()
             # loss.backward()
 
             # Training, KITTI Loop
@@ -682,6 +684,8 @@ def main():
             # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
             # BP
             loss_kitti = depth_loss_kitti(depth_prediction=pred_depth, gts=depth_gt)
+            loss_kittt = loss_kitti / (torch.norm(loss_kitti).detach()+EPS)
+            loss_kitti.backward()
 
             # Void Forward, Training
             change_to_void(args)
@@ -745,19 +749,21 @@ def main():
             # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
             # BP
             loss_void = depth_loss_void(depth_prediction=pred_depth, gts=depth_gt.cuda())
+            loss_void = loss_void / (torch.norm(loss_void).detach()+EPS)
+            loss_void.backward()
 
 
 
 
-            if args.norm_loss:
-                loss = loss_nyu / (torch.norm(loss_nyu).detach()+EPS) + loss_kitti / (torch.norm(loss_kitti).detach()+EPS) + loss_void / (torch.norm(loss_void).detach()+EPS)
-            else:
-                raise()
+            # if args.norm_loss:
+            #     loss = loss_nyu / (torch.norm(loss_nyu).detach()+EPS) + loss_kitti / (torch.norm(loss_kitti).detach()+EPS) + loss_void / (torch.norm(loss_void).detach()+EPS)
+            # else:
+            #     raise()
                 # loss = args.lambda_nyu * loss_nyu + (1-args.lambda_nyu) * loss_kitti
             #
             # loss = loss_nyu + loss_kitti
 
-            loss.backward()
+            # loss.backward()
 
             torch.nn.utils.clip_grad_norm_(LanScale_model.parameters(), 1.0) # could be a problem
             optimizer.step()
@@ -769,7 +775,7 @@ def main():
 
             # Log
             if global_step % args.log_freq == 0:
-                eval_summary_writer.add_scalar("Train Loss", loss.item()/image.shape[0], int(global_step))
+                # eval_summary_writer.add_scalar("Train Loss", loss.item()/image.shape[0], int(global_step))
                 eval_summary_writer.add_scalar("NYU Loss", loss_nyu.item()/image.shape[0], int(global_step))
                 eval_summary_writer.add_scalar("KITTI Loss", loss_kitti.item()/image.shape[0], int(global_step))
                 eval_summary_writer.add_scalar("Void Loss", loss_void.item()/image.shape[0], int(global_step))

@@ -30,11 +30,12 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
         else:
             txt_path = data_path+"/"+sample_path[i].split(' ')[0][:-4]+'.txt'
         with open(txt_path, 'r') as file:
+            # print(txt_path, flush=True)
             # for multi captions
-            # if mode=="train":
-            #     random_number = random.randint(0, 4)
-            # else:
-            random_number = 0
+            if mode=="train":
+                random_number = random.randint(0, 4)
+            else:
+                random_number = 0
             for j, line in enumerate(file):
                 if j == random_number:
                     text = line
