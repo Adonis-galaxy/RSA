@@ -1,5 +1,5 @@
---model_name 0921_3d_da_llava16mistral_5captions_noaugment_100epoch_4gpu_tmux0
---batch_size 32
+--model_name 0923_3d_da_10_captions_tmux0
+--batch_size 24
 --num_threads 8
 --num_epochs 100
 --learning_rate 3e-5

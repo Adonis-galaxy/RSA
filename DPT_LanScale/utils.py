@@ -33,16 +33,16 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
             # print(txt_path, flush=True)
             # for multi captions
             if mode=="train":
-                random_number = random.randint(0, 4)
+                random_number = random.randint(0, 9)
             else:
                 random_number = 0
             for j, line in enumerate(file):
                 if j == random_number:
                     text = line
-            if dataset == "void":
-                text_list.append(text.replace("\n", ""))
-            else:
-                text_list.append(text)
+            # if dataset == "void":
+            #     text_list.append(text.replace("\n", ""))
+            # else:
+            text_list.append(text)
 
     return text_list
 

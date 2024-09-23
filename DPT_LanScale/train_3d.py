@@ -20,6 +20,7 @@ from dpt.models import DPTDepthModel
 import eval_void.data_utils as data_utils
 from eval_void.transforms import Transforms
 from eval_void.datasets import KBNetInferenceDataset, KBNetTrainingDataset
+import time
 
 
 EPS = 1e-8
@@ -27,14 +28,14 @@ EPS = 1e-8
 def change_to_kitti(args):
     args.dataset = "kitti"
     args.data_path = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-    args.txt_path = "./text/text_llava-v1.6-mistral-7b_5captions/kitti/train"
+    args.txt_path = "./text/text_all/kitti/train"
     args.gt_path = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file = "data_splits/eigen_train_files_with_gt.txt"
     args.input_height = 352
     args.input_width = 1216
     args.do_kb_crop = True
     args.data_path_eval = "/media/staging1/zyzeng/kitti_raw_data_LanScale/"
-    args.txt_path_eval = "./text/text_llava-v1.6-mistral-7b_5captions/kitti/test"
+    args.txt_path_eval = "./text/text_all/kitti/test"
     args.gt_path_eval = "/media/staging1/zyzeng/ground_truth/"
     args.filenames_file_eval = "data_splits/eigen_test_files_with_gt.txt"
     args.max_depth_eval = 80
@@ -44,7 +45,7 @@ def change_to_kitti(args):
 def change_to_nyu(args):
     args.dataset = "nyu"
     args.data_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
-    args.txt_path = "./text/text_llava-v1.6-mistral-7b_5captions/nyu/train"
+    args.txt_path = "./text/text_all/nyu/train"
     args.gt_path = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/sync"
     args.filenames_file = "data_splits/nyudepthv2_train_files_with_gt.txt"
     args.input_height = 480
@@ -52,7 +53,7 @@ def change_to_nyu(args):
     args.do_kb_crop = False
     args.data_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
     args.gt_path_eval = "/media/staging1/zyzeng/nyu_depth_v2_LanScale/nyu_depth_v2/official_splits/test"
-    args.txt_path_eval = "./text/text_llava-v1.6-mistral-7b_5captions/nyu/test"
+    args.txt_path_eval = "./text/text_all/nyu/test"
     args.filenames_file_eval = "./data_splits/nyudepthv2_test_files_with_gt.txt"
     args.max_depth_eval = 10
     args.garg_crop = False
@@ -66,7 +67,7 @@ def change_to_void(args):
     args.min_depth_eval = 0.2
     args.garg_crop = False
 
-    args.txt_path = "./text/text_llava-v1.6-mistral-7b_5captions/void/train"
+    args.txt_path = "./text/text_all/void/train"
     args.train_image_path_void = "./data_splits/void/train_image.txt"
     args.train_sparse_depth_path_void = "./data_splits/void/train_sparse_depth.txt"
     args.train_intrinsics_path_void = "./data_splits/void/train_intrinsics.txt"
@@ -76,7 +77,7 @@ def change_to_void(args):
     args.val_sparse_depth_path_void = "./data_splits/void/test_sparse_depth.txt"
     args.val_intrinsics_path_void = "./data_splits/void/test_intrinsics.txt"
     args.val_ground_truth_path_void = "./data_splits/void/test_ground_truth.txt"
-    args.txt_path_eval_void = "./text/text_llava-v1.6-mistral-7b_5captions/void/test"
+    args.txt_path_eval_void = "./text/text_all/void/test"
 
     # args.batch_size = 1
 
@@ -256,20 +257,20 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
                                                                                     'sq_rel', 'log_rms', 'd1', 'd2',
                                                                                     'd3'))
     for i in range(8):
-        print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
-    print('{:7.4f}'.format(eval_measures_cpu[8]))
+        print('{:7.3f}, '.format(eval_measures_cpu[i]), end='')
+    print('{:7.3f}'.format(eval_measures_cpu[8]))
 
     if dataset == 'nyu':
         print("Results for sheets, NYUD2:")
         print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log10', 'rms'))
         for i in [6, 7, 8, 1, 2, 3]:
-            print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+            print('&{:7.3f}    '.format(eval_measures_cpu[i]), end='')
 
     if dataset == 'kitti':
         print("Results for sheets, KITTI:")
         print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log_rms', 'rms'))
         for i in [6, 7, 8, 1, 5, 3]:
-            print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+            print('&{:7.3f}    '.format(eval_measures_cpu[i]), end='')
 
     return eval_measures_cpu
 
@@ -350,14 +351,14 @@ def eval_void(LanScale_model, depth_model, CLIP_model, dataloader_eval, ground_t
                                                                                     'sq_rel', 'log_rms', 'd1', 'd2',
                                                                                     'd3'))
     for i in range(8):
-        print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
-    print('{:7.4f}'.format(eval_measures_cpu[8]))
+        print('{:7.3f}, '.format(eval_measures_cpu[i]), end='')
+    print('{:7.3f}'.format(eval_measures_cpu[8]))
 
     if dataset == 'void':
         print("Results for sheets, VOID:")
         print("{:>6}, {:>6}, {:>6}, {:>6}, {:>6}, {:>6}".format('d1', 'd2', 'd3', 'abs_rel', 'log10', 'rms'))
         for i in [6, 7, 8, 1, 2, 3]:
-            print('{:7.4f}, '.format(eval_measures_cpu[i]), end='')
+            print('&{:7.3f}    '.format(eval_measures_cpu[i]), end='')
 
     return eval_measures_cpu
 
@@ -565,6 +566,7 @@ def main():
         change_to_void(args)
         iterator_void = iter(dataloader_train_void)
         change_to_nyu(args)
+        start_time = time.time()
         for step, sample_batched in enumerate(dataloader.data):
             change_to_nyu(args)
             optimizer.zero_grad()
@@ -790,6 +792,17 @@ def main():
             #     torch.save(checkpoint, args.log_directory + '/' + args.model_name + model_save_name)
 
             if global_step % args.eval_freq == 0:
+                print("\n", flush=True)
+                print("Global Step=",global_step, flush=True)
+                now_time = time.time()
+                time_up_to_now = now_time - start_time
+                total_seconds = time_up_to_now.total_seconds()
+                hours = int(total_seconds // 3600)
+                minutes = int((total_seconds % 3600) // 60)
+                seconds = int(total_seconds % 60)
+                print(f"Time up to now: {hours} hours, {minutes} minutes, {seconds} seconds", flush=True)
+
+
                 LanScale_model.eval()
                 CLIP_model.eval()
 
