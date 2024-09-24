@@ -8,3 +8,8 @@ The image shows a street sign on a road.
 A quiet, tree-lined street with a yield sign at the end, inviting drivers to slow down and be cautious.
 The image shows a narrow, tree-lined road with a red and white yield sign on the right side, a manicured hedge on the left, and a brick sidewalk.
 A narrow, tree-lined road with a yield sign at the end, leading to a brick-paved sidewalk.
+An image with a fence, a wall, a pavement, a sky, a tree, and a road.
+An image with a wall, a sky, a road, a fence, a tree, and a pavement.
+An image with a sky, a wall, a road, a fence, a tree, and a pavement.
+An image with a fence, a road, a tree, a wall, a pavement, and a sky.
+An image with a tree, a fence, a pavement, a road, a wall, and a sky.

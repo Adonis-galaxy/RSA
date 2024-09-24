@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and neatly trimmed h
 The image captures a serene residential street, lined with neatly trimmed hedges and trees, with parked cars and a white building in the background, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a white building with a black roof, and a row of green hedges.
 A quiet residential street with parked cars, a white house, and neatly trimmed hedges.
+An image with two cars, a wall, a road, a pavement, a tree, a sky, and a building.
+An image with a pavement, two cars, a tree, a sky, a building, a wall, and a road.
+An image with a road, two cars, a wall, a pavement, a sky, a tree, and a building.
+An image with a wall, a tree, two cars, a road, a sky, a pavement, and a building.
+An image with a pavement, a road, a wall, a building, two cars, a sky, and a tree.

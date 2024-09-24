@@ -8,3 +8,8 @@ A black ping pong table in a room.
 The image captures a room with a ping pong table, a bookshelf, and a window, with the table in the foreground and the bookshelf in the background.
 A large blue ping pong table is in the middle of a room with a red wall and a white door.
 The image shows an indoor setting with a ping pong table in the foreground, a bookshelf to the right, and a window with blinds partially drawn in the background.
+An image with a floor, a table, a window, a shelf, a chair, and a wall.
+An image with a table, a chair, a floor, a window, a shelf, and a wall.
+An image with a window, a wall, a chair, a table, a shelf, and a floor.
+An image with a wall, a table, a floor, a chair, a window, and a shelf.
+An image with a table, a shelf, a chair, a floor, a wall, and a window.

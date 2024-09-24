@@ -8,3 +8,8 @@ A black van driving down a narrow street.
 A black Mercedes-Benz van is parked on the side of a narrow street, with a car parked behind it and a person standing next to the car.
 A large black bus is driving down a narrow street between two buildings, with a smaller car parked on the side.
 A black Mercedes-Benz Sprinter van is parked on the side of a narrow street, with a car parked behind it and a building on the right side.
+An image with a house, a person, four cars, a wall, a truck, a pavement, a tree, a fence, and a road.
+An image with a road, a wall, a house, four cars, a person, a tree, a truck, a fence, and a pavement.
+An image with four cars, a tree, a person, a truck, a pavement, a wall, a house, a fence, and a road.
+An image with a house, four cars, a wall, a truck, a road, a fence, a pavement, a tree, and a person.
+An image with four cars, a person, a fence, a tree, a truck, a pavement, a wall, a house, and a road.

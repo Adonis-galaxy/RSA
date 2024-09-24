@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person riding a bicycle.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a person walking on the sidewalk, under the shade of trees, with buildings on either side.
 The image shows a narrow street lined with parked cars and buildings, with a person walking on the sidewalk and a bicycle parked on the side of the road.
 The image depicts a narrow street lined with parked cars and buildings, with a person walking on the sidewalk and a bicycle parked nearby.
+An image with nine cars, a road, a house, a sky, a person, a pavement, a bicycle, a tree, and a fence.
+An image with a road, nine cars, a fence, a person, a tree, a pavement, a sky, a house, and a bicycle.
+An image with a bicycle, nine cars, a road, a pavement, a sky, a tree, a house, a person, and a fence.
+An image with nine cars, a house, a tree, a fence, a sky, a pavement, a road, a person, and a bicycle.
+An image with nine cars, a pavement, a road, a person, a fence, a sky, a bicycle, a house, and a tree.

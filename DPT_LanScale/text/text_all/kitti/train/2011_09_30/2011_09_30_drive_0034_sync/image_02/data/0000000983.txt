@@ -8,3 +8,8 @@ A black van parked on a street.
 A black van with orange and white lettering is parked on a narrow street in front of a white house with a brown door and a wooden fence.
 A large black van with orange and white lettering is parked on a narrow street between two white houses.
 A black van with orange and white lettering is parked on a narrow street between two white houses, with a wooden fence and a brick pathway in front of the houses.
+An image with a truck, a grass, a pavement, a sky, a road, a tree, a fence, a sea, and a house.
+An image with a pavement, a house, a sea, a grass, a fence, a road, a truck, a tree, and a sky.
+An image with a fence, a grass, a road, a house, a truck, a tree, a sky, a pavement, and a sea.
+An image with a sea, a house, a sky, a pavement, a road, a grass, a truck, a fence, and a tree.
+An image with a sky, a pavement, a tree, a road, a house, a truck, a fence, a grass, and a sea.

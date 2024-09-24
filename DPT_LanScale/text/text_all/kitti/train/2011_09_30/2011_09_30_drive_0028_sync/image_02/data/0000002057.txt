@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with trees and houses, leads to a cul-de-sac where a car is parked and a bicycle leans against a wall.
 The image depicts a narrow, tree-lined street with a few parked cars, a bicycle, and a truck, leading to a residential area with houses and a parked car.
 A quiet residential street with a paved pathway, lined with trees and bushes, leading to a cul-de-sac.
+An image with a truck, a stop, a road, a sky, a grass, a bicycle, a tree, a car, a dirt, a house, and a pavement.
+An image with a tree, a stop, a road, a car, a grass, a truck, a sky, a dirt, a pavement, a house, and a bicycle.
+An image with a stop, a car, a grass, a road, a tree, a pavement, a house, a sky, a truck, a dirt, and a bicycle.
+An image with a sky, a dirt, a pavement, a bicycle, a tree, a house, a truck, a stop, a road, a grass, and a car.
+An image with a dirt, a grass, a bicycle, a stop, a sky, a car, a road, a pavement, a house, a truck, and a tree.

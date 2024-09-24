@@ -8,3 +8,8 @@ A car parked on the side of a street.
 A quiet residential street, with a parked car and bicycle, under a clear blue sky.
 A car is parked on the side of a street, with a bicycle leaning against a building nearby.
 A quiet residential street with parked cars, bicycles, and a few pedestrians, lined with houses and trees, under a clear blue sky.
+An image with six cars, a tree, a grass, a bicycle, a road, a house, a roof, and a pavement.
+An image with six cars, a tree, a bicycle, a house, a roof, a pavement, a grass, and a road.
+An image with six cars, a house, a bicycle, a tree, a road, a roof, a pavement, and a grass.
+An image with six cars, a grass, a tree, a road, a pavement, a bicycle, a house, and a roof.
+An image with six cars, a road, a tree, a bicycle, a pavement, a roof, a grass, and a house.

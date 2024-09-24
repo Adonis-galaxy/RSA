@@ -8,3 +8,8 @@ The image shows an empty room with a wooden floor and white cabinets.
 The image shows an empty room with a wooden floor and a white cabinet, with a single electrical outlet on the wall.
 The image shows an empty room with a large wooden floor, a white wall, and a white cabinet with a shelf.
 The image shows an empty room with a wooden floor, a white wall, and a white cabinet with a shelf.
+An image with a potted, a chair, a floor, a cabinet, a wall, and a shelf.
+An image with a wall, a cabinet, a shelf, a chair, a potted, and a floor.
+An image with a floor, a chair, a potted, a wall, a cabinet, and a shelf.
+An image with a shelf, a potted, a wall, a floor, a cabinet, and a chair.
+An image with a chair, a cabinet, a floor, a wall, a shelf, and a potted.

@@ -8,3 +8,8 @@ A silver car driving on a highway.
 A car on a highway, with a bridge and a cityscape in the background.
 A silver car is driving on a highway with a bridge in the background.
 A car is driving on a highway with a bridge in the background, and there are buildings in the distance.
+An image with a fence, a car, a tree, a grass, a road, and a building.
+An image with a grass, a road, a tree, a car, a building, and a fence.
+An image with a fence, a car, a building, a grass, a road, and a tree.
+An image with a building, a tree, a car, a grass, a road, and a fence.
+An image with a car, a road, a building, a grass, a tree, and a fence.

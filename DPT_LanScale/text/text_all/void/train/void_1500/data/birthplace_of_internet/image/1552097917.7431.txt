@@ -8,3 +8,8 @@ A room with a green wall and a refrigerator.
 The image shows a room with a green wall, a desk with a computer, a refrigerator, and a shelf with various items.
 The image shows a room with a large refrigerator, a desk with a chair, and a projector. The room has green walls and is illuminated by fluorescent lights.
 The image shows an office with a green wall, a desk with a computer, a refrigerator, and a bulletin board.
+An image with a dining, four chairs, a tv, a person, a shelf, a wall, a refrigerator, a ceiling, a floor, and a light.
+An image with four chairs, a light, a wall, a tv, a ceiling, a person, a shelf, a dining, a floor, and a refrigerator.
+An image with a light, four chairs, a person, a shelf, a ceiling, a dining, a tv, a refrigerator, a floor, and a wall.
+An image with a light, a tv, a refrigerator, a shelf, a ceiling, a dining, four chairs, a wall, a floor, and a person.
+An image with a wall, a floor, four chairs, a tv, a person, a light, a dining, a shelf, a refrigerator, and a ceiling.

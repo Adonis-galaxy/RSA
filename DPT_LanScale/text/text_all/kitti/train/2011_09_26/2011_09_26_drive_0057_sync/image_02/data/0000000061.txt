@@ -8,3 +8,8 @@ The image shows a busy street with a red car driving on the road.
 The image captures a moment of urban life, featuring a red car driving on a street with multiple lanes, traffic lights, and a truck in the background, all under a clear blue sky.
 A red car is driving down a street with a traffic light, a truck, and a car in the background.
 A red car is driving on a road with a white line, passing under a traffic light and a street sign, with a mountain in the background and a building on the right side.
+An image with nine cars, nine traffics, a road, a house, a pavement, a sky, a tree, a grass, a mountain, and a truck.
+An image with nine cars, a tree, a house, a mountain, nine traffics, a grass, a road, a pavement, a sky, and a truck.
+An image with a pavement, nine cars, nine traffics, a truck, a sky, a grass, a mountain, a tree, a road, and a house.
+An image with nine cars, a grass, a mountain, nine traffics, a truck, a road, a tree, a pavement, a house, and a sky.
+An image with nine cars, a mountain, a road, nine traffics, a truck, a grass, a sky, a pavement, a tree, and a house.

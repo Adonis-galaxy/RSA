@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a clear pathway, inviting for a leisurely stroll.
 A tree-lined street with a clear pathway, bordered by a sidewalk and a hedge, leading to a white building with a red roof.
 A tree-lined street with a clear pathway, bordered by a sidewalk and a hedge, leading to a white building with a red roof.
+An image with a person, a bicycle, three cars, a grass, a road, a pavement, a sky, and a tree.
+An image with a person, a bicycle, a pavement, three cars, a tree, a grass, a road, and a sky.
+An image with a road, a bicycle, a sky, three cars, a grass, a tree, a pavement, and a person.
+An image with a grass, three cars, a pavement, a person, a bicycle, a road, a sky, and a tree.
+An image with a sky, a road, three cars, a grass, a pavement, a person, a tree, and a bicycle.

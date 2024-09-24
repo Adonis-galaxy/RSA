@@ -8,3 +8,8 @@ A city bus is stopped at a traffic light.
 A city bus is stopped at a traffic light on a street corner, with a pedestrian waiting to cross the street.
 A large white bus is driving down a street with a red traffic light, passing through an intersection with a pedestrian crossing.
 A city street scene with a bus, traffic lights, and pedestrians, viewed from a crosswalk.
+An image with four traffics, five cars, a road, a handbag, a person, a stop, two buses, a grass, and a tree.
+An image with a person, five cars, two buses, four traffics, a road, a tree, a stop, a grass, and a handbag.
+An image with two buses, five cars, four traffics, a road, a handbag, a person, a grass, a stop, and a tree.
+An image with a road, a handbag, four traffics, a stop, two buses, five cars, a tree, a grass, and a person.
+An image with four traffics, a stop, five cars, a person, a road, two buses, a handbag, a grass, and a tree.

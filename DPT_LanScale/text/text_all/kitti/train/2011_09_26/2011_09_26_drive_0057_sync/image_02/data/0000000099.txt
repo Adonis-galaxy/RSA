@@ -8,3 +8,8 @@ The image shows a busy street with cars and a dog.
 The image captures a bustling city street scene with a red car in the foreground, a white car in the background, and various traffic lights and signs indicating a busy intersection.
 A red car is driving down a street with multiple lanes, passing under traffic lights and a large street sign.
 A busy street scene with a red car driving on the right side of the road, passing through an intersection with multiple traffic lights and signs, and surrounded by various vehicles and buildings.
+An image with nine traffics, ten cars, a tree, a grass, a truck, a mountain, a pavement, a sky, a house, and a road.
+An image with nine traffics, ten cars, a sky, a mountain, a truck, a pavement, a house, a tree, a grass, and a road.
+An image with a truck, nine traffics, ten cars, a mountain, a house, a pavement, a road, a tree, a sky, and a grass.
+An image with a road, ten cars, nine traffics, a truck, a mountain, a grass, a house, a sky, a tree, and a pavement.
+An image with ten cars, nine traffics, a pavement, a grass, a mountain, a truck, a tree, a house, a road, and a sky.

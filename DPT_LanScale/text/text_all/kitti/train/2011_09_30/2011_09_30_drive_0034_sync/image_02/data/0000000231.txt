@@ -8,3 +8,8 @@ A narrow, tree-lined street.
 A narrow, sunlit alleyway between two hedges, with parked cars and a house in the background.
 The image shows a narrow, tree-lined street with a brick pavement, a white wall on the left side, and a white house with a black car parked in front of it.
 A narrow, tree-lined alleyway between two walls, with a brick pathway and parked cars, leads to a white house with a black car parked in front.
+An image with a house, a pavement, two cars, a tree, a wall, and a sky.
+An image with a house, two cars, a wall, a sky, a tree, and a pavement.
+An image with a house, a tree, two cars, a wall, a sky, and a pavement.
+An image with a house, a wall, a pavement, two cars, a tree, and a sky.
+An image with two cars, a wall, a tree, a sky, a pavement, and a house.

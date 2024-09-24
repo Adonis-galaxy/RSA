@@ -8,3 +8,8 @@ The image shows a street with a white van parked on the side.
 A quiet residential street with a mix of vehicles and greenery.
 The image shows a narrow street with a white van parked on the side, a white house with a blue sky background, and a green hedge on the right side.
 A quiet residential street with a curved layout, lined with houses, trees, and a parked van.
+An image with a tree, a road, a sky, a fence, a mountain, a bus, a house, a grass, and a car.
+An image with a car, a tree, a road, a fence, a mountain, a bus, a house, a grass, and a sky.
+An image with a tree, a grass, a bus, a mountain, a sky, a car, a house, a fence, and a road.
+An image with a mountain, a house, a bus, a sky, a road, a car, a grass, a tree, and a fence.
+An image with a sky, a bus, a car, a road, a grass, a tree, a house, a mountain, and a fence.

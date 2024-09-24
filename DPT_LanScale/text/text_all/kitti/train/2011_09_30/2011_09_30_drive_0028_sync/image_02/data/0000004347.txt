@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 The image captures a scene of a narrow street lined with parked cars, with a mix of old and new models, and a few trees providing shade.
 The image shows a narrow street lined with parked cars, with a mix of small and large vehicles, and a few trees on the sides.
 A narrow street lined with parked cars and trees, leading to a white building.
+An image with eight cars, a fence, a building, a road, a tree, and a sky.
+An image with eight cars, a tree, a building, a fence, a road, and a sky.
+An image with eight cars, a sky, a building, a road, a fence, and a tree.
+An image with a sky, eight cars, a building, a road, a fence, and a tree.
+An image with a road, a fence, eight cars, a sky, a tree, and a building.

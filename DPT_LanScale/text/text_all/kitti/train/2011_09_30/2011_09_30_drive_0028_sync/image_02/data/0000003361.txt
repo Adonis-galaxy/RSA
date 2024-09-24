@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area with parked cars and build
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles on the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a sign indicating a one-way street and a roundabout ahead.
 A narrow, tree-lined street in a residential area, with parked cars and a few pedestrians, leading to apartment buildings.
+An image with seven cars, a road, a stop, a tree, a pavement, a house, a sky, and a grass.
+An image with seven cars, a pavement, a tree, a stop, a house, a sky, a grass, and a road.
+An image with seven cars, a pavement, a road, a house, a sky, a tree, a stop, and a grass.
+An image with seven cars, a road, a house, a pavement, a grass, a sky, a tree, and a stop.
+An image with seven cars, a tree, a road, a house, a stop, a grass, a pavement, and a sky.

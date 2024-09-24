@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet residential street, lined with parked cars and a sidewalk, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars on the side, a few pedestrians, and a clear blue sky.
 A tree-lined street with parked cars, a sidewalk, and a brick-paved road.
+An image with a light, seven cars, a tree, a sky, a wall, a pavement, and a road.
+An image with seven cars, a pavement, a tree, a light, a road, a sky, and a wall.
+An image with seven cars, a wall, a road, a sky, a tree, a light, and a pavement.
+An image with a sky, a wall, seven cars, a pavement, a tree, a light, and a road.
+An image with seven cars, a wall, a pavement, a light, a tree, a road, and a sky.

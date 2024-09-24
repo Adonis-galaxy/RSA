@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and parked cars.
 A narrow, tree-lined street between brick walls and houses, with a parked car and a gate at the end.
 The image shows a narrow, tree-lined street with parked cars, a garage, and a gate.
 A narrow, tree-lined street with parked cars and a gate at the end.
+An image with a road, four cars, a roof, a fence, a wall, a tree, a pavement, a door, and a sky.
+An image with a road, a door, four cars, a wall, a tree, a roof, a sky, a fence, and a pavement.
+An image with four cars, a door, a road, a sky, a pavement, a fence, a wall, a tree, and a roof.
+An image with a road, a pavement, a tree, a wall, four cars, a fence, a sky, a door, and a roof.
+An image with a sky, a fence, a door, a roof, a wall, a road, four cars, a pavement, and a tree.

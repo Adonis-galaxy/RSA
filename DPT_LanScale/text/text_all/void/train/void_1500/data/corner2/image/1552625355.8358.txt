@@ -8,3 +8,8 @@ A blurry image of a desk with a coffee cup and papers on it.
 A cluttered desk with a coffee cup and papers on it.
 A wooden desk with a coffee cup, papers, and a red cup on it.
 A wooden desk with a coffee cup and papers on it.
+An image with two cups, a floor, a table, a keyboard, a cabinet, a wall, a paper, and a tv.
+An image with a table, a tv, a cabinet, two cups, a wall, a floor, a keyboard, and a paper.
+An image with a wall, a table, two cups, a cabinet, a floor, a keyboard, a tv, and a paper.
+An image with a table, two cups, a cabinet, a keyboard, a wall, a tv, a floor, and a paper.
+An image with a keyboard, two cups, a paper, a table, a wall, a floor, a tv, and a cabinet.

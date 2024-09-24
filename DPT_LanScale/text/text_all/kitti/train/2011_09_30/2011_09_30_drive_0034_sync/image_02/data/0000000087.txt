@@ -8,3 +8,8 @@ A paved roadway leading to a white house.
 A quiet, tree-lined street leads to a white house with a garden, under a clear blue sky.
 A narrow paved road leads to a white house with a brown roof, surrounded by lush greenery and a fence.
 A narrow, tree-lined road leads to a white house with a sloped roof, situated on a hillside.
+An image with a tree, a house, a road, a fence, a grass, and a sky.
+An image with a sky, a fence, a road, a house, a grass, and a tree.
+An image with a house, a fence, a road, a grass, a sky, and a tree.
+An image with a road, a house, a sky, a grass, a fence, and a tree.
+An image with a house, a grass, a sky, a tree, a road, and a fence.

@@ -8,3 +8,8 @@ A microwave on a counter.
 A microwave is sitting on a countertop in a kitchen.
 A small microwave is sitting on a white countertop in a kitchen.
 A stainless steel microwave sits on a white countertop in a kitchen, with a sink and soap dispenser to the left.
+An image with a sink, a floor, two bottles, a paper, a counter, a cabinet, a microwave, a wall, and a light.
+An image with a counter, a wall, a floor, a light, a sink, two bottles, a paper, a cabinet, and a microwave.
+An image with two bottles, a paper, a light, a cabinet, a sink, a counter, a wall, a microwave, and a floor.
+An image with a sink, a counter, two bottles, a cabinet, a wall, a light, a paper, a microwave, and a floor.
+An image with a wall, a microwave, a sink, two bottles, a floor, a counter, a light, a paper, and a cabinet.

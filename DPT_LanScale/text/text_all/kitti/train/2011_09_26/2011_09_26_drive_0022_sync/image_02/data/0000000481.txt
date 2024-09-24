@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear path leading to a white house with a red roof.
 The image shows a narrow street lined with parked cars, with a few larger vehicles and a prominent green car in the foreground.
 A narrow street lined with parked cars and houses, with a blue parking sign and a white building.
+An image with ten cars, a sky, a fence, a tree, a road, a house, and a pavement.
+An image with a road, ten cars, a fence, a house, a pavement, a tree, and a sky.
+An image with a tree, ten cars, a road, a fence, a house, a pavement, and a sky.
+An image with a fence, ten cars, a house, a sky, a pavement, a tree, and a road.
+An image with a house, a fence, a road, ten cars, a tree, a sky, and a pavement.

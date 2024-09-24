@@ -8,3 +8,8 @@ A bus is driving down a street.
 A person stands on a sidewalk, waiting to cross the street, as a bus drives through an intersection, surrounded by trees and traffic lights.
 A large white and red bus is crossing a street at an intersection, with a woman standing on the sidewalk and a traffic light visible in the background.
 A white and red bus is crossing a street at an intersection, with a pedestrian waiting to cross, surrounded by trees and traffic lights.
+An image with three traffics, a tree, a grass, a person, a road, a bus, and a stop.
+An image with a stop, three traffics, a bus, a road, a tree, a person, and a grass.
+An image with a grass, three traffics, a stop, a bus, a tree, a road, and a person.
+An image with a person, a tree, a road, three traffics, a grass, a bus, and a stop.
+An image with a person, a grass, a tree, a road, three traffics, a bus, and a stop.

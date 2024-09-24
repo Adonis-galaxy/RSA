@@ -8,3 +8,8 @@ A small black and white checkered box.
 The image shows a small room with a table, a chair, and a trash can.
 The image shows a small room with a table, a chair, and a trash can.
 The image shows a small room with a desk, a chair, and a trash can. The room has a window and a white wall.
+An image with a chair, a wall, a window, a rug, a dining, and a book.
+An image with a window, a rug, a book, a chair, a wall, and a dining.
+An image with a wall, a chair, a window, a book, a rug, and a dining.
+An image with a chair, a rug, a dining, a book, a window, and a wall.
+An image with a chair, a book, a wall, a window, a dining, and a rug.

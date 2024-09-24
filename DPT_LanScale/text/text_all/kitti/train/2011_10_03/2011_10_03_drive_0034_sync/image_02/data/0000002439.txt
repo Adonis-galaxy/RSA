@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a curved road leading to a row of houses, where a car is parked in front of a building, and a mailbox is situated on the sidewalk.
 The image shows a narrow street with parked cars, a curved road, a white building with a balcony, and a clear sky.
 A quiet residential street with parked cars, a curved road, and a two-story building with a balcony.
+An image with two cars, a fence, a road, a house, a pavement, a sky, a tree, and a truck.
+An image with a road, a tree, a sky, a truck, two cars, a pavement, a house, and a fence.
+An image with a house, two cars, a road, a pavement, a sky, a fence, a truck, and a tree.
+An image with a sky, a truck, a fence, two cars, a house, a pavement, a tree, and a road.
+An image with two cars, a road, a pavement, a tree, a sky, a house, a truck, and a fence.

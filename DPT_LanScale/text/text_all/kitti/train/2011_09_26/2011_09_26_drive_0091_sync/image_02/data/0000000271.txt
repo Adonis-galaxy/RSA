@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a mix of pedestrians, cyclists, and shops, all sharing the space along a narrow, cobblestone road that runs parallel to a tram line.
 A narrow street with a row of shops, a bike lane, and pedestrians.
 A narrow, cobblestone street runs between two-story buildings, with shops on the ground floor and residential apartments above, lined with parked bicycles and pedestrians walking along the sidewalk.
+An image with a railroad, a building, eleven people, three handbags, a sky, three bicycles, a tree, and a pavement.
+An image with eleven people, a railroad, a building, a sky, three bicycles, three handbags, a tree, and a pavement.
+An image with a railroad, a building, three bicycles, a pavement, eleven people, three handbags, a tree, and a sky.
+An image with three bicycles, three handbags, a pavement, eleven people, a sky, a tree, a building, and a railroad.
+An image with eleven people, a building, three bicycles, a pavement, three handbags, a tree, a railroad, and a sky.

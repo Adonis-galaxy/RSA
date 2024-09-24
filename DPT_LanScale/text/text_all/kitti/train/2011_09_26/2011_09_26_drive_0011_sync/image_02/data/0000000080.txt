@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on a road.
 The image captures a tranquil suburban street scene, with a car driving down the road, passing under a traffic light, and surrounded by lush greenery and parked cars.
 The image shows a wide, tree-lined street with a few cars, a traffic light, and a pedestrian crossing.
 The image depicts a wide, tree-lined street with multiple lanes, a crosswalk, traffic lights, and a sign indicating a railroad crossing.
+An image with nine cars, two traffics, a sky, a road, a tree, two people, a bicycle, a truck, a fence, and a grass.
+An image with nine cars, a tree, a truck, two people, a grass, a fence, two traffics, a sky, a bicycle, and a road.
+An image with two traffics, two people, nine cars, a fence, a truck, a grass, a sky, a tree, a bicycle, and a road.
+An image with two people, two traffics, nine cars, a sky, a road, a grass, a bicycle, a fence, a truck, and a tree.
+An image with a sky, two traffics, a fence, nine cars, a bicycle, two people, a road, a truck, a grass, and a tree.

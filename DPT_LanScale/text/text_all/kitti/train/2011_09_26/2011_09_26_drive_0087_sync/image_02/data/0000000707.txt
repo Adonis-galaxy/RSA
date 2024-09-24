@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 A yellow car is parked on the side of a narrow street lined with white houses and trees, with a brick wall and a sign on the left side of the street.
 A yellow car is parked on the side of a narrow street lined with houses and trees.
 A narrow street with a yellow car parked on the side, lined by white houses and a brick wall.
+An image with a pavement, a tree, a wall, a house, a door, two cars, a sky, and a road.
+An image with a wall, a pavement, a door, a house, a tree, a road, a sky, and two cars.
+An image with a wall, two cars, a house, a sky, a road, a tree, a door, and a pavement.
+An image with two cars, a sky, a wall, a road, a tree, a house, a door, and a pavement.
+An image with a pavement, a road, two cars, a door, a sky, a house, a tree, and a wall.

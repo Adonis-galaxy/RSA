@@ -8,3 +8,8 @@ A car is parked on the side of a street.
 A quiet residential street, lined with lush greenery and a single parked car, under a clear blue sky.
 A narrow, tree-lined street with a parked car and a fence.
 A narrow, tree-lined street with a car parked at the end, leading to a house on the left.
+An image with a sky, a car, a fence, a road, a building, a tree, and a pavement.
+An image with a sky, a road, a fence, a tree, a pavement, a car, and a building.
+An image with a fence, a road, a sky, a pavement, a car, a building, and a tree.
+An image with a tree, a fence, a pavement, a sky, a building, a road, and a car.
+An image with a building, a pavement, a tree, a road, a car, a fence, and a sky.

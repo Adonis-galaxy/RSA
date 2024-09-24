@@ -8,3 +8,8 @@ The image shows a street with houses on both sides.
 The image captures a serene residential street, lined with houses and trees, under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, lined with trees and buildings, and a clear blue sky overhead.
 A quiet residential street with a mix of single-family homes and apartment buildings, lined with trees and parked cars, under a clear blue sky.
+An image with a wall, a pavement, six cars, a roof, a sky, a house, a truck, a grass, a road, and a tree.
+An image with a sky, a tree, a road, six cars, a grass, a roof, a house, a wall, a pavement, and a truck.
+An image with a truck, six cars, a grass, a pavement, a sky, a wall, a house, a road, a roof, and a tree.
+An image with six cars, a road, a tree, a pavement, a house, a truck, a wall, a grass, a sky, and a roof.
+An image with a roof, a sky, six cars, a tree, a house, a pavement, a grass, a road, a wall, and a truck.

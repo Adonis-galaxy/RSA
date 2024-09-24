@@ -8,3 +8,8 @@ The image shows a kitchen with orange cabinets and a white floor.
 The image shows a narrow hallway with a white door, a white wall, and an orange cabinet.
 The image shows a narrow hallway with orange cabinets and a white door, leading to a kitchen area with a white refrigerator.
 The image shows a narrow hallway with a white door on the left, leading to a room with a whiteboard and a white microwave on a counter with orange cabinets.
+An image with a floor, two microwaves, a wall, and a cabinet.
+An image with two microwaves, a wall, a floor, and a cabinet.
+An image with two microwaves, a cabinet, a floor, and a wall.
+An image with a floor, a cabinet, a wall, and two microwaves.
+An image with a cabinet, two microwaves, a wall, and a floor.

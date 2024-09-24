@@ -8,3 +8,8 @@ A bathroom with a blue wall and a white poster.
 The image shows a bathroom with a blue wall, a white poster on the wall, and a sink with a faucet.
 The image shows a bathroom with a blue wall, a light fixture, a white paper sign, and a soap dispenser.
 The image shows a bathroom with a blue wall, a white light fixture, and a white paper sign hanging on the wall.
+An image with a light, a wall, a paper, a ceiling, a toothbrush, and a toilet.
+An image with a toilet, a ceiling, a light, a wall, a toothbrush, and a paper.
+An image with a ceiling, a toothbrush, a toilet, a paper, a light, and a wall.
+An image with a toothbrush, a wall, a toilet, a light, a paper, and a ceiling.
+An image with a paper, a ceiling, a wall, a toilet, a light, and a toothbrush.

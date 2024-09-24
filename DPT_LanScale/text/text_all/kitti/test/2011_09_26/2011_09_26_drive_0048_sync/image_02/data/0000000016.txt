@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quiet, narrow street lined with parked cars, leading to a row of buildings, with a clear sky overhead.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear sky overhead.
 The image depicts a narrow, cobblestone street lined with parked cars and buildings, with a clear sky overhead.
+An image with twelve cars, a pavement, a building, a road, a sky, and a tree.
+An image with a pavement, twelve cars, a road, a building, a tree, and a sky.
+An image with twelve cars, a sky, a road, a tree, a pavement, and a building.
+An image with twelve cars, a building, a pavement, a sky, a tree, and a road.
+An image with twelve cars, a tree, a pavement, a road, a sky, and a building.

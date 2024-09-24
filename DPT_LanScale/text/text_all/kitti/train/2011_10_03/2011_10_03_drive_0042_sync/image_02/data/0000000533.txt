@@ -8,3 +8,8 @@ A car driving on a highway.
 The image captures a serene highway scene with a car driving away from a large building complex, set against a backdrop of lush greenery and a clear blue sky.
 A car is driving on a highway with a clear blue sky, a grassy median, and a large building in the distance.
 A long, straight road with a few cars, flanked by trees and buildings, under a clear blue sky.
+An image with a road, a fence, four cars, a grass, a railroad, a building, and a tree.
+An image with a building, a grass, a railroad, a tree, four cars, a fence, and a road.
+An image with a tree, a grass, four cars, a road, a fence, a building, and a railroad.
+An image with a tree, a building, four cars, a road, a railroad, a fence, and a grass.
+An image with a road, a railroad, four cars, a tree, a building, a fence, and a grass.

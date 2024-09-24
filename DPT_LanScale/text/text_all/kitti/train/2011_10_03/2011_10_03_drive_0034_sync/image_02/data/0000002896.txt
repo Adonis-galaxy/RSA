@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few trees providing shade.
 The image shows a narrow street lined with parked cars, a trash can, and a building, with trees and a clear blue sky in the background.
 A quiet residential street with parked cars and a clear sky.
+An image with seven cars, a fence, a building, a bridge, a truck, a wall, a pavement, a road, and a tree.
+An image with a truck, seven cars, a road, a wall, a building, a tree, a bridge, a fence, and a pavement.
+An image with seven cars, a wall, a road, a truck, a pavement, a building, a fence, a bridge, and a tree.
+An image with a wall, a pavement, seven cars, a truck, a tree, a bridge, a fence, a road, and a building.
+An image with seven cars, a tree, a road, a pavement, a fence, a building, a truck, a wall, and a bridge.

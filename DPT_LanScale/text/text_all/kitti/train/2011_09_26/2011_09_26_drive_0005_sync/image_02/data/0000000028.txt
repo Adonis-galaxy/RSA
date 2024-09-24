@@ -8,3 +8,8 @@ A man riding a bicycle on a city street.
 A cyclist navigates a narrow street between parked cars and a building, while a pedestrian crosses the street in front of a white van.
 A man riding a bicycle on a narrow street between parked cars and a building.
 A man rides a bicycle on a street with parked cars, a white van, a red truck, a yellow umbrella, a blue sign, a white building, a tree, a traffic light, and a lamp post.
+An image with a road, two people, four bicycles, a sky, a building, a pavement, a tree, a stop, a handbag, and two trucks.
+An image with a pavement, a tree, two people, a road, two trucks, a handbag, a sky, a stop, four bicycles, and a building.
+An image with four bicycles, a sky, a pavement, a road, a handbag, a building, two trucks, a tree, two people, and a stop.
+An image with four bicycles, two people, a sky, a stop, two trucks, a road, a tree, a pavement, a building, and a handbag.
+An image with two trucks, four bicycles, a pavement, two people, a stop, a tree, a handbag, a sky, a building, and a road.

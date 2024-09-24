@@ -8,3 +8,8 @@ A science lab with various equipment and supplies.
 The image shows a laboratory setting with various pieces of equipment, including a microscope, a computer, and a blue cart with tubes and other scientific apparatus.
 The image shows a laboratory setting with a large blue shelf, a smaller white shelf, a black computer monitor, a black computer tower, a silver lamp, a blue backpack, and various pieces of laboratory equipment.
 The image shows a laboratory setting with a desk, a computer, and various pieces of equipment, including a blue cart with tubes and a black backpack.
+An image with a backpack, a floor, a cabinet, a wall, a keyboard, two windows, a tv, and a counter.
+An image with a counter, a wall, two windows, a floor, a backpack, a cabinet, a keyboard, and a tv.
+An image with a backpack, a cabinet, a tv, two windows, a wall, a floor, a counter, and a keyboard.
+An image with a backpack, a cabinet, a keyboard, a wall, two windows, a tv, a floor, and a counter.
+An image with two windows, a cabinet, a floor, a backpack, a keyboard, a wall, a counter, and a tv.

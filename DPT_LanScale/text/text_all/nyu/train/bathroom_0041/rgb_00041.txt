@@ -8,3 +8,8 @@ A person's leg is visible in the foreground of the image.
 The image captures a serene and well-lit bathroom, featuring a large window, a glass-walled shower, a white bathtub, and a person's leg and foot, suggesting a relaxing moment of solitude.
 The image shows a bathroom with a large window, a bathtub, a sink, and a person's feet visible in the foreground.
 The image shows a bathroom with a large window, a bathtub, a sink, and a mirror, with a person's leg visible in the foreground.
+An image with a wall, a rug, two bottles, a mirror, two sinks, a couch, a window, a counter, a floor, a ceiling, and a cabinet.
+An image with two bottles, a ceiling, a mirror, two sinks, a wall, a window, a floor, a counter, a rug, a cabinet, and a couch.
+An image with a rug, a couch, two sinks, a window, a mirror, a wall, two bottles, a cabinet, a counter, a ceiling, and a floor.
+An image with a couch, a cabinet, a rug, a mirror, two bottles, a counter, two sinks, a ceiling, a wall, a window, and a floor.
+An image with two sinks, a cabinet, two bottles, a wall, a ceiling, a counter, a mirror, a floor, a rug, a window, and a couch.

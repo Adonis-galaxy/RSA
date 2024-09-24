@@ -8,3 +8,8 @@ A chair with a hat on it.
 A gray office chair with a straw hat on top of a desk.
 A gray office chair with a straw hat on top of a wooden desk.
 A gray office chair with a straw hat on top of a wooden desk.
+An image with a rug, a wall, a keyboard, a table, a chair, a cabinet, and a tv.
+An image with a keyboard, a tv, a rug, a chair, a table, a wall, and a cabinet.
+An image with a rug, a tv, a chair, a keyboard, a wall, a cabinet, and a table.
+An image with a table, a cabinet, a rug, a keyboard, a tv, a chair, and a wall.
+An image with a keyboard, a cabinet, a tv, a table, a wall, a rug, and a chair.

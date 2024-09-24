@@ -8,3 +8,8 @@ A row of garages on a street.
 A quiet residential street with a row of garages and parked cars, under a clear blue sky.
 A row of garages with white doors, a street with parked cars, and a sidewalk with a street lamp.
 A row of garages with a paved driveway and a sidewalk, adjacent to a residential street with parked cars.
+An image with a tree, a grass, a roof, a truck, four cars, a wall, a sky, a road, a pavement, and a building.
+An image with four cars, a tree, a roof, a building, a road, a truck, a wall, a grass, a pavement, and a sky.
+An image with a grass, a roof, a truck, a sky, a tree, a wall, a building, four cars, a pavement, and a road.
+An image with a pavement, a wall, a roof, a building, four cars, a road, a sky, a grass, a tree, and a truck.
+An image with a sky, a tree, a building, a roof, a road, four cars, a pavement, a wall, a truck, and a grass.

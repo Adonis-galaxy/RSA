@@ -8,3 +8,8 @@ The image is a photograph of a highway with a median strip and a grassy area on 
 The image captures a long, empty highway with a few cars, flanked by trees and a grassy area, under a bright, cloudy sky.
 The image shows a wide, empty highway with a few cars, a yellow sign in the distance, and a green field on the right side.
 The image shows a wide, multi-lane highway with a median strip, lined with trees and grass, and a clear sky above.
+An image with four cars, a grass, a tree, a road, a person, and a sky.
+An image with a tree, a grass, four cars, a person, a road, and a sky.
+An image with a road, four cars, a sky, a person, a grass, and a tree.
+An image with four cars, a sky, a grass, a tree, a person, and a road.
+An image with a person, four cars, a road, a tree, a grass, and a sky.

@@ -8,3 +8,8 @@ A framed picture on a wooden table.
 The image captures a cozy living room scene, featuring a wooden bench with a framed picture and a lamp on top, a rug on the floor, and a doorway leading to another room.
 The image shows a room with a large wooden bench, a framed picture on the wall, a lamp on the bench, a rug on the floor, and a doorway leading to another room.
 The image shows a room with a dark wooden bench, a framed picture on the wall, a lamp, a rug, and a doorway leading to another room.
+An image with a light, a vase, a wall, a door, a table, a floor, a rug, and a couch.
+An image with a light, a table, a wall, a rug, a floor, a vase, a couch, and a door.
+An image with a table, a wall, a light, a vase, a door, a couch, a rug, and a floor.
+An image with a rug, a table, a wall, a light, a couch, a door, a vase, and a floor.
+An image with a door, a wall, a table, a rug, a light, a couch, a floor, and a vase.

@@ -8,3 +8,8 @@ A room with a table and chairs, and a large black object.
 The image shows a workspace with a large orange machine, a white table, and several chairs.
 The image shows a large, industrial workspace with multiple tables, chairs, and orange panels, featuring a black metal structure and a large black fan.
 The image shows a room with a large orange machine, a white table with chairs, and a black machine on a wooden table.
+An image with two chairs, three tvs, a wall, a floor, a table, and a window.
+An image with two chairs, three tvs, a window, a floor, a wall, and a table.
+An image with three tvs, a floor, two chairs, a wall, a table, and a window.
+An image with a table, three tvs, two chairs, a wall, a window, and a floor.
+An image with a table, a wall, two chairs, a floor, three tvs, and a window.

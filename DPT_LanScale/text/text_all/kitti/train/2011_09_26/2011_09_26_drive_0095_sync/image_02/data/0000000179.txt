@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a solitary figure walking on the sidewalk, under the shade of trees, in front of a row of brick buildings.
 The image shows a narrow street lined with parked cars and buildings, with a person walking on the sidewalk.
 The image depicts a narrow street lined with parked cars and buildings, with a person walking on the sidewalk.
+An image with a person, a pavement, seven cars, a road, a house, a sky, and a tree.
+An image with a person, seven cars, a house, a road, a sky, a tree, and a pavement.
+An image with seven cars, a person, a pavement, a sky, a tree, a house, and a road.
+An image with seven cars, a sky, a tree, a house, a road, a person, and a pavement.
+An image with seven cars, a house, a road, a tree, a sky, a pavement, and a person.

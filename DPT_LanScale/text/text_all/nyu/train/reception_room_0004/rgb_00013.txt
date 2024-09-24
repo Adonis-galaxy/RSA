@@ -8,3 +8,8 @@ A black chair with a patterned seat.
 The image captures a well-lit dining area with a patterned table and chairs, featuring a geometric design on the backrests, set against a backdrop of a tiled floor and a doorway leading to another room.
 The image shows a dining area with a table and four chairs, featuring a patterned upholstery on the chairs and a tiled floor.
 The image shows a modern dining area with a patterned table and chairs, a tiled floor, and a decorative wall.
+An image with four chairs, a potted, a door, two walls, a dining, and a floor.
+An image with two walls, a floor, four chairs, a door, a dining, and a potted.
+An image with a potted, a floor, two walls, four chairs, a dining, and a door.
+An image with a door, four chairs, two walls, a dining, a floor, and a potted.
+An image with two walls, a door, four chairs, a potted, a floor, and a dining.

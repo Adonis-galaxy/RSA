@@ -8,3 +8,8 @@ A view of window.
 The image captures a cozy dining area with a warm and inviting atmosphere, highlighted by the natural light streaming in through the large windows and the comfortable arrangement of the furniture.
 The image shows a dining room with a large table, several chairs, a window with a view of the outside, and a potted plant on a stand.
 The image shows a dining room with a table, chairs, and a window with a view of the outside.
+An image with a potted, a wall, a dining, three chairs, a window, a rug, and a floor.
+An image with a potted, a window, a floor, three chairs, a wall, a dining, and a rug.
+An image with three chairs, a rug, a wall, a floor, a potted, a window, and a dining.
+An image with three chairs, a dining, a wall, a potted, a window, a floor, and a rug.
+An image with a dining, a floor, a potted, three chairs, a window, a rug, and a wall.

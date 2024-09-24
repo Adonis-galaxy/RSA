@@ -8,3 +8,8 @@ A truck is parked on the side of a road.
 A truck is parked on the side of a road, next to a building under construction, with a man standing nearby.
 A large truck is driving down a street lined with parked cars and buildings.
 A street scene with a truck, a car, a construction area, a building under renovation, and a man standing near a yellow dumpster.
+An image with a building, six cars, four trucks, a tree, a grass, a road, a roof, a sky, a person, a fence, and a dirt.
+An image with a sky, four trucks, a dirt, six cars, a building, a roof, a grass, a road, a person, a tree, and a fence.
+An image with six cars, four trucks, a building, a person, a fence, a tree, a dirt, a road, a grass, a roof, and a sky.
+An image with a fence, six cars, four trucks, a road, a building, a dirt, a grass, a sky, a person, a tree, and a roof.
+An image with four trucks, a fence, six cars, a grass, a dirt, a building, a sky, a person, a road, a roof, and a tree.

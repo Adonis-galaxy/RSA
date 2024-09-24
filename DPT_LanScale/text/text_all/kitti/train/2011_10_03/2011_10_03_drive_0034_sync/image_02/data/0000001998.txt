@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a quiet, tree-lined street with a few parked cars, a pedestrian crossing, and a traffic sign, all under a clear blue sky.
 The image shows a tree-lined street with a car parked on the side, a sign indicating a roundabout, and a sidewalk with a bench.
 The image depicts a tree-lined street with a curved road, a parked car, a pedestrian crossing, and a traffic sign.
+An image with three cars, a wall, a road, a tree, a sky, and a pavement.
+An image with a wall, a road, a pavement, three cars, a tree, and a sky.
+An image with a sky, a road, a tree, a pavement, three cars, and a wall.
+An image with a road, a sky, a pavement, three cars, a tree, and a wall.
+An image with three cars, a wall, a road, a tree, a pavement, and a sky.

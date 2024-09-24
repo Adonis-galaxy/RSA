@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 A winding road through a lush green forest, with a red and blue sign indicating a right turn ahead.
 The image shows a narrow, winding road with a red and blue sign on the right side, a white sign on the left side, and a green forest on both sides.
 A winding road with a red and blue sign on the right side, surrounded by lush greenery and trees.
+An image with a road, a tree, a pavement, a stop, and a grass.
+An image with a grass, a stop, a tree, a pavement, and a road.
+An image with a stop, a grass, a road, a tree, and a pavement.
+An image with a road, a stop, a grass, a pavement, and a tree.
+An image with a grass, a stop, a tree, a road, and a pavement.

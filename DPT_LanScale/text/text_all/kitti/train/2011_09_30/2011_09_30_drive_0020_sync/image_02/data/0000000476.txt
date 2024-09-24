@@ -8,3 +8,8 @@ The image shows a street with a number 30 on it, parked cars, and a building in 
 The image captures a quiet residential street, with a clear view of the numbered road, parked cars, and a sign indicating the presence of a Volkswagen dealership.
 The image shows a wide street with a large number 30 on the road, lined with parked cars and buildings, and a sign indicating a Volkswagen dealership.
 The image depicts a street scene with a numbered road, parked cars, apartment buildings, and a Volkswagen sign.
+An image with nine cars, a road, three trucks, a building, a grass, a tree, and a fence.
+An image with nine cars, a grass, a tree, three trucks, a building, a fence, and a road.
+An image with three trucks, nine cars, a building, a grass, a fence, a tree, and a road.
+An image with three trucks, nine cars, a fence, a building, a tree, a road, and a grass.
+An image with nine cars, three trucks, a tree, a fence, a road, a building, and a grass.

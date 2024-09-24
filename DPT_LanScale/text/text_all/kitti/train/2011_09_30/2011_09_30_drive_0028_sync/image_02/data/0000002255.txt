@@ -8,3 +8,8 @@ The image shows a street view with parked cars and a person walking.
 The image captures a quiet residential street, with parked cars lining the sides and a few pedestrians walking along the sidewalk, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a person walking on the sidewalk.
 A narrow street between two-story buildings, lined with parked cars and a few pedestrians, under a bright sunny sky.
+An image with nine cars, a road, a sky, a house, a person, a grass, a flower, a tree, and a pavement.
+An image with a grass, a house, nine cars, a pavement, a sky, a person, a flower, a road, and a tree.
+An image with a person, a road, a sky, nine cars, a flower, a house, a tree, a pavement, and a grass.
+An image with nine cars, a grass, a flower, a person, a road, a house, a pavement, a tree, and a sky.
+An image with nine cars, a flower, a house, a person, a tree, a sky, a grass, a pavement, and a road.

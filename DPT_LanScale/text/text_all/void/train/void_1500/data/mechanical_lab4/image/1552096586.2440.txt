@@ -8,3 +8,8 @@ A sink with a hose attached to it.
 A sink with a hose attached to it, located in a room with a blue first aid box on the wall.
 The image shows a small sink with a hose attached to it, located in a room with a blue first aid box on the wall.
 The image shows a sink with a hose attached to it, located in a room with a cabinet and a blue box on the wall.
+An image with a floor, a counter, a wall, a sink, and a cabinet.
+An image with a cabinet, a sink, a floor, a counter, and a wall.
+An image with a wall, a floor, a sink, a cabinet, and a counter.
+An image with a counter, a sink, a floor, a cabinet, and a wall.
+An image with a wall, a counter, a floor, a cabinet, and a sink.

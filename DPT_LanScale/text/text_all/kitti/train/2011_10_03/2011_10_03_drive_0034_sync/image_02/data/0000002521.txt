@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car parked on the side.
 A quiet residential street, lined with trees and parked cars, leads to a building with a white wall and a blue roof.
 The image shows a narrow street lined with trees and buildings, with a car parked on the side and a white wall on the other side.
 A quiet residential street with a parked car, a white wall, and a few trees.
+An image with a wall, a road, a tree, two cars, a pavement, a grass, and a sky.
+An image with a grass, a road, a pavement, a tree, two cars, a wall, and a sky.
+An image with a pavement, two cars, a wall, a tree, a grass, a sky, and a road.
+An image with a wall, two cars, a pavement, a tree, a road, a sky, and a grass.
+An image with two cars, a sky, a wall, a road, a tree, a pavement, and a grass.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white building on the right side.
 The image captures a quiet, tree-lined street with a few parked cars, leading to a white building with a red sign, under a clear blue sky.
 The image shows a narrow street lined with trees and buildings, with a bicycle parked on the sidewalk and a stop sign visible.
 The image depicts a narrow, tree-lined street with a white building on the right side, a brick wall on the left, and a storefront with a yellow awning in the middle.
+An image with a wall, a building, a road, a bicycle, a bus, a stop, a window, a pavement, and a tree.
+An image with a building, a road, a pavement, a window, a tree, a bus, a stop, a wall, and a bicycle.
+An image with a window, a bicycle, a tree, a pavement, a stop, a road, a building, a wall, and a bus.
+An image with a window, a road, a building, a bicycle, a wall, a stop, a tree, a pavement, and a bus.
+An image with a bus, a pavement, a wall, a stop, a tree, a building, a road, a bicycle, and a window.

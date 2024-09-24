@@ -8,3 +8,8 @@ The image shows a model of a cityscape with buildings and a street.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden stand.
 The image shows a small model of a cityscape, including buildings and a street, placed on a wooden shelf.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden stand.
+An image with a floor, a wall, a counter, a cabinet, a toothbrush, and a sink.
+An image with a counter, a sink, a floor, a cabinet, a toothbrush, and a wall.
+An image with a floor, a sink, a cabinet, a wall, a toothbrush, and a counter.
+An image with a counter, a sink, a floor, a toothbrush, a cabinet, and a wall.
+An image with a sink, a floor, a cabinet, a counter, a toothbrush, and a wall.

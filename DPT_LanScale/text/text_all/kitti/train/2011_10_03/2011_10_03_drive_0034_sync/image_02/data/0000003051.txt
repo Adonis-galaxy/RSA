@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a mix of houses and trees, leading to a cul-de-sac.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a sky, a roof, a wall, a tree, four cars, a stop, a fence, a road, a pavement, and a house.
+An image with four cars, a pavement, a house, a fence, a road, a sky, a tree, a roof, a stop, and a wall.
+An image with a sky, a road, four cars, a fence, a tree, a house, a wall, a pavement, a roof, and a stop.
+An image with four cars, a house, a stop, a tree, a road, a roof, a pavement, a fence, a wall, and a sky.
+An image with four cars, a tree, a fence, a pavement, a roof, a sky, a stop, a wall, a road, and a house.

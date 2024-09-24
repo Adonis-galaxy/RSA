@@ -8,3 +8,8 @@ The image shows a street with cars and trees.
 A quiet suburban street, lined with trees and parked cars, under a clear sky.
 The image shows a narrow, tree-lined street with a few cars parked on the side, and a larger car driving down the road.
 A curving suburban street with parked cars and a mix of residential and commercial buildings.
+An image with four cars, a sky, a road, a pavement, and a tree.
+An image with four cars, a road, a pavement, a tree, and a sky.
+An image with a pavement, a tree, four cars, a road, and a sky.
+An image with a pavement, a road, a sky, four cars, and a tree.
+An image with a road, a tree, a pavement, four cars, and a sky.

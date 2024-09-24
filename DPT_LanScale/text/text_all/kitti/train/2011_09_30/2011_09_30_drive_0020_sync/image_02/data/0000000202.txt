@@ -8,3 +8,8 @@ A man is loading a large yellow box onto a truck.
 A man is loading a large appliance onto a truck parked on a street in a residential area.
 A man is loading a large yellow box onto a truck on a street.
 A man is loading a large yellow box onto a flatbed truck parked on a street lined with houses and trees.
+An image with four cars, a dirt, two people, a house, a tree, a roof, three trucks, a sky, a grass, a road, and a building.
+An image with a sky, four cars, three trucks, a road, a house, a dirt, two people, a building, a tree, a grass, and a roof.
+An image with three trucks, four cars, a house, a dirt, two people, a grass, a tree, a sky, a road, a roof, and a building.
+An image with a grass, a sky, three trucks, four cars, two people, a building, a tree, a house, a dirt, a roof, and a road.
+An image with a sky, a roof, four cars, a dirt, a tree, a road, a house, a building, a grass, three trucks, and two people.

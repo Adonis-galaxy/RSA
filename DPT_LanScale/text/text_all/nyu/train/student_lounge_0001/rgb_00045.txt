@@ -8,3 +8,8 @@ A black and white ping pong table.
 The image captures a room with a ping pong table, chairs, and a whiteboard, suggesting a space for recreational activities and possibly meetings or presentations.
 A small room with a blue ping pong table, two chairs, a whiteboard, and a red wall.
 The image shows a room with a ping pong table in the center, surrounded by chairs and a whiteboard on the wall.
+An image with a book, a wall, a dining, a window, a couch, a shelf, a light, a chair, and a floor.
+An image with a chair, a couch, a dining, a book, a window, a shelf, a light, a wall, and a floor.
+An image with a couch, a floor, a window, a dining, a light, a book, a shelf, a chair, and a wall.
+An image with a book, a wall, a floor, a dining, a couch, a window, a shelf, a light, and a chair.
+An image with a dining, a light, a floor, a shelf, a book, a chair, a window, a wall, and a couch.

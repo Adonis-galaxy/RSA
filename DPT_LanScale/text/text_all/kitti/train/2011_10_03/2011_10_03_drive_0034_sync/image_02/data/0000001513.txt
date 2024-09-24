@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a sidewalk.
 The image shows a narrow street lined with parked cars, a sidewalk, and a row of houses. The street is shaded by trees, and there are circular manhole covers on the pavement.
 The image depicts a residential street with parked cars, a sidewalk, and a curb, leading to a row of houses and a clear sky.
+An image with a pavement, seven cars, a road, a house, a wall, a tree, and a sky.
+An image with seven cars, a wall, a road, a pavement, a sky, a tree, and a house.
+An image with a road, seven cars, a tree, a house, a pavement, a sky, and a wall.
+An image with seven cars, a house, a wall, a road, a pavement, a tree, and a sky.
+An image with a tree, a road, seven cars, a sky, a pavement, a wall, and a house.

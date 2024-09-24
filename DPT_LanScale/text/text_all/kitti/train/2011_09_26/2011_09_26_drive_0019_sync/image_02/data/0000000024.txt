@@ -8,3 +8,8 @@ A car on a road.
 A solitary vehicle travels down a tree-lined road, with a large circular object in the middle of the road.
 A car is driving down a tree-lined road with a large pothole in the middle.
 A single vehicle travels down a tree-lined road, with a circular manhole cover visible in the foreground.
+An image with a grass, a tree, a road, a car, and a sky.
+An image with a grass, a car, a sky, a road, and a tree.
+An image with a sky, a car, a tree, a road, and a grass.
+An image with a sky, a tree, a car, a road, and a grass.
+An image with a grass, a car, a road, a sky, and a tree.

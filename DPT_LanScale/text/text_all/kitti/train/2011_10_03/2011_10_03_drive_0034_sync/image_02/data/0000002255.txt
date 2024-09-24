@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with parked cars and a fence, under a clear sky.
 The image shows a narrow street lined with parked cars and tall hedges, with a white building on the left and a clear sky above.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a residential area.
+An image with a house, a tree, a fence, a road, a sky, and two cars.
+An image with a house, a fence, two cars, a tree, a sky, and a road.
+An image with a house, a fence, two cars, a road, a sky, and a tree.
+An image with a road, a house, a fence, a tree, two cars, and a sky.
+An image with a fence, a tree, a sky, two cars, a house, and a road.

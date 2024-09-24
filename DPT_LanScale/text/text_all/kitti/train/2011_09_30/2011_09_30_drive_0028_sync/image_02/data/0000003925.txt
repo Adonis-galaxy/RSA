@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a sunny day in a residential area, with parked cars lining a tree-lined street, leading to apartment buildings.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a few trees providing shade.
 A narrow street lined with parked cars, trees, and apartment buildings.
+An image with a grass, nine cars, a tree, a road, a dirt, a sky, and a building.
+An image with a dirt, nine cars, a road, a building, a grass, a sky, and a tree.
+An image with nine cars, a sky, a dirt, a road, a tree, a grass, and a building.
+An image with nine cars, a grass, a dirt, a tree, a building, a sky, and a road.
+An image with nine cars, a road, a building, a tree, a grass, a sky, and a dirt.

@@ -8,3 +8,8 @@ A whiteboard with a picture of a person on a table.
 A whiteboard with a book on a table.
 The image shows a whiteboard with a black eraser on the top right corner, a white marble table with a yellow book and a white mug on it, and a window with sunlight shining through.
 The image shows a whiteboard with a black eraser on a white wall, with a table and a book in the foreground.
+An image with a cup, a cake, a dining, a laptop, and a wall.
+An image with a laptop, a cake, a wall, a cup, and a dining.
+An image with a laptop, a wall, a cake, a dining, and a cup.
+An image with a cup, a cake, a wall, a laptop, and a dining.
+An image with a cake, a wall, a laptop, a cup, and a dining.

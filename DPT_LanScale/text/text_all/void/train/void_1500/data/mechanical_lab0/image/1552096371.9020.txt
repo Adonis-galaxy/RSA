@@ -8,3 +8,8 @@ A black computer monitor on a white desk.
 A computer setup on a desk with a keyboard and mouse.
 A black computer monitor on a white desk with a black keyboard and a black mouse.
 A black computer monitor on a white desk with a black keyboard and mouse.
+An image with a rug, a floor, a curtain, a mouse, a table, a keyboard, a tv, and a wall.
+An image with a curtain, a table, a tv, a keyboard, a wall, a floor, a mouse, and a rug.
+An image with a rug, a table, a tv, a keyboard, a wall, a floor, a mouse, and a curtain.
+An image with a tv, a mouse, a floor, a wall, a curtain, a keyboard, a rug, and a table.
+An image with a wall, a tv, a keyboard, a floor, a curtain, a table, a mouse, and a rug.

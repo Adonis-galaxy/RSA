@@ -8,3 +8,8 @@ The image shows a street scene with a train on the tracks and cars on the road.
 The image captures a tranquil suburban street scene, with a red and yellow tram traveling down the road, surrounded by lush greenery and a clear blue sky.
 A large red and yellow train travels down a tree-lined street, with a few cars and a person visible in the distance.
 The image depicts a wide, tree-lined street with a tram running down the middle, flanked by parked cars on both sides, and a clear blue sky overhead.
+An image with three cars, a bus, a road, a sky, a person, a tree, a wall, a building, and a grass.
+An image with a bus, three cars, a grass, a sky, a person, a wall, a tree, a road, and a building.
+An image with three cars, a sky, a tree, a building, a person, a wall, a road, a grass, and a bus.
+An image with a tree, a wall, a bus, a grass, a building, a person, three cars, a road, and a sky.
+An image with a grass, a tree, a sky, a road, a wall, three cars, a person, a bus, and a building.

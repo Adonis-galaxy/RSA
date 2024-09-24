@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a residential street scene with parked cars in front of a two-story house, showcasing a typical day in a suburban neighborhood.
 The image shows a residential street with a row of parked cars in front of a two-story house with a black roof and white walls.
 The image shows a residential street with parked cars in front of a two-story house with a gabled roof and a garage.
+An image with a sky, four cars, a tree, a house, a pavement, a roof, a grass, and a road.
+An image with a road, four cars, a house, a grass, a sky, a pavement, a roof, and a tree.
+An image with a grass, four cars, a house, a pavement, a sky, a tree, a road, and a roof.
+An image with a sky, a tree, four cars, a pavement, a grass, a road, a roof, and a house.
+An image with a roof, a sky, a pavement, four cars, a road, a grass, a tree, and a house.

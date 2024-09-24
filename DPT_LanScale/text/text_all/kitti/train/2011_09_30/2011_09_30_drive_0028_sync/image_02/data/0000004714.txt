@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a white truck.
 A narrow street lined with parked cars and a white truck, with apartment buildings on either side.
 A narrow street lined with parked cars and a large white truck, with apartment buildings on either side.
 A narrow street lined with parked cars and a white truck, with apartment buildings on either side.
+An image with five cars, a pavement, a sky, two trucks, a road, a building, and a tree.
+An image with a road, five cars, a pavement, two trucks, a building, a sky, and a tree.
+An image with five cars, two trucks, a tree, a road, a pavement, a sky, and a building.
+An image with a building, five cars, a road, two trucks, a sky, a pavement, and a tree.
+An image with two trucks, five cars, a tree, a sky, a road, a pavement, and a building.

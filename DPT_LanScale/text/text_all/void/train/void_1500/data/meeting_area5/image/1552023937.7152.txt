@@ -8,3 +8,8 @@ A white desk with two chairs.
 The image shows a white table with two chairs, one of which is partially visible, and a white rug on the floor.
 A white table with two chairs, one of which is partially visible, set on a gray carpeted floor.
 The image shows a white table with two chairs, one of which is partially visible, placed on a gray carpeted floor.
+An image with a window, two chairs, a wall, a dining, and a floor.
+An image with a wall, two chairs, a floor, a window, and a dining.
+An image with two chairs, a window, a dining, a floor, and a wall.
+An image with a wall, two chairs, a dining, a window, and a floor.
+An image with a dining, a wall, a floor, two chairs, and a window.

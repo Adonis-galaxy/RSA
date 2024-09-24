@@ -8,3 +8,8 @@ A bedroom with a blue bedspread.
 The image shows a small, neatly arranged bedroom with a bed, nightstand, and a poster on the wall.
 The image shows a small bedroom with a single bed, a nightstand, a dresser, and a poster on the wall.
 The image shows a small, neatly arranged bedroom with a bed, nightstand, dresser, and a poster on the wall.
+An image with a bed, a floor, a wall, and a rug.
+An image with a wall, a rug, a bed, and a floor.
+An image with a floor, a rug, a wall, and a bed.
+An image with a wall, a floor, a bed, and a rug.
+An image with a rug, a wall, a floor, and a bed.

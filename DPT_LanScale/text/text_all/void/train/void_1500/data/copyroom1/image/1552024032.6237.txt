@@ -8,3 +8,8 @@ A white and blue printer in a room.
 A white and blue printer in a room with a yellow wall.
 The image shows a large white and blue printer in a room with a yellow wall.
 The image shows a white and blue printer in a room with a yellow wall and a black cabinet.
+An image with a cabinet, a wall, a door, a floor, and a table.
+An image with a table, a door, a wall, a cabinet, and a floor.
+An image with a cabinet, a door, a floor, a table, and a wall.
+An image with a wall, a door, a cabinet, a table, and a floor.
+An image with a table, a door, a floor, a cabinet, and a wall.

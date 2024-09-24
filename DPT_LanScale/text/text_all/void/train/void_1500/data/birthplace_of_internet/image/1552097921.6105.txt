@@ -8,3 +8,8 @@ A room with a desk, chairs, and a refrigerator.
 The image shows a room with a desk, a chair, a refrigerator, and a bookshelf.
 The room is a small office with a desk, two stools, a refrigerator, a cabinet, and a bookshelf.
 The image shows a room with a large refrigerator, a desk with a computer, a bookshelf, and a table with a lamp. The room has a green wall and a white floor.
+An image with a floor, a refrigerator, a ceiling, three chairs, nine books, a tv, a light, a table, a dining, a shelf, a paper, a person, and a wall.
+An image with a shelf, nine books, a dining, three chairs, a ceiling, a refrigerator, a paper, a light, a tv, a wall, a floor, a person, and a table.
+An image with nine books, a shelf, a refrigerator, a tv, three chairs, a table, a ceiling, a person, a dining, a floor, a wall, a paper, and a light.
+An image with nine books, a paper, three chairs, a light, a wall, a person, a dining, a table, a ceiling, a tv, a shelf, a refrigerator, and a floor.
+An image with a refrigerator, nine books, a tv, a paper, three chairs, a person, a wall, a table, a light, a dining, a ceiling, a floor, and a shelf.

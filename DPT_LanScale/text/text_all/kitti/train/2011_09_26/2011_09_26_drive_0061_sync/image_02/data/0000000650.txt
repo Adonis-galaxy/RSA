@@ -8,3 +8,8 @@ A narrow pathway between two walls of greenery.
 A narrow, shaded pathway between lush greenery, leading to a gate at the end.
 A narrow, shaded pathway between two fences, with a gate on the right side.
 A narrow, shaded pathway between two fences, bordered by lush greenery.
+An image with a road, a tree, and a fence.
+An image with a tree, a road, and a fence.
+An image with a road, a fence, and a tree.
+An image with a road, a fence, and a tree.
+An image with a tree, a fence, and a road.

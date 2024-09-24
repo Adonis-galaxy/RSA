@@ -8,3 +8,8 @@ A black truck on a street.
 A black SUV parked on a tree-lined street, with a brick wall and a white fence in the background, and a clear blue sky overhead.
 A black SUV is parked on the side of a narrow street lined with trees and a stone wall.
 A narrow, tree-lined street with a brick wall on one side, leading to a residential area with houses and a parked car.
+An image with a pavement, a fence, a road, a truck, a tree, a wall, and a sky.
+An image with a road, a sky, a truck, a pavement, a fence, a wall, and a tree.
+An image with a tree, a pavement, a road, a sky, a fence, a truck, and a wall.
+An image with a sky, a tree, a truck, a fence, a pavement, a road, and a wall.
+An image with a sky, a pavement, a truck, a road, a fence, a wall, and a tree.

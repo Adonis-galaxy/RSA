@@ -8,3 +8,8 @@ The image shows a residential street with houses on both sides.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac where a child is playing.
 The image depicts a narrow, tree-lined street in a residential area, with houses on both sides, a car parked on the right side, and a child walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with houses on both sides, a car parked on the right, and a child walking on the sidewalk.
+An image with a house, a sky, a tree, a person, a fence, three cars, a grass, and a road.
+An image with a sky, a person, a house, three cars, a tree, a road, a grass, and a fence.
+An image with a house, a grass, three cars, a sky, a road, a tree, a person, and a fence.
+An image with a person, a house, a tree, three cars, a grass, a road, a fence, and a sky.
+An image with a road, a fence, a person, a grass, three cars, a sky, a tree, and a house.

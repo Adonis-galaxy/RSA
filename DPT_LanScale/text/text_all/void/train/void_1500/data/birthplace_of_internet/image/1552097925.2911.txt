@@ -8,3 +8,8 @@ A large, empty room with a refrigerator, table, and chairs.
 The image shows a small, green office space with a desk, chairs, a refrigerator, and a filing cabinet.
 The image shows a small office space with a desk, chairs, a refrigerator, and a filing cabinet.
 The image shows a room with a large refrigerator, a table with chairs, a filing cabinet, and a counter with a drawer. The room has a green wall and a white floor.
+An image with three chairs, a wall, two people, two refrigerators, a dining, a floor, and a shelf.
+An image with three chairs, two people, two refrigerators, a shelf, a floor, a dining, and a wall.
+An image with two people, a dining, three chairs, two refrigerators, a wall, a shelf, and a floor.
+An image with three chairs, two people, two refrigerators, a dining, a floor, a wall, and a shelf.
+An image with a wall, a dining, three chairs, a floor, a shelf, two people, and two refrigerators.

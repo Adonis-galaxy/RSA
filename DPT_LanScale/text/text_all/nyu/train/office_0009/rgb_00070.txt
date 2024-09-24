@@ -8,3 +8,8 @@ The image shows an empty classroom with a whiteboard, a wooden table, and severa
 The image shows an empty conference room with a large whiteboard, a wooden table, and several chairs, all under a ceiling with a light fixture.
 The image shows an empty classroom with a large whiteboard, a wooden table, and several chairs. The ceiling has a projector mounted on it.
 The image shows an empty conference room with a whiteboard, a wooden table, and several chairs, all arranged in a simple and functional layout.
+An image with a ceiling, a tv, five chairs, a light, a wall, a dining, and a table.
+An image with a tv, a wall, five chairs, a light, a ceiling, a dining, and a table.
+An image with a dining, a wall, a tv, five chairs, a table, a ceiling, and a light.
+An image with five chairs, a table, a wall, a light, a dining, a tv, and a ceiling.
+An image with a ceiling, a light, a wall, five chairs, a tv, a table, and a dining.

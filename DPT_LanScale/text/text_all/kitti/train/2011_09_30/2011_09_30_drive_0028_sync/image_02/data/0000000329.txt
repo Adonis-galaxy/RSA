@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a quiet residential street, with a clear view of the road and the surrounding buildings, highlighting the calm and orderly nature of the neighborhood.
 The image shows a narrow street between two-story buildings, with a car parked on the side and a stop sign at the intersection.
 A narrow, tree-lined street between two-story buildings, with a stop sign at the intersection.
+An image with a tree, a house, five cars, a stop, a sky, a road, a pavement, and a truck.
+An image with five cars, a tree, a pavement, a truck, a house, a road, a stop, and a sky.
+An image with a sky, a tree, a stop, a road, five cars, a truck, a house, and a pavement.
+An image with a stop, five cars, a tree, a road, a pavement, a truck, a house, and a sky.
+An image with a truck, five cars, a sky, a pavement, a tree, a house, a stop, and a road.

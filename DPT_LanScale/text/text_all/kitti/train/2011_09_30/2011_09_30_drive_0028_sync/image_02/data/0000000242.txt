@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a typical day in a European city, where cars are parked along a narrow street, and tall buildings with balconies tower over the scene.
 The image shows a narrow street lined with parked cars, with a large white van on the right side and a tall building with many windows on the left side.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear sky overhead.
+An image with nine cars, a sky, a truck, a road, a person, a house, a grass, a stop, and a tree.
+An image with nine cars, a sky, a person, a road, a tree, a stop, a house, a grass, and a truck.
+An image with nine cars, a grass, a sky, a road, a house, a stop, a person, a tree, and a truck.
+An image with nine cars, a person, a sky, a truck, a road, a house, a tree, a stop, and a grass.
+An image with nine cars, a truck, a tree, a sky, a person, a house, a grass, a stop, and a road.

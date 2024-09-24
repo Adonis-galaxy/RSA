@@ -8,3 +8,8 @@ The image shows a staircase with a metal railing.
 The image captures a staircase leading to a blue wall, with a railing on the left side.
 The image shows a staircase with a metal railing leading up to a blue wall.
 The image shows a staircase leading up to a blue wall, with a railing on the left side of the staircase.
+An image with a window, two walls, a fence, and a floor.
+An image with a floor, two walls, a window, and a fence.
+An image with a fence, two walls, a floor, and a window.
+An image with a floor, a fence, a window, and two walls.
+An image with two walls, a window, a fence, and a floor.

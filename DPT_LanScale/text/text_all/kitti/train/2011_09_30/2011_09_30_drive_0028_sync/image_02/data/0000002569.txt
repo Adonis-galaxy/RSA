@@ -8,3 +8,8 @@ The image shows a street scene with a white van driving down the road.
 A quiet residential street with a few parked cars, lined by lush greenery and a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a white van, and a large tree in the foreground.
 A quiet residential street with a few parked cars, lined by trees and houses, leading to a cul-de-sac.
+An image with two stops, a tree, a grass, a pavement, a house, two cars, a road, and a sky.
+An image with two stops, a road, a pavement, a tree, two cars, a grass, a house, and a sky.
+An image with two stops, a tree, a pavement, a sky, two cars, a road, a house, and a grass.
+An image with a sky, a house, a road, a tree, two stops, two cars, a pavement, and a grass.
+An image with a grass, two stops, a house, two cars, a road, a pavement, a tree, and a sky.

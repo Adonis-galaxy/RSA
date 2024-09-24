@@ -8,3 +8,8 @@ A kitchen with a refrigerator, stove, and trash can.
 The image captures a small, somewhat cluttered kitchen with a refrigerator, oven, and sink, featuring a tiled floor and white cabinets.
 The image shows a small kitchen with a refrigerator, a stove, a trash can, and a door.
 The image shows a small, narrow kitchen with white tiled floors, a white refrigerator, a black trash can, a white stove, and a white oven.
+An image with two bottles, a floor, three ovens, a counter, a wall, a refrigerator, a door, and a cabinet.
+An image with two bottles, three ovens, a refrigerator, a floor, a wall, a door, a counter, and a cabinet.
+An image with two bottles, a refrigerator, three ovens, a door, a cabinet, a wall, a counter, and a floor.
+An image with a cabinet, two bottles, three ovens, a counter, a door, a wall, a refrigerator, and a floor.
+An image with three ovens, a cabinet, a floor, a wall, two bottles, a refrigerator, a door, and a counter.

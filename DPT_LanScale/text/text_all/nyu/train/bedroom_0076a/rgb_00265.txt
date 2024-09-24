@@ -8,3 +8,8 @@ A bedroom with a bed and a chair.
 The image shows a small, neatly arranged bedroom with a bed, a chair, and a window.
 The image shows a small room with a bed, a chair, and a window with blinds. The bed is covered with a plaid blanket, and there is a single pillow on it. The chair is positioned next to the bed. The window has blinds that are partially open.
 The image shows a small, neatly arranged bedroom with a bed, a chair, and a window with blinds.
+An image with a shelf, two beds, a wall, a window, a chair, and a floor.
+An image with a window, two beds, a wall, a shelf, a chair, and a floor.
+An image with a chair, a window, a wall, two beds, a shelf, and a floor.
+An image with a window, a wall, two beds, a floor, a shelf, and a chair.
+An image with two beds, a window, a floor, a shelf, a chair, and a wall.

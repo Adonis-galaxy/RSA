@@ -8,3 +8,8 @@ A person walking on a sidewalk.
 A person walking on a sidewalk, observing a car driving on a tree-lined road.
 A person is walking on a sidewalk next to a road with a few cars, while a person is standing on a bridge overlooking the road.
 A person is walking on a sidewalk alongside a tree-lined street with cars driving on the road.
+An image with a tree, a person, a pavement, a wall, two cars, a road, and a handbag.
+An image with a tree, a handbag, a pavement, a road, a person, two cars, and a wall.
+An image with a wall, a tree, a road, a person, a pavement, two cars, and a handbag.
+An image with two cars, a wall, a road, a person, a tree, a pavement, and a handbag.
+An image with a person, a road, two cars, a wall, a tree, a pavement, and a handbag.

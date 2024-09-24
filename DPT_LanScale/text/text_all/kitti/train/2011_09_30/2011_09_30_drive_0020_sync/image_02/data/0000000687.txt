@@ -8,3 +8,8 @@ The image shows a street view of a white house with a gray roof and a red sign o
 The image captures a residential street scene with a large white house, a sign advertising a car dealership, and a clear blue sky.
 The image shows a large white house with a gray roof, a street sign, and a billboard in the background.
 The image shows a residential area with a two-story house, a large billboard, and a street corner with parked cars.
+An image with a tree, a road, a roof, a wall, a house, three cars, a pavement, a grass, and a person.
+An image with a road, a person, a wall, a house, a pavement, three cars, a tree, a grass, and a roof.
+An image with three cars, a wall, a grass, a house, a tree, a roof, a pavement, a person, and a road.
+An image with three cars, a person, a road, a pavement, a wall, a roof, a house, a grass, and a tree.
+An image with a house, a person, a pavement, a tree, a wall, three cars, a grass, a roof, and a road.

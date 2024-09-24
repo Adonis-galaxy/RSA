@@ -8,3 +8,8 @@ A black backpack on a gray bench.
 A black backpack and a gray suitcase are placed on a gray bench, with a magazine and a white plate on the floor.
 A black backpack is sitting on a gray bench next to a black suitcase.
 A black backpack is placed on a gray bench, next to a black suitcase and a white paper.
+An image with a wall, a suitcase, a door, a handbag, a backpack, a floor, a cabinet, a couch, and a book.
+An image with a cabinet, a book, a door, a handbag, a backpack, a couch, a floor, a suitcase, and a wall.
+An image with a door, a wall, a handbag, a book, a suitcase, a couch, a floor, a backpack, and a cabinet.
+An image with a backpack, a handbag, a couch, a suitcase, a wall, a door, a book, a cabinet, and a floor.
+An image with a couch, a book, a suitcase, a backpack, a wall, a handbag, a door, a cabinet, and a floor.

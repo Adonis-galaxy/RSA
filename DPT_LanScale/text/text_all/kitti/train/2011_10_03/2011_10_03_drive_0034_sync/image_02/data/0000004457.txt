@@ -8,3 +8,8 @@ A tree-lined road.
 A solitary road, flanked by trees and a stone wall, leads to a distant horizon under a clear sky.
 A narrow, tree-lined road with a concrete wall on one side and a fence on the other, leading to a clearing in the distance.
 A narrow, tree-lined road with a concrete barrier on one side, leading to a clearing at the end.
+An image with a tree, a dirt, a wall, a fence, a road, and a sky.
+An image with a dirt, a road, a sky, a fence, a tree, and a wall.
+An image with a wall, a dirt, a tree, a road, a fence, and a sky.
+An image with a fence, a dirt, a tree, a sky, a wall, and a road.
+An image with a sky, a road, a tree, a fence, a dirt, and a wall.

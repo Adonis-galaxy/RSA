@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a moment of everyday life on a suburban street, with cars in motion and a clear sky overhead.
 A car is driving down a road with trees on the side, and there are traffic lights ahead.
 The image shows a road with a car driving on it, surrounded by trees and lined with traffic lights.
+An image with two traffics, six cars, a tree, a truck, a pavement, a road, and a grass.
+An image with a pavement, six cars, two traffics, a road, a tree, a truck, and a grass.
+An image with a grass, six cars, two traffics, a truck, a pavement, a road, and a tree.
+An image with a pavement, six cars, two traffics, a grass, a truck, a road, and a tree.
+An image with six cars, a grass, two traffics, a pavement, a road, a tree, and a truck.

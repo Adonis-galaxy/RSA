@@ -8,3 +8,8 @@ The image shows a room with three black chairs and a small orange table.
 The image shows a room with three black chairs and a small orange table.
 The image shows a room with three black chairs and a small orange table.
 The image shows a room with three black chairs, two of which have orange tops, and a trash can in the corner.
+An image with three chairs, a floor, two walls, and a dining.
+An image with a floor, a dining, two walls, and three chairs.
+An image with a dining, two walls, three chairs, and a floor.
+An image with three chairs, two walls, a dining, and a floor.
+An image with two walls, a dining, three chairs, and a floor.

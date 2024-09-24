@@ -8,3 +8,8 @@ A white van is parked on the side of a road.
 A white van is parked on the side of a street, next to a white building, with a flatbed trailer attached, and a man stands nearby.
 A large white van is parked on the side of a street next to a white building, with a man standing nearby.
 A white van is parked on the side of a street, next to a white building, with a white truck parked behind it, and a person standing in front of the white building.
+An image with a house, three trucks, a tree, a building, four cars, a person, a road, and a grass.
+An image with a road, three trucks, four cars, a building, a tree, a person, a house, and a grass.
+An image with a grass, four cars, a house, three trucks, a person, a road, a tree, and a building.
+An image with three trucks, a road, a tree, four cars, a house, a person, a building, and a grass.
+An image with a road, three trucks, a building, four cars, a house, a person, a grass, and a tree.

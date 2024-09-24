@@ -8,3 +8,8 @@ The image shows a street scene with a blue truck, a red car, and a sidewalk.
 A blue truck is parked on the side of a tree-lined street, with a red car parked in front of it, and a white sky overhead.
 A large blue truck is parked on the side of a narrow street lined with trees, and there are several cars parked further down the road.
 A tree-lined street with parked cars, a blue truck, and a red car, leading to a residential area.
+An image with five cars, a sky, a truck, a pavement, a road, a motorcycle, a grass, and a tree.
+An image with five cars, a motorcycle, a sky, a tree, a grass, a road, a pavement, and a truck.
+An image with a road, five cars, a grass, a truck, a pavement, a tree, a sky, and a motorcycle.
+An image with five cars, a truck, a motorcycle, a pavement, a tree, a road, a sky, and a grass.
+An image with a motorcycle, a grass, five cars, a pavement, a sky, a truck, a tree, and a road.

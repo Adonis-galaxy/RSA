@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A quiet residential street, with a parked car and a garage, under a clear blue sky.
 A silver car is parked in a driveway next to a house with a white garage door.
 A quiet residential street with parked cars, a garage, and a driveway, lined with trees and a sidewalk.
+An image with three cars, a tree, a pavement, a building, a road, and a sky.
+An image with a sky, three cars, a tree, a pavement, a building, and a road.
+An image with a sky, three cars, a building, a pavement, a tree, and a road.
+An image with a road, three cars, a sky, a pavement, a building, and a tree.
+An image with three cars, a tree, a pavement, a sky, a road, and a building.

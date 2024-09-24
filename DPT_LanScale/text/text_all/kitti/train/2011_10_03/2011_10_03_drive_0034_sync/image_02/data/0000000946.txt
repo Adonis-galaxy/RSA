@@ -8,3 +8,8 @@ A person riding a motorcycle on a tree-lined street.
 A person riding a motorcycle on a shaded street, with a car parked on the side and a fence along the road.
 A person riding a motorcycle on a tree-lined street.
 A tree-lined street with a motorcyclist riding down the middle, flanked by parked cars on both sides.
+An image with a person, a wall, a tree, a pavement, a sky, a car, a motorcycle, and a road.
+An image with a car, a wall, a person, a sky, a pavement, a road, a motorcycle, and a tree.
+An image with a person, a pavement, a car, a road, a tree, a sky, a wall, and a motorcycle.
+An image with a tree, a person, a pavement, a wall, a motorcycle, a road, a car, and a sky.
+An image with a sky, a tree, a person, a wall, a motorcycle, a road, a car, and a pavement.

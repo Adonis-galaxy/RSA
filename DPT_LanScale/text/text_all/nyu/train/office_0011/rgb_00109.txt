@@ -8,3 +8,8 @@ A whiteboard with writing on it.
 The image captures a room with a whiteboard, a printer, a desk, and a bookshelf, all arranged in a way that suggests a workspace or an office.
 The image shows a small office with a whiteboard, a printer, a desk, and a bookshelf.
 The image shows an office space with a whiteboard on the wall, a desk with a printer, a bookshelf, and a lamp.
+An image with nine books, a floor, a paper, a light, a table, and a shelf.
+An image with a floor, a paper, nine books, a shelf, a light, and a table.
+An image with nine books, a paper, a floor, a light, a table, and a shelf.
+An image with nine books, a paper, a floor, a light, a shelf, and a table.
+An image with nine books, a floor, a table, a light, a paper, and a shelf.

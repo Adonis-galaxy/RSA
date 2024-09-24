@@ -8,3 +8,8 @@ The image shows a first aid station with a green cross on a white sign.
 The image shows a first aid station with a sign indicating its purpose, located next to a door with a sign that reads "B" and a lock, suggesting access control.
 The image shows a first aid station with a green cross on a white sign, located next to a door with a silver handle.
 The image shows a first aid station with a sign indicating its purpose, located next to a door with a sign that reads "B" and a lock.
+An image with a floor, a paper, a wall, and a door.
+An image with a door, a floor, a wall, and a paper.
+An image with a door, a wall, a paper, and a floor.
+An image with a door, a floor, a paper, and a wall.
+An image with a wall, a floor, a paper, and a door.

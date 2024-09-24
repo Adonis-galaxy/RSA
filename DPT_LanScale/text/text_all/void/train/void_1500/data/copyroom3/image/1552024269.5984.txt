@@ -8,3 +8,8 @@ A blurry image of a bathroom sink.
 The image shows a small, blue bathroom sink with a faucet and a soap dispenser on the counter.
 The image shows a small, blue bathroom sink with a faucet and a soap dispenser on the counter.
 The image shows a small, blue bathroom with a sink and a mirror.
+An image with a tv, a bottle, a counter, a floor, a sink, a wall, and a cabinet.
+An image with a floor, a counter, a cabinet, a bottle, a tv, a wall, and a sink.
+An image with a bottle, a cabinet, a sink, a wall, a floor, a counter, and a tv.
+An image with a counter, a sink, a floor, a cabinet, a tv, a wall, and a bottle.
+An image with a floor, a wall, a sink, a tv, a counter, a cabinet, and a bottle.

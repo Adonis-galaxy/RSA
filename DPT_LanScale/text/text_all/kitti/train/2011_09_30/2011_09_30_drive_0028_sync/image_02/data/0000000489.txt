@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked in a parking lot.
 The image captures a quiet residential street, with two parked cars and a solitary tree, under a clear blue sky.
 The image shows a residential street with two cars parked in a parking lot, a house with a white facade and a red car parked in front of it, and a tree-lined street with a white car parked on the side.
 The image shows a residential street with two cars parked in a parking lot, a sidewalk, and houses on both sides.
+An image with two cars, a pavement, a road, a house, a tree, and a sky.
+An image with a road, two cars, a sky, a house, a tree, and a pavement.
+An image with a tree, a pavement, a road, a sky, a house, and two cars.
+An image with a road, a pavement, two cars, a house, a sky, and a tree.
+An image with two cars, a pavement, a sky, a road, a tree, and a house.

@@ -8,3 +8,8 @@ The image shows a street scene with a white car and a motorcycle.
 The image captures a quiet residential street scene with a parked car, a moving car, and a pedestrian, all under a clear sky.
 A white car is parked on the side of a road, with a person walking on the sidewalk and a bicycle parked nearby.
 A white car is parked on the side of a road with a green lawn and trees, and there are two other cars parked further down the road.
+An image with a sky, five people, two cars, a grass, a building, a road, a pavement, and a tree.
+An image with a pavement, a grass, five people, two cars, a sky, a building, a tree, and a road.
+An image with five people, a pavement, a building, a grass, a road, a tree, two cars, and a sky.
+An image with a building, five people, a road, a sky, a tree, two cars, a grass, and a pavement.
+An image with two cars, a road, five people, a pavement, a grass, a sky, a building, and a tree.

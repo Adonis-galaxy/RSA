@@ -8,3 +8,8 @@ The image shows a room with two bunk beds.
 The image shows a room with two bunk beds, one of which is partially visible, and a wooden dresser with a mirror on top. The beds are positioned against a wall, and the room has a wooden floor.
 The image shows a small room with two bunk beds, one of which is partially visible, and a wooden dresser.
 The image shows a room with two bunk beds, one on top of the other, placed against a wall with a window and a mirror on the left side.
+An image with a cabinet, a floor, a wall, a mirror, a window, and a bed.
+An image with a cabinet, a window, a mirror, a bed, a wall, and a floor.
+An image with a mirror, a bed, a window, a wall, a cabinet, and a floor.
+An image with a mirror, a floor, a wall, a window, a cabinet, and a bed.
+An image with a wall, a cabinet, a floor, a window, a bed, and a mirror.

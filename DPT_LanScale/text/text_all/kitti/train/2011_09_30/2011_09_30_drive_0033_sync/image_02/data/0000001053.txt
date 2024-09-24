@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A black car is parked on the side of a street, with a sidewalk and trees in the background, and a house with a red roof is visible in the distance.
 A black car is driving down a tree-lined street, passing by a white house with a red roof.
 A quiet residential street with parked cars, lush greenery, and a clear sky.
+An image with a sky, a tree, a grass, a pavement, a road, two cars, a person, and a house.
+An image with a person, a tree, a house, two cars, a grass, a road, a sky, and a pavement.
+An image with a tree, two cars, a house, a pavement, a grass, a sky, a person, and a road.
+An image with a sky, a road, two cars, a tree, a person, a grass, a pavement, and a house.
+An image with a tree, two cars, a person, a sky, a house, a road, a grass, and a pavement.

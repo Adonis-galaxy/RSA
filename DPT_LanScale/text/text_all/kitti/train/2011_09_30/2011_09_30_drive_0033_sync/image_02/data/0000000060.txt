@@ -8,3 +8,8 @@ A man jogging on a road.
 A man jogging on a tree-lined road, with a clear sky overhead and a lamp post on the sidewalk.
 A man is jogging on a paved path next to a tree-lined road.
 A man is jogging on a tree-lined road with a curved path, under a clear sky.
+An image with a cell, a pavement, a grass, a road, a person, and a tree.
+An image with a road, a cell, a grass, a pavement, a person, and a tree.
+An image with a tree, a road, a person, a grass, a pavement, and a cell.
+An image with a grass, a cell, a road, a tree, a person, and a pavement.
+An image with a person, a road, a pavement, a tree, a cell, and a grass.

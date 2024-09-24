@@ -8,3 +8,8 @@ A book with a picture of a woman on the cover.
 A book with a woman's face on the cover is placed on a table next to a coffee cup.
 A round table with a marble top, a book with a yellow cover and a picture of a woman's face, and a white coffee mug.
 A table with a book, papers, and a cup.
+An image with a wall, a dining, a book, and a cup.
+An image with a dining, a wall, a cup, and a book.
+An image with a book, a cup, a wall, and a dining.
+An image with a book, a cup, a wall, and a dining.
+An image with a cup, a dining, a wall, and a book.

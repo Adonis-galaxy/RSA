@@ -8,3 +8,8 @@ A counter with a yellow basket, blue box, and a cup of straws.
 A counter with a blue and yellow box of tissues, a white cup with straws, and a white napkin.
 A counter with a yellow basket, blue box, and a cup of straws.
 A counter with a yellow basket, blue box, and a cup of straws.
+An image with a wall, a spoon, a paper, a table, and a cup.
+An image with a table, a paper, a wall, a cup, and a spoon.
+An image with a spoon, a table, a wall, a paper, and a cup.
+An image with a wall, a spoon, a cup, a table, and a paper.
+An image with a table, a cup, a paper, a wall, and a spoon.

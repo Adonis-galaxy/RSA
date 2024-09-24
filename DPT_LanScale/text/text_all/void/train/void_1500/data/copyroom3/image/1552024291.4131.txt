@@ -8,3 +8,8 @@ The image shows a blue kitchen cabinet.
 The image shows a blue kitchen with a counter and a door.
 The image shows a small, blue kitchen with a counter and a door.
 The image shows a narrow hallway with a blue wall and a white door, leading to a kitchen area with blue cabinets and a countertop.
+An image with a door, a floor, a wall, a light, and a cabinet.
+An image with a floor, a door, a cabinet, a light, and a wall.
+An image with a light, a wall, a cabinet, a floor, and a door.
+An image with a floor, a cabinet, a light, a wall, and a door.
+An image with a cabinet, a floor, a door, a wall, and a light.

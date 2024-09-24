@@ -8,3 +8,8 @@ A blue chair is sitting at a table.
 A blue chair is placed in front of a white table in a room with a staircase.
 A small blue chair is placed in front of a white table in a room with a staircase and a refrigerator.
 The image shows a room with a table and chairs, a refrigerator, and a staircase.
+An image with two dinings, a chair, a floor, a stairs, two walls, and a refrigerator.
+An image with two dinings, a stairs, two walls, a refrigerator, a floor, and a chair.
+An image with two walls, a floor, two dinings, a stairs, a refrigerator, and a chair.
+An image with two dinings, a chair, a floor, two walls, a refrigerator, and a stairs.
+An image with two dinings, a chair, two walls, a floor, a refrigerator, and a stairs.

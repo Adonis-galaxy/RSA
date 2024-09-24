@@ -8,3 +8,8 @@ A black van driving down a narrow street.
 A black delivery truck is parked on the side of a narrow street, with a car parked behind it and a person standing nearby.
 A large black delivery truck is driving down a narrow street between two buildings, with a smaller car parked on the side.
 A black delivery truck is parked on the side of a narrow street between two buildings, with a car parked in front of it and a person standing nearby.
+An image with a pavement, a tree, a truck, three cars, a fence, a person, a house, a road, and a wall.
+An image with three cars, a person, a fence, a road, a truck, a wall, a house, a pavement, and a tree.
+An image with a truck, a tree, three cars, a road, a pavement, a wall, a person, a house, and a fence.
+An image with a wall, three cars, a road, a tree, a fence, a person, a pavement, a house, and a truck.
+An image with three cars, a person, a tree, a pavement, a truck, a road, a house, a fence, and a wall.

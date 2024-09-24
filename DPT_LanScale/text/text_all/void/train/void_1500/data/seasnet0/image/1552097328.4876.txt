@@ -8,3 +8,8 @@ A computer lab with multiple desks and chairs.
 A computer lab with multiple desks, each equipped with a monitor, keyboard, and mouse.
 A large wooden desk with two computer monitors, two keyboards, two mice, and two black chairs.
 The image shows a computer lab with multiple desks, each equipped with a monitor, keyboard, and mouse, and black chairs with the word "Seasnet" on them.
+An image with three tvs, two mice, a table, three chairs, three keyboards, a rug, and a cell.
+An image with three keyboards, a rug, three chairs, two mice, three tvs, a cell, and a table.
+An image with two mice, three tvs, a cell, three chairs, three keyboards, a table, and a rug.
+An image with three keyboards, three tvs, three chairs, two mice, a cell, a rug, and a table.
+An image with three keyboards, three chairs, a rug, a table, three tvs, a cell, and two mice.

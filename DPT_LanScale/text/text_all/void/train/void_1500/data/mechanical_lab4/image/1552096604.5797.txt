@@ -8,3 +8,8 @@ A sink with a green hose in it.
 A sink with a green hose in it, located in a room with a white wall.
 The image shows a small sink with a green hose attached to it, located in a corner of a room.
 The image shows a sink with a green hose connected to it, and a yellow object on the floor next to the sink.
+An image with a floor, a counter, a wall, and a sink.
+An image with a wall, a floor, a counter, and a sink.
+An image with a floor, a sink, a wall, and a counter.
+An image with a wall, a counter, a sink, and a floor.
+An image with a counter, a wall, a sink, and a floor.

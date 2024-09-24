@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area.
 A quiet residential street, lined with houses, trees, and a blue dumpster, under a clear blue sky.
 The image shows a narrow street lined with houses, trees, and a blue dumpster on the left side.
 A narrow, tree-lined street in a residential area, with a blue dumpster, a red car, and a white house on the right.
+An image with a house, two cars, a fence, a road, a pavement, a sky, a roof, a tree, and a wall.
+An image with two cars, a road, a house, a sky, a pavement, a wall, a fence, a tree, and a roof.
+An image with a road, two cars, a wall, a fence, a house, a tree, a roof, a pavement, and a sky.
+An image with a tree, two cars, a sky, a wall, a roof, a pavement, a road, a fence, and a house.
+An image with a roof, a fence, two cars, a sky, a tree, a wall, a pavement, a road, and a house.

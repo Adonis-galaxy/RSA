@@ -8,3 +8,8 @@ A kitchen with a counter and cabinets.
 The image captures a well-organized kitchen with a clean countertop, white cabinets, and a wooden floor, featuring a framed artwork on the wall above the countertop.
 The image shows a small kitchen with a marble countertop, white cabinets, a wooden floor, and a framed picture on the wall.
 The image shows a kitchen with a marble countertop, white cabinets, a wooden floor, and a framed artwork on the wall.
+An image with a door, a wall, a dining, a ceiling, a cabinet, a counter, and two floors.
+An image with a wall, a door, a ceiling, two floors, a counter, a dining, and a cabinet.
+An image with a ceiling, a dining, a counter, a cabinet, a door, two floors, and a wall.
+An image with a wall, a cabinet, a door, two floors, a dining, a counter, and a ceiling.
+An image with a dining, a wall, two floors, a ceiling, a counter, a door, and a cabinet.

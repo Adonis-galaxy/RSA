@@ -8,3 +8,8 @@ The image shows a street with parked cars and a black van.
 A quiet residential street with parked cars and a lone van, under a clear sky.
 The image shows a narrow street lined with parked cars and a large black van parked on the sidewalk.
 A narrow street lined with parked cars and houses, with a black van parked on the sidewalk.
+An image with a sky, three trucks, seven cars, a fence, a pavement, a house, a road, and a tree.
+An image with a fence, a sky, seven cars, a pavement, three trucks, a tree, a road, and a house.
+An image with seven cars, three trucks, a tree, a road, a house, a pavement, a sky, and a fence.
+An image with three trucks, seven cars, a sky, a road, a fence, a tree, a pavement, and a house.
+An image with seven cars, three trucks, a house, a road, a pavement, a sky, a fence, and a tree.

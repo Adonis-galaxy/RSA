@@ -8,3 +8,8 @@ The image shows a wide, empty road with multiple traffic lights and signs.
 The image captures a wide, empty road with multiple lanes, flanked by trees and lined with traffic lights and signs, leading to a distant highway intersection.
 The image shows a wide, empty road with multiple lanes, a few traffic lights, and a large, orange vehicle in the distance.
 The image shows a wide, multi-lane road with traffic lights, a bus, and a few cars, all under a clear blue sky.
+An image with four traffics, a grass, a truck, a tree, a road, and a car.
+An image with a grass, a truck, four traffics, a road, a car, and a tree.
+An image with a tree, four traffics, a grass, a car, a road, and a truck.
+An image with four traffics, a car, a road, a tree, a truck, and a grass.
+An image with a road, four traffics, a tree, a grass, a truck, and a car.

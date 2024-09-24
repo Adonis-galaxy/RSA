@@ -8,3 +8,8 @@ A red car parked on a street.
 A red SUV parked on a tree-lined street, with a clear view of a white house and a brick wall in the background.
 A red SUV parked on a narrow street between two houses, with trees and bushes lining the road.
 A narrow, tree-lined street with a red SUV parked on the side, leading to a white house with a black roof.
+An image with a house, a pavement, a road, a wall, a roof, a car, a tree, and a sky.
+An image with a road, a sky, a pavement, a house, a wall, a tree, a car, and a roof.
+An image with a wall, a sky, a car, a road, a tree, a roof, a pavement, and a house.
+An image with a roof, a road, a pavement, a tree, a house, a sky, a wall, and a car.
+An image with a roof, a tree, a sky, a wall, a road, a car, a house, and a pavement.

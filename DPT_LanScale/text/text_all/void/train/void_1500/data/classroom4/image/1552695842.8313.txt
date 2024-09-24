@@ -8,3 +8,8 @@ A computer desk with a keyboard, mouse, and monitor.
 A computer desk with a keyboard, mouse, and papers on it.
 A wooden desk with a computer monitor, keyboard, mouse, and papers on it.
 A wooden desk with a computer monitor, keyboard, and mouse, with papers and a pen on top.
+An image with two keyboards, a table, three mice, a paper, two tvs, two chairs, a wall, and a rug.
+An image with two tvs, a wall, two keyboards, three mice, a rug, a table, two chairs, and a paper.
+An image with three mice, two chairs, two keyboards, a table, a rug, a paper, two tvs, and a wall.
+An image with a wall, a rug, two keyboards, a table, two tvs, three mice, a paper, and two chairs.
+An image with a table, two chairs, two keyboards, three mice, two tvs, a paper, a wall, and a rug.

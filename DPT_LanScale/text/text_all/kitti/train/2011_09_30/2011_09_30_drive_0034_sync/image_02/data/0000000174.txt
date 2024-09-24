@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded pathway between two white buildings, bordered by a black fence and lined with green hedges and trees.
 A narrow, shaded pathway between two white buildings, bordered by a black fence and lined with green hedges.
 A narrow, shaded pathway between two white buildings, bordered by a black fence and lined with green hedges and trees.
+An image with a sky, two walls, a fence, a pavement, a tree, and a house.
+An image with a sky, two walls, a tree, a fence, a house, and a pavement.
+An image with two walls, a fence, a house, a pavement, a sky, and a tree.
+An image with a tree, a pavement, a sky, two walls, a fence, and a house.
+An image with a fence, a tree, a pavement, a house, two walls, and a sky.

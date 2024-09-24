@@ -8,3 +8,8 @@ A printer on a desk.
 A printer sits on a desk next to a microwave.
 A large white printer sits on a beige countertop.
 A large white printer sits on a beige countertop, with a white microwave to its right.
+An image with a tv, a cabinet, a scissors, a cup, a floor, and a wall.
+An image with a cup, a scissors, a floor, a tv, a cabinet, and a wall.
+An image with a cabinet, a scissors, a wall, a tv, a cup, and a floor.
+An image with a wall, a scissors, a cabinet, a tv, a cup, and a floor.
+An image with a cup, a floor, a wall, a cabinet, a tv, and a scissors.

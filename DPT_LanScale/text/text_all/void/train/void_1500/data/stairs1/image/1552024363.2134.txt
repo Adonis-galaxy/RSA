@@ -8,3 +8,8 @@ The image shows a staircase with a metal railing.
 The image shows a staircase with a metal railing, leading to a dark hallway.
 The image shows a staircase with a metal railing, leading to a dark hallway.
 The image shows a staircase with a white railing, leading to a darker area with a gray floor.
+An image with a wall, a fence, a stairs, and a floor.
+An image with a wall, a floor, a stairs, and a fence.
+An image with a floor, a wall, a fence, and a stairs.
+An image with a fence, a floor, a stairs, and a wall.
+An image with a wall, a fence, a floor, and a stairs.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with trees and houses, where a black car is parked on the side of the road, casting a shadow on the pavement.
 The image shows a narrow street lined with parked cars and trees, with a white building on the left and a blue sky overhead.
 A quiet residential street with parked cars, lined with trees and houses, under a clear blue sky.
+An image with a house, five cars, a pavement, a sky, a tree, and a road.
+An image with five cars, a pavement, a road, a tree, a sky, and a house.
+An image with a tree, a road, a house, five cars, a sky, and a pavement.
+An image with five cars, a house, a tree, a road, a sky, and a pavement.
+An image with a sky, a pavement, five cars, a road, a tree, and a house.

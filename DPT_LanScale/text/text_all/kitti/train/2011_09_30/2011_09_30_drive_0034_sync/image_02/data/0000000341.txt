@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a brick sidewalk.
 A quiet residential street, with parked cars and a paved pathway, leading to a white house with a black gate.
 The image shows a narrow, tree-lined street with two parked cars and a truck, leading to a white house with a black door and a small garden.
 A narrow, tree-lined street with parked cars and a brick pavement, leading to a white house with a black gate and a red mailbox.
+An image with three potteds, a grass, a roof, a door, a pavement, two walls, a window, a fence, a tree, a truck, and a car.
+An image with a grass, two walls, three potteds, a tree, a fence, a roof, a car, a truck, a door, a pavement, and a window.
+An image with a fence, a roof, a pavement, three potteds, two walls, a door, a tree, a truck, a car, a grass, and a window.
+An image with a door, three potteds, a fence, a car, a pavement, two walls, a window, a roof, a grass, a truck, and a tree.
+An image with a truck, two walls, a grass, a tree, three potteds, a pavement, a fence, a window, a car, a door, and a roof.

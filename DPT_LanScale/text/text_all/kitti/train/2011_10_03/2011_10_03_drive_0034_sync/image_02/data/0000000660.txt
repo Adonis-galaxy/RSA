@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a black car parked on the side of the road, under the shade of a tree, and a red car parked further down the street, both vehicles adding a touch of color to the otherwise green and brown landscape.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building with a green hedge in the background.
 A quiet residential street with parked cars, a sidewalk, and a tree-lined road.
+An image with four cars, a wall, a tree, a road, a sky, a pavement, and a house.
+An image with four cars, a sky, a pavement, a tree, a house, a wall, and a road.
+An image with a wall, a road, a pavement, a house, four cars, a tree, and a sky.
+An image with a pavement, a wall, four cars, a house, a road, a tree, and a sky.
+An image with a tree, four cars, a wall, a house, a sky, a pavement, and a road.

@@ -8,3 +8,8 @@ A desk with a tape measure, a box of annie's macaroni and cheese, a camera bag, 
 A desk with a tape measure, a box of Annie's macaroni and cheese, a camera bag, and a laptop.
 A desk with a tape measure, a box of Annie's macaroni and cheese, a camera bag, a clock, and a black chair.
 A desk with a tape measure, a box of Annie's Cheddar Bunnies, a camera bag, and a laptop.
+An image with two chairs, a clock, a table, a floor, a door, a dining, a tv, a wall, and a cardboard.
+An image with a cardboard, two chairs, a table, a tv, a door, a wall, a clock, a floor, and a dining.
+An image with a cardboard, a tv, a clock, a door, two chairs, a table, a dining, a wall, and a floor.
+An image with a table, a cardboard, a floor, two chairs, a wall, a dining, a tv, a door, and a clock.
+An image with a table, a door, a dining, a clock, two chairs, a cardboard, a wall, a tv, and a floor.

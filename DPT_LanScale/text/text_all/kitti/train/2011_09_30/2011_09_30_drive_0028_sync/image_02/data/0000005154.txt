@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street with parked cars and a few pedestrians, under a clear blue sky.
 The image shows a narrow street with parked cars on both sides, a sidewalk, a building, trees, and a blue sky.
 A quiet residential street with parked cars, a paved sidewalk, and a brick road.
+An image with nine cars, a road, a sky, a person, a building, a grass, a pavement, and a tree.
+An image with nine cars, a building, a sky, a grass, a pavement, a person, a road, and a tree.
+An image with nine cars, a pavement, a road, a person, a sky, a grass, a tree, and a building.
+An image with nine cars, a pavement, a person, a road, a grass, a tree, a building, and a sky.
+An image with nine cars, a tree, a building, a sky, a pavement, a road, a person, and a grass.

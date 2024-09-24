@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a road.
 The image captures a quiet residential street, with a clear path leading to a white house, flanked by trees and signs, under a blue sky.
 The image shows a wide, tree-lined road with a few parked cars, a truck, and a bus, leading to a white building with a red roof. The road is bordered by grass and trees, and there are signs and a lamp post visible.
 A quiet residential street with a clear pathway, lined by trees and parked cars, leading to a white building with a red roof.
+An image with four trucks, a road, two cars, a sky, a grass, a house, a dirt, a tree, and a pavement.
+An image with a pavement, a sky, four trucks, a grass, two cars, a tree, a road, a dirt, and a house.
+An image with four trucks, a grass, a road, two cars, a dirt, a pavement, a house, a sky, and a tree.
+An image with a sky, a tree, two cars, four trucks, a pavement, a road, a house, a grass, and a dirt.
+An image with four trucks, a tree, a dirt, two cars, a sky, a grass, a road, a pavement, and a house.

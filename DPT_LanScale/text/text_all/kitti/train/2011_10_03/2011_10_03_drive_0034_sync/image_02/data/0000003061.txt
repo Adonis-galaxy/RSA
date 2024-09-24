@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and houses.
 The image captures a quiet residential street, with a few parked cars and a house, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a house with a satellite dish on the roof.
 A narrow, tree-lined street with parked cars and a house on the left side.
+An image with five cars, a sky, a roof, a tree, a house, a road, a pavement, and a wall.
+An image with a sky, five cars, a pavement, a road, a roof, a house, a wall, and a tree.
+An image with a pavement, five cars, a roof, a house, a sky, a tree, a wall, and a road.
+An image with five cars, a tree, a sky, a road, a roof, a wall, a pavement, and a house.
+An image with a wall, a house, a tree, a pavement, five cars, a sky, a road, and a roof.

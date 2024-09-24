@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A quiet suburban street, lined with trees and houses, with a few vehicles parked along the side.
 The image shows a quiet residential street with a few parked cars, a truck, and a fence on the right side. The road is lined with trees and grass, and there are signs and buildings in the background.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a tree, three cars, a grass, a fence, a road, a pavement, a roof, and a truck.
+An image with a fence, three cars, a road, a truck, a pavement, a grass, a roof, and a tree.
+An image with a road, three cars, a tree, a pavement, a truck, a roof, a fence, and a grass.
+An image with three cars, a grass, a truck, a road, a pavement, a roof, a fence, and a tree.
+An image with a truck, a road, three cars, a fence, a pavement, a roof, a grass, and a tree.

@@ -8,3 +8,8 @@ A woman riding a bicycle on a narrow street.
 A woman riding a bicycle on a tree-lined street, with parked cars and a truck on the side, under a clear sky.
 A woman riding a bicycle on a narrow street between parked cars and buildings.
 A woman rides her bicycle down a narrow, tree-lined street between parked cars and buildings.
+An image with a road, eleven cars, a wall, two people, a bicycle, a building, a sky, a window, a truck, a pavement, and a tree.
+An image with eleven cars, two people, a truck, a sky, a road, a pavement, a bicycle, a tree, a building, a window, and a wall.
+An image with two people, a window, eleven cars, a wall, a building, a sky, a bicycle, a pavement, a tree, a truck, and a road.
+An image with eleven cars, a pavement, a tree, a truck, a window, two people, a road, a building, a wall, a sky, and a bicycle.
+An image with eleven cars, a pavement, a bicycle, a wall, a building, a sky, a window, a truck, two people, a tree, and a road.

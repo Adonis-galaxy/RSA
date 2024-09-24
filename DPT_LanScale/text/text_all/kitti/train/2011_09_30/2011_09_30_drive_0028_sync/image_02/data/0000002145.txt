@@ -8,3 +8,8 @@ The image shows a street with three cars parked on the side.
 The image captures a quiet residential street scene with parked cars, a sidewalk, and a road, under a clear blue sky.
 The image shows a street scene with three cars parked on the side of the road, a sidewalk, and trees in the background.
 A quiet suburban street with parked cars, a sidewalk, and a lush green lawn.
+An image with a pavement, a road, a sky, a tree, three cars, and a grass.
+An image with a grass, a sky, three cars, a tree, a pavement, and a road.
+An image with a grass, three cars, a road, a sky, a tree, and a pavement.
+An image with three cars, a sky, a road, a pavement, a grass, and a tree.
+An image with a road, three cars, a pavement, a tree, a sky, and a grass.

@@ -8,3 +8,8 @@ The image shows a street scene with a white van parked on the side of the road.
 The image captures a tranquil residential street scene, with a white van parked on the side of the road, a white truck parked in front of a house, and a white car parked in front of a building, all under a clear blue sky.
 A large white van is parked on the side of a street lined with trees and houses.
 A quiet residential street with parked vehicles and a clear sky.
+An image with four cars, a building, two trucks, a tree, a pavement, a road, a sky, and a grass.
+An image with four cars, a road, a pavement, two trucks, a building, a tree, a sky, and a grass.
+An image with four cars, a sky, a pavement, two trucks, a tree, a road, a grass, and a building.
+An image with four cars, a sky, a building, a pavement, a grass, two trucks, a road, and a tree.
+An image with a building, two trucks, a tree, four cars, a sky, a road, a pavement, and a grass.

@@ -8,3 +8,8 @@ A room with a couch and a window.
 The image shows an empty living room with a large window, a black couch, and a small black appliance on the floor.
 The image shows a room with a large window, a black couch, a small black box, and a carpeted floor.
 The image shows a living room with a dark gray couch, a window with blinds, and a black box on the floor.
+An image with a tv, a couch, a wall, a window, and a rug.
+An image with a couch, a rug, a window, a wall, and a tv.
+An image with a wall, a window, a rug, a couch, and a tv.
+An image with a rug, a wall, a window, a couch, and a tv.
+An image with a wall, a window, a rug, a tv, and a couch.

@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a cozy bedroom scene with a neatly made bed, a wooden nightstand, and a window with curtains, all set against a beige wall.
 The image shows a bedroom with a large bed, a framed picture on the wall, a window with curtains, and a nightstand with books.
 The image shows a bedroom with a bed that has a quilt with a geometric pattern, a wooden headboard, and a nightstand with a lamp.
+An image with six books, a curtain, a cup, a handbag, a person, a wall, a bed, and a floor.
+An image with six books, a curtain, a bed, a wall, a floor, a handbag, a person, and a cup.
+An image with six books, a cup, a person, a handbag, a wall, a floor, a bed, and a curtain.
+An image with a cup, six books, a wall, a person, a floor, a handbag, a curtain, and a bed.
+An image with a bed, six books, a curtain, a cup, a wall, a floor, a handbag, and a person.

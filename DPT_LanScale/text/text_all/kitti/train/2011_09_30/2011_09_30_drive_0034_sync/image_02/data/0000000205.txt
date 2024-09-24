@@ -8,3 +8,8 @@ A narrow, tree-lined alleyway.
 A narrow, sunlit alleyway between two hedges, with a brick wall and a lone trash can.
 The image shows a narrow, tree-lined alleyway with a brick pathway, a stone wall, and a hedge on the right side.
 A narrow, tree-lined alleyway leads to a house with a brick wall and a hedge-covered fence.
+An image with two walls, a pavement, a roof, a sky, a tree, a car, and a house.
+An image with a pavement, a roof, a house, two walls, a sky, a car, and a tree.
+An image with a sky, a house, a pavement, a roof, a car, two walls, and a tree.
+An image with a roof, two walls, a tree, a sky, a car, a house, and a pavement.
+An image with a tree, a house, a pavement, a roof, a car, two walls, and a sky.

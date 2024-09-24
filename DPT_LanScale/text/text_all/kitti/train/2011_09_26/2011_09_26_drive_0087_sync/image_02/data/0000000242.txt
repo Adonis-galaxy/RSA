@@ -8,3 +8,8 @@ A white garage with a brown roof.
 A narrow pathway between two white garages, flanked by lush greenery and a brick wall.
 A narrow alleyway between two white garages, with a small green hedge on the right side and a metal fence on the left.
 A narrow, sunlit pathway between two white garages, bordered by lush greenery and a fence, leads to a distant building.
+An image with a fence, a pavement, a wall, a tree, a house, and a sky.
+An image with a house, a wall, a tree, a fence, a pavement, and a sky.
+An image with a house, a fence, a pavement, a tree, a wall, and a sky.
+An image with a tree, a fence, a wall, a sky, a house, and a pavement.
+An image with a tree, a wall, a house, a sky, a pavement, and a fence.

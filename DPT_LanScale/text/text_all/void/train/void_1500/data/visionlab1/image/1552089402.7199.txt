@@ -8,3 +8,8 @@ A man sitting at a desk with a laptop.
 A man in a red shirt is sitting at a desk with a laptop, a coffee cup, and a bag of coffee.
 A man in a red shirt is standing at a desk with a laptop, a coffee cup, and a bag of coffee.
 A man in a red shirt is standing at a desk with a laptop, a coffee cup, and a bag of coffee.
+An image with three chairs, a floor, a person, two cups, a wall, a dining, and a window.
+An image with two cups, a person, a dining, three chairs, a window, a wall, and a floor.
+An image with two cups, a wall, three chairs, a window, a dining, a floor, and a person.
+An image with a floor, two cups, a person, a dining, three chairs, a window, and a wall.
+An image with three chairs, a dining, a person, a floor, two cups, a window, and a wall.

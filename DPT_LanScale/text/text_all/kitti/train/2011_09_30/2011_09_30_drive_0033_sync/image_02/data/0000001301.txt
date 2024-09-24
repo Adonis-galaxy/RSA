@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street in a residential area.
 The image captures a quiet residential street, lined with houses and trees, where the sun casts long shadows and the leaves are changing color, creating a serene atmosphere.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 The image depicts a quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a road, two walls, a fence, four cars, a tree, a pavement, and a window.
+An image with four cars, a tree, a fence, two walls, a pavement, a road, and a window.
+An image with a window, two walls, four cars, a tree, a road, a pavement, and a fence.
+An image with four cars, a pavement, two walls, a window, a fence, a tree, and a road.
+An image with four cars, two walls, a road, a fence, a tree, a window, and a pavement.

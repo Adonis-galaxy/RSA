@@ -8,3 +8,8 @@ The image shows a street with a white car parked on the side.
 The image captures a serene suburban street scene, with a white car parked on the side of the road, surrounded by lush greenery and a clear blue sky.
 A white car is driving down a tree-lined street, with a white wall on the right side and a fence on the left.
 A tree-lined street with parked cars and a white car driving down the road.
+An image with a sky, a road, a tree, a truck, two cars, a grass, and a wall.
+An image with a wall, a sky, a grass, two cars, a road, a tree, and a truck.
+An image with a grass, a sky, a truck, two cars, a road, a tree, and a wall.
+An image with a sky, two cars, a truck, a wall, a road, a tree, and a grass.
+An image with two cars, a truck, a grass, a road, a sky, a tree, and a wall.

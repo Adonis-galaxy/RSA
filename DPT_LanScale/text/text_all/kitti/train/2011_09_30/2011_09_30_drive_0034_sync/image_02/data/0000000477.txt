@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 A quiet residential street, lined with houses and trees, leads to a dead-end cul-de-sac.
 The image shows a narrow alleyway between two buildings, with a car parked at the end of the alley. The alley is lined with small bushes and a fence, and there is a red trash can on the sidewalk.
 A narrow, tree-lined street between two-story buildings, with a car parked at the end, and a pedestrian path leading to a fenced area.
+An image with a road, a tree, a door, a sky, a house, a pavement, a fence, and a car.
+An image with a house, a car, a pavement, a door, a sky, a fence, a tree, and a road.
+An image with a fence, a tree, a car, a road, a pavement, a sky, a house, and a door.
+An image with a tree, a house, a sky, a fence, a pavement, a road, a door, and a car.
+An image with a house, a fence, a car, a road, a tree, a door, a pavement, and a sky.

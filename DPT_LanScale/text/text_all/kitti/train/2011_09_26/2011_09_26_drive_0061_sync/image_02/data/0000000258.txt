@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet, tree-lined street in a residential area, with a parked car and a pedestrian, under a clear blue sky.
 The image shows a narrow, tree-lined street with a few parked cars, a white car driving down the street, and a white gate at the end.
 A narrow, tree-lined street with parked cars and a gate at the end.
+An image with three cars, a road, a house, a door, a wall, a sky, and a tree.
+An image with a road, a sky, a house, three cars, a tree, a door, and a wall.
+An image with three cars, a sky, a wall, a road, a house, a door, and a tree.
+An image with a sky, a house, three cars, a door, a wall, a tree, and a road.
+An image with a house, a wall, a sky, a door, three cars, a tree, and a road.

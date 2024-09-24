@@ -8,3 +8,8 @@ A black keyboard on a wooden desk.
 A desk with a keyboard, scissors, and a whiteboard.
 A desk with a black keyboard, a pair of scissors, a yellow notepad, and a whiteboard.
 A desk with a keyboard, scissors, and a whiteboard.
+An image with a paper, a tv, two chairs, a clock, a wall, a keyboard, a scissors, and a table.
+An image with a keyboard, a table, two chairs, a tv, a wall, a paper, a scissors, and a clock.
+An image with a table, a clock, a tv, a paper, a wall, two chairs, a scissors, and a keyboard.
+An image with a clock, two chairs, a scissors, a keyboard, a table, a wall, a tv, and a paper.
+An image with a wall, two chairs, a paper, a table, a clock, a keyboard, a scissors, and a tv.

@@ -8,3 +8,8 @@ A white van driving down a street.
 A white van driving down a tree-lined street, with a clear sky overhead and a billboard in the distance.
 A white van is driving down a tree-lined street, passing a large billboard and a parked white van.
 A white van is driving down a tree-lined street, passing a parked white van, with a clear sky overhead and a billboard in the distance.
+An image with thirteen cars, two buses, three trucks, a grass, a road, a traffic, a tree, a building, and a sky.
+An image with two buses, a traffic, a tree, thirteen cars, a road, a grass, a building, three trucks, and a sky.
+An image with three trucks, thirteen cars, a traffic, a road, a grass, a sky, two buses, a tree, and a building.
+An image with thirteen cars, two buses, three trucks, a grass, a building, a sky, a traffic, a tree, and a road.
+An image with thirteen cars, a tree, three trucks, a road, a traffic, a building, a grass, two buses, and a sky.

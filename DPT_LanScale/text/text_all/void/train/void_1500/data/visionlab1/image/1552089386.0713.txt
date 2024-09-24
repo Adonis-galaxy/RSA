@@ -8,3 +8,8 @@ A blue cushion on a gray box.
 A blue cushion on a gray box in an office setting.
 A blue cushion on a gray footstool in an office setting.
 The image shows a blue cushioned stool placed in front of a desk with a chair, both situated on a carpeted floor.
+An image with a cabinet, a table, a bench, a chair, and a floor.
+An image with a cabinet, a table, a floor, a chair, and a bench.
+An image with a chair, a cabinet, a floor, a bench, and a table.
+An image with a chair, a floor, a table, a bench, and a cabinet.
+An image with a bench, a table, a cabinet, a floor, and a chair.

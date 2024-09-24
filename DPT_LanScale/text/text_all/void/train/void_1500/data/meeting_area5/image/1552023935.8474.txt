@@ -8,3 +8,8 @@ A white table with two chairs in a room.
 A white table with two chairs in a room.
 A white table with two chairs in a room with a gray carpet.
 A white table with two chairs in a room with a carpeted floor.
+An image with a dining, two chairs, a window, a floor, and a wall.
+An image with a floor, two chairs, a window, a wall, and a dining.
+An image with a dining, a floor, two chairs, a window, and a wall.
+An image with two chairs, a window, a wall, a dining, and a floor.
+An image with two chairs, a wall, a floor, a window, and a dining.

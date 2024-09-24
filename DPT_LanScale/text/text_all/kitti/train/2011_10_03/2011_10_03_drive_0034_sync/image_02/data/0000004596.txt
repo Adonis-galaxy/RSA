@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars, a brick wall, and a white tras
 A quiet residential street, with parked cars and a brick wall, under a clear blue sky.
 The image shows a narrow street with parked cars, a brick wall, a white trash can, a tree, a house, and a street sign.
 A quiet residential street with parked cars, a brick wall, and a paved pathway.
+An image with a stairs, a pavement, a tree, a sky, a truck, a wall, a road, and a grass.
+An image with a tree, a truck, a grass, a road, a sky, a pavement, a wall, and a stairs.
+An image with a grass, a truck, a wall, a pavement, a stairs, a road, a sky, and a tree.
+An image with a road, a wall, a sky, a pavement, a truck, a tree, a grass, and a stairs.
+An image with a road, a tree, a grass, a truck, a sky, a stairs, a pavement, and a wall.

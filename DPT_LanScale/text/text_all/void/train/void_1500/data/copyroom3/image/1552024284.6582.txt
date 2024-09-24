@@ -8,3 +8,8 @@ The image shows a blue table with a black object on it.
 The image shows a blue table with a black object on it, set against a beige wall with a light switch.
 The image shows a blue table with a black object on it, set against a beige wall with a light switch.
 The image shows a blue table against a beige wall with a black object on the table.
+An image with a table, a wall, a cell, and a paper.
+An image with a wall, a paper, a cell, and a table.
+An image with a cell, a table, a paper, and a wall.
+An image with a paper, a cell, a table, and a wall.
+An image with a wall, a cell, a paper, and a table.

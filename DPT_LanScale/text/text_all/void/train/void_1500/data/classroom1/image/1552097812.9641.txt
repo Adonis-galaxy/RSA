@@ -8,3 +8,8 @@ A dirty folding table.
 A dirty folding table with a metal frame.
 A long, narrow, dirty table with a metal frame and a wooden side panel.
 A long, rectangular, metal table with a wooden frame, sitting on a white tiled floor.
+An image with a wall, a floor, a dining, and a refrigerator.
+An image with a dining, a wall, a floor, and a refrigerator.
+An image with a dining, a refrigerator, a wall, and a floor.
+An image with a floor, a dining, a wall, and a refrigerator.
+An image with a floor, a dining, a refrigerator, and a wall.

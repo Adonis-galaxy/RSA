@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a bustling highway scene with multiple lanes of traffic, a clear sky, and a rural landscape in the background.
 The image shows a wide, multi-lane road with several cars driving on it, and there are traffic lights and a railroad crossing in the distance.
 The image depicts a busy highway with multiple lanes, a median, and various vehicles, including cars and trucks, traveling in both directions under a clear sky.
+An image with a sky, six cars, a tree, two traffics, a road, a truck, and a grass.
+An image with a grass, a sky, six cars, a truck, a tree, a road, and two traffics.
+An image with a tree, a sky, six cars, two traffics, a truck, a road, and a grass.
+An image with a truck, two traffics, a grass, a road, six cars, a tree, and a sky.
+An image with six cars, two traffics, a road, a tree, a sky, a grass, and a truck.

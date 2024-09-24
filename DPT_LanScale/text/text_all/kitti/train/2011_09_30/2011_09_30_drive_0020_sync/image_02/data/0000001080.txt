@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet street scene with a parked car, a stop sign, a construction fence, and a building under renovation.
 A small silver car is parked on the side of a road, next to a large orange construction barrier.
 The image shows a street scene with a car parked on the side of the road, a stop sign, a building with a sign, a fence, and a tree.
+An image with a house, four cars, a tree, two stops, a pavement, a wall, a road, a fence, and a grass.
+An image with a grass, a tree, a wall, four cars, two stops, a road, a fence, a house, and a pavement.
+An image with four cars, a grass, a wall, a road, a pavement, a house, two stops, a fence, and a tree.
+An image with a fence, four cars, a wall, a grass, two stops, a pavement, a road, a house, and a tree.
+An image with two stops, four cars, a wall, a road, a tree, a pavement, a fence, a house, and a grass.

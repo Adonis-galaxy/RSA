@@ -8,3 +8,8 @@ A blurry image of a computer chair.
 A blurry image of a computer chair in front of a desk with papers and a remote control.
 A blurry image of a black office chair in front of a large white poster on a beige wall.
 The image shows a blurry office setting with a desk, a chair, and a poster on the wall.
+An image with three books, a tv, a chair, a wall, a floor, a cabinet, a keyboard, and a table.
+An image with a wall, a cabinet, a tv, three books, a keyboard, a chair, a floor, and a table.
+An image with a wall, a cabinet, a floor, three books, a tv, a chair, a table, and a keyboard.
+An image with a cabinet, a chair, three books, a keyboard, a wall, a floor, a table, and a tv.
+An image with three books, a wall, a table, a keyboard, a cabinet, a tv, a chair, and a floor.

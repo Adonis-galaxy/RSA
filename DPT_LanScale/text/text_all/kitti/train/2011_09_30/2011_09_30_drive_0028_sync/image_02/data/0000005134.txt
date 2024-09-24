@@ -8,3 +8,8 @@ The image shows a street scene with a car, a parking meter, and a trash can.
 The image captures a quiet suburban street scene with a car parked near a sidewalk, a parking meter, and a trash can, all under a clear blue sky.
 The image shows a street scene with a car, a trash can, a parking meter, and a tree. The car is small, the trash can is large, the parking meter is medium-sized, and the tree is large.
 The image shows a street scene with a car driving on the road, a sidewalk, a grassy area, a parking lot with two white boxes, and trees lining the street.
+An image with a grass, a tree, a pavement, two cars, a sky, and a road.
+An image with a sky, two cars, a grass, a pavement, a road, and a tree.
+An image with a grass, two cars, a road, a sky, a tree, and a pavement.
+An image with a road, a grass, two cars, a sky, a pavement, and a tree.
+An image with a tree, a pavement, two cars, a grass, a road, and a sky.

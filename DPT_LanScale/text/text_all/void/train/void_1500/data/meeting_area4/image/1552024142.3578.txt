@@ -8,3 +8,8 @@ A row of white chairs around a long white table.
 A long white table with white chairs on a gray carpet.
 A long white table with white chairs on a gray carpeted floor.
 A long white table with white chairs on a gray carpeted floor.
+An image with nine chairs, a door, two walls, two dinings, and a floor.
+An image with two walls, nine chairs, a door, two dinings, and a floor.
+An image with nine chairs, two walls, a floor, a door, and two dinings.
+An image with two walls, nine chairs, a floor, two dinings, and a door.
+An image with nine chairs, two dinings, a door, a floor, and two walls.

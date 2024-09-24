@@ -8,3 +8,8 @@ A silver refrigerator in a kitchen.
 A silver refrigerator in a kitchen with a wooden counter and a white door.
 A silver refrigerator in a kitchen with a wooden counter and an orange wall.
 A silver refrigerator with a note on the door, placed in a kitchen with an orange wall and a white door.
+An image with a door, a bowl, a wall, a window, a refrigerator, a counter, and a floor.
+An image with a counter, a window, a wall, a bowl, a floor, a door, and a refrigerator.
+An image with a wall, a bowl, a refrigerator, a window, a floor, a door, and a counter.
+An image with a floor, a door, a wall, a refrigerator, a window, a bowl, and a counter.
+An image with a window, a door, a wall, a refrigerator, a bowl, a floor, and a counter.

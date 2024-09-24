@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a serene, empty highway with a few cars, a clear sky, and a sense of tranquility.
 The image shows a wide, empty highway with a few cars, a traffic light, and a pedestrian crossing sign.
 The image depicts a wide, empty highway with a clear sky, lined with trees and traffic lights, leading to a distant horizon.
+An image with two traffics, a grass, six cars, a sky, a tree, and a road.
+An image with six cars, a grass, two traffics, a road, a tree, and a sky.
+An image with six cars, a road, a tree, a grass, a sky, and two traffics.
+An image with six cars, a road, two traffics, a grass, a sky, and a tree.
+An image with six cars, a tree, a grass, two traffics, a road, and a sky.

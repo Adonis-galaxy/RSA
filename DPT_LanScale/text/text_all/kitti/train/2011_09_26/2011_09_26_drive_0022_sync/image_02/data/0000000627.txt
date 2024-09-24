@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road and a pedestrian crossing 
 A quiet suburban street, lined with trees and parked cars, under a clear blue sky.
 The image shows a tree-lined street with a car driving on the right side, a pedestrian crossing sign on the right, and a car parked on the left side.
 A tree-lined street with a car parked on the side, a pedestrian crossing sign, and a parked car on the opposite side.
+An image with three cars, a tree, a grass, two people, a road, a sky, and a pavement.
+An image with a pavement, a tree, three cars, a sky, a road, a grass, and two people.
+An image with a road, two people, three cars, a tree, a grass, a pavement, and a sky.
+An image with three cars, a grass, a tree, two people, a pavement, a road, and a sky.
+An image with a road, two people, a tree, three cars, a grass, a sky, and a pavement.

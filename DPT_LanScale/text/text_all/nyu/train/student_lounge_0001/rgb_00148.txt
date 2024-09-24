@@ -8,3 +8,8 @@ A blue ping pong table in a room with a red wall.
 The image captures a room with two ping pong tables, surrounded by chairs and a bookshelf, with a large window allowing natural light to fill the space.
 The image shows a room with two ping pong tables, each with a net and surrounded by chairs, and a bookshelf filled with books in the background.
 The image shows an indoor room with a blue ping pong table, surrounded by chairs and tables, and a bookshelf filled with books.
+An image with fifteen books, a dining, six chairs, a curtain, a ceiling, a shelf, a window, a couch, a wall, and a floor.
+An image with fifteen books, six chairs, a couch, a wall, a window, a ceiling, a shelf, a curtain, a floor, and a dining.
+An image with fifteen books, six chairs, a couch, a ceiling, a curtain, a floor, a window, a wall, a shelf, and a dining.
+An image with fifteen books, six chairs, a ceiling, a shelf, a curtain, a dining, a wall, a floor, a window, and a couch.
+An image with fifteen books, six chairs, a ceiling, a floor, a wall, a curtain, a couch, a window, a dining, and a shelf.

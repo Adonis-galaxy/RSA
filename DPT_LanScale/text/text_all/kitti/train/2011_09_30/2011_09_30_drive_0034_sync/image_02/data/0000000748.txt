@@ -8,3 +8,8 @@ A street in a residential area.
 A quiet, tree-lined street with a single vehicle parked at the curb, leading to a row of houses.
 A narrow street with a white building on the right side, lined with trees and a sidewalk.
 A narrow, tree-lined street with a white building on the right side, leading to a van parked on the sidewalk.
+An image with two walls, a house, a grass, a road, a pavement, a bus, a sky, and a tree.
+An image with a house, two walls, a road, a bus, a grass, a tree, a pavement, and a sky.
+An image with a house, a road, a bus, a pavement, two walls, a sky, a grass, and a tree.
+An image with a sky, a bus, a road, a pavement, a house, a grass, two walls, and a tree.
+An image with a sky, a pavement, two walls, a road, a grass, a tree, a bus, and a house.

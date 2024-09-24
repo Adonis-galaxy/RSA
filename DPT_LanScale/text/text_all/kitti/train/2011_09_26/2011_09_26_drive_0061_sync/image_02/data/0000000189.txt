@@ -8,3 +8,8 @@ The image shows a row of parked cars on a residential street.
 The image captures a quiet residential street, with parked cars lining the sidewalk, under a clear blue sky, with a mix of modern and traditional architecture, and lush greenery.
 The image shows a narrow street lined with parked cars, a white building with a red roof, and a row of trees.
 A row of parked cars on a narrow street, with houses and trees on either side, under a clear blue sky.
+An image with four cars, a road, a sky, a roof, a tree, a house, and a fence.
+An image with a roof, a sky, a fence, a tree, four cars, a house, and a road.
+An image with a road, four cars, a roof, a house, a tree, a fence, and a sky.
+An image with a sky, four cars, a road, a house, a tree, a roof, and a fence.
+An image with four cars, a house, a fence, a tree, a sky, a roof, and a road.

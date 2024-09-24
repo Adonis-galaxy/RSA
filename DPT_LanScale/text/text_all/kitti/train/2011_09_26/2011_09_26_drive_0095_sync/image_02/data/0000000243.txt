@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a quiet residential street, with parked cars and a white van, under a clear sky.
 A person riding a bicycle on a narrow street between parked cars and buildings.
 A bicyclist rides down a narrow, tree-lined street between parked cars, with apartment buildings on either side, under a bright, sunny sky.
+An image with a person, eleven cars, a grass, a wall, a pavement, a house, a bicycle, a sky, a truck, a stairs, a road, and a tree.
+An image with a bicycle, eleven cars, a tree, a truck, a pavement, a house, a sky, a grass, a road, a person, a stairs, and a wall.
+An image with eleven cars, a wall, a tree, a stairs, a person, a bicycle, a road, a grass, a truck, a pavement, a sky, and a house.
+An image with a stairs, a sky, a wall, a pavement, a grass, eleven cars, a house, a tree, a truck, a bicycle, a person, and a road.
+An image with eleven cars, a bicycle, a truck, a person, a pavement, a house, a wall, a road, a stairs, a tree, a sky, and a grass.

@@ -8,3 +8,8 @@ A room with a refrigerator and a table.
 The image shows a room with a refrigerator, a table, and a chair, all set against a green wall.
 The image shows a small room with a refrigerator, a table, and a chair.
 The image shows a room with a large refrigerator, a table with a chair, a bulletin board, and a large window.
+An image with a floor, a tv, four chairs, a wall, a light, a refrigerator, a ceiling, a shelf, and a dining.
+An image with four chairs, a shelf, a ceiling, a dining, a wall, a floor, a tv, a light, and a refrigerator.
+An image with four chairs, a dining, a tv, a wall, a refrigerator, a shelf, a ceiling, a floor, and a light.
+An image with four chairs, a ceiling, a tv, a shelf, a dining, a floor, a light, a refrigerator, and a wall.
+An image with a dining, four chairs, a wall, a floor, a refrigerator, a light, a ceiling, a shelf, and a tv.

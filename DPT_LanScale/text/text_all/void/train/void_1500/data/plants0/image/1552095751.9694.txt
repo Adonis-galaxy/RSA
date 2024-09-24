@@ -8,3 +8,8 @@ The image shows a patch of dirt with sparse vegetation.
 The image shows a sandy area with grass and trees, and a concrete ledge.
 The image shows a close-up of a sandy area with small plants and trees, with a concrete ledge in the foreground.
 The image shows a close-up view of a sandy area with small plants and trees, taken from a low angle looking up.
+An image with a sand, two walls, a pavement, a tree, and a floor.
+An image with two walls, a sand, a floor, a tree, and a pavement.
+An image with two walls, a pavement, a sand, a floor, and a tree.
+An image with a sand, a pavement, a floor, two walls, and a tree.
+An image with a pavement, a floor, a sand, two walls, and a tree.

@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two brick walls, with a white trash ca
 A narrow alleyway between two walls, with a white container and a tree-lined street in the distance.
 A narrow alleyway between two brick walls, with a white trash can on the left, a metal fence on the right, and a tree-lined path leading to a distant road.
 A narrow, shaded alleyway between two brick walls, with a white container on the left and a black manhole cover on the right.
+An image with a road, a refrigerator, a tree, two walls, a car, and a grass.
+An image with two walls, a grass, a road, a car, a refrigerator, and a tree.
+An image with two walls, a tree, a grass, a road, a car, and a refrigerator.
+An image with two walls, a refrigerator, a car, a grass, a road, and a tree.
+An image with a car, a grass, a tree, two walls, a road, and a refrigerator.

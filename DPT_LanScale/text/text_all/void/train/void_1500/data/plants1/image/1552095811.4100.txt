@@ -8,3 +8,8 @@ The image shows a patch of dirt with a few plants growing in it.
 The image shows a patch of dirt with a few plants growing in it, and a brick wall in the background.
 The image shows a patch of dirt with a few plants growing in it, with a brick wall and a metal grate in the background.
 The image shows a patch of dirt with a few plants growing in it, surrounded by a brick wall and a metal grate.
+An image with two walls, a grass, a pavement, and a gravel.
+An image with two walls, a gravel, a grass, and a pavement.
+An image with a grass, two walls, a gravel, and a pavement.
+An image with a grass, two walls, a pavement, and a gravel.
+An image with a grass, two walls, a gravel, and a pavement.

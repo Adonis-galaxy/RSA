@@ -8,3 +8,8 @@ The image shows a street view with a sidewalk, grass, and parked cars.
 The image captures a serene residential street, lined with houses, trees, and parked cars, leading to a white building with a blue sign.
 The image shows a long, narrow street lined with parked cars and lush greenery, with apartment buildings on both sides, and a clear blue sky overhead.
 A long, narrow, tree-lined street with parked cars on both sides, leading to a row of buildings.
+An image with a pavement, nine cars, a truck, a house, a road, a grass, and a tree.
+An image with a road, nine cars, a truck, a grass, a tree, a pavement, and a house.
+An image with nine cars, a pavement, a house, a truck, a tree, a grass, and a road.
+An image with a road, a house, a grass, nine cars, a pavement, a truck, and a tree.
+An image with a tree, a road, nine cars, a grass, a truck, a house, and a pavement.

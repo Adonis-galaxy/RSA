@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with a mix of old and new buildings, lined by trees and parked cars, leading to a pedestrian crossing.
 The image shows a narrow street lined with parked cars and buildings, with a pedestrian crossing marked by a white triangle.
 The image depicts a quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a pedestrian crossing with a white fence and a black gate.
+An image with a pavement, a building, four cars, a road, a wall, a fence, a tree, and a sky.
+An image with a road, a pavement, a fence, a tree, four cars, a building, a wall, and a sky.
+An image with a pavement, a road, four cars, a sky, a building, a fence, a wall, and a tree.
+An image with four cars, a wall, a building, a tree, a pavement, a fence, a sky, and a road.
+An image with four cars, a fence, a pavement, a wall, a building, a road, a tree, and a sky.

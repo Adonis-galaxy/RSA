@@ -8,3 +8,8 @@ A whiteboard with red writing on it.
 The image captures a classroom setting with a whiteboard displaying a diagram and a table with chairs, suggesting a learning environment.
 The image shows a whiteboard with various diagrams and notes, a red chair, a black chair, a wooden table, and a window with blinds.
 The image shows an office room with a whiteboard on the wall, a table with chairs, and a window with blinds.
+An image with a dining, a window, five chairs, a floor, a wall, a ceiling, and a door.
+An image with a dining, five chairs, a floor, a ceiling, a door, a window, and a wall.
+An image with five chairs, a ceiling, a wall, a floor, a door, a dining, and a window.
+An image with a wall, five chairs, a ceiling, a floor, a dining, a window, and a door.
+An image with a window, a dining, five chairs, a floor, a wall, a door, and a ceiling.

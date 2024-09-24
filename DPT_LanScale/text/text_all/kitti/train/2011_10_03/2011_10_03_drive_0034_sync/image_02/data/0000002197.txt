@@ -8,3 +8,8 @@ A car on a street.
 A car on a tree-lined street, with a fence and a building in the background.
 A car is parked on the side of a tree-lined street, which is lined with a fence and potted plants.
 A tree-lined street with a blue car parked on the side, leading to a building with a red tree in front of it.
+An image with a pavement, a potted, a tree, two cars, a road, a sky, and a fence.
+An image with a potted, a road, a sky, a pavement, two cars, a fence, and a tree.
+An image with two cars, a potted, a pavement, a fence, a tree, a road, and a sky.
+An image with a sky, two cars, a road, a potted, a tree, a pavement, and a fence.
+An image with a fence, a potted, a pavement, a sky, two cars, a road, and a tree.

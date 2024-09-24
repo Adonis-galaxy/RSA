@@ -8,3 +8,8 @@ A computer desk with two black chairs.
 A computer lab with multiple desks, each equipped with a keyboard and mouse, and black chairs.
 A long wooden desk with three computer monitors, two keyboards, and two black chairs.
 The image shows a long wooden desk with multiple computer monitors, keyboards, and chairs, arranged in a row.
+An image with two tvs, two mice, three keyboards, four chairs, a table, a wall, and a rug.
+An image with two mice, four chairs, a wall, a table, a rug, three keyboards, and two tvs.
+An image with two tvs, a rug, two mice, four chairs, three keyboards, a wall, and a table.
+An image with two tvs, four chairs, three keyboards, a table, two mice, a rug, and a wall.
+An image with two mice, a table, two tvs, three keyboards, four chairs, a wall, and a rug.

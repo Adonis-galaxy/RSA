@@ -8,3 +8,8 @@ A blurry image of a black couch with a white ball on it.
 A blurry image of a sports ball on a couch with papers and a bag.
 A blurry image of a black couch with a white ball on it, and a few papers and a book on the left side.
 A blurry image of a black couch with a white ball on it and some papers on the left side.
+An image with a wall, a book, a couch, and a sports.
+An image with a book, a couch, a wall, and a sports.
+An image with a sports, a couch, a book, and a wall.
+An image with a couch, a sports, a wall, and a book.
+An image with a sports, a wall, a couch, and a book.

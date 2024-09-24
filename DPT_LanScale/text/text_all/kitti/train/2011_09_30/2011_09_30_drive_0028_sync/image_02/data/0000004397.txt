@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with a red car parked on the side of the road, surrounded by lush greenery and a few other parked cars, creating a peaceful and serene atmosphere.
 A narrow street lined with parked cars and a red car driving down it.
 A narrow, tree-lined street with parked cars and a sidewalk.
+An image with a grass, four cars, a house, a wall, a fence, a tree, a road, and a pavement.
+An image with four cars, a house, a tree, a road, a pavement, a fence, a grass, and a wall.
+An image with four cars, a fence, a pavement, a tree, a road, a wall, a grass, and a house.
+An image with four cars, a fence, a road, a grass, a house, a wall, a pavement, and a tree.
+An image with a tree, a road, a pavement, a fence, four cars, a grass, a house, and a wall.

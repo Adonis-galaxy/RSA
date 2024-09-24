@@ -8,3 +8,8 @@ A black gym bag with red trim on a blue carpet.
 A black gym bag with red trim is sitting on the floor next to a blue bucket.
 A black gym bag with red trim is sitting on a blue carpet next to a white cylinder and a blue bucket.
 A black gym bag with red trim is sitting on the floor next to a blue bucket and a white cylindrical object.
+An image with a door, a floor, a wall, and a suitcase.
+An image with a door, a wall, a suitcase, and a floor.
+An image with a floor, a suitcase, a wall, and a door.
+An image with a wall, a door, a floor, and a suitcase.
+An image with a door, a suitcase, a wall, and a floor.

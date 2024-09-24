@@ -8,3 +8,8 @@ A laboratory with a blue cart and a white desk.
 The image shows a laboratory setting with various pieces of equipment, including a blue cart with white pipes, a black vacuum cleaner, and a white desk with a computer monitor and keyboard.
 The image shows a laboratory setting with a blue metal shelf, a white desk with various equipment, and a blue vacuum cleaner.
 The image shows a laboratory setting with a blue metal shelf, a white desk with various equipment, and a blue vacuum cleaner.
+An image with a shelf, a light, a keyboard, a tv, a floor, a cabinet, a wall, and a table.
+An image with a wall, a floor, a table, a light, a shelf, a cabinet, a keyboard, and a tv.
+An image with a floor, a tv, a table, a light, a keyboard, a wall, a cabinet, and a shelf.
+An image with a shelf, a keyboard, a tv, a table, a light, a wall, a floor, and a cabinet.
+An image with a tv, a cabinet, a table, a shelf, a wall, a keyboard, a floor, and a light.

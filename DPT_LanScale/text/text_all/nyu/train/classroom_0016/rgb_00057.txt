@@ -8,3 +8,8 @@ A classroom with a teacher and students.
 The image captures a classroom scene with a teacher leading a discussion with students seated at desks, with a focus on the teacher's interaction with the students.
 A teacher is sitting on a chair in front of a whiteboard, surrounded by students seated at desks in a classroom.
 The image shows a classroom with a teacher at the front, seated on a chair, surrounded by students seated at desks, with a whiteboard and a bookshelf in the background.
+An image with fifteen books, ten chairs, eight people, two tvs, a table, a laptop, a paper, a wall, a rug, a dining, and a shelf.
+An image with fifteen books, eight people, ten chairs, two tvs, a rug, a paper, a table, a wall, a laptop, a shelf, and a dining.
+An image with fifteen books, eight people, a paper, ten chairs, a dining, a wall, a shelf, two tvs, a rug, a laptop, and a table.
+An image with ten chairs, fifteen books, eight people, two tvs, a table, a wall, a rug, a dining, a shelf, a laptop, and a paper.
+An image with ten chairs, a laptop, two tvs, eight people, fifteen books, a wall, a shelf, a dining, a table, a rug, and a paper.

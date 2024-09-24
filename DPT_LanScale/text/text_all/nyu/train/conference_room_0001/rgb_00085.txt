@@ -8,3 +8,8 @@ A table with four chairs and four vases of grass.
 The image shows a table with four chairs, each chair has a small potted plant on it, and the table is set with a marble surface.
 A long table with four chairs, each holding a small potted plant.
 A neatly arranged conference table with four chairs, each holding a small potted plant.
+An image with three potteds, three chairs, a couch, a dining, a cabinet, a door, a wall, a window, and a floor.
+An image with a couch, a door, three potteds, three chairs, a dining, a window, a cabinet, a floor, and a wall.
+An image with a floor, a cabinet, a wall, a couch, three potteds, three chairs, a window, a door, and a dining.
+An image with a cabinet, three chairs, a dining, a floor, three potteds, a window, a door, a wall, and a couch.
+An image with three potteds, a window, a wall, three chairs, a cabinet, a dining, a door, a floor, and a couch.

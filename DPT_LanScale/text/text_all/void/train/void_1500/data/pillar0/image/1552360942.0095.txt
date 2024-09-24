@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue bucket sits next to a black bag and a white cylinder in a room with a wooden cabinet.
 A large white cylinder is leaning against a wooden cabinet, with a blue bucket and a black bag nearby.
 A room with a large white cylinder, a blue bucket, a black bag, and a wooden cabinet.
+An image with a cardboard, a cabinet, a tv, a suitcase, a wall, and a floor.
+An image with a cabinet, a suitcase, a floor, a wall, a tv, and a cardboard.
+An image with a floor, a cabinet, a wall, a tv, a cardboard, and a suitcase.
+An image with a suitcase, a floor, a cabinet, a tv, a wall, and a cardboard.
+An image with a cardboard, a floor, a tv, a suitcase, a wall, and a cabinet.

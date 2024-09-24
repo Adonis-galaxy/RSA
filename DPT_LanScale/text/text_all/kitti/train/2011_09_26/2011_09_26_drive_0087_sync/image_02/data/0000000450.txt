@@ -8,3 +8,8 @@ The image shows a narrow street between two walls.
 A quiet residential street, with a parked car on the side of a road, bordered by a white fence and a tall wall, under a clear blue sky.
 A narrow street between two walls, with a car parked on the left side and a blue truck parked on the right side.
 A narrow, tree-lined street with parked cars and a white-striped pedestrian path, leading to a white garage and a tall building with a red roof.
+An image with a house, a sky, two cars, a wall, a roof, a pavement, and a tree.
+An image with a tree, two cars, a sky, a house, a pavement, a roof, and a wall.
+An image with a roof, two cars, a sky, a pavement, a tree, a wall, and a house.
+An image with two cars, a wall, a roof, a tree, a pavement, a house, and a sky.
+An image with a wall, a tree, two cars, a roof, a house, a pavement, and a sky.

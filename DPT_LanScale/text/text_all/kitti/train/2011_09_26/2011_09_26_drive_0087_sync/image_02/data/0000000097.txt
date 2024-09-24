@@ -8,3 +8,8 @@ A person walking down a path in a park.
 A narrow, overgrown pathway between two fences, with a person visible at the end.
 A narrow, overgrown pathway between two fences, with a person visible at the end.
 A narrow, shaded pathway between lush greenery, with a person visible at the end, leading to a fenced area.
+An image with a stairs, a tree, a pavement, and a fence.
+An image with a pavement, a fence, a tree, and a stairs.
+An image with a fence, a stairs, a pavement, and a tree.
+An image with a pavement, a stairs, a fence, and a tree.
+An image with a fence, a tree, a pavement, and a stairs.

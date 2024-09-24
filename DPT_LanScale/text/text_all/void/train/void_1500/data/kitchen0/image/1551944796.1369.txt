@@ -8,3 +8,8 @@ The image shows a kitchen counter with a sink and a whiteboard.
 The image shows a small, orange countertop with a white sink and a white cabinet underneath it.
 The image shows a small, orange counter with a white sink, a white cabinet, and a white drawer.
 The image shows a small, orange-colored kitchenette with a sink, a countertop, and a cabinet.
+An image with a paper, eight cups, a wall, a ceiling, a sink, and a cabinet.
+An image with a wall, eight cups, a cabinet, a sink, a paper, and a ceiling.
+An image with eight cups, a wall, a cabinet, a paper, a ceiling, and a sink.
+An image with eight cups, a paper, a ceiling, a cabinet, a sink, and a wall.
+An image with eight cups, a wall, a sink, a paper, a cabinet, and a ceiling.

@@ -8,3 +8,8 @@ A classroom with a whiteboard, desk, and chairs.
 The image shows an office space with a whiteboard, a desk with a computer, a trash can, and a chair.
 The image shows an office with a whiteboard, a desk with a computer, a trash can, and two chairs.
 The image shows an office space with a whiteboard, a desk with a computer, a trash can, and two chairs.
+An image with a book, a table, a wall, a floor, two windows, four chairs, a clock, a light, a paper, a tv, and a ceiling.
+An image with a wall, a light, four chairs, two windows, a clock, a tv, a ceiling, a paper, a floor, a table, and a book.
+An image with a book, a clock, a floor, a ceiling, four chairs, a light, two windows, a table, a tv, a paper, and a wall.
+An image with four chairs, a light, two windows, a wall, a tv, a floor, a book, a paper, a ceiling, a clock, and a table.
+An image with a clock, a tv, a floor, a table, four chairs, two windows, a light, a book, a ceiling, a wall, and a paper.

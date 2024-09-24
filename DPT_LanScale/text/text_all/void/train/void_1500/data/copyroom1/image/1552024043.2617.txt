@@ -8,3 +8,8 @@ A row of mailboxes.
 The image shows a row of mailboxes with one of them open, revealing a red and black object inside.
 The image shows a row of mailboxes with a single piece of mail sticking out of one of them.
 The image shows a row of mailboxes with a few of them open, revealing empty compartments, and a single piece of paper sticking out of one of the open boxes.
+An image with a wall, a floor, a book, and a cabinet.
+An image with a cabinet, a wall, a book, and a floor.
+An image with a cabinet, a floor, a wall, and a book.
+An image with a wall, a floor, a cabinet, and a book.
+An image with a book, a wall, a cabinet, and a floor.

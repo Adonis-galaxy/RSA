@@ -8,3 +8,8 @@ The image is a photograph of a narrow street lined with trees and houses.
 A narrow, tree-lined street in a residential area, with parked cars and a pedestrian path.
 The image depicts a narrow, tree-lined street with a few parked cars, a sidewalk, and a building on the left side.
 A narrow, tree-lined street in a residential area, with parked cars and a sidewalk.
+An image with three cars, a pavement, a fence, a road, a sky, a tree, a wall, and a roof.
+An image with a roof, a tree, a pavement, three cars, a road, a wall, a fence, and a sky.
+An image with a wall, three cars, a pavement, a fence, a tree, a road, a roof, and a sky.
+An image with three cars, a tree, a sky, a roof, a road, a wall, a fence, and a pavement.
+An image with three cars, a tree, a sky, a road, a pavement, a wall, a roof, and a fence.

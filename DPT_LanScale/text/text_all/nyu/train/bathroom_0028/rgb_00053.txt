@@ -8,3 +8,8 @@ A window in a bathroom.
 The image captures a dimly lit bathroom corner, featuring a window with a partially opened blind, a white door, and a small green rug.
 A small bathroom with a window, a toilet, and a door.
 The image shows a dimly lit bathroom with a window, a door, and a small green rug.
+An image with a window, three bottles, a floor, a rug, a wall, and a door.
+An image with three bottles, a wall, a window, a door, a rug, and a floor.
+An image with a rug, a window, three bottles, a floor, a door, and a wall.
+An image with a window, a floor, a wall, three bottles, a door, and a rug.
+An image with three bottles, a door, a floor, a rug, a window, and a wall.

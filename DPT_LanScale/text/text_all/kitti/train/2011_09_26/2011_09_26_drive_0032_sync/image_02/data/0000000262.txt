@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a tranquil day on a tree-lined road, with a few cars gently moving along the way, under the watchful eyes of traffic lights and street signs.
 The image shows a wide, empty road with a few cars and traffic lights, and the perspective is from a vehicle driving down the road.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and traffic lights, leading to a clear sky.
+An image with five cars, six traffics, a road, a tree, a sky, a fence, and a grass.
+An image with five cars, a grass, six traffics, a tree, a fence, a road, and a sky.
+An image with six traffics, a road, a grass, five cars, a sky, a tree, and a fence.
+An image with a fence, a sky, five cars, six traffics, a road, a tree, and a grass.
+An image with five cars, six traffics, a grass, a fence, a road, a sky, and a tree.

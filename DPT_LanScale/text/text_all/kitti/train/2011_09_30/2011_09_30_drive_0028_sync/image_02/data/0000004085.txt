@@ -8,3 +8,8 @@ The image shows a street lined with parked cars and a truck, with trees on both 
 A narrow street lined with parked cars and trees, with a truck parked on the side and a green trash can on a cart in the middle of the road.
 A narrow street lined with parked cars and trees, with a large truck and two green trash cans on the right side.
 A narrow street lined with parked cars and trees, with a truck parked on the side and a motorcycle parked in front of it.
+An image with five cars, a tree, a truck, a person, a sky, a motorcycle, a wall, a pavement, and a road.
+An image with a person, a pavement, a motorcycle, a truck, a wall, five cars, a road, a tree, and a sky.
+An image with five cars, a person, a sky, a truck, a tree, a wall, a pavement, a road, and a motorcycle.
+An image with five cars, a pavement, a person, a road, a truck, a motorcycle, a tree, a sky, and a wall.
+An image with a wall, a motorcycle, five cars, a sky, a truck, a pavement, a tree, a road, and a person.

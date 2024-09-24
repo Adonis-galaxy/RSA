@@ -8,3 +8,8 @@ A classroom with a blueboard, a desk, a chair, a refrigerator, and a picture on 
 The image shows a classroom with a blueboard, a desk, a chair, a refrigerator, and a picture on the wall.
 The image shows a small room with a blue cabinet, a table with a chair, a refrigerator, and a picture on the wall.
 The image shows a room with a blue cabinet, a table with a chair, a refrigerator, and a bulletin board on the wall.
+An image with a person, four chairs, a wall, a light, a tv, a paper, a refrigerator, a floor, a ceiling, and a dining.
+An image with a tv, a paper, a person, a light, a ceiling, a dining, four chairs, a refrigerator, a floor, and a wall.
+An image with a light, four chairs, a person, a refrigerator, a ceiling, a wall, a dining, a paper, a tv, and a floor.
+An image with a paper, four chairs, a person, a refrigerator, a floor, a ceiling, a light, a dining, a wall, and a tv.
+An image with four chairs, a ceiling, a refrigerator, a dining, a paper, a floor, a person, a tv, a light, and a wall.

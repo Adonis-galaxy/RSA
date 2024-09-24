@@ -8,3 +8,8 @@ The image shows a tree-lined street with several cars parked on the side.
 A quiet, tree-lined street with parked cars, under a bright sun.
 A tree-lined street with several parked cars and a clear sky.
 A tree-lined street with parked cars and a sidewalk.
+An image with a dirt, four cars, a tree, a pavement, a road, and a house.
+An image with four cars, a house, a tree, a dirt, a road, and a pavement.
+An image with four cars, a dirt, a pavement, a road, a tree, and a house.
+An image with a house, four cars, a dirt, a pavement, a road, and a tree.
+An image with a dirt, a pavement, four cars, a house, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a person riding a bicycle.
 A narrow street in a residential area, with parked cars and a person walking, under a clear sky.
 A narrow street between two rows of parked cars, with a person riding a bicycle in the middle.
 A narrow street between two rows of houses, with parked cars and a person walking in the middle.
+An image with seven cars, a bicycle, a person, a road, a tree, a pavement, a sky, and a house.
+An image with seven cars, a pavement, a bicycle, a road, a house, a person, a sky, and a tree.
+An image with seven cars, a house, a road, a pavement, a tree, a person, a bicycle, and a sky.
+An image with a sky, a pavement, seven cars, a person, a house, a road, a tree, and a bicycle.
+An image with seven cars, a person, a sky, a bicycle, a house, a pavement, a road, and a tree.

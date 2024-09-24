@@ -8,3 +8,8 @@ The image shows a street with a white house, a garage, and a sidewalk.
 The image captures a quiet residential street, with a focus on the white garage doors and the graffiti-like markings on the asphalt.
 The image shows a residential street with a large house on the left, a row of garages, a sidewalk, and a driveway with white markings.
 The image shows a residential street with a curved road, a row of garages, a sidewalk, and a house with a hedge in the background.
+An image with a sky, a wall, a pavement, a tree, a grass, a window, and a road.
+An image with a wall, a window, a tree, a pavement, a road, a grass, and a sky.
+An image with a sky, a wall, a tree, a pavement, a grass, a road, and a window.
+An image with a road, a tree, a sky, a pavement, a grass, a wall, and a window.
+An image with a tree, a wall, a road, a grass, a sky, a window, and a pavement.

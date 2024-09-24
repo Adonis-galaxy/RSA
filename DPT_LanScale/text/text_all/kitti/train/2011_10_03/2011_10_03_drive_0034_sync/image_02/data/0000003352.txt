@@ -8,3 +8,8 @@ The image shows a narrow street with a white van parked on the side.
 A quiet residential street, with a white van parked on the side of the road, a white trash can on the sidewalk, and a brick wall with greenery on top.
 A narrow street with a white van parked on the side, a white trash can, and a brick wall.
 A quiet residential street with parked cars, a brick wall, a paved sidewalk, and a white trash can.
+An image with a sky, a wall, a truck, a car, a tree, a pavement, a building, a grass, and a road.
+An image with a building, a truck, a pavement, a wall, a car, a sky, a grass, a road, and a tree.
+An image with a car, a pavement, a road, a grass, a tree, a wall, a building, a truck, and a sky.
+An image with a grass, a road, a car, a wall, a sky, a building, a truck, a tree, and a pavement.
+An image with a tree, a building, a sky, a car, a road, a truck, a wall, a pavement, and a grass.

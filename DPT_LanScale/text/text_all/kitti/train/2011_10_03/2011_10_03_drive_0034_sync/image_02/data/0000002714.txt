@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear sky overhead.
 The image shows a narrow street lined with parked cars, a few trees, and a building with a blue sign.
 A quiet residential street with parked cars, a clear sky, and a few trees.
+An image with a wall, five cars, a sky, and a tree.
+An image with five cars, a sky, a tree, and a wall.
+An image with five cars, a tree, a wall, and a sky.
+An image with five cars, a wall, a sky, and a tree.
+An image with a wall, five cars, a sky, and a tree.

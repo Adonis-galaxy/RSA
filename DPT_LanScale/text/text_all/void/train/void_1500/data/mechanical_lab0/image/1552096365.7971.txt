@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is tucked under a table with a yellow paper on it.
 The image shows a blue chair tucked under a white table with a yellow paper on it.
 The image shows a blue chair tucked under a white table with a yellow paper on it, and there are cords on the table.
+An image with a chair, a floor, a table, and a paper.
+An image with a floor, a chair, a table, and a paper.
+An image with a paper, a table, a chair, and a floor.
+An image with a floor, a paper, a table, and a chair.
+An image with a table, a chair, a paper, and a floor.

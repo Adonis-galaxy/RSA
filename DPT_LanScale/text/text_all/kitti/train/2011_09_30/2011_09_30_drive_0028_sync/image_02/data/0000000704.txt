@@ -8,3 +8,8 @@ A white car parked on the side of a road.
 A quiet residential street, lined with trees and houses, with a single car parked on the side.
 A narrow street lined with trees and houses, with a white car parked on the side.
 A quiet residential street with a parked car, lined by houses and trees, leading to a cul-de-sac.
+An image with a grass, a wall, a fence, a road, a pavement, a tree, a sky, a car, and a house.
+An image with a road, a sky, a fence, a wall, a grass, a tree, a pavement, a house, and a car.
+An image with a house, a wall, a pavement, a tree, a sky, a road, a grass, a fence, and a car.
+An image with a sky, a fence, a pavement, a grass, a house, a tree, a wall, a car, and a road.
+An image with a wall, a house, a sky, a car, a road, a grass, a tree, a fence, and a pavement.

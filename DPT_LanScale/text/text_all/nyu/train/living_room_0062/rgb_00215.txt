@@ -8,3 +8,8 @@ A brown leather couch in a living room.
 The image captures a cozy living room scene, featuring a brown leather sofa positioned in front of a wooden floor, with a doorway leading to another room.
 The image shows a large brown leather couch in a living room with a hardwood floor and a yellow wall.
 The image shows a living room with a brown leather sofa, a wooden floor, and a yellow wall.
+An image with a chair, a window, a cup, a floor, a couch, a wall, a door, and a potted.
+An image with a couch, a chair, a wall, a window, a potted, a door, a cup, and a floor.
+An image with a window, a chair, a floor, a potted, a wall, a couch, a door, and a cup.
+An image with a cup, a window, a floor, a chair, a couch, a potted, a door, and a wall.
+An image with a door, a cup, a floor, a wall, a couch, a chair, a potted, and a window.

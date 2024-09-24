@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A yellow car is parked on the side of a narrow street lined with white buildings and green trees, with a brick wall and a stone archway nearby.
 A yellow car is parked on the side of a narrow street between two white buildings, with a brick wall and a stone fence on the left side.
 A narrow street lined with houses and trees, with a yellow car parked on the side.
+An image with a tree, a house, a car, a pavement, a wall, a sky, a fence, and a road.
+An image with a road, a fence, a car, a pavement, a house, a tree, a sky, and a wall.
+An image with a road, a sky, a pavement, a car, a fence, a wall, a house, and a tree.
+An image with a car, a pavement, a tree, a sky, a wall, a road, a fence, and a house.
+An image with a fence, a sky, a road, a car, a house, a tree, a wall, and a pavement.

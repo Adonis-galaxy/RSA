@@ -8,3 +8,8 @@ A white truck is driving down a tree-lined street.
 A white truck is parked on a tree-lined street, adjacent to a building with a red base and white walls.
 A large truck is driving down a narrow street between two buildings, with trees lining the sides.
 A narrow street lined with trees and buildings, with a white truck parked on the side.
+An image with a building, a road, a sky, a tree, three cars, a pavement, a wall, and a truck.
+An image with a building, a wall, a pavement, a road, three cars, a truck, a tree, and a sky.
+An image with a tree, a road, a building, three cars, a wall, a pavement, a truck, and a sky.
+An image with three cars, a road, a sky, a building, a truck, a pavement, a wall, and a tree.
+An image with a sky, three cars, a road, a wall, a truck, a tree, a pavement, and a building.

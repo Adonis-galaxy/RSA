@@ -8,3 +8,8 @@ The image shows a room with a tiled floor and two chairs.
 The image captures a cozy indoor setting with a patterned chair and a matching table, set against a backdrop of a tiled floor and a doorway leading to another room.
 The image shows a room with a large patterned chair and a smaller matching chair, both sitting on a tiled floor.
 The image shows a room with a tiled floor featuring a pattern of squares and rectangles, and a colorful chair with a polka dot pattern.
+An image with a floor, three chairs, a person, a rug, a wall, a dining, and a door.
+An image with a person, a door, three chairs, a floor, a wall, a dining, and a rug.
+An image with a floor, a dining, three chairs, a wall, a person, a rug, and a door.
+An image with a rug, a person, three chairs, a door, a floor, a wall, and a dining.
+An image with a door, three chairs, a rug, a person, a wall, a floor, and a dining.

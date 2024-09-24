@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a yellow car parked 
 The image captures a quiet residential street, with a yellow truck parked on the side of the road, under the shade of a tree, and in front of a building with a brick wall and a blue garage door.
 The image shows a narrow street between two buildings, with a yellow car parked on the right side, a street sign on the left, and a tree casting a large shadow on the road.
 A narrow, tree-lined street with a yellow car parked at the bottom, leading to a brick wall and a blue garage.
+An image with a sky, a tree, a pavement, a car, a house, a wall, and a road.
+An image with a car, a pavement, a tree, a road, a sky, a wall, and a house.
+An image with a road, a wall, a car, a house, a sky, a tree, and a pavement.
+An image with a road, a tree, a house, a wall, a sky, a car, and a pavement.
+An image with a tree, a wall, a sky, a road, a house, a car, and a pavement.

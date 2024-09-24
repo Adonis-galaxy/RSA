@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on the right side.
 A quiet, tree-lined street with a brick wall and a curved path, leading to a residential area.
 The image shows a narrow, tree-lined street with a brick wall on the right side, a metal trash can on the left, and a sign on the right side.
 A narrow, tree-lined street with a brick wall on one side, leading to a dead-end, with a curved path and a parked car on the sidewalk.
+An image with a wall, a sky, a tree, a pavement, a road, and a grass.
+An image with a road, a tree, a wall, a pavement, a grass, and a sky.
+An image with a wall, a grass, a tree, a pavement, a sky, and a road.
+An image with a grass, a pavement, a sky, a wall, a road, and a tree.
+An image with a road, a sky, a tree, a wall, a grass, and a pavement.

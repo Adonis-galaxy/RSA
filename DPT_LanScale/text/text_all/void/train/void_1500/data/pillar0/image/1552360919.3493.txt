@@ -8,3 +8,8 @@ A black bag with a red stripe on the floor next to a white cylinder.
 A black bag with a red stripe is sitting next to a white cylinder and a black bag with a handle.
 A black bag with a red stripe is sitting next to a white cylinder and a black bag with a handle.
 The image shows a room with a white cylindrical object, a black bag with a red stripe, and a black bag with a handle.
+An image with a wall, a floor, a door, a suitcase, and a chair.
+An image with a chair, a wall, a door, a suitcase, and a floor.
+An image with a wall, a door, a suitcase, a floor, and a chair.
+An image with a chair, a wall, a floor, a suitcase, and a door.
+An image with a floor, a chair, a door, a suitcase, and a wall.

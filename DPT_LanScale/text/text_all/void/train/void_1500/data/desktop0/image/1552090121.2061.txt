@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and mouse.
 A computer desk with a monitor, keyboard, and a model ship on a stand.
 A wooden desk with a computer monitor, keyboard, and mouse, and a small model ship on a red base.
 A wooden desk with a computer monitor, keyboard, and mouse, and a wooden cabinet with a handle and lock.
+An image with a mouse, a tv, a keyboard, a chair, a table, a cabinet, and a wall.
+An image with a tv, a mouse, a chair, a wall, a keyboard, a table, and a cabinet.
+An image with a table, a mouse, a chair, a tv, a cabinet, a keyboard, and a wall.
+An image with a cabinet, a keyboard, a chair, a mouse, a table, a wall, and a tv.
+An image with a table, a keyboard, a mouse, a tv, a chair, a wall, and a cabinet.

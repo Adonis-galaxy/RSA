@@ -8,3 +8,8 @@ A car on a highway.
 A solitary car on a wide, empty highway, with a clear sky and a distant cityscape.
 A car is driving on a highway with a bridge in the background.
 A car is driving on a highway with a bridge and a fence on the side.
+An image with a fence, a car, a road, a building, a pavement, and a tree.
+An image with a building, a pavement, a fence, a tree, a car, and a road.
+An image with a fence, a building, a road, a pavement, a car, and a tree.
+An image with a car, a road, a tree, a fence, a pavement, and a building.
+An image with a tree, a building, a pavement, a road, a fence, and a car.

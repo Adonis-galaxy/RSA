@@ -8,3 +8,8 @@ The image shows a white car parked on a street.
 A white car is parked on the side of a tree-lined street, with a person standing on the sidewalk and a trash can nearby.
 A white car is parked on the side of a narrow street lined with trees and houses.
 A narrow, tree-lined street leads to a white house with a black stripe on the side of a white car parked on the street.
+An image with a sky, a pavement, a tree, a house, a fence, a car, a wall, and a road.
+An image with a house, a pavement, a tree, a wall, a car, a sky, a fence, and a road.
+An image with a sky, a house, a wall, a car, a tree, a pavement, a road, and a fence.
+An image with a sky, a house, a wall, a pavement, a fence, a road, a car, and a tree.
+An image with a car, a tree, a fence, a wall, a pavement, a sky, a road, and a house.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a red van, and a white building
 A quiet residential street with parked cars and a red van, lined by trees and a fence.
 The image shows a narrow street lined with parked cars and a red van, with a white building on the left and a fence on the right.
 A narrow street in a residential area with parked cars, a red van, and a white building.
+An image with a road, four cars, a house, a truck, a sky, and a tree.
+An image with a road, a house, four cars, a truck, a tree, and a sky.
+An image with a tree, four cars, a truck, a road, a house, and a sky.
+An image with four cars, a road, a house, a tree, a sky, and a truck.
+An image with a tree, four cars, a house, a sky, a road, and a truck.

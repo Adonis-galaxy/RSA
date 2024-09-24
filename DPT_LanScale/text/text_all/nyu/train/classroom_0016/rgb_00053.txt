@@ -8,3 +8,8 @@ A classroom with a teacher and students.
 The image captures a classroom scene with a teacher at the front of the room, surrounded by students seated at desks, engaged in a learning activity.
 The image shows a classroom with a teacher standing at the front, surrounded by students seated at desks. The room is filled with books and educational materials, and the teacher is using a projector screen to present information.
 The image shows a classroom with a teacher at the front, students seated at desks, and a variety of educational materials and equipment.
+An image with two tvs, thirteen chairs, a table, nine people, a wall, twelve books, a mouse, a laptop, and a rug.
+An image with nine people, thirteen chairs, twelve books, two tvs, a table, a wall, a laptop, a rug, and a mouse.
+An image with thirteen chairs, twelve books, nine people, a mouse, two tvs, a laptop, a wall, a table, and a rug.
+An image with twelve books, thirteen chairs, nine people, two tvs, a rug, a table, a wall, a laptop, and a mouse.
+An image with twelve books, nine people, two tvs, a table, thirteen chairs, a wall, a mouse, a laptop, and a rug.

@@ -8,3 +8,8 @@ The image shows a street scene with a yellow truck parked on the side of the roa
 A quiet residential street, with a yellow truck parked at the bottom of a hill, under the shade of trees, and a blue garage door on the right.
 The image shows a narrow street with a yellow truck parked on the side, a brick wall, a blue garage door, a white house, a street sign, and a tree with a green canopy.
 A quiet residential street with a parked yellow car, a brick wall, a stone fence, a tree-lined sidewalk, and a blue garage door.
+An image with a house, a road, a car, a tree, two walls, a pavement, and a sky.
+An image with two walls, a pavement, a house, a sky, a road, a tree, and a car.
+An image with a tree, a pavement, a road, two walls, a car, a sky, and a house.
+An image with a sky, two walls, a road, a house, a pavement, a car, and a tree.
+An image with a car, a sky, two walls, a pavement, a road, a tree, and a house.

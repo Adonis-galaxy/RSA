@@ -8,3 +8,8 @@ Two printers on a table.
 The image shows two printers on a table, with a trash can in the corner.
 The image shows two printers on a wooden table, with a blue trash can in the corner.
 The image shows a room with two printers on a table, a trash can, and a wall with a light switch and a sign.
+An image with a paper, a wall, a table, and a floor.
+An image with a paper, a floor, a table, and a wall.
+An image with a floor, a wall, a paper, and a table.
+An image with a floor, a table, a wall, and a paper.
+An image with a wall, a table, a paper, and a floor.

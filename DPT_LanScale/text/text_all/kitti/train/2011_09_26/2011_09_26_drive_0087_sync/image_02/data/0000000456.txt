@@ -8,3 +8,8 @@ A black car parked on a street.
 A quiet residential street, with a parked car and a white fence, under a clear blue sky.
 A black car is parked on a narrow street between two white walls, with a red brick building and trees in the background.
 A narrow, tree-lined street with a white fence, a parked car, and a sidewalk.
+An image with a sky, two cars, a wall, a roof, a road, a tree, and a house.
+An image with a roof, a tree, two cars, a wall, a sky, a house, and a road.
+An image with a wall, two cars, a sky, a house, a road, a roof, and a tree.
+An image with a roof, a house, a road, a sky, a tree, a wall, and two cars.
+An image with two cars, a sky, a tree, a wall, a roof, a road, and a house.

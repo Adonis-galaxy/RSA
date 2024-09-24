@@ -8,3 +8,8 @@ A blue basket with straws and a white basket with straws on a counter.
 A blue basket with a white cup and a pair of chopsticks on a counter.
 A blue basket with straws and a white basket with straws on a counter.
 A blue basket with a white cup and a pair of chopsticks on a counter.
+An image with a wall, a cup, a table, and a cake.
+An image with a table, a cake, a cup, and a wall.
+An image with a table, a cup, a wall, and a cake.
+An image with a cup, a cake, a wall, and a table.
+An image with a cup, a wall, a cake, and a table.

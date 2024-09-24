@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a tree-lined street, with a truck parked nearby and a mailbox on the sidewalk.
 A woman riding a bicycle on a tree-lined street with a large truck parked on the side.
 A woman riding a bicycle on a tree-lined street, with parked cars and a truck, and a mailbox on the sidewalk.
+An image with a road, a sky, a house, three cars, a fence, a pavement, a person, a handbag, a tree, a grass, and a truck.
+An image with a grass, three cars, a person, a fence, a pavement, a truck, a tree, a house, a road, a sky, and a handbag.
+An image with a grass, three cars, a pavement, a handbag, a person, a house, a truck, a sky, a tree, a road, and a fence.
+An image with three cars, a tree, a handbag, a person, a road, a fence, a truck, a grass, a sky, a house, and a pavement.
+An image with a handbag, a person, a house, a truck, three cars, a sky, a pavement, a grass, a road, a fence, and a tree.

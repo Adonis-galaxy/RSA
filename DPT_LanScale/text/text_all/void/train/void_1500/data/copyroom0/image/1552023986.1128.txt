@@ -8,3 +8,8 @@ The image shows a desk with a printer on it.
 The image shows a cluttered office space with a desk, a printer, and a trash can.
 The image shows a blurry office setting with a desk, a printer, and a trash can.
 The image shows a blurry office setting with a desk, a filing cabinet, and a printer.
+An image with a floor, a tv, a wall, a cabinet, and a door.
+An image with a floor, a wall, a door, a tv, and a cabinet.
+An image with a door, a floor, a cabinet, a tv, and a wall.
+An image with a tv, a cabinet, a door, a wall, and a floor.
+An image with a floor, a cabinet, a tv, a wall, and a door.

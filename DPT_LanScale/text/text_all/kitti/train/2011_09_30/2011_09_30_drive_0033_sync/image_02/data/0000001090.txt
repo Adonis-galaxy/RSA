@@ -8,3 +8,8 @@ The image shows a street view of a residential area with houses and a car.
 The image captures a quaint, tree-lined street in a residential area, with a mix of traditional and modern architecture, featuring a red-roofed house, a white house with a red door, a black house with a red door, and a silver car parked on the street.
 The image shows a street view with houses on both sides, a car parked on the right side, a red and white yield sign, and a green lawn.
 The image shows a residential street with houses, a car parked on the side, a red and white yield sign, and a green lawn.
+An image with a motorcycle, a car, a wall, a sky, a tree, a house, a roof, a grass, a road, and a fence.
+An image with a sky, a house, a roof, a motorcycle, a grass, a wall, a tree, a car, a road, and a fence.
+An image with a tree, a grass, a sky, a motorcycle, a car, a fence, a wall, a road, a roof, and a house.
+An image with a wall, a car, a motorcycle, a sky, a fence, a tree, a grass, a house, a roof, and a road.
+An image with a wall, a road, a roof, a motorcycle, a house, a car, a grass, a fence, a sky, and a tree.

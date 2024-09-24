@@ -8,3 +8,8 @@ A white garage with a door on the side of a road.
 A white garage with a single door, situated on a curved driveway, adjacent to a house with a car parked in front of it.
 A small white shed with a door in the middle of a driveway, surrounded by trees and a house.
 A white garage with a single door, situated on a curved driveway, adjacent to a residential area with houses and trees.
+An image with a tree, a dirt, a truck, a sky, a road, a car, and a building.
+An image with a road, a car, a sky, a tree, a building, a dirt, and a truck.
+An image with a truck, a sky, a car, a tree, a building, a road, and a dirt.
+An image with a truck, a sky, a car, a building, a road, a dirt, and a tree.
+An image with a tree, a road, a car, a dirt, a truck, a building, and a sky.

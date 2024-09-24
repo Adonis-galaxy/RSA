@@ -8,3 +8,8 @@ A classroom with students sitting at desks.
 A classroom scene with students seated at desks, a teacher at the front, and a variety of educational materials on the walls.
 A classroom with a teacher standing at the front, students seated at desks, and a whiteboard with writing on it.
 A classroom scene with students seated at desks, a teacher standing at the front, and a bulletin board with papers and notes.
+An image with four chairs, a dining, four people, a rug, a light, a wall, a bottle, a paper, a window, a ceiling, and a cabinet.
+An image with four people, a rug, a ceiling, four chairs, a light, a paper, a cabinet, a window, a dining, a wall, and a bottle.
+An image with a rug, a bottle, four people, a window, a ceiling, a light, four chairs, a cabinet, a paper, a wall, and a dining.
+An image with a paper, a ceiling, a wall, a light, a bottle, four chairs, a dining, a cabinet, four people, a rug, and a window.
+An image with a bottle, four chairs, a light, a rug, four people, a paper, a wall, a dining, a cabinet, a window, and a ceiling.

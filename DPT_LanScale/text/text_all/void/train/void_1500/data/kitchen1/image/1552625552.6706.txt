@@ -8,3 +8,8 @@ A blue and yellow container with straws on a counter.
 A blue and yellow container of straws on a counter.
 A blue and yellow basket with straws and a white cup on a counter.
 A blue and yellow basket with a white cup and straws on a counter.
+An image with a wall, a table, a cup, and a paper.
+An image with a table, a cup, a wall, and a paper.
+An image with a table, a wall, a cup, and a paper.
+An image with a table, a cup, a paper, and a wall.
+An image with a wall, a paper, a table, and a cup.

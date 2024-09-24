@@ -8,3 +8,8 @@ The image shows a street scene with a blue truck, a red car, and a white buildin
 A blue truck parked on a tree-lined street, with a red car parked behind it, and a white building visible in the background.
 A large blue truck is parked on the side of a narrow street lined with trees, and there are several cars parked further down the road.
 A narrow street lined with parked cars and trees, with a blue truck parked on the side.
+An image with a road, five cars, a grass, a tree, a truck, a pavement, and a sky.
+An image with a road, five cars, a sky, a pavement, a grass, a tree, and a truck.
+An image with a pavement, a truck, five cars, a sky, a road, a grass, and a tree.
+An image with a truck, five cars, a grass, a road, a tree, a pavement, and a sky.
+An image with five cars, a road, a truck, a grass, a pavement, a tree, and a sky.

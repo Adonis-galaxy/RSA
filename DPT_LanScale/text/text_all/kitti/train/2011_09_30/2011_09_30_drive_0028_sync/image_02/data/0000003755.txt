@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and a single motorcycle, under a canopy of trees, with a clear sky overhead.
 The image depicts a narrow street lined with parked cars and lush greenery, with a sidewalk on the left side.
 A tree-lined street with parked cars and a sidewalk, leading to apartment buildings.
+An image with ten cars, a wall, a road, a sky, a building, a tree, a grass, a pavement, and a motorcycle.
+An image with ten cars, a building, a wall, a sky, a grass, a tree, a motorcycle, a pavement, and a road.
+An image with a motorcycle, a building, ten cars, a sky, a tree, a pavement, a grass, a road, and a wall.
+An image with a building, a wall, ten cars, a road, a motorcycle, a grass, a pavement, a sky, and a tree.
+An image with a grass, a wall, ten cars, a tree, a motorcycle, a sky, a pavement, a road, and a building.

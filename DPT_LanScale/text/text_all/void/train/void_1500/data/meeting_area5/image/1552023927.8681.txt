@@ -8,3 +8,8 @@ A row of white chairs with black wheels around a white table.
 A row of white chairs with black accents, positioned around a white table, in a room with a yellow wall.
 A long white table with five white chairs, all on wheels, in front of a yellow wall with a blackboard.
 A long white table with six white chairs, placed on a gray carpet, in front of a yellow wall with a blackboard.
+An image with a table, four chairs, a tv, a dining, a wall, a paper, and a door.
+An image with four chairs, a door, a wall, a tv, a table, a dining, and a paper.
+An image with a paper, four chairs, a wall, a tv, a table, a dining, and a door.
+An image with four chairs, a paper, a dining, a wall, a table, a door, and a tv.
+An image with a table, four chairs, a wall, a door, a paper, a tv, and a dining.

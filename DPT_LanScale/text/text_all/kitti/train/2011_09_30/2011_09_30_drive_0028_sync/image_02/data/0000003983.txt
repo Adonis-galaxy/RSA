@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A car parked on the side of a road, with a sign indicating a train station nearby.
 A car is parked on the side of a road next to a sign, with a train in the background and trees in the foreground.
 A car is parked on the side of a road near a train station, with a sign indicating the name of the station and a building in the background.
+An image with two cars, a bus, a tree, a road, a house, a pavement, a sky, and a grass.
+An image with a grass, a tree, a bus, a house, two cars, a sky, a pavement, and a road.
+An image with a tree, a grass, a sky, two cars, a pavement, a road, a house, and a bus.
+An image with a house, a sky, a bus, a pavement, a grass, a tree, two cars, and a road.
+An image with two cars, a road, a grass, a bus, a house, a sky, a pavement, and a tree.

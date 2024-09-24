@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow pathway between two walls of lush greenery, leading to a white building with a red roof.
 The image shows a narrow alleyway between two buildings, with a fence on the left side and a gate on the right, leading to a larger building in the background.
 A narrow, sunlit pathway between two white buildings, bordered by lush greenery and a metal fence.
+An image with a sky, a fence, a house, a pavement, and a tree.
+An image with a pavement, a sky, a house, a tree, and a fence.
+An image with a sky, a house, a fence, a tree, and a pavement.
+An image with a fence, a pavement, a house, a tree, and a sky.
+An image with a house, a pavement, a tree, a sky, and a fence.

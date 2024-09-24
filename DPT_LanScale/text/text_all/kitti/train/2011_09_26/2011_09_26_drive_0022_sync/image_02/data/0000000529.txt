@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 A narrow road lined with parked cars, leading to a gate in a wooded area.
 A narrow road lined with parked cars, trees, and a gate.
 A narrow road lined with parked cars and a gate, leading to a forest.
+An image with a tree, a grass, a stop, four cars, a road, and a truck.
+An image with a stop, a grass, a truck, a tree, four cars, and a road.
+An image with four cars, a tree, a road, a stop, a truck, and a grass.
+An image with a road, four cars, a grass, a truck, a stop, and a tree.
+An image with a grass, four cars, a stop, a road, a truck, and a tree.

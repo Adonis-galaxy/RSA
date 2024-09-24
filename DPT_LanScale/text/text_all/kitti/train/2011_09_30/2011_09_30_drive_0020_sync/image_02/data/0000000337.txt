@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a tree-lined street with parked cars, a truck, and a white building with a red door. The street is lined with street lamps and potted plants.
 A tree-lined street with parked cars and trucks, leading to a white building with a red door and a brick archway.
+An image with a potted, two trucks, a grass, a person, six cars, a fire, a pavement, a sky, a road, and a tree.
+An image with a potted, a road, a person, six cars, a tree, two trucks, a sky, a grass, a pavement, and a fire.
+An image with six cars, two trucks, a person, a pavement, a tree, a fire, a grass, a road, a sky, and a potted.
+An image with two trucks, a road, six cars, a pavement, a grass, a person, a sky, a potted, a tree, and a fire.
+An image with six cars, a person, a grass, a sky, a road, two trucks, a pavement, a potted, a fire, and a tree.

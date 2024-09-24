@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a number 30 painted 
 The image captures a quiet, tree-lined street in a residential area, with a clear sky overhead and a building on the right side.
 The image shows a narrow street between two buildings, with a white van parked on the right side, a blue and red sign on the right side of the street, and a white building with a blue and red sign on the left side of the street.
 The image depicts a narrow street lined with trees and buildings, with a white building on the right side and a red sign on the left side.
+An image with a road, a window, a pavement, a tree, a door, a roof, a bus, a wall, a house, a stop, and a car.
+An image with a car, a stop, a window, a wall, a road, a roof, a house, a bus, a door, a pavement, and a tree.
+An image with a road, a door, a bus, a stop, a window, a tree, a roof, a house, a wall, a car, and a pavement.
+An image with a road, a tree, a bus, a window, a wall, a stop, a house, a door, a roof, a car, and a pavement.
+An image with a door, a car, a window, a roof, a tree, a house, a pavement, a road, a stop, a bus, and a wall.

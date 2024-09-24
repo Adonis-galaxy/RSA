@@ -8,3 +8,8 @@ A brown folding chair in a corner.
 A solitary chair sits in a corner of a room, next to a blue trash can.
 A small brown chair is tucked into a corner of a room.
 A brown folding chair is sitting in a corner of a room, next to a blue plastic bin.
+An image with a tv, a chair, a refrigerator, a floor, and a wall.
+An image with a chair, a floor, a tv, a wall, and a refrigerator.
+An image with a tv, a wall, a chair, a refrigerator, and a floor.
+An image with a floor, a tv, a chair, a wall, and a refrigerator.
+An image with a chair, a tv, a refrigerator, a wall, and a floor.

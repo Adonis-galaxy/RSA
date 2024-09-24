@@ -8,3 +8,8 @@ A small toy dinosaur on a desk.
 A small toy dinosaur is holding the hand of a small toy human on a wooden desk.
 A small toy dinosaur is standing next to a small toy human on a wooden desk.
 A small toy dinosaur is standing on a desk next to a small toy person, and there is a small toy scale on the desk.
+An image with a cabinet, a wall, a keyboard, and a table.
+An image with a wall, a keyboard, a table, and a cabinet.
+An image with a keyboard, a table, a cabinet, and a wall.
+An image with a cabinet, a table, a keyboard, and a wall.
+An image with a table, a keyboard, a wall, and a cabinet.

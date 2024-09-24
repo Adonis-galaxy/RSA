@@ -8,3 +8,8 @@ The image shows a tree-lined street.
 A quiet, tree-lined street with a clear path leading to a white wall.
 The image shows a tree-lined street with a large white box on the left side, a car parked on the right side, and a white wall on the right side.
 A tree-lined street with a sidewalk, a car parked on the side, and a white wall on the right side.
+An image with a pavement, a tree, a dirt, a wall, a sky, a road, and a car.
+An image with a dirt, a road, a pavement, a sky, a car, a wall, and a tree.
+An image with a tree, a sky, a pavement, a car, a road, a dirt, and a wall.
+An image with a tree, a road, a car, a wall, a sky, a pavement, and a dirt.
+An image with a car, a wall, a sky, a pavement, a road, a dirt, and a tree.

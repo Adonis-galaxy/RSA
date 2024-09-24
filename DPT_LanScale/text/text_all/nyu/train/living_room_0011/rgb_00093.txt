@@ -8,3 +8,8 @@ A wall on the side of a building.
 The image captures a cozy, lived-in space with a focus on the closet and the kitchen area.
 The image shows a small, dark room with a white wall, a doorway leading to a kitchen, and a closet with clothes hanging on a rack.
 The image shows a room with a white wall, a closet with clothes hanging, a kitchen area with a stove and sink, and a doorway leading to another room.
+An image with a light, a rug, a wall, a oven, a floor, and a cabinet.
+An image with a wall, a oven, a cabinet, a light, a floor, and a rug.
+An image with a rug, a wall, a oven, a light, a cabinet, and a floor.
+An image with a oven, a cabinet, a rug, a wall, a floor, and a light.
+An image with a light, a floor, a cabinet, a rug, a wall, and a oven.

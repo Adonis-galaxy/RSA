@@ -8,3 +8,8 @@ A person walking on a sidewalk.
 A serene day in a park-like setting, with a pathway leading to a bridge, where a few people are enjoying the shade of the trees.
 A tree-lined street with a few cars and pedestrians, one of whom is carrying a handbag.
 A tree-lined street with a sidewalk, a road with cars, and pedestrians, all under a clear blue sky.
+An image with a road, three cars, a fence, a wall, two people, a tree, a pavement, a bicycle, and a handbag.
+An image with three cars, a pavement, two people, a wall, a bicycle, a tree, a handbag, a fence, and a road.
+An image with a handbag, a tree, a wall, a fence, a pavement, a bicycle, three cars, two people, and a road.
+An image with a handbag, three cars, a tree, a bicycle, a wall, two people, a fence, a road, and a pavement.
+An image with two people, a pavement, three cars, a tree, a fence, a handbag, a road, a wall, and a bicycle.

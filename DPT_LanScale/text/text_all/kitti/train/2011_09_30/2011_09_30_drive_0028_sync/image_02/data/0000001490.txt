@@ -8,3 +8,8 @@ A silver car driving down a tree-lined street.
 A silver car is driving down a tree-lined street, with a white building and a traffic light in the background.
 A silver car is driving down a tree-lined street, passing under a street sign.
 A silver car is driving down a tree-lined street, passing under a traffic light, with a white building visible in the background.
+An image with a tree, a parking, a grass, two cars, a fence, a house, and a road.
+An image with a fence, two cars, a house, a road, a tree, a grass, and a parking.
+An image with a parking, a tree, a fence, a grass, a house, two cars, and a road.
+An image with two cars, a fence, a parking, a grass, a road, a house, and a tree.
+An image with two cars, a fence, a grass, a road, a tree, a house, and a parking.

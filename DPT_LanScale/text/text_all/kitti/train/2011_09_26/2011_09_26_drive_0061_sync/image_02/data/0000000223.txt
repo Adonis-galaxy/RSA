@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a large tree in the foreground and a white building with a red roof in the background.
 A narrow, tree-lined street in a residential area, with parked cars and a covered walkway.
+An image with a tree, six cars, a door, a house, a wall, a roof, a road, a sky, and a fence.
+An image with six cars, a sky, a tree, a fence, a house, a roof, a door, a road, and a wall.
+An image with a road, a door, a fence, a roof, a sky, six cars, a wall, a tree, and a house.
+An image with a sky, six cars, a road, a fence, a tree, a door, a house, a roof, and a wall.
+An image with a door, a road, six cars, a house, a tree, a roof, a fence, a wall, and a sky.

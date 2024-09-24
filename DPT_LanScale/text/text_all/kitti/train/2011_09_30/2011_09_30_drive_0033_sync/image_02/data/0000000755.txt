@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street in a residential area, with parked cars on both sides, a white SUV in the foreground, and a mix of trees and buildings in the background.
 The image shows a narrow street lined with parked cars, with a white SUV in the foreground and a white building on the right side.
 The image shows a narrow street lined with parked cars and trees, leading to a residential area with houses and garages.
+An image with seven cars, a house, a road, a roof, a sky, a motorcycle, a tree, a wall, and a pavement.
+An image with seven cars, a motorcycle, a pavement, a road, a sky, a wall, a house, a roof, and a tree.
+An image with a wall, seven cars, a roof, a house, a motorcycle, a road, a sky, a pavement, and a tree.
+An image with a wall, a tree, seven cars, a house, a motorcycle, a road, a sky, a roof, and a pavement.
+An image with a roof, seven cars, a motorcycle, a house, a tree, a sky, a pavement, a wall, and a road.

@@ -8,3 +8,8 @@ The image shows a street scene with cars and a sidewalk.
 The image captures a quiet residential street, with parked cars and a few pedestrians, under a bright sunny day.
 The image shows a narrow street lined with parked cars and trees, with apartment buildings on either side.
 A narrow street lined with parked cars and buildings, with a sidewalk and a grassy area on the left side.
+An image with a person, five cars, a building, a pavement, a bicycle, a bus, a tree, a grass, a road, and a sky.
+An image with a bus, five cars, a building, a grass, a road, a tree, a sky, a bicycle, a person, and a pavement.
+An image with five cars, a pavement, a grass, a bicycle, a building, a person, a bus, a tree, a sky, and a road.
+An image with five cars, a person, a road, a grass, a bus, a pavement, a tree, a sky, a building, and a bicycle.
+An image with five cars, a road, a bus, a tree, a bicycle, a pavement, a building, a person, a grass, and a sky.

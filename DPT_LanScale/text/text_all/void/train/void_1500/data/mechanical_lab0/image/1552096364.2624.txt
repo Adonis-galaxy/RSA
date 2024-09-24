@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is positioned next to a table with a black cord running from it to a black box.
 A blue chair is positioned next to a table with a black cord running underneath it.
 A blue chair is positioned under a white table, with a black cord running along the floor to a black box.
+An image with a tv, a floor, a dining, and two chairs.
+An image with two chairs, a dining, a floor, and a tv.
+An image with a tv, a dining, a floor, and two chairs.
+An image with two chairs, a dining, a tv, and a floor.
+An image with two chairs, a floor, a tv, and a dining.

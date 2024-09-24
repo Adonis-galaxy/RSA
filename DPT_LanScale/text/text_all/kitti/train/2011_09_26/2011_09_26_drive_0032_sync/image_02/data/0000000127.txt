@@ -8,3 +8,8 @@ The image is a photograph of a road with a car and a pedestrian.
 The image captures a moment of transition on a highway, where a car is passing by a construction zone, with a clear sky overhead and a lush green field on the side.
 A black car is driving down a highway with a green median, passing a construction zone with orange cones and a sign.
 The image shows a highway with a car, a pedestrian crossing, a sidewalk, a grassy area, and a roadside barrier.
+An image with four cars, three people, a road, a sky, a pavement, a grass, and a tree.
+An image with four cars, a road, three people, a pavement, a grass, a sky, and a tree.
+An image with four cars, a road, three people, a grass, a tree, a pavement, and a sky.
+An image with a grass, four cars, a sky, three people, a tree, a pavement, and a road.
+An image with four cars, a road, three people, a tree, a sky, a grass, and a pavement.

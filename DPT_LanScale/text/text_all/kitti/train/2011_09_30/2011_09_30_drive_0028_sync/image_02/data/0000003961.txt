@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 The image captures a serene suburban street scene, with a blue car parked on the side of the road, a green car driving away, and a white building with a blue sign in the background, all under a clear blue sky.
 The image shows a narrow street with two cars parked on the side, a person standing on the sidewalk, and trees lining the road.
 A tree-lined street with parked cars and a sidewalk.
+An image with a road, a tree, a sky, four cars, a person, a grass, and a bus.
+An image with a tree, a person, four cars, a sky, a road, a bus, and a grass.
+An image with a tree, four cars, a road, a grass, a person, a bus, and a sky.
+An image with four cars, a tree, a person, a grass, a road, a bus, and a sky.
+An image with four cars, a person, a road, a grass, a sky, a bus, and a tree.

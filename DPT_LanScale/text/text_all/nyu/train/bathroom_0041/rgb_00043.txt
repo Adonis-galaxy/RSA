@@ -8,3 +8,8 @@ A person's feet are visible in the foreground of the image.
 A person's legs are visible in the foreground, with a bathroom scene in the background featuring a large window, a bathtub, and a sink.
 A person's feet are visible in the foreground, with a large, ornate glass block shower enclosure in the background.
 The image shows a bathroom with a large window, a bathtub, a sink, and a person's feet visible in the foreground.
+An image with a ceiling, a cabinet, a rug, a counter, two walls, ten bottles, a floor, a towel, a person, a curtain, a window, a hair, and two sinks.
+An image with ten bottles, two walls, a rug, a cabinet, a counter, a window, a person, two sinks, a floor, a hair, a ceiling, a curtain, and a towel.
+An image with two walls, a cabinet, a floor, a person, a window, a curtain, ten bottles, a rug, a hair, a towel, a ceiling, two sinks, and a counter.
+An image with a hair, ten bottles, two sinks, a floor, a curtain, a counter, a towel, a window, a person, a ceiling, a cabinet, a rug, and two walls.
+An image with a rug, a floor, ten bottles, a counter, a person, a curtain, two sinks, a hair, a towel, a ceiling, two walls, a window, and a cabinet.

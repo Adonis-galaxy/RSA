@@ -8,3 +8,8 @@ A curvy road with a white wall on the side.
 A winding road through a lush green landscape, with a clear sky overhead and a white fence on the right.
 A narrow, tree-lined road curves gently to the right, with a white fence on the right side and a street lamp on the left side.
 A curving, tree-lined road with a white wall on the right side, leading to a cul-de-sac.
+An image with a sky, a road, a fence, a grass, a tree, and a pavement.
+An image with a sky, a grass, a road, a pavement, a tree, and a fence.
+An image with a road, a grass, a sky, a tree, a fence, and a pavement.
+An image with a road, a sky, a tree, a grass, a pavement, and a fence.
+An image with a tree, a fence, a pavement, a grass, a road, and a sky.

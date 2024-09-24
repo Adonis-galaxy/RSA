@@ -8,3 +8,8 @@ A black backpack with a green logo on a gray couch.
 A black backpack with a green logo sits on a gray couch next to a newspaper.
 A black backpack with a green logo is sitting on a gray couch next to a newspaper.
 A black backpack with a green logo is placed on a gray couch next to a newspaper.
+An image with a book, a couch, a wall, a tennis, a person, a paper, and a backpack.
+An image with a person, a tennis, a book, a paper, a wall, a couch, and a backpack.
+An image with a tennis, a couch, a backpack, a book, a person, a wall, and a paper.
+An image with a book, a backpack, a couch, a person, a wall, a tennis, and a paper.
+An image with a paper, a person, a wall, a backpack, a couch, a tennis, and a book.

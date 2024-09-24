@@ -8,3 +8,8 @@ A green trash can with a yellow band around it.
 A green trash can with a yellow band around it, sitting in a corner of a room.
 A large green trash can with a yellow band around it, sitting in a corner of a room.
 A green trash can with a yellow band around it, sitting in a corner of a room.
+An image with a floor, a door, and a wall.
+An image with a floor, a wall, and a door.
+An image with a door, a floor, and a wall.
+An image with a door, a floor, and a wall.
+An image with a wall, a floor, and a door.

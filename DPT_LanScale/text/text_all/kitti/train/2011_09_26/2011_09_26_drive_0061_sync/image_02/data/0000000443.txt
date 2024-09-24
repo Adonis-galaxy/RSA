@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on one side and a fence on the
 The image captures a serene, tree-lined street leading to a quaint village, with a brick wall and a gate marking the entrance.
 The image shows a narrow, tree-lined street with a brick wall on one side, a gate at the entrance, and a car driving down the road.
 A narrow, tree-lined street with a brick wall on one side and a stone gate on the other, leading to a residential area.
+An image with a fence, a wall, two cars, a stop, a pavement, a tree, a sky, and a road.
+An image with a sky, two cars, a road, a fence, a pavement, a stop, a wall, and a tree.
+An image with a road, two cars, a wall, a pavement, a tree, a fence, a sky, and a stop.
+An image with a road, two cars, a fence, a pavement, a sky, a stop, a tree, and a wall.
+An image with a sky, a road, a stop, two cars, a wall, a tree, a pavement, and a fence.

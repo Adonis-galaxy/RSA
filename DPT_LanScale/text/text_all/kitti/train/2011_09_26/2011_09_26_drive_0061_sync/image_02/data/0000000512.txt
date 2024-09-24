@@ -8,3 +8,8 @@ The image shows a narrow, tree-lined road.
 A narrow, tree-lined road with a car parked at the end, leading to a gate.
 A narrow, tree-lined road with a car and a lamp post, leading to a gate.
 A narrow, tree-lined road with a car parked at the end, leading to a gate and a fence.
+An image with a car, a wall, a sky, a fence, a tree, a road, and a pavement.
+An image with a fence, a pavement, a wall, a car, a road, a tree, and a sky.
+An image with a car, a pavement, a sky, a fence, a road, a tree, and a wall.
+An image with a wall, a pavement, a road, a fence, a tree, a sky, and a car.
+An image with a pavement, a tree, a fence, a car, a sky, a road, and a wall.

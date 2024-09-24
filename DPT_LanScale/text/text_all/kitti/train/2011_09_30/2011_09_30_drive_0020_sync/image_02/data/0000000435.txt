@@ -8,3 +8,8 @@ The image shows a city street intersection with a brick building in the backgrou
 The image captures a quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a crosswalk and a traffic light.
 The image shows a wide street with a large building on the left, a smaller building on the right, and a few cars parked along the sides. The street is lined with trees and has a crosswalk.
 The image depicts a quiet residential street with a mix of brick and white buildings, lined with trees and parked cars, leading to a crosswalk and a traffic light.
+An image with a road, nine cars, a sky, a building, a tree, a grass, a pavement, and a stop.
+An image with a stop, nine cars, a grass, a pavement, a sky, a road, a building, and a tree.
+An image with nine cars, a pavement, a stop, a grass, a tree, a road, a building, and a sky.
+An image with nine cars, a tree, a sky, a stop, a grass, a road, a pavement, and a building.
+An image with a grass, nine cars, a stop, a tree, a sky, a road, a pavement, and a building.

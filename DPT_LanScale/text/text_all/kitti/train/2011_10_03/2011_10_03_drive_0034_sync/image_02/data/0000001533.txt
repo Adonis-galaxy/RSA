@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear path leading to a distant horizon.
 The image shows a narrow street lined with parked cars, trees, and a white wall on the right side.
 A narrow, tree-lined street with parked cars and a white wall on the right side.
+An image with a road, five cars, a pavement, a house, a potted, a wall, a tree, and a stairs.
+An image with a stairs, five cars, a pavement, a wall, a house, a potted, a tree, and a road.
+An image with a pavement, a house, a tree, five cars, a wall, a potted, a road, and a stairs.
+An image with a road, five cars, a house, a tree, a wall, a potted, a pavement, and a stairs.
+An image with a wall, a tree, five cars, a pavement, a road, a potted, a house, and a stairs.

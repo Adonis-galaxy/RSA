@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 A red car is driving down a tree-lined road, passing a blue car parked on the side of the road, with a white gate and a street sign in the background.
 A red car is driving down a narrow road between two blue cars.
 A narrow road with parked cars and a gate on the left side.
+An image with three cars, a road, a pavement, a tree, a fence, a sky, a stop, and a grass.
+An image with a pavement, a sky, a tree, three cars, a fence, a grass, a stop, and a road.
+An image with three cars, a road, a sky, a stop, a pavement, a fence, a grass, and a tree.
+An image with three cars, a road, a fence, a stop, a grass, a sky, a tree, and a pavement.
+An image with a sky, a pavement, a stop, a tree, a fence, a grass, three cars, and a road.

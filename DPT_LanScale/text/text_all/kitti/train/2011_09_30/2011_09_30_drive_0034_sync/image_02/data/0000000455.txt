@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with houses, trees, and a car parked on the side, all under a clear blue sky.
 The image shows a narrow street lined with houses and gardens, with a car parked on the left side and a greenhouse on the right.
 A narrow, tree-lined street between two-story houses, with parked cars and a greenhouse on the right side.
+An image with a pavement, a tree, a roof, a flower, a car, a road, two potteds, a sky, a door, and a house.
+An image with a house, a roof, a sky, two potteds, a flower, a pavement, a road, a tree, a door, and a car.
+An image with a car, a house, a door, a roof, a flower, two potteds, a road, a tree, a pavement, and a sky.
+An image with two potteds, a tree, a house, a pavement, a flower, a car, a door, a roof, a sky, and a road.
+An image with a road, a tree, a sky, a roof, a house, two potteds, a car, a door, a flower, and a pavement.

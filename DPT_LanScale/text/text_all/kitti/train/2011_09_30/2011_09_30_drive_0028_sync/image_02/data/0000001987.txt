@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a clear view of the houses and trees in the background.
 The image shows a narrow street lined with parked cars, with a mix of small and large vehicles, and a clear sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with eight cars, a road, a house, a grass, a pavement, a tree, and a bicycle.
+An image with eight cars, a grass, a tree, a house, a road, a bicycle, and a pavement.
+An image with a house, eight cars, a pavement, a grass, a road, a bicycle, and a tree.
+An image with a house, a road, eight cars, a tree, a bicycle, a pavement, and a grass.
+An image with a grass, eight cars, a bicycle, a tree, a house, a pavement, and a road.

@@ -8,3 +8,8 @@ A computer lab with black desks and chairs.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse, and black chairs with the word "Seashell" written on them.
 The image shows a large computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse, and black chairs with the word "Seaborn" written on them.
+An image with three tvs, four keyboards, two mice, a remote, three chairs, a rug, a table, and a laptop.
+An image with a laptop, four keyboards, two mice, three chairs, three tvs, a rug, a remote, and a table.
+An image with a remote, four keyboards, three tvs, two mice, a table, three chairs, a laptop, and a rug.
+An image with three tvs, a laptop, four keyboards, three chairs, a remote, two mice, a table, and a rug.
+An image with a remote, two mice, four keyboards, three chairs, three tvs, a table, a laptop, and a rug.

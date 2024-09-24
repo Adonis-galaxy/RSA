@@ -8,3 +8,8 @@ A white table with a curved front.
 A white table with a chair in a room.
 A white table with a curved front, sitting on a gray rug, with four chairs around it.
 A white table with a curved front on a gray rug in a room with white walls.
+An image with a floor, four chairs, a wall, a door, and two dinings.
+An image with two dinings, a wall, a floor, four chairs, and a door.
+An image with four chairs, two dinings, a floor, a door, and a wall.
+An image with two dinings, four chairs, a wall, a floor, and a door.
+An image with a floor, two dinings, four chairs, a door, and a wall.

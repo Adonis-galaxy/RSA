@@ -8,3 +8,8 @@ A desk with a phone and papers on it.
 A desk with a phone, papers, and a book.
 A desk with a phone, a book, and a magazine on it.
 A desk with a phone, a stack of papers, and a book.
+An image with a table, five books, a floor, a wall, and a cabinet.
+An image with five books, a wall, a floor, a table, and a cabinet.
+An image with a wall, five books, a cabinet, a floor, and a table.
+An image with a floor, a cabinet, five books, a table, and a wall.
+An image with a cabinet, a floor, five books, a wall, and a table.

@@ -8,3 +8,8 @@ A row of empty seats in a movie theater.
 A row of empty seats in a classroom.
 A row of empty brown theater seats on a gray tiled floor.
 The image shows a row of empty seats in a classroom or lecture hall, with a green cabinet or podium in the background.
+An image with two walls, a tv, eight chairs, a refrigerator, and a floor.
+An image with two walls, eight chairs, a refrigerator, a floor, and a tv.
+An image with two walls, a refrigerator, eight chairs, a tv, and a floor.
+An image with eight chairs, two walls, a floor, a tv, and a refrigerator.
+An image with a floor, a refrigerator, a tv, eight chairs, and two walls.

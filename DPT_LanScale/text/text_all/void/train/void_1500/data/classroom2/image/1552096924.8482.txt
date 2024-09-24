@@ -8,3 +8,8 @@ The image shows a row of black chairs with orange tops.
 The image shows a row of black chairs with orange tops, arranged in a classroom setting.
 The image shows a row of black chairs with orange tops, arranged in a classroom setting.
 The image shows a row of black chairs with orange tops, arranged in a classroom setting with a tiled floor.
+An image with a floor, ten chairs, and three dinings.
+An image with ten chairs, three dinings, and a floor.
+An image with three dinings, a floor, and ten chairs.
+An image with ten chairs, a floor, and three dinings.
+An image with ten chairs, three dinings, and a floor.

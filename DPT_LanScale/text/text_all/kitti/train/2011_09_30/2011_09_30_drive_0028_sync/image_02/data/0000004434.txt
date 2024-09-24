@@ -8,3 +8,8 @@ The image shows a red car parked on a street.
 A parked red car on a shaded street, with a sidewalk and a hedge on the right, and a clear sky above.
 A red car is parked on a narrow street lined with trees and bushes, and there is a trash can on the sidewalk.
 A narrow, tree-lined street with a parked red car and a trash cart, leading to a white building with a green hedge.
+An image with a tree, three cars, a sky, a pavement, and a road.
+An image with a sky, a pavement, three cars, a road, and a tree.
+An image with a tree, three cars, a road, a sky, and a pavement.
+An image with a pavement, three cars, a sky, a tree, and a road.
+An image with a pavement, a tree, three cars, a sky, and a road.

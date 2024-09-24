@@ -8,3 +8,8 @@ A black bag with red trim on the floor.
 A black bag with a red stripe is leaning against a white cylinder, next to a blue bucket and a group of black tripods.
 A black bag with a red stripe is sitting on the floor next to a blue bucket and a white cylinder.
 A black bag with a red stripe is sitting on the floor next to a blue bucket and a white cylinder.
+An image with a door, a suitcase, a refrigerator, a wall, and a rug.
+An image with a wall, a refrigerator, a rug, a door, and a suitcase.
+An image with a rug, a wall, a door, a refrigerator, and a suitcase.
+An image with a refrigerator, a wall, a suitcase, a door, and a rug.
+An image with a rug, a suitcase, a refrigerator, a door, and a wall.

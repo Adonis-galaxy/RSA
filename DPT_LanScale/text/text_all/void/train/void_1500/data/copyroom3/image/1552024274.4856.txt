@@ -8,3 +8,8 @@ A microwave on a counter.
 A microwave with a cord plugged into an outlet on a counter.
 A small white microwave with a cord plugged into an outlet on a blue counter.
 A small white microwave with a cord plugged into an outlet on a blue countertop.
+An image with a cabinet, a counter, a wall, a bottle, a paper, and a microwave.
+An image with a cabinet, a paper, a bottle, a microwave, a counter, and a wall.
+An image with a cabinet, a microwave, a bottle, a counter, a wall, and a paper.
+An image with a paper, a bottle, a counter, a wall, a cabinet, and a microwave.
+An image with a microwave, a counter, a cabinet, a paper, a bottle, and a wall.

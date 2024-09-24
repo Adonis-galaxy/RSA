@@ -8,3 +8,8 @@ The image shows a street with a number 30 on it, a person riding a bike, a car, 
 A quiet residential street with a few cyclists and pedestrians, marked with a 30 zone, and featuring a white trash can and a newspaper stand.
 A person riding a bicycle on a tree-lined street with a number 30 on the road.
 A quiet residential street with a few people and cars, lined with trees and houses, and featuring a bike path with a number 30.
+An image with two people, a pavement, a tree, a banner, a bicycle, a road, a house, three cars, and a grass.
+An image with two people, a grass, three cars, a banner, a pavement, a tree, a house, a bicycle, and a road.
+An image with a tree, a pavement, two people, three cars, a bicycle, a road, a house, a grass, and a banner.
+An image with a bicycle, a banner, three cars, a road, a house, a pavement, two people, a grass, and a tree.
+An image with a house, a pavement, a grass, three cars, a bicycle, a banner, two people, a tree, and a road.

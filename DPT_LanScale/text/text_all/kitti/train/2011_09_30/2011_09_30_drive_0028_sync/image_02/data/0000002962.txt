@@ -8,3 +8,8 @@ The image shows a street scene with a person walking on the sidewalk.
 The image captures a tranquil city street scene, with a man walking on the sidewalk, a bicycle parked on the sidewalk, and several cars parked along the street, all under a clear blue sky.
 A man is walking on a sidewalk next to a row of parked cars on a tree-lined street.
 A tree-lined street with parked cars, a pedestrian, and a bicycle, leading to a white building with a blue sign.
+An image with ten cars, a road, a building, a grass, a pavement, a bicycle, a person, a traffic, and a tree.
+An image with ten cars, a traffic, a building, a road, a pavement, a tree, a bicycle, a person, and a grass.
+An image with a traffic, a bicycle, ten cars, a tree, a pavement, a person, a road, a grass, and a building.
+An image with a building, ten cars, a pavement, a tree, a traffic, a grass, a person, a bicycle, and a road.
+An image with ten cars, a person, a grass, a building, a pavement, a traffic, a tree, a bicycle, and a road.

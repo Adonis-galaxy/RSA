@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a few parked cars, leading to a white building with a green hedge.
 A tree-lined street with a few cars parked on the side, leading to a white building with a green hedge.
 A tree-lined street with parked cars and a yellow trash can, leading to a white building with a blue sign.
+An image with a sky, three cars, a grass, a pavement, a road, a house, and a tree.
+An image with three cars, a house, a sky, a tree, a grass, a pavement, and a road.
+An image with a grass, a road, three cars, a tree, a sky, a house, and a pavement.
+An image with a road, a sky, a tree, a pavement, three cars, a house, and a grass.
+An image with a road, a tree, a sky, a house, three cars, a grass, and a pavement.

@@ -8,3 +8,8 @@ The image is a photograph of a narrow street between two buildings.
 The image captures a quiet, tree-lined street in a residential area, with parked cars and a clear sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 The image depicts a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with seven cars, a sky, three potteds, a pavement, a fence, a stairs, a road, a truck, a house, and a tree.
+An image with seven cars, a road, a house, a pavement, a stairs, a truck, three potteds, a sky, a tree, and a fence.
+An image with three potteds, seven cars, a stairs, a house, a sky, a fence, a truck, a road, a tree, and a pavement.
+An image with seven cars, three potteds, a pavement, a house, a stairs, a tree, a truck, a road, a sky, and a fence.
+An image with a fence, a tree, seven cars, a truck, a house, a sky, a stairs, a pavement, three potteds, and a road.

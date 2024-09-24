@@ -8,3 +8,8 @@ The image shows two cars parked on a street.
 The image captures a quiet residential street, with two parked cars on the side of the road, a clear pathway leading to a white building with a green hedge, and a sign indicating a one-way street.
 The image shows a narrow street between two buildings, with two small cars parked on the side, and a person walking on the sidewalk.
 The image shows a narrow street between two buildings, with two cars parked on the side, and a pedestrian pathway leading to a lush green area.
+An image with three cars, a road, a sky, a tree, a pavement, and a house.
+An image with a tree, a road, a sky, a house, three cars, and a pavement.
+An image with three cars, a tree, a pavement, a road, a sky, and a house.
+An image with a tree, a sky, a house, three cars, a pavement, and a road.
+An image with a house, a road, three cars, a tree, a pavement, and a sky.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban infrastructure, all coexisting under a clear sky.
 The image shows a wide street with a mix of vehicles, including cars and a bus, and a few pedestrians, with trees lining the sides and traffic lights at intervals.
 A tree-lined street with cars, bicycles, and pedestrians, leading to a park.
+An image with four cars, a grass, three people, a pavement, a bicycle, a sky, two traffics, a road, and a tree.
+An image with four cars, three people, a pavement, a road, a bicycle, a tree, a grass, a sky, and two traffics.
+An image with three people, two traffics, a grass, four cars, a pavement, a bicycle, a tree, a road, and a sky.
+An image with four cars, a road, two traffics, a bicycle, a tree, three people, a pavement, a sky, and a grass.
+An image with four cars, two traffics, a road, three people, a grass, a sky, a tree, a bicycle, and a pavement.

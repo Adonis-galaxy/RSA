@@ -8,3 +8,8 @@ The image shows a red car driving down a street with white lines.
 The image captures a vibrant city street scene, with a red car driving down the road, passing by a sidewalk lined with trees and streetlights, and a train track running parallel to the street.
 A red car is driving down a street with white lines, passing by a sidewalk and a train track.
 A red car is driving down a street with white lines, passing by a sidewalk and a train track, with buildings and trees in the background.
+An image with six cars, a road, a railroad, a grass, a pavement, a building, a sky, a tree, and two people.
+An image with a pavement, six cars, two people, a grass, a sky, a railroad, a tree, a building, and a road.
+An image with six cars, a pavement, a road, two people, a building, a sky, a tree, a railroad, and a grass.
+An image with a railroad, six cars, a grass, two people, a road, a tree, a sky, a pavement, and a building.
+An image with a sky, six cars, a tree, a railroad, two people, a pavement, a grass, a road, and a building.

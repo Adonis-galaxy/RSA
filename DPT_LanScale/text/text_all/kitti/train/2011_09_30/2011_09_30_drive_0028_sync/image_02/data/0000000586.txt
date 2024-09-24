@@ -8,3 +8,8 @@ The image is a photograph of a narrow street between two buildings.
 The image captures a serene residential street, lined with lush greenery and quaint white buildings, bathed in the soft glow of daylight.
 The image shows a narrow street lined with tall buildings, trees, and a parked car, with a large shadow cast on the right side of the street.
 The image depicts a narrow, tree-lined street between two-story buildings, with a car parked at the end and a fence on the left side.
+An image with a roof, a tree, a house, a car, a fence, a road, and a pavement.
+An image with a car, a house, a tree, a fence, a pavement, a roof, and a road.
+An image with a road, a tree, a house, a pavement, a fence, a roof, and a car.
+An image with a house, a fence, a road, a pavement, a car, a tree, and a roof.
+An image with a tree, a pavement, a roof, a house, a fence, a car, and a road.

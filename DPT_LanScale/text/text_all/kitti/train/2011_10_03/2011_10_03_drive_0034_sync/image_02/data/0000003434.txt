@@ -8,3 +8,8 @@ The image shows a narrow road between two walls with trees on both sides.
 A narrow, tree-lined road with a speed limit sign, leading to a gate at the end.
 The image shows a narrow, tree-lined road with a speed limit of 30, leading to a gate at the end.
 A narrow, tree-lined road with a speed limit of 30 km/h, leading to a gate at the end.
+An image with a door, a fence, a wall, a tree, a road, a sky, and a pavement.
+An image with a sky, a wall, a door, a road, a fence, a tree, and a pavement.
+An image with a tree, a pavement, a fence, a road, a wall, a sky, and a door.
+An image with a fence, a pavement, a road, a sky, a tree, a wall, and a door.
+An image with a sky, a pavement, a fence, a door, a wall, a road, and a tree.

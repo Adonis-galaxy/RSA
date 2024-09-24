@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape, with a focus on a large white building, displayed on a wooden shelf.
 The image shows a model of a cityscape with a large white building in the center, surrounded by smaller buildings, all displayed on a wooden shelf.
 The image shows a model of a cityscape with buildings and a central square, displayed on a wooden stand.
+An image with a building, a floor, a ceiling, a cabinet, and a wall.
+An image with a floor, a building, a cabinet, a ceiling, and a wall.
+An image with a ceiling, a building, a wall, a cabinet, and a floor.
+An image with a wall, a ceiling, a cabinet, a building, and a floor.
+An image with a cabinet, a ceiling, a wall, a building, and a floor.

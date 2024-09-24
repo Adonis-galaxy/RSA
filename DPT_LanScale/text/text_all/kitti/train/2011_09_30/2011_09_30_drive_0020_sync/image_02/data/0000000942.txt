@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a road.
 The image captures a quiet, tree-lined street with a clear sky, a few parked vehicles, and a sign indicating a nearby business.
 The image shows a wide, tree-lined road with a few vehicles, a sidewalk, and a sign indicating a speed limit of 90 km/h.
 A quiet, tree-lined street with a clear path for vehicles, bordered by a sidewalk and a grassy area, leading to a residential area with a mix of houses and buildings.
+An image with a pavement, a road, a car, a tree, a building, three trucks, a dirt, a grass, and a sky.
+An image with a pavement, a dirt, three trucks, a tree, a road, a sky, a building, a grass, and a car.
+An image with a tree, a pavement, a grass, three trucks, a sky, a road, a car, a building, and a dirt.
+An image with a road, a tree, a building, three trucks, a grass, a car, a dirt, a sky, and a pavement.
+An image with a tree, a car, a grass, a pavement, a building, a road, three trucks, a sky, and a dirt.

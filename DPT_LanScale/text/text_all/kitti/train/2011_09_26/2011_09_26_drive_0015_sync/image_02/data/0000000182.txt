@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road.
 The image captures a typical day on a suburban street, with a mix of vehicles, pedestrians, and urban infrastructure.
 The image shows a wide, tree-lined street with a few cars and a train track, leading to a large building with a red roof.
 A wide, tree-lined street with multiple lanes, traffic lights, and a train track, leading to a white building with a red roof.
+An image with a building, a tree, ten cars, a bicycle, four traffics, two airplanes, a house, a railroad, a road, and a grass.
+An image with two airplanes, ten cars, a grass, four traffics, a building, a road, a railroad, a bicycle, a house, and a tree.
+An image with four traffics, a road, ten cars, a railroad, two airplanes, a grass, a tree, a bicycle, a building, and a house.
+An image with ten cars, a tree, a building, a road, four traffics, a railroad, a grass, two airplanes, a house, and a bicycle.
+An image with a grass, a house, ten cars, four traffics, a railroad, two airplanes, a building, a tree, a road, and a bicycle.

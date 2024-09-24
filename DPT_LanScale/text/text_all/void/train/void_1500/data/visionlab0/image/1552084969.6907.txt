@@ -8,3 +8,8 @@ The image shows a whiteboard with text on it, which is mounted on a wall.
 The image shows a whiteboard with text on it, placed on a wall next to a door.
 The image shows a large whiteboard with blue text on a beige wall, with a smaller whiteboard with black text to the right.
 The image shows a wall with a poster and a smaller paper attached to it.
+An image with a ceiling, a cabinet, a door, a paper, a wall, and a light.
+An image with a door, a light, a paper, a wall, a cabinet, and a ceiling.
+An image with a wall, a paper, a door, a cabinet, a light, and a ceiling.
+An image with a paper, a ceiling, a door, a light, a wall, and a cabinet.
+An image with a ceiling, a paper, a door, a cabinet, a light, and a wall.

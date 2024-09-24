@@ -8,3 +8,8 @@ The image shows a wide, empty street with multiple traffic lights and signs.
 The image captures a wide, empty road with multiple traffic lights and signs, leading to a distant highway intersection.
 The image shows a wide, empty road with multiple traffic lights and signs, and a few vehicles in the distance.
 The image depicts a wide, multi-lane road with multiple traffic lights and signs, leading to a highway intersection.
+An image with six traffics, a tree, a pavement, a road, two trucks, a sky, a grass, and two cars.
+An image with two cars, six traffics, a pavement, a tree, a grass, a road, two trucks, and a sky.
+An image with two cars, six traffics, a road, two trucks, a pavement, a sky, a grass, and a tree.
+An image with two trucks, six traffics, two cars, a road, a pavement, a sky, a tree, and a grass.
+An image with six traffics, two trucks, two cars, a pavement, a grass, a tree, a road, and a sky.

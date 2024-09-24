@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 The image captures a serene, tree-lined street with parked cars, leading to a building with a sloped roof, under a clear sky.
 A narrow road with a few parked cars, lined by a tall wall and trees, leading to a building with a sloped roof.
 A tree-lined road with parked cars and a building in the background.
+An image with three cars, a house, a pavement, a sky, a tree, a wall, and a road.
+An image with a sky, three cars, a house, a wall, a road, a tree, and a pavement.
+An image with a sky, three cars, a house, a pavement, a wall, a road, and a tree.
+An image with three cars, a sky, a road, a house, a tree, a pavement, and a wall.
+An image with a road, a sky, three cars, a house, a pavement, a wall, and a tree.

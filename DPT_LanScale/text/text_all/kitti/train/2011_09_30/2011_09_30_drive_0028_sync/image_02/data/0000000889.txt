@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a mix of houses and trees, creating a peaceful suburban atmosphere.
 The image shows a narrow street lined with parked cars and trees, with a large white house on the left and a smaller white house on the right.
 A narrow street lined with parked cars and houses, with a canopy of trees overhead.
+An image with eight cars, a house, a sky, a tree, a road, a dirt, a truck, and a fence.
+An image with eight cars, a dirt, a truck, a fence, a road, a house, a tree, and a sky.
+An image with a road, eight cars, a fence, a house, a tree, a truck, a sky, and a dirt.
+An image with eight cars, a road, a house, a sky, a dirt, a tree, a truck, and a fence.
+An image with eight cars, a truck, a tree, a dirt, a house, a sky, a road, and a fence.

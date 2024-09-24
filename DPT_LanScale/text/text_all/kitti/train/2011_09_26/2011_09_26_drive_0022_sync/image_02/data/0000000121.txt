@@ -8,3 +8,8 @@ The image shows a street with parked cars and a van.
 A narrow street lined with parked cars and buildings, with a large van parked on the sidewalk.
 A long row of parked cars on a narrow street, with a large van parked on the sidewalk.
 A narrow street lined with parked cars and garages, leading to a residential area with houses and trees.
+An image with eight cars, a house, two trucks, a road, a tree, a door, a fence, a pavement, and a sky.
+An image with eight cars, a pavement, a fence, a house, two trucks, a door, a tree, a road, and a sky.
+An image with a road, a door, eight cars, a tree, a pavement, a sky, a house, two trucks, and a fence.
+An image with a door, a road, a fence, two trucks, eight cars, a house, a sky, a tree, and a pavement.
+An image with a house, eight cars, a door, a sky, a road, two trucks, a tree, a pavement, and a fence.

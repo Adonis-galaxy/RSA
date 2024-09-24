@@ -8,3 +8,8 @@ A room with a television, laptop, and picture frame.
 A cozy living room with a television, laptop, and personal items.
 A small room with a flat-screen TV, a laptop, a picture frame, a chair, and a desk.
 A cozy living room with a flat-screen TV, a laptop, a small table with a mirror, a chair, and a wooden entertainment center.
+An image with a rug, a chair, two laptops, a table, a floor, a wall, a cabinet, and a tv.
+An image with a floor, a chair, a table, a wall, a tv, a cabinet, two laptops, and a rug.
+An image with a chair, two laptops, a wall, a cabinet, a table, a rug, a floor, and a tv.
+An image with a tv, two laptops, a floor, a table, a cabinet, a chair, a rug, and a wall.
+An image with a chair, a floor, a table, a wall, a cabinet, two laptops, a tv, and a rug.

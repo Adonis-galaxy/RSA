@@ -8,3 +8,8 @@ The image shows a blue countertop in a room with a white door and a white cabine
 The image shows a blue countertop next to a white door, with a reflection of the door in a mirror.
 The image shows a narrow hallway with a blue counter on the right and a white door on the left.
 The image shows a narrow hallway with a blue counter on the right and a white door on the left.
+An image with a wall, a floor, a oven, a cabinet, a light, and a door.
+An image with a wall, a door, a cabinet, a floor, a light, and a oven.
+An image with a floor, a wall, a oven, a cabinet, a door, and a light.
+An image with a oven, a light, a door, a floor, a wall, and a cabinet.
+An image with a oven, a door, a floor, a cabinet, a wall, and a light.

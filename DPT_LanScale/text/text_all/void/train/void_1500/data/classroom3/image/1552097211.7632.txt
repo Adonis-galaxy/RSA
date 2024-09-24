@@ -8,3 +8,8 @@ A computer mouse on a desk.
 A computer mouse on a desk.
 A computer mouse is sitting on a white desk.
 A computer mouse is sitting on a white desk, and there is a black keyboard in front of it.
+An image with a mouse, a table, a tv, a rug, a wall, and a keyboard.
+An image with a table, a keyboard, a rug, a wall, a mouse, and a tv.
+An image with a keyboard, a rug, a table, a tv, a mouse, and a wall.
+An image with a keyboard, a tv, a mouse, a wall, a rug, and a table.
+An image with a wall, a tv, a mouse, a rug, a keyboard, and a table.

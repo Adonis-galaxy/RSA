@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building with a glass facade, viewed from a low angle, with a red roof and a white exterior.
 The image shows a model of a building with a glass facade, featuring a courtyard and a red brick wall.
 The image shows a model of a building with a glass facade, featuring a courtyard and a red brick wall.
+An image with two floors, a wall, a ceiling, and a building.
+An image with two floors, a wall, a ceiling, and a building.
+An image with a ceiling, a wall, two floors, and a building.
+An image with two floors, a ceiling, a wall, and a building.
+An image with a wall, two floors, a ceiling, and a building.

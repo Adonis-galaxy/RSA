@@ -8,3 +8,8 @@ The image shows a whiteboard with a black marker on it, a black chair, a white m
 The image shows a whiteboard with a black marker on it, a black chair, a white marble table with papers on it, and a yellow book.
 The image shows a whiteboard on a wall with a black chair in front of it, and a table with papers on it.
 The image shows a whiteboard on a wall with a black chair in front of it, and a table with papers on it.
+An image with a tv, a dining, a chair, a book, and a wall.
+An image with a chair, a wall, a tv, a book, and a dining.
+An image with a tv, a book, a chair, a wall, and a dining.
+An image with a book, a tv, a dining, a chair, and a wall.
+An image with a chair, a dining, a book, a tv, and a wall.

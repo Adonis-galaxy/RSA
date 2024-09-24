@@ -8,3 +8,8 @@ The image shows a small, dark room with a bed, a fan, and a television.
 The image captures a small, dark room with a bed, a chair, a TV, and a fan, all in close proximity to each other.
 The image shows a small, dark room with a bed, a chair, a TV, a fan, and a suitcase.
 The image shows a small, dark room with a bed, a chair, a TV, a fan, and a suitcase, all arranged in a compact and somewhat cluttered manner.
+An image with a bed, a tv, a window, a wall, and a rug.
+An image with a bed, a tv, a wall, a rug, and a window.
+An image with a tv, a bed, a wall, a window, and a rug.
+An image with a bed, a tv, a window, a rug, and a wall.
+An image with a wall, a rug, a bed, a tv, and a window.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car parked on the side.
 A quiet residential street, lined with parked cars and a few trees, under a clear sky.
 The image shows a narrow street with parked cars, a covered parking area, and a building on the left side. The street is lined with trees and has a speed limit of 30.
 The image depicts a quiet residential street with a few parked cars, a covered parking area, and a numbered speed limit.
+An image with a sky, a truck, three cars, a pavement, a building, a tree, and a road.
+An image with a tree, a sky, three cars, a building, a pavement, a truck, and a road.
+An image with a sky, a building, a pavement, three cars, a truck, a road, and a tree.
+An image with three cars, a building, a sky, a truck, a road, a tree, and a pavement.
+An image with three cars, a pavement, a sky, a truck, a tree, a road, and a building.

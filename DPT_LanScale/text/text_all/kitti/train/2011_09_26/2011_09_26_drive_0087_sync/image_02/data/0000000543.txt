@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 A quiet residential street, with a parked car and a pedestrian path, leading to a white house with a garage.
 A narrow street between two white buildings, with a black SUV parked on the right side and a white garage on the left.
 A narrow, tree-lined street in a residential area, with a parked car on the right side and a white building with a garage door on the left.
+An image with a tree, two cars, a fence, a pavement, a door, and a sky.
+An image with two cars, a pavement, a tree, a fence, a sky, and a door.
+An image with a sky, a tree, a door, a pavement, a fence, and two cars.
+An image with a tree, a door, a sky, a pavement, two cars, and a fence.
+An image with a fence, a tree, two cars, a sky, a pavement, and a door.

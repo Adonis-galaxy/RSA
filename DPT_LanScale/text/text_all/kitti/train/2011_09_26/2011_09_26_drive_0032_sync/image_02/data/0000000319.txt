@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and a clear sky.
 The image captures a tranquil rural highway, with a few vehicles in motion, surrounded by lush greenery and a clear blue sky.
 The image shows a wide, empty highway with a few cars and trucks driving on it, surrounded by trees and a clear sky.
 The image depicts a wide, empty highway with a clear sky, lined with trees and a few vehicles in the distance.
+An image with a pavement, six cars, a road, a truck, a grass, a sky, and a tree.
+An image with six cars, a tree, a truck, a sky, a pavement, a road, and a grass.
+An image with six cars, a tree, a pavement, a grass, a sky, a road, and a truck.
+An image with six cars, a sky, a tree, a road, a pavement, a truck, and a grass.
+An image with six cars, a truck, a grass, a tree, a road, a sky, and a pavement.

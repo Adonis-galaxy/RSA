@@ -8,3 +8,8 @@ A blue carton on a desk.
 The image shows a cluttered desk with various items on it, including a blue box, a white sign, and a black chair.
 The image shows a cluttered desk with a computer monitor, a black chair, a blue box, a white sign, and a black cell phone.
 The image shows a cluttered desk with various items on it, including a blue box, a white sign, and a black laptop.
+An image with a wall, a paper, two tvs, a cell, a laptop, a cardboard, a table, and a floor.
+An image with a cell, two tvs, a paper, a laptop, a cardboard, a table, a wall, and a floor.
+An image with two tvs, a laptop, a cardboard, a table, a paper, a floor, a wall, and a cell.
+An image with a wall, a paper, two tvs, a laptop, a cell, a table, a cardboard, and a floor.
+An image with a paper, a floor, a laptop, a wall, a table, two tvs, a cardboard, and a cell.

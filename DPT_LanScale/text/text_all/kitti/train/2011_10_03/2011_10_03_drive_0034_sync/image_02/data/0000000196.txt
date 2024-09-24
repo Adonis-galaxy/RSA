@@ -8,3 +8,8 @@ A black car parked on the side of a road.
 A parked black car on a tree-lined street, with a clear sky overhead and a residential area in the background.
 A small black car is parked on the side of a tree-lined street.
 A black car is parked on the side of a tree-lined street, with apartment buildings in the background, and the sun is shining brightly.
+An image with a grass, a building, a road, a tree, a sky, a pavement, and two cars.
+An image with a grass, two cars, a pavement, a tree, a road, a sky, and a building.
+An image with a road, a pavement, a building, a sky, a tree, a grass, and two cars.
+An image with a road, a tree, two cars, a building, a pavement, a grass, and a sky.
+An image with a building, a pavement, a sky, a road, two cars, a grass, and a tree.

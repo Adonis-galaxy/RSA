@@ -8,3 +8,8 @@ The image shows a patch of dirt with some plants growing in it.
 The image shows a patch of dirt with sparse vegetation, surrounded by a brick wall and a concrete ledge.
 The image shows a small patch of dirt with a few plants growing in it, surrounded by a brick wall and a concrete ledge.
 The image shows a small patch of dirt with a few plants growing in it, surrounded by a brick wall and a concrete ledge.
+An image with a tree, two walls, a pavement, and a grass.
+An image with two walls, a pavement, a grass, and a tree.
+An image with a tree, two walls, a grass, and a pavement.
+An image with a pavement, two walls, a tree, and a grass.
+An image with a pavement, a tree, a grass, and two walls.

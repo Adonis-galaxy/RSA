@@ -8,3 +8,8 @@ The image shows a room with several chairs and a green box.
 The image shows an empty room with rows of chairs facing a green box, which is placed on a white counter.
 The image shows a room with several chairs and a large green object in the corner.
 The image shows an empty room with rows of chairs facing a stage or podium, and a large green object in the background.
+An image with a door, a wall, eight chairs, a cabinet, a window, and a floor.
+An image with a wall, eight chairs, a window, a cabinet, a door, and a floor.
+An image with a wall, a cabinet, eight chairs, a floor, a window, and a door.
+An image with a cabinet, a window, eight chairs, a wall, a floor, and a door.
+An image with eight chairs, a wall, a cabinet, a door, a floor, and a window.

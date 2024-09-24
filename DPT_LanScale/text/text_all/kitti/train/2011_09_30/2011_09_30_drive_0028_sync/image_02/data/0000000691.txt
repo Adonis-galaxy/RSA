@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 A quiet suburban street, lined with trees and parked cars, under a clear blue sky.
 A blue car is driving down a tree-lined street, with a white car following behind.
 A tree-lined street with a few cars driving on a sunny day.
+An image with a tree, a road, a fence, a house, two cars, a pavement, and a sky.
+An image with a tree, two cars, a pavement, a house, a sky, a road, and a fence.
+An image with a road, a fence, a pavement, a tree, a house, two cars, and a sky.
+An image with a house, a tree, a sky, a road, a pavement, two cars, and a fence.
+An image with a fence, two cars, a road, a tree, a house, a sky, and a pavement.

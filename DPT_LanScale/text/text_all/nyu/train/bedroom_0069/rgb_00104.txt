@@ -8,3 +8,8 @@ A bed in a bedroom.
 A cozy, unmade bed in a small room, with a nightstand and a window.
 A small bed with a plaid blanket and a wooden headboard is situated in a room with a window and a white wall.
 A small, neatly made bed with a plaid blanket and a wooden headboard, positioned in a corner of a room with a window and a nightstand.
+An image with a book, a wall, a bed, a rug, and a window.
+An image with a wall, a bed, a window, a rug, and a book.
+An image with a book, a window, a wall, a bed, and a rug.
+An image with a bed, a wall, a window, a rug, and a book.
+An image with a bed, a window, a rug, a wall, and a book.

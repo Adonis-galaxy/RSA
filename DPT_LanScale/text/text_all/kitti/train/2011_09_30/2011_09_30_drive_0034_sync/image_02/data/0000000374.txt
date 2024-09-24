@@ -8,3 +8,8 @@ A white van parked on a narrow street.
 A white van parked on a narrow, tree-lined street in a residential area, with a sidewalk and a brick pathway.
 A large white van is parked on a narrow, brick-paved street in a residential area, with a house and trees in the background.
 A white van is parked on a narrow, tree-lined street in a residential area, with a house and a garden visible in the background.
+An image with a flower, three cars, a truck, a pavement, a grass, a house, a tree, and a sky.
+An image with a grass, a tree, a flower, a pavement, three cars, a house, a truck, and a sky.
+An image with a grass, a truck, three cars, a house, a tree, a pavement, a sky, and a flower.
+An image with a house, a grass, three cars, a flower, a sky, a truck, a pavement, and a tree.
+An image with a house, a flower, three cars, a sky, a tree, a grass, a pavement, and a truck.

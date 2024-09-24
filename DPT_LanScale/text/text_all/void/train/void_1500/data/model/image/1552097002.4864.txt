@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a parking lot and trees, displayed in a glass case.
 The image shows a small model of a building, which is placed on a wooden stand.
 The image shows a model of a building and its surroundings, including a street and trees, displayed in a glass case.
+An image with a tree, a building, a grass, and a floor.
+An image with a tree, a floor, a grass, and a building.
+An image with a grass, a floor, a tree, and a building.
+An image with a tree, a building, a grass, and a floor.
+An image with a tree, a floor, a building, and a grass.

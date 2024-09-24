@@ -8,3 +8,8 @@ The image shows a street scene with a white van driving on the road.
 The image captures a serene suburban street scene, with a white van driving down the road, passing a green field and a white building, under a clear blue sky.
 A large white building is visible in the background, with a street sign and a car on the road in the foreground.
 The image depicts a suburban street scene with a white van driving on the road, a green grassy area adjacent to the street, and a blue sky overhead.
+An image with a pavement, a grass, a tree, a building, a road, a sky, a car, and a traffic.
+An image with a grass, a pavement, a building, a sky, a tree, a traffic, a road, and a car.
+An image with a grass, a traffic, a tree, a road, a building, a sky, a pavement, and a car.
+An image with a road, a pavement, a grass, a building, a traffic, a tree, a sky, and a car.
+An image with a tree, a road, a grass, a building, a pavement, a sky, a car, and a traffic.

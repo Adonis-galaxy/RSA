@@ -8,3 +8,8 @@ A red umbrella is open on the floor.
 A blue jacket hangs on the back of a chair in an office setting, with a red umbrella leaning against the wall.
 A blue jacket is hanging on the back of a black office chair, and a red umbrella is standing upright on the floor in front of a whiteboard.
 The image shows an office setting with a blue jacket hanging on the back of a chair, a red umbrella leaning against a whiteboard, and a green trash can next to a desk.
+An image with a floor, a wall, a person, a chair, a towel, and a umbrella.
+An image with a person, a wall, a towel, a chair, a umbrella, and a floor.
+An image with a floor, a towel, a umbrella, a chair, a wall, and a person.
+An image with a floor, a wall, a chair, a person, a umbrella, and a towel.
+An image with a towel, a chair, a person, a floor, a umbrella, and a wall.

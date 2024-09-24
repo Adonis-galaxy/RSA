@@ -8,3 +8,8 @@ A row of garages on a street.
 A row of garages with a single open door, adjacent to a residential street with parked cars.
 A row of garages with white doors, parked cars, and a sidewalk.
 A row of garages with a single open door, parked cars, and a sidewalk leading to a residential area with houses and trees.
+An image with a sky, a tree, four cars, a road, a pavement, a roof, a wall, and a building.
+An image with four cars, a sky, a building, a roof, a tree, a wall, a pavement, and a road.
+An image with a road, a sky, a pavement, four cars, a building, a tree, a roof, and a wall.
+An image with a tree, a building, a sky, four cars, a wall, a roof, a pavement, and a road.
+An image with a tree, four cars, a road, a roof, a sky, a wall, a pavement, and a building.

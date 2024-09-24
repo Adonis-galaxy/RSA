@@ -8,3 +8,8 @@ A white van is stopped at a red traffic light.
 A white van is stopped at a red traffic light, allowing a white and red bus to pass through the intersection.
 A large white bus is driving down a street with a red stripe, passing a white van and a traffic light.
 A city street scene with a white van, a red and white bus, a traffic light, and a pedestrian crossing.
+An image with three cars, a bus, a truck, three traffics, a tree, a sky, a road, a person, and a grass.
+An image with a sky, three cars, a tree, a bus, three traffics, a person, a road, a truck, and a grass.
+An image with a grass, three cars, three traffics, a person, a tree, a bus, a road, a sky, and a truck.
+An image with a bus, a tree, three cars, a truck, a road, a sky, a person, three traffics, and a grass.
+An image with a tree, a grass, three traffics, a sky, three cars, a road, a truck, a bus, and a person.

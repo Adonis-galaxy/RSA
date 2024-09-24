@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a typical day on a suburban street, with a mix of vehicles, pedestrians, and urban infrastructure.
 A large black car is driving down a wide street with a median, surrounded by trees and buildings.
 The image depicts a wide, tree-lined street with a train track running parallel to it, flanked by buildings and a grassy area.
+An image with three traffics, ten cars, a fence, a railroad, a house, a airplane, a tree, three people, a road, and a grass.
+An image with ten cars, three traffics, a house, a railroad, a fence, three people, a grass, a airplane, a road, and a tree.
+An image with three people, ten cars, three traffics, a tree, a house, a road, a grass, a airplane, a railroad, and a fence.
+An image with a grass, ten cars, a fence, three traffics, three people, a airplane, a tree, a house, a railroad, and a road.
+An image with ten cars, a house, a fence, three people, a railroad, three traffics, a road, a airplane, a tree, and a grass.

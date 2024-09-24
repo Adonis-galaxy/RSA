@@ -8,3 +8,8 @@ The image shows a busy highway with multiple lanes of traffic.
 A busy highway scene with multiple vehicles, including cars and trucks, driving on a road with a grassy median and a clear blue sky.
 A busy highway with multiple lanes of traffic, including cars, trucks, and buses, under a clear blue sky.
 A busy highway with multiple lanes, a mix of vehicles, and a clear sky.
+An image with seven cars, a road, a building, a truck, a stop, a grass, a railroad, a traffic, and a tree.
+An image with a stop, a tree, a traffic, a building, seven cars, a road, a truck, a grass, and a railroad.
+An image with a road, a building, a stop, seven cars, a tree, a grass, a railroad, a truck, and a traffic.
+An image with seven cars, a grass, a stop, a road, a tree, a building, a truck, a traffic, and a railroad.
+An image with seven cars, a traffic, a truck, a railroad, a grass, a tree, a road, a stop, and a building.

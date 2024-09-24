@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a bus.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 A narrow street lined with trees and parked cars, with a bus parked on the right side.
 A tree-lined street with parked cars and a bus, leading to a residential area.
+An image with a building, five cars, a grass, a pavement, a sky, a bus, a tree, and a road.
+An image with five cars, a building, a tree, a road, a grass, a bus, a pavement, and a sky.
+An image with five cars, a grass, a pavement, a building, a road, a bus, a sky, and a tree.
+An image with five cars, a bus, a sky, a building, a road, a grass, a tree, and a pavement.
+An image with five cars, a road, a grass, a pavement, a tree, a building, a bus, and a sky.

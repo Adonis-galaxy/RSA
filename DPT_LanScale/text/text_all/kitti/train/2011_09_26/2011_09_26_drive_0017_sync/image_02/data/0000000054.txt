@@ -8,3 +8,8 @@ The image shows a white car driving on a road with multiple traffic lights.
 The image captures a moment of urban life, featuring a white car driving on a wide, empty street with multiple traffic lights and signs, under a clear blue sky.
 A white car is driving down a wide, empty road with multiple traffic lights and signs, and a clear blue sky.
 The image shows a wide, empty road with multiple traffic lights and signs, leading to a distant horizon where trees are visible.
+An image with three traffics, a car, a pavement, a tree, a road, and a parking.
+An image with a tree, a parking, a pavement, three traffics, a car, and a road.
+An image with a pavement, a parking, three traffics, a tree, a car, and a road.
+An image with a road, three traffics, a parking, a tree, a car, and a pavement.
+An image with a tree, three traffics, a car, a parking, a road, and a pavement.

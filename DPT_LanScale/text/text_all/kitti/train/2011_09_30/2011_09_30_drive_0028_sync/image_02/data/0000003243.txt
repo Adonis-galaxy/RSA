@@ -8,3 +8,8 @@ The image shows two cars parked on a street.
 The image captures a quiet residential street, with two parked cars on the side of the road, a clear sky overhead, and a lush green hedge lining the street.
 The image shows a narrow street between two buildings, with two cars parked on the side, and a person walking on the sidewalk.
 The image shows a narrow street between two buildings, with two cars parked on the side, and a clear sky overhead.
+An image with a sky, a house, two cars, a tree, a window, a pavement, and a road.
+An image with two cars, a house, a road, a sky, a window, a tree, and a pavement.
+An image with a tree, two cars, a road, a pavement, a sky, a window, and a house.
+An image with a house, a sky, two cars, a window, a road, a pavement, and a tree.
+An image with two cars, a window, a pavement, a tree, a road, a sky, and a house.

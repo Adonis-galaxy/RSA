@@ -8,3 +8,8 @@ A white table with two chairs.
 The image shows a white table with two chairs, one on each side, in a room with a green wall.
 The image shows a large white table with four chairs around it, placed in a room with a green wall.
 The image shows a white table with two chairs, placed in a room with a green wall and a whiteboard in the background.
+An image with seven chairs, three dinings, a curtain, a floor, a paper, a wall, and a rug.
+An image with a wall, seven chairs, three dinings, a rug, a curtain, a paper, and a floor.
+An image with seven chairs, three dinings, a wall, a curtain, a floor, a rug, and a paper.
+An image with seven chairs, a rug, a floor, a curtain, three dinings, a wall, and a paper.
+An image with seven chairs, three dinings, a rug, a paper, a curtain, a wall, and a floor.

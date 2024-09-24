@@ -8,3 +8,8 @@ A penguin figurine on a desk.
 A computer desk with a keyboard, monitor, and stuffed penguin.
 A small stuffed penguin sits on a wooden desk next to a black keyboard and a computer monitor.
 A computer desk with a monitor, keyboard, and a stuffed penguin.
+An image with a window, a tv, a cabinet, a chair, a table, a mouse, a wall, a keyboard, and a clock.
+An image with a tv, a window, a chair, a mouse, a keyboard, a clock, a wall, a table, and a cabinet.
+An image with a window, a chair, a clock, a mouse, a keyboard, a tv, a wall, a table, and a cabinet.
+An image with a window, a cabinet, a table, a mouse, a keyboard, a clock, a tv, a chair, and a wall.
+An image with a clock, a table, a mouse, a tv, a window, a chair, a keyboard, a wall, and a cabinet.

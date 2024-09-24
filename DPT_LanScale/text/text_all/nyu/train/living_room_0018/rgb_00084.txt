@@ -8,3 +8,8 @@ A framed picture on a purple wall.
 The image captures a room with a purple wall, a framed picture of two women in a garden, a white canvas leaning against the wall, and a doorway leading to another room.
 The image shows a room with a purple wall, a framed picture hanging above a white canvas, a doorway leading to another room, and a closet with clothes hanging on the right.
 The image shows a room with a purple wall, a framed picture, a mirror, a doorway, and a white board leaning against the wall.
+An image with a curtain, a tv, a mirror, a wall, a chair, a towel, and a couch.
+An image with a chair, a tv, a couch, a wall, a curtain, a towel, and a mirror.
+An image with a chair, a mirror, a couch, a wall, a curtain, a tv, and a towel.
+An image with a curtain, a mirror, a chair, a towel, a tv, a couch, and a wall.
+An image with a tv, a towel, a mirror, a couch, a wall, a chair, and a curtain.

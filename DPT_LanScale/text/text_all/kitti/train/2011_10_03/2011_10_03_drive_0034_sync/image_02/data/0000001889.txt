@@ -8,3 +8,8 @@ A curvy road with a stone wall on the side.
 A winding road through a lush green forest, with a clear blue sky overhead.
 A winding road with a concrete barrier on the side, surrounded by trees and bushes, leading to a distant view of a clear sky.
 A curving, tree-lined road with a concrete barrier on the right side, leading to a clearing at the end.
+An image with a wall, a sky, a road, a pavement, a dirt, and a tree.
+An image with a tree, a sky, a pavement, a wall, a dirt, and a road.
+An image with a sky, a tree, a road, a wall, a dirt, and a pavement.
+An image with a tree, a wall, a pavement, a dirt, a road, and a sky.
+An image with a tree, a pavement, a sky, a wall, a road, and a dirt.

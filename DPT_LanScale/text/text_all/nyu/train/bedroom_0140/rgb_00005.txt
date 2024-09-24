@@ -8,3 +8,8 @@ A bedroom with a bed and a dresser.
 The image captures a simple, uncluttered bedroom with a neatly made bed, a dresser, and a lamp, all set against a white wall.
 The image shows a small, dimly lit bedroom with a single bed, a nightstand, a dresser, and a lamp. The bed is unmade with a blue blanket and a red pillow.
 The image shows a small, dimly lit bedroom with a wooden bed frame, a dresser, a nightstand, and a lamp.
+An image with a table, a floor, a curtain, a bed, a cabinet, and a wall.
+An image with a wall, a bed, a cabinet, a curtain, a floor, and a table.
+An image with a bed, a cabinet, a floor, a table, a curtain, and a wall.
+An image with a table, a floor, a cabinet, a curtain, a wall, and a bed.
+An image with a wall, a cabinet, a floor, a table, a curtain, and a bed.

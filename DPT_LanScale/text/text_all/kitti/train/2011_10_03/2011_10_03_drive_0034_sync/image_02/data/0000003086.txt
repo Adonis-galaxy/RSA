@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A narrow, tree-lined street with parked cars and a few vehicles in motion, leading to a residential area.
 A narrow street with parked cars, a sidewalk, and a building on the right side.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a residential area with garages and a house.
+An image with five cars, a wall, a tree, a road, a sky, and a pavement.
+An image with a sky, a wall, five cars, a pavement, a road, and a tree.
+An image with a road, a pavement, a wall, a tree, five cars, and a sky.
+An image with five cars, a wall, a road, a sky, a tree, and a pavement.
+An image with five cars, a sky, a tree, a wall, a road, and a pavement.

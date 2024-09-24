@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a garage on the left and a car parked on the right.
 The image shows a narrow alleyway between two buildings, with a garage on the left, a blue bin in the middle, and a car parked on the right.
 The image shows a narrow alleyway between two buildings, with a garage on the left, a blue cart in the middle, and a car parked on the right.
+An image with a road, three cars, a sky, a door, a truck, a roof, a tree, a pavement, and a wall.
+An image with three cars, a door, a pavement, a truck, a sky, a wall, a road, a tree, and a roof.
+An image with a roof, a tree, a door, a sky, three cars, a road, a truck, a pavement, and a wall.
+An image with three cars, a road, a tree, a wall, a door, a truck, a pavement, a roof, and a sky.
+An image with a wall, a tree, a door, three cars, a roof, a road, a truck, a pavement, and a sky.

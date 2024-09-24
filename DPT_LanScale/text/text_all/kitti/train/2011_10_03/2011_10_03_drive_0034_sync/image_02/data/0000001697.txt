@@ -8,3 +8,8 @@ A man and woman walking on a sidewalk.
 A man and woman walking on a sidewalk, with a car parked on the street and a house in the background.
 A man and woman walking on a sidewalk next to a house.
 A quiet residential street with a man and woman walking on the sidewalk, a car parked on the street, and a house with a red roof in the background.
+An image with three people, a wall, two cars, a grass, a road, a pavement, a sky, a tree, and a house.
+An image with three people, a tree, a wall, a house, a sky, a road, a pavement, a grass, and two cars.
+An image with three people, a road, two cars, a sky, a tree, a house, a grass, a wall, and a pavement.
+An image with a pavement, two cars, a grass, three people, a house, a road, a sky, a wall, and a tree.
+An image with a house, a sky, two cars, a wall, three people, a grass, a road, a tree, and a pavement.

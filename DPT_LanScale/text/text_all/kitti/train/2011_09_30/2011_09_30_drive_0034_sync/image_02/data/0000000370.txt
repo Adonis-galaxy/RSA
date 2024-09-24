@@ -8,3 +8,8 @@ A white van driving down a narrow street.
 A white delivery van is parked on a narrow, cobblestone street in a residential area, with a hedge and a building in the background.
 A large white van is driving down a narrow, tree-lined street in a residential area.
 A white delivery van is parked on a narrow, cobblestone street in a residential area, with a building and trees in the background.
+An image with a house, a roof, a pavement, a truck, a sky, two cars, and a tree.
+An image with a house, a tree, a truck, a roof, two cars, a pavement, and a sky.
+An image with a truck, two cars, a house, a tree, a sky, a roof, and a pavement.
+An image with a truck, a roof, two cars, a house, a tree, a pavement, and a sky.
+An image with a sky, a tree, two cars, a pavement, a roof, a truck, and a house.

@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a cozy dining room setting with a table surrounded by chairs, a fireplace with candles, and a chandelier, all under a window with curtains.
 The image shows a dining room with a large table surrounded by several chairs, a fireplace with candles, and a chandelier.
 The image shows a formal dining room with a table set for six, featuring a fireplace, a chandelier, and a blue and white color scheme.
+An image with seven chairs, a curtain, a dining, a floor, a wall, and a window.
+An image with a floor, seven chairs, a curtain, a window, a dining, and a wall.
+An image with seven chairs, a curtain, a wall, a dining, a floor, and a window.
+An image with a wall, seven chairs, a curtain, a floor, a window, and a dining.
+An image with a dining, seven chairs, a wall, a window, a curtain, and a floor.

@@ -8,3 +8,8 @@ A flat screen television mounted on a wall.
 A flat screen television is mounted on a wall above a black couch.
 A flat screen television is mounted on a wall above a black couch.
 A flat screen television is mounted on a white wall above a black couch.
+An image with a couch, a wall, a tv, and a towel.
+An image with a wall, a couch, a tv, and a towel.
+An image with a tv, a towel, a couch, and a wall.
+An image with a couch, a towel, a wall, and a tv.
+An image with a wall, a towel, a couch, and a tv.

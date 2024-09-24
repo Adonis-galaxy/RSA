@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with parked cars and a be
 The image captures a quiet residential street, with parked cars lining the sidewalk and a yellow building with a balcony and a tree-lined pathway leading to it.
 The image shows a narrow street lined with parked cars, a tall building with a balcony and a tree-lined sidewalk.
 The image shows a narrow street lined with parked cars, leading to a yellow building with a black gate and a tree-lined sidewalk.
+An image with three cars, a pavement, a window, a fence, a tree, and a house.
+An image with a tree, three cars, a pavement, a window, a fence, and a house.
+An image with a window, a house, a pavement, a tree, three cars, and a fence.
+An image with three cars, a tree, a pavement, a fence, a house, and a window.
+An image with a fence, three cars, a pavement, a house, a window, and a tree.

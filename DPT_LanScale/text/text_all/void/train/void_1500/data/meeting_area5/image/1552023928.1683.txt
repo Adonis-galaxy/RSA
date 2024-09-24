@@ -8,3 +8,8 @@ A row of white chairs with black accents around a white table.
 A row of white chairs with black accents around a white table in an office setting.
 A long white table with four chairs in a room with a yellow wall.
 The image shows a long white table with four chairs on wheels, positioned in front of a yellow wall with a blackboard and a whiteboard, and a gray carpeted floor.
+An image with four chairs, two dinings, a wall, a tv, a floor, and a door.
+An image with a floor, four chairs, a door, two dinings, a wall, and a tv.
+An image with a wall, four chairs, a floor, a tv, two dinings, and a door.
+An image with a door, a floor, a wall, two dinings, four chairs, and a tv.
+An image with a tv, a wall, a door, four chairs, two dinings, and a floor.

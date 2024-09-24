@@ -8,3 +8,8 @@ The image shows a street scene with cars and a truck.
 A red car is driving down a narrow street between two white houses, with a green car parked on the side and a white car following behind.
 A small red car is driving down a narrow street between two larger vehicles.
 A narrow street in a residential area with parked cars and a white house in the background.
+An image with a sky, a truck, a tree, a pavement, a house, five cars, and a road.
+An image with a truck, a pavement, a road, a sky, five cars, a house, and a tree.
+An image with a truck, a road, a tree, a sky, a pavement, five cars, and a house.
+An image with five cars, a pavement, a sky, a tree, a house, a truck, and a road.
+An image with a truck, five cars, a house, a road, a tree, a pavement, and a sky.

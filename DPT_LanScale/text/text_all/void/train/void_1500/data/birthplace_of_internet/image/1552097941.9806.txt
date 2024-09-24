@@ -8,3 +8,8 @@ A classroom with a green wall and a desk.
 The image shows a classroom with a green wall, a desk, a chair, a refrigerator, and a chalkboard.
 The image shows a classroom with a green wall, a desk with a computer, a whiteboard, and a refrigerator.
 The image shows a classroom with a green wall, a whiteboard, a desk, a chair, a refrigerator, and a light fixture.
+An image with a keyboard, a tv, a refrigerator, a light, four chairs, a dining, a ceiling, a person, and a wall.
+An image with a keyboard, a dining, four chairs, a light, a person, a refrigerator, a ceiling, a wall, and a tv.
+An image with four chairs, a person, a light, a refrigerator, a keyboard, a tv, a dining, a ceiling, and a wall.
+An image with a tv, four chairs, a dining, a person, a light, a keyboard, a ceiling, a refrigerator, and a wall.
+An image with a ceiling, a person, a light, four chairs, a dining, a wall, a refrigerator, a tv, and a keyboard.

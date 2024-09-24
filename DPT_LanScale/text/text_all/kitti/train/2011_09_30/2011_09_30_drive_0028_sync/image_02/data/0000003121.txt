@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A vibrant street scene with a mix of urban life and nature.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building. There is a sign on a pole, and the street is bordered by trees and bushes.
 A narrow, tree-lined street with parked cars and a yellow sign on a pole.
+An image with a pavement, a tree, five cars, a house, a flower, and a grass.
+An image with a tree, five cars, a pavement, a grass, a house, and a flower.
+An image with five cars, a house, a pavement, a tree, a flower, and a grass.
+An image with a grass, a house, five cars, a flower, a tree, and a pavement.
+An image with five cars, a house, a grass, a pavement, a flower, and a tree.

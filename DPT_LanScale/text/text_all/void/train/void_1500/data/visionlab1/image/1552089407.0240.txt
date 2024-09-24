@@ -8,3 +8,8 @@ A computer desk with a keyboard, scissors, and a box.
 A computer desk with a keyboard, scissors, and a box of items.
 A desk with a keyboard, scissors, and a box of items.
 A computer desk with a keyboard, scissors, and a box of items.
+An image with a chair, a window, a sports, a table, a paper, a floor, a keyboard, a scissors, a cardboard, and a tv.
+An image with a scissors, a paper, a chair, a tv, a sports, a table, a cardboard, a window, a keyboard, and a floor.
+An image with a chair, a scissors, a table, a window, a keyboard, a sports, a floor, a tv, a paper, and a cardboard.
+An image with a paper, a table, a keyboard, a window, a floor, a cardboard, a chair, a sports, a scissors, and a tv.
+An image with a floor, a table, a scissors, a chair, a sports, a paper, a keyboard, a cardboard, a window, and a tv.

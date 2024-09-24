@@ -8,3 +8,8 @@ A printer on a table.
 A blue and white printer on a desk next to a trash can.
 A blue and white printer on a desk next to a blue trash can.
 The image shows a small office space with a desk, a printer, and a trash can.
+An image with a floor, a table, a cardboard, a scissors, a door, a wall, and a paper.
+An image with a cardboard, a table, a scissors, a door, a floor, a paper, and a wall.
+An image with a door, a table, a wall, a scissors, a paper, a floor, and a cardboard.
+An image with a cardboard, a scissors, a wall, a table, a floor, a paper, and a door.
+An image with a cardboard, a table, a floor, a wall, a paper, a scissors, and a door.

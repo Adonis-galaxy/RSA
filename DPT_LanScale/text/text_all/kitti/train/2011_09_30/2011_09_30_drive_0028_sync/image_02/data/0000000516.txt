@@ -8,3 +8,8 @@ A white car on a street.
 A white car is parked on the side of a tree-lined street, with a house and a fence in the background.
 A small white car is driving down a narrow street lined with trees and houses.
 A white car is driving down a tree-lined street, passing by a white house with a black roof and a black gate, and a white building with a black roof and a black gate.
+An image with a fence, a sky, a car, a house, a pavement, a tree, and a road.
+An image with a tree, a car, a pavement, a road, a sky, a house, and a fence.
+An image with a fence, a road, a house, a tree, a pavement, a car, and a sky.
+An image with a fence, a tree, a road, a car, a pavement, a sky, and a house.
+An image with a sky, a fence, a house, a tree, a pavement, a road, and a car.

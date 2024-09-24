@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a quiet residential street with a few parked cars, a mix of trees and buildings, and a clear blue sky overhead.
 The image shows a street scene with a car, a building, trees, and a blue sign.
 The image depicts a residential street with parked cars, a curved road, and a mix of trees and buildings, captured during the day under a clear sky.
+An image with a road, a fire, seven cars, a pavement, a sky, a house, and a tree.
+An image with a road, seven cars, a pavement, a sky, a house, a tree, and a fire.
+An image with a fire, seven cars, a house, a road, a tree, a pavement, and a sky.
+An image with a sky, seven cars, a pavement, a road, a house, a fire, and a tree.
+An image with a house, a tree, seven cars, a sky, a road, a fire, and a pavement.

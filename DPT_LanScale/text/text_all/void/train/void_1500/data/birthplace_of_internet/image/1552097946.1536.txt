@@ -8,3 +8,8 @@ A classroom with a blueboard and a desk.
 The image shows a classroom with a blueboard, a desk, a table with a picture on it, and a refrigerator.
 The image shows a room with a blue and white cabinet, a table with a poster on it, a desk with a computer monitor, and a green wall.
 The image shows a room with a blue and white board, a table with a picture on it, a refrigerator, and a desk with a chair. The room has a green wall and a white ceiling with lights.
+An image with a floor, a ceiling, two walls, two people, a light, three chairs, a dining, and a paper.
+An image with two walls, a floor, a paper, three chairs, a dining, two people, a ceiling, and a light.
+An image with two people, three chairs, two walls, a floor, a ceiling, a paper, a light, and a dining.
+An image with a paper, three chairs, two people, a dining, a light, two walls, a floor, and a ceiling.
+An image with three chairs, two walls, a paper, two people, a ceiling, a light, a floor, and a dining.

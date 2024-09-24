@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 The image captures a serene residential street, lined with parked cars and lush greenery, leading to a quaint white building with a charming garden.
 The image shows a narrow, tree-lined street with parked cars on the side, a building on the left, and a sign on the right.
 A narrow, tree-lined street with parked cars and a building on one side, leading to a cul-de-sac.
+An image with a sky, three cars, a fire, a pavement, a house, a truck, and a tree.
+An image with a house, a fire, three cars, a tree, a pavement, a sky, and a truck.
+An image with a tree, a fire, three cars, a house, a sky, a truck, and a pavement.
+An image with a fire, three cars, a pavement, a tree, a sky, a house, and a truck.
+An image with three cars, a truck, a pavement, a tree, a house, a fire, and a sky.

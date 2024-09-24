@@ -8,3 +8,8 @@ The image shows a dining room with a table and chairs.
 The image captures a well-lit dining room with a table set for two, featuring a framed picture on the wall, a lamp on a sideboard, and a window with blinds partially drawn.
 The image shows a dining room with a large table, several chairs, a lamp, a framed picture on the wall, and a window with blinds.
 The image shows a dining room with a table, chairs, and a lamp, all set against a backdrop of a living room with a couch and a painting.
+An image with a book, two chairs, a floor, a curtain, a cabinet, a dining, a wall, and a light.
+An image with a curtain, two chairs, a floor, a book, a cabinet, a dining, a wall, and a light.
+An image with a book, a wall, a cabinet, a dining, a curtain, a floor, two chairs, and a light.
+An image with a cabinet, a curtain, two chairs, a light, a floor, a dining, a wall, and a book.
+An image with two chairs, a dining, a floor, a cabinet, a curtain, a light, a wall, and a book.

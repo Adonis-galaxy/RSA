@@ -8,3 +8,8 @@ A row of black and brown chairs.
 The image shows a row of black chairs with wooden armrests, arranged in a classroom setting on a shiny floor.
 The image shows a row of black and brown chairs with wooden armrests, placed on a shiny white floor.
 The image shows a row of black chairs with wooden armrests and backs, arranged in a classroom setting on a shiny floor.
+An image with six chairs, a person, a dining, and a floor.
+An image with a dining, six chairs, a floor, and a person.
+An image with six chairs, a person, a floor, and a dining.
+An image with a floor, six chairs, a person, and a dining.
+An image with a dining, a person, six chairs, and a floor.

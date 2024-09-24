@@ -8,3 +8,8 @@ The image shows an office space with a desk, chair, and whiteboard.
 The image captures a small, cluttered office space with a red chair, a desk with a computer, a whiteboard, and a brick wall.
 The image shows a small office space with a desk, a red chair, a computer monitor, a whiteboard, and a brick wall.
 The image shows a small office space with a desk, a red chair, a computer monitor, a whiteboard, and a brick wall.
+An image with a table, a keyboard, two chairs, a mouse, a book, two walls, a tv, and a floor.
+An image with two chairs, a keyboard, a floor, a mouse, a tv, a book, two walls, and a table.
+An image with two chairs, a floor, a tv, a table, two walls, a book, a mouse, and a keyboard.
+An image with a keyboard, two chairs, two walls, a floor, a book, a tv, a table, and a mouse.
+An image with two walls, a keyboard, a mouse, two chairs, a tv, a floor, a table, and a book.

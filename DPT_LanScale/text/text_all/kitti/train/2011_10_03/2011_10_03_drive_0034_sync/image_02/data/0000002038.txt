@@ -8,3 +8,8 @@ The image shows a street with a speed limit of 30.
 The image captures a quiet residential street, with a clear sky overhead and a few parked cars along the side, leading to a serene suburban setting.
 The image shows a narrow street with a few parked cars, a speed limit sign indicating 30, and a canopy over a parking area.
 The image depicts a quiet residential street with a few parked cars, a speed limit sign, and a covered parking area.
+An image with a pavement, three cars, a tree, a wall, a road, a truck, a sky, and a ceiling.
+An image with three cars, a tree, a road, a sky, a pavement, a ceiling, a wall, and a truck.
+An image with a pavement, a sky, three cars, a truck, a ceiling, a tree, a road, and a wall.
+An image with a road, three cars, a pavement, a ceiling, a truck, a sky, a wall, and a tree.
+An image with a truck, three cars, a road, a sky, a tree, a ceiling, a pavement, and a wall.

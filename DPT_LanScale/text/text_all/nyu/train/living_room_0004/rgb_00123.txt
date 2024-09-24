@@ -8,3 +8,8 @@ A painting leaning against a wall.
 The image captures a dimly lit room with a painting leaning against a wall, a coat hanging on a chair, and a lamp with a white shade.
 The image shows a dimly lit room with a large painting leaning against a wall, a small lamp, a chair, and a table with a checkered cloth.
 The image shows a dimly lit room with a framed picture leaning against a wall, a coat hanging on a chair, and a lamp with a white shade.
+An image with a dining, a floor, a towel, and a wall.
+An image with a wall, a dining, a towel, and a floor.
+An image with a wall, a floor, a dining, and a towel.
+An image with a towel, a floor, a wall, and a dining.
+An image with a dining, a floor, a wall, and a towel.

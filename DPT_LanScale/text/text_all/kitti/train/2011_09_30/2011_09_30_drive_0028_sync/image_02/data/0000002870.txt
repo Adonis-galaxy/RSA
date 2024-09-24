@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a few pedestrians, leading to a residential area.
 A tree-lined street with a sidewalk, a car parked on the side, and a person walking on the sidewalk.
 A tree-lined street with a sidewalk, a car parked on the side, and a person walking on the sidewalk.
+An image with a tree, a building, a pavement, a grass, two cars, a sky, a bicycle, a road, and a person.
+An image with a grass, two cars, a road, a tree, a pavement, a bicycle, a sky, a building, and a person.
+An image with a grass, a bicycle, a building, a pavement, two cars, a tree, a road, a sky, and a person.
+An image with a pavement, a bicycle, a road, a sky, a grass, a tree, a building, two cars, and a person.
+An image with a road, a sky, a bicycle, a tree, a grass, two cars, a pavement, a building, and a person.

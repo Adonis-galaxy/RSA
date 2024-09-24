@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a cityscape, with a focus on a white building with a large square on top, surrounded by other buildings and a street.
 The image shows a small model of a cityscape, including buildings and a street, displayed in a glass case.
 The image shows a model of a cityscape with buildings and a street, displayed in a glass case.
+An image with a wall, a counter, a building, a floor, a cabinet, and a ceiling.
+An image with a floor, a cabinet, a ceiling, a wall, a counter, and a building.
+An image with a building, a ceiling, a cabinet, a wall, a floor, and a counter.
+An image with a counter, a cabinet, a floor, a building, a wall, and a ceiling.
+An image with a counter, a wall, a ceiling, a building, a floor, and a cabinet.

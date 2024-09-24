@@ -8,3 +8,8 @@ A window with a view of a snowy landscape.
 The image captures a serene and well-lit room with a large window, showcasing a table with a menorah and a few decorative items, creating a sense of tranquility and spirituality.
 A dimly lit room with a large window, a small table with a menorah and a few books, and a dark counter with various objects.
 The image shows a dimly lit room with a large window covered in frosted glass, through which a view of a street can be seen. On the window sill, there is a small statue and a candle holder with candles. To the right, there is a dark wooden counter with various items on it, including a book, a vase, and a small statue. The overall layout suggests a cozy and intimate atmosphere.
+An image with three books, a floor, a window, a wall, and a table.
+An image with a floor, three books, a table, a wall, and a window.
+An image with a floor, a table, three books, a window, and a wall.
+An image with three books, a window, a wall, a table, and a floor.
+An image with a window, three books, a table, a wall, and a floor.

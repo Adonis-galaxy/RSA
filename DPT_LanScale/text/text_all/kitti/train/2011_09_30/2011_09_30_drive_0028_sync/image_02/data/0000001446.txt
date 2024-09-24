@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white truck.
 A quiet residential street with parked cars and a lush green lawn.
 A row of parked cars on a narrow street, with a large white truck and a small white car being the most prominent.
 A row of parked cars on a tree-lined street, with a white van and a white car in the foreground, and a white car parked on the side of the road.
+An image with a grass, three cars, a pavement, a tree, a house, a road, a truck, and a sky.
+An image with a tree, a truck, a house, a road, a pavement, a sky, three cars, and a grass.
+An image with three cars, a road, a tree, a house, a truck, a sky, a pavement, and a grass.
+An image with a tree, a house, three cars, a grass, a pavement, a truck, a road, and a sky.
+An image with a pavement, three cars, a truck, a house, a road, a tree, a sky, and a grass.

@@ -8,3 +8,8 @@ A tree-lined street with a car parked on the side.
 A quiet residential street, lined with trees and parked cars, under a clear sky.
 A person is walking on a sidewalk next to a street with parked cars and a lush green canopy of trees overhead.
 A tree-lined street with a car parked on the side, a person standing near a utility box, and a car driving down the road.
+An image with three cars, a house, a tree, a pavement, a sky, a grass, a person, and a road.
+An image with a road, a sky, a tree, three cars, a house, a pavement, a grass, and a person.
+An image with three cars, a tree, a sky, a grass, a road, a house, a person, and a pavement.
+An image with a house, a tree, three cars, a road, a person, a sky, a pavement, and a grass.
+An image with a sky, a pavement, three cars, a tree, a grass, a person, a road, and a house.

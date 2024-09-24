@@ -8,3 +8,8 @@ A silver van driving down a tree-lined street.
 A row of parked cars on a tree-lined street, with a silver van leading the line.
 A row of parked cars on a tree-lined street.
 A tree-lined street with parked cars and a sidewalk.
+An image with six cars, a pavement, a tree, a grass, a fence, a sky, a road, and a house.
+An image with a tree, a house, six cars, a sky, a pavement, a fence, a road, and a grass.
+An image with six cars, a fence, a sky, a road, a pavement, a grass, a tree, and a house.
+An image with a fence, a road, a tree, six cars, a grass, a sky, a pavement, and a house.
+An image with six cars, a fence, a sky, a tree, a pavement, a house, a grass, and a road.

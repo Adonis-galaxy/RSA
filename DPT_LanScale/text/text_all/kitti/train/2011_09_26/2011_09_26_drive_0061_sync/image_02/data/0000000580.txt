@@ -8,3 +8,8 @@ A blue truck parked on the side of a road.
 A parked motorcycle on a narrow street between a stone wall and a wooden fence, with a lush green hillside in the background.
 A narrow alleyway between two tall fences, with a parked motorcycle and a street lamp on the left side.
 A narrow alleyway between two fences, with a parked motorcycle and a blue car on the left side.
+An image with a pavement, a tree, a motorcycle, a wall, and a car.
+An image with a motorcycle, a wall, a car, a pavement, and a tree.
+An image with a tree, a car, a wall, a pavement, and a motorcycle.
+An image with a wall, a car, a motorcycle, a pavement, and a tree.
+An image with a motorcycle, a car, a wall, a pavement, and a tree.

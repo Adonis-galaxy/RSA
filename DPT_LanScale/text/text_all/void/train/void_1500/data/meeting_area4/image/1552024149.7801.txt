@@ -8,3 +8,8 @@ A white table with a black chair.
 A long white table with a chair in a room.
 A long white table with a black chair in a room.
 The image shows a long white table with a matching chair, placed on a gray carpeted floor, in a room with a white wall and a glass door.
+An image with a floor, six chairs, a paper, a dining, a curtain, and a wall.
+An image with a paper, six chairs, a dining, a curtain, a wall, and a floor.
+An image with six chairs, a paper, a curtain, a dining, a wall, and a floor.
+An image with a paper, six chairs, a dining, a floor, a curtain, and a wall.
+An image with six chairs, a wall, a floor, a paper, a dining, and a curtain.

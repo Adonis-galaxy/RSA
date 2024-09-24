@@ -8,3 +8,8 @@ The image shows a street scene with a clear blue sky.
 The image captures a serene suburban street scene, with a clear sky overhead, lush greenery on both sides, and a few parked cars and pedestrians adding life to the tranquil setting.
 The image shows a wide, tree-lined street with a few cars, a sidewalk, and streetlights.
 The image depicts a suburban street scene with a clear sky, greenery, and a few vehicles, captured from a pedestrian perspective.
+An image with a traffic, a stop, a tree, a road, a car, a grass, and a sky.
+An image with a stop, a car, a sky, a road, a tree, a grass, and a traffic.
+An image with a traffic, a tree, a car, a road, a sky, a grass, and a stop.
+An image with a stop, a car, a sky, a grass, a tree, a road, and a traffic.
+An image with a road, a grass, a traffic, a tree, a sky, a car, and a stop.

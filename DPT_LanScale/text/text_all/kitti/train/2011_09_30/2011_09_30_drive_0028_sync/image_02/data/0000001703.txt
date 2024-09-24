@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a few vehicles moving along the street, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street lined with parked cars and buildings, with a white van parked in the middle of the street.
 A narrow, tree-lined street in a residential area, with parked cars and a delivery van, leading to a row of houses.
+An image with a tree, four cars, two trucks, a house, a grass, a pavement, a sky, and a road.
+An image with a grass, two trucks, four cars, a pavement, a sky, a house, a road, and a tree.
+An image with two trucks, a grass, a house, a pavement, four cars, a road, a tree, and a sky.
+An image with four cars, a tree, a sky, a grass, two trucks, a house, a pavement, and a road.
+An image with four cars, a sky, a pavement, two trucks, a house, a road, a tree, and a grass.

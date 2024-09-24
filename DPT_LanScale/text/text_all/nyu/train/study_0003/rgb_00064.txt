@@ -8,3 +8,8 @@ A bookshelf with books.
 A cozy corner with a bookshelf, a window, and a comfortable chair.
 A large bookshelf filled with books, located in a corner of a room, with a window nearby.
 A dark room with a bookshelf filled with books, a window letting in light, and a chair with a pillow.
+An image with twenty-one books, a couch, a window, a rug, and two walls.
+An image with twenty-one books, two walls, a window, a couch, and a rug.
+An image with twenty-one books, a rug, two walls, a window, and a couch.
+An image with twenty-one books, a rug, a couch, two walls, and a window.
+An image with two walls, twenty-one books, a couch, a rug, and a window.

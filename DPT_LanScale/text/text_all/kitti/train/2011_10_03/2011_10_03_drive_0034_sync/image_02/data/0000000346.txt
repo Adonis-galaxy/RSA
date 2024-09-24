@@ -8,3 +8,8 @@ The image shows a street scene with a car and a person visible.
 A car on a street, with a person in the passenger seat, passing by a house and a line of trees, under a bright sky.
 A car is driving down a tree-lined street with houses on the left side, and there are two cars parked on the right side.
 A narrow, tree-lined street with parked cars and a person in the foreground, leading to a residential area with houses and a fence.
+An image with a person, a wall, four cars, a sky, a pavement, a road, a tree, a house, and a dirt.
+An image with four cars, a sky, a tree, a wall, a road, a dirt, a pavement, a house, and a person.
+An image with a road, four cars, a person, a wall, a tree, a dirt, a sky, a pavement, and a house.
+An image with four cars, a house, a dirt, a road, a person, a wall, a sky, a pavement, and a tree.
+An image with a tree, four cars, a dirt, a road, a pavement, a house, a person, a sky, and a wall.

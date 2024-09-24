@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet suburban street, lined with trees and parked vehicles, leads to a cul-de-sac with a bench and a small garden.
 A narrow, tree-lined street with a white van parked on the side, a bench on the grassy hill, and a small building with a white roof.
 A quiet suburban street with a parked van, a bench, and a tree on the sidewalk, leading to a house with a sloped roof and a garage.
+An image with a roof, a sky, a grass, a bus, a road, a bench, a tree, a pavement, and a wall.
+An image with a sky, a roof, a grass, a wall, a tree, a bench, a bus, a pavement, and a road.
+An image with a wall, a bus, a tree, a bench, a roof, a road, a sky, a pavement, and a grass.
+An image with a pavement, a roof, a bus, a sky, a grass, a wall, a road, a bench, and a tree.
+An image with a bench, a road, a wall, a pavement, a bus, a roof, a sky, a tree, and a grass.

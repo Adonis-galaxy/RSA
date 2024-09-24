@@ -8,3 +8,8 @@ The image shows a parking lot with various vehicles parked.
 The image captures a scene of a residential street with parked cars, a truck, and a trailer, all situated in front of apartment buildings, with a clear sky overhead.
 The image shows a street scene with several cars parked along the side of the road, a white van parked in front of a building, and a white truck parked in front of a building.
 A row of parked cars and a truck in front of a building with a white facade and a wooden balcony.
+An image with six cars, a building, a window, a tree, a road, a sky, a truck, and a fence.
+An image with six cars, a sky, a fence, a window, a building, a tree, a truck, and a road.
+An image with a building, a sky, six cars, a truck, a fence, a window, a tree, and a road.
+An image with a road, a truck, six cars, a sky, a window, a fence, a tree, and a building.
+An image with a truck, six cars, a fence, a road, a tree, a building, a sky, and a window.

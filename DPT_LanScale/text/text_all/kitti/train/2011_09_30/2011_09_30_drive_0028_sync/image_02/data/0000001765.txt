@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A quiet, tree-lined street in a residential area, with a clear path leading to a white house.
 A narrow, tree-lined street between two-story buildings, with a few parked bicycles and a car on the right side.
 A narrow, tree-lined street in a residential area, with houses on both sides, leads to a crossroads.
+An image with a house, a tree, a pavement, two cars, a bicycle, a person, a bus, a road, and a sky.
+An image with a person, a bicycle, a road, two cars, a pavement, a house, a sky, a bus, and a tree.
+An image with a tree, a road, a person, a sky, two cars, a bicycle, a bus, a pavement, and a house.
+An image with a tree, a house, a person, a pavement, two cars, a bus, a sky, a road, and a bicycle.
+An image with a tree, a house, a road, two cars, a person, a bus, a bicycle, a sky, and a pavement.

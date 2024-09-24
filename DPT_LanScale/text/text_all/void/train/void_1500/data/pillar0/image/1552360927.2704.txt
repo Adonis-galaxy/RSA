@@ -8,3 +8,8 @@ A black bag with red trim on the floor.
 A black bag with red trim is sitting on the floor next to a blue bucket and a white cylinder.
 A black duffel bag with red trim is sitting on a blue carpet next to a white cylinder and a blue bucket.
 A black duffel bag with red trim is sitting on a blue carpet next to a white cylindrical object and a blue bucket.
+An image with a handbag, a door, a rug, and a wall.
+An image with a door, a wall, a handbag, and a rug.
+An image with a rug, a handbag, a wall, and a door.
+An image with a handbag, a rug, a door, and a wall.
+An image with a door, a wall, a rug, and a handbag.

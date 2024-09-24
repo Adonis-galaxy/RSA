@@ -8,3 +8,8 @@ A computer desk with a computer monitor, keyboard, and mouse.
 The image shows a cluttered office space with various items on a desk, including a blue box, a white sign, and a computer monitor.
 The image shows a cluttered office space with a desk, a computer monitor, a printer, and various other items.
 The image shows a cluttered office space with various items on a desk, including a blue box, a white sign, and a computer monitor.
+An image with a paper, a cardboard, a chair, a tv, a window, a table, and a wall.
+An image with a paper, a cardboard, a table, a window, a wall, a chair, and a tv.
+An image with a tv, a paper, a chair, a cardboard, a table, a window, and a wall.
+An image with a tv, a wall, a window, a paper, a table, a cardboard, and a chair.
+An image with a chair, a table, a cardboard, a wall, a paper, a window, and a tv.

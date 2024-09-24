@@ -8,3 +8,8 @@ The image shows an empty room with a door, a table, chairs, and a fire alarm.
 The image captures an empty classroom with a door, a table, chairs, and a whiteboard, all in a state of disarray.
 The image shows an empty room with a large table and several chairs, a door with a red fire alarm, and a whiteboard with blue text.
 The image shows an empty room with a long table, several chairs, and a door with a red fire alarm on the wall.
+An image with a ceiling, a dining, eight chairs, a wall, a door, a window, and a floor.
+An image with eight chairs, a window, a wall, a floor, a dining, a door, and a ceiling.
+An image with eight chairs, a wall, a window, a door, a ceiling, a floor, and a dining.
+An image with eight chairs, a dining, a wall, a ceiling, a window, a door, and a floor.
+An image with a window, eight chairs, a ceiling, a door, a dining, a wall, and a floor.

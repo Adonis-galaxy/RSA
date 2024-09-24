@@ -8,3 +8,8 @@ A messy room with a pile of clothes on a window sill.
 A cluttered room with a messy window sill.
 A small, cluttered room with a large window, a white curtain, a teddy bear, a stack of books, a laptop, a small fan, and a pile of clothes.
 A cluttered room with a messy window sill, containing a teddy bear, a stack of books, a laptop, a speaker, and a white radiator.
+An image with a teddy, a curtain, a wall, and a cardboard.
+An image with a cardboard, a teddy, a curtain, and a wall.
+An image with a curtain, a cardboard, a wall, and a teddy.
+An image with a teddy, a wall, a curtain, and a cardboard.
+An image with a cardboard, a wall, a teddy, and a curtain.

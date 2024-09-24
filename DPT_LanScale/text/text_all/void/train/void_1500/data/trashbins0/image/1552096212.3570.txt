@@ -8,3 +8,8 @@ A chair in a room.
 The image shows a chair in a room with a number 4 on the wall and two light switches.
 The image shows a small room with a chair, a white wall, and a number 4 on the wall.
 The image shows a room with a chair, a number four on the wall, and a blue object in the corner.
+An image with a chair, a wall, and a refrigerator.
+An image with a wall, a chair, and a refrigerator.
+An image with a refrigerator, a chair, and a wall.
+An image with a wall, a chair, and a refrigerator.
+An image with a wall, a refrigerator, and a chair.

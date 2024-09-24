@@ -8,3 +8,8 @@ The image shows a living room with a black chair, a wooden floor, a table with a
 The image captures a cozy living room with a warm ambiance, featuring a comfortable chair, a wooden floor, a framed artwork on a shelf, and a lamp providing soft lighting.
 The image shows a dimly lit living room with a large flat-screen TV, a small black chair, a wooden floor, a framed artwork on a shelf, a door with a wreath, and a lamp.
 The image shows a living room with a dark-colored sofa, a wooden floor, a black entertainment center, a framed artwork on a shelf, a door with a wreath, and a lamp.
+An image with two bottles, a door, a floor, a tv, a light, a table, a chair, and a wall.
+An image with two bottles, a floor, a light, a wall, a door, a table, a chair, and a tv.
+An image with a door, a floor, two bottles, a chair, a table, a tv, a light, and a wall.
+An image with a floor, a door, a table, a tv, two bottles, a light, a chair, and a wall.
+An image with a wall, a floor, a light, a tv, a chair, two bottles, a door, and a table.

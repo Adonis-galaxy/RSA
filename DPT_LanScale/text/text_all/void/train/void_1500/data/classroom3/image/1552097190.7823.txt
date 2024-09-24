@@ -8,3 +8,8 @@ The image shows a black chair with a white stripe on the seat.
 The image shows a room with a desk and two chairs, one of which is in the foreground and the other in the background.
 The image shows a blurry view of a room with two black chairs on a brown carpet.
 The image shows a room with a desk and two chairs, one of which is partially visible.
+An image with a floor, a table, a wall, two chairs, and a rug.
+An image with a table, a floor, two chairs, a rug, and a wall.
+An image with a table, two chairs, a floor, a rug, and a wall.
+An image with a rug, a floor, a table, a wall, and two chairs.
+An image with a floor, a rug, two chairs, a wall, and a table.

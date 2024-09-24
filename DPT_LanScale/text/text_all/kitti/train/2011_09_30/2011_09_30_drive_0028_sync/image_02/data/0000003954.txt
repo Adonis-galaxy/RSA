@@ -8,3 +8,8 @@ The image shows a street scene with cars and trash cans.
 A quiet residential street, with parked cars and a few pedestrians, under a bright sunny sky.
 A narrow street with parked cars, a sidewalk, and trees.
 A tree-lined street with parked cars and a sidewalk, leading to a building with a balcony.
+An image with a sky, two people, a pavement, a bus, a house, a road, a tree, four cars, and a grass.
+An image with four cars, a bus, a tree, a pavement, two people, a sky, a grass, a house, and a road.
+An image with four cars, a tree, a pavement, a grass, two people, a road, a sky, a house, and a bus.
+An image with a sky, a tree, a grass, four cars, two people, a bus, a road, a pavement, and a house.
+An image with four cars, a grass, a bus, a sky, two people, a pavement, a road, a tree, and a house.

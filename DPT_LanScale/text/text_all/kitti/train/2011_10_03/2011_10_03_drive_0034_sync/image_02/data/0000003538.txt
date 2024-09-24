@@ -8,3 +8,8 @@ The image shows a street with two cars parked on the side.
 A black SUV is parked on the side of a tree-lined street, with a red car parked behind it, and a white building with a chimney in the background.
 A black SUV is parked on the side of a narrow street, with a red car parked behind it and a white building in the background.
 A narrow street lined with trees and parked cars, leading to a residential area.
+An image with a pavement, two walls, a road, two cars, a sky, a grass, and a tree.
+An image with a tree, two walls, two cars, a grass, a road, a sky, and a pavement.
+An image with two cars, a sky, a road, a grass, a pavement, two walls, and a tree.
+An image with two cars, a road, a tree, two walls, a grass, a sky, and a pavement.
+An image with two cars, two walls, a grass, a sky, a road, a tree, and a pavement.

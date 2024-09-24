@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a white car parked on the side, a tree providing shade, and a sidewalk leading to a house with a garage.
 The image shows a residential street with a white car parked on the side, a tree, a sidewalk, a curb, a fence, and a house in the background.
 The image depicts a quiet residential street with a curved road, lined with trees and houses, and a car parked at the end of the street.
+An image with a car, a stairs, a sky, a wall, a road, a tree, a pavement, and a house.
+An image with a sky, a pavement, a house, a road, a car, a tree, a stairs, and a wall.
+An image with a wall, a sky, a house, a tree, a pavement, a stairs, a car, and a road.
+An image with a house, a road, a pavement, a sky, a tree, a car, a wall, and a stairs.
+An image with a stairs, a tree, a pavement, a road, a wall, a car, a house, and a sky.

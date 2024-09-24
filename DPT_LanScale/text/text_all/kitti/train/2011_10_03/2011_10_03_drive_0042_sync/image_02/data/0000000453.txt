@@ -8,3 +8,8 @@ A car on a highway.
 The image captures a moment of solitude on a long, straight road, with a car in motion, heading towards a distant cityscape.
 A car is driving on a highway with a bridge in the background, and there are buildings in the distance.
 A car is driving on a highway with a bridge in the background, surrounded by a rural landscape.
+An image with a road, a tree, three cars, a fence, a building, and a grass.
+An image with a fence, a tree, a grass, three cars, a road, and a building.
+An image with a fence, three cars, a tree, a building, a road, and a grass.
+An image with a building, three cars, a tree, a road, a grass, and a fence.
+An image with three cars, a road, a building, a fence, a grass, and a tree.

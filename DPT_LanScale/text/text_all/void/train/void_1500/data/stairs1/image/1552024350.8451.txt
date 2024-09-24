@@ -8,3 +8,8 @@ The image shows a staircase with a white railing.
 The image shows a staircase with a white railing leading up to a blue wall.
 The image shows a narrow stairway with a white railing and a blue wall, leading to a door at the top.
 The image shows a narrow stairway with a white railing leading up to a blue wall.
+An image with a floor, a door, a stairs, and a wall.
+An image with a floor, a wall, a door, and a stairs.
+An image with a wall, a door, a floor, and a stairs.
+An image with a floor, a wall, a stairs, and a door.
+An image with a door, a floor, a stairs, and a wall.

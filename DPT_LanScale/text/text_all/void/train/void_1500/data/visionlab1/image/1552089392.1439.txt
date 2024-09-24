@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it, and a red chair in the foregrou
 The image shows a whiteboard with writing on it, a red chair in the foreground, and a wooden cabinet in the background.
 The image shows a whiteboard with writing on it, a red chair in the foreground, and a wooden cabinet in the background.
 The image shows a whiteboard with writing on it, placed in a room with a carpeted floor and a wooden cabinet in the background.
+An image with a floor, a cabinet, a wall, and a chair.
+An image with a chair, a wall, a cabinet, and a floor.
+An image with a wall, a cabinet, a floor, and a chair.
+An image with a chair, a wall, a cabinet, and a floor.
+An image with a floor, a cabinet, a chair, and a wall.

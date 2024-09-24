@@ -8,3 +8,8 @@ A room with two beds and a chair.
 The image shows a room with two beds, one with a blue and yellow plaid bedspread and the other with a blue and yellow plaid bedspread, a chair, and a window with blinds.
 The image shows a small room with two beds, a chair, and a window with blinds.
 The image shows a small room with two beds, a chair, and a window with blinds.
+An image with a floor, a window, two beds, a chair, and a wall.
+An image with two beds, a chair, a wall, a window, and a floor.
+An image with a wall, two beds, a chair, a window, and a floor.
+An image with two beds, a window, a chair, a floor, and a wall.
+An image with two beds, a window, a floor, a chair, and a wall.

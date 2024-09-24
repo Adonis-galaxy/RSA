@@ -8,3 +8,8 @@ A row of cars parked on the side of a road.
 A row of parked cars on a tree-lined street.
 A row of cars parked on a narrow street between two rows of trees.
 A row of parked cars on a tree-lined street.
+An image with six cars, a grass, a road, a bus, and a tree.
+An image with a road, six cars, a tree, a grass, and a bus.
+An image with six cars, a grass, a road, a bus, and a tree.
+An image with a road, six cars, a bus, a tree, and a grass.
+An image with six cars, a grass, a road, a bus, and a tree.

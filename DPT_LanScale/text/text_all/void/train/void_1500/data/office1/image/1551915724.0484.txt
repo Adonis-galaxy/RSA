@@ -8,3 +8,8 @@ A black chair in front of a table.
 A small room with a desk, chair, and a window.
 The image shows a small room with a desk, a chair, a window, and a trash can.
 The image shows a small room with a desk, chair, and a window.
+An image with a cabinet, a wall, a table, a dining, a chair, a rug, a book, a window, and a cell.
+An image with a dining, a wall, a cell, a rug, a chair, a table, a book, a window, and a cabinet.
+An image with a cell, a dining, a book, a rug, a cabinet, a chair, a window, a table, and a wall.
+An image with a wall, a rug, a dining, a window, a cabinet, a table, a cell, a book, and a chair.
+An image with a book, a rug, a table, a dining, a window, a wall, a cell, a chair, and a cabinet.

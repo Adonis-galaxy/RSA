@@ -8,3 +8,8 @@ A narrow, tree-lined street.
 A narrow, shaded street between buildings, with a paved sidewalk and a brick wall, leading to a grassy area and a building with a white door.
 The image shows a narrow, tree-lined street with a brick wall on the left side, a white building on the right, and a paved sidewalk.
 A narrow, tree-lined street with a brick wall and a gate at the end, leading to a grassy area and a building.
+An image with a tree, a pavement, a wall, a building, a road, and a grass.
+An image with a building, a wall, a pavement, a grass, a road, and a tree.
+An image with a building, a grass, a road, a pavement, a tree, and a wall.
+An image with a grass, a wall, a road, a tree, a pavement, and a building.
+An image with a tree, a road, a grass, a building, a pavement, and a wall.

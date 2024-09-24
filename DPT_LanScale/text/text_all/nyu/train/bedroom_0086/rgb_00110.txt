@@ -8,3 +8,8 @@ A vacuum cleaner on the floor.
 A vacuum cleaner is on the floor in a room with a dresser, a chair, and a window.
 A large vacuum cleaner is on the floor in a room with a large wooden dresser and a window.
 The image shows a room with a vacuum cleaner on the floor, a dresser, a chair, a window, and a doorway leading to another room.
+An image with a cabinet, a window, a tv, a curtain, a wall, a couch, and a rug.
+An image with a curtain, a tv, a cabinet, a wall, a couch, a window, and a rug.
+An image with a window, a wall, a curtain, a tv, a cabinet, a couch, and a rug.
+An image with a tv, a couch, a wall, a window, a rug, a curtain, and a cabinet.
+An image with a cabinet, a couch, a tv, a curtain, a window, a wall, and a rug.

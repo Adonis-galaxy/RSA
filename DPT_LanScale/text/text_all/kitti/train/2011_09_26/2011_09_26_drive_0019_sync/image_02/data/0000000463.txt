@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white car driving down the road.
 The image captures a street scene with a white car parked on the side, a black car parked in front of it, and a white car with a red logo driving down the road.
 A white car with red lettering is parked on the side of a road, surrounded by other cars and trees.
 A white car with red lettering is parked on the side of a tree-lined street, with other cars parked behind it, and a sidewalk in front.
+An image with a bus, six cars, a grass, a sky, a road, and a tree.
+An image with six cars, a grass, a bus, a sky, a tree, and a road.
+An image with a bus, six cars, a tree, a sky, a road, and a grass.
+An image with six cars, a tree, a sky, a grass, a bus, and a road.
+An image with six cars, a grass, a tree, a bus, a sky, and a road.

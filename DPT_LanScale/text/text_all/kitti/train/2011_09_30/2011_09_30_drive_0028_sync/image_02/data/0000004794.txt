@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and tall buildings.
 A narrow, tree-lined street between two-story buildings, with parked cars and a pedestrian path.
 The image shows a narrow street lined with parked cars and tall buildings, with a large tree in the middle of the street.
 A narrow, tree-lined street between two-story buildings, with parked cars and a pedestrian path.
+An image with a tree, a road, three cars, a building, and a sky.
+An image with a building, three cars, a road, a tree, and a sky.
+An image with a tree, a road, a building, three cars, and a sky.
+An image with a road, three cars, a tree, a sky, and a building.
+An image with a sky, three cars, a road, a tree, and a building.

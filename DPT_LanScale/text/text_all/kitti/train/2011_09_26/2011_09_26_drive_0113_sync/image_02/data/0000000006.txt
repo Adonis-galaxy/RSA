@@ -8,3 +8,8 @@ A blue car is driving down a tree-lined street.
 A blue car is parked on a street, with a person riding a bicycle nearby, and a person walking on a sidewalk in front of a yellow building with a balcony.
 A blue car is driving down a narrow street between two buildings, with a person riding a bicycle in the background.
 A blue car is parked on a narrow street, with a person riding a bicycle nearby, and a yellow building with a balcony in the background.
+An image with three cars, a bicycle, a tree, a road, a handbag, a person, a stairs, a grass, a house, and a pavement.
+An image with a person, three cars, a road, a stairs, a tree, a bicycle, a house, a grass, a pavement, and a handbag.
+An image with a pavement, three cars, a house, a stairs, a road, a bicycle, a grass, a tree, a person, and a handbag.
+An image with a bicycle, a tree, a pavement, a grass, three cars, a handbag, a stairs, a road, a person, and a house.
+An image with a bicycle, three cars, a pavement, a stairs, a person, a road, a grass, a house, a tree, and a handbag.

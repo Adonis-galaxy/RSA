@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a moment of everyday life on a suburban street, with cars in motion, a pedestrian, and traffic lights, all set against a backdrop of trees and a clear sky.
 The image shows a wide, tree-lined road with multiple lanes, a few cars, and a pedestrian crossing. The road is mostly empty, with only a few cars visible, and there are no pedestrians in sight. The trees are lush and green, and the sky is overcast.
 The image captures a bustling highway scene with multiple lanes, a mix of vehicles, and traffic lights, all set against a backdrop of lush greenery.
+An image with nine cars, a tree, a truck, three traffics, a road, a sky, a grass, and a pavement.
+An image with three traffics, nine cars, a tree, a truck, a sky, a road, a grass, and a pavement.
+An image with a pavement, nine cars, a road, three traffics, a truck, a grass, a tree, and a sky.
+An image with a truck, nine cars, a grass, a sky, a pavement, three traffics, a road, and a tree.
+An image with a tree, nine cars, three traffics, a sky, a grass, a pavement, a road, and a truck.

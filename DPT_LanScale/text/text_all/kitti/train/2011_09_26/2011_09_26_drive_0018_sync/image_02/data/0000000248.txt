@@ -8,3 +8,8 @@ The image shows a street intersection with multiple traffic lights and railroad 
 The image captures a tranquil suburban street scene, with a clear sky overhead and a well-maintained road lined with trees and traffic lights, leading to a crossroads where a bus is parked, waiting for passengers.
 The image shows a wide, empty road with multiple traffic lights and signs, including a large red and white railroad crossing sign, a smaller red and white railroad crossing sign, and a bus in the distance.
 The image depicts a wide, tree-lined road with multiple lanes, a crosswalk, and traffic lights, leading to a train crossing with a red and white railroad crossing sign.
+An image with five traffics, a road, a sky, a building, a grass, a tree, a railroad, a bus, and a pavement.
+An image with a grass, a tree, five traffics, a sky, a railroad, a pavement, a bus, a road, and a building.
+An image with five traffics, a road, a tree, a pavement, a grass, a railroad, a bus, a building, and a sky.
+An image with a pavement, a bus, five traffics, a railroad, a road, a tree, a grass, a building, and a sky.
+An image with a grass, a road, a building, five traffics, a sky, a pavement, a railroad, a bus, and a tree.

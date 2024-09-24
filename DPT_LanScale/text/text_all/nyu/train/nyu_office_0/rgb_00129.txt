@@ -8,3 +8,8 @@ A dark hallway with a green door.
 The image captures a narrow hallway with a staircase leading upwards, illuminated by a single light source at the top, creating a sense of depth and perspective.
 The image shows a narrow hallway with a doorway leading to a room with green glass windows, and a stairwell with a railing on the right side.
 The image shows a narrow hallway with a staircase leading upwards, flanked by walls on both sides, and a green door at the end.
+An image with a ceiling, a wall, a window, and a floor.
+An image with a ceiling, a wall, a floor, and a window.
+An image with a wall, a ceiling, a floor, and a window.
+An image with a ceiling, a floor, a wall, and a window.
+An image with a wall, a ceiling, a floor, and a window.

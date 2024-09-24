@@ -8,3 +8,8 @@ The image shows a street with a few cars and a truck, surrounded by trees and a 
 The image captures a serene suburban street scene, with a line of parked cars under the shade of tall trees, leading the viewer's eye down the road towards a distant horizon.
 The image shows a tree-lined road with a few cars, a truck, and a construction barrier.
 A tree-lined road with a concrete barrier, a white car, and a truck driving down it.
+An image with a pavement, a sky, a grass, a road, a wall, three cars, and a tree.
+An image with a road, three cars, a grass, a tree, a sky, a wall, and a pavement.
+An image with a sky, a road, a tree, a grass, a wall, three cars, and a pavement.
+An image with three cars, a sky, a road, a tree, a grass, a pavement, and a wall.
+An image with a road, a wall, three cars, a sky, a pavement, a grass, and a tree.

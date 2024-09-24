@@ -8,3 +8,8 @@ The image shows a brown chair, a blue trash can, and a white radiator.
 The image shows a brown chair, a blue trash can, and a white radiator in a room.
 The image shows a brown chair, a blue trash can, and a white radiator in a room.
 The image shows a brown chair, a blue trash can, and a white radiator in a room.
+An image with a floor, two cups, a wall, and a chair.
+An image with two cups, a floor, a wall, and a chair.
+An image with a wall, two cups, a chair, and a floor.
+An image with a chair, a floor, two cups, and a wall.
+An image with two cups, a wall, a floor, and a chair.

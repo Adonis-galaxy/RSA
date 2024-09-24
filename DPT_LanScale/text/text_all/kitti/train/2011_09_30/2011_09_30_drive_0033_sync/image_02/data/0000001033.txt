@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street, with parked cars and a few moving vehicles, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a large black SUV parked on the right side.
 A narrow street in a residential area with parked cars and a few moving vehicles, lined with trees and buildings.
+An image with four cars, a flower, a house, a grass, a tree, a sky, and a road.
+An image with four cars, a grass, a house, a road, a sky, a tree, and a flower.
+An image with a grass, a house, four cars, a tree, a sky, a road, and a flower.
+An image with a flower, a tree, four cars, a grass, a sky, a road, and a house.
+An image with a house, four cars, a flower, a sky, a grass, a tree, and a road.

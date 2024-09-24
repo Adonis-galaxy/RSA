@@ -8,3 +8,8 @@ A counter with a blue basket of napkins and a white basket of napkins.
 A counter with a blue basket of napkins, a yellow basket of napkins, and a cup of straws.
 A counter with a blue basket of napkins, a yellow basket of napkins, a white basket of napkins, a blue basket of straws, and a white basket of straws.
 The image shows a counter with a blue basket containing white napkins, a yellow basket containing white napkins, and a white basket containing white napkins, all sitting on a bright orange counter.
+An image with two spoons, a wall, a cup, a paper, and a table.
+An image with a cup, two spoons, a wall, a table, and a paper.
+An image with a wall, two spoons, a paper, a table, and a cup.
+An image with a table, a paper, two spoons, a cup, and a wall.
+An image with a wall, a cup, two spoons, a paper, and a table.

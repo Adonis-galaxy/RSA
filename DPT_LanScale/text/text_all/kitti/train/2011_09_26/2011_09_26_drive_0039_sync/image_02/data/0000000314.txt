@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A woman in a red dress stands on a sidewalk next to a black car, with a blue sky overhead and white buildings lining the street.
 A woman in a red dress stands next to a black car on a narrow street lined with white buildings and green hedges.
 A woman in a red dress stands on the sidewalk next to a black car, with a white house and other cars parked along the street.
+An image with a road, three people, a wall, a airplane, four cars, a house, a tree, and a pavement.
+An image with four cars, a road, three people, a house, a airplane, a tree, a pavement, and a wall.
+An image with a wall, four cars, a pavement, three people, a house, a airplane, a road, and a tree.
+An image with a wall, a airplane, four cars, a tree, three people, a road, a house, and a pavement.
+An image with a airplane, a wall, four cars, a tree, three people, a pavement, a house, and a road.

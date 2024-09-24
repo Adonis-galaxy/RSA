@@ -8,3 +8,8 @@ A room with a wall and a picture frame.
 The image captures a cozy, lived-in space with a focus on a framed artwork leaning against a wall, a comfortable chair, and a television set, all arranged in a way that suggests a personal and inviting atmosphere.
 The image shows a room with a large picture frame leaning against a wall, a small couch, a lamp, and a television.
 The image shows a room with a wall-mounted television, a framed picture leaning against the wall, a chair with a jacket on it, and a lamp.
+An image with a dining, a table, a tv, a wall, a chair, and a floor.
+An image with a floor, a wall, a table, a chair, a tv, and a dining.
+An image with a floor, a wall, a chair, a dining, a table, and a tv.
+An image with a chair, a wall, a table, a tv, a dining, and a floor.
+An image with a chair, a floor, a tv, a table, a wall, and a dining.

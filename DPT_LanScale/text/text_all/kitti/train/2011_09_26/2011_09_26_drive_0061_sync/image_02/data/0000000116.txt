@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street lined with parked cars, flanked by buildings and trees, creating a sense of a residential area with limited space.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a few trees providing shade.
 A narrow street lined with parked cars and buildings, with a mix of residential and commercial architecture.
+An image with twelve cars, a wall, a road, a sky, a pavement, a house, a roof, and a tree.
+An image with twelve cars, a sky, a roof, a pavement, a wall, a house, a road, and a tree.
+An image with twelve cars, a sky, a wall, a roof, a house, a tree, a road, and a pavement.
+An image with twelve cars, a tree, a wall, a road, a house, a roof, a pavement, and a sky.
+An image with a wall, twelve cars, a pavement, a roof, a road, a tree, a sky, and a house.

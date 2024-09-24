@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a brick wall on th
 A narrow alleyway between two buildings, bordered by a low brick wall and lined with lush greenery.
 The image shows a narrow alleyway between two buildings, with a small white garage on the left and a larger white building on the right. The alley is lined with green hedges and a brick wall, and there is a street lamp visible in the distance.
 A narrow alleyway between two buildings, bordered by a low brick wall and lined with lush greenery.
+An image with a house, a pavement, a sky, a tree, a roof, and a wall.
+An image with a roof, a wall, a pavement, a house, a sky, and a tree.
+An image with a house, a tree, a pavement, a roof, a sky, and a wall.
+An image with a house, a wall, a sky, a tree, a pavement, and a roof.
+An image with a tree, a wall, a house, a sky, a pavement, and a roof.

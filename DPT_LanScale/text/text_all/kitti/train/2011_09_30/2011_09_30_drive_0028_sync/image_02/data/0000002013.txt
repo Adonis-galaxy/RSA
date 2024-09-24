@@ -8,3 +8,8 @@ The image shows a street view of a residential area with parked cars.
 The image captures a quiet residential street, with parked cars lining the sides of the road, leading to a cul-de-sac at the end, where a few more cars are parked. The street is lined with neatly trimmed hedges and trees, and the buildings have a uniform design, suggesting a well-maintained neighborhood.
 The image shows a narrow street lined with parked cars and buildings, with a clear blue sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with seven cars, a road, a house, a pavement, a sky, a grass, and a tree.
+An image with seven cars, a sky, a pavement, a house, a road, a tree, and a grass.
+An image with a sky, seven cars, a house, a pavement, a tree, a grass, and a road.
+An image with seven cars, a sky, a grass, a house, a road, a tree, and a pavement.
+An image with seven cars, a tree, a grass, a sky, a house, a road, and a pavement.

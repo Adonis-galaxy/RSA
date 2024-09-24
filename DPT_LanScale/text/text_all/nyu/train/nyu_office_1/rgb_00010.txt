@@ -8,3 +8,8 @@ A blue bicycle leaning against a glass door.
 A blue bicycle parked against a glass door, leaning against a black metal rack.
 A blue bicycle is parked inside a large room with a glass door, next to a black metal rack.
 A blue bicycle is parked against a glass door, leaning against a black metal rack, with a brick wall and a whiteboard in the background.
+An image with a rug, a bicycle, a wall, a door, and a floor.
+An image with a floor, a wall, a door, a rug, and a bicycle.
+An image with a door, a bicycle, a floor, a rug, and a wall.
+An image with a wall, a floor, a rug, a bicycle, and a door.
+An image with a door, a floor, a wall, a bicycle, and a rug.

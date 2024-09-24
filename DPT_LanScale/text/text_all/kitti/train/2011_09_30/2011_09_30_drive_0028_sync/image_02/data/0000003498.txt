@@ -8,3 +8,8 @@ A narrow street with parked cars.
 A narrow street between white walls and lush greenery, with two vans parked on the sides, one in the foreground and the other in the background, under a clear blue sky.
 A narrow street with parked cars and a van driving down it.
 A narrow street with parked cars and a white wall on one side, lined with trees and buildings.
+An image with two cars, two trucks, a road, a wall, a tree, a house, a pavement, and a sky.
+An image with a pavement, a road, a house, a wall, two trucks, two cars, a sky, and a tree.
+An image with two trucks, a pavement, a road, a house, two cars, a sky, a tree, and a wall.
+An image with two cars, a house, a tree, a sky, two trucks, a wall, a road, and a pavement.
+An image with two trucks, a sky, a wall, a house, a pavement, a tree, two cars, and a road.

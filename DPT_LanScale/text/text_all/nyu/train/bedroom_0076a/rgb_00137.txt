@@ -8,3 +8,8 @@ A bedroom with a bed and a chair.
 The image shows a small, neatly arranged bedroom with a bed, a chair, and a nightstand. The bed has a blue and yellow plaid comforter, and there is a window with blinds to the left. The chair is positioned in front of the bed, and the nightstand is to the right of the bed. The room has a warm and cozy atmosphere.
 A small bedroom with a single bed, a chair, and a nightstand.
 The image shows a small, neatly arranged bedroom with a bed, a chair, and a nightstand.
+An image with a window, a shelf, a chair, a wall, a floor, and a bed.
+An image with a window, a wall, a chair, a bed, a floor, and a shelf.
+An image with a bed, a wall, a window, a chair, a floor, and a shelf.
+An image with a bed, a window, a chair, a shelf, a floor, and a wall.
+An image with a bed, a shelf, a floor, a chair, a wall, and a window.

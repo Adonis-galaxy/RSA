@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with lush greenery and quaint houses, under a clear blue sky.
 The image shows a residential street with houses, trees, and a sidewalk, with a car parked on the side of the road.
 The image depicts a residential street with houses, trees, and a sidewalk, viewed from a street corner.
+An image with a pavement, two cars, a wall, a house, a sky, a tree, a road, and a door.
+An image with a house, a door, a pavement, two cars, a wall, a sky, a tree, and a road.
+An image with a house, a wall, a door, a sky, two cars, a tree, a pavement, and a road.
+An image with a tree, two cars, a door, a wall, a pavement, a road, a house, and a sky.
+An image with a pavement, two cars, a road, a wall, a house, a tree, a door, and a sky.

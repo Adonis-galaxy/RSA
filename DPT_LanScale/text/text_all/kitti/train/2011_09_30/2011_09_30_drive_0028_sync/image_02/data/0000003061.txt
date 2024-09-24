@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and houses.
 A narrow, tree-lined street in a residential area, with parked cars and a person walking on the sidewalk.
 A narrow street lined with parked cars and lush greenery, with a person walking on the sidewalk.
 A narrow, tree-lined street with parked cars and a pedestrian walking down the middle.
+An image with a road, five cars, a tree, a sky, a house, two people, a pavement, a wall, and a grass.
+An image with a tree, five cars, a wall, a house, two people, a sky, a grass, a pavement, and a road.
+An image with a grass, five cars, a sky, a tree, a pavement, two people, a house, a wall, and a road.
+An image with a tree, a wall, a road, a grass, five cars, two people, a house, a sky, and a pavement.
+An image with two people, a road, a house, five cars, a pavement, a wall, a sky, a tree, and a grass.

@@ -8,3 +8,8 @@ The image shows a room with a large glass door and a television monitor.
 The image captures a room with a large glass door, leading to a hallway with a series of doors, each with a sign on it, and a television monitor in the foreground.
 The image shows a large room with a door that has a glass panel, through which a smaller room can be seen. The door is open, revealing a white wall and a small television screen.
 The image shows a room with a large glass door that leads to a hallway with a row of doors, a television monitor on a table, and a clock on the wall.
+An image with a wall, a tv, a light, a table, a clock, a floor, a window, a ceiling, and a paper.
+An image with a ceiling, a window, a tv, a clock, a table, a paper, a light, a wall, and a floor.
+An image with a tv, a clock, a paper, a window, a floor, a light, a table, a ceiling, and a wall.
+An image with a table, a clock, a window, a ceiling, a wall, a tv, a floor, a paper, and a light.
+An image with a wall, a light, a clock, a floor, a tv, a table, a paper, a window, and a ceiling.

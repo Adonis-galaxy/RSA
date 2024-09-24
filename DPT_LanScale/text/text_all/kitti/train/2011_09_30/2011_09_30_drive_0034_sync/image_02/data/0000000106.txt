@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac, where a solitary figure stands, perhaps contemplating the peacefulness of the neighborhood.
 The image depicts a narrow, tree-lined street between two-story houses, with a sign indicating a no-through road and a lamp post on the right side.
 A narrow, tree-lined street leads to a row of houses, with a sign indicating a one-way street and a lamp post at the end.
+An image with a house, a fence, a potted, a tree, a roof, and a pavement.
+An image with a roof, a fence, a tree, a potted, a house, and a pavement.
+An image with a fence, a tree, a potted, a pavement, a house, and a roof.
+An image with a roof, a house, a pavement, a tree, a potted, and a fence.
+An image with a fence, a house, a roof, a tree, a pavement, and a potted.

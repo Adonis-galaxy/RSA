@@ -8,3 +8,8 @@ The image shows a busy city street with people walking on a sidewalk.
 The image captures a bustling city street, with pedestrians walking along a sidewalk adjacent to a tram track, creating a lively urban atmosphere.
 A long, narrow street lined with shops and pedestrians, with a train track running down the middle.
 A bustling city street with a long, narrow alleyway flanked by shops and pedestrians.
+An image with twelve people, two handbags, a sky, a building, a railroad, a bicycle, a tree, and a pavement.
+An image with a building, a bicycle, twelve people, two handbags, a sky, a railroad, a pavement, and a tree.
+An image with twelve people, a pavement, a bicycle, a sky, a tree, a building, two handbags, and a railroad.
+An image with twelve people, a sky, a tree, two handbags, a railroad, a pavement, a bicycle, and a building.
+An image with a railroad, twelve people, two handbags, a sky, a pavement, a bicycle, a building, and a tree.

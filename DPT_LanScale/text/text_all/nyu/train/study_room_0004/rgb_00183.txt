@@ -8,3 +8,8 @@ The image shows an empty classroom with a long whiteboard, several tables, and c
 The image captures an empty classroom with rows of desks and chairs, a long whiteboard, and a doorway leading to another room.
 The image shows an empty classroom with a long whiteboard, several tables with chairs, and a row of windows.
 The image shows an empty classroom with a long whiteboard, multiple tables with chairs, and a row of windows.
+An image with four dinings, a window, a ceiling, a light, a floor, a cabinet, twelve chairs, a door, and a wall.
+An image with twelve chairs, four dinings, a light, a door, a floor, a cabinet, a ceiling, a wall, and a window.
+An image with twelve chairs, a cabinet, a floor, four dinings, a window, a door, a light, a wall, and a ceiling.
+An image with twelve chairs, four dinings, a floor, a ceiling, a door, a light, a wall, a cabinet, and a window.
+An image with four dinings, a light, a window, twelve chairs, a door, a wall, a floor, a ceiling, and a cabinet.

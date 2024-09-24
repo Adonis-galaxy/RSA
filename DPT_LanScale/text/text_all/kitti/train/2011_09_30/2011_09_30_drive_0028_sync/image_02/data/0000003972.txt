@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A parked car on a tree-lined street, with a sign indicating a nearby school, and a bus stop in the background.
 A small car is parked on the side of a road, next to a sidewalk, under a blue sky.
 A tree-lined street with a parked car, a bus stop, and a pedestrian walkway.
+An image with a building, a tree, a dirt, a pavement, three cars, a sky, a grass, and a road.
+An image with a tree, a sky, a pavement, three cars, a road, a building, a dirt, and a grass.
+An image with a sky, three cars, a dirt, a building, a grass, a pavement, a road, and a tree.
+An image with a pavement, a building, three cars, a dirt, a tree, a sky, a grass, and a road.
+An image with a building, a dirt, a tree, a sky, three cars, a pavement, a grass, and a road.

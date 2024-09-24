@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic lights.
 The image captures a bustling city street, with a mix of vehicles and traffic lights, set against a backdrop of open fields and a clear sky.
 The image shows a wide, empty road with a few cars and trucks, a traffic light, and a railroad crossing.
 The image depicts a busy road with multiple lanes, traffic lights, and vehicles, set against a backdrop of greenery and a clear sky.
+An image with six cars, a grass, three traffics, a tree, a truck, a pavement, a road, and a sky.
+An image with three traffics, a sky, six cars, a grass, a pavement, a truck, a road, and a tree.
+An image with a grass, six cars, three traffics, a sky, a road, a tree, a pavement, and a truck.
+An image with three traffics, a truck, a tree, six cars, a grass, a pavement, a road, and a sky.
+An image with six cars, three traffics, a road, a pavement, a sky, a grass, a tree, and a truck.

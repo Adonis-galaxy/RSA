@@ -8,3 +8,8 @@ A white table with four chairs in a room.
 A white table with four chairs in a room with a yellow wall.
 A white table with four chairs on wheels, set against a yellow wall.
 The image shows a white table with four chairs, placed on a gray floor, in front of a yellow wall.
+An image with three chairs, two dinings, a wall, a floor, and a tv.
+An image with a wall, three chairs, a floor, a tv, and two dinings.
+An image with a wall, two dinings, a floor, three chairs, and a tv.
+An image with two dinings, three chairs, a floor, a wall, and a tv.
+An image with three chairs, a wall, a tv, two dinings, and a floor.

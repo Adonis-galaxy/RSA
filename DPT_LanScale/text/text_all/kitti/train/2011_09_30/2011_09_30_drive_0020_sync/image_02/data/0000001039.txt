@@ -8,3 +8,8 @@ A white truck driving down a street.
 A white delivery truck is parked on the side of a street, with a green and red sign on its back, and a tree with yellow leaves in the foreground.
 A large white truck is driving down a tree-lined street, passing by a row of parked cars and a building with a green and red sign.
 A white truck with a green and red advertisement on its side is parked on the side of a street, with a building and trees in the background.
+An image with five cars, a truck, a tree, a sky, a road, a building, a grass, and a house.
+An image with five cars, a tree, a grass, a sky, a truck, a building, a house, and a road.
+An image with a house, five cars, a sky, a building, a road, a grass, a truck, and a tree.
+An image with a road, a house, a grass, a tree, five cars, a truck, a building, and a sky.
+An image with five cars, a building, a tree, a road, a grass, a house, a sky, and a truck.

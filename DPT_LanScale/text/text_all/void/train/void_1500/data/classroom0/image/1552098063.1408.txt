@@ -8,3 +8,8 @@ A projector on a cart.
 A classroom with a projector on a cart in front of rows of chairs.
 The image shows a small room with a large projector on a cart, and several empty chairs.
 The image shows a classroom with rows of chairs and a podium in the front, with a projector on a cart in the corner.
+An image with six chairs, a floor, a wall, and a oven.
+An image with six chairs, a oven, a wall, and a floor.
+An image with a wall, six chairs, a oven, and a floor.
+An image with a wall, six chairs, a oven, and a floor.
+An image with six chairs, a floor, a oven, and a wall.

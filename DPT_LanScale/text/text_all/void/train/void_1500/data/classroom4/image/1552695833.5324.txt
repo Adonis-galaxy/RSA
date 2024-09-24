@@ -8,3 +8,8 @@ A black chair with the word "seasnet" on it.
 A black office chair with the word "seasnet" written on it, positioned in front of a computer desk.
 A black chair with the word "seasnet" written on it, placed in front of a desk with a computer and keyboard.
 A black office chair with the word "seasnet" written on it, positioned in front of a desk with a computer monitor and keyboard.
+An image with a mouse, a chair, a paper, a keyboard, a rug, a table, a wall, and a tv.
+An image with a tv, a rug, a table, a chair, a paper, a keyboard, a mouse, and a wall.
+An image with a mouse, a rug, a table, a keyboard, a wall, a paper, a chair, and a tv.
+An image with a rug, a mouse, a tv, a wall, a chair, a keyboard, a paper, and a table.
+An image with a chair, a paper, a tv, a mouse, a table, a keyboard, a rug, and a wall.

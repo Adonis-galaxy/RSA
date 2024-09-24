@@ -8,3 +8,8 @@ The image shows a street with a truck parked on the side.
 A quiet suburban street, lined with houses and trees, with a single truck parked on the side.
 A large truck is driving down a quiet street lined with houses and trees.
 A quiet residential street with a few parked vehicles and a clear sky.
+An image with a sky, two trucks, a tree, a road, a grass, and a house.
+An image with a sky, a road, two trucks, a tree, a house, and a grass.
+An image with a road, two trucks, a sky, a tree, a house, and a grass.
+An image with a tree, a sky, a house, a grass, a road, and two trucks.
+An image with a house, two trucks, a tree, a sky, a grass, and a road.

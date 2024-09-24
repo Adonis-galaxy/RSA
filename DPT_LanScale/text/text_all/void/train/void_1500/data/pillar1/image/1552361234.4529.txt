@@ -8,3 +8,8 @@ A black and white checkered tile on the floor.
 A roll of paper and a checkerboard tile leaning against a white column in a room.
 The image shows a white cylindrical object leaning against a wall, with a black and white checkered object and a roll of paper nearby.
 The image shows a white cylindrical object leaning against a wall, with a black and white checkered object and a roll of paper nearby.
+An image with a window, a paper, a book, a wall, and a floor.
+An image with a window, a floor, a wall, a book, and a paper.
+An image with a book, a window, a paper, a floor, and a wall.
+An image with a floor, a window, a paper, a book, and a wall.
+An image with a floor, a book, a wall, a paper, and a window.

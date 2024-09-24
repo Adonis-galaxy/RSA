@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a car parked on th
 A narrow, tree-lined street between white buildings, with a yellow car parked at the end, and a black gate at the beginning.
 The image shows a narrow alleyway between two white buildings, with a fence on the left side and a car parked on the right side.
 A narrow, tree-lined street leads to a row of white houses with black garages, separated by a green fence.
+An image with a tree, a sky, a car, a house, a pavement, a fence, and a wall.
+An image with a fence, a pavement, a wall, a house, a sky, a car, and a tree.
+An image with a tree, a car, a fence, a wall, a sky, a house, and a pavement.
+An image with a wall, a fence, a car, a sky, a tree, a pavement, and a house.
+An image with a fence, a car, a house, a sky, a wall, a pavement, and a tree.

@@ -8,3 +8,8 @@ A black computer tower on a white desk.
 A computer setup on a desk with a monitor, keyboard, and mouse.
 A black computer tower on a white desk, with a black keyboard and monitor.
 A computer setup on a white desk with a blue chair.
+An image with two chairs, a curtain, a tv, a wall, a keyboard, a table, and a floor.
+An image with a table, two chairs, a curtain, a tv, a floor, a wall, and a keyboard.
+An image with a table, two chairs, a keyboard, a tv, a wall, a curtain, and a floor.
+An image with a curtain, a tv, a wall, a floor, two chairs, a keyboard, and a table.
+An image with a wall, a tv, two chairs, a table, a curtain, a keyboard, and a floor.

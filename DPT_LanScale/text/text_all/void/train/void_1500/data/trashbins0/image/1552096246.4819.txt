@@ -8,3 +8,8 @@ A brown chair is leaning against a wall.
 A brown chair is placed against a white wall, next to a blue trash can.
 A brown chair is leaning against a white wall next to a blue trash can.
 A brown chair is placed against a white wall, next to a blue trash can.
+An image with a door, a wall, a floor, a chair, and a bottle.
+An image with a wall, a door, a bottle, a floor, and a chair.
+An image with a floor, a wall, a bottle, a chair, and a door.
+An image with a chair, a door, a wall, a bottle, and a floor.
+An image with a chair, a floor, a wall, a bottle, and a door.

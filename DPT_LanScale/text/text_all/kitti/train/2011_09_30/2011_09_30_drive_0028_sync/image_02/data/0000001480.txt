@@ -8,3 +8,8 @@ A car parked on a tree-lined street.
 A car parked on a shaded street, surrounded by lush greenery and a clear blue sky.
 A small white car is parked on a shaded street, surrounded by lush greenery and large trees.
 A tree-lined road leads to a house with a white exterior, surrounded by a neatly trimmed hedge.
+An image with a road, a tree, a car, a house, a pavement, a grass, and a bicycle.
+An image with a tree, a car, a pavement, a house, a grass, a bicycle, and a road.
+An image with a car, a house, a tree, a road, a bicycle, a grass, and a pavement.
+An image with a car, a tree, a house, a bicycle, a grass, a road, and a pavement.
+An image with a tree, a pavement, a bicycle, a road, a grass, a house, and a car.

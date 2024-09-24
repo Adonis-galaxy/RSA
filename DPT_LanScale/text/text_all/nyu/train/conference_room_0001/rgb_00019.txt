@@ -8,3 +8,8 @@ A conference room with a whiteboard and a table.
 The image shows an empty conference room with a large table, four chairs, and a whiteboard.
 The image shows a large conference room with a long table, several chairs, and a whiteboard.
 The image shows an empty conference room with a large table surrounded by chairs, a whiteboard, and a presentation screen.
+An image with seven chairs, three potteds, a wall, a cardboard, a door, a dining, and a rug.
+An image with three potteds, a door, a dining, seven chairs, a wall, a rug, and a cardboard.
+An image with a dining, three potteds, seven chairs, a cardboard, a rug, a wall, and a door.
+An image with three potteds, a cardboard, seven chairs, a rug, a door, a wall, and a dining.
+An image with seven chairs, a dining, a cardboard, three potteds, a door, a wall, and a rug.

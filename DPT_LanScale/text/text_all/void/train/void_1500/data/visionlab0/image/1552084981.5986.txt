@@ -8,3 +8,8 @@ The image is blurry and shows a room with a table, chairs, and a whiteboard.
 The image shows a blurry office setting with a person standing in the background, a desk with a computer monitor, a printer, and various office supplies.
 The image shows a blurry office space with a desk, a whiteboard, and a person in the background.
 The image shows a blurry office space with a desk, computer monitors, and a person in the background.
+An image with a floor, a dining, two cups, a wall, a tv, a chair, and a person.
+An image with a person, two cups, a chair, a wall, a floor, a tv, and a dining.
+An image with a tv, a person, a chair, a floor, a dining, two cups, and a wall.
+An image with a person, a tv, a dining, a floor, a chair, two cups, and a wall.
+An image with a floor, two cups, a person, a wall, a chair, a dining, and a tv.

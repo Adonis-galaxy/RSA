@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars and a paved road, lined by lush greenery and a few buildings, under a clear blue sky.
 The image shows a residential street with parked cars, a paved sidewalk, and a 30 mph speed limit indicated by a white line on the road.
 The image depicts a residential street with parked cars, a curved road, and a 30 mph speed limit indicated by a white line.
+An image with a house, a tree, six cars, a pavement, a truck, a potted, a road, and a sky.
+An image with a road, six cars, a truck, a house, a pavement, a sky, a potted, and a tree.
+An image with six cars, a road, a house, a pavement, a truck, a potted, a tree, and a sky.
+An image with six cars, a potted, a pavement, a tree, a road, a sky, a truck, and a house.
+An image with six cars, a potted, a house, a sky, a tree, a truck, a road, and a pavement.

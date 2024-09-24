@@ -8,3 +8,8 @@ The image shows a laboratory setting with various pieces of equipment, including
 The image shows a laboratory setting with various pieces of equipment, including a large blue shelf, a white countertop, and a black computer monitor.
 The image shows a laboratory setting with a large blue metal shelf, a smaller white shelf, a metal desk with various equipment, and a black computer monitor.
 The image shows a laboratory setting with a white countertop, a blue metal shelf, a black computer monitor, a silver lamp, and various scientific equipment.
+An image with two windows, a wall, a cabinet, a light, a floor, a counter, a backpack, and a tv.
+An image with a cabinet, a floor, a tv, two windows, a counter, a backpack, a light, and a wall.
+An image with a floor, a wall, a counter, a light, two windows, a cabinet, a backpack, and a tv.
+An image with a floor, a counter, a tv, a wall, a cabinet, a backpack, two windows, and a light.
+An image with a floor, two windows, a light, a wall, a tv, a backpack, a cabinet, and a counter.

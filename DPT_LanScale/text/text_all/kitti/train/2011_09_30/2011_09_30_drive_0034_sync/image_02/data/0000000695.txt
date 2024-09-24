@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 The image captures a quiet residential street, with a clear view of a one-way sign, a traffic light, and a parked car, all set against the backdrop of a tree-lined road and a building.
 The image shows a narrow street with a curved road, lined with trees and buildings, and marked with white arrows and a red sign.
 The image depicts a quiet residential street with a clear view of a one-way sign, a traffic light, and a red brick wall.
+An image with a pavement, a house, a fence, a sky, a tree, a road, and a wall.
+An image with a house, a tree, a wall, a fence, a sky, a pavement, and a road.
+An image with a sky, a wall, a tree, a house, a road, a pavement, and a fence.
+An image with a wall, a sky, a road, a house, a fence, a pavement, and a tree.
+An image with a wall, a road, a sky, a tree, a fence, a house, and a pavement.

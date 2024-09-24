@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene suburban street scene, with parked cars, a van, and a motorhome lined up along the side of the road, under the shade of trees, leading to a building with a covered walkway.
 The image shows a narrow street lined with parked cars and trees, with a white building on the left side and a white van on the right side.
 The image depicts a tree-lined street with parked cars, a building, and a fence, all under a clear blue sky.
+An image with six cars, a wall, a pavement, a sky, a house, a grass, a road, a tree, a bus, and a fence.
+An image with six cars, a wall, a house, a tree, a pavement, a fence, a sky, a road, a grass, and a bus.
+An image with six cars, a wall, a grass, a road, a pavement, a tree, a bus, a fence, a sky, and a house.
+An image with a grass, six cars, a wall, a fence, a sky, a road, a bus, a pavement, a tree, and a house.
+An image with six cars, a sky, a grass, a fence, a road, a house, a tree, a pavement, a bus, and a wall.

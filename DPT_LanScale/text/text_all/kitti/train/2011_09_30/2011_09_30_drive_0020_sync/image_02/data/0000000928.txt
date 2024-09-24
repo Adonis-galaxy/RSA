@@ -8,3 +8,8 @@ The image shows a street scene with houses, trees, and a clear blue sky.
 The image captures a serene residential street, lined with houses, trees, and a clear blue sky, with a slight curve in the road leading to a cul-de-sac.
 The image shows a residential street with houses, trees, and a clear blue sky.
 The image depicts a residential street with a curved layout, featuring houses, trees, and a clear sky.
+An image with a tree, three trucks, a house, a stop, a pavement, a dirt, a road, and a grass.
+An image with a pavement, three trucks, a tree, a stop, a road, a house, a dirt, and a grass.
+An image with three trucks, a dirt, a tree, a road, a house, a stop, a grass, and a pavement.
+An image with a stop, a tree, a pavement, three trucks, a dirt, a grass, a house, and a road.
+An image with three trucks, a grass, a house, a tree, a stop, a road, a dirt, and a pavement.

@@ -8,3 +8,8 @@ The image shows a classroom setting with two black chairs and a small orange des
 The image shows a classroom setting with two chairs and a desk.
 The image shows a small orange desk with a black chair in a room with a white wall.
 The image shows a classroom setting with two black chairs and a small orange desk, all placed on a white floor.
+An image with four chairs, a wall, and a floor.
+An image with a floor, four chairs, and a wall.
+An image with a floor, a wall, and four chairs.
+An image with a wall, a floor, and four chairs.
+An image with four chairs, a floor, and a wall.

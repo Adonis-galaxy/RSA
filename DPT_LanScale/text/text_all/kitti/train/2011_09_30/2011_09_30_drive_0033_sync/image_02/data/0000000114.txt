@@ -8,3 +8,8 @@ A tree-lined road.
 A solitary road stretches through a lush, tree-lined forest, with a single pedestrian visible in the distance, under a bright, sunny sky.
 A long, winding road with a few trees on either side, leading to a clearing at the end.
 A tree-lined road curves gently to the right, with a sidewalk on the right side and a street lamp on the left side.
+An image with a road, a pavement, a tree, a fire, a grass, and a sky.
+An image with a pavement, a grass, a road, a sky, a tree, and a fire.
+An image with a fire, a road, a grass, a tree, a sky, and a pavement.
+An image with a pavement, a road, a sky, a grass, a tree, and a fire.
+An image with a tree, a fire, a grass, a pavement, a sky, and a road.

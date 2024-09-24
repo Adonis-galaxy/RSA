@@ -8,3 +8,8 @@ The image shows a carpeted floor with two chairs on it.
 The image shows two office chairs on a carpeted floor, with one chair in the foreground and the other in the background.
 The image shows two chairs with wheels on a carpeted floor.
 The image shows a carpeted floor with two chairs on it, one in the foreground and one in the background.
+An image with a airplane, a chair, and a floor.
+An image with a floor, a airplane, and a chair.
+An image with a chair, a airplane, and a floor.
+An image with a floor, a chair, and a airplane.
+An image with a chair, a floor, and a airplane.

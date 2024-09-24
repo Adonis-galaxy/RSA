@@ -8,3 +8,8 @@ The image shows a narrow street in a city.
 The image captures a quaint, narrow street in a European town, lined with shops and cafes, where people are enjoying a leisurely stroll on a sunny day.
 A narrow street with buildings on both sides, a bicycle rider, a pedestrian, a traffic light, a street sign, a potted plant, and a car.
 A narrow, cobblestone street with buildings on both sides, a traffic light, and a bicycle rider.
+An image with ten people, a traffic, two bicycles, a building, a flower, a railroad, a sky, a potted, a tree, and a pavement.
+An image with a traffic, a pavement, a sky, a potted, ten people, two bicycles, a flower, a building, a tree, and a railroad.
+An image with a pavement, two bicycles, ten people, a building, a flower, a potted, a railroad, a traffic, a tree, and a sky.
+An image with ten people, a flower, a traffic, two bicycles, a pavement, a tree, a sky, a railroad, a potted, and a building.
+An image with a flower, a building, two bicycles, ten people, a pavement, a railroad, a tree, a potted, a traffic, and a sky.

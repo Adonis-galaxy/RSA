@@ -8,3 +8,8 @@ A tree-lined street.
 A tree-lined street with a clear pathway, bordered by a fence and a building, leading to a parked car at the end.
 The image shows a narrow, tree-lined street with a sidewalk, a fence, and a sign.
 A narrow, tree-lined street with a sidewalk, bordered by a fence and a building, leading to a dead-end.
+An image with a road, a pavement, a window, a sky, two walls, a tree, a car, and a fence.
+An image with a tree, a fence, a pavement, two walls, a window, a car, a road, and a sky.
+An image with a road, a fence, a car, a tree, a window, a pavement, two walls, and a sky.
+An image with a tree, a window, two walls, a sky, a pavement, a car, a road, and a fence.
+An image with a road, two walls, a fence, a pavement, a window, a car, a sky, and a tree.

@@ -8,3 +8,8 @@ The image shows a city street with a white crosswalk.
 The image captures a bustling city intersection with a mix of vehicles, pedestrians, and urban architecture, highlighting the dynamic nature of urban life.
 A large white car is driving through a busy city intersection with tall buildings, a traffic light, and a bicycle lane.
 The image captures a bustling city intersection with a mix of vehicles, pedestrians, and urban architecture.
+An image with nine cars, two people, two traffics, a bus, a truck, a building, a pavement, a tree, a wall, and a road.
+An image with two people, nine cars, a tree, a road, two traffics, a building, a bus, a pavement, a wall, and a truck.
+An image with two traffics, a road, a building, a pavement, a bus, nine cars, a truck, two people, a tree, and a wall.
+An image with a building, nine cars, two traffics, a wall, a road, a bus, a tree, a pavement, a truck, and two people.
+An image with two traffics, a tree, nine cars, two people, a wall, a pavement, a bus, a road, a building, and a truck.

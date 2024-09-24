@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic lights.
 The image captures a typical day on a suburban street, with cars driving on the road, traffic lights controlling the flow, and trees lining the sides, all under a clear sky.
 The image shows a wide, tree-lined road with multiple lanes, a few cars, and traffic lights. The road is mostly empty, with only a few cars visible, and the traffic lights are small in comparison to the road and the surrounding trees.
 The image depicts a wide, tree-lined road with multiple lanes, a crosswalk, and traffic lights, leading to a highway intersection.
+An image with a grass, eight cars, six traffics, a sky, a tree, a road, and a pavement.
+An image with six traffics, eight cars, a road, a grass, a tree, a pavement, and a sky.
+An image with six traffics, a pavement, eight cars, a sky, a tree, a road, and a grass.
+An image with eight cars, six traffics, a pavement, a grass, a tree, a road, and a sky.
+An image with eight cars, a grass, six traffics, a sky, a pavement, a tree, and a road.

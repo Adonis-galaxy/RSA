@@ -8,3 +8,8 @@ The image shows a street view of a residential area with parked cars and buildin
 The image captures a quiet residential street, with parked cars lining the sidewalk and apartment buildings standing tall in the background.
 The image shows a residential street with parked cars, apartment buildings, and trees, with a large white building on the right side.
 The image shows a residential street with parked cars, apartment buildings, and a tree-lined sidewalk.
+An image with ten cars, a sky, a building, a truck, a grass, a road, and a tree.
+An image with a grass, ten cars, a building, a road, a tree, a sky, and a truck.
+An image with ten cars, a building, a tree, a truck, a sky, a road, and a grass.
+An image with ten cars, a road, a grass, a building, a tree, a truck, and a sky.
+An image with ten cars, a grass, a truck, a building, a sky, a road, and a tree.

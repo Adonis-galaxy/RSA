@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street scene with a focus on the interaction between vehicles, pedestrians, and urban infrastructure.
 A man is crossing a busy street at a crosswalk, with cars, buses, and trucks driving on the road, and tall buildings flanking the street.
 A busy city street with a mix of vehicles, pedestrians, and traffic signals, featuring a roundabout and a crosswalk.
+An image with ten cars, a bus, three people, a building, two stops, a road, a tree, a sky, a motorcycle, a bicycle, and a traffic.
+An image with ten cars, a tree, three people, a sky, two stops, a road, a motorcycle, a traffic, a bicycle, a building, and a bus.
+An image with ten cars, a motorcycle, three people, a sky, a bus, a tree, a bicycle, two stops, a building, a road, and a traffic.
+An image with a road, a bicycle, ten cars, a traffic, a sky, three people, a tree, a motorcycle, two stops, a building, and a bus.
+An image with a motorcycle, two stops, ten cars, a bicycle, a road, a bus, three people, a sky, a tree, a building, and a traffic.

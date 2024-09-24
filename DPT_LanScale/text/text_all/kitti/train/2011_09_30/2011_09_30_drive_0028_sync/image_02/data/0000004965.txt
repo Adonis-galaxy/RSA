@@ -8,3 +8,8 @@ The image shows a street with parked cars and buildings on both sides.
 The image captures a quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars, apartment buildings, and a few pedestrians, with a clear blue sky overhead.
 A narrow street lined with parked cars and buildings, with a red sign indicating no right turn.
+An image with eight cars, two people, a tree, a building, a stop, a grass, a road, and a pavement.
+An image with eight cars, a building, two people, a pavement, a grass, a stop, a tree, and a road.
+An image with eight cars, a pavement, two people, a grass, a road, a stop, a building, and a tree.
+An image with a road, eight cars, a grass, a building, a pavement, a stop, two people, and a tree.
+An image with two people, a road, eight cars, a pavement, a stop, a grass, a tree, and a building.

@@ -8,3 +8,8 @@ A blurry image of a desk with four chairs.
 The image shows a blurry office setting with a desk, chairs, and a carpeted floor.
 The image shows a blurry office setting with a desk, two chairs, and a carpeted floor.
 The image shows a blurry office setting with a desk, two chairs, and a carpeted floor.
+An image with a keyboard, a tv, three chairs, a table, a wall, a laptop, a window, and a rug.
+An image with a table, a keyboard, three chairs, a window, a laptop, a tv, a wall, and a rug.
+An image with three chairs, a keyboard, a rug, a window, a wall, a table, a laptop, and a tv.
+An image with three chairs, a table, a tv, a wall, a rug, a keyboard, a laptop, and a window.
+An image with a tv, a window, three chairs, a laptop, a rug, a wall, a table, and a keyboard.

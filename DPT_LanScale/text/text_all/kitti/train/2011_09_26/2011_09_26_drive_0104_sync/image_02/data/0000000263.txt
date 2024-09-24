@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and buildings.
 The image captures a bustling city street, filled with parked cars and lined with tall buildings, creating a sense of urban density and activity.
 The image depicts a narrow city street lined with parked cars, with a few vehicles in motion, and tall buildings on either side.
 A narrow city street with parked cars on both sides, lined with buildings and trees, leading to a commercial area.
+An image with sixteen cars, a building, a sky, a person, a pavement, a tree, and a road.
+An image with a building, a tree, a pavement, sixteen cars, a road, a sky, and a person.
+An image with sixteen cars, a pavement, a tree, a building, a person, a road, and a sky.
+An image with a tree, a person, sixteen cars, a pavement, a building, a sky, and a road.
+An image with sixteen cars, a building, a person, a road, a sky, a tree, and a pavement.

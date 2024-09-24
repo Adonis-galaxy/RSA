@@ -8,3 +8,8 @@ The image shows a pair of black chairs with white trim on a carpeted floor.
 The image shows two black chairs with white trim, positioned on a brown carpeted floor, in front of a white desk.
 The image shows two black chairs with white trim, placed on a brown carpeted floor, in front of a white desk.
 The image shows a black chair with the word "Seas" on it, placed on a carpeted floor next to a desk.
+An image with a rug, a mouse, a wall, a chair, two keyboards, and a table.
+An image with a wall, a rug, two keyboards, a table, a chair, and a mouse.
+An image with a table, a mouse, two keyboards, a wall, a chair, and a rug.
+An image with a table, a rug, two keyboards, a chair, a mouse, and a wall.
+An image with a wall, two keyboards, a table, a mouse, a chair, and a rug.

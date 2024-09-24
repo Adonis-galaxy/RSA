@@ -8,3 +8,8 @@ A row of empty lockers.
 A row of empty lockers with a single book resting on top of a counter.
 The image shows a row of beige lockers with a white and blue object on top of the counter.
 The image shows a row of beige lockers with white handles and a single white book on top of the lockers.
+An image with a wall, a cabinet, a shelf, a counter, a knife, and a floor.
+An image with a wall, a shelf, a counter, a floor, a cabinet, and a knife.
+An image with a counter, a floor, a cabinet, a knife, a shelf, and a wall.
+An image with a shelf, a counter, a floor, a wall, a knife, and a cabinet.
+An image with a knife, a wall, a shelf, a cabinet, a counter, and a floor.

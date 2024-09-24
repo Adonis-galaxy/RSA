@@ -8,3 +8,8 @@ A model of a cityscape.
 A model of a cityscape with a person walking by.
 The image shows a model of a cityscape with buildings, including a large white building, and a person walking in the background.
 The image shows a model of a cityscape with various buildings, including a large white building, and a person walking in the background.
+An image with a cabinet, a person, a ceiling, a floor, and a building.
+An image with a ceiling, a building, a floor, a person, and a cabinet.
+An image with a building, a ceiling, a person, a floor, and a cabinet.
+An image with a ceiling, a building, a floor, a person, and a cabinet.
+An image with a floor, a building, a cabinet, a ceiling, and a person.

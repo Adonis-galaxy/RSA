@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer desk with a monitor, keyboard, and mouse.
 A computer monitor is sitting on a wooden desk, with a keyboard and mouse in front of it.
 A computer desk with a monitor, keyboard, and mouse, positioned in front of a window with white blinds.
+An image with a tv, a chair, a paper, a curtain, a wall, a table, a keyboard, a mouse, and a rug.
+An image with a rug, a wall, a tv, a paper, a curtain, a keyboard, a chair, a table, and a mouse.
+An image with a tv, a table, a wall, a curtain, a mouse, a rug, a paper, a chair, and a keyboard.
+An image with a mouse, a rug, a wall, a curtain, a table, a paper, a tv, a chair, and a keyboard.
+An image with a tv, a table, a wall, a mouse, a keyboard, a rug, a curtain, a paper, and a chair.

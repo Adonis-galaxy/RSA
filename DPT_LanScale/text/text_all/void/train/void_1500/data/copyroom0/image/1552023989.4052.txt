@@ -8,3 +8,8 @@ A row of mailboxes on a counter.
 A row of empty mailboxes on a counter.
 A row of empty filing cabinets with a printer on top of a counter.
 The image shows a beige filing cabinet with multiple drawers, each containing a white folder, and a white printer on top of the cabinet.
+An image with a shelf, a cabinet, a floor, a wall, and a counter.
+An image with a floor, a cabinet, a counter, a wall, and a shelf.
+An image with a cabinet, a counter, a floor, a wall, and a shelf.
+An image with a floor, a wall, a cabinet, a counter, and a shelf.
+An image with a counter, a wall, a floor, a cabinet, and a shelf.

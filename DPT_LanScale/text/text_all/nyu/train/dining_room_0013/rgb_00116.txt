@@ -8,3 +8,8 @@ A pair of black and white sandals on a wooden floor.
 A pair of flip-flops lies on a wooden floor in a room with a dining table and chairs, a doorway leading to another room, and a framed picture on the wall.
 A pair of shoes is on the floor in a room with a dining table, chairs, and a doorway to another room.
 The image shows a room with a wooden floor, a dining table with chairs, a doorway leading to another room, and a picture hanging on the wall.
+An image with a cardboard, two chairs, a door, a wall, a bottle, and two floors.
+An image with a cardboard, two chairs, two floors, a wall, a door, and a bottle.
+An image with two chairs, a wall, two floors, a door, a bottle, and a cardboard.
+An image with two chairs, two floors, a door, a wall, a cardboard, and a bottle.
+An image with two floors, a bottle, two chairs, a wall, a door, and a cardboard.

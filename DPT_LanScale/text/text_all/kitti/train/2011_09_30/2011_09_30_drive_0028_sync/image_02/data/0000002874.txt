@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A quiet, tree-lined street with a clear path leading to a building in the distance.
 A person riding a bicycle on a sunny day, with a clear view of the road ahead, trees on both sides, and a white building in the background.
 A tree-lined street with a clear pathway, bordered by buildings and parked cars, leads to a parked bicycle and a pedestrian on the sidewalk.
+An image with a grass, six cars, a tree, a sky, a building, a person, a pavement, and a road.
+An image with six cars, a person, a road, a grass, a tree, a building, a pavement, and a sky.
+An image with six cars, a pavement, a sky, a person, a tree, a building, a grass, and a road.
+An image with a building, six cars, a person, a pavement, a grass, a tree, a sky, and a road.
+An image with a person, six cars, a sky, a grass, a pavement, a road, a tree, and a building.

@@ -8,3 +8,8 @@ The image shows a staircase with a blue wall in the background.
 The image shows a staircase with a blue wall in the background, leading to a white railing on the right side.
 The image shows a staircase with a blue wall in the background, and the stairs are white.
 The image shows a staircase with a blue wall in the background, leading to a white railing on the right side.
+An image with a floor, a fence, two walls, a tv, and a rug.
+An image with a floor, a rug, a fence, a tv, and two walls.
+An image with a floor, two walls, a fence, a tv, and a rug.
+An image with a rug, a floor, a fence, two walls, and a tv.
+An image with two walls, a floor, a fence, a rug, and a tv.

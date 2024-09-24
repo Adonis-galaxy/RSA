@@ -8,3 +8,8 @@ The image shows a black car driving down a street in a residential area.
 A black car is parked on a quiet residential street, with a clear sky overhead and trees lining the road.
 A black car is driving down a narrow street between two-story houses, with trees and bushes lining the road.
 A quiet residential street with a few parked cars, lined with houses and trees, under a clear blue sky.
+An image with four cars, a road, a sky, a house, a tree, a roof, and a grass.
+An image with a roof, a sky, four cars, a house, a road, a tree, and a grass.
+An image with four cars, a roof, a grass, a road, a tree, a house, and a sky.
+An image with four cars, a house, a roof, a sky, a tree, a grass, and a road.
+An image with four cars, a tree, a sky, a grass, a road, a house, and a roof.

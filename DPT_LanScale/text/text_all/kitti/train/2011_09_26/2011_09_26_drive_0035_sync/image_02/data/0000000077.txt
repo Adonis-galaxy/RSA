@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white van.
 The image captures a busy street scene with various vehicles parked along the side of the road, including cars, a truck, and a van, in front of a row of buildings, with a clear sky overhead.
 The image shows a street scene with a large white van parked in front of a building, several smaller cars parked along the street, and a few flags on poles.
 The image shows a street scene with parked cars, a white van, and a building with a sign that reads "Hoffmann." The layout includes a mix of vehicles and a commercial building.
+An image with five trucks, five cars, a sky, a house, a traffic, a tree, and a road.
+An image with a house, five trucks, a traffic, a tree, five cars, a sky, and a road.
+An image with a house, five cars, a traffic, a tree, a sky, five trucks, and a road.
+An image with five cars, a house, a road, a tree, five trucks, a sky, and a traffic.
+An image with five cars, five trucks, a road, a house, a tree, a traffic, and a sky.

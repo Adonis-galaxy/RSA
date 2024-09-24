@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and buildings.
 The image captures a quiet residential street scene with parked cars and houses, under a clear blue sky.
 A silver car is parked on the side of a street in front of a row of houses.
 The image shows a residential street with parked cars in front of houses, a sidewalk, and a building with a brown roof.
+An image with a tree, a house, four cars, a road, a pavement, a roof, and a sky.
+An image with a tree, a sky, four cars, a house, a road, a roof, and a pavement.
+An image with a road, four cars, a sky, a house, a pavement, a roof, and a tree.
+An image with a road, four cars, a roof, a sky, a tree, a house, and a pavement.
+An image with four cars, a house, a roof, a sky, a pavement, a tree, and a road.

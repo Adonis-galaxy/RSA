@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on one side and a hedge on the
 A narrow, tree-lined street with two cars parked on the side, one of which is a silver Citroën.
 A narrow street with a brick wall, a car, and a sign.
 A narrow, tree-lined street with a brick wall on one side and parked cars on the other.
+An image with a fence, two cars, a roof, a tree, a wall, a road, a sky, and a pavement.
+An image with a sky, a wall, a pavement, two cars, a fence, a road, a tree, and a roof.
+An image with a sky, two cars, a roof, a pavement, a tree, a wall, a fence, and a road.
+An image with a pavement, a roof, a tree, two cars, a sky, a road, a wall, and a fence.
+An image with two cars, a pavement, a roof, a sky, a wall, a road, a tree, and a fence.

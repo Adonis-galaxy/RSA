@@ -8,3 +8,8 @@ The image shows a highway with a white line down the middle.
 The image captures a serene, tree-lined highway with a few cars, a clear sky, and a sense of tranquility.
 The image shows a wide, empty highway with a few cars, a blue sky, and trees on both sides.
 The image shows a long, straight road with a clear view of the horizon, flanked by trees and a grassy median, with a few cars parked on the side.
+An image with five cars, a tree, a road, and a grass.
+An image with a road, five cars, a grass, and a tree.
+An image with a tree, five cars, a grass, and a road.
+An image with a tree, five cars, a road, and a grass.
+An image with a tree, five cars, a grass, and a road.

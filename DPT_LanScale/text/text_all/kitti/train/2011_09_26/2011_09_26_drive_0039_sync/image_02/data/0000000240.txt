@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a residential area.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few trees providing shade to the houses.
 The image shows a narrow street lined with parked cars and buildings, with a clear blue sky overhead.
 A narrow street lined with parked cars and buildings, leading to a dead end.
+An image with a road, six cars, a house, a pavement, a stairs, a airplane, a tree, a truck, a potted, and a fence.
+An image with six cars, a pavement, a stairs, a fence, a house, a airplane, a tree, a truck, a road, and a potted.
+An image with a truck, a potted, six cars, a road, a airplane, a pavement, a tree, a fence, a house, and a stairs.
+An image with six cars, a pavement, a potted, a road, a house, a truck, a tree, a fence, a airplane, and a stairs.
+An image with a potted, six cars, a truck, a pavement, a tree, a stairs, a airplane, a road, a house, and a fence.

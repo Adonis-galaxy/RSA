@@ -8,3 +8,8 @@ A blurry image of a lab bench with a blue bag and a blue chair.
 The image shows a workspace with a desk, a chair, and a blue bag.
 The image shows a small room with a desk, a chair, and a blue backpack.
 The image shows a workspace with a desk, a chair, and a blue bag on the floor.
+An image with a cabinet, a floor, a chair, a tv, a keyboard, a counter, and a wall.
+An image with a counter, a tv, a chair, a cabinet, a keyboard, a floor, and a wall.
+An image with a tv, a wall, a keyboard, a counter, a floor, a chair, and a cabinet.
+An image with a keyboard, a wall, a chair, a cabinet, a floor, a counter, and a tv.
+An image with a chair, a cabinet, a counter, a tv, a keyboard, a wall, and a floor.

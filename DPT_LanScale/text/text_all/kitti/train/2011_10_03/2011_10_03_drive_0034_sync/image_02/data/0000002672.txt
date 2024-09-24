@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a sidewalk.
 The image captures a serene residential street, lined with lush greenery and parked cars, under a clear blue sky.
 The image shows a narrow street lined with parked cars, trees, and a building with a garage door. The street is shaded by trees, and the sky is clear.
 A quiet residential street with parked cars, a paved driveway, and a white wall on the right side.
+An image with a tree, three cars, a wall, a sky, and a road.
+An image with a wall, three cars, a road, a tree, and a sky.
+An image with a tree, a wall, three cars, a sky, and a road.
+An image with a tree, a sky, three cars, a road, and a wall.
+An image with three cars, a sky, a wall, a road, and a tree.

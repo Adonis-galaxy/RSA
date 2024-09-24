@@ -8,3 +8,8 @@ A black backpack with a green logo on a couch.
 A black backpack with a green logo sits on a gray couch next to a newspaper and a sombrero.
 A black backpack with a green nvidia logo is sitting on a gray couch next to a newspaper and a sombrero.
 A black backpack with a green logo is placed on a gray couch, next to a newspaper and a sombrero.
+An image with a person, a wall, a floor, a couch, a book, a cabinet, and a backpack.
+An image with a wall, a cabinet, a book, a backpack, a person, a couch, and a floor.
+An image with a book, a floor, a wall, a cabinet, a person, a backpack, and a couch.
+An image with a cabinet, a book, a backpack, a person, a wall, a couch, and a floor.
+An image with a floor, a cabinet, a backpack, a wall, a book, a person, and a couch.

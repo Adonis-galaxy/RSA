@@ -8,3 +8,8 @@ A woman crossing the street in front of a bus.
 A person crossing the street in front of a bus at an intersection.
 A large bus is driving down a street with a woman crossing it.
 A city street scene with a bus, traffic lights, pedestrians, and a parked car.
+An image with four traffics, four cars, a house, a bus, a person, a grass, a backpack, a tree, and a road.
+An image with four cars, four traffics, a road, a bus, a tree, a backpack, a person, a house, and a grass.
+An image with four cars, a house, a bus, four traffics, a grass, a road, a person, a tree, and a backpack.
+An image with four cars, a bus, four traffics, a backpack, a road, a grass, a house, a person, and a tree.
+An image with four traffics, a grass, four cars, a person, a road, a tree, a bus, a house, and a backpack.

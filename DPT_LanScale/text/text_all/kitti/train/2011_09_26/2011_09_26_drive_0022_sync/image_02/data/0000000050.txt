@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building.
 A quiet residential street with parked cars and a white building.
 The image shows a residential street with parked cars, a truck, and a white building.
 A residential street with parked cars, a white building, and a mix of trees and shrubs.
+An image with seven cars, two trucks, a sky, a tree, a house, a pavement, a grass, a fence, and a road.
+An image with a sky, two trucks, seven cars, a house, a fence, a grass, a road, a pavement, and a tree.
+An image with seven cars, a road, two trucks, a fence, a tree, a sky, a pavement, a house, and a grass.
+An image with seven cars, a road, two trucks, a sky, a fence, a tree, a grass, a house, and a pavement.
+An image with seven cars, two trucks, a sky, a house, a road, a grass, a pavement, a fence, and a tree.

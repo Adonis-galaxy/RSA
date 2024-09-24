@@ -8,3 +8,8 @@ The image shows a blurry view of a kitchen with a blue countertop and a white wa
 The image shows a blurry view of a kitchen with a blue countertop and a white door.
 The image shows a blurry view of a kitchen with a blue countertop and a white cabinet, taken from a doorway.
 The image shows a blurry view of a kitchen with a blue countertop, a white wall, and a door leading to another room.
+An image with a wall, a cabinet, a light, and a door.
+An image with a light, a cabinet, a wall, and a door.
+An image with a cabinet, a light, a door, and a wall.
+An image with a door, a wall, a light, and a cabinet.
+An image with a cabinet, a door, a light, and a wall.

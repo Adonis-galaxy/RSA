@@ -8,3 +8,8 @@ A kitchen counter with various items on it.
 The image captures a kitchen scene with various appliances and items, including a microwave, toaster, coffee maker, and a bag of groceries, all arranged on a countertop.
 The image shows a kitchen counter with various items, including a microwave, a coffee maker, a toaster, a knife, a spoon, a bottle, a bowl, and a bag. The microwave is large, occupying a significant portion of the counter space.
 The image shows a kitchen counter with various items, including a toaster oven, a coffee maker, a microwave, a knife, a spoon, a bottle, a bowl, and a bag of food.
+An image with six bottles, a cabinet, two ovens, a counter, a wall, two bowls, a knife, and a paper.
+An image with six bottles, a cabinet, two bowls, a counter, a knife, a wall, a paper, and two ovens.
+An image with two ovens, a cabinet, a knife, six bottles, a paper, two bowls, a counter, and a wall.
+An image with two bowls, six bottles, a knife, two ovens, a counter, a cabinet, a wall, and a paper.
+An image with six bottles, a knife, a cabinet, a counter, a paper, two bowls, a wall, and two ovens.

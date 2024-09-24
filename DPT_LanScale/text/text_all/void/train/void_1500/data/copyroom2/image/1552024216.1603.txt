@@ -8,3 +8,8 @@ A white and black printer in a room with green walls.
 A white printer is sitting in a corner of a room with green walls.
 A large white printer is sitting in a corner of a room with green walls.
 The image shows a white printer with a black control panel, sitting on a green floor in a room with green walls.
+An image with a wall, a floor, a door, and a table.
+An image with a table, a wall, a door, and a floor.
+An image with a wall, a floor, a table, and a door.
+An image with a wall, a door, a table, and a floor.
+An image with a table, a door, a floor, and a wall.

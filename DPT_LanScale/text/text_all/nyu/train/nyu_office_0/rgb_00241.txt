@@ -8,3 +8,8 @@ A dark hallway with doors on the right side.
 The image captures a dimly lit hallway with closed doors, a single open door, and a glimpse of a room with a yellow door.
 The image shows a dark hallway with a door on the left side, a row of doors on the right side, and a lighted area at the end of the hallway.
 The image shows a long, narrow hallway with doors on both sides, illuminated by overhead lights.
+An image with a wall, a ceiling, a floor, and a door.
+An image with a ceiling, a wall, a door, and a floor.
+An image with a floor, a door, a wall, and a ceiling.
+An image with a floor, a ceiling, a door, and a wall.
+An image with a ceiling, a floor, a wall, and a door.

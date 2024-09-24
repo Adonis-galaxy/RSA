@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a serene, empty highway with a few cars, surrounded by lush greenery and a clear sky.
 The image shows a wide, empty highway with a few cars driving on it, surrounded by trees and a clear sky.
 The image depicts a wide, empty highway with a clear sky, lined with trees and a few cars in the distance, leading to a sign indicating a bicycle path on the right.
+An image with a tree, a grass, six cars, a road, a sky, and a fence.
+An image with six cars, a tree, a sky, a road, a grass, and a fence.
+An image with six cars, a tree, a grass, a road, a fence, and a sky.
+An image with six cars, a road, a sky, a fence, a tree, and a grass.
+An image with six cars, a grass, a sky, a tree, a fence, and a road.

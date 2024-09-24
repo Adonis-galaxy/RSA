@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A tranquil residential street, lined with trees and houses, with a red vehicle parked on the side.
 The image shows a narrow, tree-lined street with a red vehicle parked on the right side, a white house with a gray roof in the background, and a large tree in the foreground.
 A narrow, tree-lined street leads to a residential area with houses and a parked red vehicle.
+An image with a tree, four cars, a house, a pavement, a fence, a road, a grass, and a sky.
+An image with four cars, a tree, a road, a house, a pavement, a grass, a fence, and a sky.
+An image with four cars, a road, a pavement, a sky, a grass, a house, a tree, and a fence.
+An image with a grass, four cars, a fence, a house, a sky, a road, a tree, and a pavement.
+An image with four cars, a tree, a pavement, a sky, a house, a fence, a road, and a grass.

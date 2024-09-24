@@ -8,3 +8,8 @@ The image shows a street view of a residential area with houses and trees.
 The image captures a serene residential street, with a mix of traditional and modern architecture, lined with lush greenery and a clear blue sky overhead.
 The image shows a residential street with two-story houses, a car parked on the side of the road, and a clear sky.
 The image depicts a residential street with two-story houses, a paved road, and a sidewalk, with trees and bushes lining the street and a clear sky overhead.
+An image with a grass, five cars, a tree, a sky, a road, a pavement, and a house.
+An image with five cars, a road, a tree, a grass, a sky, a house, and a pavement.
+An image with a pavement, five cars, a grass, a road, a house, a tree, and a sky.
+An image with a sky, a grass, five cars, a tree, a house, a road, and a pavement.
+An image with a road, five cars, a house, a sky, a grass, a tree, and a pavement.

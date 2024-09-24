@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars.
 The image captures a serene residential street, lined with parked cars and trees, under a bright sunny sky.
 The image shows a narrow street lined with parked cars, with a large tree on the left side and apartment buildings on the right.
 A tree-lined street with parked cars and a bench, leading to apartment buildings.
+An image with twelve cars, a sky, a grass, a tree, a dirt, a pavement, a building, a wall, and a road.
+An image with a sky, twelve cars, a tree, a grass, a pavement, a road, a wall, a building, and a dirt.
+An image with twelve cars, a road, a grass, a tree, a pavement, a wall, a sky, a dirt, and a building.
+An image with a building, a dirt, twelve cars, a pavement, a sky, a tree, a grass, a wall, and a road.
+An image with a sky, twelve cars, a wall, a road, a dirt, a tree, a pavement, a grass, and a building.

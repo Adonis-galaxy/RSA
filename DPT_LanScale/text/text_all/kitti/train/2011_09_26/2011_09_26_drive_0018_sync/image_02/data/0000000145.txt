@@ -8,3 +8,8 @@ The image shows a busy street with multiple lanes of traffic, traffic lights, an
 The image captures a bustling city street with a clear sky, where vehicles are moving along the road, and traffic lights are controlling the flow of traffic.
 The image shows a wide, multi-lane road with traffic lights, street signs, and vehicles, all captured in a fisheye lens effect.
 The image depicts a wide, multi-lane road with traffic lights, lined by trees and buildings, under a clear blue sky.
+An image with a tree, three trucks, five cars, three traffics, a pavement, a road, and a sky.
+An image with five cars, three traffics, three trucks, a road, a sky, a pavement, and a tree.
+An image with three trucks, five cars, a tree, a road, a pavement, a sky, and three traffics.
+An image with three traffics, three trucks, a tree, a pavement, five cars, a sky, and a road.
+An image with three trucks, five cars, a pavement, a road, three traffics, a tree, and a sky.

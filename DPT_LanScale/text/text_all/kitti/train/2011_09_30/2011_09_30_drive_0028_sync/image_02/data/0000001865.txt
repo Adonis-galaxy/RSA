@@ -8,3 +8,8 @@ A silver car parked on a street.
 The image captures a quiet residential street, with a silver car parked on the side of the road, surrounded by lush greenery and houses, under a clear blue sky.
 A silver car is parked on the side of a tree-lined street, with a white house and a red roof in the background.
 A quiet residential street with a silver car parked on the side, lined with houses and trees, leading to a cul-de-sac.
+An image with five cars, a grass, a road, a wall, a house, a tree, a pavement, and a sky.
+An image with a pavement, a sky, a road, a wall, five cars, a grass, a tree, and a house.
+An image with a house, a grass, five cars, a sky, a tree, a pavement, a wall, and a road.
+An image with a sky, a road, a house, a tree, a grass, five cars, a wall, and a pavement.
+An image with a house, five cars, a sky, a pavement, a grass, a wall, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a street scene with cars parked along the side of the road.
 The image captures a typical day in a suburban neighborhood, with cars parked along the side of a street, a bus stop shelter, and a residential area with trees and a house in the background.
 A busy street scene with a white car, a black car, a white van, a bus stop, a train station, a bridge, a house, trees, and a sidewalk.
 A busy street scene with parked cars, a bus stop, and a pedestrian walkway.
+An image with six cars, a road, a tree, a grass, a building, a house, a bridge, and a sky.
+An image with six cars, a grass, a building, a house, a tree, a sky, a bridge, and a road.
+An image with six cars, a building, a sky, a bridge, a tree, a grass, a road, and a house.
+An image with a grass, a house, a road, six cars, a tree, a bridge, a building, and a sky.
+An image with a tree, a bridge, a building, six cars, a sky, a road, a house, and a grass.

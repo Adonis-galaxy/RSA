@@ -8,3 +8,8 @@ A white van parked on a street.
 The image captures a bustling city street scene, with a white van parked on the side of the road, a pedestrian walking on the sidewalk, a cyclist passing by, and a traffic light controlling the flow of urban life.
 A large white van is parked on a narrow street between two buildings, with a person walking on the sidewalk and a traffic light in the background.
 A white van is parked on a narrow street between buildings, with a pedestrian walking on the sidewalk and a traffic light visible in the background.
+An image with nine people, a stop, a pavement, a bicycle, a bench, a road, a truck, a railroad, two potteds, a handbag, a tree, a building, and a traffic.
+An image with a pavement, nine people, a handbag, a truck, a tree, two potteds, a stop, a railroad, a road, a bicycle, a traffic, a building, and a bench.
+An image with a bicycle, nine people, a road, a tree, a railroad, a handbag, a stop, two potteds, a building, a traffic, a bench, a truck, and a pavement.
+An image with a road, two potteds, a railroad, nine people, a bench, a stop, a tree, a traffic, a bicycle, a truck, a handbag, a building, and a pavement.
+An image with a truck, two potteds, nine people, a bicycle, a road, a railroad, a stop, a bench, a building, a tree, a handbag, a pavement, and a traffic.

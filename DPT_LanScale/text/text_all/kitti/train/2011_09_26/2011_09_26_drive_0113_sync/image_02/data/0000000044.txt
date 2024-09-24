@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a car parked on th
 A narrow alleyway between two buildings, bordered by lush greenery, leads to a parked car.
 A narrow alleyway between two buildings, with a parked car and lush greenery on either side.
 A narrow, tree-lined street leads to a parked car in front of a yellow building with a balcony.
+An image with a tree, a house, a rock, a pavement, a grass, a car, and a fence.
+An image with a house, a car, a pavement, a rock, a fence, a tree, and a grass.
+An image with a grass, a car, a rock, a house, a fence, a tree, and a pavement.
+An image with a fence, a tree, a car, a grass, a pavement, a rock, and a house.
+An image with a tree, a fence, a house, a pavement, a grass, a car, and a rock.

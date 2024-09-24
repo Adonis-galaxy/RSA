@@ -8,3 +8,8 @@ The image shows a street with parked cars and a building in the background.
 The image captures a typical urban street scene with parked cars, apartment buildings, and a sign indicating a no-entry zone.
 The image shows a narrow street lined with parked cars, a building on the left, a tree on the right, and a red and blue circular sign in the middle.
 A narrow street lined with parked cars and buildings, with a red and blue sign indicating no parking.
+An image with eight cars, a road, a traffic, a door, a stop, a wall, a grass, a pavement, a tree, and a building.
+An image with eight cars, a traffic, a wall, a grass, a road, a building, a door, a tree, a pavement, and a stop.
+An image with eight cars, a road, a traffic, a grass, a door, a pavement, a building, a tree, a wall, and a stop.
+An image with a pavement, eight cars, a road, a wall, a tree, a door, a building, a stop, a grass, and a traffic.
+An image with a grass, a traffic, eight cars, a road, a wall, a tree, a door, a building, a stop, and a pavement.

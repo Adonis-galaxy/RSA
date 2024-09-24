@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quaint, residential street scene with a mix of architectural styles, featuring a brick house with a red roof, a white house with a black roof, and a yellow house with a red roof, all lined with trees and parked cars, under a clear blue sky.
 The image shows a residential street with houses, a motorcycle parked on the sidewalk, a car parked on the street, a street sign, and a bird flying in the sky.
 The image depicts a residential street with a mix of houses, a parked motorcycle, a car, and a pedestrian crossing marked with a crosswalk.
+An image with a wall, a tree, a dirt, a roof, a sky, a pavement, a road, a fence, a window, a car, a motorcycle, and a grass.
+An image with a tree, a grass, a car, a sky, a wall, a road, a dirt, a roof, a window, a fence, a motorcycle, and a pavement.
+An image with a tree, a road, a grass, a car, a motorcycle, a wall, a pavement, a sky, a window, a dirt, a fence, and a roof.
+An image with a wall, a sky, a motorcycle, a tree, a road, a fence, a pavement, a dirt, a car, a grass, a roof, and a window.
+An image with a dirt, a motorcycle, a pavement, a car, a window, a fence, a tree, a roof, a wall, a sky, a grass, and a road.

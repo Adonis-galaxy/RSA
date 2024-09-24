@@ -8,3 +8,8 @@ A black chair with silver legs and a mouse on a desk.
 A black chair with a mouse on a desk in a room with a white wall.
 A black chair with silver legs and a mouse on a white desk.
 A black chair with silver legs is positioned next to a white desk with a mouse on it, both sitting on a carpeted floor with white baseboards.
+An image with a wall, a table, a chair, a rug, and a mouse.
+An image with a table, a chair, a mouse, a wall, and a rug.
+An image with a table, a rug, a chair, a mouse, and a wall.
+An image with a wall, a chair, a table, a rug, and a mouse.
+An image with a chair, a table, a rug, a wall, and a mouse.

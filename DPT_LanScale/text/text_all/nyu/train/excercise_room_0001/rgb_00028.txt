@@ -8,3 +8,8 @@ A black leather chair with a brown pillow.
 A black leather chair with a brown pillow, positioned in front of a mirror, next to a folding table with a chess set on it.
 A large black leather chair with a brown pillow is positioned in front of a wall with a mirror, and a folding table with a checkerboard game is nearby.
 The image shows a room with a black leather chair, a folding table with a chess set, a standing exercise machine, and a mirrored wall.
+An image with a wall, a ceiling, a table, a window, a couch, and a floor.
+An image with a floor, a ceiling, a window, a wall, a table, and a couch.
+An image with a couch, a ceiling, a window, a table, a floor, and a wall.
+An image with a couch, a wall, a window, a ceiling, a floor, and a table.
+An image with a floor, a couch, a ceiling, a window, a table, and a wall.

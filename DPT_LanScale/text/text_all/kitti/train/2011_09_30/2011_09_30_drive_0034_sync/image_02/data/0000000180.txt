@@ -8,3 +8,8 @@ A narrow alleyway between two walls of greenery.
 A narrow, sunlit pathway between two walls of lush greenery, with a glimpse of a building and a solitary figure in the distance.
 A narrow, sunlit alleyway between two walls of lush greenery, with a brick path and a wooden fence.
 A narrow, sunlit pathway between two walls of lush greenery, with a brick-paved walkway and a wooden fence.
+An image with a sky, two walls, a fence, a tree, and a pavement.
+An image with a fence, a pavement, two walls, a tree, and a sky.
+An image with a tree, two walls, a sky, a fence, and a pavement.
+An image with two walls, a fence, a sky, a tree, and a pavement.
+An image with two walls, a pavement, a fence, a tree, and a sky.

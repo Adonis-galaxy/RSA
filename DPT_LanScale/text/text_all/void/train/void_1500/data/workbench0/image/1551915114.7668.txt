@@ -8,3 +8,8 @@ A desk with a box of macaroni and cheese, a roll of tape, a camera bag, and a bl
 A desk with a box of macaroni, a roll of tape, a camera bag, and a black laptop.
 A box of Annie's Mac & Cheese, a roll of tape, a pair of scissors, and a black bag on a table.
 A desk with a box of cereal, a roll of tape, a camera bag, and a laptop.
+An image with a wall, two chairs, a floor, a table, a laptop, a door, a tv, a bowl, and a cardboard.
+An image with a door, a bowl, a table, two chairs, a tv, a wall, a floor, a laptop, and a cardboard.
+An image with a laptop, a bowl, a floor, a tv, a door, a table, a cardboard, two chairs, and a wall.
+An image with a laptop, a wall, a cardboard, a floor, a tv, two chairs, a bowl, a table, and a door.
+An image with two chairs, a cardboard, a table, a tv, a bowl, a floor, a wall, a door, and a laptop.

@@ -8,3 +8,8 @@ A colorful straw hat on a gray couch.
 A colorful straw hat is placed on the arm of a gray couch, next to a black backpack and a magazine.
 A colorful straw hat is placed on the arm of a gray couch, next to a black backpack and a magazine.
 A colorful straw hat is placed on the arm of a gray couch, with a black backpack and a magazine on the seat.
+An image with a couch, a rug, a floor, a wall, a book, a backpack, and a sports.
+An image with a floor, a sports, a backpack, a couch, a wall, a rug, and a book.
+An image with a couch, a book, a floor, a wall, a rug, a backpack, and a sports.
+An image with a couch, a backpack, a book, a sports, a rug, a wall, and a floor.
+An image with a floor, a book, a backpack, a sports, a wall, a rug, and a couch.

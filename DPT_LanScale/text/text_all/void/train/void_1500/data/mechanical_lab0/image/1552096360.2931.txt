@@ -8,3 +8,8 @@ A yellow piece of paper on a table.
 A yellow piece of paper on a white table with a blue chair.
 A blue table with a yellow paper on it, a black computer monitor, and a black wire.
 The image shows a white desk with a blue chair, a yellow paper on the desk, and various electronic devices and cords.
+An image with a floor, a table, a toothbrush, and a chair.
+An image with a table, a toothbrush, a chair, and a floor.
+An image with a toothbrush, a table, a floor, and a chair.
+An image with a chair, a toothbrush, a table, and a floor.
+An image with a toothbrush, a floor, a chair, and a table.

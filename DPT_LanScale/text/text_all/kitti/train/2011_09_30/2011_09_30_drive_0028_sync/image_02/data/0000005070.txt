@@ -8,3 +8,8 @@ The image shows a street scene with a car driving through an intersection.
 The image captures a moment of urban life, featuring a silver car navigating a roundabout at a quiet intersection, with a clear blue sky overhead and trees lining the streets.
 A small gray car is driving through an intersection with a red and white yield sign in the background.
 The image captures a bustling city intersection with a silver car at the center, surrounded by various vehicles, pedestrians, and street signs, all under a clear blue sky.
+An image with a road, ten cars, a person, a sky, a traffic, a pavement, a tree, and a truck.
+An image with a person, ten cars, a road, a tree, a traffic, a pavement, a sky, and a truck.
+An image with a road, a truck, a traffic, ten cars, a sky, a person, a tree, and a pavement.
+An image with ten cars, a sky, a road, a traffic, a person, a tree, a pavement, and a truck.
+An image with a tree, ten cars, a pavement, a sky, a truck, a person, a traffic, and a road.

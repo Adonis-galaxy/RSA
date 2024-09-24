@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, lined with parked cars and trees, leading to a church with a clock tower in the distance.
 The image shows a narrow street lined with parked cars, a few trees, and a large building with a clock tower in the background.
 A tree-lined street with parked cars, a church, and apartment buildings, leading to a grassy area.
+An image with a tree, a person, a grass, six cars, a house, a sky, a road, and a building.
+An image with six cars, a grass, a sky, a tree, a house, a building, a road, and a person.
+An image with a grass, a road, a house, six cars, a person, a tree, a sky, and a building.
+An image with six cars, a sky, a grass, a road, a house, a tree, a person, and a building.
+An image with a road, a house, a grass, six cars, a sky, a person, a tree, and a building.

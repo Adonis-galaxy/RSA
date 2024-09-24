@@ -8,3 +8,8 @@ The image is a photograph of a living room.
 The image captures a cluttered living room with a doorway leading to a bedroom, featuring a couch, a chair, a bookshelf, a bed, and various items scattered throughout the space.
 The image shows a small, cluttered living room with a white wall, a doorway, a couch, a chair, a table, a shelf, a bookshelf, a lamp, a bowl, a bottle, a vase, a cup, a bowl, a bottle, a vase, a cup, a bowl, a bottle, a vase, a cup, a bowl, a bottle, a vase, a
 The image shows a cluttered living room with a doorway leading to a bedroom, featuring a couch, a chair, a bookshelf, a bed, and various items scattered throughout.
+An image with a light, three chairs, four bottles, a ceiling, a bed, a cup, a wall, and a floor.
+An image with three chairs, a ceiling, four bottles, a bed, a wall, a light, a floor, and a cup.
+An image with a bed, a ceiling, four bottles, a cup, three chairs, a floor, a light, and a wall.
+An image with three chairs, a ceiling, four bottles, a light, a wall, a cup, a bed, and a floor.
+An image with four bottles, a wall, a light, a cup, three chairs, a floor, a bed, and a ceiling.

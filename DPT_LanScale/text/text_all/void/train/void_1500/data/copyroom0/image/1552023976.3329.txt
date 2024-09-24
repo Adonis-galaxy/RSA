@@ -8,3 +8,8 @@ The image shows a printer and a copier in an office setting.
 The image shows a room with a printer, a cabinet, and a computer monitor.
 The image shows a small office space with a white cabinet, a black printer, and a white printer.
 The image shows a room with a white cabinet, a black cabinet, a white printer, and a blue printer.
+An image with a wall, a scissors, a cabinet, a refrigerator, a table, and a paper.
+An image with a scissors, a refrigerator, a cabinet, a paper, a table, and a wall.
+An image with a paper, a refrigerator, a table, a wall, a cabinet, and a scissors.
+An image with a table, a refrigerator, a wall, a scissors, a cabinet, and a paper.
+An image with a wall, a refrigerator, a paper, a scissors, a table, and a cabinet.

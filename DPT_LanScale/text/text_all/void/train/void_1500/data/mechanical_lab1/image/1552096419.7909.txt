@@ -8,3 +8,8 @@ The image shows a blurry scene with a blue table, a white table, and a yellow si
 The image shows a blurry scene with a blue table, a white table, and a yellow sign on a gray machine.
 The image shows a blurry scene with a blue table, a white table, and a large orange object in the background.
 The image shows a blurry view of a workshop with various equipment and tools, including a blue machine, a white table, and an orange structure.
+An image with a floor, a table, a wall, two remotes, a chair, a tv, and a window.
+An image with a table, a window, a wall, two remotes, a floor, a tv, and a chair.
+An image with two remotes, a table, a chair, a tv, a window, a floor, and a wall.
+An image with a tv, a window, a chair, a wall, a floor, two remotes, and a table.
+An image with a chair, a tv, a window, two remotes, a table, a wall, and a floor.

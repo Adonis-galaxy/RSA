@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and houses.
 A narrow, tree-lined street in a residential area, with a parked car and a bicycle on the sidewalk.
 A narrow, tree-lined street with parked cars and a parked bicycle.
 A narrow, tree-lined street with parked cars and a single moving vehicle, leading to a residential area with brick buildings and a gate.
+An image with a grass, four cars, a sky, a road, a tree, a house, a fence, and a wall.
+An image with a grass, a house, four cars, a tree, a road, a wall, a fence, and a sky.
+An image with four cars, a fence, a tree, a wall, a sky, a road, a house, and a grass.
+An image with a house, a wall, a grass, a fence, four cars, a sky, a road, and a tree.
+An image with a fence, four cars, a grass, a house, a wall, a road, a sky, and a tree.

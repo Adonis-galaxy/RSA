@@ -8,3 +8,8 @@ The image shows a street scene with a row of parked cars, a sidewalk, and a buil
 A quiet residential street with parked vehicles and a few pedestrians, under a clear blue sky.
 A row of parked cars on the side of a road, with a large white building in the background and a few trees along the sidewalk.
 A narrow street lined with parked cars and buildings, with a few trucks and a person visible.
+An image with three cars, a building, a person, a sky, four trucks, a road, a pavement, a roof, a grass, and a tree.
+An image with a roof, a person, a tree, four trucks, three cars, a building, a grass, a road, a sky, and a pavement.
+An image with a pavement, a person, a roof, a tree, three cars, a sky, four trucks, a road, a grass, and a building.
+An image with a road, four trucks, a building, three cars, a tree, a grass, a pavement, a sky, a roof, and a person.
+An image with a road, a pavement, three cars, a roof, a sky, a building, four trucks, a tree, a person, and a grass.

@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 A quiet suburban street with parked cars and a person walking.
 A white car is driving down a tree-lined street, passing a parked car and a person walking on the sidewalk.
 A tree-lined street with parked cars and a person walking.
+An image with three people, a grass, a sky, a road, a pavement, two cars, and a tree.
+An image with a grass, a tree, three people, a pavement, a road, two cars, and a sky.
+An image with three people, a sky, two cars, a pavement, a road, a tree, and a grass.
+An image with a sky, two cars, a grass, three people, a tree, a pavement, and a road.
+An image with a tree, three people, two cars, a pavement, a sky, a road, and a grass.

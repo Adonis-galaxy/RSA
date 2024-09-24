@@ -8,3 +8,8 @@ A black couch in a room.
 A black couch in a room with a television mounted on the wall.
 A black couch with a flat screen television mounted on the wall above it.
 A black couch is positioned in front of a television mounted on a white wall.
+An image with a dining, a tv, a chair, a couch, and a wall.
+An image with a wall, a chair, a tv, a dining, and a couch.
+An image with a chair, a wall, a dining, a tv, and a couch.
+An image with a wall, a chair, a couch, a dining, and a tv.
+An image with a dining, a tv, a wall, a chair, and a couch.

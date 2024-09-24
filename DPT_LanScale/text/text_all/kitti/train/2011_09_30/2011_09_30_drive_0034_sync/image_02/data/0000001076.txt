@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a brick wall on one 
 The image captures a serene residential street, lined with houses, trees, and a parked car, all under a clear blue sky.
 The image shows a narrow, tree-lined street between two-story houses, with a large vehicle parked on the right side and a small car parked on the left side.
 A narrow, tree-lined street between two-story houses, with a brick wall on one side and a white fence on the other, leads to a dead-end.
+An image with a tree, two cars, a sky, a bus, a pavement, a stairs, a wall, a house, and a fence.
+An image with a fence, two cars, a wall, a pavement, a tree, a house, a stairs, a sky, and a bus.
+An image with a wall, a pavement, a fence, two cars, a stairs, a sky, a bus, a house, and a tree.
+An image with a pavement, a fence, a sky, a stairs, two cars, a tree, a house, a bus, and a wall.
+An image with a stairs, a pavement, a house, a fence, two cars, a wall, a bus, a tree, and a sky.

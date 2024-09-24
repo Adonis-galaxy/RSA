@@ -8,3 +8,8 @@ The image shows a blurry view of a room with a table and chairs.
 The image shows a room with two chairs and a table, with a blurred background.
 The image shows a small orange table with two black chairs in a room with a wooden door.
 The image shows a room with two black chairs and a small orange table, with a blurred background.
+An image with two walls, three chairs, a floor, a dining, and a table.
+An image with a table, three chairs, a floor, a dining, and two walls.
+An image with three chairs, a table, a dining, two walls, and a floor.
+An image with three chairs, a floor, two walls, a dining, and a table.
+An image with three chairs, two walls, a table, a floor, and a dining.

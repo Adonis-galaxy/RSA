@@ -8,3 +8,8 @@ The image shows a street scene with a crosswalk, parked cars, and a traffic ligh
 The image captures a quiet residential street with parked cars, a pedestrian, and a crosswalk, under a clear blue sky.
 The image shows a wide street with a crosswalk, lined with parked cars and trees, and a building with a yellow traffic light on the right side.
 The image captures a sunny day in a European town, featuring a tree-lined street with parked cars, a crosswalk, and a traffic light.
+An image with twelve cars, a traffic, two people, a grass, a pavement, a road, a stairs, a tree, and a building.
+An image with twelve cars, a traffic, two people, a road, a building, a grass, a stairs, a tree, and a pavement.
+An image with twelve cars, a grass, a pavement, a tree, a building, a road, two people, a stairs, and a traffic.
+An image with twelve cars, a road, a traffic, a tree, two people, a stairs, a grass, a pavement, and a building.
+An image with a building, a pavement, twelve cars, a traffic, a tree, two people, a stairs, a road, and a grass.

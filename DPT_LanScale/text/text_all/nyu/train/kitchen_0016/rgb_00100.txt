@@ -8,3 +8,8 @@ A kitchen scene with a refrigerator, coffee maker, knives, and a towel.
 The image captures a domestic kitchen scene, featuring a coffee maker, knife block, and refrigerator, with a focus on the relationship between the coffee maker and the knife block.
 The image shows a kitchen with a refrigerator, a coffee maker, a knife block, and a towel hanging on the refrigerator.
 The image shows a kitchen with a refrigerator, a coffee maker, a knife block, and various items hanging on the refrigerator.
+An image with sixteen knives, a handbag, a counter, two refrigerators, a towel, a cabinet, and a wall.
+An image with a handbag, sixteen knives, a cabinet, two refrigerators, a towel, a counter, and a wall.
+An image with sixteen knives, two refrigerators, a towel, a handbag, a wall, a counter, and a cabinet.
+An image with sixteen knives, a cabinet, two refrigerators, a wall, a handbag, a towel, and a counter.
+An image with sixteen knives, a wall, two refrigerators, a cabinet, a counter, a towel, and a handbag.

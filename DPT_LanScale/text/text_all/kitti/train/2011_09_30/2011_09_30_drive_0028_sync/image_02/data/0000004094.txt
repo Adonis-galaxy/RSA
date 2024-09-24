@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a person riding a bicycle, and 
 A quiet residential street, lined with parked cars and a bicyclist, under the shade of leafy trees.
 A man riding a bicycle on a tree-lined street with parked cars and trucks.
 A tree-lined street with parked cars, a bicyclist, and green trash cans.
+An image with a wall, three cars, a grass, a tree, two people, a road, a pavement, a bicycle, a sky, and a truck.
+An image with three cars, a pavement, a wall, a grass, a truck, two people, a bicycle, a sky, a road, and a tree.
+An image with a pavement, a wall, a bicycle, a truck, a sky, three cars, two people, a grass, a road, and a tree.
+An image with three cars, a road, a grass, a pavement, two people, a bicycle, a wall, a tree, a truck, and a sky.
+An image with three cars, a wall, a truck, a tree, a road, a grass, two people, a sky, a pavement, and a bicycle.

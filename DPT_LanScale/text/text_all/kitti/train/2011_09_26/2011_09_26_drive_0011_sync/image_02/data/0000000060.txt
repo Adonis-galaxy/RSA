@@ -8,3 +8,8 @@ The image shows a wide street with a clear view of the road ahead.
 The image captures a wide, tree-lined street with a clear sky overhead, leading to a building in the distance.
 The image shows a wide, tree-lined street with a few cars, a traffic light, and a pedestrian crossing.
 The image shows a wide, tree-lined street with multiple lanes, a clear sky, and a few cars driving on it.
+An image with three traffics, six cars, a person, a tree, a road, a pavement, a building, a grass, and a sky.
+An image with a pavement, six cars, a sky, three traffics, a grass, a tree, a road, a building, and a person.
+An image with six cars, a tree, a person, three traffics, a building, a pavement, a grass, a sky, and a road.
+An image with six cars, three traffics, a pavement, a tree, a person, a building, a road, a sky, and a grass.
+An image with three traffics, a person, a tree, six cars, a pavement, a sky, a road, a building, and a grass.

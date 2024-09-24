@@ -8,3 +8,8 @@ The image shows a street intersection with a curved road.
 The image captures a serene residential street, lined with trees and houses, where a car is parked at the end of the road, and a stop sign is visible on the right side.
 The image shows a wide street with a curved intersection, lined with trees and houses, and a few cars parked along the sides.
 The image depicts a residential street with a curved intersection, lined with trees and houses, and featuring a clear sky.
+An image with a tree, a stop, a road, a sky, six cars, a pavement, a grass, and a house.
+An image with a sky, six cars, a house, a road, a grass, a stop, a pavement, and a tree.
+An image with a house, six cars, a tree, a road, a sky, a pavement, a grass, and a stop.
+An image with six cars, a tree, a grass, a sky, a road, a stop, a pavement, and a house.
+An image with a stop, a sky, a road, six cars, a tree, a pavement, a grass, and a house.

@@ -8,3 +8,8 @@ The image shows a long, empty road with trees on both sides.
 A long, empty road flanked by lush greenery and a clear sky.
 A long, empty road with a few cars, surrounded by lush greenery and a clear sky.
 A long, straight, tree-lined road with a few cars driving on it.
+An image with a road, a grass, two cars, a sky, and a tree.
+An image with a sky, two cars, a grass, a tree, and a road.
+An image with a grass, two cars, a road, a tree, and a sky.
+An image with a sky, a grass, a road, a tree, and two cars.
+An image with a tree, two cars, a road, a sky, and a grass.

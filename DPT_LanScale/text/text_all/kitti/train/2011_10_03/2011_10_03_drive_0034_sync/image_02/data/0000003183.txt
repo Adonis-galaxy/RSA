@@ -8,3 +8,8 @@ The image shows a narrow street with a curb, a sidewalk, and a brick wall.
 A quiet residential street, lined with trees and a brick wall, leads to a white house with a blue sign.
 The image shows a narrow, tree-lined street with a car parked on the side, a brick wall, a street sign, and a building in the background.
 A narrow, tree-lined street with a curved sidewalk and a brick wall on the right side, leading to a white building with a blue sign.
+An image with a road, a dirt, a house, a pavement, a sky, a truck, a tree, and two walls.
+An image with a house, a tree, a pavement, two walls, a sky, a road, a dirt, and a truck.
+An image with a truck, a tree, a dirt, two walls, a road, a sky, a pavement, and a house.
+An image with a dirt, two walls, a tree, a pavement, a road, a house, a truck, and a sky.
+An image with two walls, a tree, a truck, a house, a sky, a dirt, a pavement, and a road.

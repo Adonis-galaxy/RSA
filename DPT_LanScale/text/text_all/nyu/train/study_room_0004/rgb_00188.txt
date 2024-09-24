@@ -8,3 +8,8 @@ The image shows an empty classroom with white walls and a long hallway.
 The image depicts an empty classroom with a long row of desks and chairs, a table, and a whiteboard, all arranged in a linear fashion, suggesting a space designed for learning and group activities.
 The image shows a long, narrow room with white walls and a tiled ceiling, featuring a series of whiteboards on one side, a row of desks with chairs on the other, and a large table in the center.
 The image shows an empty classroom with a long whiteboard on the left wall, a row of desks and chairs facing the whiteboard, and a wooden table with papers on the right.
+An image with nine chairs, a light, a cabinet, four dinings, a ceiling, a window, a floor, a door, and a wall.
+An image with nine chairs, a wall, a door, a cabinet, a window, four dinings, a floor, a ceiling, and a light.
+An image with four dinings, nine chairs, a cabinet, a light, a door, a window, a wall, a ceiling, and a floor.
+An image with a floor, four dinings, a cabinet, a ceiling, nine chairs, a door, a window, a light, and a wall.
+An image with a ceiling, a cabinet, a floor, nine chairs, a light, a wall, a window, a door, and four dinings.

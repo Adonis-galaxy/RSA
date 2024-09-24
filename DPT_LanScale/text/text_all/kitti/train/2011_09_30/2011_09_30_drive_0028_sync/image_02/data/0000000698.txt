@@ -8,3 +8,8 @@ The image shows a street scene with a blue car and a white car driving down a tr
 A blue car is driving down a tree-lined street, passing a white building with a balcony and a parked white car.
 A blue car is driving down a tree-lined street, passing a white house with a balcony and a parked white car.
 A narrow street with parked cars and a sidewalk, lined by trees and buildings, leading to a residential area.
+An image with a pavement, a tree, two cars, a house, a road, a sky, and a fence.
+An image with a pavement, a sky, a road, two cars, a fence, a house, and a tree.
+An image with two cars, a road, a sky, a tree, a pavement, a house, and a fence.
+An image with a house, a road, a tree, a pavement, a sky, two cars, and a fence.
+An image with a road, a tree, a pavement, a sky, two cars, a fence, and a house.

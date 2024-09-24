@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a white building on the right, a blue sign with a white arrow pointing to the left, and a red sign with a white cross on the right side of the street. The street is lined with parked cars and a sidewalk, and there's a white fence on the right side. The sky is clear and blue, suggesting a sunny day.
 The image shows a narrow street lined with parked cars, a sidewalk, a building with a blue sign, a white fence, and a tree.
 The image depicts a residential street with a curved sidewalk, a white building with a blue sign, a red and white sign, and a white fence with a gate.
+An image with a fence, a sky, a pavement, two cars, a tree, a road, a wall, a grass, and a house.
+An image with two cars, a sky, a pavement, a wall, a fence, a tree, a house, a road, and a grass.
+An image with a road, a fence, a sky, a wall, a tree, two cars, a pavement, a house, and a grass.
+An image with a sky, a fence, a grass, a tree, two cars, a house, a pavement, a road, and a wall.
+An image with a wall, two cars, a fence, a grass, a sky, a tree, a road, a house, and a pavement.

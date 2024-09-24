@@ -8,3 +8,8 @@ A man standing at a table with a laptop, a cup of coffee, and a bag of food.
 A man in a red jacket is standing at a desk with a laptop, a cup of coffee, and a bag of food.
 A man in a red jacket is standing at a desk with a laptop, a coffee cup, and a white bag.
 A man in a red jacket is standing at a desk with a laptop, a coffee cup, and a white bag on it.
+An image with two laptops, four cups, a wall, a dining, a floor, two chairs, a person, and a window.
+An image with two chairs, a person, a floor, four cups, two laptops, a wall, a dining, and a window.
+An image with four cups, two laptops, a floor, two chairs, a person, a window, a wall, and a dining.
+An image with two laptops, four cups, a floor, a wall, a person, two chairs, a dining, and a window.
+An image with four cups, a dining, two chairs, a wall, a person, a floor, two laptops, and a window.

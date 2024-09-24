@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 The image captures a quiet residential street, with a clear path leading to a row of houses, where the sun casts long shadows, creating a serene atmosphere.
 The image shows a narrow, tree-lined street with a few parked cars, a white line painted on the road, and a clear sky overhead.
 A quiet residential street with a clear pathway, lined by houses and trees, under a bright sunny sky.
+An image with a house, five cars, a sky, a tree, a pavement, and a road.
+An image with five cars, a tree, a sky, a pavement, a road, and a house.
+An image with five cars, a sky, a house, a road, a tree, and a pavement.
+An image with a tree, five cars, a road, a pavement, a sky, and a house.
+An image with a tree, a sky, five cars, a road, a pavement, and a house.

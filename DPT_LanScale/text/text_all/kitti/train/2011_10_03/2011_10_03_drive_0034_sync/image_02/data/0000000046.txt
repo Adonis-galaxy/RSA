@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a typical day on a suburban street, with a mix of vehicles, traffic signs, and trees lining the road.
 The image shows a wide, tree-lined road with multiple lanes, a few cars, and various signs and traffic lights. The road is bordered by grass and trees, and there is a clear sky above.
 The image shows a road with multiple lanes, a median, and various signs and markings, indicating a well-organized and possibly busy urban area.
+An image with a road, a grass, a pavement, a tree, four cars, a building, and a sky.
+An image with a road, four cars, a tree, a pavement, a building, a sky, and a grass.
+An image with a grass, four cars, a pavement, a sky, a road, a tree, and a building.
+An image with a building, four cars, a road, a sky, a pavement, a grass, and a tree.
+An image with a sky, a building, a road, a pavement, a tree, four cars, and a grass.

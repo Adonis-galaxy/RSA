@@ -8,3 +8,8 @@ The image shows a road with trees on both sides.
 A winding road through a lush green forest, with a clear blue sky overhead.
 The image shows a tree-lined road with a sign indicating a speed limit of 30 km/h, a blue and white sign with an arrow pointing left, and a red and white sign with a triangle and a number 30.
 The image shows a tree-lined road with a clear sky, a sign indicating a speed limit of 30 km/h, and a sign for a nearby town.
+An image with a truck, a grass, a car, a road, a sky, and a tree.
+An image with a truck, a grass, a tree, a sky, a car, and a road.
+An image with a grass, a car, a road, a tree, a sky, and a truck.
+An image with a road, a grass, a truck, a tree, a sky, and a car.
+An image with a road, a tree, a car, a grass, a sky, and a truck.

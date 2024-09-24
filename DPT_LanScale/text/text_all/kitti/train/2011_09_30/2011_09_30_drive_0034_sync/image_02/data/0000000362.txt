@@ -8,3 +8,8 @@ A white van parked on a brick road.
 A white delivery truck parked on a narrow, cobblestone street between parked cars and a building, with a blue car parked behind it.
 A large white truck is parked on a narrow street between two buildings, with a blue car parked on the side of the street.
 A narrow, tree-lined street in a residential area, with parked cars, a white van, a blue car, a white portable toilet, and a building with a blue door.
+An image with a sky, a tree, a grass, a pavement, two cars, a house, a wall, a truck, and a roof.
+An image with a wall, two cars, a sky, a pavement, a house, a roof, a grass, a truck, and a tree.
+An image with a grass, a wall, two cars, a house, a tree, a truck, a sky, a pavement, and a roof.
+An image with a wall, a pavement, a truck, a sky, a roof, a house, two cars, a tree, and a grass.
+An image with a grass, a truck, two cars, a roof, a pavement, a sky, a wall, a house, and a tree.

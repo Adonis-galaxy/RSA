@@ -8,3 +8,8 @@ A white van driving down a narrow street.
 A white van is driving down a narrow street lined with buildings, passing a cyclist and pedestrians, with a traffic light visible in the background.
 A large white van is driving down a narrow street between two-story buildings, with a person riding a bicycle in the foreground and a traffic light in the background.
 A narrow street in a European city, with a white van driving down the middle, flanked by buildings and pedestrians on both sides.
+An image with a building, eight people, two handbags, a truck, a pavement, two cars, a traffic, two bicycles, two benches, a tree, and a railroad.
+An image with a traffic, two bicycles, two handbags, eight people, two cars, a railroad, a truck, two benches, a building, a tree, and a pavement.
+An image with eight people, a railroad, a truck, two handbags, two cars, a traffic, a building, two bicycles, two benches, a tree, and a pavement.
+An image with a truck, two cars, two bicycles, a tree, two handbags, eight people, two benches, a pavement, a traffic, a building, and a railroad.
+An image with two cars, a railroad, a building, eight people, a truck, two bicycles, two handbags, two benches, a tree, a traffic, and a pavement.

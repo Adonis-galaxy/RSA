@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a clear view of the road ahead, flanked by lush greenery and a few houses, under a bright sunny sky.
 The image shows a curvy road with a sidewalk, lined by trees and buildings, leading to a white house with a blue sky in the background.
 The image depicts a quiet residential street with a curved road, lined with trees and houses, leading to a cul-de-sac.
+An image with a grass, a pavement, a building, a sky, two cars, a tree, a wall, and a road.
+An image with a pavement, two cars, a building, a road, a wall, a sky, a grass, and a tree.
+An image with a wall, two cars, a grass, a tree, a sky, a road, a pavement, and a building.
+An image with a pavement, a sky, a grass, two cars, a building, a wall, a road, and a tree.
+An image with a road, a tree, a grass, two cars, a wall, a pavement, a sky, and a building.

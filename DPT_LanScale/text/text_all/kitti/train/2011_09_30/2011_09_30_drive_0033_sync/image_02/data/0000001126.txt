@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quaint, tree-lined street in a residential area, with a pedestrian crossing marked by white lines on the asphalt, and a blue sign indicating a pedestrian crossing.
 The image shows a narrow street with a crosswalk, lined by houses and trees, and a few pedestrians walking on the sidewalk.
 The image captures a quaint European street scene, featuring a narrow road with a crosswalk, lined by charming houses and trees, under a clear blue sky.
+An image with a tree, three people, four cars, a house, a backpack, a sky, a road, a wall, a pavement, and a fence.
+An image with a house, three people, a sky, a wall, a pavement, a fence, four cars, a tree, a road, and a backpack.
+An image with a backpack, a pavement, a sky, a fence, four cars, a wall, a house, three people, a road, and a tree.
+An image with a house, a pavement, four cars, three people, a backpack, a sky, a tree, a wall, a road, and a fence.
+An image with three people, four cars, a fence, a sky, a backpack, a wall, a tree, a road, a pavement, and a house.

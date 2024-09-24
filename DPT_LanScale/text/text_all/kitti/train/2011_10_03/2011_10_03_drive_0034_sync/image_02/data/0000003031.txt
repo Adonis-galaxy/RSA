@@ -8,3 +8,8 @@ The image shows a street scene with a silver car parked on the side of the road.
 The image captures a quiet residential street, with a silver car parked on the side of the road, under the shade of trees, and in front of a white house with a black roof.
 A silver car is parked on the side of a narrow street lined with houses and trees.
 A quiet residential street with a parked silver car, a brick wall, and a line of trees.
+An image with four cars, a pavement, a fence, two walls, two potteds, a road, a roof, a tree, and a house.
+An image with a pavement, a road, four cars, a house, two potteds, two walls, a roof, a tree, and a fence.
+An image with a house, four cars, two potteds, two walls, a roof, a fence, a pavement, a road, and a tree.
+An image with two walls, a pavement, four cars, a tree, a road, two potteds, a fence, a house, and a roof.
+An image with a house, four cars, a tree, two walls, a pavement, a roof, a road, a fence, and two potteds.

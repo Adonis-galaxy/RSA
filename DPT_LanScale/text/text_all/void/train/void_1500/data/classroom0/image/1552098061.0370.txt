@@ -8,3 +8,8 @@ A black cart with a monitor on top.
 A black cart with a black box on top, sitting on a checkered floor next to a set of stairs.
 A black cart with a small black box on top, sitting on a checkered floor next to a set of stairs.
 The image shows a black cart with a shelf on top, placed on a tiled floor next to a set of stairs.
+An image with a floor, two chairs, a wall, two remotes, and a tv.
+An image with two chairs, a floor, two remotes, a wall, and a tv.
+An image with a tv, two remotes, a floor, two chairs, and a wall.
+An image with a wall, two chairs, two remotes, a tv, and a floor.
+An image with two chairs, a wall, a tv, two remotes, and a floor.

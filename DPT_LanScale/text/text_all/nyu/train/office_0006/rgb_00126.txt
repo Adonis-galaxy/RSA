@@ -8,3 +8,8 @@ The image is a photograph of an office cubicle.
 The image captures a cluttered office space with a desk, computer, and various items on the wall, creating a sense of organized chaos.
 The image shows a small office with a desk, a computer monitor, a fan, a clock, and various items on the wall.
 The image shows an office space with a desk, computer monitor, fan, and various items on the shelves, including a clock and a vase.
+An image with a window, two clocks, a ceiling, a floor, a tv, a wall, a cabinet, a door, a book, and a counter.
+An image with two clocks, a counter, a book, a ceiling, a wall, a window, a floor, a cabinet, a door, and a tv.
+An image with a cabinet, a counter, a window, two clocks, a floor, a book, a wall, a tv, a door, and a ceiling.
+An image with a wall, a door, a tv, two clocks, a window, a ceiling, a book, a cabinet, a floor, and a counter.
+An image with a tv, a cabinet, a book, a window, a counter, a door, a floor, two clocks, a wall, and a ceiling.

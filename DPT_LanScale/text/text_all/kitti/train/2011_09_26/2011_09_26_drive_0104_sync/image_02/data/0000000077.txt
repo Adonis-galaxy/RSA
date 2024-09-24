@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a person walking.
 The image captures a bustling city street, with a mix of parked and moving vehicles, including cars and a truck, all navigating the narrow road between tall buildings.
 The image depicts a busy city street with tall buildings, parked cars, and a red 30 zone sign.
 A busy city street with a mix of cars, a truck, and a bus, lined with parked cars and buildings, and marked with a 30 zone.
+An image with sixteen cars, a sky, a road, a grass, two people, a pavement, a building, and a tree.
+An image with sixteen cars, a sky, a pavement, two people, a tree, a building, a road, and a grass.
+An image with a grass, sixteen cars, a tree, a pavement, a sky, two people, a road, and a building.
+An image with sixteen cars, a tree, a road, two people, a sky, a building, a pavement, and a grass.
+An image with a building, sixteen cars, two people, a sky, a tree, a road, a grass, and a pavement.

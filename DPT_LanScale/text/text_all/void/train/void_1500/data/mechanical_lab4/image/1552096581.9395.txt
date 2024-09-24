@@ -8,3 +8,8 @@ A yellow pipe attached to a sink.
 The image shows a yellow pipe connected to a sink, with a sign above the pipe and a blue box on the wall.
 The image shows a yellow pipe running up a wall next to a sink with a blue box attached to it.
 The image shows a yellow pipe running up the wall next to a sink, with a sign above the pipe and a blue box on the wall.
+An image with a sink, a cabinet, a wall, a paper, and a floor.
+An image with a cabinet, a floor, a wall, a paper, and a sink.
+An image with a floor, a sink, a paper, a wall, and a cabinet.
+An image with a wall, a paper, a sink, a floor, and a cabinet.
+An image with a wall, a sink, a cabinet, a floor, and a paper.

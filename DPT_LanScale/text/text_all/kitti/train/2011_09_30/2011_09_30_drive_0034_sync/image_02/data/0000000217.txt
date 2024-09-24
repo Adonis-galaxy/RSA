@@ -8,3 +8,8 @@ A narrow, brick-paved alleyway between two hedges.
 A narrow, shaded alleyway between two walls of lush greenery, with a solitary street lamp standing sentinel.
 The image shows a narrow, tree-lined street with a brick pavement, a few parked cars, and a white house in the background.
 A narrow, tree-lined alleyway leads to a white house with a brick wall and a car parked in front of it.
+An image with a sky, a wall, a tree, three cars, a pavement, and a house.
+An image with a pavement, a sky, three cars, a house, a wall, and a tree.
+An image with a house, a wall, a sky, a tree, three cars, and a pavement.
+An image with three cars, a pavement, a tree, a house, a sky, and a wall.
+An image with three cars, a sky, a tree, a wall, a house, and a pavement.

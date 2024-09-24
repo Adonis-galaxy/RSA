@@ -8,3 +8,8 @@ A narrow street between two houses.
 A narrow, shaded street between houses, with a solitary figure walking away from the camera.
 A narrow, tree-lined street between two houses, with a large shadow of a street lamp on the right side.
 A narrow, tree-lined street leads to a row of houses, with a sidewalk and a street lamp visible.
+An image with a road, a pavement, a tree, a sky, a car, and a house.
+An image with a house, a sky, a car, a road, a tree, and a pavement.
+An image with a pavement, a road, a car, a sky, a house, and a tree.
+An image with a road, a car, a pavement, a tree, a house, and a sky.
+An image with a car, a pavement, a road, a house, a sky, and a tree.

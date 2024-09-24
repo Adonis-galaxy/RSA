@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road, traffic lights, and a tra
 The image captures a typical day on a suburban street, with a clear sky, greenery, and a few vehicles, including a car and a bicycle, moving along the road under the guidance of traffic lights.
 The image shows a wide, tree-lined street with a traffic light, a train crossing, and a few cars.
 The image depicts a wide, tree-lined street with multiple lanes, traffic lights, and a crosswalk, leading to a train station.
+An image with six traffics, three cars, a grass, a road, a airplane, a bicycle, a building, a tree, and a pavement.
+An image with a pavement, a road, six traffics, a tree, a building, three cars, a airplane, a grass, and a bicycle.
+An image with a airplane, three cars, a building, six traffics, a bicycle, a pavement, a road, a tree, and a grass.
+An image with six traffics, a bicycle, a road, a pavement, a airplane, a grass, three cars, a building, and a tree.
+An image with three cars, a grass, six traffics, a airplane, a tree, a bicycle, a pavement, a building, and a road.

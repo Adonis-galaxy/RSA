@@ -8,3 +8,8 @@ The image shows a metal railing in a room with a whiteboard and a wooden partiti
 The image shows a room with a desk, a chair, and a door.
 The image shows a small room with a whiteboard, a metal railing, and a wooden desk.
 The image shows a room with a desk, a chair, and a door in the background.
+An image with two walls, a bed, a ceiling, a paper, a floor, and a door.
+An image with two walls, a floor, a door, a ceiling, a bed, and a paper.
+An image with a floor, a bed, a paper, two walls, a ceiling, and a door.
+An image with two walls, a door, a paper, a bed, a floor, and a ceiling.
+An image with a door, a bed, a floor, two walls, a paper, and a ceiling.

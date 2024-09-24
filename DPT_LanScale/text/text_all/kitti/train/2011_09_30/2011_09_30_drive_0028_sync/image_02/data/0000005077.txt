@@ -8,3 +8,8 @@ A silver car driving through an intersection.
 A silver car is driving through an intersection, passing a white trash can and a person walking on the sidewalk.
 A small gray car is driving through an intersection in a residential area, surrounded by parked cars and trees.
 A gray car is driving through an intersection with a white building and trees in the background.
+An image with a tree, seven cars, a pavement, a bench, a person, a grass, and a road.
+An image with a road, seven cars, a grass, a tree, a pavement, a person, and a bench.
+An image with seven cars, a road, a tree, a person, a bench, a grass, and a pavement.
+An image with seven cars, a grass, a person, a tree, a pavement, a bench, and a road.
+An image with seven cars, a person, a bench, a road, a grass, a pavement, and a tree.

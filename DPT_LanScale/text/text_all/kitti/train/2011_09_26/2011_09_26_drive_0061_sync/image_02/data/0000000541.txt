@@ -8,3 +8,8 @@ The image shows a red car parked on the side of a road.
 A red car is parked on the side of a narrow street, with two other cars parked behind it, and a green hedge on the right side.
 A red car is parked on the side of a narrow street between two hedges, with two other cars parked further down the road.
 A narrow street with parked cars and a stone wall on one side, leading to a tunnel.
+An image with a tree, two cars, a road, a pavement, and a wall.
+An image with a tree, two cars, a wall, a pavement, and a road.
+An image with a wall, two cars, a pavement, a road, and a tree.
+An image with two cars, a tree, a road, a wall, and a pavement.
+An image with a pavement, a wall, two cars, a road, and a tree.

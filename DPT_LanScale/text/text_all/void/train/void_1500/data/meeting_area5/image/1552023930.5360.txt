@@ -8,3 +8,8 @@ A row of white chairs with black wheels.
 A row of white chairs with black wheels, positioned in front of a long white table.
 A row of four white chairs with black wheels, positioned in front of a long white table.
 A row of white chairs with black wheels, positioned in front of a long white table.
+An image with a wall, a dining, five chairs, a floor, and a door.
+An image with five chairs, a floor, a door, a dining, and a wall.
+An image with a floor, a dining, five chairs, a wall, and a door.
+An image with five chairs, a dining, a floor, a wall, and a door.
+An image with a wall, five chairs, a door, a dining, and a floor.

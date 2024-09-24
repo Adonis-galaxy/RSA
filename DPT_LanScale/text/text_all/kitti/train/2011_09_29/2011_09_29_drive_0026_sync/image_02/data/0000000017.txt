@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a focus on the intersection where vehicles are stopped, and the surrounding urban landscape with buildings and trees.
 The image shows a city street with a few cars, a traffic light, and a construction site in the background.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban infrastructure, all under a clear blue sky.
+An image with a tree, a building, a sky, seven cars, two traffics, a road, and a fence.
+An image with seven cars, a fence, two traffics, a tree, a building, a sky, and a road.
+An image with two traffics, a road, seven cars, a fence, a sky, a building, and a tree.
+An image with two traffics, seven cars, a tree, a fence, a sky, a building, and a road.
+An image with a building, a road, seven cars, a tree, two traffics, a sky, and a fence.

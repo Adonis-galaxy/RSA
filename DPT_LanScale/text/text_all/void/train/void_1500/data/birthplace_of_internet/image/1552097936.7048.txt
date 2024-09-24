@@ -8,3 +8,8 @@ A room with a bookshelf, a desk, and a green wall.
 The image shows a room with a bookshelf, a desk, and a refrigerator, all set against a green wall with posters.
 The image shows a room with a large bookshelf, a small table with papers, a large white refrigerator, and a green wall with posters.
 The image shows a room with a green wall, a bookshelf, a desk, and a large white machine.
+An image with twenty books, a chair, a floor, a wall, a light, a paper, a table, a refrigerator, a shelf, and a ceiling.
+An image with twenty books, a shelf, a ceiling, a table, a wall, a floor, a chair, a light, a paper, and a refrigerator.
+An image with twenty books, a light, a refrigerator, a floor, a shelf, a wall, a chair, a table, a ceiling, and a paper.
+An image with twenty books, a paper, a light, a ceiling, a shelf, a wall, a chair, a refrigerator, a table, and a floor.
+An image with a chair, twenty books, a shelf, a light, a ceiling, a table, a floor, a paper, a wall, and a refrigerator.

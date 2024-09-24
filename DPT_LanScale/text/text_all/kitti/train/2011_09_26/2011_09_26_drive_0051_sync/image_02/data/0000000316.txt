@@ -8,3 +8,8 @@ The image shows a street scene with a white van driving down the road.
 The image captures a bustling city street scene with a focus on the interaction between various vehicles and the surrounding urban environment.
 A busy street scene with a large white van driving down the road, surrounded by other vehicles and a parked car, with trees and buildings in the background.
 A busy street scene with a mix of vehicles, including vans and cars, driving on a road with a median strip and lined with trees and buildings.
+An image with a building, fourteen cars, two trucks, a tree, a sky, a road, a grass, and a bus.
+An image with fourteen cars, two trucks, a road, a building, a tree, a grass, a sky, and a bus.
+An image with a building, fourteen cars, a tree, two trucks, a grass, a road, a bus, and a sky.
+An image with fourteen cars, two trucks, a building, a tree, a sky, a grass, a road, and a bus.
+An image with fourteen cars, two trucks, a grass, a building, a road, a sky, a bus, and a tree.

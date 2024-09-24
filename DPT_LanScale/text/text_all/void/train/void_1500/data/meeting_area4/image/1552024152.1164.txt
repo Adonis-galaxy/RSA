@@ -8,3 +8,8 @@ A white table with four chairs in a room.
 The image shows a white table with four chairs, all on a gray carpeted floor.
 A long white table with four chairs, all on a gray carpeted floor.
 The image shows a white table with four chairs, placed on a gray carpeted floor, in a room with a green wall.
+An image with a door, a wall, a rug, six chairs, a dining, and a floor.
+An image with a dining, six chairs, a wall, a floor, a rug, and a door.
+An image with a door, six chairs, a rug, a floor, a wall, and a dining.
+An image with six chairs, a door, a rug, a floor, a dining, and a wall.
+An image with a dining, a wall, six chairs, a door, a rug, and a floor.

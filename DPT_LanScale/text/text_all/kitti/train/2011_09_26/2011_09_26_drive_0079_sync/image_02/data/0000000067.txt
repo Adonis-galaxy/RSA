@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white building on the right side.
 A quiet residential street, lined with trees and houses, under a clear blue sky.
 The image shows a narrow street lined with trees and bushes, leading to a white building with a car parked in front.
 A narrow, tree-lined street leads to a white building with a fence on the right side.
+An image with a pavement, a road, a car, a grass, a house, a fence, a wall, a tree, and a sky.
+An image with a house, a tree, a wall, a road, a pavement, a fence, a car, a sky, and a grass.
+An image with a house, a road, a fence, a grass, a tree, a car, a wall, a pavement, and a sky.
+An image with a fence, a car, a house, a grass, a road, a sky, a tree, a pavement, and a wall.
+An image with a sky, a pavement, a car, a road, a tree, a house, a wall, a fence, and a grass.

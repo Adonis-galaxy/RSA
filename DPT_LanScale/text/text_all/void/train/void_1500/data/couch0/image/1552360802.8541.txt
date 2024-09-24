@@ -8,3 +8,8 @@ A black backpack is sitting on a gray couch.
 A backpack, a newspaper, and a hat are placed on a couch.
 A black backpack is sitting on a gray couch next to a newspaper and a straw hat.
 A black backpack is placed on a gray couch, with a newspaper and a straw hat on top of it.
+An image with two walls, a rug, a couch, a book, and a backpack.
+An image with a rug, two walls, a book, a couch, and a backpack.
+An image with a rug, a couch, a backpack, two walls, and a book.
+An image with a book, a couch, two walls, a backpack, and a rug.
+An image with a backpack, a book, a couch, two walls, and a rug.

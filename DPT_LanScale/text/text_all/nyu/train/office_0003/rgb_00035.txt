@@ -8,3 +8,8 @@ A room with a white door and a red chair.
 The image captures a simple, somewhat cluttered office space with a focus on a red chair and a table with various items on it.
 The image shows a small room with a white door, a table with papers and a pair of scissors, and a red chair.
 The image shows an office setting with a desk, chair, and door, featuring a white door with a window and a red chair.
+An image with a scissors, a wall, a door, a book, a paper, a table, and a chair.
+An image with a paper, a wall, a scissors, a door, a chair, a table, and a book.
+An image with a scissors, a table, a chair, a book, a wall, a door, and a paper.
+An image with a chair, a wall, a book, a table, a door, a paper, and a scissors.
+An image with a chair, a table, a paper, a wall, a door, a book, and a scissors.

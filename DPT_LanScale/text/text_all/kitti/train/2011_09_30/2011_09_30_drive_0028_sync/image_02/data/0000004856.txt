@@ -8,3 +8,8 @@ The image shows a row of apartment buildings with green hedges in front of them.
 The image captures a serene residential street, lined with neatly trimmed hedges and trees, leading to a row of apartment buildings with balconies, where the sun casts a warm glow on the scene.
 The image shows a row of apartment buildings with balconies, greenery, and a paved sidewalk.
 The image shows a row of apartment buildings with balconies, a paved sidewalk, and a street with a car parked on the side.
+An image with a tree, a house, a road, a car, a pavement, and a potted.
+An image with a car, a tree, a house, a pavement, a road, and a potted.
+An image with a tree, a pavement, a road, a house, a car, and a potted.
+An image with a tree, a potted, a pavement, a road, a house, and a car.
+An image with a potted, a tree, a car, a road, a house, and a pavement.

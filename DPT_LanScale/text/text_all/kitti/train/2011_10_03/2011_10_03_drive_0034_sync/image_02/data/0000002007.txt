@@ -8,3 +8,8 @@ The image shows a street with a sidewalk, trees, and a building.
 A serene suburban street, lined with lush greenery and a quaint brick path, inviting a leisurely stroll.
 The image shows a residential street with a large house on the right, a sidewalk, and a row of trees and bushes lining the street.
 The image shows a residential street with a curved road, lined with trees and a sidewalk, leading to a house with a driveway and a garden.
+An image with a wall, a pavement, a tree, a road, and a grass.
+An image with a pavement, a tree, a grass, a road, and a wall.
+An image with a grass, a road, a pavement, a wall, and a tree.
+An image with a tree, a grass, a road, a pavement, and a wall.
+An image with a road, a pavement, a wall, a grass, and a tree.

@@ -8,3 +8,8 @@ A blue box on a table.
 A black chair with a blue box on a table in a room with a window.
 The image shows a black chair with a white label on it, a blue box on a table, a white sign with blue writing, and a black object on a table.
 The image shows a black chair with a white label on it, a blue box on a table, a white sign with blue writing, and a black object on a table.
+An image with a paper, a table, two chairs, a window, a cardboard, and a wall.
+An image with a window, two chairs, a cardboard, a paper, a wall, and a table.
+An image with two chairs, a wall, a cardboard, a window, a table, and a paper.
+An image with a table, two chairs, a cardboard, a window, a wall, and a paper.
+An image with a cardboard, a wall, two chairs, a paper, a table, and a window.

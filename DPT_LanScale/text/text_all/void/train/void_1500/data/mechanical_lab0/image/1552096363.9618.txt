@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is placed under a white table, with a black object in the background.
 A blue chair with silver legs is placed under a white table.
 A blue chair is placed under a white table, with a black object in the background.
+An image with a tv, two chairs, a table, a dining, and a floor.
+An image with a dining, a table, two chairs, a floor, and a tv.
+An image with a dining, two chairs, a floor, a table, and a tv.
+An image with a floor, a dining, two chairs, a tv, and a table.
+An image with a floor, a tv, a table, a dining, and two chairs.

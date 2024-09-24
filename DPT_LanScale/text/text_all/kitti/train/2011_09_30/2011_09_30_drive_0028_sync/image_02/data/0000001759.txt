@@ -8,3 +8,8 @@ A red car on a street.
 A quiet residential street, lined with houses and trees, with a red car parked on the side.
 A red car is parked on a narrow street between two-story buildings, with a clear sky overhead.
 A narrow, tree-lined street in a residential area, with a red car parked on the right side.
+An image with a flower, a road, a stop, four cars, a person, a pavement, a house, a bird, a sky, and a tree.
+An image with a bird, four cars, a house, a person, a flower, a pavement, a road, a stop, a tree, and a sky.
+An image with a bird, a person, four cars, a tree, a stop, a flower, a pavement, a house, a road, and a sky.
+An image with four cars, a sky, a flower, a person, a tree, a stop, a road, a pavement, a bird, and a house.
+An image with a bird, four cars, a road, a flower, a sky, a house, a tree, a stop, a person, and a pavement.

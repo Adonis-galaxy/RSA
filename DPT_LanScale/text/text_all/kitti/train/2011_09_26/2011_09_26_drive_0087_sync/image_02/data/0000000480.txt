@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 The image captures a quiet, narrow alleyway between two-story houses, with a blue cart parked on the right side, and a white garage door on the left.
 The image shows a narrow alleyway between two buildings, with a blue cart parked on the right side.
 The image depicts a narrow alleyway between two buildings, with a brick wall on the left, a wooden gate on the right, and a blue tarp covering a cart in the middle.
+An image with a tree, a door, a pavement, a window, a sky, a road, a roof, and a car.
+An image with a window, a tree, a door, a road, a car, a sky, a roof, and a pavement.
+An image with a window, a car, a roof, a tree, a road, a door, a sky, and a pavement.
+An image with a door, a tree, a roof, a pavement, a car, a window, a road, and a sky.
+An image with a car, a door, a window, a sky, a road, a pavement, a roof, and a tree.

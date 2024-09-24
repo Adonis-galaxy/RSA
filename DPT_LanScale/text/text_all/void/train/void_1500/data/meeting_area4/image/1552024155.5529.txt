@@ -8,3 +8,8 @@ Two white chairs with black wheels.
 Two white chairs with black wheels are positioned in front of a white table.
 The image shows two white chairs with black wheels, positioned in front of a white table.
 The image shows a white table with two chairs, positioned in front of it, on a gray carpeted floor.
+An image with four chairs, a wall, a dining, and a floor.
+An image with a dining, a wall, four chairs, and a floor.
+An image with a wall, four chairs, a floor, and a dining.
+An image with four chairs, a dining, a wall, and a floor.
+An image with four chairs, a floor, a dining, and a wall.

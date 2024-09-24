@@ -8,3 +8,8 @@ The image is a photograph of an office space.
 The image captures a dimly lit office space with a desk, computer monitor, and a television set, all situated in front of a window that offers a view into another room.
 The image shows an office with a large window, a desk with a computer monitor and a printer, a television on the counter, and a doorway leading to another room.
 The image shows an office space with a desk, computer monitor, and a television on a counter.
+An image with a cabinet, two tvs, a wall, a chair, a window, a counter, a clock, a ceiling, a floor, and a door.
+An image with a wall, a chair, a cabinet, a ceiling, a door, a counter, two tvs, a clock, a floor, and a window.
+An image with two tvs, a cabinet, a floor, a counter, a clock, a wall, a chair, a window, a ceiling, and a door.
+An image with two tvs, a window, a ceiling, a cabinet, a clock, a floor, a door, a wall, a counter, and a chair.
+An image with a floor, two tvs, a door, a window, a chair, a wall, a clock, a counter, a ceiling, and a cabinet.

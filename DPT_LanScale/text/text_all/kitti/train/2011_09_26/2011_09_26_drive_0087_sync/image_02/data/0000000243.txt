@@ -8,3 +8,8 @@ A white garage with a brown roof.
 A narrow pathway between two white garages, flanked by lush greenery.
 A small white garage with a white door and a red roof, surrounded by a narrow pathway bordered by tall green bushes.
 A narrow pathway between two rows of lush green hedges, leading to a white garage with a red roof.
+An image with a tree, a pavement, a house, a wall, and a sky.
+An image with a wall, a tree, a pavement, a house, and a sky.
+An image with a sky, a pavement, a wall, a house, and a tree.
+An image with a sky, a house, a pavement, a wall, and a tree.
+An image with a pavement, a wall, a sky, a house, and a tree.

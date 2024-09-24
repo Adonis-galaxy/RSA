@@ -8,3 +8,8 @@ A blue trash can.
 A blue trash can is placed next to a door.
 A large blue trash can is placed next to a door.
 A blue trash can is placed next to a door in a room with a carpeted floor.
+An image with a door, a cup, a floor, and a wall.
+An image with a floor, a wall, a cup, and a door.
+An image with a floor, a cup, a wall, and a door.
+An image with a floor, a wall, a cup, and a door.
+An image with a floor, a door, a cup, and a wall.

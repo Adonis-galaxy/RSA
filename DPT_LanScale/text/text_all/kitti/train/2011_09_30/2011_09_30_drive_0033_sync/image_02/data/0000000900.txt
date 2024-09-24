@@ -8,3 +8,8 @@ The image shows a street with parked cars and a building in the background.
 The image captures a serene residential street, where parked cars are shaded by trees, and the sun casts a warm glow on the houses and sidewalk.
 The image shows a narrow street lined with parked cars, a few trees, and buildings, with a clear sky overhead.
 A narrow street in a residential area with parked cars and a clear sky.
+An image with five cars, a tree, a sky, a potted, a road, and a wall.
+An image with a potted, a tree, five cars, a wall, a sky, and a road.
+An image with a potted, five cars, a sky, a tree, a wall, and a road.
+An image with a sky, five cars, a wall, a potted, a road, and a tree.
+An image with five cars, a tree, a wall, a road, a sky, and a potted.

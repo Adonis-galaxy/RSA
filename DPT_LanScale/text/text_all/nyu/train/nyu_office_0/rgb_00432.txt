@@ -8,3 +8,8 @@ The image shows a kitchen with a wooden door and a stainless steel oven.
 The image captures a simple, utilitarian kitchen space with a focus on the relationship between the stove, cabinets, and door.
 The image shows a small kitchen with a yellow countertop, a stainless steel oven, a wooden door, and a bottle of sauce on the countertop.
 The image shows a kitchen with a yellow countertop, a stainless steel oven, a wooden door, and a white wall.
+An image with a door, a cabinet, a floor, a wall, a bottle, and a oven.
+An image with a cabinet, a bottle, a oven, a floor, a wall, and a door.
+An image with a cabinet, a oven, a door, a wall, a bottle, and a floor.
+An image with a wall, a cabinet, a bottle, a floor, a door, and a oven.
+An image with a wall, a floor, a cabinet, a oven, a door, and a bottle.

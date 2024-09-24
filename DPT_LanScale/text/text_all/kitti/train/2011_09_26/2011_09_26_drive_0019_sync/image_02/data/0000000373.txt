@@ -8,3 +8,8 @@ A group of people standing on the side of a road.
 A group of people standing on a street corner, with a bicycle and a car parked nearby, and a sign indicating a nearby park.
 A group of people standing on a street corner, with a car parked nearby and a bicycle in the background.
 A group of people standing on a street corner, with a bicyclist passing by, cars parked on the side of the road, and a sign indicating a nearby park.
+An image with three people, a sky, two cars, a bicycle, a tree, and a road.
+An image with a sky, a bicycle, three people, two cars, a road, and a tree.
+An image with two cars, a road, a sky, three people, a bicycle, and a tree.
+An image with a bicycle, three people, a road, a sky, two cars, and a tree.
+An image with three people, a sky, a tree, two cars, a road, and a bicycle.

@@ -8,3 +8,8 @@ The image shows a street scene with two white boxes on the sidewalk.
 The image captures a quiet residential street scene with a focus on the juxtaposition of the parked cars and the two white boxes, possibly electrical boxes, on the sidewalk.
 The image shows a street scene with a large white trash can on the sidewalk, a smaller white trash can on the side of the road, and a car driving on the street.
 The image shows a street scene with a curved sidewalk, a parked car, a parking meter, a tree, and a building in the background.
+An image with a sky, a road, a tree, six cars, a refrigerator, a pavement, and a grass.
+An image with a refrigerator, six cars, a sky, a road, a tree, a grass, and a pavement.
+An image with a tree, a grass, six cars, a refrigerator, a pavement, a road, and a sky.
+An image with a tree, six cars, a sky, a road, a pavement, a refrigerator, and a grass.
+An image with a grass, a road, six cars, a tree, a pavement, a sky, and a refrigerator.

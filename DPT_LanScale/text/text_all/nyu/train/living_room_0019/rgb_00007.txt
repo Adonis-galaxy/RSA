@@ -8,3 +8,8 @@ A man and woman shaking hands over a table.
 A man and a woman are seated at a table in a living room, engaged in a conversation, with a laptop and a potted plant nearby.
 A man and a woman are sitting at a table in a living room, with a laptop and a potted plant on the table. The man is holding a piece of paper towards the woman.
 A man and a woman are seated at a dining table in a living room, with a man extending his hand towards a woman who is holding a piece of paper.
+An image with five chairs, a ceiling, a shelf, a book, a curtain, a window, a vase, two people, a wall, a couch, two laptops, a dining, and two potteds.
+An image with two potteds, a ceiling, a curtain, a vase, five chairs, a shelf, two laptops, a dining, a wall, two people, a window, a couch, and a book.
+An image with five chairs, a shelf, a wall, a couch, two laptops, a curtain, two potteds, a dining, two people, a ceiling, a window, a vase, and a book.
+An image with a vase, a curtain, two people, a shelf, two potteds, five chairs, two laptops, a dining, a ceiling, a window, a wall, a book, and a couch.
+An image with five chairs, two laptops, a curtain, two potteds, a window, a couch, a vase, two people, a ceiling, a shelf, a wall, a dining, and a book.

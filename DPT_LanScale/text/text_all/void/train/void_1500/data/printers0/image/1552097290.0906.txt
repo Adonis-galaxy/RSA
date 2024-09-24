@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it, and a wall with posters and fly
 The image shows a whiteboard with writing on it, and two printers on a table in a room with posters on the wall.
 The image shows a white wall with three posters, two printers, and a whiteboard with red writing.
 The image shows a wall with posters and a whiteboard, with two printers placed on a table in the foreground.
+An image with a wall, a paper, and a toaster.
+An image with a wall, a toaster, and a paper.
+An image with a paper, a toaster, and a wall.
+An image with a toaster, a paper, and a wall.
+An image with a wall, a toaster, and a paper.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street with parked cars, a bicyclist, and pedestrians, under a bright sunny day.
 The image shows a narrow street lined with parked cars and buildings, with a person riding a bicycle in the foreground and a person walking in the background.
 A quiet residential street with parked cars, a bicyclist, and pedestrians, under a bright sunny sky.
+An image with two bicycles, ten cars, a truck, a sky, a grass, a tree, a house, two people, a pavement, a road, and a stairs.
+An image with ten cars, a house, a tree, a truck, two bicycles, a sky, a grass, two people, a pavement, a stairs, and a road.
+An image with ten cars, two bicycles, a stairs, two people, a sky, a grass, a house, a road, a tree, a truck, and a pavement.
+An image with ten cars, a house, a sky, two people, a grass, a stairs, two bicycles, a road, a tree, a pavement, and a truck.
+An image with ten cars, a pavement, a truck, two people, a stairs, a sky, a road, two bicycles, a tree, a grass, and a house.

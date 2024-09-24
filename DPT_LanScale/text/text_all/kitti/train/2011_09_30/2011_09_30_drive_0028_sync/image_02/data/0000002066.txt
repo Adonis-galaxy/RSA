@@ -8,3 +8,8 @@ The image shows a street with trees and a car.
 A quiet suburban street, lined with trees and parked cars, leads to a cul-de-sac.
 The image shows a tree-lined street with a car parked on the side, a stop sign, and a bench.
 A quiet suburban street with a curved layout, lined with trees and parked cars, leading to a cul-de-sac.
+An image with a house, a stop, a tree, a truck, a road, a grass, a car, and a sky.
+An image with a road, a grass, a truck, a sky, a car, a stop, a house, and a tree.
+An image with a grass, a car, a sky, a truck, a tree, a house, a road, and a stop.
+An image with a truck, a house, a road, a grass, a sky, a tree, a car, and a stop.
+An image with a tree, a car, a sky, a road, a house, a truck, a grass, and a stop.

@@ -8,3 +8,8 @@ A glass partition in a room.
 The image shows an interior space with a glass partition, a room with a table and chairs, and a monitor on the wall.
 The image shows a large room with a glass partition, containing a table and chairs, and a television mounted on the wall.
 The image shows an interior space with a glass partition, a table and chairs, and a television mounted on the wall.
+An image with a floor, five chairs, a light, a ceiling, a tv, a door, and a wall.
+An image with five chairs, a light, a tv, a wall, a floor, a ceiling, and a door.
+An image with five chairs, a floor, a door, a tv, a wall, a ceiling, and a light.
+An image with a ceiling, a light, a tv, five chairs, a floor, a door, and a wall.
+An image with a floor, a wall, five chairs, a door, a ceiling, a light, and a tv.

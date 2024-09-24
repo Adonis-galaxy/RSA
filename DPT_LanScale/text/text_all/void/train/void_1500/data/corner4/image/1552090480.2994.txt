@@ -8,3 +8,8 @@ A black computer tower on the floor.
 A black computer tower with a red light on the side, sitting on a blue carpeted floor next to a white power cord.
 A black computer tower with a red light on the side, sitting on a blue carpeted floor.
 A black computer tower with a red power light, sitting on a blue carpeted floor, next to a white power strip and a black keyboard.
+An image with a floor, a door, a wall, a tv, and a keyboard.
+An image with a keyboard, a tv, a floor, a door, and a wall.
+An image with a wall, a keyboard, a floor, a tv, and a door.
+An image with a tv, a wall, a door, a floor, and a keyboard.
+An image with a door, a tv, a keyboard, a wall, and a floor.

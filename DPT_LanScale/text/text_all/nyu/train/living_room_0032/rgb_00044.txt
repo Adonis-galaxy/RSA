@@ -8,3 +8,8 @@ A view of kitchen.
 The image shows an empty room with a kitchenette area featuring a microwave, a small refrigerator, and a sink. The room has a carpeted floor and is illuminated by natural light coming through the window blinds.
 The image shows a small, empty room with a large window, a black microwave, a white refrigerator, and a black door.
 The image shows a spacious, well-lit kitchen with a large window, a black refrigerator, a white microwave, a black oven, a white cabinet, and a black countertop.
+An image with a refrigerator, a cabinet, a oven, a counter, a microwave, two bottles, a rug, a window, a wall, and a sink.
+An image with a rug, a sink, a counter, two bottles, a cabinet, a wall, a microwave, a oven, a window, and a refrigerator.
+An image with a sink, a cabinet, a refrigerator, two bottles, a window, a oven, a wall, a microwave, a rug, and a counter.
+An image with two bottles, a sink, a refrigerator, a window, a microwave, a oven, a counter, a rug, a wall, and a cabinet.
+An image with a refrigerator, a counter, a window, a microwave, two bottles, a sink, a cabinet, a rug, a wall, and a oven.

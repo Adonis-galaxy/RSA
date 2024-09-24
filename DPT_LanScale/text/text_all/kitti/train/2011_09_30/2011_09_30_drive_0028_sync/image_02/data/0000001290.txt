@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A serene residential street, lined with trees and houses, where a cyclist is enjoying a peaceful ride.
 A tree-lined street with a car parked on the side, a person riding a bicycle, and a white building with a balcony in the background.
 A tree-lined street with a sidewalk, apartment buildings, and a cyclist.
+An image with a house, a bicycle, a pavement, a sky, a tree, a car, a grass, a person, and a road.
+An image with a pavement, a bicycle, a sky, a car, a person, a road, a house, a tree, and a grass.
+An image with a pavement, a house, a person, a bicycle, a car, a tree, a grass, a sky, and a road.
+An image with a house, a pavement, a person, a grass, a bicycle, a sky, a car, a road, and a tree.
+An image with a sky, a tree, a road, a bicycle, a house, a pavement, a person, a grass, and a car.

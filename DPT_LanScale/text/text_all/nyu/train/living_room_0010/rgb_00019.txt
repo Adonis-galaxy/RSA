@@ -8,3 +8,8 @@ A living room with a couch, a television, a lamp, and a plant.
 A cozy living room scene with a comfortable couch, a flat-screen TV, a potted plant, and a lamp.
 A small living room with a beige couch, a flat-screen TV, a floor lamp, and a potted plant.
 A cozy living room with a beige couch, a flat-screen TV, a floor lamp, and a potted plant.
+An image with a door, a tv, a ceiling, a potted, a wall, and a couch.
+An image with a door, a ceiling, a potted, a wall, a tv, and a couch.
+An image with a tv, a ceiling, a door, a couch, a wall, and a potted.
+An image with a door, a couch, a ceiling, a potted, a tv, and a wall.
+An image with a ceiling, a potted, a door, a couch, a wall, and a tv.

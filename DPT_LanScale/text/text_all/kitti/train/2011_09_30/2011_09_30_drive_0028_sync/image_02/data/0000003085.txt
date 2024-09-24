@@ -8,3 +8,8 @@ A woman walking down a tree-lined street.
 A woman walks down a tree-lined street, passing by a woman who is walking her dog.
 A woman in a white tank top walks down a narrow, tree-lined street between two-story buildings, with a dog on a leash following her.
 A narrow, tree-lined street in a residential area, with two women walking on the sidewalk and a dog on a leash.
+An image with a sky, four cars, a road, two people, a house, a pavement, a tree, and a dog.
+An image with a dog, four cars, a house, a pavement, two people, a road, a tree, and a sky.
+An image with four cars, a tree, two people, a sky, a dog, a road, a pavement, and a house.
+An image with four cars, two people, a tree, a dog, a road, a sky, a house, and a pavement.
+An image with four cars, a tree, a house, a dog, a road, two people, a pavement, and a sky.

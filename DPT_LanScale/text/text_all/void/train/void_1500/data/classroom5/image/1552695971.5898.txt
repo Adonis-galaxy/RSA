@@ -8,3 +8,8 @@ The image shows a row of black chairs with silver legs.
 The image shows a row of black chairs lined up against a wall, with a wooden desk in the foreground.
 The image shows a long wooden desk with several black chairs, a black keyboard, and a black mouse. The floor is carpeted, and the chairs are arranged in a row.
 The image shows a long wooden desk with several black chairs, a keyboard, and a mouse, all set against a carpeted floor.
+An image with four chairs, two mice, a tv, a wall, a table, a rug, and a keyboard.
+An image with two mice, a tv, four chairs, a table, a keyboard, a rug, and a wall.
+An image with a table, a wall, two mice, four chairs, a keyboard, a rug, and a tv.
+An image with four chairs, a table, a keyboard, two mice, a rug, a wall, and a tv.
+An image with a keyboard, a wall, four chairs, two mice, a rug, a table, and a tv.

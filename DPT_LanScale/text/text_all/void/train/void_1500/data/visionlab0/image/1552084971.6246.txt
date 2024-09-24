@@ -8,3 +8,8 @@ A man is sleeping in a chair in an office.
 A man is leaning back in his office chair, with his head resting on the desk, and his feet propped up on a table.
 A man is sitting in a chair at a desk with a computer monitor, a backpack, and a book on the desk.
 A man is sitting in a chair at a desk with a computer monitor, a backpack on a table, and a book on the desk.
+An image with two chairs, a wall, a person, a door, a floor, a paper, a suitcase, two books, and a table.
+An image with a table, two chairs, two books, a door, a paper, a person, a wall, a suitcase, and a floor.
+An image with two chairs, a wall, a table, a suitcase, two books, a door, a floor, a paper, and a person.
+An image with a floor, a door, a suitcase, a table, a wall, two books, a paper, a person, and two chairs.
+An image with a paper, two chairs, a wall, a table, a door, two books, a person, a floor, and a suitcase.

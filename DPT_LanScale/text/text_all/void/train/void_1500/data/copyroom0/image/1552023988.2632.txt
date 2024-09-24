@@ -8,3 +8,8 @@ The image shows a door with a glass window, through which a red car can be seen.
 The image shows a doorway with a glass panel, leading to a room with a red car visible through the glass.
 The image shows a yellow door with a glass window, leading to a room with a red car and a blue trash can.
 The image shows a doorway leading to a room with a red car visible through the glass, and there is a blue trash can to the left and a yellow cabinet to the right.
+An image with a cabinet, a shelf, a wall, and a floor.
+An image with a shelf, a wall, a cabinet, and a floor.
+An image with a floor, a shelf, a wall, and a cabinet.
+An image with a floor, a wall, a cabinet, and a shelf.
+An image with a wall, a floor, a cabinet, and a shelf.

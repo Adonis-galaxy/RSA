@@ -8,3 +8,8 @@ The image is a photograph of a narrow street lined with parked cars and building
 The image captures a quiet residential street, with parked cars lining the sidewalk and apartment buildings forming a backdrop.
 The image shows a narrow street lined with parked cars and buildings, with a man standing on the sidewalk.
 A narrow street lined with parked cars and buildings, with a man standing on the sidewalk.
+An image with a road, eleven cars, a person, a tree, a wall, a pavement, a truck, a fence, and a house.
+An image with a tree, a person, a pavement, eleven cars, a truck, a road, a wall, a fence, and a house.
+An image with eleven cars, a fence, a road, a person, a pavement, a wall, a house, a tree, and a truck.
+An image with a pavement, eleven cars, a truck, a wall, a road, a person, a fence, a tree, and a house.
+An image with a truck, eleven cars, a wall, a tree, a house, a road, a person, a pavement, and a fence.

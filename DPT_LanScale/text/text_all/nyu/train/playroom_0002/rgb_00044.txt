@@ -8,3 +8,8 @@ The image shows a room with a bed, a table, a television, and a closet.
 The image captures a cluttered room with a disassembled piece of furniture, a table with a box on it, and a bed with a blue sheet, all set against a yellow wall.
 The image shows a small, cluttered room with a bed, a table, a TV, a refrigerator, and a window.
 The image depicts a cluttered room with a disorganized layout, featuring a bed, a table, a closet, and a television.
+An image with a door, a wall, a rug, a couch, a ceiling, a cabinet, a window, a refrigerator, a paper, and a dining.
+An image with a ceiling, a wall, a refrigerator, a window, a couch, a door, a paper, a dining, a cabinet, and a rug.
+An image with a refrigerator, a door, a cabinet, a rug, a wall, a couch, a paper, a window, a dining, and a ceiling.
+An image with a dining, a refrigerator, a couch, a cabinet, a window, a ceiling, a rug, a wall, a paper, and a door.
+An image with a cabinet, a window, a paper, a ceiling, a refrigerator, a dining, a wall, a rug, a door, and a couch.

@@ -8,3 +8,8 @@ The image is a photograph of a street corner with a curved sidewalk, a parking m
 The image captures a quiet residential street corner, with a parked car, a mailbox, a newspaper stand, and a street sign, all under the shade of trees.
 The image shows a street corner with a curved sidewalk, a parking meter, a sign, a tree, and a car.
 The image depicts a residential street corner with a curved sidewalk, a parked car, a mailbox, a street sign, and a tree.
+An image with a sky, a pavement, a road, three cars, a house, a tree, and a grass.
+An image with three cars, a tree, a grass, a road, a pavement, a sky, and a house.
+An image with three cars, a house, a pavement, a grass, a road, a sky, and a tree.
+An image with three cars, a road, a house, a sky, a pavement, a tree, and a grass.
+An image with three cars, a pavement, a grass, a sky, a house, a road, and a tree.

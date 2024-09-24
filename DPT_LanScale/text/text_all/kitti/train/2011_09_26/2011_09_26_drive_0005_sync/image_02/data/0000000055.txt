@@ -8,3 +8,8 @@ The image is a color photograph of a city street.
 The image captures a bustling city street scene with a mix of vehicles, pedestrians, and urban architecture.
 A man rides a bicycle on a street with parked cars, a truck, and a bus, under a clear sky.
 A bustling city street with a mix of vehicles, pedestrians, and cyclists, under a clear blue sky.
+An image with a tree, a handbag, three bicycles, a road, two people, three trucks, a building, a pavement, and a car.
+An image with three trucks, a handbag, a building, a tree, two people, a pavement, a road, a car, and three bicycles.
+An image with three bicycles, a car, three trucks, two people, a road, a handbag, a pavement, a building, and a tree.
+An image with a car, three bicycles, a handbag, a building, a tree, two people, a road, a pavement, and three trucks.
+An image with a handbag, a road, two people, a tree, three trucks, a building, a pavement, a car, and three bicycles.

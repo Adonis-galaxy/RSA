@@ -8,3 +8,8 @@ The image is a photograph of a clothing store.
 The image captures the essence of a well-organized clothing store with a variety of shirts and sweaters neatly displayed on shelves and racks, showcasing the relationship between the items and the store's layout.
 The image shows a large retail store with aisles filled with various clothing items, including shirts, sweatshirts, and jackets, displayed on racks and hanging from the ceiling.
 The image shows a well-lit clothing store with a variety of shirts and sweaters displayed on shelves and hanging on racks, with a clear pathway leading to the back of the store.
+An image with a light, a banner, a floor, a wall, a ceiling, and a tree.
+An image with a light, a floor, a banner, a ceiling, a tree, and a wall.
+An image with a ceiling, a light, a floor, a banner, a wall, and a tree.
+An image with a tree, a ceiling, a light, a floor, a banner, and a wall.
+An image with a floor, a ceiling, a wall, a tree, a light, and a banner.

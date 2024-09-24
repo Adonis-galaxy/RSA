@@ -8,3 +8,8 @@ A yellow piece of paper on a table.
 A yellow piece of paper on a blue table.
 A yellow piece of paper on a blue table with a white top.
 The image shows a white desk with a blue frame, a yellow piece of paper on the desk, and a blue chair in the foreground.
+An image with a floor, a chair, a toothbrush, and a table.
+An image with a floor, a toothbrush, a table, and a chair.
+An image with a table, a chair, a floor, and a toothbrush.
+An image with a table, a chair, a floor, and a toothbrush.
+An image with a floor, a toothbrush, a table, and a chair.

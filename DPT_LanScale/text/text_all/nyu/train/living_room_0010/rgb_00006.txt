@@ -8,3 +8,8 @@ A living room with a couch, a television, and a lamp.
 The image captures a cozy living room scene with a focus on a comfortable couch, a television, and a potted plant, all illuminated by a soft light source.
 A dimly lit living room with a large couch, a small television, a potted plant, and a floor lamp.
 The image shows a dimly lit living room with a couch, a flat-screen TV, a potted plant, and a floor lamp.
+An image with a couch, a window, a ceiling, a wall, a potted, and a tv.
+An image with a window, a ceiling, a wall, a tv, a potted, and a couch.
+An image with a tv, a wall, a window, a ceiling, a couch, and a potted.
+An image with a window, a potted, a wall, a tv, a couch, and a ceiling.
+An image with a tv, a window, a ceiling, a couch, a wall, and a potted.

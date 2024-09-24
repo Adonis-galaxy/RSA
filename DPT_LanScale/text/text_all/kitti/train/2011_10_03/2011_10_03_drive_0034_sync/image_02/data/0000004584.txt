@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 A quiet residential street, with parked cars and a brick wall, under a clear blue sky.
 A narrow street with parked cars, a truck, and a white box on the sidewalk.
 A quiet residential street with parked cars, a brick wall, and a narrow road.
+An image with two cars, a road, a pavement, a grass, a tree, a sky, a refrigerator, and a wall.
+An image with a sky, two cars, a refrigerator, a grass, a pavement, a tree, a road, and a wall.
+An image with a refrigerator, two cars, a sky, a pavement, a tree, a road, a grass, and a wall.
+An image with a sky, a grass, a refrigerator, a tree, a pavement, two cars, a wall, and a road.
+An image with a road, a sky, two cars, a pavement, a wall, a grass, a tree, and a refrigerator.

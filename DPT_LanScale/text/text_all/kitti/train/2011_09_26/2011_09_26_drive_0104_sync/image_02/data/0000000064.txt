@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a truck.
 The image captures a bustling city street, filled with parked cars and a few moving vehicles, all navigating the narrow road between tall buildings under a clear sky.
 The image shows a busy city street with tall buildings, parked cars, and a large white van driving down the road.
 A busy city street with parked cars, a narrow road, and a mix of old and new buildings.
+An image with eleven cars, a building, a person, two trucks, a road, a tree, and a grass.
+An image with eleven cars, a person, a grass, two trucks, a road, a tree, and a building.
+An image with a building, a person, eleven cars, a road, a grass, two trucks, and a tree.
+An image with a grass, eleven cars, a person, a road, two trucks, a tree, and a building.
+An image with a road, a building, eleven cars, a grass, two trucks, a person, and a tree.

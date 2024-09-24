@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a street, passing by a house with a hedge and a white wall, under a clear blue sky.
 A person riding a motorcycle on a street next to a large bush and a white wall.
 A person riding a motorcycle on a street with a white wall, green bushes, and a red roof.
+An image with a pavement, a road, a tree, a sky, a wall, a motorcycle, a person, and a roof.
+An image with a tree, a person, a wall, a road, a pavement, a sky, a motorcycle, and a roof.
+An image with a sky, a person, a road, a roof, a pavement, a tree, a wall, and a motorcycle.
+An image with a person, a sky, a pavement, a motorcycle, a wall, a roof, a road, and a tree.
+An image with a road, a wall, a tree, a sky, a roof, a pavement, a person, and a motorcycle.

@@ -8,3 +8,8 @@ The image shows a street scene with a black car parked on the side of the road.
 A quiet residential street with parked cars and a clear sky.
 A black car is parked on the side of a narrow street lined with houses and trees, with a white car visible in the distance.
 A quiet residential street with parked cars, a sidewalk, and a mix of houses and trees.
+An image with three cars, a house, two walls, a pavement, a tree, a road, and a sky.
+An image with a tree, a house, two walls, three cars, a sky, a pavement, and a road.
+An image with a tree, a sky, a road, three cars, two walls, a pavement, and a house.
+An image with two walls, a tree, three cars, a sky, a road, a pavement, and a house.
+An image with a road, a tree, three cars, a sky, a pavement, two walls, and a house.

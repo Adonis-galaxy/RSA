@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with a large white house on the left, a blue sign on the right, and a person walking on the sidewalk.
 The image shows a residential street with a large white house on the left, a smaller white house on the right, and a person walking on the sidewalk.
 A quiet residential street with a white house, greenery, and a few parked cars.
+An image with a pavement, three cars, a grass, a tree, a person, a house, a sky, and a road.
+An image with a person, a tree, a house, three cars, a grass, a pavement, a road, and a sky.
+An image with a person, three cars, a pavement, a house, a road, a sky, a tree, and a grass.
+An image with three cars, a road, a tree, a pavement, a sky, a person, a house, and a grass.
+An image with a sky, a road, a person, a grass, a pavement, three cars, a house, and a tree.

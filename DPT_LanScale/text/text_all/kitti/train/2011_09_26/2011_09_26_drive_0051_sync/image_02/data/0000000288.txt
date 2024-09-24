@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a moment of everyday life on a suburban street, with a focus on the interaction between the car and the surrounding environment.
 A large vehicle is driving down a tree-lined street, passing parked cars and a building with a sign.
 A busy street scene with a mix of vehicles, pedestrians, and parked cars, leading to a commercial area with a large billboard.
+An image with twenty cars, a road, a grass, a bus, a building, a sky, and a tree.
+An image with twenty cars, a bus, a road, a grass, a tree, a sky, and a building.
+An image with twenty cars, a road, a tree, a building, a sky, a bus, and a grass.
+An image with twenty cars, a grass, a road, a tree, a bus, a sky, and a building.
+An image with twenty cars, a bus, a road, a tree, a sky, a grass, and a building.

@@ -8,3 +8,8 @@ The image shows a room with several black chairs on a carpeted floor.
 The image shows a room with two black chairs on a carpeted floor, positioned in a way that they face each other.
 The image shows a room with two black chairs with silver legs and a brown carpet.
 The image shows a room with two black chairs on a carpeted floor, positioned in front of a white wall.
+An image with three chairs, a wall, and a rug.
+An image with three chairs, a wall, and a rug.
+An image with a rug, three chairs, and a wall.
+An image with a rug, a wall, and three chairs.
+An image with a wall, three chairs, and a rug.

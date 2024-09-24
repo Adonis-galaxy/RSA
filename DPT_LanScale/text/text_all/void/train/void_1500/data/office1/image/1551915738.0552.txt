@@ -8,3 +8,8 @@ A black chair at a table.
 A black chair is positioned in front of a table with a white mug and a book on it.
 A black leather chair is positioned in front of a white marble table with a white mug and a book on it.
 A black leather chair is positioned in front of a white marble table with a white mug and a stack of books on it.
+An image with two dinings, four books, a window, a cell, two chairs, a cup, and a wall.
+An image with four books, two chairs, a window, a wall, a cell, two dinings, and a cup.
+An image with a window, a wall, two chairs, two dinings, four books, a cell, and a cup.
+An image with two dinings, two chairs, a window, a cup, four books, a cell, and a wall.
+An image with a cell, four books, two chairs, two dinings, a window, a cup, and a wall.

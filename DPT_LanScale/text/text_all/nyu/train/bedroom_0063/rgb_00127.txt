@@ -8,3 +8,8 @@ A bedroom with a bed and a picture on the wall.
 The image shows a bedroom with two beds, one of which has a colorful quilt and is covered with a white sheet, while the other bed is unmade with a white sheet and a pillow. There is a framed picture on the wall above the bed with the colorful quilt. The room has a doorway leading to a closet with hanging clothes.
 The image shows a small room with two beds, one of which is covered with a colorful quilt. There is a framed picture on the wall above the beds. The room appears to be a dormitory or a small hotel room.
 The image shows a small, simple bedroom with a bed, a chair, and a doorway leading to a closet.
+An image with a rug, a table, two beds, a wall, a door, and a chair.
+An image with two beds, a chair, a rug, a table, a door, and a wall.
+An image with a rug, a chair, a wall, two beds, a door, and a table.
+An image with two beds, a door, a table, a rug, a chair, and a wall.
+An image with a wall, two beds, a rug, a table, a chair, and a door.

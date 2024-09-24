@@ -8,3 +8,8 @@ A blue chair in an office setting.
 A blue chair is next to a desk with a computer monitor and keyboard.
 The image shows a small office space with a desk, chair, and a blue cushioned bench.
 The image shows an office setting with a desk, chair, and a blue cushioned bench.
+An image with a rug, a wall, a mouse, a paper, a table, a keyboard, a chair, a cabinet, a couch, and a tv.
+An image with a mouse, a couch, a keyboard, a chair, a table, a cabinet, a wall, a paper, a tv, and a rug.
+An image with a paper, a wall, a tv, a chair, a mouse, a table, a couch, a rug, a keyboard, and a cabinet.
+An image with a chair, a table, a keyboard, a mouse, a paper, a rug, a tv, a couch, a cabinet, and a wall.
+An image with a couch, a wall, a tv, a table, a cabinet, a rug, a paper, a keyboard, a mouse, and a chair.

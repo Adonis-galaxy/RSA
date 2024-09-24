@@ -8,3 +8,8 @@ A bed in a room.
 The image captures a simple, uncluttered bedroom with a neatly made bed, a window with blinds, and a single umbrella leaning against the wall.
 The image shows a small, dimly lit bedroom with a single bed, a window with closed blinds, and a nightstand with a lamp.
 The image shows a small, dimly lit bedroom with a single bed, a window with closed blinds, and a nightstand with a lamp.
+An image with a window, a bed, a floor, a ceiling, and a wall.
+An image with a window, a wall, a bed, a ceiling, and a floor.
+An image with a floor, a window, a bed, a ceiling, and a wall.
+An image with a window, a ceiling, a wall, a floor, and a bed.
+An image with a bed, a wall, a window, a floor, and a ceiling.

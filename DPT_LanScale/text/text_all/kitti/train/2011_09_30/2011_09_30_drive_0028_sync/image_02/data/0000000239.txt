@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white van.
 The image captures a narrow street scene with parked cars, a white van, and a person, highlighting the close proximity of the vehicles and the urban setting.
 A narrow street with parked cars and a white van, with a large building in the background.
 A narrow street in a European city, with parked cars and a white van, leading to a tall building with a red roof.
+An image with six cars, a stop, a truck, a road, a tree, a person, a house, and a sky.
+An image with a truck, six cars, a tree, a person, a stop, a sky, a house, and a road.
+An image with a road, a truck, a house, six cars, a tree, a stop, a person, and a sky.
+An image with six cars, a truck, a tree, a stop, a person, a sky, a house, and a road.
+An image with a road, six cars, a stop, a tree, a person, a truck, a sky, and a house.

@@ -8,3 +8,8 @@ The image shows an office with a white door and a table with chairs.
 The image captures an office space with a large room containing multiple tables and chairs, a door with a red fire alarm, and a hallway leading to other rooms.
 The image shows an indoor space with a large room containing multiple tables and chairs, a door with a window, and a hallway with a white wall and a red fire alarm.
 The image shows an office space with a large room containing multiple tables and chairs, a door with a window, and a hallway leading to other rooms.
+An image with seven chairs, a wall, a door, a floor, a ceiling, a light, a paper, and a dining.
+An image with seven chairs, a ceiling, a dining, a paper, a door, a floor, a wall, and a light.
+An image with a paper, a dining, a ceiling, seven chairs, a floor, a wall, a door, and a light.
+An image with seven chairs, a wall, a ceiling, a light, a floor, a door, a paper, and a dining.
+An image with a paper, a ceiling, seven chairs, a light, a dining, a floor, a wall, and a door.

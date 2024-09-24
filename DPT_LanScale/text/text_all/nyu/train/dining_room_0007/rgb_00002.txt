@@ -8,3 +8,8 @@ A room with a fireplace, a table with chairs, and a picture on the wall.
 The image captures a cozy dining area with a warm and inviting ambiance, featuring a fireplace, a table with chairs, and a framed artwork on the wall.
 The image shows a room with a fireplace, a dining table with white chairs, and a framed picture on the wall.
 The image shows a cozy living room with a fireplace, a dining area with a table and chairs, and a doorway leading to another room.
+An image with four chairs, a shelf, a tv, two walls, two dinings, a ceiling, and a floor.
+An image with a tv, four chairs, a floor, a ceiling, two dinings, two walls, and a shelf.
+An image with two dinings, a tv, four chairs, a shelf, a floor, a ceiling, and two walls.
+An image with two walls, two dinings, a shelf, four chairs, a floor, a tv, and a ceiling.
+An image with two walls, four chairs, a shelf, a tv, a ceiling, a floor, and two dinings.

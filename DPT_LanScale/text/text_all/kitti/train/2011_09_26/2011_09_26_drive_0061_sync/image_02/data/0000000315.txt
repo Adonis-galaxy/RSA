@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a brick wall.
 The image captures a serene residential street, lined with parked cars and lush greenery, leading to a quaint red garage.
 The image shows a narrow street lined with parked cars, a brick wall, and a red garage door. The street is shaded by trees, and the sky is visible in the background.
 A narrow, tree-lined street with parked cars and a brick wall on one side, leading to a red garage.
+An image with five cars, a wall, a pavement, a tree, a sky, a road, a fence, a roof, and a building.
+An image with five cars, a fence, a pavement, a road, a tree, a building, a roof, a wall, and a sky.
+An image with five cars, a tree, a road, a fence, a building, a roof, a wall, a sky, and a pavement.
+An image with five cars, a pavement, a roof, a road, a fence, a tree, a building, a wall, and a sky.
+An image with five cars, a sky, a roof, a wall, a road, a building, a fence, a tree, and a pavement.

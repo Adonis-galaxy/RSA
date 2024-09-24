@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a typical day on a suburban street, with cars driving on the road and traffic lights controlling the flow of traffic.
 The image shows a wide, empty road with a few cars, a traffic light, and a street sign.
 The image depicts a wide, multi-lane road with traffic, lined by trees and a grassy median, leading to a series of traffic lights and a roundabout at the intersection.
+An image with five traffics, a sky, a fence, five cars, a grass, a stop, a road, and a tree.
+An image with a fence, five traffics, a road, a tree, five cars, a grass, a sky, and a stop.
+An image with a stop, five cars, five traffics, a fence, a tree, a road, a grass, and a sky.
+An image with a sky, five traffics, a tree, five cars, a stop, a road, a grass, and a fence.
+An image with five traffics, a stop, a grass, a road, five cars, a sky, a fence, and a tree.

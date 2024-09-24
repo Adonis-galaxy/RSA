@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a microwave and a sink.
 A blurry image of a kitchen counter with a microwave and a sink.
 The image shows a small kitchen with a sink, a microwave, and a cabinet.
 The image shows a small kitchen with a sink, a microwave, and a cabinet.
+An image with a wall, a light, a counter, a paper, a sink, a bottle, a bowl, and a microwave.
+An image with a paper, a light, a counter, a microwave, a bowl, a wall, a bottle, and a sink.
+An image with a light, a wall, a sink, a bottle, a bowl, a counter, a paper, and a microwave.
+An image with a bowl, a bottle, a microwave, a paper, a counter, a light, a wall, and a sink.
+An image with a counter, a bottle, a paper, a wall, a sink, a bowl, a microwave, and a light.

@@ -8,3 +8,8 @@ A classroom with a computer and a lamp.
 A science lab with a computer, a lamp, and a blue cart.
 The image shows a small lab with a desk, a computer, a lamp, and a blue chair.
 The image shows a laboratory setting with a desk, a computer, a chair, and various equipment and supplies.
+An image with a light, a wall, a chair, a keyboard, a counter, a cabinet, a cardboard, a paper, and a floor.
+An image with a keyboard, a chair, a wall, a cabinet, a floor, a light, a paper, a counter, and a cardboard.
+An image with a keyboard, a counter, a cabinet, a light, a chair, a floor, a cardboard, a paper, and a wall.
+An image with a cardboard, a floor, a wall, a paper, a keyboard, a counter, a cabinet, a light, and a chair.
+An image with a keyboard, a floor, a cardboard, a paper, a light, a wall, a counter, a cabinet, and a chair.

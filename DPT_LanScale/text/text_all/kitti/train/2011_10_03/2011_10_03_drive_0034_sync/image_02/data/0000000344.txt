@@ -8,3 +8,8 @@ The image shows a street with a white car and a truck.
 A white car is driving down a tree-lined street, passing by a house and a parked black SUV.
 A white car is driving down a tree-lined street, passing a house and two parked cars.
 A white car is driving down a tree-lined street with a wall on the right side, and two other cars are parked on the left side of the street.
+An image with a road, a tree, two cars, a dirt, a truck, a house, a wall, and a sky.
+An image with two cars, a sky, a road, a house, a tree, a wall, a dirt, and a truck.
+An image with a wall, a dirt, a house, a tree, a road, two cars, a sky, and a truck.
+An image with a dirt, a road, two cars, a sky, a tree, a wall, a house, and a truck.
+An image with a dirt, a sky, a truck, a house, a tree, a wall, two cars, and a road.

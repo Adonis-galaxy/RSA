@@ -8,3 +8,8 @@ A blurry image of a desk with a coffee cup on it.
 A blurry office cubicle with a desk, chair, and a cup of coffee.
 The image shows a small office space with a desk, chair, and a cup of coffee.
 The image shows a blurry office setting with a desk, chair, and a cup of coffee.
+An image with a chair, a table, a laptop, a keyboard, two cups, a paper, a cabinet, and a wall.
+An image with a table, a cabinet, a laptop, a wall, a chair, two cups, a keyboard, and a paper.
+An image with a wall, a laptop, a keyboard, a paper, two cups, a table, a chair, and a cabinet.
+An image with a cabinet, two cups, a chair, a laptop, a wall, a keyboard, a table, and a paper.
+An image with a paper, two cups, a chair, a wall, a table, a cabinet, a keyboard, and a laptop.

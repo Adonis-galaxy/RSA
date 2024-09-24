@@ -8,3 +8,8 @@ A black chair in front of a white table.
 The image captures a simple, everyday scene with a focus on the relationship between a handbag, a white table, and a chair.
 A small black purse is on a white table next to a whiteboard with a picture of a child.
 A simple, uncluttered office space with a white table, a black chair, a gray bag, and a whiteboard with a single red dot.
+An image with a handbag, two chairs, a wall, a cell, a dining, a door, a window, and a person.
+An image with two chairs, a handbag, a dining, a person, a door, a cell, a window, and a wall.
+An image with a dining, a window, a cell, a wall, two chairs, a person, a door, and a handbag.
+An image with a window, a cell, a person, two chairs, a wall, a door, a handbag, and a dining.
+An image with a person, two chairs, a window, a cell, a door, a wall, a handbag, and a dining.

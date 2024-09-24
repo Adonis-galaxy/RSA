@@ -8,3 +8,8 @@ The image shows a living room with a glass table and chairs.
 The image captures a cozy living room with a dining area, featuring a large painting, a comfortable couch, a glass dining table, and a television.
 The image shows a room with a large glass dining table, a couch, a television, and framed artwork on the wall.
 The image shows a living room with a view of the dining area, featuring a glass table, chairs, and a television.
+An image with five chairs, a potted, a couch, a floor, a shelf, a tv, a dining, and a wall.
+An image with a floor, five chairs, a wall, a shelf, a tv, a dining, a potted, and a couch.
+An image with a dining, five chairs, a shelf, a couch, a floor, a potted, a wall, and a tv.
+An image with a tv, a floor, five chairs, a potted, a shelf, a couch, a dining, and a wall.
+An image with a couch, a shelf, a wall, five chairs, a tv, a potted, a dining, and a floor.

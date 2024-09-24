@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image shows a bed with a brown blanket and blue sheets, positioned in a small room with a dresser and a window covered with a brown curtain.
 The image shows a small, neatly made bed with a blue comforter and a brown blanket, positioned in a bedroom with a dresser and a window covered with a brown curtain.
 The image shows a small, neatly made bed with a blue comforter and a brown blanket, positioned in a corner of a room with a white wall and a dresser.
+An image with a rug, a bed, a wall, a curtain, and a cabinet.
+An image with a wall, a cabinet, a rug, a bed, and a curtain.
+An image with a cabinet, a curtain, a bed, a wall, and a rug.
+An image with a curtain, a cabinet, a rug, a bed, and a wall.
+An image with a wall, a cabinet, a curtain, a rug, and a bed.

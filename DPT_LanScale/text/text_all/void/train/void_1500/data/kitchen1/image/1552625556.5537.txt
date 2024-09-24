@@ -8,3 +8,8 @@ The image shows a kitchen with orange cabinets and a white floor.
 The image shows a narrow hallway with orange walls and a gray floor, leading to a kitchen with orange cabinets.
 The image shows a narrow hallway with orange walls and a gray floor, leading to a kitchen with orange cabinets.
 The image shows a narrow hallway with orange walls and a gray floor, leading to a kitchen with orange cabinets.
+An image with a microwave, a cabinet, a window, a refrigerator, and a floor.
+An image with a floor, a window, a microwave, a refrigerator, and a cabinet.
+An image with a microwave, a cabinet, a window, a floor, and a refrigerator.
+An image with a refrigerator, a cabinet, a window, a floor, and a microwave.
+An image with a microwave, a floor, a window, a cabinet, and a refrigerator.

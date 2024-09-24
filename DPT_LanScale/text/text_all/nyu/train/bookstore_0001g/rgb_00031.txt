@@ -8,3 +8,8 @@ The image shows a bookstore with a large bookshelf and a counter.
 The image captures a well-organized bookstore with a variety of books on shelves, a counter with a cash register, and a few stacks of books on the floor, all under a large sign.
 The image shows a bookstore with a large bookshelf filled with books, a counter with a cash register, and a foreground featuring a computer monitor and a stack of books.
 The image shows an interior view of a bookstore with a variety of books on shelves, a counter with a cash register, and a large poster on the wall.
+An image with a shelf, ten books, a cabinet, a ceiling, a floor, a microwave, and a wall.
+An image with ten books, a cabinet, a wall, a ceiling, a shelf, a microwave, and a floor.
+An image with ten books, a ceiling, a wall, a floor, a microwave, a cabinet, and a shelf.
+An image with ten books, a cabinet, a microwave, a floor, a wall, a shelf, and a ceiling.
+An image with ten books, a microwave, a shelf, a floor, a wall, a cabinet, and a ceiling.

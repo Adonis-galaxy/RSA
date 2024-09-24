@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a sunny day in a suburban neighborhood, where parked cars line the street, and a sidewalk runs parallel to the road, with trees providing a canopy overhead.
 The image shows a narrow street lined with parked cars and trees, with a clear sky overhead.
 A tree-lined street with parked cars on the side, leading to a residential area.
+An image with eight cars, a sky, a building, a road, a truck, a pavement, a dirt, and a tree.
+An image with a sky, eight cars, a dirt, a road, a truck, a pavement, a building, and a tree.
+An image with eight cars, a sky, a dirt, a building, a pavement, a road, a tree, and a truck.
+An image with a building, eight cars, a tree, a dirt, a sky, a pavement, a truck, and a road.
+An image with a pavement, eight cars, a tree, a sky, a building, a truck, a dirt, and a road.

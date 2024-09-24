@@ -8,3 +8,8 @@ The image shows a street scene with a black car parked on the side of the road.
 The image captures a serene residential street scene, with a black car parked on the side of the road, casting a long shadow on the asphalt, and a blue car driving away from the camera, creating a sense of depth and perspective.
 A narrow street with a few cars, lined by lush greenery and apartment buildings.
 A narrow street with parked cars and a sidewalk, lined by lush greenery and apartment buildings.
+An image with a tree, a house, a pavement, a person, two cars, a wall, a grass, and a road.
+An image with a house, a road, a pavement, a wall, two cars, a tree, a person, and a grass.
+An image with a person, a wall, a tree, a pavement, a grass, a road, a house, and two cars.
+An image with a grass, two cars, a wall, a road, a pavement, a house, a person, and a tree.
+An image with a grass, a tree, a house, a road, two cars, a pavement, a person, and a wall.

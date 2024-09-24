@@ -8,3 +8,8 @@ A silver car is driving through an intersection.
 A silver car is stopped at a crosswalk, waiting for pedestrians to cross the street.
 A small gray car is driving through an intersection in a residential area, surrounded by trees and parked cars.
 A gray car is driving through an intersection with a roundabout, surrounded by trees and buildings, under a clear blue sky.
+An image with a road, a person, a bench, six cars, a truck, a tree, a pavement, a traffic, and a grass.
+An image with six cars, a traffic, a person, a tree, a pavement, a truck, a grass, a bench, and a road.
+An image with six cars, a bench, a road, a tree, a truck, a traffic, a pavement, a person, and a grass.
+An image with six cars, a bench, a traffic, a person, a tree, a pavement, a grass, a truck, and a road.
+An image with six cars, a grass, a tree, a bench, a truck, a road, a person, a pavement, and a traffic.

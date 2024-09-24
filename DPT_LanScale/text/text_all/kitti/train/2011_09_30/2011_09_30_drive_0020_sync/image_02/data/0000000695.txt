@@ -8,3 +8,8 @@ The image shows a street view of a row of white houses with brown roofs and gara
 The image captures a quiet residential street with two-story houses, parked cars, and a few pedestrians, all under a clear blue sky.
 The image shows a street view of a residential area with two-story houses, a few parked cars, and a sidewalk.
 The image shows a residential street with two-story houses, a paved road, and a parking area with cars parked in front of the houses.
+An image with six cars, a door, a grass, a tree, a pavement, a house, a roof, and a road.
+An image with six cars, a pavement, a tree, a grass, a door, a roof, a house, and a road.
+An image with a door, a roof, six cars, a road, a pavement, a grass, a house, and a tree.
+An image with a tree, six cars, a pavement, a door, a grass, a road, a roof, and a house.
+An image with six cars, a house, a tree, a grass, a pavement, a roof, a road, and a door.

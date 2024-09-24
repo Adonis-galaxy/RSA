@@ -8,3 +8,8 @@ The image shows a street with a white van parked on the side.
 The image captures a quiet residential street, with a white van parked on the side of the road, and a blue sky overhead.
 A narrow street with a white line painted on it, lined with parked cars and buildings.
 A quiet residential street with parked cars and a white van driving down the road.
+An image with a house, a sky, three cars, a pavement, a road, a window, two walls, a building, and a tree.
+An image with three cars, a sky, a road, a window, a pavement, a tree, two walls, a building, and a house.
+An image with a sky, two walls, three cars, a pavement, a road, a building, a window, a house, and a tree.
+An image with two walls, a pavement, a building, three cars, a window, a tree, a road, a sky, and a house.
+An image with a building, a sky, a tree, three cars, a pavement, two walls, a window, a house, and a road.

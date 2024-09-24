@@ -8,3 +8,8 @@ The image shows a group of people standing on a street.
 A group of people standing on a street corner, with a car parked nearby and a bicycle rider in the background.
 A group of people standing on the side of a road, with a blue car parked nearby and a bicycle in the background.
 A group of people stand on a street corner, with a blue car parked nearby and a bicycle rider in the background, under a clear sky.
+An image with five people, a grass, two cars, a pavement, a sky, a road, a tree, and a bicycle.
+An image with five people, a bicycle, two cars, a road, a tree, a sky, a pavement, and a grass.
+An image with five people, a pavement, a road, a bicycle, two cars, a grass, a sky, and a tree.
+An image with five people, two cars, a sky, a bicycle, a road, a tree, a pavement, and a grass.
+An image with a road, five people, two cars, a grass, a sky, a tree, a bicycle, and a pavement.

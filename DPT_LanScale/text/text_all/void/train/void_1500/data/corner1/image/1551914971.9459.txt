@@ -8,3 +8,8 @@ A blue box on a white table.
 A blue box of tissues on a white table in a room with a black desk and a computer.
 The image shows a cluttered office space with a desk, a chair, and various electronic equipment.
 The image shows a cluttered office space with various electronic equipment and a sign that says "Reserved" on a table.
+An image with a wall, a cardboard, a rug, a table, a chair, a tv, and a paper.
+An image with a chair, a table, a wall, a rug, a paper, a tv, and a cardboard.
+An image with a rug, a cardboard, a wall, a chair, a table, a paper, and a tv.
+An image with a rug, a wall, a chair, a cardboard, a paper, a table, and a tv.
+An image with a rug, a cardboard, a chair, a paper, a table, a wall, and a tv.

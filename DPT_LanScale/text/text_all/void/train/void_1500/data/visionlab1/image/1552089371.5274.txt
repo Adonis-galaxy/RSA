@@ -8,3 +8,8 @@ A box with a soccer ball and a computer monitor in it.
 A box with a soccer ball and a computer monitor on a desk.
 The image shows an office environment with a large cardboard box containing a computer monitor and keyboard, and a soccer ball on top of the box.
 The image shows an office environment with a desk containing a computer keyboard, a monitor, and a box with a soccer ball on top.
+An image with a tv, a wall, a table, a paper, a floor, a cardboard, a book, a window, two chairs, a ceiling, two keyboards, and a sports.
+An image with a table, a wall, a floor, a tv, a sports, two keyboards, two chairs, a window, a book, a ceiling, a paper, and a cardboard.
+An image with a wall, a window, a table, a paper, two keyboards, a cardboard, a tv, two chairs, a ceiling, a book, a sports, and a floor.
+An image with a floor, two chairs, two keyboards, a window, a paper, a sports, a book, a ceiling, a tv, a wall, a table, and a cardboard.
+An image with a ceiling, two chairs, a tv, a cardboard, two keyboards, a wall, a paper, a floor, a book, a sports, a table, and a window.

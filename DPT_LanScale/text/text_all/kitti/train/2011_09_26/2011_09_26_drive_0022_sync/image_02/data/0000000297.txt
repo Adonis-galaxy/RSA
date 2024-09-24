@@ -8,3 +8,8 @@ A car is parked on a street.
 A car is parked on a street next to a row of garages, with trees and a house in the background.
 A car is parked on a street next to a row of garages, with trees and a house in the background.
 A narrow, tree-lined street with a row of garages on one side and a parked car on the other, leading to a white house with a covered porch.
+An image with a tree, a road, a pavement, a building, and a car.
+An image with a road, a car, a pavement, a building, and a tree.
+An image with a tree, a road, a pavement, a building, and a car.
+An image with a tree, a building, a pavement, a road, and a car.
+An image with a car, a pavement, a building, a road, and a tree.

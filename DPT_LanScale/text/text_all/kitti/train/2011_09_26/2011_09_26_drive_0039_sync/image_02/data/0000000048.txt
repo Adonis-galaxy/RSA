@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street in a residential area, with parked cars on both sides, a clear sky overhead, and a sense of everyday life in a European city.
 The image shows a narrow street lined with parked cars, with a few vehicles moving along the road. The street is flanked by buildings on both sides, and there are a few potted plants visible on the windowsills of the buildings. The sky is clear and blue, suggesting a sunny day.
 A narrow street in a residential area with parked cars and buildings on both sides.
+An image with ten cars, a potted, a sky, a road, a tree, a truck, a wall, and a window.
+An image with ten cars, a road, a tree, a sky, a wall, a window, a potted, and a truck.
+An image with ten cars, a window, a tree, a potted, a truck, a sky, a wall, and a road.
+An image with ten cars, a truck, a road, a sky, a tree, a potted, a wall, and a window.
+An image with ten cars, a road, a truck, a sky, a window, a potted, a wall, and a tree.

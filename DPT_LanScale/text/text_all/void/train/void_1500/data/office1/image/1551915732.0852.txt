@@ -8,3 +8,8 @@ A black office chair.
 A cluttered office desk with a phone, books, and a chair.
 A desk with a phone, a book, and a magazine on it.
 A cluttered office desk with a phone, books, and a chair.
+An image with three books, a bed, two chairs, a wall, a floor, a table, a cabinet, and a window.
+An image with a bed, two chairs, three books, a wall, a cabinet, a window, a table, and a floor.
+An image with three books, a floor, a bed, a window, a table, a wall, two chairs, and a cabinet.
+An image with two chairs, three books, a window, a cabinet, a table, a wall, a floor, and a bed.
+An image with a wall, three books, a floor, a cabinet, a window, a bed, a table, and two chairs.

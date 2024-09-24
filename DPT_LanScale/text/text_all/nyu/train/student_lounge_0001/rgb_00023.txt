@@ -8,3 +8,8 @@ A room with a table and chairs.
 The image captures a room with a wooden table surrounded by chairs, a bookshelf filled with books, and a window covered with blinds.
 The image shows a room with a large wooden table surrounded by several chairs, a bookshelf filled with books, and a window covered with a white curtain.
 The image shows a room with a wooden table surrounded by chairs, a bookshelf filled with books, and a window covered with blinds.
+An image with seventeen books, eight chairs, a couch, a floor, a shelf, a window, a wall, a curtain, and a dining.
+An image with seventeen books, a shelf, eight chairs, a curtain, a window, a floor, a couch, a wall, and a dining.
+An image with eight chairs, seventeen books, a shelf, a couch, a dining, a curtain, a window, a wall, and a floor.
+An image with seventeen books, a floor, eight chairs, a curtain, a wall, a shelf, a window, a dining, and a couch.
+An image with seventeen books, eight chairs, a curtain, a couch, a dining, a window, a shelf, a floor, and a wall.

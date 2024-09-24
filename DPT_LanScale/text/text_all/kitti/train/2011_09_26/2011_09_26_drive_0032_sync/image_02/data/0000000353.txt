@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a moment of everyday life on a suburban road, with cars and trucks moving along the highway, passing under traffic lights, and surrounded by a landscape of trees and fields.
 The image shows a busy highway with multiple lanes of traffic, including cars and trucks, and is captured from a perspective that suggests the viewer is in a vehicle on the road.
 A busy highway with multiple lanes, traffic lights, and a railroad crossing, leading to a rural area with fields and trees.
+An image with six cars, a road, a grass, a tree, a sky, a truck, a traffic, and a pavement.
+An image with a grass, six cars, a tree, a pavement, a road, a truck, a traffic, and a sky.
+An image with a traffic, six cars, a road, a sky, a tree, a pavement, a truck, and a grass.
+An image with six cars, a truck, a tree, a traffic, a grass, a pavement, a road, and a sky.
+An image with a sky, six cars, a pavement, a traffic, a tree, a road, a truck, and a grass.

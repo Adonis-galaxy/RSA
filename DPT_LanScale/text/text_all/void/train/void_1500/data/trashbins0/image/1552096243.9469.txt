@@ -8,3 +8,8 @@ The image shows a white wall with a door, a brown chair, and a whiteboard with a
 The image shows a white wall with a door, a brown chair, and a map on the wall.
 The image shows a white wall with a brown door, a black door handle, a white door frame, a brown door frame, a white door, a black door handle, a white door frame, a brown door frame, a white door, a black door handle, a white door frame, a brown door frame, a white door, a black door handle, a white door frame, a brown door frame, a white door, a black door handle, a white door frame, a brown door
 The image shows a white wall with a door on the left, a brown chair on the right, and a whiteboard with a map on it above the chair.
+An image with a wall, a chair, a refrigerator, a floor, and a window.
+An image with a wall, a floor, a window, a refrigerator, and a chair.
+An image with a chair, a window, a floor, a wall, and a refrigerator.
+An image with a window, a floor, a wall, a chair, and a refrigerator.
+An image with a wall, a floor, a refrigerator, a window, and a chair.

@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet, tree-lined street in a residential area, with a man walking on the sidewalk, cars parked along the street, and apartment buildings in the background.
 A man is walking down a narrow street between tall buildings, with cars parked along the sides and a person carrying a bag.
 A narrow, cobblestone street in a European city, lined with tall buildings and parked cars, with a man walking on the sidewalk.
+An image with five cars, two people, a sky, a road, a pavement, a building, and a tree.
+An image with a sky, two people, five cars, a building, a road, a pavement, and a tree.
+An image with five cars, a tree, two people, a sky, a road, a pavement, and a building.
+An image with five cars, a tree, two people, a building, a road, a pavement, and a sky.
+An image with five cars, two people, a pavement, a tree, a sky, a building, and a road.

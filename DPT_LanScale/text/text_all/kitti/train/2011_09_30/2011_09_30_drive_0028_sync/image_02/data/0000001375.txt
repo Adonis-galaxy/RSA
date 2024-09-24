@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A serene residential street, lined with lush greenery and quaint houses, under a bright sunny sky.
 The image depicts a tree-lined street with a few parked cars, a sidewalk, and apartment buildings on either side.
 A tree-lined street in a residential area, with a car parked on the side and a building in the background.
+An image with a tree, three cars, a house, a fence, a pavement, a grass, a sky, and a road.
+An image with three cars, a pavement, a road, a house, a fence, a sky, a tree, and a grass.
+An image with three cars, a road, a house, a tree, a grass, a pavement, a sky, and a fence.
+An image with a tree, three cars, a house, a road, a sky, a pavement, a grass, and a fence.
+An image with three cars, a sky, a house, a grass, a road, a fence, a tree, and a pavement.

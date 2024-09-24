@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person walking.
 The image captures a quiet residential street, with parked cars lining the sides and a solitary pedestrian walking down the middle, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a person walking on the sidewalk.
 A quiet residential street with parked cars and a person walking, lined with houses and trees.
+An image with a tree, a grass, seven cars, a pavement, a sky, a person, a house, and a road.
+An image with seven cars, a road, a person, a grass, a pavement, a house, a sky, and a tree.
+An image with seven cars, a sky, a grass, a tree, a person, a pavement, a house, and a road.
+An image with a pavement, a person, a grass, seven cars, a road, a tree, a house, and a sky.
+An image with a house, a road, a pavement, a tree, seven cars, a grass, a person, and a sky.

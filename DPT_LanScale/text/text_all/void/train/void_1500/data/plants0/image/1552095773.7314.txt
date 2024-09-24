@@ -8,3 +8,8 @@ A concrete curb with a patch of dirt and grass.
 The image shows a concrete ledge with a wooden plank on top, surrounded by a patch of dirt and plants.
 The image shows a small patch of dirt with a few plants and a tree stump, located next to a wooden platform.
 The image shows a concrete ledge with a wooden plank on top, surrounded by a patch of dirt and plants.
+An image with a pavement, a floor, a wall, a tree, and a dirt.
+An image with a floor, a wall, a tree, a dirt, and a pavement.
+An image with a wall, a tree, a pavement, a floor, and a dirt.
+An image with a dirt, a floor, a pavement, a tree, and a wall.
+An image with a floor, a dirt, a tree, a wall, and a pavement.

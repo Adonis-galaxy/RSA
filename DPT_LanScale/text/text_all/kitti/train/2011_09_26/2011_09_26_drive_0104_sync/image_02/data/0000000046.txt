@@ -8,3 +8,8 @@ The image is a photograph of a busy city street.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all coexisting in a dynamic urban environment.
 The image depicts a busy city street with tall buildings, numerous cars, a few pedestrians, and a bicyclist, all captured in a wide-angle shot.
 A busy city street with heavy traffic, pedestrians, and cyclists navigating through a narrow alley between tall buildings.
+An image with two stops, a truck, twelve cars, a road, two traffics, a pavement, a handbag, two bicycles, two people, a tree, and a building.
+An image with a pavement, twelve cars, a road, two stops, two bicycles, a handbag, two people, a building, a tree, two traffics, and a truck.
+An image with two stops, twelve cars, two bicycles, two people, a road, a truck, a building, two traffics, a tree, a handbag, and a pavement.
+An image with twelve cars, two stops, a truck, a tree, two people, two traffics, two bicycles, a road, a building, a pavement, and a handbag.
+An image with a truck, twelve cars, a handbag, two people, two traffics, a pavement, a road, a building, two stops, two bicycles, and a tree.

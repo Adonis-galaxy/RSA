@@ -8,3 +8,8 @@ A black car on a narrow road.
 A black car is parked on a narrow, tree-lined street, with a brick wall and a house in the background.
 A black car is driving down a narrow, tree-lined street, with a brick wall on the right side and a house on the left.
 A black car is driving down a narrow, tree-lined street, which is bordered by a brick wall and a hedge, with a house visible in the background.
+An image with a wall, a road, a fence, a car, a sky, a pavement, a tree, and a roof.
+An image with a road, a roof, a tree, a fence, a sky, a pavement, a wall, and a car.
+An image with a road, a sky, a roof, a tree, a car, a wall, a pavement, and a fence.
+An image with a tree, a road, a fence, a sky, a roof, a pavement, a car, and a wall.
+An image with a fence, a car, a pavement, a roof, a road, a wall, a tree, and a sky.

@@ -8,3 +8,8 @@ A room with a red jacket on a chair.
 The image captures a scene of a room with two doors, a chair, a backpack, and a jacket, all in a state of disarray.
 A small room with a red jacket draped over a chair, a suitcase, and a door.
 The image shows a room with a door, a chair, a backpack, and a suitcase, all arranged in a somewhat cluttered manner.
+An image with a toilet, a door, a suitcase, a wall, a floor, and a backpack.
+An image with a suitcase, a door, a backpack, a wall, a floor, and a toilet.
+An image with a wall, a floor, a suitcase, a door, a toilet, and a backpack.
+An image with a door, a toilet, a wall, a floor, a suitcase, and a backpack.
+An image with a door, a toilet, a backpack, a floor, a suitcase, and a wall.

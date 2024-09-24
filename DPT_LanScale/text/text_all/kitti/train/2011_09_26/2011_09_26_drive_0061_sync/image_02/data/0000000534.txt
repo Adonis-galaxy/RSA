@@ -8,3 +8,8 @@ The image shows a narrow street with cars parked on the side.
 A narrow street flanked by tall hedges, with two cars parked on the side.
 A red car is driving down a narrow, tree-lined street with two other cars parked on the side.
 A narrow, tree-lined street with two cars parked on the side.
+An image with a tree, three cars, a road, a pavement, and a wall.
+An image with three cars, a road, a pavement, a tree, and a wall.
+An image with three cars, a wall, a tree, a road, and a pavement.
+An image with a wall, three cars, a road, a pavement, and a tree.
+An image with three cars, a wall, a road, a pavement, and a tree.

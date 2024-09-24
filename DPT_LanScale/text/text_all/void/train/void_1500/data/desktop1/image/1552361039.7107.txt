@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and a stuffed animal.
 A computer desk with a monitor, keyboard, and a box of cheese puffs.
 A computer desk with a monitor, keyboard, and a stuffed animal.
 A computer desk with a monitor, keyboard, and a box of Annie's cheddar bunnies.
+An image with a table, a cardboard, a window, two tvs, a keyboard, and a wall.
+An image with a table, two tvs, a cardboard, a wall, a window, and a keyboard.
+An image with two tvs, a table, a cardboard, a keyboard, a window, and a wall.
+An image with two tvs, a wall, a table, a window, a cardboard, and a keyboard.
+An image with a keyboard, two tvs, a wall, a cardboard, a window, and a table.

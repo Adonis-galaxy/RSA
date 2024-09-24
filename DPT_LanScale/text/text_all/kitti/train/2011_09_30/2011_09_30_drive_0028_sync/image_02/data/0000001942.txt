@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 The image captures a serene residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and lush greenery, with a large white truck parked in the middle of the street.
 A narrow, tree-lined street with parked cars and a white truck, leading to a row of houses.
+An image with nine cars, a house, a grass, a sky, a truck, a tree, a pavement, a road, and a dirt.
+An image with a sky, nine cars, a grass, a road, a pavement, a tree, a dirt, a house, and a truck.
+An image with a house, a sky, nine cars, a road, a pavement, a grass, a dirt, a tree, and a truck.
+An image with a house, a grass, nine cars, a truck, a pavement, a sky, a dirt, a road, and a tree.
+An image with nine cars, a dirt, a tree, a house, a grass, a sky, a truck, a pavement, and a road.

@@ -8,3 +8,8 @@ A black office chair with silver legs.
 A black office chair with silver legs and a white cord plugged into a white outlet on a white wall.
 A black chair with silver legs and a white cord plugged into a white outlet on a white wall.
 A black office chair with silver legs and a white cord plugged into a white outlet on a white wall.
+An image with a wall, a table, two chairs, a rug, and a mouse.
+An image with two chairs, a wall, a rug, a mouse, and a table.
+An image with a table, a rug, two chairs, a mouse, and a wall.
+An image with two chairs, a mouse, a wall, a table, and a rug.
+An image with a rug, a mouse, a wall, two chairs, and a table.

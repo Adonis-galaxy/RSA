@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a brick wall on the right, leading the viewer's eye down the tree-lined road.
 The image shows a narrow, tree-lined street with parked cars on the side, a person walking on the sidewalk, and a brick wall on the right side.
 The image depicts a narrow, tree-lined street with parked cars on the side, leading to a brick wall and a fence at the end.
+An image with eight cars, a fence, a grass, a pavement, a tree, a wall, a sky, a person, and a road.
+An image with a tree, eight cars, a sky, a person, a fence, a pavement, a road, a grass, and a wall.
+An image with eight cars, a wall, a fence, a grass, a sky, a person, a tree, a road, and a pavement.
+An image with a pavement, a grass, eight cars, a tree, a person, a fence, a sky, a road, and a wall.
+An image with eight cars, a grass, a sky, a pavement, a wall, a tree, a fence, a road, and a person.

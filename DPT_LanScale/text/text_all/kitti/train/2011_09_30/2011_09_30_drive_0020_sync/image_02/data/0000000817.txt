@@ -8,3 +8,8 @@ The image shows a tree-lined street in a residential area.
 The image captures a serene residential street, lined with trees and houses, leading to a building under construction, with a clear blue sky overhead.
 The image shows a long, narrow street lined with trees and buildings, with a sidewalk on the right side.
 A tree-lined street in a residential area, with a sidewalk and a paved road, leading to a row of houses and apartment buildings.
+An image with nine cars, a pavement, a road, a house, a fence, a grass, a tree, and a wall.
+An image with nine cars, a grass, a pavement, a wall, a house, a tree, a fence, and a road.
+An image with a pavement, nine cars, a tree, a road, a house, a fence, a grass, and a wall.
+An image with nine cars, a house, a fence, a pavement, a road, a wall, a grass, and a tree.
+An image with a tree, nine cars, a fence, a grass, a house, a pavement, a wall, and a road.

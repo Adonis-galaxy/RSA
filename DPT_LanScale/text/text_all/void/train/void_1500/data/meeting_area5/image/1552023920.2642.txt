@@ -8,3 +8,8 @@ The image shows a blurry view of a room with a table and chairs.
 The image shows a blurry view of a room with a table and chairs, and a door in the background.
 The image shows a blurry view of a room with a long white table and several white chairs, with a yellow wall in the background.
 The image shows a room with a long white table and several white chairs, with a blurred background that includes a door and a yellow wall.
+An image with four chairs, a wall, a dining, a tv, and a floor.
+An image with a tv, four chairs, a wall, a dining, and a floor.
+An image with four chairs, a tv, a wall, a floor, and a dining.
+An image with a tv, a dining, a floor, four chairs, and a wall.
+An image with a dining, a wall, four chairs, a floor, and a tv.

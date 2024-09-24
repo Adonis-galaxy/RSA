@@ -8,3 +8,8 @@ A kitchen with a stove and a microwave.
 The image captures a well-equipped kitchen with a modern design, featuring a gas stove, a microwave, a sink, wooden cabinets, and a tiled backsplash.
 The image shows a kitchen with a large stove, a microwave, a sink, wooden cabinets, and a tiled backsplash.
 The image shows a well-lit, modern kitchen with a tile backsplash, wooden cabinets, stainless steel appliances, and a gas stove.
+An image with two ovens, a cup, two walls, a floor, a counter, a cabinet, two sinks, and a microwave.
+An image with two ovens, a cup, two sinks, a cabinet, a microwave, a counter, two walls, and a floor.
+An image with two ovens, two sinks, two walls, a counter, a cabinet, a floor, a microwave, and a cup.
+An image with a microwave, two sinks, two ovens, a floor, two walls, a counter, a cabinet, and a cup.
+An image with two sinks, a cabinet, two ovens, two walls, a microwave, a cup, a floor, and a counter.

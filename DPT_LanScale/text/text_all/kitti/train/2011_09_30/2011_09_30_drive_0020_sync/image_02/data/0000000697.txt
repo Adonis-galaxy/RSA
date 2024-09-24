@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings and ora
 The image captures a quiet residential street with two-story houses, a few parked cars, and a clear blue sky.
 The image shows a street view of two-story residential buildings with orange doors, white walls, and dark roofs. The buildings are lined with small trees and parked cars. The street is paved with a mix of asphalt and concrete, and there is a blue sign on the right side of the image.
 The image shows a residential street with two-story buildings, a paved road, sidewalks, and parked cars.
+An image with a pavement, six cars, a tree, a road, a sky, a roof, a house, and a door.
+An image with six cars, a road, a tree, a roof, a pavement, a house, a sky, and a door.
+An image with six cars, a house, a sky, a pavement, a road, a tree, a roof, and a door.
+An image with six cars, a road, a door, a sky, a pavement, a tree, a house, and a roof.
+An image with six cars, a pavement, a tree, a sky, a house, a roof, a door, and a road.

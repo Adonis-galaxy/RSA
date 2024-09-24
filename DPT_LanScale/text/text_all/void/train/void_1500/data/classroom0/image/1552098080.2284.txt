@@ -8,3 +8,8 @@ A row of empty seats in a theater.
 The image shows an empty theater with rows of seats and a green column in the background.
 The image shows a row of empty seats in a theater, with a black armrest on the chair closest to the camera.
 The image shows a row of empty seats in a theater, with a black armrest on the aisle seat.
+An image with a floor, six chairs, and a wall.
+An image with a wall, six chairs, and a floor.
+An image with a wall, six chairs, and a floor.
+An image with six chairs, a wall, and a floor.
+An image with a floor, a wall, and six chairs.

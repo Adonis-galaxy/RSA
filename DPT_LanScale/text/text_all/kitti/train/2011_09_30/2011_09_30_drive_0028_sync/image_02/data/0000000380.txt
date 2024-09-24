@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a residential area.
 The image captures a quiet residential street, with a clear view of the numbered road, parked cars, and a truck, all set against the backdrop of a row of houses and a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a truck parked on the sidewalk and a sign indicating the number 30.
 The image depicts a narrow street in a residential area, with parked cars, a truck, and a fence on the sidewalk, leading to a row of houses with numbers on the buildings.
+An image with a truck, a roof, four cars, a tree, a road, a pavement, a fence, and a house.
+An image with a roof, a house, four cars, a road, a pavement, a tree, a fence, and a truck.
+An image with a truck, four cars, a roof, a road, a fence, a pavement, a house, and a tree.
+An image with a house, a roof, four cars, a tree, a truck, a fence, a road, and a pavement.
+An image with four cars, a fence, a tree, a house, a roof, a pavement, a truck, and a road.

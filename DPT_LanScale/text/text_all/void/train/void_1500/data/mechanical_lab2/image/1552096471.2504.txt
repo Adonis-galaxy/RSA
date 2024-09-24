@@ -8,3 +8,8 @@ A blue chair in a room.
 A blue chair is sitting next to a desk in a room.
 A blue chair is sitting next to a desk with orange drawers.
 A blue chair is placed next to a desk with orange drawers in a room with white tiled flooring.
+An image with a floor, a wall, two chairs, a counter, and a cabinet.
+An image with a cabinet, a wall, two chairs, a floor, and a counter.
+An image with two chairs, a cabinet, a counter, a floor, and a wall.
+An image with a counter, a cabinet, a floor, a wall, and two chairs.
+An image with two chairs, a wall, a cabinet, a counter, and a floor.

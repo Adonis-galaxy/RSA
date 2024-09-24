@@ -8,3 +8,8 @@ A person riding a bicycle in a city street.
 A cyclist navigates a city street, passing a white van and a pedestrian, while a traffic light and a bicycle rack stand by.
 A person riding a bicycle in the foreground, with a white van and a traffic light in the background, and a tall building with many windows in the distance.
 A cyclist rides through an intersection with a white van, while a pedestrian crosses the street, surrounded by parked bicycles and apartment buildings.
+An image with two cars, two people, a building, a tree, five traffics, five bicycles, a sky, a grass, a handbag, and a road.
+An image with five traffics, two people, five bicycles, a sky, a grass, two cars, a road, a building, a handbag, and a tree.
+An image with five traffics, five bicycles, a building, a road, a tree, two people, a grass, two cars, a sky, and a handbag.
+An image with five bicycles, a road, a building, five traffics, two cars, a sky, a handbag, two people, a tree, and a grass.
+An image with a sky, five bicycles, a handbag, five traffics, a building, a tree, a road, two cars, a grass, and two people.

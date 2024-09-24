@@ -8,3 +8,8 @@ A printer on a counter.
 A printer with a yellow paper in it, sitting on a desk.
 A white printer with a yellow paper in it, sitting on a beige counter.
 A white printer with a yellow paper sticking out of it, sitting on a beige countertop.
+An image with a tv, a scissors, a paper, and a wall.
+An image with a scissors, a paper, a tv, and a wall.
+An image with a paper, a scissors, a tv, and a wall.
+An image with a scissors, a wall, a tv, and a paper.
+An image with a paper, a wall, a scissors, and a tv.

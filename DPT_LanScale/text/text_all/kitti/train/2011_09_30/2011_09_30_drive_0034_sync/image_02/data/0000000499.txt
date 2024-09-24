@@ -8,3 +8,8 @@ A narrow street between two houses.
 A narrow, shaded street between houses, with a car parked at the end, and a staircase leading to a doorway.
 The image depicts a narrow, tree-lined street between two-story houses, with a car parked on the right side and a fire hydrant on the left side.
 A narrow, tree-lined street between two-story houses, with a car parked at the end of the road.
+An image with a sky, a house, a road, a car, a wall, a stairs, a pavement, and a tree.
+An image with a tree, a car, a stairs, a road, a wall, a pavement, a house, and a sky.
+An image with a house, a stairs, a car, a tree, a road, a wall, a pavement, and a sky.
+An image with a sky, a car, a pavement, a road, a house, a stairs, a tree, and a wall.
+An image with a pavement, a tree, a wall, a road, a sky, a car, a stairs, and a house.

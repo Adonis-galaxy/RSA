@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 A narrow street lined with parked cars, a sidewalk, and a row of houses, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a sidewalk, and buildings, with a satellite dish visible on the left side.
 A narrow street lined with parked cars and buildings, with a sidewalk and a tree-lined street.
+An image with seven cars, a truck, a tree, a road, a fence, a wall, a house, and a pavement.
+An image with a truck, a fence, a wall, seven cars, a pavement, a road, a house, and a tree.
+An image with a fence, a truck, seven cars, a house, a road, a pavement, a tree, and a wall.
+An image with a road, seven cars, a fence, a wall, a tree, a pavement, a house, and a truck.
+An image with seven cars, a fence, a wall, a house, a pavement, a truck, a road, and a tree.

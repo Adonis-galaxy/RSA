@@ -8,3 +8,8 @@ The image shows a street scene with a blue and white toilet on the sidewalk.
 The image captures a quiet residential street, with a blue and white toilet standing prominently in the foreground, flanked by parked cars and apartment buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a large blue and white toilet on the left side.
 The image shows a narrow street lined with parked cars and a blue and white toilet on the sidewalk, with apartment buildings on both sides.
+An image with a pavement, five cars, a dirt, a sky, a building, a tree, and a truck.
+An image with five cars, a building, a sky, a pavement, a tree, a dirt, and a truck.
+An image with a tree, five cars, a truck, a building, a dirt, a pavement, and a sky.
+An image with five cars, a pavement, a truck, a building, a sky, a dirt, and a tree.
+An image with a dirt, five cars, a sky, a pavement, a tree, a truck, and a building.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a van.
 The image captures a quiet residential street with parked cars, a few pedestrians, and a clear blue sky.
 The image shows a street scene with a large car parked on the side of the road, a smaller car in the middle of the road, and a few other cars parked along the street. The street is lined with trees and houses, and there are traffic lights and signs visible.
 The image depicts a residential street with parked cars, a curved road, and a mix of architectural styles, including houses with red roofs and apartment buildings.
+An image with a grass, six cars, a pavement, a truck, a road, a house, and a tree.
+An image with a pavement, a grass, six cars, a house, a truck, a road, and a tree.
+An image with a road, a grass, six cars, a house, a truck, a tree, and a pavement.
+An image with a road, six cars, a tree, a grass, a truck, a pavement, and a house.
+An image with a road, six cars, a house, a grass, a truck, a tree, and a pavement.

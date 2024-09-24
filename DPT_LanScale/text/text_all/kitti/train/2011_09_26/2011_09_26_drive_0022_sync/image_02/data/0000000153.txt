@@ -8,3 +8,8 @@ The image shows a street with parked cars and a few moving ones.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear sky.
 The image shows a narrow street lined with parked cars, with a few larger vehicles and a truck parked on the side, and a few smaller cars parked in front of the houses.
 A narrow street lined with parked cars and houses, leading to a cul-de-sac.
+An image with a fence, eight cars, a house, two trucks, a pavement, a road, a tree, and a person.
+An image with a road, a fence, eight cars, two trucks, a tree, a person, a house, and a pavement.
+An image with eight cars, two trucks, a fence, a person, a pavement, a road, a tree, and a house.
+An image with eight cars, two trucks, a pavement, a road, a fence, a house, a person, and a tree.
+An image with a road, eight cars, a tree, a fence, a person, a pavement, a house, and two trucks.

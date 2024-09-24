@@ -8,3 +8,8 @@ A room with a refrigerator, a table, and a chair.
 The image shows a room with a refrigerator, a table, and a chair, all set against a green wall.
 The image shows a small room with a refrigerator, a table, a chair, and a blue and white cabinet.
 The image shows a room with a large blue and white machine on the left, a table with a laptop and papers in the middle, a small refrigerator on the right, and a large white machine in the corner. The room has green walls and is illuminated by fluorescent lights.
+An image with a ceiling, a light, two refrigerators, four chairs, a dining, a floor, and a wall.
+An image with a light, a ceiling, four chairs, two refrigerators, a floor, a dining, and a wall.
+An image with a wall, a ceiling, a light, a floor, four chairs, two refrigerators, and a dining.
+An image with four chairs, a floor, two refrigerators, a dining, a ceiling, a wall, and a light.
+An image with a light, two refrigerators, a ceiling, a wall, four chairs, a floor, and a dining.

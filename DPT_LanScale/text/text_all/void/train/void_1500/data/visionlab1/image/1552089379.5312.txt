@@ -8,3 +8,8 @@ A blurry image of a computer desk with a keyboard and mouse on it.
 A blurry office cubicle with a desk, chair, and trash can.
 The image shows a small office cubicle with a desk, chair, and trash can.
 The image shows a workspace with a desk, a chair, a trash can, and a computer monitor.
+An image with a rug, a chair, a window, a tv, a table, a wall, and a handbag.
+An image with a wall, a window, a chair, a tv, a table, a rug, and a handbag.
+An image with a handbag, a rug, a chair, a wall, a window, a tv, and a table.
+An image with a handbag, a rug, a wall, a tv, a chair, a table, and a window.
+An image with a tv, a window, a handbag, a wall, a rug, a table, and a chair.

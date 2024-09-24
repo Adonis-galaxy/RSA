@@ -8,3 +8,8 @@ A classroom with a green wall and a desk.
 The image shows a room with a desk, a chair, a refrigerator, and a bulletin board.
 The image shows a small room with a desk, a chair, a refrigerator, and a cabinet.
 The image shows a room with a green wall, a desk, a chair, a refrigerator, and a cabinet.
+An image with a refrigerator, a wall, a tv, a light, a dining, a floor, a paper, a chair, and a ceiling.
+An image with a floor, a light, a chair, a refrigerator, a tv, a wall, a ceiling, a paper, and a dining.
+An image with a floor, a dining, a paper, a tv, a chair, a refrigerator, a ceiling, a light, and a wall.
+An image with a light, a chair, a ceiling, a refrigerator, a tv, a dining, a paper, a wall, and a floor.
+An image with a paper, a tv, a light, a floor, a wall, a refrigerator, a chair, a dining, and a ceiling.

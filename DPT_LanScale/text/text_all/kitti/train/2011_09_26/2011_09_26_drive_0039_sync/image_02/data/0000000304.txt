@@ -8,3 +8,8 @@ A woman standing next to a parked car.
 A delivery truck is parked on the side of a street, with a person standing next to it, and a car is parked behind the truck.
 A woman is standing next to a small black car on a narrow street between two buildings.
 A delivery truck is parked on the side of a street, with a car parked behind it, and a person standing next to the car.
+An image with a sky, a truck, two people, a tree, four cars, a pavement, a road, two walls, a house, and a fence.
+An image with a pavement, four cars, a truck, two people, two walls, a sky, a tree, a house, a road, and a fence.
+An image with two people, a road, a fence, four cars, a house, a pavement, a truck, two walls, a sky, and a tree.
+An image with two walls, four cars, a sky, a road, two people, a pavement, a tree, a house, a fence, and a truck.
+An image with a truck, a pavement, four cars, a house, two people, a tree, a fence, a sky, two walls, and a road.

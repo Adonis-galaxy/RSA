@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a white building.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and potted plants, with a white building on the right side.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with five potteds, five cars, a house, a wall, a road, a tree, and a pavement.
+An image with a house, five potteds, five cars, a wall, a pavement, a tree, and a road.
+An image with five cars, five potteds, a house, a wall, a pavement, a tree, and a road.
+An image with a road, five cars, a wall, a tree, five potteds, a house, and a pavement.
+An image with a wall, five potteds, five cars, a house, a pavement, a road, and a tree.

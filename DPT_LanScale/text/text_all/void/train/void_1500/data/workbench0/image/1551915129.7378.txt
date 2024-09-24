@@ -8,3 +8,8 @@ A black office chair on a gray carpet.
 A black office chair with a blue trash can next to it.
 A black office chair with a gray seat and backrest, sitting on a gray carpeted floor, next to a blue trash can and a gray filing cabinet.
 A black office chair with a gray seat and backrest, sitting on a gray carpeted floor, next to a blue trash can and a gray filing cabinet.
+An image with a backpack, a table, a wall, a floor, a cardboard, and a chair.
+An image with a wall, a backpack, a chair, a cardboard, a table, and a floor.
+An image with a wall, a floor, a cardboard, a backpack, a table, and a chair.
+An image with a floor, a table, a backpack, a wall, a cardboard, and a chair.
+An image with a wall, a backpack, a floor, a chair, a table, and a cardboard.

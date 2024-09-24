@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars and trucks driving on it.
 The image captures a scene of a busy road with multiple vehicles, including cars and a truck, traveling in both directions, with a clear sky overhead and a lush green field on the side.
 A busy highway with multiple lanes of traffic, including cars and trucks, and a train track running parallel to the road.
 A busy highway with multiple lanes, a mix of vehicles, and a clear sky.
+An image with six cars, a building, a grass, a railroad, a road, a truck, a tree, and a airplane.
+An image with a airplane, six cars, a railroad, a tree, a road, a truck, a grass, and a building.
+An image with a tree, a building, six cars, a airplane, a railroad, a grass, a truck, and a road.
+An image with six cars, a road, a grass, a building, a airplane, a tree, a truck, and a railroad.
+An image with six cars, a airplane, a road, a building, a truck, a grass, a railroad, and a tree.

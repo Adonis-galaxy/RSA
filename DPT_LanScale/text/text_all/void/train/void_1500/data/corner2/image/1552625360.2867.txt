@@ -8,3 +8,8 @@ A desk with a coffee cup, papers, and a cell phone.
 A cluttered desk with a coffee cup, papers, and a cell phone.
 A desk with a coffee cup, papers, and a cell phone.
 A desk with a coffee cup, papers, and a cell phone.
+An image with two cups, a rug, a table, a keyboard, and a paper.
+An image with two cups, a keyboard, a paper, a rug, and a table.
+An image with a keyboard, two cups, a paper, a table, and a rug.
+An image with a paper, a rug, two cups, a table, and a keyboard.
+An image with a table, a keyboard, a paper, two cups, and a rug.

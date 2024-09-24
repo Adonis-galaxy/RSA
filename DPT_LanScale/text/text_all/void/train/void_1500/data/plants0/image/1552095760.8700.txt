@@ -8,3 +8,8 @@ The image shows a brick pattern on a sidewalk.
 The image shows a brick-paved area with a tree stump and a concrete curb.
 The image shows a close-up of a brick-paved area with a tree stump and some grass in the background.
 The image shows a brick-paved area with a curved edge, a sandy area with grass and trees, and a concrete curb.
+An image with two walls, a tree, a dirt, a floor, and a pavement.
+An image with a dirt, a floor, two walls, a tree, and a pavement.
+An image with a pavement, two walls, a dirt, a floor, and a tree.
+An image with a tree, two walls, a pavement, a dirt, and a floor.
+An image with a pavement, two walls, a dirt, a tree, and a floor.

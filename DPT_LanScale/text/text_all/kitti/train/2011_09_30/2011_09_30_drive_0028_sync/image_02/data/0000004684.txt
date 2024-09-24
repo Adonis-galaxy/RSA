@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a typical urban street scene with parked cars lining both sides of the road, a sidewalk, and apartment buildings in the background.
 A long row of parked cars on a narrow street, with apartment buildings on either side.
 A narrow street lined with parked cars and buildings, with a blue sky overhead.
+An image with seven cars, a tree, a wall, a sky, a road, a pavement, a truck, and a window.
+An image with seven cars, a wall, a window, a pavement, a truck, a tree, a sky, and a road.
+An image with a sky, a truck, a tree, seven cars, a window, a road, a pavement, and a wall.
+An image with seven cars, a tree, a pavement, a wall, a sky, a road, a truck, and a window.
+An image with seven cars, a sky, a truck, a wall, a road, a tree, a window, and a pavement.

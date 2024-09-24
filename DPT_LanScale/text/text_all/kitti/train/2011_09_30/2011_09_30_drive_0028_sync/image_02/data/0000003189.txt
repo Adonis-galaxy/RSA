@@ -8,3 +8,8 @@ A narrow tree-lined street.
 A narrow, tree-lined street between buildings, with a car parked on the right side.
 The image depicts a narrow, tree-lined street between two buildings, with a car parked on the right side and a truck parked on the left side.
 A narrow, tree-lined street between two buildings, with parked cars and a white car driving down it.
+An image with a truck, three cars, a house, a tree, a road, a fence, and a sky.
+An image with a tree, a fence, three cars, a house, a road, a truck, and a sky.
+An image with a fence, three cars, a sky, a truck, a house, a tree, and a road.
+An image with a fence, a tree, a house, a truck, three cars, a road, and a sky.
+An image with a sky, three cars, a truck, a house, a tree, a fence, and a road.

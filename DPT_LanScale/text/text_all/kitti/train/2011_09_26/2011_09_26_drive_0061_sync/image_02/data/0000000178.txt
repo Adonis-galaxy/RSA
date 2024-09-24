@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a truck.
 A black SUV is parked on the side of a narrow street lined with houses and trees, with a red and blue sign indicating a one-way street.
 A narrow street lined with parked cars and lush greenery, with a large truck parked in front of a building.
 A narrow street lined with parked cars and lush greenery, leading to a residential area with houses and trees.
+An image with a roof, a stop, a house, a sky, five cars, a potted, a tree, a pavement, and a road.
+An image with five cars, a stop, a pavement, a tree, a road, a house, a roof, a potted, and a sky.
+An image with a roof, five cars, a road, a tree, a pavement, a house, a potted, a sky, and a stop.
+An image with five cars, a pavement, a roof, a potted, a sky, a house, a road, a tree, and a stop.
+An image with five cars, a stop, a pavement, a house, a tree, a potted, a road, a roof, and a sky.

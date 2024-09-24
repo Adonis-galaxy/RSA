@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 The image captures a residential street lined with parked cars, apartment buildings, and a clear sky, creating a sense of a quiet, suburban neighborhood.
 The image shows a narrow street lined with parked cars, with apartment buildings on both sides, and a clear blue sky overhead.
 A long, narrow street lined with parked cars and buildings, leading to a clear sky.
+An image with eight cars, a tree, a grass, a road, a sky, a pavement, a wall, and a building.
+An image with eight cars, a road, a tree, a wall, a pavement, a grass, a sky, and a building.
+An image with a sky, eight cars, a tree, a pavement, a wall, a road, a grass, and a building.
+An image with a road, eight cars, a tree, a building, a sky, a wall, a pavement, and a grass.
+An image with a pavement, a sky, eight cars, a building, a wall, a grass, a road, and a tree.

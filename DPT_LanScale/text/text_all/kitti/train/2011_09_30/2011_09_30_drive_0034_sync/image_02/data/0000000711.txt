@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene, tree-lined street with a clear sky overhead, leading to a sign that reads "Funfzig Morgen," indicating the start of a new day.
 The image shows a tree-lined street with a sign indicating "Funfzig Morgen" and a car parked on the side.
 The image shows a tree-lined street with a curved road, a sidewalk, a fence, and a sign indicating the name of the street.
+An image with a banner, a pavement, a grass, a sky, a wall, two cars, a road, a fence, and a tree.
+An image with a wall, two cars, a grass, a sky, a tree, a banner, a fence, a road, and a pavement.
+An image with a grass, a road, a banner, two cars, a tree, a fence, a sky, a wall, and a pavement.
+An image with a sky, a wall, a grass, a tree, a fence, a pavement, a road, two cars, and a banner.
+An image with two cars, a road, a grass, a banner, a pavement, a fence, a tree, a wall, and a sky.

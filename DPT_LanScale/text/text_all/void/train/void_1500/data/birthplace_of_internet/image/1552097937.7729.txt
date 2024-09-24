@@ -8,3 +8,8 @@ A room with a desk, bookshelf, and a green wall.
 The image shows a room with a desk, a bookshelf, and a wall with posters, all under a fluorescent light.
 The image shows a room with a desk, a bookshelf, a telephone, and a green wall with posters.
 The image shows an office space with a desk, a bookshelf, a filing cabinet, and a wall with posters and papers.
+An image with a ceiling, twenty books, a shelf, a light, a refrigerator, a floor, a door, a table, a wall, and a chair.
+An image with twenty books, a floor, a table, a ceiling, a refrigerator, a light, a chair, a wall, a door, and a shelf.
+An image with a light, twenty books, a chair, a refrigerator, a wall, a table, a shelf, a ceiling, a door, and a floor.
+An image with a ceiling, a chair, twenty books, a wall, a table, a door, a light, a floor, a shelf, and a refrigerator.
+An image with twenty books, a chair, a shelf, a light, a door, a floor, a refrigerator, a table, a wall, and a ceiling.

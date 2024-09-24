@@ -8,3 +8,8 @@ A blurry image of a blue backpack and a white toy car.
 A blue backpack sits on a blue chair next to a wooden cabinet.
 The image shows a blurry view of a blue backpack sitting on a blue chair next to a white car, with a wooden cabinet in the background.
 The image shows a blurry view of a room with a blue backpack on a blue chair, a white car model on a shelf, and a wooden cabinet.
+An image with a person, a backpack, a refrigerator, a wall, and a car.
+An image with a wall, a backpack, a refrigerator, a car, and a person.
+An image with a person, a backpack, a refrigerator, a car, and a wall.
+An image with a wall, a person, a refrigerator, a backpack, and a car.
+An image with a refrigerator, a person, a wall, a car, and a backpack.

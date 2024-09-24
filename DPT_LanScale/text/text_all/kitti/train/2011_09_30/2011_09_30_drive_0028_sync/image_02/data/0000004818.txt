@@ -8,3 +8,8 @@ The image shows a street scene with a red car parked on the side of the road, a 
 The image captures a quiet residential street, with a red car parked at the end of a cul-de-sac, a pedestrian walking away from the camera, and a few signs indicating the presence of a crosswalk and a no-parking zone.
 A person is walking on a sidewalk in front of a red car parked on a street corner in a residential area with tall buildings and trees.
 The image depicts a residential street with a red car parked on the side, a pedestrian walking on the sidewalk, and a series of buildings with balconies and trees lining the street.
+An image with a car, two stops, a sky, a person, a pavement, a building, a tree, and a road.
+An image with a person, a sky, a pavement, two stops, a building, a tree, a road, and a car.
+An image with a road, a sky, two stops, a car, a pavement, a tree, a person, and a building.
+An image with a road, a tree, two stops, a person, a car, a pavement, a sky, and a building.
+An image with a car, two stops, a tree, a person, a sky, a road, a pavement, and a building.

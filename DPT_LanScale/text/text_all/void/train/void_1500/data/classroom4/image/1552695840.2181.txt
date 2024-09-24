@@ -8,3 +8,8 @@ A blurry image of a black chair with a blue backpack on it.
 A black chair with a blue backpack hanging on it, sitting in front of a wooden desk.
 A blurry image of a desk with a chair, a mouse, and a keyboard.
 The image shows a blurry office setting with a desk, chair, and a backpack.
+An image with a wall, two chairs, a table, two keyboards, a rug, a mouse, and a paper.
+An image with a wall, two chairs, a rug, two keyboards, a paper, a mouse, and a table.
+An image with two chairs, a mouse, two keyboards, a table, a paper, a wall, and a rug.
+An image with a wall, a mouse, a table, two keyboards, a paper, two chairs, and a rug.
+An image with two keyboards, a rug, a table, a wall, a paper, a mouse, and two chairs.

@@ -8,3 +8,8 @@ The image shows a kitchen with a countertop and a refrigerator.
 The image shows an empty kitchen with a refrigerator, a countertop, and a wall.
 The image shows a small, empty kitchen with a tiled floor, a white refrigerator, and a counter with a few items on it.
 The image shows a kitchen with a tiled floor, a countertop, a refrigerator, and a window.
+An image with a floor, a counter, a curtain, three bottles, a oven, a cabinet, and a wall.
+An image with a wall, three bottles, a oven, a counter, a cabinet, a floor, and a curtain.
+An image with three bottles, a oven, a cabinet, a curtain, a counter, a wall, and a floor.
+An image with a floor, a wall, three bottles, a counter, a oven, a cabinet, and a curtain.
+An image with three bottles, a curtain, a floor, a cabinet, a counter, a wall, and a oven.

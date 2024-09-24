@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a few moving one
 A quiet residential street with a few parked cars, a sidewalk, and a mix of houses and trees.
 A small black car is parked on the side of a narrow street lined with houses and trees.
 A quiet residential street with parked cars, a sidewalk, and a row of houses.
+An image with a grass, a house, seven cars, a sky, a pavement, a road, and a tree.
+An image with a road, seven cars, a sky, a pavement, a tree, a grass, and a house.
+An image with a house, seven cars, a grass, a tree, a pavement, a road, and a sky.
+An image with seven cars, a grass, a road, a house, a pavement, a tree, and a sky.
+An image with seven cars, a sky, a tree, a road, a grass, a pavement, and a house.

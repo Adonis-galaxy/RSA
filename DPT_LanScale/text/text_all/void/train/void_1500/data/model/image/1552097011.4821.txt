@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape, with a focus on a large white building surrounded by smaller buildings, all set against a backdrop of a gray sky.
 The image shows a model of a cityscape with buildings, including a large white building, and a street, all displayed on a table.
 The image shows a model of a cityscape with various buildings, including a large white building with a square opening in the center, surrounded by other buildings and a street.
+An image with a building, a cabinet, a ceiling, and a floor.
+An image with a ceiling, a cabinet, a floor, and a building.
+An image with a cabinet, a building, a ceiling, and a floor.
+An image with a floor, a ceiling, a cabinet, and a building.
+An image with a floor, a ceiling, a cabinet, and a building.

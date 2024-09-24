@@ -8,3 +8,8 @@ A concrete planter with plants and sand.
 The image shows a small garden area with a variety of plants and a concrete border.
 The image shows a small concrete planter with a variety of plants growing in it, placed on a sidewalk.
 The image shows a garden area with a raised planter filled with plants and a brick-laid pathway.
+An image with a sand, two floors, two walls, and a tree.
+An image with two walls, a tree, two floors, and a sand.
+An image with a sand, a tree, two walls, and two floors.
+An image with two walls, two floors, a sand, and a tree.
+An image with two floors, a sand, two walls, and a tree.

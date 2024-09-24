@@ -8,3 +8,8 @@ The image shows a wall with a paper hanging on it.
 The image shows a wall with a paper hanging on it, a light switch, and a blurry object in the foreground.
 The image shows a blurry view of a wall with a paper hanging on it, a light switch, and a small portion of a desk with a computer monitor and keyboard.
 The image shows a blurry view of a wall with a paper hanging on it, a light switch, and a small portion of a desk with a computer monitor and keyboard.
+An image with a book, a wall, a paper, a chair, a table, and a mouse.
+An image with a book, a wall, a table, a chair, a paper, and a mouse.
+An image with a table, a paper, a mouse, a wall, a chair, and a book.
+An image with a table, a book, a paper, a wall, a chair, and a mouse.
+An image with a mouse, a paper, a table, a book, a chair, and a wall.

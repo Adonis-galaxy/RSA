@@ -8,3 +8,8 @@ A white chair in a room with a red wall.
 The image captures a cozy living room with a beige sofa, a white armchair, and a red wall, creating a warm and inviting atmosphere.
 The image shows a room with a large, beige sofa, a white armchair, a red wall, and a window with white blinds.
 The image shows a living room with a beige sofa, a white armchair, a red wall, and a window with white blinds.
+An image with a couch, a chair, a wall, a window, and a floor.
+An image with a chair, a couch, a window, a wall, and a floor.
+An image with a wall, a couch, a window, a floor, and a chair.
+An image with a wall, a chair, a window, a floor, and a couch.
+An image with a floor, a wall, a couch, a chair, and a window.

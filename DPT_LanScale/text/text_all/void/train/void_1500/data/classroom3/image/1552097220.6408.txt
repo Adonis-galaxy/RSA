@@ -8,3 +8,8 @@ The image shows a computer desk with a monitor, keyboard, and mouse.
 The image shows a computer desk with a monitor, keyboard, and mouse, set against a white wall with a red and blue sign.
 The image shows a computer desk with a monitor, keyboard, and mouse, with a chair in the corner of the room.
 The image shows a computer desk with a monitor, keyboard, and mouse, positioned in front of a white wall with two signs.
+An image with a wall, three tvs, a table, a chair, a keyboard, and a floor.
+An image with a floor, a chair, a table, a keyboard, three tvs, and a wall.
+An image with a chair, three tvs, a wall, a keyboard, a table, and a floor.
+An image with a chair, a table, a wall, a keyboard, three tvs, and a floor.
+An image with a keyboard, a wall, a chair, a table, three tvs, and a floor.

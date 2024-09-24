@@ -8,3 +8,8 @@ A truck driving on a highway.
 A red truck driving on a highway, with a clear sky and a green field in the background.
 A large truck is driving down a highway with a guardrail on the side, passing by a field and trees.
 A red and white truck is driving on a highway with a guardrail on the right side, passing a field and trees, under a cloudy sky.
+An image with three cars, a grass, a tree, a fence, a sky, a truck, and a road.
+An image with a truck, three cars, a road, a tree, a grass, a fence, and a sky.
+An image with a road, a sky, three cars, a grass, a truck, a tree, and a fence.
+An image with a truck, three cars, a road, a tree, a sky, a grass, and a fence.
+An image with a grass, a tree, a truck, a fence, three cars, a sky, and a road.

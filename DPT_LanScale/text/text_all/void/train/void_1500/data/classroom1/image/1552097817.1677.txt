@@ -8,3 +8,8 @@ The image shows a staircase with wooden steps and a metal handrail.
 The image shows a staircase with a wooden panel on the side, and the stairs are made of metal.
 The image shows a staircase with a wooden panel on the side, and the stairs are blurred.
 The image shows a staircase with wooden steps and a wooden handrail, leading up to a wooden wall.
+An image with a stairs, a floor, and a wall.
+An image with a stairs, a wall, and a floor.
+An image with a floor, a wall, and a stairs.
+An image with a floor, a stairs, and a wall.
+An image with a wall, a stairs, and a floor.

@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a well-lit, modern dining room with a blue and white color scheme, featuring a table set for six with a candelabra centerpiece, a fireplace, and a kitchen area in the background.
 The image shows a spacious dining room with a large table surrounded by multiple chairs, a fireplace, a chandelier, and a kitchen area in the background.
 The image shows a well-lit, spacious dining room with a large table surrounded by chairs, a fireplace, and a kitchen area in the background.
+An image with a door, eight chairs, a floor, two walls, a cabinet, a curtain, a ceiling, and a dining.
+An image with eight chairs, two walls, a cabinet, a curtain, a floor, a ceiling, a dining, and a door.
+An image with eight chairs, two walls, a dining, a ceiling, a floor, a curtain, a door, and a cabinet.
+An image with two walls, eight chairs, a door, a cabinet, a floor, a curtain, a dining, and a ceiling.
+An image with a curtain, a dining, eight chairs, a floor, a door, two walls, a cabinet, and a ceiling.

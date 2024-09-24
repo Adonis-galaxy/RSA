@@ -8,3 +8,8 @@ The image shows a narrow street with buildings on both sides, a train track in t
 The image captures a quaint, narrow street in a European city, lined with shops and potted plants, with a train track running down the middle, and pedestrians walking along the sidewalk.
 The image depicts a narrow, cobblestone street lined with buildings, a train track, and a few people walking.
 A narrow, cobblestone street with buildings on both sides, a train track in the middle, and people walking along the sidewalk.
+An image with a traffic, three potteds, a bicycle, a building, eight people, a sky, a pavement, and a railroad.
+An image with eight people, three potteds, a sky, a railroad, a traffic, a bicycle, a pavement, and a building.
+An image with eight people, a sky, three potteds, a traffic, a bicycle, a building, a railroad, and a pavement.
+An image with a bicycle, eight people, three potteds, a railroad, a pavement, a building, a sky, and a traffic.
+An image with a traffic, eight people, three potteds, a building, a railroad, a pavement, a bicycle, and a sky.

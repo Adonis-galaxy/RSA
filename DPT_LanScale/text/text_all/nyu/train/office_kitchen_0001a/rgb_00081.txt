@@ -8,3 +8,8 @@ The image shows a room with a printer on a cart.
 The image shows a room with two printers on a cart, one of which is a fax machine, and a blue recycling bin.
 The image shows a small room with a printer on a cart, a larger printer on a table, and a blue recycling bin.
 The image shows a room with a printer on a cart, a second printer on a table, and a blue bin.
+An image with a table, a counter, a wall, a rug, a shelf, a cabinet, and a paper.
+An image with a wall, a counter, a paper, a rug, a cabinet, a shelf, and a table.
+An image with a wall, a shelf, a rug, a paper, a cabinet, a counter, and a table.
+An image with a wall, a counter, a cabinet, a paper, a table, a rug, and a shelf.
+An image with a wall, a table, a paper, a rug, a cabinet, a counter, and a shelf.

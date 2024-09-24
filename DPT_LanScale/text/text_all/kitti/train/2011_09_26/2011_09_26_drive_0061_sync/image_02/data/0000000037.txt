@@ -8,3 +8,8 @@ A white truck parked on a narrow street.
 A white tow truck parked on a tree-lined street, with a clear view of the road ahead.
 A large white truck is parked on a narrow street between two buildings, with trees lining the road.
 A narrow, tree-lined street with parked cars and a white truck, leading to a white building with a brown roof.
+An image with three cars, a road, a truck, a tree, a fence, a window, a pavement, and a grass.
+An image with three cars, a window, a road, a pavement, a truck, a tree, a fence, and a grass.
+An image with three cars, a truck, a window, a tree, a road, a grass, a fence, and a pavement.
+An image with a window, three cars, a truck, a pavement, a grass, a road, a fence, and a tree.
+An image with a window, a grass, three cars, a truck, a tree, a fence, a road, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street sign.
 The image captures a quiet residential street with a clear sky, lush greenery, and a few parked cars, all under the watchful eye of a pedestrian crossing sign.
 The image shows a street scene with a car parked on the side of the road, a pedestrian crossing sign, and a tree-lined sidewalk.
 The image depicts a tree-lined street with a car parked on the side, a pedestrian crossing sign, and a car driving down the road.
+An image with a road, a pavement, a grass, a tree, two cars, and a sky.
+An image with two cars, a tree, a pavement, a sky, a grass, and a road.
+An image with two cars, a sky, a pavement, a road, a tree, and a grass.
+An image with a sky, a tree, a grass, two cars, a road, and a pavement.
+An image with a road, a grass, two cars, a tree, a pavement, and a sky.

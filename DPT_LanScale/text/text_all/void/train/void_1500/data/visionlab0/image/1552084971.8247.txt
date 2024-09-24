@@ -8,3 +8,8 @@ A man is sitting in a chair in an office.
 A man is sitting in a chair with his head down, and there is a messy desk in the foreground.
 A man is sitting in a chair with his head down, and there is a desk with a computer monitor and papers on it in the background.
 A man is sitting in a chair in a room with a desk and a door.
+An image with a cabinet, a floor, a person, two chairs, a table, a door, and a wall.
+An image with two chairs, a wall, a floor, a cabinet, a person, a table, and a door.
+An image with a cabinet, a table, a person, a wall, two chairs, a door, and a floor.
+An image with a wall, a door, a person, a table, a cabinet, two chairs, and a floor.
+An image with a wall, a floor, a cabinet, a table, a person, a door, and two chairs.

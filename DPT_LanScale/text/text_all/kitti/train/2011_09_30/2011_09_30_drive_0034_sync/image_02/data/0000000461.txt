@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and gardens.
 A quiet residential street, lined with houses and gardens, under a clear sky.
 The image shows a narrow street lined with houses, bushes, and flowers, with a large shadow cast on the right side.
 A narrow, tree-lined street between two-story buildings, with a paved sidewalk and a fence on the right side.
+An image with a house, a road, a door, a pavement, a sky, a flower, and a tree.
+An image with a tree, a road, a door, a house, a pavement, a flower, and a sky.
+An image with a sky, a door, a flower, a tree, a house, a road, and a pavement.
+An image with a door, a pavement, a road, a flower, a house, a tree, and a sky.
+An image with a tree, a house, a sky, a road, a pavement, a door, and a flower.

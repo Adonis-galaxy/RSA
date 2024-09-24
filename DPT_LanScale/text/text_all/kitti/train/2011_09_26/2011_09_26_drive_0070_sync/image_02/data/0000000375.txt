@@ -8,3 +8,8 @@ The image shows a highway with a speed limit sign.
 The image captures a serene highway scene, with a clear sky, lush greenery, and a well-maintained road, all under the watchful eye of a yellow speed limit sign.
 The image shows a long, straight road with a speed limit sign indicating 50 km/h, surrounded by a forest with trees of various sizes, and a bridge with a yellow sign on the side.
 A long, straight, multi-lane highway with a speed limit sign, surrounded by a lush green forest and a clear blue sky.
+An image with a road, a pavement, a tree, a fence, a mountain, a truck, a stop, and a car.
+An image with a pavement, a road, a tree, a mountain, a car, a stop, a fence, and a truck.
+An image with a pavement, a car, a fence, a tree, a stop, a mountain, a truck, and a road.
+An image with a stop, a pavement, a fence, a truck, a mountain, a tree, a car, and a road.
+An image with a mountain, a fence, a pavement, a tree, a road, a truck, a stop, and a car.

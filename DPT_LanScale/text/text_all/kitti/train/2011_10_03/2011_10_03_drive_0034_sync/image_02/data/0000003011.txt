@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars.
 The image captures a quiet residential street, with a black car parked on the side of the road, adjacent to a white building with a brick wall and a hedge, and a clear blue sky overhead.
 A black car is parked on the side of a narrow street between two white buildings, with a brick wall and a hedge on the right side.
 A quiet residential street with parked cars and a clear sky.
+An image with a sky, two walls, three cars, a house, a road, a pavement, and a tree.
+An image with a sky, two walls, a house, a tree, three cars, a pavement, and a road.
+An image with two walls, a road, three cars, a sky, a pavement, a house, and a tree.
+An image with three cars, a road, a pavement, a tree, two walls, a house, and a sky.
+An image with a tree, three cars, a road, a house, a pavement, two walls, and a sky.

@@ -8,3 +8,8 @@ A brown folding chair.
 A brown folding chair is leaning against a white wall next to a metal door.
 A brown folding chair is tucked into a corner next to a white wall, with a blue trash can nearby.
 The image shows a brown folding chair against a white wall, with a blue trash can to the right and a beige door to the left.
+An image with a floor, a chair, a refrigerator, and a wall.
+An image with a refrigerator, a chair, a wall, and a floor.
+An image with a refrigerator, a floor, a wall, and a chair.
+An image with a floor, a refrigerator, a chair, and a wall.
+An image with a floor, a wall, a chair, and a refrigerator.

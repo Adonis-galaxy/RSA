@@ -8,3 +8,8 @@ A truck is parked on the side of a road.
 A truck parked on a shaded street, with a car parked on the opposite side of the road, and a house in the background.
 A large truck is parked on a narrow street lined with trees and bushes.
 A narrow, tree-lined street with a pickup truck parked on the side, leading to a house in the background.
+An image with a car, a pavement, a grass, a tree, a road, and a truck.
+An image with a pavement, a car, a road, a truck, a tree, and a grass.
+An image with a tree, a grass, a car, a truck, a road, and a pavement.
+An image with a grass, a road, a pavement, a tree, a car, and a truck.
+An image with a grass, a car, a tree, a road, a truck, and a pavement.

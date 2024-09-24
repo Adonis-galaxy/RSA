@@ -8,3 +8,8 @@ A classroom with a refrigerator and a table.
 The image shows a classroom with a large whiteboard, a desk with a computer monitor, a refrigerator, and a bulletin board.
 The image shows a small room with a refrigerator, a table, a chair, and a bulletin board.
 The image shows a room with a large refrigerator, a table with a chair, a bulletin board, and a chalkboard. The room has a green wall and a white ceiling.
+An image with a light, a paper, a person, a refrigerator, a tv, four chairs, a dining, a wall, a ceiling, and a floor.
+An image with a wall, four chairs, a light, a floor, a dining, a person, a ceiling, a paper, a tv, and a refrigerator.
+An image with four chairs, a person, a wall, a paper, a refrigerator, a dining, a tv, a ceiling, a light, and a floor.
+An image with a ceiling, a light, a wall, four chairs, a tv, a person, a refrigerator, a dining, a paper, and a floor.
+An image with a floor, four chairs, a tv, a dining, a ceiling, a light, a paper, a refrigerator, a person, and a wall.

@@ -8,3 +8,8 @@ A bed with a striped blanket.
 The image captures a cozy bedroom scene with a bed adorned with a striped blanket, flanked by two lamps, one on each side, creating a symmetrical balance.
 The image shows a bedroom with a large bed covered in a striped blanket, a nightstand with a lamp, and a painting on the wall.
 The image shows a well-lit bedroom with a neatly made bed, a nightstand with a lamp, a window with blinds, and a painting on the wall.
+An image with a light, a curtain, a window, a table, a bed, a wall, and a floor.
+An image with a table, a floor, a wall, a bed, a curtain, a light, and a window.
+An image with a table, a wall, a window, a floor, a bed, a light, and a curtain.
+An image with a floor, a wall, a table, a bed, a curtain, a window, and a light.
+An image with a table, a curtain, a floor, a wall, a window, a bed, and a light.

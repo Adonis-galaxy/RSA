@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 A narrow, tree-lined street with parked cars and a red-topped vehicle at the end.
 The image shows a narrow street lined with parked cars and lush greenery, with a large red car parked on the right side of the street.
 A narrow, tree-lined street with parked cars and apartment buildings on either side.
+An image with four cars, a sky, a pavement, a truck, a house, a tree, a grass, and a road.
+An image with four cars, a house, a tree, a grass, a truck, a sky, a road, and a pavement.
+An image with a house, a truck, a pavement, four cars, a road, a sky, a tree, and a grass.
+An image with a grass, a pavement, a road, a house, a truck, a sky, four cars, and a tree.
+An image with a grass, a road, four cars, a truck, a pavement, a sky, a house, and a tree.

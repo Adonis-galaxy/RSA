@@ -8,3 +8,8 @@ A yellow box of tissues on a counter.
 A yellow and blue box of tissues on a counter with a white napkin.
 A yellow and blue box of tissues on a counter, with a white napkin and a cup of straws.
 A yellow and blue box of tissues on a counter with a white napkin and a cup of straws.
+An image with a table, a paper, a wall, and a cup.
+An image with a paper, a wall, a table, and a cup.
+An image with a paper, a cup, a table, and a wall.
+An image with a wall, a paper, a cup, and a table.
+An image with a cup, a paper, a table, and a wall.

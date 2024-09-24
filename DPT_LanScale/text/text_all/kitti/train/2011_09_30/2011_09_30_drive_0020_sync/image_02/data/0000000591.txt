@@ -8,3 +8,8 @@ The image shows a street with parked cars and apartment buildings.
 A quiet residential street with parked cars and a truck, lined by apartment buildings and trees, under a clear blue sky.
 The image shows a narrow street lined with parked cars and apartment buildings, with a clear blue sky overhead.
 A long, narrow street lined with parked cars and buildings, leading to a residential area.
+An image with nine cars, a road, a pavement, a tree, a truck, a bench, a house, and a grass.
+An image with a bench, nine cars, a road, a house, a truck, a pavement, a grass, and a tree.
+An image with a road, a truck, a pavement, nine cars, a grass, a tree, a house, and a bench.
+An image with a house, nine cars, a truck, a bench, a grass, a pavement, a road, and a tree.
+An image with a tree, a grass, nine cars, a road, a house, a truck, a pavement, and a bench.

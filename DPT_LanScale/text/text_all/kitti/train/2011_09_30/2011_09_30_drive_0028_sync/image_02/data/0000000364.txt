@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with parked cars and a tr
 The image captures a quiet residential street, with parked cars lining the sidewalk and a truck parked in front of a building, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street between two-story buildings, with parked cars and a truck on the right side, and a sidewalk on the left.
 The image depicts a narrow street lined with buildings, parked cars, and a truck, with a clear sky overhead.
+An image with a road, a pavement, a house, four cars, a tree, a fence, and a truck.
+An image with a road, four cars, a truck, a house, a pavement, a tree, and a fence.
+An image with a house, four cars, a pavement, a fence, a truck, a tree, and a road.
+An image with a house, a tree, four cars, a pavement, a truck, a fence, and a road.
+An image with four cars, a house, a truck, a pavement, a fence, a road, and a tree.

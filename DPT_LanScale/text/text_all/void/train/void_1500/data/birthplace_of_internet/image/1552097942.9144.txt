@@ -8,3 +8,8 @@ A classroom with a long light fixture.
 The image shows a classroom with a long fluorescent light fixture, a blueboard, a desk with a computer monitor, and a bulletin board with pictures.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a poster on it, and a few other items.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a poster on it, a bulletin board, a desk with a computer monitor, and a chair.
+An image with a table, a wall, a tv, two people, a ceiling, a light, and three chairs.
+An image with three chairs, a ceiling, a light, a tv, a wall, two people, and a table.
+An image with a wall, a table, a light, three chairs, a tv, two people, and a ceiling.
+An image with a tv, a light, a table, two people, three chairs, a ceiling, and a wall.
+An image with three chairs, two people, a table, a ceiling, a wall, a tv, and a light.

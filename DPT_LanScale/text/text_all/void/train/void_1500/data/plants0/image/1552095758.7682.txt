@@ -8,3 +8,8 @@ A concrete planter with plants and dirt.
 The image shows a concrete pathway with a raised planter filled with plants and sand, creating a natural border between the path and the surrounding area.
 The image shows a long, narrow, concrete planter filled with various plants and a brick-patterned walkway.
 The image shows a concrete sidewalk with a raised planter box containing a variety of plants and shrubs, creating a visually appealing and natural transition between the sidewalk and the surrounding environment.
+An image with a dirt, a floor, two walls, and a tree.
+An image with two walls, a dirt, a floor, and a tree.
+An image with a dirt, two walls, a floor, and a tree.
+An image with a floor, a tree, two walls, and a dirt.
+An image with a tree, two walls, a dirt, and a floor.

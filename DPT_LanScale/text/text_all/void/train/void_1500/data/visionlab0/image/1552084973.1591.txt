@@ -8,3 +8,8 @@ A blurry image of a person sitting at a desk with a blue jacket hanging on the b
 A blurry image of a person sitting at a desk with a blue jacket hanging on the back of a chair.
 A blurry image of a person sitting at a desk with a blue jacket hanging on the back of a chair, a red umbrella, and a white car model on the desk.
 A blurry image of a person sitting at a desk with a blue jacket hanging on the back of a chair, a red umbrella, and a white car model on the desk.
+An image with a backpack, a person, a wall, a table, a chair, a floor, a umbrella, and a car.
+An image with a wall, a chair, a person, a car, a table, a backpack, a umbrella, and a floor.
+An image with a wall, a chair, a umbrella, a table, a car, a floor, a person, and a backpack.
+An image with a car, a wall, a person, a floor, a table, a backpack, a umbrella, and a chair.
+An image with a backpack, a wall, a chair, a floor, a table, a car, a person, and a umbrella.

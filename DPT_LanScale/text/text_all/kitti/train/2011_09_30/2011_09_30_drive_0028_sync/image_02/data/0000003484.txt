@@ -8,3 +8,8 @@ The image shows a street scene with a man walking on the sidewalk and two cars p
 A man walks past a construction site, with a car parked on the street and a yellow traffic cone nearby.
 A man is walking on a sidewalk next to a road with parked cars, a construction barrier, and a yellow traffic cone.
 A narrow street with parked cars, a man walking, and construction barriers, all under a clear blue sky.
+An image with a sky, a road, two cars, a fence, a tree, a person, a pavement, a wall, a truck, and a dirt.
+An image with a pavement, two cars, a road, a sky, a person, a fence, a wall, a dirt, a tree, and a truck.
+An image with a fence, a tree, a sky, a person, a wall, two cars, a truck, a road, a dirt, and a pavement.
+An image with a road, a wall, two cars, a dirt, a pavement, a truck, a sky, a person, a tree, and a fence.
+An image with a dirt, a truck, a sky, a person, a fence, a tree, two cars, a road, a wall, and a pavement.

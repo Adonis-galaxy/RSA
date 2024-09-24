@@ -8,3 +8,8 @@ The image shows a busy street with multiple lanes of traffic, including cars and
 The image captures a bustling city street with a mix of vehicles and traffic lights, illustrating the essence of urban life and transportation.
 The image shows a wide, multi-lane road with traffic lights and signs, and a few cars driving on it.
 A busy city street with multiple lanes, traffic lights, and vehicles.
+An image with five cars, a road, three traffics, a tree, a pavement, and a parking.
+An image with three traffics, five cars, a tree, a pavement, a road, and a parking.
+An image with three traffics, five cars, a road, a tree, a parking, and a pavement.
+An image with five cars, three traffics, a pavement, a tree, a parking, and a road.
+An image with a tree, a pavement, a parking, five cars, three traffics, and a road.

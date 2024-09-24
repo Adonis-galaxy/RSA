@@ -8,3 +8,8 @@ A man walking on a sidewalk.
 A man walking on a path through a lush, tree-lined road, with a clear sky overhead.
 A man walking on a sidewalk next to a tree-lined road.
 A winding road through a lush green forest, with a man walking on the sidewalk.
+An image with a sky, two people, a road, a tree, a grass, and a pavement.
+An image with a sky, a pavement, a grass, two people, a road, and a tree.
+An image with a road, two people, a sky, a grass, a pavement, and a tree.
+An image with two people, a road, a grass, a pavement, a tree, and a sky.
+An image with a road, two people, a pavement, a grass, a sky, and a tree.

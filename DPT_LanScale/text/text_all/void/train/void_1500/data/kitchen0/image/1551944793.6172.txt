@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a sink.
 The image shows a small kitchen with a sink, a counter, and a cabinet.
 The image shows a small kitchen with a sink, a cabinet, and a counter.
 The image shows a small, orange-colored kitchenette with a sink, a cabinet, and a countertop.
+An image with two bottles, a paper, a wall, a sink, a cabinet, and a counter.
+An image with a counter, a wall, a cabinet, a sink, a paper, and two bottles.
+An image with a cabinet, a paper, two bottles, a counter, a wall, and a sink.
+An image with a wall, two bottles, a counter, a paper, a sink, and a cabinet.
+An image with a wall, a paper, a counter, two bottles, a sink, and a cabinet.

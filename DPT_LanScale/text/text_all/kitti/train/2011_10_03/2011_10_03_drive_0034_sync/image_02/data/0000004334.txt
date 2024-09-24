@@ -8,3 +8,8 @@ A tree-lined street.
 A tree-lined road with a clear pathway, bordered by a stone wall and lush greenery.
 A tree-lined road with a clear view of the sky and a sidewalk.
 A tree-lined road with a clear pathway, bordered by a stone wall and lush greenery.
+An image with a tree, a sky, a road, a wall, a person, and a grass.
+An image with a tree, a grass, a wall, a person, a road, and a sky.
+An image with a tree, a wall, a sky, a road, a grass, and a person.
+An image with a grass, a tree, a wall, a person, a sky, and a road.
+An image with a road, a grass, a person, a tree, a wall, and a sky.

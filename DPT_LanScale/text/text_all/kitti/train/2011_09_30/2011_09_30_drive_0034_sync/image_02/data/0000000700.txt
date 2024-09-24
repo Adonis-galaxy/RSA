@@ -8,3 +8,8 @@ The image shows a street scene with a motorcycle parked on the sidewalk.
 The image captures a quiet, tree-lined street with a motorcycle parked on the sidewalk, a sign indicating a nearby park, and a building with a red roof in the background.
 The image shows a narrow, tree-lined street with a motorcycle parked on the sidewalk, a sign indicating a nearby park, and a building in the background.
 The image depicts a quiet, tree-lined street with a clear view of a parked motorcycle and a sign indicating a nearby park.
+An image with a tree, a pavement, two walls, a fence, a house, a sky, a motorcycle, and a road.
+An image with a pavement, a motorcycle, two walls, a house, a fence, a road, a sky, and a tree.
+An image with a fence, a road, a house, a pavement, two walls, a motorcycle, a sky, and a tree.
+An image with a motorcycle, a fence, a tree, a sky, two walls, a house, a pavement, and a road.
+An image with a house, a pavement, two walls, a motorcycle, a tree, a road, a fence, and a sky.

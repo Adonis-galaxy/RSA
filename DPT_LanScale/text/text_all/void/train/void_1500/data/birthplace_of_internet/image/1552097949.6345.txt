@@ -8,3 +8,8 @@ A blue wall with a whiteboard on it.
 The image shows a room with a blue wall, a table with a chair, a trash can, and a bulletin board with a blue background.
 The image shows a room with a blue wall, a table with a chair, a trash can, and a bulletin board with a blue background.
 The image shows a room with a blue wall, a table with a chair, a trash can, and a blue cabinet with a whiteboard on it.
+An image with four chairs, a refrigerator, a wall, a table, a dining, a paper, a person, and a floor.
+An image with a person, four chairs, a floor, a dining, a paper, a refrigerator, a wall, and a table.
+An image with a person, a table, four chairs, a paper, a floor, a wall, a dining, and a refrigerator.
+An image with four chairs, a floor, a paper, a wall, a table, a refrigerator, a person, and a dining.
+An image with four chairs, a dining, a floor, a person, a table, a paper, a refrigerator, and a wall.

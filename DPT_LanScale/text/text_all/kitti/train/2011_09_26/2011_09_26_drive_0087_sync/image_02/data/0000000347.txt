@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a staircase leading to a doorway on the right, and a white fence on the left.
 The image shows a narrow alleyway between two buildings, with a staircase leading up to a doorway on the right. The alley is lined with a fence and a wall covered in ivy.
 A narrow, tree-lined alleyway leads to a white house with a red roof, which is partially obscured by a large green wall.
+An image with a sky, a fence, a bridge, a tree, a train, a road, a car, and a house.
+An image with a fence, a train, a tree, a house, a car, a bridge, a road, and a sky.
+An image with a fence, a bridge, a house, a road, a car, a sky, a train, and a tree.
+An image with a fence, a train, a car, a bridge, a sky, a road, a tree, and a house.
+An image with a tree, a house, a fence, a car, a train, a sky, a bridge, and a road.

@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a truck.
 A narrow street in a residential area, with parked cars and a large truck, under a clear sky.
 A large truck is parked on the side of a narrow street lined with houses and cars, with a white building visible in the background.
 A narrow street in a residential area, with parked cars, a truck, and a white building on the right side.
+An image with a sky, six cars, a tree, a road, two trucks, a pavement, and a house.
+An image with a sky, six cars, two trucks, a tree, a pavement, a road, and a house.
+An image with a sky, a road, six cars, two trucks, a pavement, a tree, and a house.
+An image with six cars, a sky, a house, a pavement, two trucks, a tree, and a road.
+An image with six cars, a house, a road, two trucks, a sky, a pavement, and a tree.

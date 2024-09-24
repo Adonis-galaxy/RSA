@@ -8,3 +8,8 @@ The image shows a conference room with a long table and four chairs.
 The image shows an empty conference room with a long table and four chairs, all facing the same direction, ready for a meeting.
 The image shows a long, narrow conference table with four black chairs, two of which are occupied by laptops. The table is set against a white wall, and there are potted plants on either side.
 The image shows an empty conference room with a long table, four chairs, and a glass vase with greenery on the table.
+An image with three chairs, two potteds, a floor, a dining, and a wall.
+An image with a dining, three chairs, a floor, two potteds, and a wall.
+An image with three chairs, a dining, a floor, a wall, and two potteds.
+An image with a wall, two potteds, three chairs, a floor, and a dining.
+An image with a wall, a dining, two potteds, three chairs, and a floor.

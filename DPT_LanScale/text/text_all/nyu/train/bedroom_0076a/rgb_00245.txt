@@ -8,3 +8,8 @@ The image shows a room with two beds and a chair.
 The image shows a room with two beds, one with a blue and yellow checkered bedspread and the other with a blue and white checkered bedspread, both with plaid pillows. There is a gray chair with a white patterned seat in the corner of the room. The room has a wooden floor and a window with white blinds.
 The image shows a small room with two bunk beds, a chair, and a window with blinds.
 The image shows a room with two bunk beds, one of which has a blue and yellow checkered bedspread, and a gray chair with a white and blue patterned seat. The room has a wooden floor and white walls.
+An image with two beds, a wall, a floor, a potted, a window, and a chair.
+An image with a window, a chair, two beds, a wall, a potted, and a floor.
+An image with a wall, two beds, a chair, a window, a floor, and a potted.
+An image with a potted, two beds, a window, a floor, a wall, and a chair.
+An image with a chair, two beds, a potted, a floor, a wall, and a window.

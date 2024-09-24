@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A cyclist riding down a shaded street, with a clear sky overhead and a row of houses and trees lining the road.
 A person riding a motorcycle on a shaded street between houses.
 A cyclist rides down a shaded, tree-lined street, passing a parked motorcycle and a triangular sign, with a red building and a white house in the background.
+An image with a wall, a pavement, a tree, a grass, a sky, a road, a house, a person, and a motorcycle.
+An image with a pavement, a tree, a wall, a person, a house, a motorcycle, a road, a grass, and a sky.
+An image with a road, a tree, a motorcycle, a person, a grass, a house, a wall, a pavement, and a sky.
+An image with a sky, a road, a tree, a person, a grass, a motorcycle, a pavement, a house, and a wall.
+An image with a motorcycle, a wall, a house, a road, a pavement, a sky, a grass, a tree, and a person.

@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street with a mix of vehicles, pedestrians, and urban architecture, highlighting the dynamic nature of urban life.
 The image depicts a bustling city street with tall buildings, a busy intersection, numerous cars, a few pedestrians, and a prominent train track.
 The image captures a bustling city intersection with a mix of vehicles, pedestrians, and urban architecture.
+An image with a building, a tree, ten cars, a bicycle, a traffic, two people, a road, three stops, a motorcycle, a bus, and a sky.
+An image with a sky, three stops, ten cars, a traffic, a motorcycle, a bicycle, a bus, two people, a building, a tree, and a road.
+An image with a building, two people, three stops, ten cars, a tree, a sky, a traffic, a bicycle, a bus, a motorcycle, and a road.
+An image with three stops, ten cars, a road, two people, a bicycle, a bus, a motorcycle, a building, a traffic, a sky, and a tree.
+An image with a motorcycle, three stops, ten cars, two people, a building, a bus, a traffic, a sky, a tree, a road, and a bicycle.

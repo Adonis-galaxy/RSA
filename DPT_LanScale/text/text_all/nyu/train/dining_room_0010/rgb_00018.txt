@@ -8,3 +8,8 @@ A dining room with a wooden floor and a table with four chairs.
 The image captures a well-lit, spacious dining room with a wooden floor, featuring a large wooden table surrounded by six matching chairs, all positioned in front of a framed picture on the wall.
 The image shows a dining room with a large wooden table surrounded by six chairs, a doorway leading to a kitchen, and a framed picture on the wall.
 The image shows a formal dining room with a dark wood table and matching chairs, set against a light-colored wall with a framed picture and a doorway leading to a kitchen.
+An image with a cabinet, four chairs, a floor, a light, a ceiling, a wall, and a dining.
+An image with a light, four chairs, a floor, a wall, a dining, a cabinet, and a ceiling.
+An image with a dining, four chairs, a floor, a wall, a light, a cabinet, and a ceiling.
+An image with four chairs, a dining, a floor, a cabinet, a light, a ceiling, and a wall.
+An image with four chairs, a cabinet, a dining, a wall, a floor, a ceiling, and a light.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A person stands on the sidewalk, watching a car parked on the street, with a backpack, under a tree, and a street sign nearby.
 A person stands on the sidewalk, wearing a backpack, while a car is parked on the street, and there are trees and buildings in the background.
 A narrow street with parked cars, a sidewalk, and a person standing on the sidewalk, flanked by trees and buildings.
+An image with a house, two cars, a tree, a grass, a pavement, a sky, a fence, a person, and a road.
+An image with a tree, a grass, a person, a sky, a house, two cars, a pavement, a fence, and a road.
+An image with two cars, a person, a pavement, a sky, a house, a grass, a tree, a fence, and a road.
+An image with a pavement, a house, a grass, two cars, a road, a fence, a sky, a tree, and a person.
+An image with two cars, a grass, a fence, a sky, a tree, a road, a house, a pavement, and a person.

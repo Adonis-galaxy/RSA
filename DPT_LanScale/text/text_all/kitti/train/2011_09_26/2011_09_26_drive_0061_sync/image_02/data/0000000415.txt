@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A narrow, tree-lined street with a car parked at the end, leading to a brick wall and a staircase.
 A narrow, tree-lined street with a car parked on the side, leading to a brick wall and a staircase.
 A narrow, tree-lined street with a brick wall on one side and a stone wall on the other, leading to a dead-end.
+An image with a fence, two cars, a grass, a pavement, a tree, a sky, a road, and a wall.
+An image with a pavement, two cars, a road, a grass, a sky, a fence, a tree, and a wall.
+An image with two cars, a tree, a pavement, a wall, a sky, a grass, a fence, and a road.
+An image with a road, a tree, a wall, two cars, a fence, a pavement, a grass, and a sky.
+An image with a tree, two cars, a wall, a sky, a grass, a fence, a road, and a pavement.

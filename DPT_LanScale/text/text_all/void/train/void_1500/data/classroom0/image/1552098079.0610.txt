@@ -8,3 +8,8 @@ A row of empty seats in a classroom.
 A row of empty seats in a classroom, facing a chalkboard.
 A row of empty brown chairs in a classroom, with a green cabinet and a black object in the background.
 The image shows a row of empty brown chairs in a classroom setting, with a green cabinet and a black object in the background.
+An image with eight chairs, a refrigerator, a floor, a tv, two walls, and a table.
+An image with eight chairs, a table, a tv, a floor, two walls, and a refrigerator.
+An image with eight chairs, a floor, two walls, a table, a tv, and a refrigerator.
+An image with a tv, eight chairs, a table, a floor, two walls, and a refrigerator.
+An image with two walls, a tv, eight chairs, a table, a floor, and a refrigerator.

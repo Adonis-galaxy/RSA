@@ -8,3 +8,8 @@ The image shows a street scene with cars, bicycles, and a sidewalk.
 A quiet residential street with parked cars and bicycles, shaded by trees, leading to apartment buildings.
 The image shows a narrow street lined with parked cars and bicycles, with apartment buildings on either side, and a few trees providing shade.
 A quiet residential street with parked cars, bicycles, and a few pedestrians, lined with trees and buildings, under a bright sunny sky.
+An image with a house, a sky, three cars, a tree, a pavement, two bicycles, a person, a grass, a bus, and a road.
+An image with three cars, a bus, a sky, a road, a pavement, two bicycles, a grass, a house, a person, and a tree.
+An image with a pavement, a house, three cars, a tree, a sky, a bus, two bicycles, a road, a person, and a grass.
+An image with a pavement, a road, two bicycles, a sky, three cars, a person, a bus, a house, a tree, and a grass.
+An image with a road, a grass, a house, three cars, two bicycles, a sky, a person, a bus, a pavement, and a tree.

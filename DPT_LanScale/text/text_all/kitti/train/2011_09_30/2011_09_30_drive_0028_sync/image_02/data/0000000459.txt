@@ -8,3 +8,8 @@ A narrow street between two houses.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac where a blue dumpster waits for collection.
 The image shows a narrow, tree-lined street between two-story houses, with a blue dumpster on the left side and a red car parked on the right side.
 A narrow, tree-lined street between two-story houses, with a blue dumpster and a red car parked on the side.
+An image with a house, a pavement, a road, a sky, a roof, a tree, two cars, a wall, and a fence.
+An image with a road, a tree, a sky, two cars, a roof, a fence, a wall, a house, and a pavement.
+An image with a house, a sky, a pavement, two cars, a tree, a wall, a road, a fence, and a roof.
+An image with a roof, a sky, a fence, a house, a tree, a wall, a road, two cars, and a pavement.
+An image with a sky, a tree, a roof, a wall, two cars, a road, a fence, a pavement, and a house.

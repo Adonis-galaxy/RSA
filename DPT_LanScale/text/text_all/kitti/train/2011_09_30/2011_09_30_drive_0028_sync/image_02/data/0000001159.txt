@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a mix of parked cars, moving traffic, and pedestrians, all under the shade of tall trees and the watchful eyes of traffic lights.
 The image depicts a tree-lined street with parked cars, a sidewalk, a crosswalk, a traffic light, a mailbox, and a large sign.
 The image depicts a tree-lined street with parked cars, a sidewalk, and a traffic light, leading to a building with a sign on the corner.
+An image with twelve cars, a dirt, a road, a grass, a pavement, a tree, two traffics, and a house.
+An image with a house, a pavement, twelve cars, a dirt, two traffics, a tree, a road, and a grass.
+An image with twelve cars, a tree, a grass, a dirt, a pavement, a road, two traffics, and a house.
+An image with twelve cars, two traffics, a road, a tree, a house, a grass, a pavement, and a dirt.
+An image with a tree, a road, twelve cars, a dirt, a house, two traffics, a pavement, and a grass.

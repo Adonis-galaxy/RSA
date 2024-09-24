@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street leads to a house with a garage, where a bicycle is parked, and a car is parked in the driveway.
 A narrow, tree-lined street leads to a house with a garage, surrounded by lush greenery.
 A quiet, tree-lined street leads to a house with a garage, surrounded by lush greenery and a clear sky.
+An image with a sky, a pavement, a tree, a roof, and a road.
+An image with a tree, a pavement, a roof, a sky, and a road.
+An image with a tree, a road, a pavement, a sky, and a roof.
+An image with a roof, a road, a pavement, a tree, and a sky.
+An image with a roof, a sky, a pavement, a road, and a tree.

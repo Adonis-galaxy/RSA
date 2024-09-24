@@ -8,3 +8,8 @@ A messy room with a red curtain and a window sill.
 A cluttered room with a bed, chair, and a window with red curtains.
 A small pile of clothes is sitting on a windowsill next to a red curtain.
 A messy room with a bed, chair, and pile of clothes and blankets in front of a red curtain.
+An image with a book, two beds, a wall, and a curtain.
+An image with a book, a wall, two beds, and a curtain.
+An image with a book, a wall, a curtain, and two beds.
+An image with two beds, a book, a curtain, and a wall.
+An image with two beds, a curtain, a wall, and a book.

@@ -8,3 +8,8 @@ A man sitting on a couch in a living room.
 A young man sits on a beige couch, engrossed in a book, with a large abstract painting as a backdrop, and a lamp nearby.
 A young man is sitting on a large beige couch in a living room, holding a small tablet, while a large abstract painting hangs on the wall behind him.
 A young man sits on a beige couch in a living room with a large abstract painting on the wall, a brown chair, a blue bag, a red lamp, and a white door.
+An image with two chairs, a cabinet, a wall, a couch, a floor, a remote, a ceiling, and a person.
+An image with a remote, a couch, a floor, two chairs, a ceiling, a person, a wall, and a cabinet.
+An image with a cabinet, a ceiling, a couch, a floor, two chairs, a remote, a wall, and a person.
+An image with a floor, two chairs, a person, a wall, a couch, a cabinet, a remote, and a ceiling.
+An image with a person, two chairs, a couch, a wall, a floor, a ceiling, a cabinet, and a remote.

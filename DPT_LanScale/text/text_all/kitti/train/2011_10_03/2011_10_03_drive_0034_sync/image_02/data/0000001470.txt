@@ -8,3 +8,8 @@ The image shows a tree-lined street with a sidewalk.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 The image shows a narrow, tree-lined street with a few cars parked on the side, leading to a larger road with more cars. The street is adorned with a pattern of circular designs on the pavement.
 A tree-lined street with a curved path, bordered by a low wall and a hedge, leading to a clear blue sky.
+An image with six cars, a road, a tree, a wall, a sky, and a pavement.
+An image with six cars, a road, a wall, a pavement, a sky, and a tree.
+An image with six cars, a sky, a wall, a road, a tree, and a pavement.
+An image with a pavement, six cars, a tree, a road, a wall, and a sky.
+An image with a tree, a sky, six cars, a pavement, a wall, and a road.

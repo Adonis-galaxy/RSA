@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars lining both sides, and a lone figure walking down the middle, creating a sense of tranquility and everyday life.
 The image shows a narrow street lined with parked cars, with a person walking in the middle, and a clear sky overhead.
 The image depicts a narrow, tree-lined street with parked cars on both sides, leading to a residential area with houses and a clear sky.
+An image with seven cars, a pavement, a sky, a road, a tree, a person, a grass, a bicycle, and a house.
+An image with seven cars, a pavement, a bicycle, a tree, a person, a house, a sky, a grass, and a road.
+An image with a person, a grass, seven cars, a house, a bicycle, a pavement, a road, a sky, and a tree.
+An image with seven cars, a grass, a bicycle, a pavement, a tree, a road, a sky, a person, and a house.
+An image with seven cars, a person, a grass, a road, a pavement, a bicycle, a house, a sky, and a tree.

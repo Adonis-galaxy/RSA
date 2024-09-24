@@ -8,3 +8,8 @@ The image is a black and white photograph of a narrow street between two buildin
 A quiet residential street, lined with neatly trimmed hedges and houses, under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a person walking on the sidewalk.
 A narrow, tree-lined street between two-story buildings, with a child running on the sidewalk.
+An image with five cars, a tree, a stairs, a pavement, a sky, a person, a road, and a house.
+An image with five cars, a tree, a person, a stairs, a sky, a house, a road, and a pavement.
+An image with a person, a stairs, a sky, five cars, a tree, a road, a pavement, and a house.
+An image with a sky, five cars, a pavement, a stairs, a tree, a house, a road, and a person.
+An image with five cars, a person, a sky, a tree, a stairs, a house, a pavement, and a road.

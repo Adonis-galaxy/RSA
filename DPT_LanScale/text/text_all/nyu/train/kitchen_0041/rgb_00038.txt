@@ -8,3 +8,8 @@ A kitchen with a stove and counter.
 The image captures a well-lit, modern kitchen with a center island, featuring a gas stove, wooden cabinets, and a marble countertop.
 The image shows a large kitchen with a center island, featuring a gas stove, a sink, wooden cabinets, and a tiled floor.
 The image shows a well-lit kitchen with a center island, granite countertops, wooden cabinets, and a stainless steel stove.
+An image with a cabinet, a counter, a oven, two walls, a floor, and a chair.
+An image with a oven, two walls, a floor, a counter, a cabinet, and a chair.
+An image with a floor, a cabinet, two walls, a chair, a counter, and a oven.
+An image with two walls, a cabinet, a chair, a floor, a oven, and a counter.
+An image with a floor, two walls, a chair, a counter, a cabinet, and a oven.

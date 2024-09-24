@@ -8,3 +8,8 @@ A desk with a coffee cup on it.
 A desk with a coffee cup, papers, and a phone.
 A desk with a coffee cup, papers, and a phone on it.
 A desk with a coffee cup, papers, and a phone on it.
+An image with a table, a book, a cabinet, a wall, a tv, two keyboards, a rug, two cups, and a chair.
+An image with a chair, a book, a rug, a wall, two cups, a table, two keyboards, a tv, and a cabinet.
+An image with two keyboards, a rug, a wall, a tv, a table, two cups, a book, a cabinet, and a chair.
+An image with a table, a rug, two cups, two keyboards, a book, a cabinet, a wall, a chair, and a tv.
+An image with a wall, two cups, a cabinet, a book, a rug, a chair, a tv, a table, and two keyboards.

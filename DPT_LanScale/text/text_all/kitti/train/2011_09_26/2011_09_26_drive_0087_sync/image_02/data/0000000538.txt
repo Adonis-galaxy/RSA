@@ -8,3 +8,8 @@ The image shows a narrow street with a car parked on the side.
 A narrow street between two white buildings, with a black SUV parked on the right side, and a yellow car driving down the road.
 A small black SUV is parked on a narrow street between two white buildings, with a person visible in the background.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a white building with a red roof.
+An image with a house, two cars, a road, a wall, a sky, a fence, a pavement, and a tree.
+An image with a sky, a fence, a tree, a road, two cars, a house, a wall, and a pavement.
+An image with a tree, a fence, a house, two cars, a wall, a sky, a pavement, and a road.
+An image with a fence, a sky, a pavement, a house, two cars, a road, a wall, and a tree.
+An image with a sky, a wall, a tree, two cars, a road, a pavement, a fence, and a house.

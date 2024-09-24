@@ -8,3 +8,8 @@ The image shows a long, empty highway with a clear blue sky.
 The image captures a serene highway scene with a clear sky, a few cars, and a distant cityscape.
 The image shows a wide, empty highway with a few cars, a bridge in the distance, and a clear blue sky.
 The image shows a long, straight, multi-lane highway with a clear sky, a few cars, and a distant cityscape.
+An image with a road, a grass, a building, a tree, a fence, and a car.
+An image with a building, a grass, a fence, a car, a tree, and a road.
+An image with a car, a building, a grass, a tree, a fence, and a road.
+An image with a road, a fence, a building, a tree, a car, and a grass.
+An image with a fence, a road, a car, a building, a grass, and a tree.

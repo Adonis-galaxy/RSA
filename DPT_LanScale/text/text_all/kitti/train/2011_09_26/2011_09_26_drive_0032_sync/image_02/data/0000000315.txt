@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic signs.
 The image captures a serene, tree-lined road with a few cars in motion, flanked by traffic cones and a sign, under a bright, sunny sky.
 The image shows a wide, empty highway with a few cars and trucks, a median strip, and trees on both sides.
 The image depicts a wide, multi-lane highway with a clear view of the road ahead, flanked by trees and a grassy median, with a few vehicles in motion.
+An image with six cars, a road, a truck, a tree, a grass, a pavement, and a sky.
+An image with a road, six cars, a tree, a pavement, a truck, a sky, and a grass.
+An image with a grass, a pavement, a road, six cars, a tree, a sky, and a truck.
+An image with a grass, six cars, a sky, a pavement, a road, a tree, and a truck.
+An image with a sky, a road, six cars, a truck, a pavement, a tree, and a grass.

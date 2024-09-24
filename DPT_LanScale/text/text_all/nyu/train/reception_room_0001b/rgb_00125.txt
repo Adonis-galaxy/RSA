@@ -8,3 +8,8 @@ The image shows a room with two potted plants on a wooden floor.
 The image shows a room with two potted plants, one on the floor and one on a surface, against a wall with a picture and a light switch.
 The image shows a room with two potted plants, one larger and one smaller, placed on a wooden floor near a wall with a picture hanging above a red countertop.
 The image shows a room with a wooden floor, two potted plants, one on each side of the room, and a picture hanging on the wall.
+An image with a floor, a wall, four potteds, and a dining.
+An image with a dining, four potteds, a wall, and a floor.
+An image with a floor, a wall, a dining, and four potteds.
+An image with a wall, four potteds, a floor, and a dining.
+An image with four potteds, a dining, a floor, and a wall.

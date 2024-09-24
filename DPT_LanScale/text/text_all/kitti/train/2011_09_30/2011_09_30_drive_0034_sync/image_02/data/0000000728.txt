@@ -8,3 +8,8 @@ The image shows a street with a car and a house.
 A quiet, tree-lined street with a few cars, leading to a house on the right.
 A car is driving down a tree-lined street, with a house visible in the background.
 A narrow, tree-lined street with a car and a truck driving down it, leading to a white house with a black roof.
+An image with two cars, a sky, a road, a pavement, a roof, a house, a grass, and a tree.
+An image with a house, a roof, two cars, a tree, a road, a pavement, a grass, and a sky.
+An image with a roof, a pavement, two cars, a road, a grass, a sky, a tree, and a house.
+An image with a roof, two cars, a sky, a pavement, a tree, a house, a road, and a grass.
+An image with a road, a grass, a pavement, two cars, a tree, a house, a roof, and a sky.

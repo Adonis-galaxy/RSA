@@ -8,3 +8,8 @@ A computer on a desk.
 A computer on a desk in a lab.
 A computer on a desk with a blue chair, a blue cart with white pipes, and a silver lamp.
 The image shows a cluttered lab bench with various equipment and a computer, with a blue chair tucked under the desk.
+An image with a chair, a wall, two tvs, a floor, a window, a table, a sink, a cabinet, and a light.
+An image with two tvs, a sink, a light, a window, a chair, a table, a cabinet, a wall, and a floor.
+An image with a table, a floor, a window, a wall, a chair, a light, a sink, a cabinet, and two tvs.
+An image with a table, a cabinet, a sink, two tvs, a chair, a floor, a window, a light, and a wall.
+An image with a cabinet, two tvs, a wall, a light, a sink, a window, a floor, a table, and a chair.

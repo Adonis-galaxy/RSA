@@ -8,3 +8,8 @@ The image shows a street scene with a row of houses, a sidewalk, and a road.
 The image captures a quiet residential street, with parked cars and a few pedestrians, leading to a row of houses and apartment buildings, under a clear blue sky.
 The image shows a residential street with parked cars, a sidewalk, and a row of houses. The street is lined with trees and there are construction vehicles parked on the side of the road.
 A quiet residential street with parked cars, benches, and apartment buildings, under a clear blue sky.
+An image with a tree, seven cars, a dirt, a pavement, a grass, a building, two trucks, a road, and a house.
+An image with a pavement, seven cars, a house, a tree, a building, two trucks, a dirt, a road, and a grass.
+An image with a tree, seven cars, a dirt, two trucks, a house, a road, a pavement, a building, and a grass.
+An image with seven cars, a tree, two trucks, a dirt, a pavement, a house, a road, a building, and a grass.
+An image with a pavement, two trucks, a tree, a building, a dirt, seven cars, a house, a grass, and a road.

@@ -8,3 +8,8 @@ A tree-lined street with parked cars.
 A tree-lined street with parked cars and a person on a bicycle, under a bright sunny sky.
 A narrow, tree-lined street with parked cars and a person riding a bicycle.
 A tree-lined street with parked cars and a person riding a bicycle.
+An image with nine cars, a pavement, a person, a road, a tree, a bicycle, a backpack, a grass, and a sky.
+An image with a person, nine cars, a road, a bicycle, a pavement, a backpack, a sky, a tree, and a grass.
+An image with nine cars, a tree, a sky, a road, a bicycle, a person, a pavement, a backpack, and a grass.
+An image with nine cars, a tree, a grass, a pavement, a backpack, a road, a sky, a person, and a bicycle.
+An image with nine cars, a bicycle, a road, a backpack, a sky, a grass, a tree, a person, and a pavement.

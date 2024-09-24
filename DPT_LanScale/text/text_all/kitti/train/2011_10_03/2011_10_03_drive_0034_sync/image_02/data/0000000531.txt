@@ -8,3 +8,8 @@ The image shows a row of parked cars on a street.
 A row of parked cars on a tree-lined street, with a mix of colors and models, under a bright sunny day.
 A row of parked cars on a narrow street, with a mix of small and large vehicles, and a few trees in the background.
 A row of parked cars on a tree-lined street.
+An image with ten cars, a pavement, a tree, a building, a clock, and a road.
+An image with ten cars, a road, a pavement, a tree, a building, and a clock.
+An image with ten cars, a pavement, a clock, a tree, a road, and a building.
+An image with ten cars, a building, a tree, a pavement, a road, and a clock.
+An image with a road, ten cars, a building, a pavement, a tree, and a clock.

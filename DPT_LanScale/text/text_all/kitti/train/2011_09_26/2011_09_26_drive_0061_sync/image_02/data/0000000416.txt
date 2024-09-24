@@ -8,3 +8,8 @@ A narrow street between two walls of greenery.
 The image captures a serene, tree-lined street that leads to a brick wall, with a car parked on the side, and a lamp post standing sentinel at the end of the road.
 A narrow, tree-lined street with a car parked at the end, flanked by tall hedges and lined with street lamps.
 A narrow, tree-lined street with a brick wall on one side and a white building on the other, leading to a dead-end.
+An image with a pavement, a grass, a sky, a wall, a road, a building, a tree, and a car.
+An image with a pavement, a tree, a road, a wall, a car, a grass, a building, and a sky.
+An image with a building, a wall, a road, a grass, a sky, a tree, a car, and a pavement.
+An image with a wall, a road, a sky, a building, a grass, a tree, a car, and a pavement.
+An image with a road, a car, a grass, a pavement, a wall, a sky, a building, and a tree.

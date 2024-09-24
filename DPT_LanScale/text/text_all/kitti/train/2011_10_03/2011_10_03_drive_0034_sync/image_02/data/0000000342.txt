@@ -8,3 +8,8 @@ The image shows a street with a white car and a black car driving down it.
 The image captures a serene suburban street scene, with a white car driving away from a house, surrounded by lush greenery and a clear blue sky.
 The image shows a narrow road with a few cars, surrounded by trees and a stone wall.
 A tree-lined street with parked cars and a fence on the right side.
+An image with a sky, three cars, a house, a tree, a wall, a road, and a dirt.
+An image with three cars, a sky, a tree, a dirt, a wall, a house, and a road.
+An image with a wall, a sky, a house, a dirt, three cars, a road, and a tree.
+An image with three cars, a house, a sky, a wall, a road, a tree, and a dirt.
+An image with a sky, a tree, a wall, three cars, a dirt, a road, and a house.

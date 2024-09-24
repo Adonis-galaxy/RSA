@@ -8,3 +8,8 @@ The image shows a narrow street with a car parked on the side.
 A quiet residential street, with parked cars and a white fence, leading to a tall, narrow building with a red roof.
 The image shows a narrow street with a white wall on the left, a black car parked on the right, a white garage door in the foreground, and a white fence with a red plant growing on it.
 A narrow, tree-lined street with parked cars, a white wall, and a concrete fence.
+An image with a house, a pavement, four cars, a tree, a wall, a sky, and a roof.
+An image with a pavement, four cars, a house, a wall, a roof, a sky, and a tree.
+An image with a roof, a sky, four cars, a house, a tree, a wall, and a pavement.
+An image with four cars, a house, a wall, a pavement, a roof, a tree, and a sky.
+An image with a house, a tree, four cars, a pavement, a wall, a roof, and a sky.

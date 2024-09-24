@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue bucket sits next to a black bag, both leaning against a white cylinder, which is positioned in front of a wooden cabinet.
 A blue bucket is next to a black bag with an orange stripe, both leaning against a white cylinder, which is in front of a wooden cabinet with silver handles.
 A blue bucket sits next to a black bag with an orange stripe, both leaning against a white cylindrical object in a room with a wooden cabinet and a cardboard box.
+An image with a suitcase, a floor, a cardboard, a tv, a cabinet, a refrigerator, and a wall.
+An image with a suitcase, a refrigerator, a floor, a wall, a cabinet, a tv, and a cardboard.
+An image with a cardboard, a wall, a suitcase, a tv, a refrigerator, a cabinet, and a floor.
+An image with a refrigerator, a floor, a suitcase, a wall, a tv, a cardboard, and a cabinet.
+An image with a tv, a refrigerator, a cardboard, a floor, a suitcase, a cabinet, and a wall.

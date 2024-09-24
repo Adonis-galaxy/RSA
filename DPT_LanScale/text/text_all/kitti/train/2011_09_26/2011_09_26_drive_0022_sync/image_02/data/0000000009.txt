@@ -8,3 +8,8 @@ A car on a street.
 A car on a tree-lined street, with a clear view of the road ahead.
 A car is driving down a tree-lined street, passing a parked car and a pedestrian, with a blue sign visible in the background.
 A car is parked on the side of a tree-lined street, with a clear view of the road ahead.
+An image with a bicycle, a road, two people, a car, a pavement, a fence, a grass, and a tree.
+An image with a tree, a pavement, two people, a grass, a car, a fence, a road, and a bicycle.
+An image with a car, a pavement, a bicycle, a fence, two people, a tree, a road, and a grass.
+An image with a car, a pavement, a road, a grass, a bicycle, a tree, a fence, and two people.
+An image with two people, a road, a bicycle, a car, a fence, a grass, a pavement, and a tree.

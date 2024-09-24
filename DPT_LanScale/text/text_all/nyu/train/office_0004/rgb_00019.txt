@@ -8,3 +8,8 @@ The image shows an indoor room with a table and chairs, and a large screen on th
 The image captures a room with a large wooden table, several chairs, and a green object on a shelf, with a focus on the camera equipment mounted on the ceiling.
 The image shows a room with a large wooden table, several chairs, a whiteboard, and a green object on a shelf.
 The image shows an indoor room with a wooden table, chairs, and a green object on a shelf, with a whiteboard and cameras mounted on the wall.
+An image with eight chairs, a wall, a dining, a table, a couch, a ceiling, and a floor.
+An image with a table, a floor, a couch, eight chairs, a wall, a ceiling, and a dining.
+An image with eight chairs, a couch, a dining, a wall, a table, a ceiling, and a floor.
+An image with eight chairs, a couch, a dining, a ceiling, a floor, a wall, and a table.
+An image with eight chairs, a wall, a table, a ceiling, a couch, a floor, and a dining.

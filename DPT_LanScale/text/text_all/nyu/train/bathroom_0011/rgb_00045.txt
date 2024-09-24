@@ -8,3 +8,8 @@ A bathroom with a white sink and a shower curtain.
 The image captures a bathroom scene with a white sink, a shower curtain with a polka dot pattern, and a mirror.
 The image shows a small bathroom with a white sink, a white shower curtain with a polka dot pattern, and a white tiled wall.
 The image shows a bathroom with a white sink, a white shower curtain with a pattern of circles, a white tiled wall, and a mirror.
+An image with two walls, two bottles, a mirror, a curtain, and a sink.
+An image with two bottles, a mirror, two walls, a curtain, and a sink.
+An image with two walls, a sink, a mirror, a curtain, and two bottles.
+An image with two walls, a sink, a mirror, two bottles, and a curtain.
+An image with a sink, two walls, two bottles, a curtain, and a mirror.

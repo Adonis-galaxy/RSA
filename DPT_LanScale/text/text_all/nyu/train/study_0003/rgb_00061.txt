@@ -8,3 +8,8 @@ A bookshelf filled with books.
 A bookshelf filled with books, situated in a corner of a room, with a window nearby, and a chair with a cushion in the foreground.
 A large bookshelf filled with books, located in a corner of a room with a window.
 A well-organized bookshelf with a variety of books, a window, and a comfortable chair in a cozy room.
+An image with a window, seventeen books, a couch, two walls, and a rug.
+An image with two walls, a couch, seventeen books, a window, and a rug.
+An image with seventeen books, a window, two walls, a rug, and a couch.
+An image with a couch, seventeen books, a window, two walls, and a rug.
+An image with seventeen books, two walls, a window, a couch, and a rug.

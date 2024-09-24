@@ -8,3 +8,8 @@ The image shows a street scene with a row of houses, trees, and a person riding 
 A quiet residential street, lined with houses and trees, where a cyclist is riding under the shade of the trees.
 A narrow street lined with houses and trees, with a few cars parked along the sides.
 A quiet residential street with parked cars, lined by houses and trees, under a bright sunny sky.
+An image with a sky, seven cars, a grass, a road, a tree, a house, a person, a pavement, a bicycle, and a fence.
+An image with seven cars, a pavement, a grass, a road, a fence, a house, a tree, a sky, a bicycle, and a person.
+An image with a tree, a pavement, seven cars, a house, a sky, a bicycle, a fence, a grass, a person, and a road.
+An image with seven cars, a sky, a house, a tree, a road, a fence, a grass, a pavement, a person, and a bicycle.
+An image with seven cars, a tree, a person, a house, a fence, a grass, a sky, a pavement, a bicycle, and a road.

@@ -8,3 +8,8 @@ A room with a bookshelf, a chair, and a rug.
 A cozy living room with a bookshelf, striped armchair, and a rug.
 The image shows a room with a large bookshelf, a striped armchair, a rug, and a smaller chair.
 A cozy living room with a bookshelf, two striped armchairs, a rug, and a fireplace.
+An image with seven books, a floor, a wall, a couch, a rug, a chair, a door, and a shelf.
+An image with a floor, a rug, a chair, seven books, a shelf, a couch, a wall, and a door.
+An image with a door, seven books, a chair, a floor, a rug, a shelf, a couch, and a wall.
+An image with seven books, a rug, a floor, a shelf, a couch, a chair, a wall, and a door.
+An image with a chair, a rug, seven books, a wall, a floor, a couch, a shelf, and a door.

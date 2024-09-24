@@ -8,3 +8,8 @@ A black chair in front of a whiteboard.
 A black chair is positioned in front of a whiteboard, with a table in between, and there are papers on the table.
 The image shows a black office chair in front of a whiteboard, with a marble table and a stack of papers to the right.
 The image shows a black office chair positioned in front of a whiteboard, with a marble table in the foreground, and a stack of papers and a book on the table.
+An image with four books, a rug, a wall, a couch, a dining, and a chair.
+An image with a wall, a dining, a rug, four books, a chair, and a couch.
+An image with a wall, a couch, a rug, a chair, four books, and a dining.
+An image with a rug, a chair, a dining, a couch, four books, and a wall.
+An image with four books, a rug, a couch, a wall, a chair, and a dining.

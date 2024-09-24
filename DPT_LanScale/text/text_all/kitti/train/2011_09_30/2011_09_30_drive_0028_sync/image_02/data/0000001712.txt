@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with parked cars and a wh
 The image captures a quiet residential street, with parked cars and a white van, set against the backdrop of a clear sky and lush greenery.
 The image shows a narrow street lined with parked cars and buildings, with a large white van parked in the middle of the street.
 The image depicts a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with six cars, a pavement, a house, a grass, a sky, a bench, a truck, a tree, and a road.
+An image with a sky, six cars, a pavement, a grass, a house, a road, a truck, a tree, and a bench.
+An image with a bench, six cars, a truck, a house, a sky, a grass, a road, a pavement, and a tree.
+An image with a tree, six cars, a bench, a grass, a road, a house, a truck, a sky, and a pavement.
+An image with a truck, six cars, a sky, a road, a grass, a pavement, a bench, a tree, and a house.

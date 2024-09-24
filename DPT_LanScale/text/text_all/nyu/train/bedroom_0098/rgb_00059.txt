@@ -8,3 +8,8 @@ A bedroom with a large bed.
 The image captures a cozy bedroom scene, featuring a large bed with a gray comforter, a dresser with a mirror, and a window with blinds, all set against a beige wall.
 The image shows a bedroom with a large bed, a dresser, a window with blinds, and a framed picture on the wall.
 The image shows a bedroom with a large bed, a dresser, a window with blinds, and a desk with a chair.
+An image with a window, a couch, a wall, a shelf, a table, a rug, a bed, and a cabinet.
+An image with a couch, a table, a window, a shelf, a cabinet, a wall, a rug, and a bed.
+An image with a table, a cabinet, a window, a couch, a shelf, a bed, a rug, and a wall.
+An image with a couch, a rug, a wall, a cabinet, a table, a window, a bed, and a shelf.
+An image with a rug, a window, a bed, a cabinet, a table, a wall, a couch, and a shelf.

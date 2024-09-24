@@ -8,3 +8,8 @@ A cement slab in the ground.
 A concrete slab is placed on the ground next to a patch of grass.
 A large cement slab is placed on the ground next to a patch of grass.
 A concrete slab is placed on the ground, surrounded by plants and grass.
+An image with a grass, a rock, and a pavement.
+An image with a pavement, a rock, and a grass.
+An image with a rock, a grass, and a pavement.
+An image with a rock, a pavement, and a grass.
+An image with a pavement, a rock, and a grass.

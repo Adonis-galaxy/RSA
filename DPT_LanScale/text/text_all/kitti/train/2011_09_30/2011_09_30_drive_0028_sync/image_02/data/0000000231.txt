@@ -8,3 +8,8 @@ The image shows a street scene with cars parked along the side of the road.
 The image captures a typical urban scene with a variety of vehicles parked along a narrow street, adjacent to a row of buildings, under a clear sky.
 A white van is parked on the side of a narrow street between two buildings, with several cars parked in front of it and a person walking on the sidewalk.
 A narrow street in a residential area with parked cars and a white van.
+An image with eight cars, a house, a road, a sky, a person, a tree, a bus, a wall, and a pavement.
+An image with eight cars, a road, a person, a tree, a bus, a house, a sky, a pavement, and a wall.
+An image with a house, a pavement, eight cars, a person, a tree, a road, a bus, a wall, and a sky.
+An image with a person, eight cars, a pavement, a house, a tree, a wall, a road, a bus, and a sky.
+An image with a tree, eight cars, a sky, a house, a wall, a road, a person, a bus, and a pavement.

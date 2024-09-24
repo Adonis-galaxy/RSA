@@ -8,3 +8,8 @@ The image shows a street view with a row of houses and trees.
 The image captures a serene residential street, lined with houses, trees, and parked cars, under a clear blue sky.
 The image shows a long, narrow street lined with parked cars and lush green trees, leading to a row of white buildings with blue signs.
 The image depicts a residential street with a row of houses, a paved sidewalk, and a tree-lined road, all under a clear blue sky.
+An image with seven cars, a person, a grass, a sky, a house, a pavement, a road, a truck, and a tree.
+An image with seven cars, a pavement, a grass, a house, a sky, a truck, a tree, a road, and a person.
+An image with seven cars, a pavement, a person, a tree, a truck, a house, a grass, a sky, and a road.
+An image with seven cars, a grass, a person, a pavement, a sky, a road, a truck, a house, and a tree.
+An image with a pavement, a house, seven cars, a person, a tree, a sky, a grass, a road, and a truck.

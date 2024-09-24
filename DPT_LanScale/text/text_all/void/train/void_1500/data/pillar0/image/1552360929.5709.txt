@@ -8,3 +8,8 @@ A black bag with a red stripe on a blue carpet.
 A black bag with a red stripe is leaning against a white wall next to a blue trash can.
 A black suitcase with a red stripe on a blue carpet next to a blue trash can.
 A black suitcase with a red stripe on a blue carpet next to a white wall and a blue trash can.
+An image with a suitcase, a door, and a floor.
+An image with a door, a floor, and a suitcase.
+An image with a floor, a door, and a suitcase.
+An image with a floor, a suitcase, and a door.
+An image with a floor, a suitcase, and a door.

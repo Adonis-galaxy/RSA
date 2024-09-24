@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 The image captures a serene residential street lined with parked cars, shaded by trees, and bordered by a sidewalk, creating a peaceful suburban atmosphere.
 The image shows a narrow street lined with parked cars, with a row of houses on the right side, and a canopy of trees overhead.
 A tree-lined street with parked cars on the side, leading to a row of houses.
+An image with a house, a tree, five cars, a person, a grass, a pavement, a road, and a sky.
+An image with five cars, a grass, a tree, a sky, a person, a pavement, a road, and a house.
+An image with a house, five cars, a grass, a person, a road, a sky, a pavement, and a tree.
+An image with a house, a sky, five cars, a person, a tree, a pavement, a grass, and a road.
+An image with a road, five cars, a tree, a person, a sky, a pavement, a grass, and a house.

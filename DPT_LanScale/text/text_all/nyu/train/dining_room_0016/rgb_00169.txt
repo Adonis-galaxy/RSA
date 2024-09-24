@@ -8,3 +8,8 @@ A kitchen counter with white cabinets and a marble top.
 The image shows a kitchen with a marble countertop, white cabinets, and a wooden floor. The countertop has a few items on it, and there is a mirror above it. The cabinets have black handles.
 The image shows a large, white kitchen counter with a marble top, featuring a built-in sink and a mirror above it. The counter is flanked by white cabinets with black handles.
 The image shows a kitchen with a marble countertop, white cabinets, a wooden floor, and a mirrored wall above the countertop.
+An image with a floor, a mirror, a sink, a counter, a cabinet, and a wall.
+An image with a counter, a cabinet, a mirror, a wall, a floor, and a sink.
+An image with a floor, a sink, a cabinet, a counter, a mirror, and a wall.
+An image with a cabinet, a sink, a counter, a wall, a mirror, and a floor.
+An image with a cabinet, a sink, a floor, a counter, a mirror, and a wall.

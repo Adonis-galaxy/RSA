@@ -8,3 +8,8 @@ A city street scene with a bus and traffic lights.
 A city street scene with a bus, traffic lights, and pedestrians.
 A large white bus is driving down a street with a crosswalk, passing a traffic light and a pedestrian crossing.
 A city street scene with a white bus, traffic lights, pedestrians, and parked cars.
+An image with four traffics, five cars, a truck, a tree, a person, a building, a stop, a road, a grass, and two buses.
+An image with five cars, a truck, four traffics, a building, two buses, a person, a grass, a tree, a road, and a stop.
+An image with two buses, five cars, a truck, a person, four traffics, a tree, a road, a building, a grass, and a stop.
+An image with a person, a grass, five cars, two buses, four traffics, a building, a road, a stop, a truck, and a tree.
+An image with five cars, four traffics, a road, a stop, a truck, a person, two buses, a tree, a grass, and a building.

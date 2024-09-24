@@ -8,3 +8,8 @@ A large room with a blue line on the floor.
 The image shows a small, cluttered office space with a blue line drawn on the floor, indicating a designated area for something.
 The image shows a small room with a refrigerator, a table, and a trash can.
 The image shows a room with a large refrigerator, a table with chairs, a trash can, and a blue line on the floor.
+An image with a tv, a floor, a dining, three chairs, two people, a paper, a wall, a shelf, and a refrigerator.
+An image with a wall, two people, a paper, a refrigerator, a dining, three chairs, a shelf, a floor, and a tv.
+An image with two people, a tv, three chairs, a dining, a wall, a floor, a refrigerator, a shelf, and a paper.
+An image with two people, three chairs, a shelf, a paper, a wall, a refrigerator, a dining, a tv, and a floor.
+An image with a dining, three chairs, a paper, a floor, a tv, a refrigerator, two people, a shelf, and a wall.

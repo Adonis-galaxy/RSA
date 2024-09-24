@@ -8,3 +8,8 @@ A black bag with red trim is sitting on the floor.
 A black bag with red trim is placed next to a blue trash can, both leaning against a white cylindrical object.
 A black duffel bag with red trim is sitting next to a blue trash can and a white cylindrical object.
 A black duffel bag with red trim is placed next to a blue trash can, which is positioned against a white wall.
+An image with a cardboard, a rug, a wall, a cabinet, and a suitcase.
+An image with a suitcase, a rug, a wall, a cardboard, and a cabinet.
+An image with a wall, a cabinet, a cardboard, a rug, and a suitcase.
+An image with a suitcase, a cabinet, a cardboard, a rug, and a wall.
+An image with a suitcase, a cardboard, a cabinet, a rug, and a wall.

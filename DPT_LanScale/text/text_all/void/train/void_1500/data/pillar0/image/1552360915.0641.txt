@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue bucket sits next to a black bag, both leaning against a white wall.
 A blue bucket, a black bag with red trim, and a white cylinder are leaning against a wooden cabinet.
 A blue trash can is next to a black bag with a red stripe, and they are both leaning against a white wall.
+An image with a cardboard, a tv, a cabinet, a refrigerator, a wall, a rug, and a suitcase.
+An image with a rug, a suitcase, a refrigerator, a wall, a cabinet, a cardboard, and a tv.
+An image with a rug, a suitcase, a tv, a wall, a refrigerator, a cabinet, and a cardboard.
+An image with a tv, a suitcase, a cabinet, a wall, a rug, a cardboard, and a refrigerator.
+An image with a rug, a cabinet, a refrigerator, a wall, a cardboard, a suitcase, and a tv.

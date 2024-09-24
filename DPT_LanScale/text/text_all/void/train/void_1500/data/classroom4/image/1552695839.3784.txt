@@ -8,3 +8,8 @@ A blurry image of a computer desk with three monitors.
 The image shows a computer desk with three computer monitors, two keyboards, and two mice.
 The image shows a wooden desk with three computer monitors, two keyboards, two mice, and some papers on it.
 The image shows a wooden desk with three computer monitors, two keyboards, and two mice, with papers and a book on the desk.
+An image with a wall, two mice, three keyboards, a book, two tvs, a chair, and a table.
+An image with two tvs, a wall, a chair, three keyboards, a book, two mice, and a table.
+An image with a book, two mice, a wall, a chair, two tvs, three keyboards, and a table.
+An image with three keyboards, two mice, two tvs, a table, a chair, a wall, and a book.
+An image with a table, two mice, three keyboards, a wall, a chair, a book, and two tvs.

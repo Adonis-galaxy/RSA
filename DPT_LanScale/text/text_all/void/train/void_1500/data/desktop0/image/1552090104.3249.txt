@@ -8,3 +8,8 @@ A gray office chair with a straw hat on the desk.
 A gray office chair with a straw hat on a desk.
 A gray office chair with a straw hat on a desk.
 A gray office chair with a straw hat on a desk.
+An image with a mouse, a paper, a chair, a tv, a keyboard, a table, a cabinet, and a rug.
+An image with a mouse, a tv, a table, a cabinet, a chair, a paper, a keyboard, and a rug.
+An image with a paper, a table, a mouse, a cabinet, a rug, a chair, a tv, and a keyboard.
+An image with a tv, a mouse, a keyboard, a table, a chair, a cabinet, a paper, and a rug.
+An image with a rug, a cabinet, a chair, a keyboard, a paper, a table, a mouse, and a tv.

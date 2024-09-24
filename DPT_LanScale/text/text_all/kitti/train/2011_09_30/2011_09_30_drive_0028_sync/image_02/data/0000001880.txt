@@ -8,3 +8,8 @@ The image shows a street with trees and houses on both sides.
 The image captures a quiet residential street, lined with trees and houses, where a few cars are parked along the curb, and a stop sign is visible at the end of the road.
 The image shows a tree-lined street with a few cars parked on the side, a stop sign, and a roundabout.
 The image depicts a tree-lined street with a clear sky, a few parked cars, and a stop sign at the end of the road.
+An image with a sky, five cars, a grass, a road, a tree, a pavement, a roof, and a house.
+An image with a house, a road, a sky, five cars, a pavement, a grass, a tree, and a roof.
+An image with a pavement, five cars, a sky, a grass, a road, a roof, a house, and a tree.
+An image with a sky, five cars, a pavement, a tree, a house, a roof, a road, and a grass.
+An image with a pavement, a sky, a road, a grass, five cars, a roof, a tree, and a house.

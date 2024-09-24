@@ -8,3 +8,8 @@ A man walking on a sidewalk.
 A man in a red shirt walks on a sidewalk, carrying a black bag, while cars and a truck are parked or moving along a busy street lined with buildings and trees.
 A man in a red shirt walks on a sidewalk next to a busy street with parked cars and a traffic light.
 A busy city street with heavy traffic, pedestrians, and tall buildings.
+An image with thirteen cars, a handbag, a road, a person, a stop, a grass, a truck, a building, a pavement, a traffic, and a tree.
+An image with a grass, thirteen cars, a handbag, a pavement, a person, a road, a truck, a traffic, a tree, a stop, and a building.
+An image with a handbag, a truck, thirteen cars, a building, a grass, a pavement, a traffic, a tree, a road, a stop, and a person.
+An image with a grass, thirteen cars, a truck, a traffic, a tree, a building, a person, a pavement, a stop, a handbag, and a road.
+An image with thirteen cars, a truck, a road, a building, a stop, a handbag, a person, a pavement, a traffic, a grass, and a tree.

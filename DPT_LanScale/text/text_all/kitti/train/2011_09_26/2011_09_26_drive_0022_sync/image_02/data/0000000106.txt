@@ -8,3 +8,8 @@ A black truck parked on the side of a road.
 A quiet residential street with parked cars and a lone truck, under a clear sky.
 A narrow street lined with parked cars and a truck, with a white building on the left and a black car on the right.
 A quiet residential street with parked cars, a paved path, and a row of garages.
+An image with five cars, a fence, a truck, a road, a tree, a sky, a pavement, and a building.
+An image with a building, a pavement, five cars, a road, a sky, a truck, a tree, and a fence.
+An image with a truck, a fence, a sky, five cars, a road, a tree, a pavement, and a building.
+An image with five cars, a road, a building, a truck, a sky, a pavement, a tree, and a fence.
+An image with five cars, a sky, a truck, a pavement, a fence, a tree, a road, and a building.

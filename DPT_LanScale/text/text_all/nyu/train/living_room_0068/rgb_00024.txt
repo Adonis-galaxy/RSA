@@ -8,3 +8,8 @@ A room with a couch, a treadmill, and a picture on the wall.
 A compact indoor gym setup with a treadmill and exercise equipment, situated in a living room with a couch and artwork.
 A compact indoor gym setup with a treadmill, exercise bike, and weight scale, all sitting on a carpeted floor in front of a couch with colorful pillows.
 A compact living room with a dark brown leather couch, a black exercise bike, a white scale, and a collection of colorful throw pillows.
+An image with a door, a couch, a wall, and a rug.
+An image with a wall, a couch, a door, and a rug.
+An image with a wall, a door, a rug, and a couch.
+An image with a door, a rug, a couch, and a wall.
+An image with a rug, a couch, a door, and a wall.

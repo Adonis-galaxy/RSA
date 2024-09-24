@@ -8,3 +8,8 @@ The image shows a street with a car driving down it.
 The image captures a quiet, tree-lined street with a few vehicles, including a bus, parked or moving along the road, and a pedestrian visible on the sidewalk.
 The image shows a wide, tree-lined street with a car driving down the middle, a bus parked on the side, and a traffic light in the distance.
 The image depicts a wide, tree-lined street with a clear view of a car driving down the middle, flanked by sidewalks and lined with street signs and utility poles.
+An image with a bus, a car, three traffics, a sky, a grass, a road, and a tree.
+An image with a tree, a car, a bus, three traffics, a sky, a road, and a grass.
+An image with a grass, a road, a sky, three traffics, a car, a tree, and a bus.
+An image with three traffics, a bus, a sky, a grass, a tree, a car, and a road.
+An image with three traffics, a road, a car, a bus, a tree, a sky, and a grass.

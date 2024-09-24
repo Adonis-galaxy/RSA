@@ -8,3 +8,8 @@ A bedroom with a bed and a mattress.
 The image shows a room with two beds, one of which has a mattress on it, and a dresser with a mirror. The room has a neutral color scheme and is well-lit.
 The image shows a room with a large bed, a mattress on the floor, and a desk with a chair.
 The image shows a room with two beds, a desk with a chair, and a large mattress leaning against the wall.
+An image with a window, a wall, a floor, a table, two beds, and a ceiling.
+An image with a window, a ceiling, a floor, two beds, a table, and a wall.
+An image with two beds, a window, a ceiling, a floor, a wall, and a table.
+An image with a floor, two beds, a table, a window, a ceiling, and a wall.
+An image with a ceiling, a floor, two beds, a wall, a window, and a table.

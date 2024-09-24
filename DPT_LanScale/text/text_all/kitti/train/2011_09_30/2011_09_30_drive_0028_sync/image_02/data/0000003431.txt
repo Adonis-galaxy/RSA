@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars on both sides.
 The image captures a narrow street in a residential area, with parked cars on both sides, creating a sense of a tightly packed urban environment.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear blue sky overhead.
 A narrow street in a residential area with parked cars on both sides, leading to apartment buildings.
+An image with six cars, a tree, a pavement, a person, a house, a wall, a road, a sky, and a truck.
+An image with a truck, six cars, a person, a tree, a house, a sky, a road, a pavement, and a wall.
+An image with six cars, a person, a tree, a house, a truck, a sky, a pavement, a wall, and a road.
+An image with six cars, a house, a road, a tree, a wall, a pavement, a sky, a person, and a truck.
+An image with a road, a tree, six cars, a sky, a pavement, a person, a house, a truck, and a wall.

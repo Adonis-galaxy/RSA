@@ -8,3 +8,8 @@ The image shows a narrow street lined with hedges and parked cars.
 A narrow, tree-lined street between two-story buildings, with parked cars and a clear sky.
 The image shows a narrow street lined with hedges and parked cars, with apartment buildings on either side.
 A narrow, tree-lined street in a residential area, with parked cars and apartment buildings on either side.
+An image with a tree, a dirt, a building, two cars, and a road.
+An image with a tree, two cars, a building, a road, and a dirt.
+An image with a road, a dirt, a building, two cars, and a tree.
+An image with two cars, a tree, a dirt, a building, and a road.
+An image with a tree, a building, a dirt, two cars, and a road.

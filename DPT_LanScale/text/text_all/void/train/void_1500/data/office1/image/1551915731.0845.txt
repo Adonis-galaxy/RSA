@@ -8,3 +8,8 @@ A black chair at a table.
 A black chair is positioned in front of a table with a book on it, and a bench is situated in the corner of the room.
 The image shows a black chair next to a table with a book on it, and a small gray box in the corner.
 The image shows a room with a table, a chair, and a bench, all placed on a carpeted floor.
+An image with a cell, a chair, a couch, a wall, a rug, a dining, and a book.
+An image with a dining, a book, a couch, a chair, a wall, a rug, and a cell.
+An image with a cell, a couch, a rug, a chair, a book, a dining, and a wall.
+An image with a wall, a rug, a dining, a couch, a book, a chair, and a cell.
+An image with a wall, a cell, a couch, a rug, a book, a dining, and a chair.

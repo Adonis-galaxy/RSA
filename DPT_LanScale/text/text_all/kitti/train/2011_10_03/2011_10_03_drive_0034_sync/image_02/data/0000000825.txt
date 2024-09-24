@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with neatly trimmed hedges and trees, leading to a white house with a gray roof.
 The image shows a narrow, tree-lined street with houses on both sides, a sidewalk, and a clear sky.
 A quiet residential street with neatly trimmed hedges and trees, leading to a white house with a gray roof.
+An image with a roof, a sky, a tree, a road, a pavement, and a house.
+An image with a road, a roof, a house, a pavement, a sky, and a tree.
+An image with a road, a pavement, a house, a roof, a sky, and a tree.
+An image with a house, a pavement, a tree, a road, a sky, and a roof.
+An image with a road, a house, a sky, a pavement, a tree, and a roof.

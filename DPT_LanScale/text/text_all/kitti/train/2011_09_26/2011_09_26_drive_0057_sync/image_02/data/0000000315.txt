@@ -8,3 +8,8 @@ The image shows a busy street with cars and trucks driving on it.
 The image captures a bustling city street with a red van at the center, surrounded by various vehicles and traffic lights, all under a clear blue sky.
 A busy city street with a red van driving through an intersection, surrounded by various vehicles and traffic lights.
 A busy city street with multiple lanes, traffic lights, and a red van driving through an intersection.
+An image with eight traffics, a tree, ten cars, a fence, a pavement, a road, a grass, a mountain, and a house.
+An image with ten cars, eight traffics, a tree, a mountain, a house, a fence, a grass, a road, and a pavement.
+An image with eight traffics, ten cars, a road, a tree, a house, a mountain, a pavement, a grass, and a fence.
+An image with a grass, a house, a mountain, ten cars, eight traffics, a road, a fence, a tree, and a pavement.
+An image with a fence, ten cars, a mountain, eight traffics, a pavement, a house, a tree, a road, and a grass.

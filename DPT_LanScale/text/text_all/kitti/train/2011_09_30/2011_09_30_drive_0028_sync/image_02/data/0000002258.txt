@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars lining the sides, a few pedestrians, and a clear sky overhead.
 The image shows a narrow street lined with parked cars and houses, with a person walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with parked cars and a person walking, leading to apartment buildings.
+An image with eleven cars, a house, a motorcycle, a grass, a pavement, a tree, a fence, a person, a flower, and a road.
+An image with eleven cars, a tree, a person, a fence, a flower, a house, a grass, a road, a motorcycle, and a pavement.
+An image with eleven cars, a pavement, a tree, a fence, a grass, a flower, a person, a house, a motorcycle, and a road.
+An image with eleven cars, a person, a road, a fence, a house, a flower, a tree, a pavement, a grass, and a motorcycle.
+An image with a tree, a flower, a person, a road, eleven cars, a grass, a motorcycle, a house, a fence, and a pavement.

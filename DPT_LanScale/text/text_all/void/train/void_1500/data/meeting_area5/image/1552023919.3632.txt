@@ -8,3 +8,8 @@ A row of white chairs in front of a table.
 The image shows a white table with four chairs in a room with a yellow wall and a blackboard.
 The image shows a long white table with four white chairs, positioned in front of a yellow wall with a blackboard.
 The image shows a long white table with white chairs, positioned in front of a yellow wall with a blackboard, and a metal trash can in the background.
+An image with six chairs, a wall, a dining, a door, a paper, a floor, a tv, and a table.
+An image with six chairs, a floor, a table, a tv, a wall, a door, a dining, and a paper.
+An image with a paper, six chairs, a door, a floor, a tv, a table, a dining, and a wall.
+An image with a tv, six chairs, a door, a wall, a table, a dining, a paper, and a floor.
+An image with six chairs, a tv, a floor, a table, a wall, a door, a paper, and a dining.

@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a sink and a white box on it.
 The image shows a kitchen counter with a white object on it, a sink, and a cabinet.
 The image shows a small kitchen with a sink, a counter, and a cabinet.
 The image shows a kitchen counter with a sink, a white box, and a few other items on it.
+An image with a sink, a cabinet, a counter, a wall, and a paper.
+An image with a counter, a paper, a cabinet, a sink, and a wall.
+An image with a counter, a sink, a cabinet, a paper, and a wall.
+An image with a cabinet, a counter, a wall, a sink, and a paper.
+An image with a cabinet, a wall, a paper, a sink, and a counter.

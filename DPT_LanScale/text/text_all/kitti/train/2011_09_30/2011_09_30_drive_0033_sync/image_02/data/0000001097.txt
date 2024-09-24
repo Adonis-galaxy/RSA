@@ -8,3 +8,8 @@ The image is a photograph of a residential street with houses, a street sign, an
 The image captures a quaint residential street scene, featuring a mix of traditional and modern architecture, with a focus on the triangular street corner where a yield sign is prominently displayed.
 The image shows a street scene with a large, triangular yield sign, a small car, a few houses, and a clock on the sidewalk.
 The image shows a residential street with houses, a road, a yield sign, and a clock on the sidewalk.
+An image with a sky, a road, a wall, a tree, a pavement, a grass, a car, a motorcycle, a fence, a house, and a roof.
+An image with a car, a sky, a roof, a pavement, a tree, a motorcycle, a wall, a fence, a house, a grass, and a road.
+An image with a wall, a tree, a house, a pavement, a sky, a grass, a car, a motorcycle, a roof, a road, and a fence.
+An image with a pavement, a wall, a grass, a tree, a sky, a house, a road, a fence, a motorcycle, a car, and a roof.
+An image with a wall, a fence, a house, a grass, a roof, a sky, a tree, a motorcycle, a car, a pavement, and a road.

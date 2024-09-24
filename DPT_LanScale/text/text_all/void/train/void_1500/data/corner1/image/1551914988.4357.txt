@@ -8,3 +8,8 @@ A computer monitor on a desk.
 The image shows a cluttered workspace with various electronic equipment and a sign that says "Reserved" on a table.
 The image shows a cluttered office space with a desk, a computer monitor, a keyboard, a mouse, a box of tissues, and a sign that says "RESERVED" on it.
 The image shows a cluttered workspace with various electronic equipment, a desk with a computer monitor, keyboard, and mouse, and a sign that says "RESERVED" with a date and time.
+An image with a wall, a cardboard, a table, a window, a tv, and a paper.
+An image with a table, a wall, a paper, a tv, a window, and a cardboard.
+An image with a cardboard, a tv, a table, a paper, a window, and a wall.
+An image with a tv, a cardboard, a window, a wall, a table, and a paper.
+An image with a cardboard, a paper, a tv, a table, a wall, and a window.

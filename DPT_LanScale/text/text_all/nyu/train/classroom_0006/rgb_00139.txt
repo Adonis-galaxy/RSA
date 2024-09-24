@@ -8,3 +8,8 @@ A classroom with a table and chairs.
 The image shows a classroom setting with a table and chairs, a bulletin board with educational materials, and a storage area with toys and supplies.
 The image shows a classroom with a large table and three chairs, a bulletin board with a colorful poster, a whiteboard with a geometric pattern, and a storage cabinet with a star decoration.
 The image shows a classroom with a table and chairs, a bulletin board with a colorful poster, and a storage area with shelves and bins.
+An image with eight books, a wall, four chairs, a shelf, a door, a floor, a dining, and a cell.
+An image with a cell, a dining, a shelf, four chairs, eight books, a door, a wall, and a floor.
+An image with four chairs, eight books, a wall, a dining, a shelf, a door, a floor, and a cell.
+An image with eight books, a floor, a cell, a door, four chairs, a wall, a shelf, and a dining.
+An image with four chairs, a dining, a floor, a shelf, eight books, a door, a wall, and a cell.

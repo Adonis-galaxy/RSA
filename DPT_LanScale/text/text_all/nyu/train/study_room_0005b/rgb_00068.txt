@@ -8,3 +8,8 @@ The image shows an empty room with a long row of desks and chairs.
 The image captures an empty office space with a long row of desks and chairs, a central aisle, and a red exit sign.
 The image shows an indoor space with a long row of desks and chairs, a counter with a red sign, a staircase, and a hallway with a red exit sign. The desks and chairs are large, and the counter is smaller.
 The image shows an interior view of a spacious room with a long counter, several chairs, and a row of desks, all arranged in a linear fashion, with a red exit sign and a window in the background.
+An image with a window, ten chairs, a door, a wall, a cabinet, a floor, a dining, a ceiling, and a rug.
+An image with ten chairs, a cabinet, a window, a door, a ceiling, a wall, a dining, a floor, and a rug.
+An image with ten chairs, a floor, a door, a window, a rug, a dining, a ceiling, a wall, and a cabinet.
+An image with a floor, ten chairs, a window, a wall, a cabinet, a rug, a ceiling, a door, and a dining.
+An image with ten chairs, a rug, a dining, a cabinet, a window, a ceiling, a floor, a door, and a wall.

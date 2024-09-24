@@ -8,3 +8,8 @@ A classroom with a blue board and a desk.
 The image shows a classroom with a blue board, a desk, and a chair, all under a long fluorescent light.
 The image shows a classroom with a blueboard, a desk, a chair, and a chalkboard.
 The image shows a classroom with a blueboard, a desk with a chair, and a bulletin board with a picture on it.
+An image with four chairs, a tv, a floor, a ceiling, two walls, a dining, a paper, a person, and a light.
+An image with a paper, four chairs, a light, a person, a floor, a ceiling, a tv, two walls, and a dining.
+An image with two walls, a floor, four chairs, a tv, a ceiling, a paper, a dining, a person, and a light.
+An image with four chairs, a person, a dining, a ceiling, a paper, a tv, two walls, a light, and a floor.
+An image with two walls, a paper, a dining, a floor, a ceiling, four chairs, a light, a tv, and a person.

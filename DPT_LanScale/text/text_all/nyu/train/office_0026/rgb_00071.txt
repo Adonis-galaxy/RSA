@@ -8,3 +8,8 @@ The image shows a room with a whiteboard on the wall and several chairs and tabl
 The image captures a modern classroom setting with a focus on the arrangement of chairs and tables, emphasizing the relationship between the furniture and the whiteboard.
 The image shows a room with a large whiteboard on the wall, several chairs of varying sizes, and a table.
 The image shows an empty classroom with a whiteboard on the wall, a row of chairs facing the board, and a table in the center.
+An image with four chairs, a ceiling, a couch, a floor, a wall, and a table.
+An image with a couch, a ceiling, four chairs, a wall, a floor, and a table.
+An image with a table, four chairs, a couch, a ceiling, a floor, and a wall.
+An image with four chairs, a wall, a couch, a floor, a table, and a ceiling.
+An image with a table, a wall, four chairs, a floor, a ceiling, and a couch.

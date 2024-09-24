@@ -8,3 +8,8 @@ A row of black computer monitors on a desk.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse.
 The image shows a large wooden desk with two black computer monitors, two black keyboards, and two black mice.
 The image shows a row of computer monitors on a table, with keyboards and mice in front of each monitor.
+An image with twelve tvs, two mice, two keyboards, a wall, a table, and two chairs.
+An image with twelve tvs, two mice, two chairs, a wall, two keyboards, and a table.
+An image with twelve tvs, a wall, two chairs, two keyboards, two mice, and a table.
+An image with twelve tvs, two chairs, two mice, two keyboards, a table, and a wall.
+An image with twelve tvs, two keyboards, two mice, two chairs, a wall, and a table.

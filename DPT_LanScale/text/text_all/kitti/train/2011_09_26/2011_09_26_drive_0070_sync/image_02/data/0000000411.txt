@@ -8,3 +8,8 @@ A white van driving down a road.
 A white van is driving down a tree-lined road, with a clear sky overhead and a mountain in the distance.
 A white van is driving down a tree-lined road with a clear sky overhead.
 A white van is driving down a tree-lined road with a clear sky and a few signs.
+An image with a grass, a tree, two cars, a fence, a sky, and a road.
+An image with two cars, a tree, a grass, a road, a sky, and a fence.
+An image with two cars, a fence, a tree, a sky, a grass, and a road.
+An image with a tree, a fence, two cars, a sky, a grass, and a road.
+An image with a fence, two cars, a road, a grass, a sky, and a tree.

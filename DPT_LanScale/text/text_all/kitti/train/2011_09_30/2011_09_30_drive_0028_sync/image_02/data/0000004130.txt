@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A solitary red car parked on a tree-lined street, with a clear sky overhead and a few cars in the distance.
 A small red car is parked on the side of a tree-lined street, with a few other cars visible in the distance.
 A narrow, tree-lined street with parked cars and a few pedestrians, leading to a residential area.
+An image with a road, a tree, a pavement, eight cars, a person, a sky, a bicycle, and a grass.
+An image with eight cars, a grass, a tree, a road, a person, a pavement, a bicycle, and a sky.
+An image with a person, a sky, eight cars, a grass, a tree, a pavement, a road, and a bicycle.
+An image with eight cars, a bicycle, a person, a road, a pavement, a tree, a sky, and a grass.
+An image with eight cars, a sky, a grass, a pavement, a road, a person, a tree, and a bicycle.

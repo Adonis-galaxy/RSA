@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a white van, a brick wall, and 
 The image captures a quiet residential street, with parked cars and a white van, leading to a brick wall and a building with a visible sign.
 The image shows a narrow street lined with parked cars and a brick wall, with a white van parked on the left side and a red car parked on the right side.
 A narrow, tree-lined street with parked cars and a white van, leading to a brick wall and a building with a white roof.
+An image with a wall, six cars, a window, a sky, a tree, a fence, a pavement, a truck, and a road.
+An image with six cars, a truck, a sky, a wall, a window, a tree, a pavement, a road, and a fence.
+An image with a road, a window, six cars, a wall, a pavement, a sky, a truck, a tree, and a fence.
+An image with six cars, a sky, a window, a tree, a road, a fence, a pavement, a wall, and a truck.
+An image with six cars, a road, a wall, a pavement, a sky, a fence, a window, a tree, and a truck.

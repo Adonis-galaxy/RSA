@@ -8,3 +8,8 @@ A silver car parked on a street.
 A silver car parked on a quiet residential street, with a brick wall and trees in the background.
 A silver car is parked on the side of a narrow street lined with houses and trees.
 A silver car is parked on the side of a tree-lined street, adjacent to a brick wall and a white building with a brown roof.
+An image with three cars, a house, two walls, a fence, a roof, a pavement, a tree, and a road.
+An image with three cars, a road, two walls, a house, a pavement, a fence, a tree, and a roof.
+An image with three cars, a tree, a house, a road, two walls, a pavement, a fence, and a roof.
+An image with a roof, a pavement, a fence, a tree, three cars, two walls, a road, and a house.
+An image with a roof, a house, a tree, three cars, a road, a pavement, two walls, and a fence.

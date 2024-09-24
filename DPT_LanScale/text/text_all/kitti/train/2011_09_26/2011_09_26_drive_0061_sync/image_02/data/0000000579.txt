@@ -8,3 +8,8 @@ A blue car parked on the side of a road.
 A parked motorcycle on a narrow street between a brick wall and a wooden fence, with a person's shadow visible on the wall.
 A large blue SUV is parked on the side of a narrow, tree-lined street, with a motorcycle parked behind it.
 A narrow, tree-lined street with a parked motorcycle and a blue car, leading to a wooden fence and a brick wall.
+An image with a tree, a motorcycle, a car, a road, and a wall.
+An image with a tree, a road, a car, a motorcycle, and a wall.
+An image with a road, a car, a tree, a motorcycle, and a wall.
+An image with a car, a motorcycle, a road, a wall, and a tree.
+An image with a wall, a motorcycle, a road, a tree, and a car.

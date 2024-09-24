@@ -8,3 +8,8 @@ A whiteboard with a chart on it.
 The image shows a cluttered office space with a desk, chair, and a whiteboard with information on it.
 The image shows a small office cubicle with a desk, chair, and a whiteboard with a chart on it.
 The image shows an office cubicle with a desk, chair, and a whiteboard with a chart on it.
+An image with two chairs, a keyboard, a wall, a table, a floor, two cups, a paper, a light, and a door.
+An image with a table, a paper, a door, two chairs, a floor, a keyboard, a light, two cups, and a wall.
+An image with a door, two cups, a table, a paper, a wall, two chairs, a floor, a keyboard, and a light.
+An image with two cups, a table, a wall, a floor, a paper, two chairs, a keyboard, a door, and a light.
+An image with a floor, a door, a keyboard, two chairs, a paper, two cups, a light, a wall, and a table.

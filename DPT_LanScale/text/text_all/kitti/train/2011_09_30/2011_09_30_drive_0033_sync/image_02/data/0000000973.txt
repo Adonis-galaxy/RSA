@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, lined with lush greenery and quaint houses, under a clear blue sky.
 The image shows a residential street with houses, trees, and a car, captured in a wide-angle shot.
 The image depicts a tree-lined street with a curved road leading to a residential area, featuring houses and parked cars.
+An image with a roof, three cars, a house, a tree, a pavement, a road, and a sky.
+An image with three cars, a pavement, a house, a road, a sky, a roof, and a tree.
+An image with three cars, a roof, a road, a sky, a tree, a pavement, and a house.
+An image with a sky, three cars, a roof, a house, a tree, a road, and a pavement.
+An image with a tree, a road, a sky, a roof, a house, three cars, and a pavement.

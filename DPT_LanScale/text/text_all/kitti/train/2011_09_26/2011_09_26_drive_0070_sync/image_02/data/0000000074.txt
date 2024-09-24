@@ -8,3 +8,8 @@ A car on a road.
 A car on a road, with trees and a clear sky in the background.
 A car is driving down a tree-lined road, with a white line on the right side of the road.
 A car on a road with trees on both sides, leading to a clearing ahead.
+An image with a tree, a wall, two cars, a sky, a road, and a grass.
+An image with a road, a sky, two cars, a tree, a grass, and a wall.
+An image with a wall, a grass, two cars, a sky, a tree, and a road.
+An image with a wall, a grass, two cars, a road, a tree, and a sky.
+An image with two cars, a wall, a road, a grass, a sky, and a tree.

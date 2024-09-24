@@ -8,3 +8,8 @@ The image shows a city street intersection with a white car driving through it.
 The image captures a bustling city intersection with a white van at the center, surrounded by tall buildings, a mix of vehicles, pedestrians, and cyclists, all navigating the urban landscape under a clear sky.
 A white car is driving through a busy city intersection with tall buildings, a bicycle lane, and multiple traffic lights.
 The image captures a bustling city intersection with a white van at the center, surrounded by tall buildings, a mix of vehicles, pedestrians, and traffic lights, all under a clear blue sky.
+An image with a pavement, nine cars, two traffics, a tree, two people, a road, a bicycle, a building, and a bus.
+An image with nine cars, two traffics, a pavement, two people, a road, a bus, a tree, a building, and a bicycle.
+An image with a building, a tree, two people, a pavement, nine cars, two traffics, a road, a bicycle, and a bus.
+An image with two traffics, nine cars, a bus, a pavement, a tree, a bicycle, a building, two people, and a road.
+An image with a bus, two people, two traffics, a bicycle, a road, a pavement, a building, nine cars, and a tree.

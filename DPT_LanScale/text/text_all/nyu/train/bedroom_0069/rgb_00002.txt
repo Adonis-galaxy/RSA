@@ -8,3 +8,8 @@ A messy room with a bed, dresser, and a teddy bear.
 A cluttered bedroom with a teddy bear on the floor and a messy dresser.
 A small, messy room with a bed, a nightstand, and a teddy bear on the floor.
 The image shows a messy room with a bed, a nightstand, and a teddy bear on the floor.
+An image with a pillow, a wall, a rug, a counter, a towel, a cabinet, a dog, and a bed.
+An image with a pillow, a wall, a dog, a bed, a towel, a rug, a cabinet, and a counter.
+An image with a wall, a towel, a dog, a pillow, a rug, a bed, a counter, and a cabinet.
+An image with a wall, a pillow, a towel, a rug, a counter, a dog, a bed, and a cabinet.
+An image with a wall, a cabinet, a counter, a bed, a pillow, a towel, a dog, and a rug.

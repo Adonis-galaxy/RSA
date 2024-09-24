@@ -8,3 +8,8 @@ A tree-lined street with a car driving down it.
 A quiet residential street, lined with trees and houses, where a car is parked on the sidewalk, and a bicycle leans against a pole.
 A narrow, tree-lined street with a few cars parked on the side, leading to a row of houses.
 A tree-lined street with a car parked on the sidewalk, leading to a row of houses.
+An image with a sky, two cars, a tree, a house, a pavement, a grass, and a road.
+An image with two cars, a house, a sky, a grass, a tree, a pavement, and a road.
+An image with a grass, a pavement, a tree, a sky, a road, two cars, and a house.
+An image with a house, a road, two cars, a pavement, a tree, a sky, and a grass.
+An image with a road, a grass, two cars, a tree, a house, a pavement, and a sky.

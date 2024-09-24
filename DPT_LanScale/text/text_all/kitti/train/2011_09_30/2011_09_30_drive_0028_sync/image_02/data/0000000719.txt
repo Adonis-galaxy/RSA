@@ -8,3 +8,8 @@ A car parked on a street.
 A parked white SUV on a tree-lined street, with a clear sky overhead and a residential building in the background.
 A small white car is parked on the side of a narrow street lined with trees and buildings.
 A white car is parked on the side of a tree-lined street, with a building visible in the background.
+An image with a tree, a car, a road, a house, a grass, a sky, a fence, and a pavement.
+An image with a sky, a car, a pavement, a tree, a road, a fence, a grass, and a house.
+An image with a road, a house, a car, a tree, a sky, a pavement, a fence, and a grass.
+An image with a tree, a house, a fence, a car, a pavement, a sky, a road, and a grass.
+An image with a sky, a tree, a car, a pavement, a fence, a grass, a house, and a road.

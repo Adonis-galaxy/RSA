@@ -8,3 +8,8 @@ A piano in a room.
 A piano in a room with a window, a bench, and a bag.
 The image shows a small room with a piano, a window with curtains, and a few items on a table.
 A piano is situated in a room with a window, a bench, and a curtain, and there are various items on the piano and the bench.
+An image with a handbag, a window, a floor, two books, a bench, a curtain, a backpack, and a wall.
+An image with two books, a handbag, a window, a bench, a backpack, a floor, a curtain, and a wall.
+An image with a bench, two books, a window, a curtain, a backpack, a floor, a wall, and a handbag.
+An image with a bench, a backpack, a window, a handbag, a curtain, two books, a wall, and a floor.
+An image with a backpack, a window, a bench, a wall, a handbag, two books, a floor, and a curtain.

@@ -8,3 +8,8 @@ Two printers on a table.
 Two printers on a table, one is black and the other is white.
 Two large printers on a wooden table.
 Two printers on a wooden table against a white wall.
+An image with a table, a paper, a wall, and a rug.
+An image with a rug, a paper, a wall, and a table.
+An image with a table, a rug, a wall, and a paper.
+An image with a paper, a table, a wall, and a rug.
+An image with a rug, a wall, a table, and a paper.

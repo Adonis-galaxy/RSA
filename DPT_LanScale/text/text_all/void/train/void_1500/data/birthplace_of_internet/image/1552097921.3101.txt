@@ -8,3 +8,8 @@ A room with a refrigerator, a table, and a bookshelf.
 The image shows a room with a refrigerator, a desk, and a bookshelf, all in a green color scheme.
 The room is a small office with a desk, two chairs, a refrigerator, a bookshelf, and a filing cabinet.
 The image shows a room with a large refrigerator, a desk with a computer, a bookshelf, and a table with chairs. The room has a green wall and a white ceiling.
+An image with a floor, eleven books, a refrigerator, a wall, a laptop, a light, three chairs, a person, a ceiling, a paper, a table, a tv, and a dining.
+An image with eleven books, a tv, a ceiling, a dining, a person, three chairs, a paper, a wall, a laptop, a table, a light, a refrigerator, and a floor.
+An image with eleven books, a wall, a floor, a person, a dining, a table, a refrigerator, a paper, three chairs, a tv, a light, a laptop, and a ceiling.
+An image with eleven books, a tv, a refrigerator, three chairs, a ceiling, a dining, a table, a person, a wall, a light, a paper, a floor, and a laptop.
+An image with three chairs, a tv, a wall, eleven books, a floor, a refrigerator, a ceiling, a person, a light, a dining, a laptop, a table, and a paper.

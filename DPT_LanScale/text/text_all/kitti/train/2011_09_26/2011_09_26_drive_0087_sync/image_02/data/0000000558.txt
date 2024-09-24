@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 A narrow, tree-lined street leads to a row of houses, with a car parked on the street and a trash can on the sidewalk.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 The image depicts a narrow street lined with houses and trees, leading to a white building with a black gate and a yellow car parked on the street.
+An image with a sky, a house, a wall, a pavement, a car, a tree, and a building.
+An image with a wall, a tree, a house, a sky, a building, a car, and a pavement.
+An image with a house, a pavement, a wall, a car, a sky, a tree, and a building.
+An image with a tree, a wall, a house, a pavement, a car, a sky, and a building.
+An image with a house, a building, a wall, a car, a sky, a pavement, and a tree.

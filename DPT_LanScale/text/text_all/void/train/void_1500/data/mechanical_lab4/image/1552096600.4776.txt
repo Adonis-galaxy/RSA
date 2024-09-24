@@ -8,3 +8,8 @@ A yellow pipe is next to a sink.
 A yellow pipe is connected to a sink, and a green pipe is connected to a faucet.
 The image shows a yellow pipe on the left side, a sink with a green hose on the right side, and a white countertop.
 The image shows a yellow pipe connected to a sink, with a green hose and a yellow pipe on the floor.
+An image with a sink, a counter, a wall, a floor, and a cabinet.
+An image with a counter, a cabinet, a floor, a sink, and a wall.
+An image with a floor, a cabinet, a sink, a wall, and a counter.
+An image with a counter, a sink, a wall, a floor, and a cabinet.
+An image with a wall, a floor, a sink, a counter, and a cabinet.

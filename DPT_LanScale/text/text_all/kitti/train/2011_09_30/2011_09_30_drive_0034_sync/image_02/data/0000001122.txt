@@ -8,3 +8,8 @@ The image shows a narrow street with a truck parked on the side.
 A narrow street in a residential area, with parked cars, a truck, and a pedestrian, under a clear blue sky.
 A large truck is driving down a narrow street between two houses, with a person standing on the sidewalk and a car parked on the side of the road.
 A narrow street with parked cars, a truck, and a pedestrian, flanked by buildings and trees, under a clear blue sky.
+An image with three cars, a tree, a truck, a person, a sky, a house, a pavement, and a wall.
+An image with a sky, three cars, a wall, a house, a person, a tree, a truck, and a pavement.
+An image with a person, a sky, a house, a truck, three cars, a tree, a pavement, and a wall.
+An image with a pavement, three cars, a house, a person, a truck, a tree, a sky, and a wall.
+An image with three cars, a sky, a truck, a wall, a house, a pavement, a tree, and a person.

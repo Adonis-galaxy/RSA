@@ -8,3 +8,8 @@ The image shows a street with a crosswalk.
 The image captures a tranquil suburban street scene, with a clear sky overhead, a lush green field on the left, a tree-lined road in the center, and a few cars and pedestrians on the right, all under the watchful gaze of a street sign.
 The image shows a wide, tree-lined road with a crosswalk, a few cars, and a blue sky.
 The image depicts a wide, tree-lined road with a crosswalk, a clear sky, and a few cars and pedestrians, all under a blue sky.
+An image with a tree, three cars, a road, a pavement, a truck, and a grass.
+An image with three cars, a tree, a road, a truck, a grass, and a pavement.
+An image with a grass, three cars, a truck, a pavement, a tree, and a road.
+An image with a tree, a road, a pavement, three cars, a grass, and a truck.
+An image with three cars, a truck, a road, a pavement, a grass, and a tree.

@@ -8,3 +8,8 @@ The image shows a street with a white car and a black car driving down it.
 The image captures a serene suburban street scene, with a white car parked on the side of the road, a black SUV driving away, and a white house with a chimney in the background, all under a clear blue sky.
 A white car is driving down a tree-lined street, with a white SUV following behind.
 A tree-lined street with a white car parked on the side, two other cars driving away, and a house in the background.
+An image with a truck, a tree, a sky, two cars, a road, a wall, a house, and a dirt.
+An image with a tree, two cars, a dirt, a sky, a house, a truck, a wall, and a road.
+An image with a tree, two cars, a truck, a dirt, a wall, a road, a house, and a sky.
+An image with a wall, a tree, two cars, a dirt, a road, a truck, a house, and a sky.
+An image with a sky, a house, a road, a tree, a wall, two cars, a dirt, and a truck.

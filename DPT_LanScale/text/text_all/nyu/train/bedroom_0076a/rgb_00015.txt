@@ -8,3 +8,8 @@ The image shows a room with two beds, a chair, and a hat on a shelf.
 The image shows a room with two bunk beds, a chair, and a hat on a shelf, all set against a backdrop of a window with blinds.
 The image shows a small room with two bunk beds, a chair, a hat on a shelf, and a wooden floor.
 The image shows a room with two bunk beds, a chair, and a hat on a shelf.
+An image with a window, three beds, a floor, a wall, a ceiling, a light, a cabinet, and a chair.
+An image with a light, a wall, three beds, a ceiling, a window, a chair, a floor, and a cabinet.
+An image with a floor, three beds, a cabinet, a chair, a ceiling, a window, a light, and a wall.
+An image with a floor, a chair, three beds, a light, a wall, a cabinet, a window, and a ceiling.
+An image with three beds, a wall, a floor, a window, a cabinet, a ceiling, a light, and a chair.

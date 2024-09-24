@@ -8,3 +8,8 @@ A room with a desk, a filing cabinet, and a large machine.
 The image shows a small office space with a desk, a filing cabinet, and a large machine in the corner.
 The image shows a small office with a desk, chair, filing cabinet, and a large refrigerator.
 The image shows a room with a desk, a filing cabinet, a refrigerator, and a table with a chair. The room has a green wall and a white floor.
+An image with eleven books, four chairs, a shelf, a paper, a dining, a floor, a person, a refrigerator, a cabinet, and a wall.
+An image with eleven books, a paper, a shelf, a floor, a wall, a person, four chairs, a refrigerator, a cabinet, and a dining.
+An image with a paper, four chairs, eleven books, a refrigerator, a person, a wall, a shelf, a dining, a cabinet, and a floor.
+An image with eleven books, a floor, four chairs, a dining, a shelf, a refrigerator, a cabinet, a person, a paper, and a wall.
+An image with a paper, eleven books, a cabinet, a person, four chairs, a floor, a dining, a wall, a refrigerator, and a shelf.

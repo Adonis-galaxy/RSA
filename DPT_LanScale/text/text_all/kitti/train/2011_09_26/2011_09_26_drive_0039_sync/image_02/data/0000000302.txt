@@ -8,3 +8,8 @@ A black ups truck on a street.
 A delivery truck is parked on the side of a residential street, with a car parked behind it, and a woman standing next to the car.
 A large UPS truck is driving down a narrow street between two-story buildings, with a smaller car parked on the side of the road.
 A UPS delivery truck is parked on the side of a residential street, with a car parked behind it and a fence on the sidewalk.
+An image with four cars, a tree, a house, two walls, a pavement, a fence, a person, a road, and a truck.
+An image with a truck, a person, two walls, four cars, a pavement, a tree, a fence, a road, and a house.
+An image with four cars, a person, a house, two walls, a pavement, a tree, a road, a fence, and a truck.
+An image with a house, four cars, two walls, a fence, a person, a tree, a truck, a pavement, and a road.
+An image with four cars, two walls, a truck, a person, a tree, a road, a pavement, a house, and a fence.

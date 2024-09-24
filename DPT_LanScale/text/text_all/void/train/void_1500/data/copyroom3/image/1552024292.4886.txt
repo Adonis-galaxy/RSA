@@ -8,3 +8,8 @@ A blurry image of a microwave on top of a counter.
 A blurry image of a microwave on top of a refrigerator.
 A blurry image of a microwave on top of a blue counter, with a refrigerator in the background.
 The image shows a blurry view of a kitchen with a microwave on a counter and a refrigerator in the background.
+An image with a microwave, a wall, a paper, a cabinet, a light, and a floor.
+An image with a floor, a paper, a cabinet, a light, a wall, and a microwave.
+An image with a wall, a microwave, a floor, a paper, a light, and a cabinet.
+An image with a wall, a floor, a paper, a cabinet, a microwave, and a light.
+An image with a paper, a cabinet, a light, a wall, a microwave, and a floor.

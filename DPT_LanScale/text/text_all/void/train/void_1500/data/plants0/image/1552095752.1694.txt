@@ -8,3 +8,8 @@ The image shows a sandy area with plants and a tree.
 The image shows a sandy area with a few plants and trees, and a concrete ledge.
 The image shows a sandy area with a few small plants and a tree trunk, with a concrete edge on the left.
 The image shows a sandy area with a few plants and trees, and a concrete edge.
+An image with a floor, a tree, two walls, a pavement, and a sand.
+An image with a tree, two walls, a sand, a pavement, and a floor.
+An image with a floor, a tree, two walls, a sand, and a pavement.
+An image with two walls, a floor, a pavement, a tree, and a sand.
+An image with a tree, a pavement, a floor, a sand, and two walls.

@@ -8,3 +8,8 @@ The image shows a white table with chairs in a room.
 The image shows a white table with four chairs in a room with a tiled floor.
 The image shows a room with a long white table and several white chairs, all of which are empty.
 The image shows a room with a long table and several chairs, all in white, arranged in a row.
+An image with six chairs, a floor, three dinings, a wall, and a door.
+An image with a wall, six chairs, three dinings, a floor, and a door.
+An image with three dinings, a floor, six chairs, a wall, and a door.
+An image with a door, six chairs, a wall, three dinings, and a floor.
+An image with three dinings, six chairs, a floor, a door, and a wall.

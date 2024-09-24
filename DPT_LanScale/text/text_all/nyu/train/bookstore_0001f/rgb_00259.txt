@@ -8,3 +8,8 @@ The image shows a bookstore with shelves filled with books.
 The image captures the essence of a well-stocked bookstore with aisles of books and a central aisle leading to a back room.
 The image shows a large bookstore with aisles filled with books of various sizes, and a central aisle leading to a back room.
 The image shows a well-organized bookstore with aisles leading to shelves filled with books, a central aisle, and a variety of book genres displayed on the shelves.
+An image with twelve books, a wall, a ceiling, a shelf, a floor, and a light.
+An image with twelve books, a light, a wall, a ceiling, a floor, and a shelf.
+An image with a ceiling, a floor, twelve books, a wall, a shelf, and a light.
+An image with twelve books, a shelf, a light, a wall, a floor, and a ceiling.
+An image with a light, twelve books, a wall, a ceiling, a floor, and a shelf.

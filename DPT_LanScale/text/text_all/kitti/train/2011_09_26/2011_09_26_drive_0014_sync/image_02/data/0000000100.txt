@@ -8,3 +8,8 @@ A train on a track.
 A train travels down a tree-lined street, with a car and a cyclist following behind.
 A train is traveling down a tree-lined street, with a car and a person visible in the distance.
 A train travels down a tree-lined street, with a car and a bicyclist following behind, under a clear blue sky.
+An image with a road, a train, four cars, a tree, a wall, a grass, a sky, and a person.
+An image with four cars, a wall, a road, a person, a tree, a sky, a train, and a grass.
+An image with a sky, a road, a train, four cars, a person, a wall, a tree, and a grass.
+An image with four cars, a road, a sky, a tree, a person, a train, a wall, and a grass.
+An image with a tree, a grass, four cars, a sky, a road, a person, a train, and a wall.

@@ -8,3 +8,8 @@ A dimly lit room with a bed, chair, and television.
 The image captures a small, dark room with a bed, a chair, a TV, a fan, and a table lamp, all in close proximity to each other.
 The image shows a small, dark room with a bed, a chair, a TV, a fan, and a small table.
 The image shows a dimly lit room with a bed, a chair, a table, a television, a fan, and a small stove.
+An image with a tv, a window, a couch, a table, a wall, and a rug.
+An image with a wall, a window, a table, a rug, a couch, and a tv.
+An image with a wall, a rug, a couch, a window, a table, and a tv.
+An image with a table, a rug, a window, a wall, a tv, and a couch.
+An image with a table, a window, a couch, a rug, a tv, and a wall.

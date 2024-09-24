@@ -8,3 +8,8 @@ The image shows a narrow street lined with tall hedges and trees, with a few car
 A quiet residential street, lined with lush greenery and parked cars, under a clear blue sky.
 A narrow street lined with tall hedges and trees, leading to a row of houses.
 A narrow, tree-lined street with apartment buildings on both sides, leading to a car parked on the right side.
+An image with four cars, a road, a pavement, a tree, a sky, and a house.
+An image with four cars, a sky, a pavement, a house, a tree, and a road.
+An image with a tree, a road, a sky, four cars, a house, and a pavement.
+An image with four cars, a road, a sky, a tree, a pavement, and a house.
+An image with a tree, a house, four cars, a road, a pavement, and a sky.

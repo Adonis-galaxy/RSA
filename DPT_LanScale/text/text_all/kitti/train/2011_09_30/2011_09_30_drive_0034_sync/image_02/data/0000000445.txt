@@ -8,3 +8,8 @@ A gray car parked on a street.
 A gray minivan parked on a narrow street between two-story houses, with a clear sky overhead and a lush garden on the right.
 A gray car is parked on a narrow street between two houses, with a green garden in front of the houses.
 A narrow, tree-lined street leads to a white house with a greenhouse attached, surrounded by a fence and a garden.
+An image with a tree, a house, two cars, a pavement, a road, and a sky.
+An image with two cars, a sky, a house, a road, a tree, and a pavement.
+An image with two cars, a road, a sky, a pavement, a house, and a tree.
+An image with a sky, a house, a tree, two cars, a pavement, and a road.
+An image with a road, a sky, two cars, a tree, a house, and a pavement.

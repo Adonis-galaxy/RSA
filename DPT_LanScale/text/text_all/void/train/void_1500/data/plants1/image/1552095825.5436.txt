@@ -8,3 +8,8 @@ A concrete slab in a garden.
 A concrete slab is surrounded by green plants and is situated next to a brick wall.
 A small white bench is surrounded by green plants and is located next to a brick wall.
 The image shows a concrete slab with a green plant growing on it, situated next to a brick wall.
+An image with a tree, a wall, and a bench.
+An image with a bench, a wall, and a tree.
+An image with a bench, a tree, and a wall.
+An image with a wall, a tree, and a bench.
+An image with a bench, a tree, and a wall.

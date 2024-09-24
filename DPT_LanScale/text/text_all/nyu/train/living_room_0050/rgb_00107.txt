@@ -8,3 +8,8 @@ A black leather couch in a living room.
 The image captures a cozy living room scene, featuring a leather couch positioned in front of a window with curtains, and a wall-mounted electrical outlet.
 A large, dark brown leather couch is positioned in front of a window with white blinds, next to a wall with a blue paint and a white outlet.
 The image shows a dark leather couch with a wooden floor and a blue wall, positioned in front of a window with white blinds, and there is a white wall-mounted electrical outlet on the left side of the image.
+An image with a curtain, a floor, a window, a couch, and a wall.
+An image with a wall, a window, a floor, a curtain, and a couch.
+An image with a couch, a window, a floor, a curtain, and a wall.
+An image with a window, a couch, a floor, a wall, and a curtain.
+An image with a floor, a wall, a curtain, a couch, and a window.

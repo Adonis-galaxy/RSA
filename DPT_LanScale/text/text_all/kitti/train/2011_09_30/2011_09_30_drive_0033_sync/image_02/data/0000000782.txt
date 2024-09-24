@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses and parked cars.
 The image captures a serene residential street, lined with houses and trees, where the sun casts long shadows, creating a peaceful atmosphere.
 The image depicts a narrow, tree-lined street in a residential area, with parked cars and a few pedestrians, and the sun is shining brightly.
 The image depicts a quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a grass, six cars, a house, a pavement, a tree, a sky, and a road.
+An image with a grass, a road, six cars, a pavement, a tree, a sky, and a house.
+An image with a grass, a pavement, six cars, a road, a house, a tree, and a sky.
+An image with six cars, a house, a sky, a tree, a pavement, a road, and a grass.
+An image with six cars, a sky, a pavement, a house, a road, a grass, and a tree.

@@ -8,3 +8,8 @@ The image shows a room with a door, a chair, and a table.
 The image shows an empty room with a door, a chair, and a bench.
 The image shows a small room with a door, a chair, and a table.
 The image shows an empty room with a door, a bench, and a chair.
+An image with a chair, a table, a wall, a tv, a door, and a floor.
+An image with a tv, a wall, a chair, a door, a table, and a floor.
+An image with a chair, a door, a table, a tv, a floor, and a wall.
+An image with a door, a table, a floor, a wall, a chair, and a tv.
+An image with a chair, a door, a tv, a floor, a table, and a wall.

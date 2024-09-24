@@ -8,3 +8,8 @@ The image shows a street scene with a yellow van parked on the side of the road.
 The image captures a quiet residential street, with a yellow van parked on the side of the road, adjacent to a brick wall and a building with a sign that reads "Am Burgweg."
 The image shows a narrow street lined with houses, a yellow van parked on the side, and a sign indicating "Am Burgweg."
 A narrow street in a residential area, with a yellow van parked on the sidewalk and a brick wall on the right side.
+An image with a house, a road, a car, a wall, a sky, a tree, and a pavement.
+An image with a house, a tree, a car, a wall, a pavement, a road, and a sky.
+An image with a wall, a sky, a house, a tree, a car, a pavement, and a road.
+An image with a car, a wall, a tree, a sky, a road, a house, and a pavement.
+An image with a car, a sky, a road, a house, a pavement, a wall, and a tree.

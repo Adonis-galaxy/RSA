@@ -8,3 +8,8 @@ A narrow, tree-lined street.
 A narrow, tree-lined alleyway between two residential houses, with a car parked on the right side.
 The image depicts a narrow, tree-lined street between two-story houses, with a car parked on the right side.
 A narrow, tree-lined street between two-story houses, with a brick sidewalk and a car parked on the right side.
+An image with a wall, a pavement, a house, a tree, a sky, a truck, a car, and a roof.
+An image with a wall, a roof, a house, a sky, a car, a tree, a pavement, and a truck.
+An image with a car, a house, a tree, a roof, a wall, a sky, a pavement, and a truck.
+An image with a pavement, a roof, a truck, a house, a tree, a wall, a sky, and a car.
+An image with a roof, a truck, a tree, a house, a sky, a wall, a car, and a pavement.

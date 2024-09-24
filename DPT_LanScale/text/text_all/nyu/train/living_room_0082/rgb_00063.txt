@@ -8,3 +8,8 @@ A man standing in a room with a table and a person sitting at it.
 A man stands in a room with a table and chair, observing another man who is seated at the table, working on a laptop.
 A man stands in a room with a table and chairs, a person is seated at the table, and there is a bag on the floor.
 A man stands in a room with a table and chairs, a person is seated at the table, and there is a bag on the chair.
+An image with a floor, two people, two chairs, a door, a bottle, a wall, a dining, a handbag, and a shelf.
+An image with two chairs, a dining, two people, a wall, a floor, a bottle, a handbag, a door, and a shelf.
+An image with two chairs, a door, two people, a handbag, a dining, a shelf, a wall, a bottle, and a floor.
+An image with two chairs, a dining, a handbag, a bottle, a wall, a shelf, two people, a floor, and a door.
+An image with two chairs, a bottle, a dining, a shelf, a handbag, two people, a door, a floor, and a wall.

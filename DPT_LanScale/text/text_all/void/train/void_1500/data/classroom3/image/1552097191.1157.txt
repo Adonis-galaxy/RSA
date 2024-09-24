@@ -8,3 +8,8 @@ The image shows a room with two black chairs on a carpeted floor.
 The image shows a room with two black chairs on a carpeted floor, with a white cord running across the room.
 The image shows a room with two black chairs on a carpeted floor, with a white wall in the background.
 The image shows a room with two black chairs on a carpeted floor, positioned in front of a desk.
+An image with three chairs, a rug, a window, and a floor.
+An image with three chairs, a window, a floor, and a rug.
+An image with a window, three chairs, a floor, and a rug.
+An image with three chairs, a floor, a window, and a rug.
+An image with three chairs, a floor, a window, and a rug.

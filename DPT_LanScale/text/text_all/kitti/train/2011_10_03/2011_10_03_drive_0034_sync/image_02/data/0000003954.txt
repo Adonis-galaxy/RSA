@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a parked car on the left side, a line of trees and bushes along the right side, and a clear sky overhead.
 The image shows a narrow street lined with parked cars and trees, with a building visible in the background.
 A quiet residential street with parked cars, lined by trees and buildings, leading to a cul-de-sac.
+An image with six cars, a road, a house, a wall, a sky, a tree, and a pavement.
+An image with six cars, a wall, a house, a pavement, a sky, a road, and a tree.
+An image with six cars, a tree, a road, a sky, a wall, a house, and a pavement.
+An image with a house, a road, six cars, a pavement, a wall, a tree, and a sky.
+An image with six cars, a road, a sky, a wall, a tree, a pavement, and a house.

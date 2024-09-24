@@ -8,3 +8,8 @@ The image shows an interior view of a bookstore.
 The image captures the essence of a well-organized bookstore with aisles leading to rows of books, showcasing a variety of genres and subjects.
 The image shows a large bookstore with aisles of bookshelves, a central walkway, and a large sign indicating the number 42.
 The image shows an interior view of a bookstore with aisles leading to shelves stocked with books, a chair in the foreground, and a sign indicating the section number.
+An image with fifteen books, a shelf, a ceiling, a floor, a light, a chair, and a wall.
+An image with fifteen books, a light, a ceiling, a floor, a wall, a shelf, and a chair.
+An image with fifteen books, a floor, a chair, a wall, a light, a shelf, and a ceiling.
+An image with fifteen books, a chair, a wall, a shelf, a light, a floor, and a ceiling.
+An image with a light, fifteen books, a ceiling, a wall, a shelf, a floor, and a chair.

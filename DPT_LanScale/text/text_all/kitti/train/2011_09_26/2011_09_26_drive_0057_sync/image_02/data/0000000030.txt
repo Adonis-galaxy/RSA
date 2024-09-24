@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 A red car is driving on a road with a white line, passing under a traffic light and a street sign, with a clear sky in the background.
 A red car is driving down a street with multiple lanes, passing under traffic lights and street signs, and is surrounded by trees and buildings.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and surrounded by trees and buildings.
+An image with a sky, nine traffics, a house, nine cars, a grass, a mountain, a pavement, a tree, and a road.
+An image with nine cars, a road, nine traffics, a sky, a house, a mountain, a tree, a grass, and a pavement.
+An image with nine traffics, a sky, nine cars, a grass, a pavement, a mountain, a house, a road, and a tree.
+An image with nine cars, nine traffics, a house, a mountain, a grass, a sky, a road, a pavement, and a tree.
+An image with nine cars, a mountain, a pavement, nine traffics, a tree, a road, a sky, a grass, and a house.

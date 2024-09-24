@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 The image captures a serene residential street, lined with trees and parked vehicles, leading to a white building with a red roof, under a clear blue sky.
 The image shows a street scene with a large white truck parked on the side of the road, a few trees, a sidewalk, and a building in the background.
 The image shows a curved road with a sidewalk on the right side, lined with trees and houses, leading to a white building with a red roof.
+An image with three trucks, a dirt, a house, a tree, a grass, two cars, and a road.
+An image with a dirt, a tree, three trucks, a road, a grass, two cars, and a house.
+An image with three trucks, a tree, a house, a dirt, a grass, a road, and two cars.
+An image with two cars, a tree, a dirt, a grass, three trucks, a house, and a road.
+An image with three trucks, a dirt, two cars, a tree, a grass, a house, and a road.

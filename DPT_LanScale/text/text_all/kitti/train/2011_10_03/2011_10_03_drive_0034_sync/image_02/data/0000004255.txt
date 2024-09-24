@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac.
 The image shows a quiet residential street with houses, trees, and a sidewalk, leading to a cul-de-sac.
 A quiet residential street with a curved road, lined with houses and trees, leading to a cul-de-sac.
+An image with a road, a pavement, a wall, a sky, a grass, and a tree.
+An image with a pavement, a tree, a road, a sky, a wall, and a grass.
+An image with a road, a sky, a wall, a pavement, a grass, and a tree.
+An image with a grass, a road, a wall, a tree, a sky, and a pavement.
+An image with a wall, a road, a grass, a pavement, a sky, and a tree.

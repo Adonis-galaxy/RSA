@@ -8,3 +8,8 @@ A photo of a kitchen with a refrigerator.
 The image captures a domestic scene with a focus on the kitchen area, featuring a white door, a refrigerator, a countertop, and a picture frame with family photos.
 The image shows a kitchen with a large refrigerator, a white door with a silver handle, a white wall, a white floor, and a picture frame with multiple photos on the wall.
 The image shows a kitchen with a white door, a refrigerator, a countertop, and a picture frame on the wall.
+An image with two walls, a floor, a refrigerator, a door, a dining, and a remote.
+An image with a door, two walls, a floor, a refrigerator, a dining, and a remote.
+An image with a door, a floor, two walls, a refrigerator, a remote, and a dining.
+An image with a door, two walls, a dining, a refrigerator, a remote, and a floor.
+An image with two walls, a refrigerator, a floor, a door, a remote, and a dining.

@@ -8,3 +8,8 @@ The image shows an empty room with a long hallway, several chairs, tables, and a
 The image depicts an empty room with a long hallway leading to a series of classrooms, each furnished with desks and chairs, and a table at the end of the hall.
 The image shows a long, narrow hallway with a row of desks and chairs, a table, and a whiteboard. The hallway is illuminated by fluorescent lights on the ceiling.
 The image shows an empty room with a long corridor leading to a series of classrooms, each furnished with desks and chairs, and a central table.
+An image with a light, seven chairs, a paper, a door, three dinings, a wall, a floor, and a ceiling.
+An image with a light, three dinings, a wall, seven chairs, a ceiling, a paper, a door, and a floor.
+An image with seven chairs, three dinings, a door, a light, a ceiling, a paper, a floor, and a wall.
+An image with seven chairs, a door, three dinings, a light, a paper, a ceiling, a wall, and a floor.
+An image with seven chairs, three dinings, a door, a floor, a light, a paper, a wall, and a ceiling.

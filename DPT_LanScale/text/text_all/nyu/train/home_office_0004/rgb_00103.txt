@@ -8,3 +8,8 @@ A man sitting at a desk in a room with a bookshelf.
 A man sits at a desk in a room with a bookshelf, a rug, and a computer monitor.
 The image shows a man sitting at a desk in a room with a large bookshelf, a rug, and a computer monitor.
 The image shows a man sitting at a desk in a room with a bookshelf, a rug, and a wooden floor.
+An image with sixteen books, a shelf, a door, a wall, a cabinet, a rug, a chair, a floor, and a person.
+An image with a door, sixteen books, a chair, a person, a cabinet, a rug, a shelf, a wall, and a floor.
+An image with sixteen books, a rug, a door, a chair, a wall, a floor, a shelf, a person, and a cabinet.
+An image with a door, sixteen books, a chair, a cabinet, a floor, a shelf, a wall, a rug, and a person.
+An image with sixteen books, a door, a shelf, a wall, a chair, a floor, a person, a cabinet, and a rug.

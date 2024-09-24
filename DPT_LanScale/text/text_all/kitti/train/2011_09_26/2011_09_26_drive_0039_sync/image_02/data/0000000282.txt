@@ -8,3 +8,8 @@ The image shows a street scene with cars and a truck.
 A quiet residential street with parked cars and a person walking, under a clear blue sky.
 A black car is driving down a narrow street between two white buildings, with a black van and a person on a motorcycle following behind.
 A narrow street in a residential area with parked cars and a delivery van.
+An image with a truck, a pavement, four cars, a sky, a house, a tree, a person, a road, and a fence.
+An image with four cars, a person, a house, a truck, a fence, a pavement, a sky, a tree, and a road.
+An image with a tree, a road, a truck, four cars, a pavement, a person, a sky, a house, and a fence.
+An image with a tree, four cars, a house, a road, a truck, a fence, a sky, a pavement, and a person.
+An image with a house, a road, a tree, a fence, four cars, a pavement, a truck, a sky, and a person.

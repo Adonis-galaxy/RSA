@@ -8,3 +8,8 @@ The image shows a narrow road between two walls, with trees on both sides.
 A narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a distant view of a clear sky.
 The image shows a narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a distant view of a hillside.
 A narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a distant view of a hill.
+An image with a tree, a pavement, a fence, a road, a wall, and a sky.
+An image with a sky, a fence, a road, a pavement, a wall, and a tree.
+An image with a wall, a road, a tree, a sky, a fence, and a pavement.
+An image with a tree, a road, a pavement, a fence, a wall, and a sky.
+An image with a fence, a sky, a wall, a road, a pavement, and a tree.

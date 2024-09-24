@@ -8,3 +8,8 @@ The image shows a residential street with houses and cars.
 The image captures a residential street scene with a two-story house, parked cars, a sidewalk, and a street sign.
 The image shows a residential street with a large two-story house on the right side, a smaller house on the left, and a few parked cars.
 A two-story residential building with a covered entrance and parking area, situated on a street corner with a sidewalk and a brick-paved road.
+An image with a grass, five cars, a house, a pavement, a sky, a road, and a tree.
+An image with five cars, a road, a tree, a house, a pavement, a grass, and a sky.
+An image with a house, five cars, a grass, a road, a tree, a sky, and a pavement.
+An image with five cars, a tree, a house, a grass, a pavement, a road, and a sky.
+An image with a tree, a house, a sky, five cars, a road, a pavement, and a grass.

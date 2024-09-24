@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a serene suburban street scene, with a clear blue sky overhead, a curving road leading to a distant view of houses, and a signpost with a photo of the road ahead, indicating the intersection of two roads.
 The image shows a wide, empty road with a clear blue sky, a few trees, and a sign indicating a nearby road.
 The image shows a rural road with a clear sky, a grassy area, and a few trees, leading to a residential area with houses and a street sign.
+An image with a sky, a pavement, a tree, a house, a grass, and a road.
+An image with a grass, a pavement, a tree, a road, a house, and a sky.
+An image with a sky, a house, a tree, a road, a pavement, and a grass.
+An image with a pavement, a sky, a tree, a house, a grass, and a road.
+An image with a tree, a road, a grass, a house, a pavement, and a sky.

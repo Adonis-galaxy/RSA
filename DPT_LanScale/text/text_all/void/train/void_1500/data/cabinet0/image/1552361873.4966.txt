@@ -8,3 +8,8 @@ A desk with a telephone and papers on it.
 A desk with a telephone, papers, and a book on it.
 A desk with a phone, a book, and a pamphlet on it.
 A desk with a telephone, a stack of papers, and a book.
+An image with a wall, three books, a floor, a cabinet, and a table.
+An image with a table, three books, a cabinet, a wall, and a floor.
+An image with three books, a cabinet, a floor, a table, and a wall.
+An image with a table, three books, a floor, a cabinet, and a wall.
+An image with a floor, three books, a wall, a table, and a cabinet.

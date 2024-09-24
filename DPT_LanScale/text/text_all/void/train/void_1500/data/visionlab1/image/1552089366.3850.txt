@@ -8,3 +8,8 @@ A box with a red sign on it.
 An office space with a desk, computer, and a box with a red sign.
 The image shows an office space with a large cardboard box containing a computer monitor, a keyboard, and a mouse, placed on a desk next to a chair.
 The image shows an office space with a desk, chairs, and a computer, with a cardboard box containing a sign in the foreground.
+An image with a cardboard, a table, three chairs, a book, two keyboards, a rug, a sports, a light, a window, a wall, and a tv.
+An image with a light, a rug, a table, a wall, a tv, two keyboards, three chairs, a window, a cardboard, a book, and a sports.
+An image with a light, a book, a tv, three chairs, a window, a cardboard, two keyboards, a table, a sports, a wall, and a rug.
+An image with a rug, a light, a wall, three chairs, a cardboard, two keyboards, a tv, a book, a window, a table, and a sports.
+An image with a rug, three chairs, a cardboard, a light, a sports, two keyboards, a tv, a window, a book, a table, and a wall.

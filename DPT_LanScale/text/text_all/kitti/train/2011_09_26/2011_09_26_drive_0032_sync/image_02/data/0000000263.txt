@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a tranquil day on a tree-lined road, with a few cars gently moving along, under the watchful eyes of traffic lights and street signs.
 The image shows a wide, empty road with a few cars, a traffic light, and a street sign.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and traffic lights, leading to a roundabout at the end.
+An image with six traffics, five cars, a fence, a grass, a tree, a sky, and a road.
+An image with six traffics, five cars, a tree, a sky, a fence, a grass, and a road.
+An image with six traffics, five cars, a tree, a road, a grass, a fence, and a sky.
+An image with a sky, six traffics, a tree, five cars, a road, a grass, and a fence.
+An image with five cars, a road, a grass, six traffics, a fence, a sky, and a tree.

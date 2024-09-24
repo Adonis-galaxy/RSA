@@ -8,3 +8,8 @@ The image is a photograph of a narrow street between two-story houses.
 A narrow, tree-lined street between two-story houses, with parked cars and a lone figure walking on the sidewalk.
 The image shows a narrow street lined with houses and trees, with a large street lamp on the left side.
 A narrow, tree-lined street with houses on both sides, leading to a cul-de-sac.
+An image with a road, a wall, a fence, a sky, a bench, four cars, a tree, a pavement, a bus, and a house.
+An image with four cars, a bench, a fence, a house, a wall, a tree, a pavement, a road, a sky, and a bus.
+An image with a sky, four cars, a wall, a tree, a bus, a fence, a house, a bench, a road, and a pavement.
+An image with a pavement, a wall, four cars, a house, a bus, a road, a fence, a tree, a bench, and a sky.
+An image with a pavement, four cars, a road, a fence, a wall, a bus, a bench, a house, a tree, and a sky.

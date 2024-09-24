@@ -8,3 +8,8 @@ The image shows a room with a whiteboard, a blue chair, a wicker basket, and a c
 The image shows a room with a whiteboard, a blue chair, a wicker basket, and a cardboard box.
 The image shows a room with a whiteboard, a blue chair, a brown table, and a red umbrella.
 The image shows a room with a whiteboard, a blue chair, a wicker basket, and a cardboard box in the background.
+An image with a cardboard, a cabinet, a floor, a wall, and two chairs.
+An image with a floor, a wall, two chairs, a cardboard, and a cabinet.
+An image with a cabinet, a floor, a wall, two chairs, and a cardboard.
+An image with a wall, a cabinet, a floor, a cardboard, and two chairs.
+An image with a cardboard, a wall, a cabinet, two chairs, and a floor.

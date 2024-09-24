@@ -8,3 +8,8 @@ A white van parked on the side of a road.
 A white van parked on a street, with its rear door open, next to a sidewalk with trees and a building in the background.
 A large white van is parked on a narrow street next to a building, with its rear door open and a ladder leaning against it.
 A white van is parked on the side of a street, with a blue sign on the back, and a side door open, next to a building with a green roof and a fence in front.
+An image with three cars, a road, a grass, a tree, a wall, a truck, a fence, a sky, and a house.
+An image with a road, a sky, three cars, a grass, a wall, a tree, a house, a fence, and a truck.
+An image with a house, three cars, a fence, a sky, a truck, a road, a tree, a wall, and a grass.
+An image with a wall, a road, a house, a grass, a tree, three cars, a fence, a sky, and a truck.
+An image with a road, a sky, three cars, a tree, a house, a wall, a truck, a fence, and a grass.

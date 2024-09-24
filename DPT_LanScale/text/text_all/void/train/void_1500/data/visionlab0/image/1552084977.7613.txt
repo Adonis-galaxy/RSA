@@ -8,3 +8,8 @@ A blurry image of a room with a whiteboard, a box, and a black cabinet.
 The image shows a room with a whiteboard, a cardboard box, a black bag, and a desk with drawers.
 The image shows a whiteboard with writing on it, a brown box on the floor, a black cabinet, and a white wall.
 The image shows a room with a whiteboard, a black cabinet, a desk with drawers, a cardboard box, and a black bag.
+An image with a microwave, a suitcase, a floor, a cardboard, a cabinet, a wall, and a tv.
+An image with a cardboard, a cabinet, a tv, a microwave, a wall, a floor, and a suitcase.
+An image with a cardboard, a tv, a microwave, a cabinet, a floor, a suitcase, and a wall.
+An image with a tv, a microwave, a floor, a cabinet, a suitcase, a wall, and a cardboard.
+An image with a tv, a cardboard, a cabinet, a floor, a wall, a microwave, and a suitcase.

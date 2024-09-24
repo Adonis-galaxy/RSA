@@ -8,3 +8,8 @@ A room with a refrigerator and a table.
 The image shows a room with a green wall, a refrigerator, a table, and a shelf, all under fluorescent lighting.
 The image shows a room with green walls, a large refrigerator, a desk with a chair, and a bookshelf.
 The image shows a room with a green wall, a large refrigerator, a desk with a chair, and a bookshelf.
+An image with a floor, a person, eleven books, a refrigerator, four chairs, a shelf, a wall, a ceiling, a dining, and a light.
+An image with a light, a wall, eleven books, a ceiling, four chairs, a refrigerator, a dining, a shelf, a person, and a floor.
+An image with a dining, eleven books, four chairs, a floor, a light, a refrigerator, a wall, a person, a shelf, and a ceiling.
+An image with a wall, eleven books, four chairs, a shelf, a refrigerator, a floor, a ceiling, a dining, a light, and a person.
+An image with a dining, eleven books, four chairs, a ceiling, a person, a wall, a floor, a light, a shelf, and a refrigerator.

@@ -8,3 +8,8 @@ White chairs with black wheels around a white table.
 The image shows a white table with two white chairs, positioned in a room with a white wall and a white door.
 The image shows a white table with two white chairs, both with black wheels, in a room with a white wall and a door.
 The image shows a white table with two white chairs, positioned in a room with a white wall and a white door.
+An image with four chairs, a door, a wall, two dinings, and a floor.
+An image with four chairs, two dinings, a wall, a door, and a floor.
+An image with four chairs, a floor, a wall, two dinings, and a door.
+An image with four chairs, two dinings, a floor, a wall, and a door.
+An image with a door, a floor, two dinings, four chairs, and a wall.

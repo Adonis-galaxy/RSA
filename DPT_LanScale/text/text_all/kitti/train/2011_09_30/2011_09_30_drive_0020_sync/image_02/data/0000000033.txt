@@ -8,3 +8,8 @@ The image shows a street scene with a sidewalk, grass, and buildings under const
 The image captures a quiet residential street, with a row of houses, a sidewalk, and a few parked cars, leading towards a building under construction.
 The image shows a street scene with a large building under construction, a sidewalk, a few parked cars, and trees lining the street.
 The image shows a street scene with a row of trees, a sidewalk, a road, parked cars, and buildings under construction.
+An image with six cars, a tree, a road, a grass, a bus, a building, a sky, and a pavement.
+An image with six cars, a road, a bus, a sky, a tree, a grass, a building, and a pavement.
+An image with six cars, a bus, a road, a pavement, a sky, a tree, a grass, and a building.
+An image with six cars, a building, a pavement, a road, a grass, a sky, a tree, and a bus.
+An image with six cars, a bus, a grass, a tree, a building, a road, a pavement, and a sky.

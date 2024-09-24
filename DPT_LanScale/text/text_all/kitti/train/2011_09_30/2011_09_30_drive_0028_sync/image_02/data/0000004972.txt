@@ -8,3 +8,8 @@ The image shows a street with parked cars and a no left turn sign.
 The image captures a quiet residential street, lined with parked cars and apartment buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a building, and a sign indicating no right turns.
 A narrow street lined with parked cars and buildings, with a no-turn sign at the end.
+An image with ten cars, a stop, a tree, a building, a grass, a pavement, a road, and a wall.
+An image with a wall, ten cars, a building, a pavement, a tree, a grass, a road, and a stop.
+An image with a wall, ten cars, a tree, a grass, a pavement, a stop, a building, and a road.
+An image with ten cars, a grass, a road, a pavement, a stop, a wall, a building, and a tree.
+An image with ten cars, a wall, a building, a road, a stop, a tree, a grass, and a pavement.

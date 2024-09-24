@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a residential area.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a few pedestrians walking along the sidewalk, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a person walking on the sidewalk.
 A narrow street lined with parked cars and buildings, with a person walking on the sidewalk.
+An image with ten cars, a tree, a sky, a road, a bicycle, a pavement, a fence, a house, and a person.
+An image with ten cars, a road, a fence, a pavement, a bicycle, a tree, a person, a house, and a sky.
+An image with ten cars, a sky, a road, a fence, a tree, a bicycle, a person, a house, and a pavement.
+An image with a house, ten cars, a bicycle, a tree, a fence, a pavement, a road, a sky, and a person.
+An image with ten cars, a bicycle, a sky, a tree, a fence, a road, a house, a pavement, and a person.

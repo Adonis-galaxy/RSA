@@ -8,3 +8,8 @@ The image shows a row of black and orange chairs with desks.
 The image shows a classroom with rows of desks and chairs, all facing the same direction.
 The image shows a classroom with rows of black chairs and orange desks.
 The image shows a classroom with rows of desks and chairs, all facing the front of the room.
+An image with ten chairs, a dining, two walls, and a floor.
+An image with ten chairs, a floor, a dining, and two walls.
+An image with ten chairs, a dining, a floor, and two walls.
+An image with a floor, a dining, ten chairs, and two walls.
+An image with ten chairs, two walls, a dining, and a floor.

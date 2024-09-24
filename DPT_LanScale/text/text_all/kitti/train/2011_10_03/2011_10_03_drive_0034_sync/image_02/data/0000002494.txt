@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and trees.
 A quiet residential street, lined with parked cars and lush greenery, leading to a serene cul-de-sac.
 The image shows a narrow, tree-lined street with parked cars, a sidewalk, and a curb.
 A narrow, tree-lined street with parked cars and a curved path leading to a residential area.
+An image with four cars, a pavement, a wall, a tree, a road, and a sky.
+An image with a road, a tree, four cars, a pavement, a wall, and a sky.
+An image with four cars, a tree, a sky, a pavement, a road, and a wall.
+An image with a wall, a road, four cars, a sky, a tree, and a pavement.
+An image with a sky, a wall, four cars, a road, a pavement, and a tree.

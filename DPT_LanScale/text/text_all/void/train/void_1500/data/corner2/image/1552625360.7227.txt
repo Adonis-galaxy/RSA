@@ -8,3 +8,8 @@ A blurry image of a desk with papers and a cup.
 A blurry image of a desk with a cup, papers, and a computer monitor.
 A blurry image of a desk with a red cup, a white plate, and papers on it.
 The image shows a blurry desk with a red cup, a white plate, and papers on it.
+An image with a floor, a wall, a table, a cup, and a book.
+An image with a table, a wall, a cup, a floor, and a book.
+An image with a table, a cup, a book, a floor, and a wall.
+An image with a book, a table, a floor, a wall, and a cup.
+An image with a wall, a table, a book, a cup, and a floor.

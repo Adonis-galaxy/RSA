@@ -8,3 +8,8 @@ The image shows a highway with a clear view of the road ahead.
 The image captures a long, empty highway with a clear sky, a few cars, and a sign indicating a speed limit of 80 km/h.
 The image shows a wide, empty highway with a clear sky, a few cars, and a large sign in the distance.
 The image depicts a long, straight highway with multiple lanes, a central divider, and a clear sky in the background, with a sign indicating a speed limit of 80 km/h.
+An image with a traffic, a road, eight cars, a fence, a truck, a grass, and a tree.
+An image with eight cars, a tree, a grass, a truck, a traffic, a road, and a fence.
+An image with a road, a grass, eight cars, a traffic, a truck, a tree, and a fence.
+An image with a truck, a road, a traffic, a tree, a fence, eight cars, and a grass.
+An image with a grass, eight cars, a truck, a fence, a tree, a traffic, and a road.

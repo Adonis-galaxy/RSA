@@ -1,0 +1,3 @@
+floor 0.1104296875
+refrigerator 0.7009375
+wall 0.17140625

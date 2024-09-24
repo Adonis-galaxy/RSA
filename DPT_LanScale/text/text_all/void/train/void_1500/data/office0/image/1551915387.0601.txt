@@ -8,3 +8,8 @@ A black leather couch in a room.
 A black leather couch with a wooden table in front of it.
 A black leather couch with a wooden table in front of it.
 A black leather couch with a wooden table in front of it, placed in a room with a marble table and a black chair.
+An image with a wall, a rug, a chair, a couch, and a dining.
+An image with a chair, a couch, a dining, a rug, and a wall.
+An image with a dining, a wall, a chair, a couch, and a rug.
+An image with a rug, a wall, a chair, a couch, and a dining.
+An image with a chair, a rug, a couch, a dining, and a wall.

@@ -8,3 +8,8 @@ A printer on a desk.
 A large white printer on a desk with a blue pen and a small white box.
 A large white printer sits on a desk, with a smaller printer and a stapler nearby.
 A large white printer sits on a beige countertop, with a black power strip and a blue pen nearby.
+An image with a counter, a cabinet, a clock, and a wall.
+An image with a clock, a counter, a cabinet, and a wall.
+An image with a wall, a clock, a cabinet, and a counter.
+An image with a clock, a cabinet, a wall, and a counter.
+An image with a wall, a counter, a clock, and a cabinet.

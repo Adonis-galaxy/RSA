@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 A tree-lined street with parked cars, creating a canopy of shade over the road.
 A long, narrow street lined with parked cars and trees, with a sidewalk on the right side.
 A long, tree-lined street with parked cars on the sidewalk and a sidewalk that runs parallel to the street.
+An image with a house, five cars, a sky, a tree, a road, a grass, and a pavement.
+An image with a tree, five cars, a pavement, a house, a sky, a road, and a grass.
+An image with five cars, a road, a house, a grass, a tree, a sky, and a pavement.
+An image with five cars, a pavement, a road, a house, a sky, a tree, and a grass.
+An image with five cars, a road, a pavement, a sky, a tree, a house, and a grass.

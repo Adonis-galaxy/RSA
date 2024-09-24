@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A quiet suburban street, lined with parked cars and a cyclist, under a canopy of trees.
 A narrow street lined with parked cars and a person riding a bicycle.
 A narrow, tree-lined street with parked cars and a bicyclist, leading to a residential area.
+An image with nine cars, a tree, a sky, a person, a bicycle, a road, and a pavement.
+An image with nine cars, a road, a bicycle, a sky, a tree, a pavement, and a person.
+An image with nine cars, a bicycle, a person, a road, a tree, a sky, and a pavement.
+An image with nine cars, a pavement, a bicycle, a road, a tree, a sky, and a person.
+An image with nine cars, a person, a pavement, a road, a tree, a sky, and a bicycle.

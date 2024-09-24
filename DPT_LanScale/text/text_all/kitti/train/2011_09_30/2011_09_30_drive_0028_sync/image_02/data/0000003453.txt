@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with cars parked on the s
 The image captures a quiet residential street, with parked cars and a few pedestrians, under a clear blue sky.
 The image shows a narrow street between two-story buildings, with parked cars, a person walking, and construction barriers.
 A narrow street between two-story buildings, lined with parked cars and a few pedestrians, with construction barriers and a stop sign indicating ongoing work.
+An image with two stops, three cars, a window, a truck, a road, a pavement, a motorcycle, a house, a tree, a person, and a wall.
+An image with two stops, a motorcycle, three cars, a house, a window, a pavement, a tree, a person, a road, a truck, and a wall.
+An image with two stops, a pavement, a window, a road, a house, three cars, a person, a motorcycle, a wall, a truck, and a tree.
+An image with a motorcycle, three cars, two stops, a house, a window, a tree, a wall, a pavement, a person, a road, and a truck.
+An image with a house, a wall, a window, a person, a truck, two stops, a road, three cars, a tree, a motorcycle, and a pavement.

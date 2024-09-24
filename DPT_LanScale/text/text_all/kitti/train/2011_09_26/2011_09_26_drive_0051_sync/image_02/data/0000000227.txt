@@ -8,3 +8,8 @@ The image shows a street scene with a variety of vehicles, including cars, truck
 The image captures a typical day on a suburban street, with various vehicles, including cars and trucks, moving along the road, and a clear sky overhead.
 A large white van is driving down a tree-lined street, passing a parked truck and a car, with a billboard in the background.
 A tree-lined street with parked cars, a delivery truck, and a sign in the background.
+An image with three trucks, fourteen cars, a road, a building, a tree, a sky, and a grass.
+An image with three trucks, a grass, fourteen cars, a building, a road, a sky, and a tree.
+An image with fourteen cars, a road, a tree, a grass, a building, three trucks, and a sky.
+An image with a building, fourteen cars, a sky, three trucks, a grass, a road, and a tree.
+An image with a building, fourteen cars, three trucks, a sky, a tree, a grass, and a road.

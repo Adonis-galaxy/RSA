@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a cozy bedroom scene with a neatly made bed, a framed picture on the wall, and a carpeted floor.
 The image shows a bed with a white comforter and gray sheets, a black pillow, and a framed picture on the wall.
 The image shows a neatly made bed with a white comforter and gray pillows, positioned in a bedroom with a framed picture on the wall.
+An image with a wall, a bed, and a rug.
+An image with a rug, a bed, and a wall.
+An image with a wall, a rug, and a bed.
+An image with a bed, a rug, and a wall.
+An image with a bed, a wall, and a rug.

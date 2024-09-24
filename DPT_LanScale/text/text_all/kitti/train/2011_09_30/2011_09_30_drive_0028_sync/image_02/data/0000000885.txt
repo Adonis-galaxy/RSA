@@ -8,3 +8,8 @@ The image shows a street with parked cars and a few moving cars.
 The image captures a sunny day in a residential area, with parked cars lining a tree-lined street, and a few vehicles driving down the road.
 The image shows a narrow street lined with parked cars and trees, with a large building on the left and a clear sky above.
 A narrow street lined with parked cars and trees, leading to a white house with a brown roof.
+An image with eight cars, a tree, a truck, a road, a sky, and a house.
+An image with eight cars, a sky, a road, a truck, a tree, and a house.
+An image with eight cars, a sky, a house, a road, a truck, and a tree.
+An image with a sky, a road, eight cars, a truck, a house, and a tree.
+An image with a tree, eight cars, a sky, a truck, a road, and a house.

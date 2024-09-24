@@ -8,3 +8,8 @@ The image shows a street with a number of parked cars and a building in the back
 The image captures a quiet, tree-lined street with parked cars, leading to a large building with a Volkswagen sign, under a clear blue sky.
 The image shows a wide street with a curved road, a row of parked cars, a building with a sign, and a clear blue sky.
 The image shows a street scene with a curved road, a building on the left, a parking lot with cars, a pedestrian crossing, and a sign indicating the number 30.
+An image with eight cars, a truck, a person, a building, a pavement, a road, a tree, and a grass.
+An image with eight cars, a truck, a building, a person, a tree, a grass, a pavement, and a road.
+An image with eight cars, a grass, a person, a building, a truck, a tree, a pavement, and a road.
+An image with eight cars, a pavement, a building, a tree, a person, a truck, a road, and a grass.
+An image with eight cars, a truck, a grass, a pavement, a tree, a road, a building, and a person.

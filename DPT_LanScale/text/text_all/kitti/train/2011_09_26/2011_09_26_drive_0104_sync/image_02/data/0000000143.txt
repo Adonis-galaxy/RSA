@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a mix of vehicles in mot
 The image captures a bustling city street, with parked cars lining the sidewalk and a mix of vehicles and pedestrians navigating the road, all under the watchful eyes of the surrounding buildings.
 The image depicts a busy city street with numerous parked cars, a few moving vehicles, and tall buildings on either side.
 A busy city street with parked cars, a mix of commercial and residential buildings, and a clear sky.
+An image with ten cars, a road, a tree, a building, a bus, a sky, a grass, a truck, and a person.
+An image with ten cars, a grass, a sky, a bus, a person, a building, a truck, a road, and a tree.
+An image with a sky, ten cars, a tree, a grass, a building, a bus, a person, a road, and a truck.
+An image with a tree, a building, a truck, ten cars, a person, a grass, a sky, a bus, and a road.
+An image with a tree, a person, ten cars, a grass, a bus, a truck, a road, a sky, and a building.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A woman stands on the sidewalk, holding a surfboard, as two cars pass by on a quiet residential street.
 A woman is standing next to a small car on a narrow street between two-story buildings.
 A narrow street in a residential area with parked cars, a woman standing next to a car, and a clear blue sky.
+An image with a pavement, four cars, a tree, a house, a fence, two walls, two people, a airplane, and a road.
+An image with a tree, two people, four cars, a airplane, a road, a pavement, two walls, a fence, and a house.
+An image with two walls, a airplane, four cars, a house, a fence, two people, a pavement, a road, and a tree.
+An image with four cars, two people, a airplane, a tree, a fence, a pavement, two walls, a house, and a road.
+An image with four cars, two people, two walls, a house, a pavement, a road, a fence, a tree, and a airplane.

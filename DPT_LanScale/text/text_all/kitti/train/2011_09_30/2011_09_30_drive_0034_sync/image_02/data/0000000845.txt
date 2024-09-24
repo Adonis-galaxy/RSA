@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street in a residential area, with a clear view of a parked car and a bus in the distance, under a bright, sunny sky.
 The image shows a quiet, tree-lined street with a few parked cars, a bus, and a truck, leading to a white building with a blue sign.
 The image depicts a quiet, tree-lined street in a residential area, with a clear view of a bus and a car parked on the side of the road.
+An image with a tree, a sky, a bus, two cars, a house, a road, a wall, and a pavement.
+An image with a wall, a road, a sky, a house, a pavement, a tree, two cars, and a bus.
+An image with a sky, two cars, a bus, a house, a pavement, a wall, a road, and a tree.
+An image with a sky, a road, a house, a bus, a wall, two cars, a pavement, and a tree.
+An image with two cars, a tree, a house, a pavement, a sky, a road, a wall, and a bus.

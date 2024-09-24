@@ -8,3 +8,8 @@ A room with a whiteboard on the wall, a desk with a computer, a couch, and a tab
 The image captures a cozy, cluttered room with a desk, chair, and couch, featuring a whiteboard with various notes and drawings, and a small box of tissues on the couch.
 The image shows a small room with a desk, a couch, a whiteboard with writing, a computer monitor, and a small box on the couch.
 The image shows a room with a desk, a couch, a whiteboard with writing, and various items on the desk.
+An image with a wall, a table, a cardboard, a rug, a paper, and a couch.
+An image with a wall, a paper, a table, a rug, a cardboard, and a couch.
+An image with a cardboard, a wall, a paper, a table, a couch, and a rug.
+An image with a paper, a cardboard, a rug, a table, a couch, and a wall.
+An image with a table, a rug, a couch, a wall, a paper, and a cardboard.

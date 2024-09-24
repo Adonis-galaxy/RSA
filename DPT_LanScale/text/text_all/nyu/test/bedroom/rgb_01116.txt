@@ -8,3 +8,8 @@ The image shows a bedroom with two beds.
 The image shows a neatly arranged hotel room with two beds, each adorned with a patterned bedspread and complemented by a red throw pillow, a lamp on a nightstand, and a window with sunlight streaming in.
 The image shows a room with two beds, each adorned with a patterned comforter and multiple pillows, and a nightstand with a lamp. The room has a large window allowing natural light to enter.
 The image shows a neatly arranged hotel room with two beds, each adorned with a patterned comforter and a single red pillow, flanked by nightstands with lamps, and a window with a view of the outside.
+An image with a table, two beds, a light, a chair, a wall, and a ceiling.
+An image with a table, a chair, two beds, a wall, a ceiling, and a light.
+An image with a chair, a wall, a table, two beds, a ceiling, and a light.
+An image with a table, two beds, a light, a wall, a chair, and a ceiling.
+An image with a ceiling, a table, a wall, a chair, a light, and two beds.

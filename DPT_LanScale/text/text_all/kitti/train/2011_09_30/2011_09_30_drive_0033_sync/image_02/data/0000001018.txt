@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with a mix of old and new buildings, lined by trees and a sidewalk, leading to a parked car at the end.
 The image shows a narrow street between two buildings, with a car parked on the side, a pedestrian crossing, and a tree-lined sidewalk.
 The image depicts a narrow street lined with buildings, trees, and parked cars, with a pedestrian walkway on the right side.
+An image with a sky, a tree, three cars, a pavement, a road, a fence, a building, and a wall.
+An image with a building, a wall, a pavement, a road, three cars, a sky, a tree, and a fence.
+An image with three cars, a fence, a road, a tree, a wall, a pavement, a building, and a sky.
+An image with a pavement, a wall, a building, a sky, three cars, a road, a tree, and a fence.
+An image with a fence, a wall, a sky, three cars, a tree, a pavement, a road, and a building.

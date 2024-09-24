@@ -8,3 +8,8 @@ The image shows a living room with a dog bed on the floor.
 The image captures a cozy living room with a comfortable couch, a dog bed, a coffee table, and a television, all arranged around a central area with a fireplace.
 The image shows a small living room with a dog bed, a couch, a coffee table, a bookshelf, a television, and a window with blinds.
 The image shows a living room with a dog bed on the floor, a couch, a coffee table, a bookshelf, a television, and a window with blinds.
+An image with a couch, eight books, a rug, a tv, two walls, a shelf, a ceiling, a mouse, a table, a cabinet, a chair, and a floor.
+An image with eight books, a tv, a couch, a chair, a rug, a ceiling, a floor, a table, two walls, a cabinet, a shelf, and a mouse.
+An image with a couch, a rug, a floor, eight books, a chair, a cabinet, a mouse, two walls, a tv, a ceiling, a shelf, and a table.
+An image with a mouse, a floor, eight books, two walls, a table, a rug, a cabinet, a couch, a ceiling, a shelf, a tv, and a chair.
+An image with a rug, a table, two walls, a mouse, eight books, a floor, a shelf, a cabinet, a couch, a ceiling, a chair, and a tv.

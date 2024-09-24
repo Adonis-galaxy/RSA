@@ -8,3 +8,8 @@ A bedroom with a bed and a dresser.
 The image captures a cozy bedroom scene with a neatly made bed, a wooden dresser, and a lamp, all set against a pink carpeted floor.
 The image shows a bedroom with a large bed, a nightstand, a dresser, and a lamp. The bed is the largest object in the room.
 The image shows a bedroom with a bed, a nightstand, a dresser, and a lamp, all arranged in a neat and tidy manner.
+An image with a light, a rug, a table, a bed, a wall, and a cabinet.
+An image with a light, a table, a cabinet, a rug, a wall, and a bed.
+An image with a bed, a light, a table, a rug, a cabinet, and a wall.
+An image with a rug, a wall, a table, a bed, a cabinet, and a light.
+An image with a table, a cabinet, a rug, a bed, a light, and a wall.

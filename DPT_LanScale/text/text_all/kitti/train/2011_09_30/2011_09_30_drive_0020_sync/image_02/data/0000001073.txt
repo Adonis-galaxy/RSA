@@ -8,3 +8,8 @@ A silver car is driving down a street.
 A silver car is driving down a street, passing by a white building with a fence and a tree in the background.
 A small silver car is driving down a street next to a white building.
 A silver car is driving down a street with a white building on the right side, passing by a construction site with a chain-link fence and a red sign.
+An image with four cars, a wall, a road, a pavement, a building, a house, a grass, a tree, a stop, a fence, and a window.
+An image with four cars, a pavement, a grass, a tree, a wall, a road, a house, a stop, a fence, a window, and a building.
+An image with a grass, four cars, a house, a fence, a building, a window, a stop, a pavement, a tree, a wall, and a road.
+An image with a tree, a grass, a stop, four cars, a fence, a building, a pavement, a house, a window, a road, and a wall.
+An image with four cars, a wall, a window, a road, a stop, a grass, a pavement, a fence, a house, a building, and a tree.

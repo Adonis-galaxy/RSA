@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and a clear sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A quiet residential street with parked cars, lined by houses and trees, leading to a cul-de-sac.
+An image with two cars, a pavement, a road, a house, a tree, two trucks, and a sky.
+An image with two trucks, a road, a pavement, two cars, a sky, a house, and a tree.
+An image with a house, a sky, two trucks, a road, a pavement, two cars, and a tree.
+An image with two cars, a sky, a pavement, two trucks, a road, a tree, and a house.
+An image with a tree, a house, two trucks, a road, a pavement, a sky, and two cars.

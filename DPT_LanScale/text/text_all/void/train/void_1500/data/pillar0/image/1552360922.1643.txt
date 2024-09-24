@@ -8,3 +8,8 @@ A black bag leaning against a wall.
 A black bag leaning against a wall with a silver handle.
 A black bag leaning against a white wall in a room with a carpeted floor.
 A black bag leaning against a white wall in a room with a door.
+An image with a wall, a rug, a door, and two suitcases.
+An image with a wall, two suitcases, a door, and a rug.
+An image with a wall, a rug, a door, and two suitcases.
+An image with a rug, a door, a wall, and two suitcases.
+An image with a rug, two suitcases, a wall, and a door.

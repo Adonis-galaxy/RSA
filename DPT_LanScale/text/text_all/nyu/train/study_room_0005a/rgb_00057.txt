@@ -8,3 +8,8 @@ The image shows an empty room with a row of gray chairs and a trash can.
 The image captures an empty, modern office space with a row of gray chairs and tables, a large window, and a door, all under a high ceiling with recessed lighting.
 The image shows an empty room with a large window, several gray chairs, and a trash can.
 The image shows an empty room with a long, narrow layout featuring a row of black chairs and a desk, flanked by two large windows with a view of a building across the street.
+An image with a couch, five chairs, a window, a door, a rug, a wall, a ceiling, and a light.
+An image with a ceiling, a door, five chairs, a couch, a rug, a window, a light, and a wall.
+An image with a rug, a door, five chairs, a couch, a wall, a light, a ceiling, and a window.
+An image with five chairs, a couch, a light, a window, a wall, a rug, a ceiling, and a door.
+An image with a door, a window, five chairs, a couch, a wall, a rug, a light, and a ceiling.

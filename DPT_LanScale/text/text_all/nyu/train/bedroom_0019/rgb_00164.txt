@@ -8,3 +8,8 @@ A desk with a laptop and a lamp.
 A dimly lit workspace with a laptop, mouse, and books on a desk, illuminated by a single desk lamp.
 A small desk with a laptop, a mouse, and a few books, illuminated by a desk lamp.
 A dimly lit room with a desk holding a laptop, mouse, and books, illuminated by a single desk lamp.
+An image with eight books, a laptop, a cell, a table, a mouse, and a wall.
+An image with eight books, a cell, a table, a wall, a mouse, and a laptop.
+An image with eight books, a mouse, a wall, a cell, a table, and a laptop.
+An image with a mouse, eight books, a laptop, a table, a wall, and a cell.
+An image with a wall, a table, eight books, a mouse, a laptop, and a cell.

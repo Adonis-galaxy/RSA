@@ -8,3 +8,8 @@ Three printers on a table.
 Three printers on a table, with a piece of paper in front of one of them.
 Three large printers on a table.
 Three printers are lined up on a table, with a piece of paper in front of the middle one.
+An image with a wall, a table, a paper, and a floor.
+An image with a floor, a wall, a table, and a paper.
+An image with a paper, a table, a wall, and a floor.
+An image with a floor, a paper, a wall, and a table.
+An image with a wall, a paper, a table, and a floor.

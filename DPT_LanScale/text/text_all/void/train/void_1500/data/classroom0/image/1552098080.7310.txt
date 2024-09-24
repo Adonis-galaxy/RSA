@@ -8,3 +8,8 @@ The image shows a row of empty seats in a room.
 The image shows a row of empty seats in a waiting area, with a green cabinet in the background.
 The image shows a row of empty seats in a room with a green cabinet and a white counter.
 The image shows a row of empty seats in a waiting area, with a green cabinet and a white counter in the background.
+An image with six chairs, a refrigerator, a wall, and a floor.
+An image with a wall, a refrigerator, six chairs, and a floor.
+An image with a floor, six chairs, a wall, and a refrigerator.
+An image with a wall, six chairs, a refrigerator, and a floor.
+An image with six chairs, a refrigerator, a floor, and a wall.

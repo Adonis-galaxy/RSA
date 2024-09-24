@@ -8,3 +8,8 @@ The image is blurry and shows a kitchen counter with a sink and a cabinet.
 The image shows a blurry view of a kitchen counter with a sink and a cabinet.
 The image shows a blurry view of a kitchen counter with a sink, a white box, and a cabinet.
 The image shows a blurry view of a kitchen counter with a sink and a cabinet.
+An image with a paper, a floor, a cabinet, a sink, and a wall.
+An image with a wall, a sink, a floor, a paper, and a cabinet.
+An image with a sink, a wall, a floor, a paper, and a cabinet.
+An image with a floor, a wall, a sink, a cabinet, and a paper.
+An image with a paper, a wall, a sink, a cabinet, and a floor.

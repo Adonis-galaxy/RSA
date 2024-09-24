@@ -8,3 +8,8 @@ A black leather couch with a white ball on it.
 A black leather couch with a white soccer ball on it, and a stack of magazines on the armrest.
 A black leather couch with a white soccer ball on it, a wooden table with a black book and a yellow book on it, and a black leather armrest.
 A black leather couch with a white soccer ball on it, and a wooden table with magazines on it.
+An image with a wall, a rug, a sports, four books, a couch, and a table.
+An image with a rug, four books, a couch, a wall, a table, and a sports.
+An image with four books, a table, a sports, a rug, a wall, and a couch.
+An image with a sports, four books, a couch, a wall, a table, and a rug.
+An image with a couch, four books, a table, a wall, a rug, and a sports.

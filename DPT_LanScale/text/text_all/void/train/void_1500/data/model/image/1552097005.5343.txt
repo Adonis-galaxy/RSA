@@ -8,3 +8,8 @@ The image shows a model of a building.
 The image shows a model of a building, with a clear view of its architectural details, including a large window and a red roof.
 The image shows a small model of a building, which is placed next to a larger model of a building.
 The image shows a model of a building with a clear glass wall, situated next to a smaller building with a red roof.
+An image with a door, a wall, a potted, a floor, and a building.
+An image with a floor, a wall, a door, a building, and a potted.
+An image with a potted, a building, a wall, a floor, and a door.
+An image with a potted, a wall, a door, a floor, and a building.
+An image with a wall, a door, a floor, a building, and a potted.

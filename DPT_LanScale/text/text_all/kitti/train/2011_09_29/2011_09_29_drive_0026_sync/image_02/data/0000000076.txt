@@ -8,3 +8,8 @@ The image shows a city street with cars and a bicycle lane.
 The image captures a bustling city street, with a mix of vehicles and pedestrians, set against a backdrop of urban architecture and a clear sky.
 The image shows a city street with a large building in the background, a traffic light, a bicycle lane, and a few cars and trucks on the road.
 The image depicts a city street scene with a mix of vehicles, pedestrians, and urban infrastructure, including a bicycle lane, traffic lights, and a construction site.
+An image with seven cars, a tree, a pavement, a dirt, a sky, a building, a person, a road, and two traffics.
+An image with seven cars, a dirt, two traffics, a pavement, a road, a person, a tree, a sky, and a building.
+An image with seven cars, a tree, a building, a person, two traffics, a pavement, a sky, a road, and a dirt.
+An image with seven cars, two traffics, a pavement, a building, a sky, a person, a tree, a road, and a dirt.
+An image with seven cars, a building, two traffics, a tree, a road, a person, a sky, a pavement, and a dirt.

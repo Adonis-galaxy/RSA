@@ -8,3 +8,8 @@ The image shows a street sign on a metal pole.
 The image captures a residential street scene with a focus on a blue street sign, a red car parked on the side of the road, and a white house with a red roof.
 The image shows a residential street scene with a blue street sign, a red car parked on the side of the road, a white house with a red roof, a green hedge, a wooden fence, and a sidewalk.
 The image shows a residential street scene with a blue street sign, a white house with a red roof, a red car parked on the side of the road, a green hedge, a wooden fence, and a sidewalk.
+An image with three cars, a fence, a road, a tree, a sky, a pavement, a grass, and a house.
+An image with three cars, a road, a tree, a sky, a house, a pavement, a fence, and a grass.
+An image with three cars, a grass, a road, a fence, a pavement, a sky, a house, and a tree.
+An image with three cars, a grass, a sky, a tree, a road, a pavement, a house, and a fence.
+An image with three cars, a fence, a grass, a pavement, a road, a sky, a tree, and a house.

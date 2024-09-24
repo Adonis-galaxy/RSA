@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a person riding a bicycle.
 The image captures a typical day in a residential area, with parked cars lining the street and a person riding a bicycle in the middle of the road.
 The image shows a narrow street lined with parked cars and a person riding a bicycle.
 A narrow street in a residential area with parked cars and a person riding a bicycle.
+An image with nine cars, a person, a bicycle, a sky, a road, a house, a pavement, and a tree.
+An image with a house, a tree, nine cars, a person, a sky, a bicycle, a pavement, and a road.
+An image with a sky, a road, nine cars, a pavement, a house, a tree, a person, and a bicycle.
+An image with nine cars, a house, a road, a pavement, a sky, a tree, a bicycle, and a person.
+An image with a bicycle, nine cars, a road, a person, a sky, a house, a tree, and a pavement.

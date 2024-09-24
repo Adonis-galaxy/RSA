@@ -8,3 +8,8 @@ The image shows a street with cars and trees.
 The image captures a typical day on a suburban street, with a mix of vehicles and pedestrians, under a clear blue sky.
 The image shows a wide, tree-lined street with multiple lanes of traffic, including cars and a truck, and a sidewalk on the right side. The street is lined with buildings on both sides, and there are overhead power lines and streetlights. The sky is clear and blue, indicating good weather.
 A tree-lined street with parked cars and a sidewalk, leading to a building with a sign.
+An image with a road, six cars, a building, a grass, a pavement, and a tree.
+An image with six cars, a tree, a road, a building, a pavement, and a grass.
+An image with a building, six cars, a tree, a grass, a pavement, and a road.
+An image with a building, a grass, six cars, a road, a tree, and a pavement.
+An image with six cars, a pavement, a building, a grass, a tree, and a road.

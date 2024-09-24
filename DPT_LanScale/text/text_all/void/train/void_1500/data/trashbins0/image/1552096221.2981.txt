@@ -8,3 +8,8 @@ A brown chair is against a white wall.
 A chair is sitting next to a wall in a room.
 A small brown chair is placed against a white wall next to a blue trash can.
 The image shows a small room with a chair, a trash can, and a bulletin board on the wall.
+An image with a chair, a wall, and a refrigerator.
+An image with a refrigerator, a wall, and a chair.
+An image with a wall, a refrigerator, and a chair.
+An image with a chair, a refrigerator, and a wall.
+An image with a wall, a chair, and a refrigerator.

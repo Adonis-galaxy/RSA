@@ -8,3 +8,8 @@ The image shows a street scene with a clear sky and green trees.
 The image captures a quiet residential street, with a clear sky overhead and a few parked cars along the side, leading to a cul-de-sac.
 The image shows a quiet residential street with a few parked cars, a truck, and a large tree in the background, under a clear blue sky.
 The image depicts a quiet residential street with a clear sky, lined with houses, trees, and a sidewalk.
+An image with two cars, a road, a house, a pavement, two trucks, a grass, a dirt, a stop, and a tree.
+An image with a road, a stop, a tree, two cars, a pavement, a dirt, a house, two trucks, and a grass.
+An image with two cars, two trucks, a grass, a house, a pavement, a dirt, a tree, a road, and a stop.
+An image with two cars, a grass, a house, two trucks, a road, a pavement, a dirt, a tree, and a stop.
+An image with two trucks, a grass, two cars, a dirt, a road, a tree, a house, a stop, and a pavement.

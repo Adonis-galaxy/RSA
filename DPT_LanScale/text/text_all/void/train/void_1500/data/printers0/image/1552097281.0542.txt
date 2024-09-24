@@ -8,3 +8,8 @@ Three printers on a table.
 The image shows a row of three printers on a table, with a piece of paper on the right side of the table.
 The image shows a row of three computer printers on a table, with a trash can in the background.
 The image shows a row of three printers on a table, with a trash can in the corner.
+An image with a wall, a paper, a floor, a table, and a tv.
+An image with a table, a tv, a wall, a floor, and a paper.
+An image with a tv, a paper, a wall, a floor, and a table.
+An image with a wall, a floor, a table, a tv, and a paper.
+An image with a floor, a table, a paper, a tv, and a wall.

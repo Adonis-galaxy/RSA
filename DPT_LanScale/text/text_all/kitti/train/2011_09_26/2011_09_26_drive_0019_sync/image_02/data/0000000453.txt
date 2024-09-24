@@ -8,3 +8,8 @@ A white car driving down a tree-lined street.
 A white car is driving down a tree-lined street, passing other vehicles, with a clear sky overhead.
 A white car is driving down a tree-lined street, passing other cars and a truck.
 A white car is driving down a tree-lined street with other vehicles, and the sun is shining brightly.
+An image with a sky, a grass, a person, four cars, a tree, a road, and a bus.
+An image with a person, a grass, four cars, a sky, a road, a bus, and a tree.
+An image with four cars, a sky, a bus, a grass, a road, a tree, and a person.
+An image with a road, a sky, a tree, four cars, a bus, a person, and a grass.
+An image with four cars, a person, a tree, a road, a bus, a sky, and a grass.

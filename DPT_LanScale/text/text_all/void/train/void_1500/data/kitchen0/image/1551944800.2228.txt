@@ -8,3 +8,8 @@ The image shows a kitchen with orange cabinets and a white countertop.
 The image shows a kitchen with orange cabinets and a white countertop.
 The image shows a kitchen with orange cabinets, a white wall, and a white countertop.
 The image shows a kitchen with orange cabinets, a white wall, and a stainless steel countertop.
+An image with a wall, a paper, a cup, and a cabinet.
+An image with a wall, a cup, a paper, and a cabinet.
+An image with a cabinet, a wall, a paper, and a cup.
+An image with a cup, a cabinet, a paper, and a wall.
+An image with a paper, a cup, a wall, and a cabinet.

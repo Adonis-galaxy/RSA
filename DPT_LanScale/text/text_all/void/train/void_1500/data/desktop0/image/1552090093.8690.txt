@@ -8,3 +8,8 @@ A stuffed penguin on a desk.
 A small stuffed penguin sits on a desk next to a computer monitor.
 A small stuffed penguin sits on a desk next to a computer monitor.
 A small office cubicle with a desk, chair, computer monitor, and a stuffed penguin.
+An image with a floor, a wall, a tv, a chair, a cabinet, a window, and a table.
+An image with a chair, a cabinet, a floor, a tv, a window, a wall, and a table.
+An image with a tv, a chair, a window, a floor, a cabinet, a wall, and a table.
+An image with a chair, a table, a window, a cabinet, a floor, a wall, and a tv.
+An image with a cabinet, a floor, a window, a table, a tv, a wall, and a chair.

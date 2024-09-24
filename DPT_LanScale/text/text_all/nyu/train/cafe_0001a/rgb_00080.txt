@@ -8,3 +8,8 @@ The image shows an interior view of a restaurant with a map on the wall.
 The image captures a cozy, well-organized restaurant interior with a focus on a large map on the wall, a potted plant, and a counter with a cash register.
 The image shows an indoor setting with a large map on the wall, a potted plant, a counter with a cash register, and a table with a menu.
 The image shows an interior space with a counter, a potted plant, a map on the wall, and a chalkboard menu.
+An image with two walls, a potted, a table, a floor, and a ceiling.
+An image with a floor, two walls, a table, a ceiling, and a potted.
+An image with a table, two walls, a floor, a ceiling, and a potted.
+An image with a potted, a table, a floor, two walls, and a ceiling.
+An image with a potted, a ceiling, a table, two walls, and a floor.

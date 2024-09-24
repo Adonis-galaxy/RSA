@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person on a motorcycle is parked on the side of a tree-lined street, with a clear view of the road ahead.
 A person on a motorcycle is riding down a tree-lined street.
 A person on a motorcycle is parked on the side of a tree-lined street, which is a one-way road with a curved bend and a sidewalk.
+An image with a wall, a sky, a grass, a pavement, a car, a person, a motorcycle, a road, and a tree.
+An image with a road, a car, a sky, a wall, a pavement, a tree, a person, a grass, and a motorcycle.
+An image with a person, a car, a sky, a grass, a wall, a tree, a motorcycle, a pavement, and a road.
+An image with a road, a sky, a grass, a car, a wall, a person, a pavement, a tree, and a motorcycle.
+An image with a car, a grass, a tree, a motorcycle, a wall, a sky, a road, a person, and a pavement.

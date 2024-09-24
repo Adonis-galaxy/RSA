@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a mix of architectural styles and lush greenery, leading to a quaint white house with a red roof, nestled amidst the verdant surroundings.
 The image depicts a residential street scene with a large house on the left, a smaller house on the right, and a car parked in front of the larger house.
 The image depicts a residential street with a mix of architectural styles, featuring a curved road, a white house with a red roof, a brick building with a flat roof, and a row of trees and bushes lining the street.
+An image with a tree, a road, a wall, a door, a sky, a car, a pavement, a potted, and a house.
+An image with a pavement, a sky, a potted, a car, a tree, a house, a road, a wall, and a door.
+An image with a house, a car, a wall, a potted, a road, a pavement, a tree, a door, and a sky.
+An image with a sky, a door, a tree, a house, a potted, a car, a pavement, a wall, and a road.
+An image with a wall, a potted, a house, a door, a pavement, a sky, a tree, a road, and a car.

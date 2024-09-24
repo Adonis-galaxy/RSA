@@ -8,3 +8,8 @@ A white table with four chairs in a room.
 The image shows a conference room with a long table and several chairs, a television mounted on the wall, and a door in the background.
 The image shows a large white conference table with several white chairs around it, in a room with a yellow wall and a blackboard.
 The image shows a conference room with a long table and several chairs, a whiteboard, and a door in the background.
+An image with six chairs, three dinings, a wall, a tv, a door, a floor, and a cabinet.
+An image with six chairs, three dinings, a tv, a wall, a cabinet, a door, and a floor.
+An image with a cabinet, three dinings, six chairs, a tv, a floor, a door, and a wall.
+An image with a tv, six chairs, a cabinet, a floor, three dinings, a wall, and a door.
+An image with six chairs, a door, a floor, three dinings, a tv, a cabinet, and a wall.

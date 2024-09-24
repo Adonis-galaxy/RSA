@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area with parked cars and build
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a sign indicating a no-parking zone.
 A narrow, tree-lined street in a residential area, with parked cars and a few pedestrians, under a clear blue sky.
+An image with a grass, a pavement, a house, a stop, seven cars, a sky, a tree, a road, and a window.
+An image with seven cars, a tree, a road, a grass, a window, a house, a sky, a stop, and a pavement.
+An image with a house, seven cars, a road, a sky, a tree, a window, a grass, a pavement, and a stop.
+An image with a sky, a stop, a pavement, a window, seven cars, a grass, a house, a road, and a tree.
+An image with a stop, a grass, a road, a tree, seven cars, a house, a pavement, a window, and a sky.

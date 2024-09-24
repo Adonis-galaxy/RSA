@@ -8,3 +8,8 @@ The image shows a busy city street with a lot of traffic.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, highlighting the dynamic nature of urban life.
 A busy city street with tall buildings, narrow lanes, parked cars, and a large truck.
 A busy city street with a mix of vehicles, pedestrians, and buildings, captured in a daytime setting.
+An image with sixteen cars, a road, a pavement, a truck, a person, a building, a tree, and a sky.
+An image with sixteen cars, a tree, a person, a road, a truck, a building, a sky, and a pavement.
+An image with a tree, sixteen cars, a sky, a person, a pavement, a truck, a road, and a building.
+An image with a road, sixteen cars, a building, a truck, a person, a tree, a pavement, and a sky.
+An image with sixteen cars, a truck, a road, a tree, a building, a pavement, a sky, and a person.

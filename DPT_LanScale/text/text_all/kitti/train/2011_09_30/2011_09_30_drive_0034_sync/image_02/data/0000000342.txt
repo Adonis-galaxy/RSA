@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with parked cars and a paved pathway, leading to a row of houses.
 The image shows a narrow, tree-lined street with parked cars, a truck, and a house with a black door and a white wall.
 A narrow, tree-lined street with parked cars and a paved walkway, leading to a white house with a black door and a white fence.
+An image with a sky, a roof, four potteds, a pavement, a window, a fence, a grass, a tree, a truck, two walls, a door, and a car.
+An image with two walls, a grass, a door, a truck, a car, a pavement, four potteds, a sky, a window, a fence, a roof, and a tree.
+An image with a car, a roof, two walls, a pavement, four potteds, a grass, a window, a fence, a truck, a tree, a door, and a sky.
+An image with a tree, two walls, four potteds, a roof, a window, a truck, a grass, a sky, a door, a car, a pavement, and a fence.
+An image with a window, four potteds, a pavement, a tree, two walls, a sky, a fence, a grass, a door, a roof, a car, and a truck.

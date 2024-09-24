@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 A row of parked cars on a residential street, with houses and trees in the background, under a clear blue sky.
 The image shows a long row of parked cars on a residential street, with houses and trees in the background, and a clear blue sky overhead.
 A long, narrow street lined with parked cars and houses, under a clear blue sky.
+An image with ten cars, a grass, a house, a sky, a road, and a tree.
+An image with a house, ten cars, a sky, a tree, a road, and a grass.
+An image with a road, ten cars, a tree, a grass, a house, and a sky.
+An image with ten cars, a tree, a house, a grass, a road, and a sky.
+An image with ten cars, a grass, a tree, a house, a sky, and a road.

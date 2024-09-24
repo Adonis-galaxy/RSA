@@ -8,3 +8,8 @@ A bed with a colorful quilt.
 The image captures a cozy bedroom scene with a colorful quilted bedspread, two matching lamps, a nightstand with a few books, and a bed with a red pillow and a green pillow.
 The image shows a bed with a colorful quilt, two red lamps, a nightstand with a drawer, and a collection of books on the nightstand.
 The image shows a bedroom with a colorful quilted bedspread, two red lamps, a wooden nightstand with a drawer, and a blue carpet.
+An image with eight books, a wall, a bed, a light, a cabinet, and a rug.
+An image with a wall, eight books, a bed, a rug, a cabinet, and a light.
+An image with eight books, a bed, a rug, a wall, a light, and a cabinet.
+An image with eight books, a wall, a bed, a cabinet, a rug, and a light.
+An image with a rug, eight books, a light, a wall, a cabinet, and a bed.

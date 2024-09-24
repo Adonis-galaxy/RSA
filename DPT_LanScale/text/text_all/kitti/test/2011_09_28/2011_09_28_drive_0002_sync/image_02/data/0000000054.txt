@@ -8,3 +8,8 @@ The image shows a city street with a car driving down the road.
 A car is driving down a street with a bicyclist crossing in front of it, while pedestrians wait at a traffic light.
 A car is driving down a street with trees and buildings in the background, and there are traffic lights and signs visible.
 A city street scene with a car, bicycles, pedestrians, traffic lights, and trees.
+An image with six cars, thirteen people, five traffics, four bicycles, a skateboard, a road, a tree, a building, and a grass.
+An image with thirteen people, a tree, six cars, a building, four bicycles, a grass, a skateboard, a road, and five traffics.
+An image with five traffics, thirteen people, six cars, four bicycles, a road, a building, a skateboard, a grass, and a tree.
+An image with four bicycles, five traffics, thirteen people, six cars, a road, a building, a tree, a grass, and a skateboard.
+An image with six cars, thirteen people, four bicycles, five traffics, a grass, a tree, a building, a road, and a skateboard.

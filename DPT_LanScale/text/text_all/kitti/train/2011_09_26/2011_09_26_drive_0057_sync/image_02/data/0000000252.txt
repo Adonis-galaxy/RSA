@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 The image captures a moment of urban life, featuring a red car driving on a street with multiple lanes, traffic lights, and a dog in the back seat.
 A red car is driving down a street with a dog in the back seat, passing through an intersection with multiple traffic lights and signs.
 A red car is driving on a road with a white line in the middle, passing through an intersection with traffic lights and signs, and surrounded by trees and buildings.
+An image with nine cars, a tree, nine traffics, a road, a grass, a house, a pavement, a mountain, and a sky.
+An image with nine cars, nine traffics, a tree, a house, a sky, a grass, a mountain, a road, and a pavement.
+An image with nine traffics, a tree, a road, nine cars, a pavement, a mountain, a grass, a house, and a sky.
+An image with a tree, nine cars, nine traffics, a pavement, a house, a road, a sky, a mountain, and a grass.
+An image with nine cars, a tree, a sky, nine traffics, a road, a pavement, a grass, a mountain, and a house.

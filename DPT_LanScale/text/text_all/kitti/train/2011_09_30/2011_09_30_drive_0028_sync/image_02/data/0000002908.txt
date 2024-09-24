@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a sunny day in a park-like setting, with trees and a building in the background.
 A person riding a bicycle on a sunny day in a park-like setting, with large trees and a building in the background.
 A person riding a bicycle on a sunny day in a park-like setting, with a curved road and trees in the background.
+An image with four people, five cars, a sky, a building, a road, a window, a tree, a handbag, a bicycle, and a pavement.
+An image with a building, a tree, five cars, four people, a sky, a window, a pavement, a bicycle, a road, and a handbag.
+An image with a tree, a pavement, a bicycle, four people, a sky, five cars, a road, a building, a window, and a handbag.
+An image with a bicycle, four people, five cars, a handbag, a road, a window, a building, a tree, a sky, and a pavement.
+An image with a bicycle, five cars, four people, a pavement, a handbag, a tree, a road, a building, a window, and a sky.

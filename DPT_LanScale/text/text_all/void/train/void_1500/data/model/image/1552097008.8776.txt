@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape with buildings and a street, placed on a table.
 The image shows a model of a city with buildings, including a large white building, on a table.
 The image shows a model of a city with various buildings, including a large white building and a smaller red building, placed on a white surface.
+An image with a floor, a boat, a person, a cabinet, and a wall.
+An image with a wall, a person, a boat, a cabinet, and a floor.
+An image with a boat, a floor, a cabinet, a person, and a wall.
+An image with a wall, a cabinet, a boat, a floor, and a person.
+An image with a cabinet, a floor, a boat, a person, and a wall.

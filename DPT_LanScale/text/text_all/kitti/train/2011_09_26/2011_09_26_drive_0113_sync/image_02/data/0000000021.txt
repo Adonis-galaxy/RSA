@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a shaded street, with parked cars and a building in the background.
 A person riding a bicycle on a narrow street between parked cars and a building.
 A person riding a bicycle on a tree-lined street, with parked cars and a building in the background.
+An image with three cars, a road, a bicycle, a house, a person, and a tree.
+An image with three cars, a house, a bicycle, a road, a tree, and a person.
+An image with three cars, a road, a person, a house, a tree, and a bicycle.
+An image with a bicycle, three cars, a road, a house, a person, and a tree.
+An image with a tree, a road, a bicycle, three cars, a person, and a house.

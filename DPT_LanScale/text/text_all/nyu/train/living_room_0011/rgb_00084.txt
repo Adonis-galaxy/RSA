@@ -8,3 +8,8 @@ A view of kitchen.
 The image captures a cozy, compact kitchenette with a view into the adjacent living room, showcasing a comfortable and inviting space.
 The image shows a small, dimly lit kitchen with a white wall, a black countertop, a white tile floor, a black stove, a white refrigerator, a white sink, and a white wall-mounted light switch.
 The image shows a kitchen with a counter, cabinets, a sink, a stove, and a refrigerator, all in a compact layout.
+An image with a oven, a light, two floors, a chair, a wall, a cabinet, a ceiling, and a couch.
+An image with a light, a wall, a couch, two floors, a ceiling, a oven, a cabinet, and a chair.
+An image with a wall, a chair, a light, two floors, a cabinet, a oven, a ceiling, and a couch.
+An image with a light, a couch, a cabinet, two floors, a oven, a chair, a wall, and a ceiling.
+An image with a light, two floors, a chair, a oven, a wall, a couch, a cabinet, and a ceiling.

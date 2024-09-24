@@ -8,3 +8,8 @@ A man standing in a living room.
 A man in a black shirt stands in a living room with a table, chairs, a couch, a lamp, a potted plant, a vase, a refrigerator, and a doorway leading to a kitchen.
 A man in a black shirt stands in a living room with a large picture frame, a white wall, a white door, a brown chair, a white table, a lamp, a couch, a potted plant, a vase, a refrigerator, and a kitchen counter.
 A man stands in a living room with a dining table, chairs, a couch, a lamp, a potted plant, and a doorway leading to a kitchen.
+An image with a potted, a couch, a dining, a refrigerator, three chairs, a wall, two floors, a bottle, a vase, a door, a ceiling, a person, and a cabinet.
+An image with a refrigerator, a bottle, a door, a dining, three chairs, a wall, a couch, two floors, a ceiling, a potted, a vase, a cabinet, and a person.
+An image with three chairs, a vase, a bottle, two floors, a refrigerator, a dining, a person, a potted, a cabinet, a wall, a couch, a door, and a ceiling.
+An image with a bottle, a dining, a vase, three chairs, a ceiling, a couch, a wall, two floors, a person, a potted, a refrigerator, a cabinet, and a door.
+An image with two floors, a vase, a ceiling, a potted, three chairs, a couch, a person, a door, a wall, a bottle, a dining, a cabinet, and a refrigerator.

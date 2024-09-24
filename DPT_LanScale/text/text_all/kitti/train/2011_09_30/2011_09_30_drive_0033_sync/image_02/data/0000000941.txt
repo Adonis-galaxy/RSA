@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a street, with a house and trees in the background, and a pedestrian crossing area marked on the road.
 A large white van is parked on the side of a narrow street next to a building, with trees and a sidewalk visible in the background.
 A white van is parked on a street next to a sidewalk, with a building and trees in the background, and there is a pedestrian crossing sign on the road.
+An image with a wall, a pavement, a house, a road, a fence, a tree, a truck, and a sky.
+An image with a wall, a house, a tree, a pavement, a road, a sky, a truck, and a fence.
+An image with a road, a sky, a pavement, a house, a tree, a fence, a truck, and a wall.
+An image with a house, a fence, a pavement, a sky, a truck, a tree, a wall, and a road.
+An image with a tree, a house, a pavement, a truck, a road, a wall, a fence, and a sky.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A group of people standing on a sidewalk, waiting to cross a street, with a bicycle and a car in the background, under a clear blue sky.
 A large group of people are standing on a sidewalk, waiting to cross a street.
 A city street scene with a crosswalk, traffic lights, parked cars, pedestrians, and a bicycle.
+An image with a building, four cars, a pavement, a traffic, a handbag, two bicycles, four people, a sky, a road, a grass, and a tree.
+An image with a road, a pavement, four people, a traffic, four cars, two bicycles, a building, a sky, a grass, a handbag, and a tree.
+An image with four cars, a building, two bicycles, a grass, four people, a pavement, a sky, a tree, a handbag, a road, and a traffic.
+An image with four people, a building, a road, a traffic, four cars, two bicycles, a pavement, a tree, a sky, a handbag, and a grass.
+An image with a pavement, two bicycles, four people, a handbag, a grass, a building, four cars, a sky, a traffic, a tree, and a road.

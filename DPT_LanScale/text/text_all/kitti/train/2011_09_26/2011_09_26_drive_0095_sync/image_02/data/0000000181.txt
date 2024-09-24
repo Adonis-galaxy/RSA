@@ -8,3 +8,8 @@ The image shows a street scene with a blue car parked on the side of the road.
 The image captures a quiet residential street, with a blue car parked on the side of the road, under the shade of a tree, in front of a row of brick buildings.
 The image shows a narrow street lined with parked cars and buildings, with a blue car parked on the right side of the street.
 The image depicts a narrow street lined with parked cars and buildings, with a blue car parked on the right side of the street.
+An image with eight cars, a road, a tree, a person, a grass, a sky, and a house.
+An image with eight cars, a road, a grass, a house, a sky, a tree, and a person.
+An image with eight cars, a house, a person, a road, a tree, a sky, and a grass.
+An image with eight cars, a house, a sky, a grass, a tree, a person, and a road.
+An image with a house, eight cars, a person, a tree, a road, a grass, and a sky.

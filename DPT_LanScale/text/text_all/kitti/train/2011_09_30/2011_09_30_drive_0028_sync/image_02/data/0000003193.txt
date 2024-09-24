@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, sunlit alleyway between two lushly hedged properties, with a single car parked on the right.
 The image depicts a narrow, tree-lined alleyway between two buildings, with a few parked cars and a truck visible on the right side.
 A narrow, tree-lined alleyway between two buildings, with parked cars and a truck on the right side.
+An image with a tree, a truck, a pavement, a fence, two cars, a house, and a sky.
+An image with a house, a pavement, two cars, a truck, a sky, a tree, and a fence.
+An image with a house, a pavement, a truck, a sky, a tree, two cars, and a fence.
+An image with a pavement, a tree, a fence, a house, a truck, a sky, and two cars.
+An image with a tree, a house, two cars, a truck, a pavement, a sky, and a fence.

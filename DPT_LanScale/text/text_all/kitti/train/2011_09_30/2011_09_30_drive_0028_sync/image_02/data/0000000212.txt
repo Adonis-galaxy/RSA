@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars on both sides.
 The image captures a typical day in a residential area, with parked cars lining the street and a few vehicles moving along the road.
 The image shows a narrow street lined with parked cars, with a few larger vehicles such as a white car and a white van parked on the right side of the street.
 A narrow street in a residential area with parked cars and a few moving vehicles.
+An image with nine cars, a truck, a person, a house, a pavement, a road, a sky, and a tree.
+An image with a house, a tree, nine cars, a road, a person, a sky, a pavement, and a truck.
+An image with nine cars, a house, a road, a truck, a tree, a person, a pavement, and a sky.
+An image with nine cars, a truck, a house, a sky, a person, a tree, a pavement, and a road.
+An image with a road, nine cars, a pavement, a tree, a truck, a sky, a person, and a house.

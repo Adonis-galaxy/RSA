@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined street with a single car parked at the end, leading to a house with a garden.
 The image shows a narrow, tree-lined street with houses on both sides, a sidewalk, and a fence.
 A narrow, tree-lined street with houses on both sides, leading to a cul-de-sac.
+An image with a sky, a tree, a pavement, a road, a fence, and a wall.
+An image with a fence, a sky, a pavement, a wall, a road, and a tree.
+An image with a tree, a sky, a pavement, a fence, a road, and a wall.
+An image with a wall, a fence, a pavement, a sky, a tree, and a road.
+An image with a tree, a wall, a road, a sky, a fence, and a pavement.

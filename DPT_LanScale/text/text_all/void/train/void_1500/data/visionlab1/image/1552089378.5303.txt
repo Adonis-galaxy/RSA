@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and mouse.
 A cluttered office desk with a computer monitor, keyboard, mouse, and a trash can.
 The image shows a small office space with a desk, chair, computer monitor, keyboard, and mouse.
 The image shows a small office space with a desk, chair, computer monitor, keyboard, and mouse, as well as a whiteboard and a trash can.
+An image with two tvs, a chair, a rug, a table, a window, and a wall.
+An image with a rug, a table, two tvs, a window, a chair, and a wall.
+An image with a table, a chair, a window, two tvs, a rug, and a wall.
+An image with a rug, a window, two tvs, a table, a wall, and a chair.
+An image with a rug, two tvs, a wall, a chair, a table, and a window.

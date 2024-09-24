@@ -8,3 +8,8 @@ A blurry image of a counter with a blue and white box of tissues and a yellow ba
 The image shows a counter with a yellow basket and a blue basket, and a gray refrigerator with a handle and a door.
 The image shows a small orange counter with a blue and white box of tissues, a yellow basket with white tissues, and a gray metal handle on a door.
 The image shows a small, orange counter with a blue and white box of tissues on it, a yellow basket with white napkins, and a gray metal handle on a door.
+An image with two spoons, a paper, a counter, a refrigerator, a cup, and a floor.
+An image with two spoons, a refrigerator, a paper, a floor, a cup, and a counter.
+An image with two spoons, a cup, a paper, a floor, a refrigerator, and a counter.
+An image with two spoons, a paper, a counter, a cup, a floor, and a refrigerator.
+An image with a floor, two spoons, a cup, a paper, a counter, and a refrigerator.

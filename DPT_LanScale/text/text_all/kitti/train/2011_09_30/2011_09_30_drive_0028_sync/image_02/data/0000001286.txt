@@ -8,3 +8,8 @@ A blue car parked on a street.
 A blue car parked on a tree-lined street, with a person riding a bicycle in the background, and a white building with balconies in the distance.
 A blue car is parked on a tree-lined street, with a person riding a bicycle in the background, and a white building with balconies is visible in the distance.
 A tree-lined street with a blue car parked on the side, a person riding a bicycle, and a white building with balconies in the background.
+An image with a bicycle, a person, two cars, a grass, a tree, a pavement, a house, a road, and a sky.
+An image with a person, a pavement, a tree, a house, two cars, a grass, a bicycle, a sky, and a road.
+An image with a road, two cars, a sky, a bicycle, a person, a pavement, a grass, a tree, and a house.
+An image with a bicycle, two cars, a pavement, a grass, a house, a sky, a person, a tree, and a road.
+An image with a pavement, a person, a sky, two cars, a tree, a road, a bicycle, a house, and a grass.

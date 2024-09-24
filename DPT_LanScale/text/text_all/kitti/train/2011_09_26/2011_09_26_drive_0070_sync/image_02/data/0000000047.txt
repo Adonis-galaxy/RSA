@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a tranquil suburban street scene, with a clear sky overhead, a lush green lawn on the right, a tree-lined road with a few cars, and a blue and red traffic sign on the left.
 The image shows a wide, tree-lined road with a few cars, a blue and red sign, and a green arrow sign.
 The image depicts a tree-lined road with a clear sky, a blue and red sign, and a white arrow pointing to the right.
+An image with a wall, a pavement, two cars, a sky, a stop, a grass, a road, a roof, and a tree.
+An image with a grass, a tree, a sky, a pavement, a roof, a road, a stop, two cars, and a wall.
+An image with a tree, a road, two cars, a sky, a grass, a pavement, a stop, a wall, and a roof.
+An image with a grass, a stop, two cars, a sky, a road, a tree, a pavement, a roof, and a wall.
+An image with a tree, a wall, two cars, a pavement, a stop, a roof, a grass, a road, and a sky.

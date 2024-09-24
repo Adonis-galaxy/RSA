@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with lush greenery and parked cars, leading to a row of houses nestled amidst nature.
 The image shows a narrow street lined with parked cars and lush greenery, with a white building on the left side.
 The image depicts a narrow street lined with parked cars, a sidewalk, and a row of houses on one side, with trees and bushes adding greenery to the scene.
+An image with a road, a motorcycle, five cars, a sky, a house, a pavement, and a tree.
+An image with a tree, a road, five cars, a sky, a motorcycle, a pavement, and a house.
+An image with five cars, a sky, a pavement, a motorcycle, a tree, a house, and a road.
+An image with five cars, a pavement, a motorcycle, a tree, a road, a house, and a sky.
+An image with five cars, a sky, a pavement, a motorcycle, a road, a tree, and a house.

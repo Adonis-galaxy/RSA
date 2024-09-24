@@ -8,3 +8,8 @@ The image shows a street scene with a van parked on the side of the road.
 A quiet residential street, lined with houses and trees, with a delivery van parked at the end.
 The image shows a narrow street lined with houses, a parked van, a street lamp, and a fence.
 A narrow street in a residential area with houses, a van, and a fence.
+An image with a fence, a tree, a truck, a grass, a roof, a sky, a road, a flower, a wall, a pavement, and a house.
+An image with a tree, a road, a pavement, a roof, a wall, a flower, a fence, a house, a sky, a truck, and a grass.
+An image with a flower, a house, a roof, a tree, a wall, a sky, a fence, a pavement, a grass, a road, and a truck.
+An image with a pavement, a road, a roof, a wall, a grass, a sky, a house, a tree, a truck, a fence, and a flower.
+An image with a grass, a house, a roof, a wall, a road, a fence, a pavement, a truck, a tree, a flower, and a sky.

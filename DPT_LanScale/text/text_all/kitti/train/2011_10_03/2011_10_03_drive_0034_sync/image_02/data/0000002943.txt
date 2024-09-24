@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 The image captures a serene residential street, lined with parked cars and trees, leading to a cul-de-sac with a single-family home.
 The image shows a narrow, tree-lined street with parked cars on the side, a curved road, and a few houses in the background.
 The image depicts a tree-lined street with a curved layout, featuring parked cars and a clear sky.
+An image with six cars, a pavement, a grass, a road, a tree, and a sky.
+An image with six cars, a sky, a grass, a road, a tree, and a pavement.
+An image with six cars, a pavement, a sky, a tree, a grass, and a road.
+An image with a sky, a road, six cars, a tree, a grass, and a pavement.
+An image with a tree, six cars, a sky, a road, a pavement, and a grass.

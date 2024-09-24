@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a typical urban scene with parked cars, a roundabout, and apartment buildings, showcasing the everyday life of a city street.
 The image shows a narrow street with parked cars, a stop sign, and apartment buildings.
 The image shows a residential street with parked cars, a roundabout, and apartment buildings.
+An image with nine cars, a house, a road, a wall, a tree, and a stop.
+An image with nine cars, a wall, a tree, a road, a stop, and a house.
+An image with a stop, a road, nine cars, a wall, a house, and a tree.
+An image with nine cars, a stop, a house, a tree, a road, and a wall.
+An image with a stop, nine cars, a house, a road, a wall, and a tree.

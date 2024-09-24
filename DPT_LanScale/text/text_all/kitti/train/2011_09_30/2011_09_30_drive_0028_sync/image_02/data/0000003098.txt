@@ -8,3 +8,8 @@ A person walking down a tree-lined street.
 A person walking their dog on a sunny day in a residential area with neatly trimmed hedges and parked cars.
 A person is walking down a narrow, tree-lined street between two-story buildings, with parked cars visible on the right side.
 A narrow, tree-lined street in a residential area, with a person walking a dog on the right side.
+An image with a person, four cars, a road, a dog, a grass, a house, a tree, a sky, and a dirt.
+An image with four cars, a person, a grass, a sky, a tree, a dog, a road, a house, and a dirt.
+An image with a sky, a road, four cars, a dog, a person, a house, a dirt, a grass, and a tree.
+An image with four cars, a tree, a house, a person, a road, a sky, a grass, a dog, and a dirt.
+An image with a road, a tree, a dog, a dirt, a person, four cars, a house, a sky, and a grass.

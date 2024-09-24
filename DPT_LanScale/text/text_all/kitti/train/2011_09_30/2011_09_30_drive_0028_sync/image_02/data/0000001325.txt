@@ -8,3 +8,8 @@ A black car parked on a street.
 A black SUV parked on a shaded street, with a clear sky above and a row of trees lining the road.
 A black SUV is parked on a shaded street, with a side view of a tree-lined path leading to a house in the background.
 A black SUV parked on a tree-lined street, with a clear sky overhead and a house in the background.
+An image with a house, a road, a sky, two cars, a pavement, a grass, and a tree.
+An image with two cars, a sky, a house, a tree, a grass, a road, and a pavement.
+An image with a grass, two cars, a road, a house, a pavement, a tree, and a sky.
+An image with a pavement, a tree, two cars, a road, a house, a sky, and a grass.
+An image with a road, a sky, two cars, a tree, a house, a pavement, and a grass.

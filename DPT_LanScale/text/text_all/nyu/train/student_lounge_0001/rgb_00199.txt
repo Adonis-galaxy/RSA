@@ -8,3 +8,8 @@ The image shows a room with a ping pong table and chairs.
 The image captures a room with a ping pong table in the center, surrounded by chairs and tables, with a doorway leading to another room.
 The image shows a room with a ping pong table, chairs, and a TV, with a large table and chairs in the background.
 The image shows an indoor space with a ping pong table in the foreground, surrounded by chairs and tables, with a doorway leading to a room with a television and a bookshelf.
+An image with a door, a dining, eight chairs, four books, a wall, a floor, a net, a tv, a shelf, a cardboard, a window, and a light.
+An image with a window, a shelf, a cardboard, a net, eight chairs, a dining, four books, a light, a tv, a floor, a door, and a wall.
+An image with a light, a floor, eight chairs, a cardboard, a tv, four books, a door, a wall, a net, a shelf, a window, and a dining.
+An image with a wall, a shelf, eight chairs, a door, a dining, a floor, a light, four books, a tv, a net, a window, and a cardboard.
+An image with eight chairs, a cardboard, four books, a light, a window, a door, a shelf, a wall, a net, a tv, a floor, and a dining.

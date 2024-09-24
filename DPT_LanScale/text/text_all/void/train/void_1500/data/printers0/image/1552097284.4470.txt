@@ -8,3 +8,8 @@ A classroom with a whiteboard, a desk, a computer, and a blue trash can.
 A classroom with a whiteboard, a desk, a computer, and a blue trash can.
 The image shows a classroom with a whiteboard, a desk with a computer, a trash can, and two chairs.
 The image shows a classroom setting with a whiteboard, a desk with a computer, and a blue trash can.
+An image with two chairs, a laptop, a wall, a rug, and a table.
+An image with two chairs, a rug, a table, a laptop, and a wall.
+An image with a wall, a laptop, two chairs, a rug, and a table.
+An image with a table, two chairs, a wall, a rug, and a laptop.
+An image with two chairs, a wall, a rug, a table, and a laptop.

@@ -8,3 +8,8 @@ The image shows a room with a desk and three chairs.
 The image shows a room with a desk and two chairs, one of which is occupied by a cat.
 The image shows a small room with a desk and three chairs, all in black color.
 The image shows a room with a desk and two chairs, with a carpeted floor and a whiteboard on the wall.
+An image with a tv, a wall, four chairs, a keyboard, a rug, a laptop, a table, and a window.
+An image with a tv, a laptop, four chairs, a rug, a keyboard, a wall, a table, and a window.
+An image with a laptop, a tv, a table, four chairs, a rug, a window, a wall, and a keyboard.
+An image with a table, four chairs, a laptop, a rug, a window, a wall, a tv, and a keyboard.
+An image with a table, a laptop, four chairs, a tv, a keyboard, a wall, a window, and a rug.

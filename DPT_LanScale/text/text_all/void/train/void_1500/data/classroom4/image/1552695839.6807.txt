@@ -8,3 +8,8 @@ A blurry image of a computer desk with a mouse, keyboard, and monitor.
 A blurry image of a computer desk with a keyboard, mouse, and papers.
 The image shows a blurry computer desk with a keyboard, mouse, and monitor, along with some papers and a chair.
 The image shows a computer desk with a keyboard, mouse, and monitor, along with some papers and a chair.
+An image with a wall, three mice, two tvs, a book, a chair, a table, and two keyboards.
+An image with a wall, two keyboards, three mice, a table, two tvs, a book, and a chair.
+An image with a book, three mice, a wall, two tvs, two keyboards, a chair, and a table.
+An image with three mice, a chair, two tvs, a wall, a table, two keyboards, and a book.
+An image with two tvs, a book, three mice, a chair, a table, two keyboards, and a wall.

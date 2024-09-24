@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it, a red umbrella, a blue chair, a
 The image shows a room with a whiteboard, a red umbrella, a blue chair, and a box on the floor.
 The image shows a room with a whiteboard, a red umbrella, a blue chair, and a box on the floor.
 The image shows a room with a whiteboard on the wall, a red umbrella, a blue chair, and a box on the floor.
+An image with a cabinet, a umbrella, a chair, a floor, a cardboard, and a wall.
+An image with a cardboard, a chair, a cabinet, a umbrella, a wall, and a floor.
+An image with a chair, a floor, a cardboard, a cabinet, a umbrella, and a wall.
+An image with a chair, a cardboard, a cabinet, a umbrella, a wall, and a floor.
+An image with a wall, a chair, a umbrella, a floor, a cabinet, and a cardboard.

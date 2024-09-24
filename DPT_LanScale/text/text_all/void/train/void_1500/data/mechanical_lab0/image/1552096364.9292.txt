@@ -8,3 +8,8 @@ A blue chair with wheels.
 A blue chair is positioned under a white desk.
 A blue chair is tucked under a white desk.
 A blue chair is tucked under a white desk, and there is a black object in the background.
+An image with a wall, two tvs, a floor, a dining, and a chair.
+An image with a chair, a wall, two tvs, a floor, and a dining.
+An image with two tvs, a dining, a floor, a chair, and a wall.
+An image with two tvs, a chair, a dining, a floor, and a wall.
+An image with two tvs, a wall, a dining, a chair, and a floor.

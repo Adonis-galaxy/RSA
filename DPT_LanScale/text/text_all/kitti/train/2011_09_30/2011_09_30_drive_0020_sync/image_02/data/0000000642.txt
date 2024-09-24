@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street with parked cars and a motorcycle, lined by houses and trees, under a clear blue sky.
 The image shows a residential street with houses, trees, and parked cars, with a clear blue sky overhead.
 A quiet residential street with a mix of single-family homes and apartments, lined with trees and parked cars, under a clear blue sky.
+An image with a house, five cars, a road, a dirt, a truck, a grass, a motorcycle, a tree, and a pavement.
+An image with a pavement, a truck, a tree, a house, a motorcycle, a grass, five cars, a road, and a dirt.
+An image with five cars, a motorcycle, a truck, a dirt, a grass, a road, a house, a pavement, and a tree.
+An image with a truck, a house, a grass, a dirt, a road, five cars, a motorcycle, a tree, and a pavement.
+An image with a tree, a dirt, five cars, a pavement, a grass, a house, a road, a motorcycle, and a truck.

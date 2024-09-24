@@ -8,3 +8,8 @@ A man sitting on a couch in a living room.
 The image captures a cozy living room scene with a man sitting on a couch, a lamp providing warm light, and a chair with a person in it, all set against a white wall adorned with framed pictures.
 A man sits on a couch in a dimly lit living room, with a lamp on a table in front of him, and two chairs, one larger and one smaller, positioned in front of a wall with framed pictures.
 A man sits on a couch in a living room with a lamp, a table, and two chairs, all arranged in a symmetrical layout.
+An image with a couch, a ceiling, a light, a table, a rug, a door, a person, a chair, and a wall.
+An image with a table, a light, a door, a person, a wall, a rug, a chair, a ceiling, and a couch.
+An image with a ceiling, a couch, a chair, a rug, a table, a wall, a person, a door, and a light.
+An image with a light, a chair, a person, a table, a door, a couch, a rug, a wall, and a ceiling.
+An image with a person, a chair, a door, a ceiling, a wall, a couch, a light, a table, and a rug.

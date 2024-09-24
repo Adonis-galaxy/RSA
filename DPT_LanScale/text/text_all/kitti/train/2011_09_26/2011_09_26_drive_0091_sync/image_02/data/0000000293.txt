@@ -8,3 +8,8 @@ The image shows a narrow street with a train track running down the middle.
 The image captures a lively street scene with a focus on the interaction between people and the urban environment.
 The image depicts a narrow street lined with buildings, where two people are standing on the sidewalk, and there are two sets of train tracks running down the middle of the street.
 A narrow, cobblestone street runs between two-story buildings, with a pedestrian walkway on the left side and a bike lane on the right.
+An image with twelve people, three bicycles, a potted, three handbags, a pavement, a tree, a sky, and a building.
+An image with twelve people, a sky, three bicycles, a building, three handbags, a tree, a potted, and a pavement.
+An image with a potted, twelve people, three bicycles, three handbags, a building, a tree, a sky, and a pavement.
+An image with twelve people, a tree, a potted, three handbags, a building, three bicycles, a pavement, and a sky.
+An image with twelve people, a sky, a tree, three handbags, a pavement, a building, three bicycles, and a potted.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a fence.
 A quiet suburban street, lined with parked cars and a fence, under a canopy of trees.
 The image shows a narrow street lined with parked cars and a fence, with a large tree on the right side.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a residential area.
+An image with five cars, a house, a pavement, a sky, a tree, a road, and a fence.
+An image with a road, a tree, five cars, a sky, a pavement, a house, and a fence.
+An image with a road, a tree, a house, a sky, a fence, five cars, and a pavement.
+An image with a house, five cars, a tree, a road, a sky, a pavement, and a fence.
+An image with five cars, a pavement, a tree, a house, a sky, a road, and a fence.

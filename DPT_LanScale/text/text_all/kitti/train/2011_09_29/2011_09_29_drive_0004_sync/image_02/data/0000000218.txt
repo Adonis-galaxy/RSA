@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars and trucks driving on it.
 A car on a road, surrounded by trees and other vehicles, with a clear sky overhead.
 A car is driving down a road with trees on both sides, and there are other cars in the distance.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with six cars, a pavement, a tree, a sky, a road, and a grass.
+An image with six cars, a road, a tree, a pavement, a grass, and a sky.
+An image with a tree, a pavement, six cars, a road, a grass, and a sky.
+An image with a sky, six cars, a pavement, a tree, a grass, and a road.
+An image with six cars, a grass, a pavement, a tree, a road, and a sky.

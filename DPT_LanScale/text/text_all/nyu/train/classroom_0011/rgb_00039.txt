@@ -8,3 +8,8 @@ A classroom filled with students.
 A classroom scene with students engaged in learning activities.
 A classroom filled with students sitting at desks, with a teacher standing at the front, and a large whiteboard on the wall.
 A classroom scene with students seated at desks, engaged in learning activities, with a teacher standing at the front of the room.
+An image with a laptop, ten people, a light, seven books, six chairs, a rug, a wall, a ceiling, a paper, a table, a cup, and a shelf.
+An image with ten people, seven books, a cup, a ceiling, six chairs, a shelf, a rug, a light, a paper, a table, a laptop, and a wall.
+An image with a paper, ten people, seven books, a ceiling, a table, a laptop, a cup, six chairs, a wall, a shelf, a rug, and a light.
+An image with a cup, a shelf, seven books, a table, ten people, a light, a paper, a wall, a ceiling, six chairs, a rug, and a laptop.
+An image with a laptop, six chairs, ten people, seven books, a cup, a light, a table, a shelf, a rug, a paper, a wall, and a ceiling.

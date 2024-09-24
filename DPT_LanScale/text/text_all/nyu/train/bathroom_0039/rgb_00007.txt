@@ -8,3 +8,8 @@ A bathroom with a shower.
 The image captures a bathroom scene, featuring a shower stall with a glass door, a white bathtub, a red-painted wall, and a white door.
 The image shows a small bathroom with a glass shower door, a white bathtub, a white door, and a red wall.
 The image shows a bathroom with a walk-in shower, a white door, and a red wall.
+An image with five bottles, a door, a rug, a cabinet, a floor, and a window.
+An image with five bottles, a rug, a door, a floor, a cabinet, and a window.
+An image with a window, a rug, five bottles, a door, a cabinet, and a floor.
+An image with a rug, five bottles, a door, a floor, a window, and a cabinet.
+An image with five bottles, a window, a floor, a cabinet, a rug, and a door.

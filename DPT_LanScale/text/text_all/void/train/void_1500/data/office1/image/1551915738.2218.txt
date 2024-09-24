@@ -8,3 +8,8 @@ A white coffee cup on a marble table.
 A black leather chair sits at a table with a white mug and a book, in a room with a window.
 A black leather chair is positioned in front of a white marble table with a white mug and a book on it.
 A black leather chair is positioned in front of a white marble table with a white mug and a book on it.
+An image with a couch, a window, three books, a wall, two chairs, a cup, a dining, a cell, and a table.
+An image with a wall, a window, three books, a cup, a cell, a dining, two chairs, a couch, and a table.
+An image with two chairs, three books, a wall, a cell, a cup, a dining, a table, a window, and a couch.
+An image with a window, three books, a dining, a table, a cell, a couch, two chairs, a wall, and a cup.
+An image with three books, a couch, two chairs, a window, a cup, a cell, a wall, a dining, and a table.

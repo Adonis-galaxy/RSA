@@ -8,3 +8,8 @@ A bedroom with a messy bed and a cluttered dresser.
 The image captures a small, cluttered room with a bed, a nightstand, and a door, all bathed in a warm, yellowish light.
 The image shows a small, messy room with a bed, a nightstand, and a door.
 The image shows a small, dimly lit room with a bed, a nightstand, and a door.
+An image with a wall, three books, a ceiling, a bed, a table, a chair, and a floor.
+An image with a floor, a ceiling, three books, a table, a wall, a bed, and a chair.
+An image with a wall, a table, three books, a chair, a bed, a ceiling, and a floor.
+An image with three books, a bed, a floor, a chair, a table, a wall, and a ceiling.
+An image with three books, a ceiling, a chair, a bed, a floor, a wall, and a table.

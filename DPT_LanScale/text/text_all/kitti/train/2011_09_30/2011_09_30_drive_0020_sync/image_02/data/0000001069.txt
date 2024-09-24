@@ -8,3 +8,8 @@ A car on a street.
 A car is driving down a street next to a building with a fence in front of it.
 A car is driving down a street next to a building with a fence in front of it.
 A car is driving down a street lined with trees and buildings, with a construction fence on the side of the road.
+An image with a window, a house, four cars, a tree, a fence, a road, and a grass.
+An image with a house, a window, a grass, a fence, four cars, a road, and a tree.
+An image with four cars, a grass, a road, a tree, a window, a fence, and a house.
+An image with four cars, a tree, a fence, a house, a window, a grass, and a road.
+An image with a grass, a fence, a tree, four cars, a house, a window, and a road.

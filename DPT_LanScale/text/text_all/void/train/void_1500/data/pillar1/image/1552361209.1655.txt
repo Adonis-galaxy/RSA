@@ -8,3 +8,8 @@ A box with a red and white sticker on it.
 A cardboard box with a red and white sign on it, a roll of paper, and a checkerboard leaning against a white wall.
 A cardboard box with a red and white label, a roll of paper, and a checkerboard sign leaning against a white wall.
 A cardboard box with a red and white label sits next to a black and white checkered board and a roll of paper on a blue carpeted floor.
+An image with a tv, a paper, a door, a wall, a rug, and a cardboard.
+An image with a door, a rug, a wall, a cardboard, a paper, and a tv.
+An image with a tv, a rug, a wall, a paper, a cardboard, and a door.
+An image with a door, a paper, a rug, a wall, a tv, and a cardboard.
+An image with a tv, a wall, a paper, a cardboard, a rug, and a door.

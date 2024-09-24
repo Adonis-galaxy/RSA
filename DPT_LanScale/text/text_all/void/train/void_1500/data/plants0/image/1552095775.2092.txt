@@ -8,3 +8,8 @@ A wooden bench on a sidewalk.
 The image shows a wooden bench on a sidewalk, with a red stripe on the ground.
 A wooden bench on a sidewalk.
 The image shows a wooden bench situated on a concrete platform, with a wooden deck in the background.
+An image with two walls, a tree, a pavement, and a dirt.
+An image with two walls, a pavement, a dirt, and a tree.
+An image with a tree, two walls, a pavement, and a dirt.
+An image with a dirt, a tree, two walls, and a pavement.
+An image with a tree, a pavement, two walls, and a dirt.

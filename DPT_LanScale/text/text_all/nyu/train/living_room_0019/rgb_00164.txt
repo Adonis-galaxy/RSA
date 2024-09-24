@@ -8,3 +8,8 @@ A woman sitting at a table in a living room.
 A woman sits at a table with a potted plant, a book, and a vase, in a room with a fireplace and a painting.
 A woman sits at a table in a room with a fireplace, a potted plant, a vase, and a book.
 A woman sits at a table in a living room with a fireplace, a potted plant, and a vase of flowers.
+An image with three chairs, a window, a curtain, two books, two vases, a dining, two potteds, a wall, a paper, a floor, and a person.
+An image with a dining, a paper, three chairs, a curtain, a wall, two potteds, a floor, two vases, two books, a person, and a window.
+An image with a curtain, three chairs, a window, a paper, a dining, a wall, two vases, two books, two potteds, a floor, and a person.
+An image with a paper, three chairs, a floor, a window, two vases, two potteds, a wall, a curtain, two books, a dining, and a person.
+An image with a wall, two potteds, two books, two vases, three chairs, a floor, a paper, a curtain, a window, a dining, and a person.

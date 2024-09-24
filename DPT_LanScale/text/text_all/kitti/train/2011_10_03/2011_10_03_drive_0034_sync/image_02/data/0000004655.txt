@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two brick walls.
 The image captures a narrow, tree-lined street that opens up to a wider road, with a red car parked on the side and a building on the right.
 The image shows a narrow, tree-lined street with a brick wall on one side, a red car parked on the right, and a white line on the road.
 The image captures a narrow, tree-lined street that leads to a brick building, with a red car parked on the right side of the road.
+An image with three cars, a pavement, a tree, a sky, a wall, a fence, a road, and a stop.
+An image with a stop, a sky, a wall, three cars, a pavement, a tree, a fence, and a road.
+An image with a fence, a pavement, a road, a stop, three cars, a tree, a wall, and a sky.
+An image with a fence, three cars, a stop, a sky, a road, a wall, a pavement, and a tree.
+An image with a road, three cars, a sky, a pavement, a fence, a tree, a wall, and a stop.

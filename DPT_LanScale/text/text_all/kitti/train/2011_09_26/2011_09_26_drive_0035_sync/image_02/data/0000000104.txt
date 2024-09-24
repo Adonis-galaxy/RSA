@@ -8,3 +8,8 @@ The image shows a parking lot with various vehicles parked in front of a white h
 The image captures a residential street scene with parked cars, a white house with a brown roof, and a yellow building in the background.
 The image shows a parking lot with various vehicles, including cars, trucks, and a bus, parked in front of a white house with a brown roof.
 The image shows a residential area with a white house, a parking lot with various vehicles, and a street with parked cars.
+An image with eight cars, a sky, a pavement, a tree, a road, three trucks, and a building.
+An image with three trucks, a pavement, eight cars, a tree, a road, a building, and a sky.
+An image with a building, three trucks, eight cars, a pavement, a tree, a road, and a sky.
+An image with eight cars, a sky, three trucks, a tree, a pavement, a road, and a building.
+An image with three trucks, eight cars, a sky, a road, a building, a tree, and a pavement.

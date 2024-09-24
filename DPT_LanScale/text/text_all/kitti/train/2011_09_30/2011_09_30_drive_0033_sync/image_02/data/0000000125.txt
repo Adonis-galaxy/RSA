@@ -8,3 +8,8 @@ A winding road through a forest.
 A winding road through a lush, tree-lined forest, with a clear sky overhead.
 A winding road with a curved turn, surrounded by trees and a lamp post, leading to a clearing in the distance.
 A winding, tree-lined road with a curved bend, leading to a distant horizon.
+An image with a road, a sky, a pavement, a tree, a grass, and a parking.
+An image with a pavement, a tree, a road, a grass, a parking, and a sky.
+An image with a road, a grass, a sky, a parking, a tree, and a pavement.
+An image with a parking, a road, a tree, a sky, a pavement, and a grass.
+An image with a sky, a tree, a pavement, a parking, a grass, and a road.

@@ -8,3 +8,8 @@ A potted plant on a table.
 A potted plant sits on a floor in front of a large window, offering a view of a cityscape.
 A large potted plant sits on a tiled floor in front of a large window with a view of a cityscape.
 The image shows a room with a large window that offers a view of a cityscape, featuring a building with a red roof. The room has a tiled floor and a potted plant placed on the right side.
+An image with a chair, a window, a potted, and a floor.
+An image with a chair, a potted, a window, and a floor.
+An image with a potted, a floor, a window, and a chair.
+An image with a floor, a potted, a window, and a chair.
+An image with a floor, a window, a potted, and a chair.

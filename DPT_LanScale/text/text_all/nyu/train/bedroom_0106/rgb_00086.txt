@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a simple, uncluttered bedroom with a neatly made bed, a nightstand with a lamp, and a beige carpet.
 The image shows a small, neatly made bed with a white comforter, a nightstand with a lamp, and a beige carpeted floor.
 The image shows a simple, uncluttered bedroom with a neatly made bed, a nightstand with a lamp, and a beige carpet.
+An image with a chair, a rug, a wall, a light, and a bed.
+An image with a bed, a wall, a rug, a chair, and a light.
+An image with a bed, a rug, a light, a chair, and a wall.
+An image with a light, a wall, a bed, a chair, and a rug.
+An image with a bed, a chair, a rug, a wall, and a light.

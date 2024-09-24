@@ -8,3 +8,8 @@ A white folding chair with a black seat.
 A white folding chair is positioned in front of a white table, with a black bag and a water dispenser nearby.
 A small white folding chair is positioned in front of a white table, with a black bag and a water dispenser in the background.
 A white folding chair is positioned in front of a white table, with a black bag and a water dispenser nearby.
+An image with a handbag, a cell, a wall, a dining, two chairs, a refrigerator, and a floor.
+An image with two chairs, a cell, a dining, a refrigerator, a handbag, a wall, and a floor.
+An image with two chairs, a handbag, a refrigerator, a floor, a dining, a wall, and a cell.
+An image with a floor, two chairs, a handbag, a dining, a cell, a wall, and a refrigerator.
+An image with a dining, a refrigerator, a wall, two chairs, a handbag, a cell, and a floor.

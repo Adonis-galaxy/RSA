@@ -8,3 +8,8 @@ A whiteboard with a picture of a person on a table.
 A whiteboard with a picture of a person on a table with a coffee cup.
 The image shows a whiteboard with a black marker on the wall, a white desk with a white mug and a yellow book on it, and a white marble countertop.
 A whiteboard on a wall with a table in front of it, a mug on the table, and a stack of papers on the table.
+An image with a wall, a cup, a tv, and a train.
+An image with a cup, a train, a tv, and a wall.
+An image with a train, a tv, a wall, and a cup.
+An image with a train, a tv, a cup, and a wall.
+An image with a wall, a train, a tv, and a cup.

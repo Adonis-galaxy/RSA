@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street, with parked cars and a pathway leading to a white house with a red roof.
 The image shows a residential street with parked cars, a sidewalk, and a brick pathway. The street is lined with trees and bushes, and there are houses in the background. The sky is clear and blue.
 A quiet residential street with parked cars, a paved road, and a sidewalk, lined with trees and bushes, leading to a white house with a balcony.
+An image with four cars, a sky, a grass, a person, a tree, a house, a pavement, a road, and a wall.
+An image with four cars, a pavement, a person, a sky, a house, a road, a grass, a tree, and a wall.
+An image with four cars, a sky, a pavement, a wall, a grass, a person, a tree, a road, and a house.
+An image with a grass, four cars, a house, a tree, a person, a sky, a wall, a pavement, and a road.
+An image with a tree, a sky, a grass, a road, four cars, a person, a pavement, a wall, and a house.

@@ -8,3 +8,8 @@ The image shows an office room with three black chairs and a desk.
 The image shows an office space with a desk, chairs, a microwave, a potted plant, and a bookshelf.
 The image shows an office with a desk, two chairs, a microwave, a potted plant, and a bookshelf.
 The image shows an office space with a desk, two black chairs, a television, a microwave, a bookshelf, and a potted plant.
+An image with seven books, a door, a backpack, two chairs, a tv, a bottle, a refrigerator, a cabinet, a potted, a table, a wall, a rug, a paper, a shelf, and a microwave.
+An image with seven books, a potted, a bottle, a microwave, a shelf, a refrigerator, two chairs, a backpack, a cabinet, a tv, a table, a door, a wall, a rug, and a paper.
+An image with a cabinet, seven books, a rug, a shelf, a bottle, a tv, a microwave, two chairs, a refrigerator, a backpack, a table, a door, a paper, a wall, and a potted.
+An image with a backpack, a wall, seven books, two chairs, a table, a tv, a microwave, a potted, a refrigerator, a paper, a bottle, a door, a rug, a shelf, and a cabinet.
+An image with a rug, a paper, a refrigerator, seven books, a microwave, a table, a backpack, a cabinet, a bottle, two chairs, a door, a tv, a shelf, a wall, and a potted.

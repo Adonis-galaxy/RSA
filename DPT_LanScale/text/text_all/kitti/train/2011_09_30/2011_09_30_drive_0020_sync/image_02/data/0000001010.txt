@@ -8,3 +8,8 @@ The image shows a row of white vans parked on the side of a street.
 The image captures a scene of urban life, featuring a row of parked white vans on a street adjacent to apartment buildings, with a clear blue sky overhead.
 A row of white vans parked on the side of a street, with a few cars and a truck in the background, and a building with a blue sign in the distance.
 A row of white vans parked along a sidewalk in front of apartment buildings, with a clear blue sky overhead.
+An image with a building, four cars, three trucks, a tree, a road, a grass, a bus, a person, and a pavement.
+An image with three trucks, four cars, a grass, a person, a building, a road, a tree, a pavement, and a bus.
+An image with three trucks, a grass, a building, a person, a tree, a road, a bus, four cars, and a pavement.
+An image with a road, four cars, three trucks, a bus, a person, a tree, a grass, a pavement, and a building.
+An image with four cars, three trucks, a grass, a pavement, a person, a building, a bus, a tree, and a road.

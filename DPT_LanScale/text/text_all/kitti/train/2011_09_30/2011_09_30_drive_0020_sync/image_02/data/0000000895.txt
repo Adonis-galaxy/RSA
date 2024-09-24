@@ -8,3 +8,8 @@ A blue truck on a street.
 A blue truck with a ladder on the back is parked on the side of a road, with a person riding a bicycle in the background.
 A large blue truck is driving down a street lined with houses and trees, with a person riding a bicycle in the background.
 A blue truck with a large cargo bed is driving down a street lined with houses and trees, with a person riding a bicycle in the background.
+An image with a truck, a bicycle, a road, three cars, a person, a house, a sky, a grass, and a tree.
+An image with a person, three cars, a tree, a house, a sky, a truck, a grass, a road, and a bicycle.
+An image with a road, a truck, three cars, a house, a grass, a bicycle, a tree, a person, and a sky.
+An image with three cars, a truck, a house, a grass, a road, a sky, a bicycle, a tree, and a person.
+An image with a road, a truck, a house, a bicycle, a person, three cars, a grass, a tree, and a sky.

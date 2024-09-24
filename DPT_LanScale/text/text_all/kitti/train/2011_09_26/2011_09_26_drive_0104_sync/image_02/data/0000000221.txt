@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a delivery truck.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a large white truck driving down the road.
 A narrow city street with parked cars, a delivery truck, and apartment buildings on both sides.
+An image with eleven cars, a building, a sky, a tree, a road, two trucks, and a pavement.
+An image with eleven cars, a tree, a building, two trucks, a road, a sky, and a pavement.
+An image with a tree, eleven cars, two trucks, a pavement, a building, a road, and a sky.
+An image with eleven cars, a building, two trucks, a road, a pavement, a sky, and a tree.
+An image with two trucks, a building, eleven cars, a sky, a road, a pavement, and a tree.

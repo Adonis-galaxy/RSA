@@ -8,3 +8,8 @@ A row of white chairs with black wheels.
 A long white table with white chairs in a room.
 A long white table with white chairs, all in a room with a gray carpet.
 The image shows a long white table with white chairs on either side, arranged in a conference room setting.
+An image with two dinings, eight chairs, a wall, a floor, and a door.
+An image with two dinings, eight chairs, a door, a wall, and a floor.
+An image with eight chairs, two dinings, a door, a floor, and a wall.
+An image with eight chairs, two dinings, a wall, a door, and a floor.
+An image with eight chairs, a wall, two dinings, a floor, and a door.

@@ -8,3 +8,8 @@ The image shows a black car parked on a street.
 A black car parked on a tree-lined street, with a sidewalk and hedges, under a clear blue sky.
 A black car is parked on the side of a tree-lined street, with a white fence and a brick sidewalk nearby.
 A black car is parked on the side of a tree-lined street, with a white fence and a brick sidewalk in the foreground, and a blue sky overhead.
+An image with seven cars, a wall, a tree, a road, a pavement, a fence, and a sky.
+An image with seven cars, a sky, a road, a fence, a pavement, a tree, and a wall.
+An image with a wall, seven cars, a fence, a road, a sky, a pavement, and a tree.
+An image with a fence, seven cars, a sky, a tree, a wall, a road, and a pavement.
+An image with seven cars, a road, a fence, a wall, a sky, a tree, and a pavement.

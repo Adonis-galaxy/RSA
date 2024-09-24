@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street scene, with a focus on the interaction between pedestrians, vehicles, and urban architecture.
 A large orange truck is parked on the side of a busy street, with a yellow umbrella, a man in a black coat, a bicycle, and a car in the background.
 A bustling city street with a mix of pedestrians, vehicles, and urban architecture.
+An image with a sky, eight cars, five people, a building, a pavement, a truck, a bicycle, a tree, a umbrella, and a road.
+An image with eight cars, a truck, a umbrella, a sky, five people, a building, a road, a pavement, a bicycle, and a tree.
+An image with eight cars, a pavement, five people, a building, a sky, a tree, a umbrella, a truck, a bicycle, and a road.
+An image with five people, eight cars, a bicycle, a umbrella, a building, a pavement, a sky, a road, a tree, and a truck.
+An image with eight cars, a pavement, a tree, a road, five people, a umbrella, a truck, a bicycle, a sky, and a building.

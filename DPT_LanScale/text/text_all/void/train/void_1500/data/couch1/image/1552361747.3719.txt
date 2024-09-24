@@ -8,3 +8,8 @@ A black leather couch with a white ball on it.
 A black leather couch with a sports ball and magazines on it.
 A black leather couch with a white ball and a pile of magazines on it.
 A black leather couch with a white ball and magazines on it, positioned in front of a television.
+An image with five books, a wall, a sports, a tv, a table, a umbrella, and a couch.
+An image with five books, a table, a couch, a sports, a umbrella, a tv, and a wall.
+An image with a sports, five books, a table, a couch, a tv, a wall, and a umbrella.
+An image with a tv, five books, a couch, a umbrella, a table, a wall, and a sports.
+An image with five books, a table, a wall, a couch, a tv, a sports, and a umbrella.

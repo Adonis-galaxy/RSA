@@ -8,3 +8,8 @@ The image shows a row of desks and chairs in a classroom.
 The image shows a row of desks and chairs in a classroom setting.
 The image shows a row of desks with chairs in a classroom setting.
 The image shows a row of desks with chairs in a classroom setting.
+An image with a floor, twelve chairs, a dining, and two walls.
+An image with a dining, twelve chairs, two walls, and a floor.
+An image with twelve chairs, a floor, two walls, and a dining.
+An image with twelve chairs, two walls, a dining, and a floor.
+An image with twelve chairs, two walls, a floor, and a dining.

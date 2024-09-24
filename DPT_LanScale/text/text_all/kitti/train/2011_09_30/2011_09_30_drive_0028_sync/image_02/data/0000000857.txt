@@ -8,3 +8,8 @@ The image shows a street with cars and buildings.
 The image captures a sunny day in a residential area, with a row of houses, parked cars, and trees lining a street.
 The image shows a narrow street lined with parked cars and tall buildings, with a few cars driving down the road and a large shadow cast by the trees.
 A narrow street lined with parked cars and buildings, with a canopy of trees overhead.
+An image with a sky, five cars, a pavement, a road, a house, and a tree.
+An image with five cars, a road, a house, a sky, a tree, and a pavement.
+An image with a sky, a road, a tree, a pavement, five cars, and a house.
+An image with a house, a sky, five cars, a pavement, a road, and a tree.
+An image with five cars, a road, a pavement, a tree, a house, and a sky.

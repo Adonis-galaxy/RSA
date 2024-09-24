@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a few cars parked along the side, leading to a pedestrian pathway.
 A narrow, tree-lined street with parked cars and pedestrians.
 A tree-lined street with parked cars and pedestrians, leading to a fenced area with a gate.
+An image with two cars, a road, a pavement, three people, a tree, a handbag, a bicycle, and a fence.
+An image with three people, a handbag, two cars, a pavement, a fence, a road, a bicycle, and a tree.
+An image with a tree, a bicycle, three people, two cars, a road, a fence, a handbag, and a pavement.
+An image with a tree, three people, two cars, a fence, a road, a pavement, a handbag, and a bicycle.
+An image with three people, a handbag, a pavement, two cars, a road, a fence, a bicycle, and a tree.

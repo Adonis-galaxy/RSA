@@ -8,3 +8,8 @@ A car driving down a street.
 A car is driving down a street, passing by a building with a construction site in front of it.
 A small car is driving down a street next to a large building.
 A car is driving down a street with a sidewalk, a building, and a construction site with a fence and a sign.
+An image with a road, four cars, a fence, a house, two stops, a building, a grass, a wall, a pavement, and a tree.
+An image with four cars, a building, a house, a pavement, a wall, a grass, a tree, a fence, two stops, and a road.
+An image with two stops, a grass, a house, a building, a wall, four cars, a tree, a pavement, a fence, and a road.
+An image with a house, two stops, four cars, a tree, a building, a wall, a road, a grass, a pavement, and a fence.
+An image with a building, a wall, a pavement, a house, a fence, a grass, four cars, a road, a tree, and two stops.

@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with lush greenery and a white wall, under a clear blue sky.
 The image shows a narrow, tree-lined street with a white wall on one side and a brick wall on the other, leading to a house with a blue sign.
 A narrow, tree-lined street with a curved sidewalk and a brick wall on the right side.
+An image with a tree, a house, two walls, a pavement, a car, a road, and a sky.
+An image with a tree, a house, a road, two walls, a car, a pavement, and a sky.
+An image with a car, a sky, two walls, a tree, a house, a road, and a pavement.
+An image with a road, a car, a house, two walls, a pavement, a tree, and a sky.
+An image with a tree, a house, two walls, a road, a sky, a pavement, and a car.

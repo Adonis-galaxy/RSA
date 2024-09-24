@@ -8,3 +8,8 @@ The image shows a white wall with a red brick wall next to it.
 The image shows a white wall next to a brick wall, with a metal railing in the foreground.
 The image shows a white wall with a red brick wall next to it, and a metal railing is visible in the foreground.
 The image shows a white wall next to a brick wall, with a metal railing in the foreground.
+An image with a floor, a paper, two walls, and a fence.
+An image with two walls, a fence, a paper, and a floor.
+An image with two walls, a paper, a fence, and a floor.
+An image with a fence, a floor, two walls, and a paper.
+An image with a fence, a paper, two walls, and a floor.

@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a mix of vehicles in mot
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all coexisting in a dynamic urban landscape.
 The image depicts a busy city street with tall buildings, parked cars, and a large statue on the sidewalk.
 A busy city street with parked cars, a mix of vehicles, and pedestrians, lined with tall buildings and a park.
+An image with ten cars, a sky, a bus, a grass, a road, a rock, a building, and a tree.
+An image with a building, ten cars, a tree, a road, a rock, a grass, a bus, and a sky.
+An image with a rock, ten cars, a bus, a grass, a building, a road, a sky, and a tree.
+An image with ten cars, a grass, a rock, a bus, a sky, a tree, a road, and a building.
+An image with a grass, a road, a sky, a building, ten cars, a tree, a bus, and a rock.

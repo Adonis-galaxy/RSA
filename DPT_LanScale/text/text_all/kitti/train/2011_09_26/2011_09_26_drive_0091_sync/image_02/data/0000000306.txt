@@ -8,3 +8,8 @@ The image shows a street scene with a train track in the middle, people walking 
 The image captures a lively street scene with a mix of pedestrians, cyclists, and shops, all coexisting harmoniously within a narrow urban space.
 A narrow street with a train track in the middle, lined with buildings and people walking on the sidewalk.
 A narrow street with a train track in the middle, lined with buildings and pedestrians, creating a unique urban scene.
+An image with three bicycles, ten people, a tree, a building, a pavement, a sky, and a railroad.
+An image with ten people, three bicycles, a tree, a railroad, a pavement, a sky, and a building.
+An image with ten people, a tree, three bicycles, a sky, a railroad, a building, and a pavement.
+An image with a pavement, ten people, a building, three bicycles, a sky, a railroad, and a tree.
+An image with ten people, a sky, a pavement, a tree, a building, three bicycles, and a railroad.

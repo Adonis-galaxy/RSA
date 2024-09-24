@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist navigates a city street, passing a white van and a parked bicycle, while a pedestrian carries a bag and a traffic light stands sentinel.
 A person riding a bicycle in the foreground, with a large white van in the background, and a tall building with many windows in the distance.
 A cyclist rides through a city intersection, passing a white van and a parked bicycle, with a red brick building and a street sign in the background.
+An image with a building, a truck, a handbag, five bicycles, a person, a pavement, two traffics, a road, a sky, a car, and a tree.
+An image with a truck, five bicycles, a car, a road, a sky, a building, a tree, two traffics, a pavement, a person, and a handbag.
+An image with a car, a tree, a person, five bicycles, a truck, a sky, a road, a handbag, a pavement, two traffics, and a building.
+An image with a sky, a car, a road, two traffics, five bicycles, a pavement, a building, a person, a handbag, a truck, and a tree.
+An image with five bicycles, a handbag, a sky, a truck, a car, a pavement, two traffics, a person, a building, a tree, and a road.

@@ -8,3 +8,8 @@ A bottle of wine on a counter.
 A bottle of wine is placed on a countertop next to a stove, with a view into a kitchen area.
 A bottle of wine is sitting on a counter next to a stove.
 A kitchen scene with a bottle of wine on a counter, a stove, and a wall.
+An image with a bottle, a counter, a ceiling, a wall, a bowl, and a oven.
+An image with a oven, a bowl, a ceiling, a counter, a wall, and a bottle.
+An image with a wall, a ceiling, a counter, a oven, a bowl, and a bottle.
+An image with a counter, a wall, a bottle, a bowl, a oven, and a ceiling.
+An image with a wall, a bottle, a bowl, a oven, a ceiling, and a counter.

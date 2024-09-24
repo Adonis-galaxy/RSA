@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a tree-lined street, with a clear sky overhead and a row of houses in the background.
 A large white van is parked on a narrow street between two-story houses, with a few cars and trees in the background.
 A narrow street in a residential area, with parked cars, a van, and a bus, under a clear sky.
+An image with seven cars, a road, a bus, a grass, a sky, a tree, a house, and a pavement.
+An image with seven cars, a tree, a bus, a house, a road, a grass, a sky, and a pavement.
+An image with a grass, seven cars, a pavement, a tree, a bus, a road, a house, and a sky.
+An image with seven cars, a grass, a tree, a sky, a house, a pavement, a road, and a bus.
+An image with seven cars, a house, a road, a sky, a bus, a grass, a tree, and a pavement.

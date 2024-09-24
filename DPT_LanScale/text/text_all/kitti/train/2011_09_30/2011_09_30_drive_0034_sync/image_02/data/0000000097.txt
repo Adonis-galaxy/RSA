@@ -8,3 +8,8 @@ A narrow road between two houses.
 A quiet residential street, lined with houses and a paved path, leads to a serene garden.
 A narrow, tree-lined street leads to a white house with a black roof, surrounded by greenery.
 A narrow, tree-lined street leads to a white house with a black roof, surrounded by lush greenery and a fence.
+An image with a pavement, a tree, a sky, a fence, a wall, a dirt, a house, and a grass.
+An image with a house, a dirt, a pavement, a wall, a sky, a fence, a grass, and a tree.
+An image with a pavement, a wall, a sky, a tree, a house, a fence, a dirt, and a grass.
+An image with a fence, a pavement, a dirt, a tree, a wall, a house, a grass, and a sky.
+An image with a house, a wall, a fence, a grass, a pavement, a dirt, a sky, and a tree.

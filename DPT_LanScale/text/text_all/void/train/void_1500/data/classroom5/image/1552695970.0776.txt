@@ -8,3 +8,8 @@ The image shows a row of black office chairs on a carpeted floor.
 The image shows a row of black chairs with silver legs, placed on a carpeted floor, in front of a wooden desk.
 The image shows a blurry view of a room with a desk and chairs, where the chairs are black and the desk is brown.
 The image shows a room with a desk and chairs, and the floor appears to be carpeted.
+An image with a table, two keyboards, a mouse, three chairs, a tv, a window, a wall, and a rug.
+An image with a window, three chairs, a mouse, a wall, two keyboards, a table, a tv, and a rug.
+An image with two keyboards, a mouse, three chairs, a rug, a wall, a window, a tv, and a table.
+An image with three chairs, a window, a rug, two keyboards, a mouse, a wall, a table, and a tv.
+An image with a window, a table, three chairs, a wall, two keyboards, a mouse, a rug, and a tv.

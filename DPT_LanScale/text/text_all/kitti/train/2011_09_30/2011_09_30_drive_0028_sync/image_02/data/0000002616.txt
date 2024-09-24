@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 The image captures a quiet residential street scene with two cars parked on the side of the road, a white building with a green hedge, and a clear blue sky.
 A silver van is parked on the side of a narrow street, with a white building and trees in the background.
 A narrow street in a residential area with parked cars and a sidewalk.
+An image with a house, a window, two cars, a roof, a sky, a tree, a grass, a potted, a pavement, and a road.
+An image with two cars, a road, a potted, a roof, a sky, a house, a pavement, a tree, a grass, and a window.
+An image with two cars, a grass, a window, a tree, a road, a roof, a sky, a pavement, a house, and a potted.
+An image with two cars, a window, a tree, a potted, a roof, a sky, a pavement, a house, a grass, and a road.
+An image with a window, two cars, a roof, a potted, a house, a pavement, a sky, a grass, a road, and a tree.

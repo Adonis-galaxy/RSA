@@ -8,3 +8,8 @@ The image shows a street with cars and trucks driving on it.
 The image captures a typical day on a suburban street, with a mix of vehicles, including cars and trucks, moving along the road and parked along the side, under a clear sky.
 The image shows a wide, tree-lined street with a few cars and trucks, and a clear sky overhead.
 The image depicts a wide, tree-lined street with multiple lanes, a median, and a sidewalk, leading to a commercial area with various buildings and parked cars.
+An image with sixteen cars, a grass, three trucks, a tree, a bus, a person, a road, a building, and a sky.
+An image with three trucks, a bus, sixteen cars, a tree, a grass, a sky, a road, a building, and a person.
+An image with sixteen cars, a sky, a tree, three trucks, a road, a bus, a building, a grass, and a person.
+An image with sixteen cars, three trucks, a grass, a building, a person, a sky, a bus, a road, and a tree.
+An image with a grass, sixteen cars, a person, three trucks, a tree, a building, a bus, a sky, and a road.

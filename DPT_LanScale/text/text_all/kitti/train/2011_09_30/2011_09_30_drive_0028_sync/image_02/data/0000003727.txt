@@ -8,3 +8,8 @@ The image shows a street scene with a building, a car, a street sign, and two la
 The image captures a quiet residential street scene, featuring a modern building with a green and brown striped mailbox, a brown wooden box, and a blue car parked on the side of the road.
 The image shows a street scene with a large brown box, a green and brown striped structure, and a blue car parked on the side of the road.
 The image shows a residential street scene with a building, a mailbox, a parking meter, a street sign, and a car.
+An image with a stop, a car, a window, a tree, a house, a door, a pavement, a grass, and a road.
+An image with a car, a house, a stop, a grass, a road, a pavement, a tree, a window, and a door.
+An image with a house, a road, a pavement, a grass, a car, a window, a door, a tree, and a stop.
+An image with a stop, a window, a house, a road, a tree, a grass, a pavement, a car, and a door.
+An image with a car, a door, a stop, a pavement, a house, a road, a grass, a window, and a tree.

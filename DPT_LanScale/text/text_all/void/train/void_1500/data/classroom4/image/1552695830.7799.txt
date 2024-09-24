@@ -8,3 +8,8 @@ A computer desk with two laptops and two mice.
 A computer desk with two laptops, two mice, and two chairs.
 A blurry image of a wooden desk with two black keyboards, two black mice, and a laptop screen displaying a blue sky with a mountain range.
 A computer desk with two laptops, two mice, and two chairs.
+An image with a wall, a paper, two mice, a floor, two keyboards, two chairs, a tv, a laptop, and a table.
+An image with a wall, a paper, two mice, two keyboards, two chairs, a table, a tv, a laptop, and a floor.
+An image with two chairs, two keyboards, a floor, two mice, a tv, a paper, a laptop, a table, and a wall.
+An image with two keyboards, a floor, two chairs, a tv, a laptop, two mice, a table, a paper, and a wall.
+An image with a floor, two keyboards, a table, a paper, a tv, two mice, a wall, two chairs, and a laptop.

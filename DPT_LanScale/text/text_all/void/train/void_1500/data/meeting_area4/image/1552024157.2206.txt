@@ -8,3 +8,8 @@ The image shows a white desk with a chair in a room with a carpeted floor.
 The image shows a room with two desks, one of which has a round hole in the floor.
 The image shows a room with two desks, one white and one silver, and a gray carpet with a white circle on it.
 The image shows a room with two desks, one white and one silver, placed on a gray carpeted floor.
+An image with a floor, two dinings, a window, a wall, and three chairs.
+An image with a wall, three chairs, two dinings, a window, and a floor.
+An image with three chairs, two dinings, a floor, a window, and a wall.
+An image with three chairs, two dinings, a wall, a window, and a floor.
+An image with a window, three chairs, two dinings, a wall, and a floor.

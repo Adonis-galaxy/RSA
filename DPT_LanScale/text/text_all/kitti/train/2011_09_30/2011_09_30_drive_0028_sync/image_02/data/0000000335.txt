@@ -8,3 +8,8 @@ The image shows a street view with a white building on the right side.
 The image captures a quiet residential street, with a clear view of a cul-de-sac, where a few cars are parked, and the surrounding houses are neatly lined up, creating a sense of order and tranquility.
 The image shows a narrow street between two-story buildings, with a car parked on the left side and a stop sign on the right side. The street is lined with bushes and trees, and the buildings have balconies.
 The image depicts a quiet residential street with a clear view of the intersection, lined with parked cars and apartment buildings.
+An image with a wall, five cars, a sky, a tree, a stop, a house, a pavement, a road, and a truck.
+An image with a truck, five cars, a house, a tree, a stop, a pavement, a sky, a road, and a wall.
+An image with five cars, a sky, a stop, a road, a wall, a truck, a house, a tree, and a pavement.
+An image with a house, a wall, five cars, a pavement, a sky, a truck, a stop, a road, and a tree.
+An image with five cars, a house, a truck, a pavement, a sky, a wall, a stop, a road, and a tree.

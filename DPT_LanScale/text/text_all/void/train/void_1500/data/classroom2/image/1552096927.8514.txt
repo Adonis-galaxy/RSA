@@ -8,3 +8,8 @@ The image shows a classroom with several chairs and desks.
 The image shows a classroom setting with two desks and two chairs, one of which is a black desk chair.
 The image shows a classroom with two desks and two chairs, with the chairs being larger than the desks.
 The image shows a classroom with two desks and two chairs, one of which is a black desk chair.
+An image with a wall, three chairs, a cabinet, and a rug.
+An image with three chairs, a rug, a cabinet, and a wall.
+An image with a wall, a rug, three chairs, and a cabinet.
+An image with a wall, a cabinet, a rug, and three chairs.
+An image with three chairs, a cabinet, a wall, and a rug.

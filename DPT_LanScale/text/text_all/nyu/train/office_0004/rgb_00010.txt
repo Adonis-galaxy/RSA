@@ -8,3 +8,8 @@ The image shows an office room with a whiteboard, a table, chairs, and a door.
 The image captures a room with a whiteboard, a table with chairs, a refrigerator, and a door, all connected by a network of cables and wires.
 The image shows an office room with a large whiteboard, a table with chairs, a door, and a kitchenette.
 The image shows an office room with a whiteboard, a table with chairs, a counter with a sink, and a door with a window.
+An image with a dining, a ceiling, four chairs, a cabinet, a microwave, a floor, a wall, a sink, a door, and a table.
+An image with a microwave, a door, a floor, four chairs, a table, a dining, a wall, a sink, a ceiling, and a cabinet.
+An image with four chairs, a table, a door, a wall, a ceiling, a sink, a dining, a cabinet, a floor, and a microwave.
+An image with four chairs, a table, a floor, a sink, a door, a cabinet, a wall, a microwave, a dining, and a ceiling.
+An image with a sink, a wall, a microwave, four chairs, a floor, a table, a ceiling, a cabinet, a dining, and a door.

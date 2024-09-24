@@ -8,3 +8,8 @@ The image shows a street scene with a black car driving down the road.
 The image captures a quiet residential street, with a few cars parked along the side, under the shade of trees, leading to a row of houses in the distance.
 The image shows a narrow street lined with houses and trees, with a few cars parked or moving along the road.
 A quiet residential street with a few cars parked along the side, lined by trees and houses.
+An image with five cars, a road, a house, a wall, a grass, a tree, and a sky.
+An image with a road, a grass, five cars, a house, a sky, a tree, and a wall.
+An image with a sky, a grass, five cars, a road, a wall, a house, and a tree.
+An image with five cars, a house, a grass, a wall, a road, a tree, and a sky.
+An image with five cars, a house, a road, a wall, a tree, a grass, and a sky.

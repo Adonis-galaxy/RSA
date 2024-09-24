@@ -8,3 +8,8 @@ A whiteboard with red writing on it.
 The image captures a conference room setting with a whiteboard, a table with red chairs, and a projection screen, suggesting a collaborative workspace.
 The image shows a conference room with a large whiteboard on the wall, a wooden table with red chairs, and a projection screen on the right side.
 The image shows an office meeting room with a whiteboard on the wall, a wooden table with red chairs, and a window with blinds.
+An image with a window, two cups, a wall, four chairs, a tv, a floor, a door, a ceiling, and a dining.
+An image with a dining, a tv, four chairs, two cups, a floor, a ceiling, a wall, a window, and a door.
+An image with two cups, four chairs, a window, a floor, a dining, a wall, a tv, a door, and a ceiling.
+An image with a tv, four chairs, a window, a dining, two cups, a door, a ceiling, a floor, and a wall.
+An image with four chairs, a tv, a floor, a door, two cups, a window, a dining, a wall, and a ceiling.

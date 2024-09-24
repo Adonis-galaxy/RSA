@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white car parked on the side.
 A quiet, tree-lined street with a parked car and a red vehicle in the distance, under a clear sky.
 A narrow street lined with trees and parked cars, with a white sports car driving down it.
 A tree-lined street with a white car parked on the right side, a red van driving down the middle, and a white car parked on the left side.
+An image with three cars, a tree, a road, a sky, a building, and a pavement.
+An image with a sky, a building, three cars, a tree, a pavement, and a road.
+An image with a road, a tree, three cars, a pavement, a building, and a sky.
+An image with a building, a pavement, three cars, a tree, a sky, and a road.
+An image with a sky, three cars, a road, a pavement, a tree, and a building.

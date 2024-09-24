@@ -8,3 +8,8 @@ The image is a photograph of a busy street intersection with multiple lanes of t
 The image captures a bustling city intersection with a mix of vehicles and traffic signals, set against a backdrop of greenery and a clear sky.
 The image shows a busy street intersection with multiple lanes of traffic, a large number of vehicles, and various traffic lights and signs. The scene is captured from a distance, emphasizing the scale of the traffic and the urban environment.
 The image depicts a busy street intersection with multiple lanes, traffic lights, and a clear sky.
+An image with seven cars, ten traffics, a mountain, a pavement, a grass, a tree, a road, a house, and a fence.
+An image with ten traffics, a tree, seven cars, a road, a mountain, a fence, a house, a pavement, and a grass.
+An image with a mountain, ten traffics, a tree, a house, a road, seven cars, a grass, a fence, and a pavement.
+An image with ten traffics, a house, a road, seven cars, a pavement, a tree, a fence, a grass, and a mountain.
+An image with seven cars, ten traffics, a grass, a road, a fence, a pavement, a mountain, a house, and a tree.

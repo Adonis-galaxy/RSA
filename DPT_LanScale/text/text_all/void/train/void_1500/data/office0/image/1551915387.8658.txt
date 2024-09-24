@@ -8,3 +8,8 @@ A wooden table with a black base.
 A wooden stand with a black base is placed in front of a black leather couch.
 A small wooden table is placed next to a black leather couch in a room.
 A wooden stand with a black base is placed in front of a black leather couch, next to a white door.
+An image with a couch, a towel, a wall, a rug, and a door.
+An image with a wall, a towel, a rug, a couch, and a door.
+An image with a wall, a couch, a towel, a door, and a rug.
+An image with a wall, a couch, a door, a towel, and a rug.
+An image with a door, a towel, a rug, a wall, and a couch.

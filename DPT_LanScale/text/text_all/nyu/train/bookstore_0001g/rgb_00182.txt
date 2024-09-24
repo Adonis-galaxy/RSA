@@ -8,3 +8,8 @@ The image shows a bookstore with a large number of books on shelves.
 The image captures the essence of a bookstore, showcasing a well-organized bookshelf with a variety of books, a cart for easy browsing, and a white column that adds architectural interest to the scene.
 The image shows an indoor bookstore with a large number of books on shelves, a cart with a few books, and a foreground with a large book and a purple object.
 The image shows an indoor bookstore with a large open space, wooden bookshelves filled with books, and a central aisle leading to a checkout area.
+An image with twelve books, a chair, a cardboard, a shelf, a wall, a ceiling, a floor, and a light.
+An image with a cardboard, a ceiling, a floor, twelve books, a light, a wall, a chair, and a shelf.
+An image with twelve books, a wall, a chair, a floor, a light, a cardboard, a ceiling, and a shelf.
+An image with twelve books, a light, a floor, a shelf, a ceiling, a cardboard, a chair, and a wall.
+An image with twelve books, a shelf, a chair, a light, a wall, a cardboard, a floor, and a ceiling.

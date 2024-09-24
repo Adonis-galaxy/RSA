@@ -8,3 +8,8 @@ The image shows a busy street with cars and a train.
 The image captures a bustling city street with a mix of vehicles, pedestrians, and urban infrastructure, all under a clear blue sky.
 A busy street with multiple cars, a train track, traffic lights, and a sidewalk.
 A busy street scene with multiple lanes of traffic, a railroad crossing, and a traffic light.
+An image with nine cars, two traffics, a tree, a grass, a bicycle, a road, a house, and a railroad.
+An image with a house, nine cars, two traffics, a railroad, a bicycle, a tree, a grass, and a road.
+An image with nine cars, a tree, a bicycle, a house, two traffics, a road, a railroad, and a grass.
+An image with nine cars, a tree, a road, two traffics, a grass, a railroad, a house, and a bicycle.
+An image with a railroad, a grass, a bicycle, nine cars, a house, a tree, a road, and two traffics.

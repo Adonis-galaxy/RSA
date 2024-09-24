@@ -8,3 +8,8 @@ The image shows a street with a white arrow painted on it.
 The image captures a quiet residential street, with a clear view of the road, parked cars, and the surrounding buildings, all under a bright sunny sky.
 The image shows a narrow street between two-story buildings, with a car parked on the side, a roundabout at the end, and a clear sky overhead.
 The image depicts a quiet residential street with a clear view of the road ahead, lined with parked cars and buildings on both sides.
+An image with a pavement, six cars, a sky, a road, a house, a tree, and a stop.
+An image with six cars, a pavement, a tree, a sky, a road, a house, and a stop.
+An image with a tree, six cars, a stop, a house, a pavement, a sky, and a road.
+An image with a tree, six cars, a sky, a house, a stop, a road, and a pavement.
+An image with six cars, a tree, a house, a road, a sky, a pavement, and a stop.

@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street in a residential area.
 The image captures a quiet residential street, lined with parked cars and houses, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with trees providing shade and a clear blue sky overhead.
 The image depicts a quiet residential street with parked cars, a paved road, and houses on both sides, under a clear blue sky.
+An image with a pavement, four cars, a house, a wall, a road, two trucks, a potted, a fence, and a tree.
+An image with four cars, two trucks, a pavement, a house, a fence, a tree, a road, a potted, and a wall.
+An image with a house, four cars, a tree, two trucks, a road, a potted, a fence, a wall, and a pavement.
+An image with four cars, two trucks, a house, a tree, a pavement, a wall, a fence, a potted, and a road.
+An image with four cars, a tree, two trucks, a potted, a fence, a pavement, a house, a road, and a wall.

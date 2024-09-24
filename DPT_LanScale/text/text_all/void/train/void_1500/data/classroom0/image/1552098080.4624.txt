@@ -8,3 +8,8 @@ The image shows a row of empty seats in a waiting area.
 The image shows a row of empty seats in a waiting area, with a green door in the background.
 The image shows a row of brown chairs with black armrests, positioned in front of a green door, on a tiled floor.
 The image shows a row of empty seats in a waiting area, with a green door in the background.
+An image with two walls, a floor, and four chairs.
+An image with a floor, two walls, and four chairs.
+An image with two walls, four chairs, and a floor.
+An image with four chairs, two walls, and a floor.
+An image with four chairs, a floor, and two walls.

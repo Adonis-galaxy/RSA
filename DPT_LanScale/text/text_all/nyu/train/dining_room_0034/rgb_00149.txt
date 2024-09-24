@@ -8,3 +8,8 @@ The image shows a room with a wall-mounted painting and two framed pictures on t
 The image captures a room with a dining table, chairs, and framed artwork on the wall, creating a cozy and inviting atmosphere.
 The image shows a room with two framed paintings on the wall, a table with chairs, and a white wall.
 The image shows a room with a wall-mounted painting, two framed pictures, a chair, a table, and a lamp, all arranged in a symmetrical layout.
+An image with four chairs, a wall, a dining, a person, a cabinet, a window, and a floor.
+An image with a wall, a floor, a dining, a person, four chairs, a cabinet, and a window.
+An image with a floor, four chairs, a dining, a cabinet, a wall, a window, and a person.
+An image with a wall, four chairs, a person, a cabinet, a dining, a floor, and a window.
+An image with a dining, a cabinet, a window, a wall, four chairs, a person, and a floor.

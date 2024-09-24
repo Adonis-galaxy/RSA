@@ -8,3 +8,8 @@ A backpack, a newspaper, and a sombrero on a bench.
 A backpack, a newspaper, and a sombrero are placed on a bench.
 A black backpack, a newspaper, and a straw hat are on a gray bench.
 A black backpack with a green logo, a newspaper, and a straw hat on a gray bench.
+An image with a book, a paper, two walls, a backpack, and a couch.
+An image with a backpack, a couch, two walls, a paper, and a book.
+An image with a backpack, two walls, a paper, a couch, and a book.
+An image with a backpack, two walls, a paper, a book, and a couch.
+An image with a paper, a couch, two walls, a book, and a backpack.

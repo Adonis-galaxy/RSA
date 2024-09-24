@@ -8,3 +8,8 @@ A long hallway with dark walls and windows.
 The image captures a long, narrow hallway with a series of doors on the left side, leading to a brightly lit room with a large window on the right side.
 The image shows a long, narrow hallway with dark walls and a carpeted floor, illuminated by overhead lights. The hallway is flanked by large windows on both sides, and there are doors on the right side. The perspective is from the end of the hallway, looking towards the entrance.
 The image shows a long, narrow hallway with a series of doors on the left side, leading to a brightly lit room with a yellow wall on the right.
+An image with a floor, a ceiling, a door, and a window.
+An image with a ceiling, a window, a floor, and a door.
+An image with a floor, a ceiling, a window, and a door.
+An image with a door, a floor, a ceiling, and a window.
+An image with a ceiling, a floor, a door, and a window.

@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a white van.
 The image captures a bustling city street, filled with parked cars and a delivery van, under a clear sky.
 The image shows a busy city street with a mix of parked and moving cars, a truck, and a building with a sign indicating a speed limit of 30.
 A busy city street with parked cars and a delivery van.
+An image with a building, a pavement, a grass, twelve cars, a road, four trucks, a tree, and a stop.
+An image with twelve cars, a road, a pavement, four trucks, a stop, a grass, a tree, and a building.
+An image with twelve cars, a stop, a building, a road, four trucks, a pavement, a grass, and a tree.
+An image with twelve cars, a tree, four trucks, a road, a grass, a pavement, a stop, and a building.
+An image with twelve cars, a building, a stop, a tree, a grass, four trucks, a road, and a pavement.

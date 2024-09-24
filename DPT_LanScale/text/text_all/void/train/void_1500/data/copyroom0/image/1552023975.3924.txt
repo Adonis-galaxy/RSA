@@ -8,3 +8,8 @@ A printer on a desk.
 A printer sits on a desk, with a stack of papers and a pair of scissors nearby.
 A white printer with a yellow paper on top of it, sitting on a beige counter.
 A white printer with a yellow paper on top of it, sitting on a beige countertop.
+An image with a counter, a paper, a scissors, a cabinet, and a wall.
+An image with a scissors, a cabinet, a wall, a paper, and a counter.
+An image with a wall, a paper, a scissors, a counter, and a cabinet.
+An image with a cabinet, a counter, a paper, a wall, and a scissors.
+An image with a wall, a cabinet, a scissors, a counter, and a paper.

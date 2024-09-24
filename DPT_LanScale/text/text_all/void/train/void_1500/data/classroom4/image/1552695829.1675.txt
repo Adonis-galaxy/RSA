@@ -8,3 +8,8 @@ A blurry image of a computer desk with two monitors, a laptop, a mouse, and a no
 A blurry image of a computer desk with two monitors, a laptop, a mouse, and a notebook.
 The image shows a wooden desk with two computer monitors, a laptop, a mouse, and a book.
 The image shows a wooden desk with two computer monitors, a laptop, a mouse, and a notebook.
+An image with a table, two mice, a book, a wall, a tv, a laptop, and a paper.
+An image with a paper, two mice, a tv, a laptop, a wall, a table, and a book.
+An image with two mice, a tv, a laptop, a wall, a paper, a table, and a book.
+An image with a laptop, two mice, a wall, a tv, a table, a book, and a paper.
+An image with a book, a paper, a tv, two mice, a laptop, a wall, and a table.

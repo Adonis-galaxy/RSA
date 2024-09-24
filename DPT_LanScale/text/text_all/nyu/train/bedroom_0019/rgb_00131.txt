@@ -8,3 +8,8 @@ A room with a bookshelf, a window, and a hat.
 The image captures a cozy corner of a room, featuring a bookshelf with a hat on top, a backpack on the floor, and a window with a curtain, all under the warm glow of a heater.
 The image shows a small room with a window, a bookshelf with a hat on top, a backpack on the floor, and a heater.
 A cluttered room with a window, a bookshelf, a hat, a backpack, a radiator, and a curtain.
+An image with a floor, two books, a backpack, a curtain, a wall, and a shelf.
+An image with a backpack, a wall, two books, a curtain, a floor, and a shelf.
+An image with a curtain, a wall, a backpack, two books, a shelf, and a floor.
+An image with two books, a backpack, a floor, a shelf, a curtain, and a wall.
+An image with two books, a wall, a floor, a curtain, a shelf, and a backpack.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building.
 A quiet residential street with parked cars and a lone vehicle driving away.
 The image shows a street scene with a large white building on the right, a row of parked cars on the left, a few trees in the middle, and a person riding a small vehicle in the foreground.
 A quiet residential street with parked cars, lined by trees and buildings, under a clear blue sky.
+An image with three trucks, six cars, a pavement, a road, a house, a sky, a tree, a roof, and a grass.
+An image with six cars, three trucks, a house, a pavement, a roof, a tree, a grass, a sky, and a road.
+An image with six cars, three trucks, a roof, a road, a house, a grass, a sky, a pavement, and a tree.
+An image with six cars, a road, three trucks, a pavement, a tree, a grass, a house, a sky, and a roof.
+An image with six cars, a road, a roof, a sky, a pavement, three trucks, a tree, a grass, and a house.

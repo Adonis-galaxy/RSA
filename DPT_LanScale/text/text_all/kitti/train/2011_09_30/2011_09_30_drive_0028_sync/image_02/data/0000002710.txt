@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A man riding a bicycle on a shaded street, with a park and trees in the background.
 A man riding a bicycle on a shaded street, with a large tree and a sign in the background.
 A man rides a bicycle on a shaded street, passing by a park with trees and a sign, and continues on a road with a sign indicating a park.
+An image with a sky, a bicycle, a tree, a road, a grass, and a person.
+An image with a tree, a grass, a road, a bicycle, a sky, and a person.
+An image with a bicycle, a road, a tree, a grass, a sky, and a person.
+An image with a road, a tree, a grass, a person, a bicycle, and a sky.
+An image with a road, a grass, a tree, a sky, a person, and a bicycle.

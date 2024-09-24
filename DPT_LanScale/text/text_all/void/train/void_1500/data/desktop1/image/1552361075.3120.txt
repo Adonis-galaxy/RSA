@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer desk with a keyboard, mouse, monitor, and a sombrero.
 A computer monitor on a desk with a keyboard, mouse, and a hat.
 A computer desk with a monitor, keyboard, mouse, and a straw hat.
+An image with a light, a table, a chair, a cardboard, a wall, a tv, a mouse, and a keyboard.
+An image with a light, a keyboard, a cardboard, a wall, a mouse, a tv, a table, and a chair.
+An image with a mouse, a tv, a wall, a cardboard, a light, a chair, a table, and a keyboard.
+An image with a chair, a table, a mouse, a light, a cardboard, a wall, a keyboard, and a tv.
+An image with a table, a cardboard, a light, a keyboard, a mouse, a tv, a chair, and a wall.

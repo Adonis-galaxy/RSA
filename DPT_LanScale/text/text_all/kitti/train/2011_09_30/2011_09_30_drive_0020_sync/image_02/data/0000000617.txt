@@ -8,3 +8,8 @@ The image shows a street with a white car parked on the side.
 A quiet residential street with a few parked cars, lined by trees and houses, under a clear blue sky.
 The image shows a residential street with a few parked cars, a white SUV driving down the road, and apartment buildings on both sides. The trees are small and green, and the sky is clear and blue.
 A quiet residential street with a mix of single-family homes and apartment buildings, lined with trees and parked cars.
+An image with five cars, a pavement, a truck, a fence, a grass, a tree, a road, and a house.
+An image with five cars, a fence, a road, a grass, a pavement, a house, a tree, and a truck.
+An image with five cars, a road, a pavement, a house, a fence, a truck, a tree, and a grass.
+An image with five cars, a road, a tree, a pavement, a house, a grass, a truck, and a fence.
+An image with a road, five cars, a tree, a house, a pavement, a truck, a fence, and a grass.

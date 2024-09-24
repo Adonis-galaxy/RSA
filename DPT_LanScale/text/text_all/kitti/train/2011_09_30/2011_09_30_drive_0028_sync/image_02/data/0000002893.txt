@@ -8,3 +8,8 @@ A person walking on a street.
 A quiet, tree-lined street with a few pedestrians and parked cars, under a clear sky.
 A person is walking down a tree-lined street, passing by a red and white yield sign and a white mailbox.
 A quiet, tree-lined street with a few pedestrians and parked cars, leading to a large building.
+An image with a bicycle, a pavement, a handbag, five cars, three people, a grass, a building, a road, a tree, and a sky.
+An image with a sky, five cars, three people, a pavement, a grass, a bicycle, a handbag, a tree, a building, and a road.
+An image with a pavement, five cars, three people, a handbag, a bicycle, a grass, a building, a road, a tree, and a sky.
+An image with a road, five cars, a building, three people, a grass, a handbag, a sky, a pavement, a tree, and a bicycle.
+An image with a building, three people, a sky, a handbag, five cars, a pavement, a road, a grass, a bicycle, and a tree.

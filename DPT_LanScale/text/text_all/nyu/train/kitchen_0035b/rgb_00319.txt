@@ -8,3 +8,8 @@ The image shows a hallway with two closed doors.
 The image shows a hallway with two doors, one leading to a room with a door that is open, and the other leading to a room with a door that is closed.
 The image shows a narrow hallway with two closed white doors, a light blue wall, and a tiled floor.
 The image shows a hallway with two doors, one on each side, and a light switch on the wall between them.
+An image with a floor, a chair, a wall, and a door.
+An image with a floor, a wall, a door, and a chair.
+An image with a wall, a chair, a door, and a floor.
+An image with a chair, a door, a wall, and a floor.
+An image with a wall, a floor, a chair, and a door.

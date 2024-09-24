@@ -8,3 +8,8 @@ A winding road through a forest.
 A winding road through a lush green forest, with a person walking on the side.
 A winding road through a forested area, with a person walking on the sidewalk.
 A winding road through a forested area, with a person walking on the sidewalk.
+An image with a road, a pavement, a sky, a person, a tree, and a grass.
+An image with a grass, a person, a tree, a sky, a pavement, and a road.
+An image with a road, a sky, a grass, a person, a tree, and a pavement.
+An image with a tree, a pavement, a sky, a person, a road, and a grass.
+An image with a tree, a sky, a grass, a pavement, a road, and a person.

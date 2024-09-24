@@ -8,3 +8,8 @@ A black piano in a room.
 A dark piano with a lit candle on the bench, sitting in a room with a blue wall and wooden floor.
 A small black piano with a bench in a room with a blue wall and wooden floor.
 A dark piano with a bench in a room with a blue wall and wooden floor.
+An image with a wall, a chair, a floor, and a bowl.
+An image with a bowl, a wall, a chair, and a floor.
+An image with a floor, a chair, a bowl, and a wall.
+An image with a chair, a wall, a floor, and a bowl.
+An image with a chair, a bowl, a wall, and a floor.

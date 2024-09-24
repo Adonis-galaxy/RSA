@@ -8,3 +8,8 @@ The image shows a tree-lined street with a red and white sign.
 A quiet, tree-lined street with a clear path ahead.
 The image shows a tree-lined street with a red and white sign on the right side, a blue and white sign on the left side, and a house in the background.
 A tree-lined street with a red and white sign on the right side, leading to a house with a white roof and a garden.
+An image with a sky, a road, a tree, a stop, and a grass.
+An image with a grass, a tree, a sky, a stop, and a road.
+An image with a sky, a road, a grass, a tree, and a stop.
+An image with a stop, a road, a tree, a grass, and a sky.
+An image with a grass, a stop, a tree, a road, and a sky.

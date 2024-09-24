@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 A quiet suburban street, with a car driving away from a train station, under a clear blue sky.
 A large black car is driving down a tree-lined street with a train track running parallel to it.
 A quiet suburban street with a few cars, a train track, and a clear blue sky.
+An image with six cars, a railroad, a sky, a road, a airplane, a traffic, a house, a grass, and a tree.
+An image with a road, a traffic, six cars, a grass, a airplane, a sky, a tree, a house, and a railroad.
+An image with a sky, six cars, a tree, a airplane, a house, a traffic, a road, a railroad, and a grass.
+An image with a railroad, six cars, a tree, a sky, a grass, a house, a road, a airplane, and a traffic.
+An image with six cars, a house, a traffic, a airplane, a road, a grass, a railroad, a tree, and a sky.

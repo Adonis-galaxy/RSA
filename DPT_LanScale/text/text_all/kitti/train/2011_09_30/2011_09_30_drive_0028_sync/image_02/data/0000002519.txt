@@ -8,3 +8,8 @@ The image shows a street scene with cars, a bicycle, and houses.
 The image captures a quiet residential street with a few parked cars, a bicycle, and a house with a distinctive gable roof.
 The image shows a residential street with a few cars, a bicycle, and a house.
 A quiet residential street with parked cars, a bicycle, and a few pedestrians, lined with houses and trees.
+An image with a grass, a sky, four cars, a person, a tree, a house, a bicycle, and a road.
+An image with a house, four cars, a bicycle, a grass, a road, a person, a sky, and a tree.
+An image with a tree, four cars, a person, a bicycle, a house, a sky, a grass, and a road.
+An image with a person, a sky, a road, four cars, a grass, a bicycle, a house, and a tree.
+An image with four cars, a person, a house, a bicycle, a road, a sky, a tree, and a grass.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with parked cars and bicycles, under a clear blue sky.
 The image shows a narrow street lined with houses, trees, and parked cars, with a person standing next to a bicycle.
 A quiet residential street with parked cars, bicycles, and a person, under a clear blue sky.
+An image with a house, four cars, a grass, a pavement, two people, a road, a tree, a bicycle, a sky, a wall, and a mountain.
+An image with a pavement, a road, two people, a mountain, a sky, a bicycle, four cars, a grass, a tree, a house, and a wall.
+An image with a wall, four cars, a pavement, a mountain, a tree, a house, a sky, two people, a grass, a road, and a bicycle.
+An image with a wall, a sky, four cars, a bicycle, two people, a tree, a pavement, a house, a mountain, a grass, and a road.
+An image with a grass, a pavement, two people, a sky, four cars, a bicycle, a wall, a tree, a mountain, a road, and a house.

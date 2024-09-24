@@ -8,3 +8,8 @@ The image shows a street with multiple traffic lights and railroad crossing sign
 The image captures a clear day with a long, empty road leading towards a forest, flanked by traffic lights and railroad crossings, suggesting a journey through a rural area with minimal traffic.
 The image shows a wide, empty road with multiple traffic lights and railroad crossing signs, all appearing small due to the perspective of the photo.
 The image shows a wide, empty road with multiple traffic lights and railroad crossing signs, indicating a well-regulated transportation system.
+An image with five traffics, a sky, a tree, a building, a road, a bus, a pavement, a grass, and a car.
+An image with five traffics, a pavement, a car, a tree, a road, a bus, a grass, a sky, and a building.
+An image with five traffics, a road, a car, a building, a sky, a pavement, a tree, a grass, and a bus.
+An image with a building, five traffics, a car, a pavement, a grass, a sky, a road, a tree, and a bus.
+An image with a car, five traffics, a grass, a pavement, a road, a tree, a building, a bus, and a sky.

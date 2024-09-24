@@ -8,3 +8,8 @@ A yellow pipe is attached to a sink.
 A yellow pipe is connected to a sink, and a green hose is connected to the pipe.
 The image shows a small sink with a faucet and a hose attached to it, located in a corner of a room with a yellow pipe running along the wall.
 The image shows a small, compact kitchen with a sink, a yellow pipe, and a red cabinet.
+An image with a sink, a counter, a cabinet, a wall, and a floor.
+An image with a wall, a cabinet, a counter, a sink, and a floor.
+An image with a cabinet, a sink, a counter, a wall, and a floor.
+An image with a sink, a cabinet, a floor, a counter, and a wall.
+An image with a floor, a wall, a sink, a counter, and a cabinet.

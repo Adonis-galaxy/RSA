@@ -8,3 +8,8 @@ The image shows an office space with rows of desks and chairs.
 The image captures an empty conference room with a long table and multiple chairs, all facing the same direction, ready for a meeting or presentation.
 The image shows an indoor space with a large number of empty desks and chairs, a long counter, and a high ceiling with recessed lighting.
 The image shows an empty room with a long table surrounded by multiple chairs, a counter, and a row of windows.
+An image with twelve chairs, a cabinet, a floor, a table, a tv, a ceiling, a wall, a window, a door, and a dining.
+An image with twelve chairs, a cabinet, a window, a table, a dining, a door, a ceiling, a wall, a tv, and a floor.
+An image with a wall, a window, twelve chairs, a cabinet, a door, a table, a dining, a tv, a ceiling, and a floor.
+An image with twelve chairs, a wall, a dining, a floor, a window, a door, a tv, a cabinet, a table, and a ceiling.
+An image with a dining, a cabinet, twelve chairs, a table, a ceiling, a tv, a floor, a wall, a door, and a window.

@@ -8,3 +8,8 @@ A classroom with desks and chairs.
 The image depicts an organized classroom with a teacher's desk, chairs, and a window, all arranged to facilitate learning and teaching.
 The image shows a classroom with a large desk, several chairs, and a window with blinds.
 The image shows a classroom with a teacher's desk, multiple desks for students, and a window with blinds.
+An image with a tv, eight chairs, nine books, a shelf, a table, a cabinet, a wall, two potteds, a window, a paper, and a rug.
+An image with eight chairs, nine books, a shelf, a table, two potteds, a rug, a cabinet, a paper, a window, a tv, and a wall.
+An image with nine books, two potteds, a tv, eight chairs, a shelf, a rug, a table, a window, a cabinet, a paper, and a wall.
+An image with a tv, a rug, eight chairs, a shelf, two potteds, nine books, a paper, a cabinet, a table, a window, and a wall.
+An image with a rug, nine books, two potteds, eight chairs, a paper, a cabinet, a wall, a shelf, a window, a tv, and a table.

@@ -8,3 +8,8 @@ A blue ping pong table in a room.
 The image captures a well-lit room with a ping pong table in the center, surrounded by chairs and tables, creating a space for social interaction and recreational activities.
 The image shows a room with two ping pong tables, each with a net and surrounded by chairs, and a bookshelf filled with books in the background.
 The image shows an indoor setting with a ping pong table in the foreground, surrounded by chairs and tables, with a bookshelf and a window in the background.
+An image with a rug, sixteen books, a shelf, six chairs, a net, a ceiling, a wall, a curtain, a window, a couch, and a dining.
+An image with sixteen books, a window, six chairs, a shelf, a curtain, a ceiling, a net, a wall, a rug, a dining, and a couch.
+An image with sixteen books, a rug, six chairs, a curtain, a dining, a ceiling, a couch, a wall, a shelf, a window, and a net.
+An image with a wall, sixteen books, six chairs, a net, a ceiling, a window, a couch, a shelf, a curtain, a rug, and a dining.
+An image with a shelf, six chairs, sixteen books, a net, a ceiling, a wall, a dining, a window, a curtain, a couch, and a rug.

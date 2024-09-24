@@ -8,3 +8,8 @@ A computer desk with a black monitor, keyboard, and mouse.
 A computer desk with a black monitor, keyboard, and mouse on it, and a blue chair underneath.
 A small white desk with a black computer monitor, keyboard, and mouse on it, and a blue chair tucked under.
 A computer desk with a black monitor, keyboard, and mouse, and a blue chair.
+An image with two tvs, a floor, a mouse, a wall, a curtain, a table, a keyboard, and a chair.
+An image with a mouse, a chair, two tvs, a wall, a floor, a keyboard, a curtain, and a table.
+An image with a chair, a mouse, two tvs, a floor, a curtain, a table, a wall, and a keyboard.
+An image with a curtain, a floor, a wall, two tvs, a table, a keyboard, a mouse, and a chair.
+An image with a wall, two tvs, a chair, a keyboard, a table, a mouse, a floor, and a curtain.

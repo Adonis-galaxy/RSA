@@ -8,3 +8,8 @@ A set of four chairs and a table in a room.
 A set of four chairs arranged around a round table, creating a cozy seating area in a room with a tiled floor.
 A set of four chairs and a table are arranged around a small round table on a tiled floor.
 A set of four chairs with a round table in the center, arranged in a square formation on a tiled floor.
+An image with two walls, four chairs, a window, a dining, a potted, and a floor.
+An image with four chairs, two walls, a floor, a potted, a dining, and a window.
+An image with four chairs, a potted, two walls, a dining, a floor, and a window.
+An image with a floor, four chairs, a dining, a window, two walls, and a potted.
+An image with four chairs, a window, two walls, a potted, a dining, and a floor.

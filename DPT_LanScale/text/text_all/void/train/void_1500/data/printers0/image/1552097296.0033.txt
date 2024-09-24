@@ -8,3 +8,8 @@ Two printers on a table.
 Two printers on a table, one is black and white, the other is black and gray.
 Two large printers on a table.
 The image shows two printers on a table, with a cord running between them.
+An image with a table, a wall, a floor, and a paper.
+An image with a floor, a paper, a wall, and a table.
+An image with a table, a wall, a paper, and a floor.
+An image with a paper, a wall, a floor, and a table.
+An image with a floor, a table, a wall, and a paper.

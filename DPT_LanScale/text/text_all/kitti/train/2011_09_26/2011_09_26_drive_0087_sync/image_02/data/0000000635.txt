@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, a yellow car parked on the si
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a green sign indicating a pedestrian crossing, and a white building with a black gate, all under a clear blue sky.
 The image shows a narrow street with a curved road, lined with houses and trees, and a yellow car parked on the side.
 A quiet residential street with a curved road, lined with houses, trees, and a parked car.
+An image with a house, a tree, two walls, a pavement, a sky, a road, a fence, and a bus.
+An image with a tree, a sky, two walls, a fence, a road, a house, a bus, and a pavement.
+An image with a fence, a pavement, two walls, a road, a bus, a house, a sky, and a tree.
+An image with a sky, a road, a bus, a tree, a pavement, a fence, two walls, and a house.
+An image with a house, a fence, a sky, a tree, two walls, a road, a pavement, and a bus.

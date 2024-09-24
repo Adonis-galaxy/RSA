@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a red van.
 The image captures a typical day in a suburban neighborhood, with a red van parked on the side of a street lined with parked cars and a sidewalk, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a red van, with a clear blue sky overhead.
 A narrow street in a residential area with parked cars and a red van driving down it.
+An image with a sky, nine cars, a pavement, a tree, a bus, a traffic, and a road.
+An image with a tree, nine cars, a bus, a road, a sky, a pavement, and a traffic.
+An image with a tree, a traffic, a sky, nine cars, a road, a pavement, and a bus.
+An image with a sky, a bus, a pavement, nine cars, a tree, a road, and a traffic.
+An image with nine cars, a bus, a sky, a traffic, a tree, a road, and a pavement.

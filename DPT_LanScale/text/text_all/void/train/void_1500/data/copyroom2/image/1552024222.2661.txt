@@ -8,3 +8,8 @@ The image shows a desk with various items on it, including papers, a printer, an
 The image shows a desk with various items on it, including papers, a printer, and a computer monitor.
 The image shows a desk with a computer monitor, a printer, and some papers.
 The image shows a desk with various items on it, including papers, a printer, and a computer monitor.
+An image with a wall, a paper, a tv, and a floor.
+An image with a floor, a wall, a tv, and a paper.
+An image with a tv, a wall, a floor, and a paper.
+An image with a tv, a floor, a paper, and a wall.
+An image with a paper, a wall, a tv, and a floor.

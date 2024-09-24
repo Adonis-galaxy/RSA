@@ -8,3 +8,8 @@ The image shows a street scene with a woman riding a bicycle.
 A woman riding a bicycle on a tree-lined street, with parked cars and a truck on the side, and apartment buildings in the background.
 A woman rides a bicycle on a narrow street lined with parked cars and trucks, with trees providing shade and a clear sky overhead.
 A woman rides a bicycle down a narrow, tree-lined street between parked cars and buildings, with a sign indicating a nearby business.
+An image with twelve cars, a sky, a truck, four people, a road, a building, a wall, a tree, a bicycle, and a pavement.
+An image with twelve cars, a truck, a pavement, a road, four people, a bicycle, a wall, a building, a tree, and a sky.
+An image with twelve cars, a sky, a tree, a road, a bicycle, a pavement, four people, a wall, a truck, and a building.
+An image with twelve cars, four people, a sky, a building, a wall, a truck, a tree, a bicycle, a road, and a pavement.
+An image with a pavement, twelve cars, four people, a wall, a sky, a tree, a building, a truck, a road, and a bicycle.

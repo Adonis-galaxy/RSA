@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it, a blue chair, a straw hat, and 
 The image shows a room with a whiteboard, a blue chair, a straw hat, and a cardboard box.
 The image shows a room with a whiteboard, a blue chair, a straw hat, and some boxes in the background.
 The image shows a room with a whiteboard, a blue chair, a straw hat, and some boxes in the background.
+An image with a umbrella, a floor, a tv, a cabinet, a wall, a chair, and a cardboard.
+An image with a floor, a cabinet, a wall, a tv, a cardboard, a umbrella, and a chair.
+An image with a floor, a cabinet, a wall, a cardboard, a chair, a umbrella, and a tv.
+An image with a umbrella, a floor, a cabinet, a cardboard, a chair, a wall, and a tv.
+An image with a tv, a floor, a umbrella, a cardboard, a chair, a wall, and a cabinet.

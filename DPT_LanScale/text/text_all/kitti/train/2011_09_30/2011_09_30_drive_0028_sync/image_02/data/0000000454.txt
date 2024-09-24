@@ -8,3 +8,8 @@ A narrow street between two houses.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac.
 The image shows a narrow street lined with houses and trees, with a blue trash can on the sidewalk and a car parked on the street.
 A narrow, tree-lined street in a residential area, with houses on both sides and a blue trash bin on the sidewalk.
+An image with a window, two cars, a sky, a fence, a pavement, a road, a tree, a house, and a wall.
+An image with a sky, a pavement, two cars, a road, a house, a wall, a fence, a window, and a tree.
+An image with a road, two cars, a wall, a house, a sky, a pavement, a tree, a fence, and a window.
+An image with a wall, a sky, two cars, a road, a house, a pavement, a tree, a window, and a fence.
+An image with a tree, a pavement, two cars, a fence, a wall, a window, a house, a sky, and a road.

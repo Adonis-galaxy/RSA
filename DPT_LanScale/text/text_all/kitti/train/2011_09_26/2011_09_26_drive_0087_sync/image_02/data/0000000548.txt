@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A narrow, tree-lined alleyway between two white buildings, with a yellow car parked at the end of the road.
 The image shows a narrow alleyway between two white buildings, with a tree on the right side and a car parked on the left side.
 A narrow, tree-lined street between two rows of houses, with a car parked at the end.
+An image with a tree, a window, a road, a stairs, two cars, a sky, a door, a wall, and a house.
+An image with a road, a sky, two cars, a window, a door, a wall, a tree, a stairs, and a house.
+An image with a road, two cars, a sky, a wall, a stairs, a tree, a window, a house, and a door.
+An image with two cars, a stairs, a window, a door, a wall, a tree, a sky, a house, and a road.
+An image with two cars, a tree, a door, a window, a wall, a road, a stairs, a house, and a sky.

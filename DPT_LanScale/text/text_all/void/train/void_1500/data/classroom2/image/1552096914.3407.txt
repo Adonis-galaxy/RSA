@@ -8,3 +8,8 @@ The image shows a room with several black chairs and a wooden desk.
 The image shows a room with several black chairs and a wooden desk, all arranged in a circular pattern.
 The image shows a room with several black chairs and a single wooden desk.
 The image shows a room with several black chairs and a single wooden desk, all arranged in a circular pattern on a tiled floor.
+An image with eight chairs, a dining, a person, a wall, and a floor.
+An image with a dining, eight chairs, a person, a floor, and a wall.
+An image with eight chairs, a person, a dining, a floor, and a wall.
+An image with eight chairs, a wall, a floor, a person, and a dining.
+An image with eight chairs, a dining, a person, a wall, and a floor.

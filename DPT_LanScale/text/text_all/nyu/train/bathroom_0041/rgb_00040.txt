@@ -8,3 +8,8 @@ A person's leg is visible in the foreground of the image.
 The image captures a serene and luxurious bathroom, featuring a large window with a frosted glass design, a bathtub, a sink, and a clock on the wall, all set against a backdrop of a well-lit room.
 The image shows a large, luxurious bathroom with a spacious shower, a large mirror, a sink, and a large window with a decorative glass panel.
 The image shows a luxurious bathroom with a large window, a bathtub, a shower, a sink, and a clock on the wall.
+An image with a rug, a couch, two windows, two sinks, a floor, a clock, a cabinet, a ceiling, and a wall.
+An image with two windows, a wall, two sinks, a clock, a floor, a ceiling, a cabinet, a rug, and a couch.
+An image with two sinks, two windows, a rug, a wall, a ceiling, a clock, a cabinet, a floor, and a couch.
+An image with two windows, a floor, a ceiling, a rug, two sinks, a wall, a clock, a cabinet, and a couch.
+An image with a wall, two sinks, a floor, a couch, two windows, a rug, a ceiling, a cabinet, and a clock.

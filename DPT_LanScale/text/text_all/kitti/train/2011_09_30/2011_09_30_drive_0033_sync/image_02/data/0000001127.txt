@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quaint, tree-lined street in a residential area, with a crosswalk and traffic lights guiding the flow of vehicles and pedestrians.
 The image shows a narrow street with a crosswalk, lined by houses and trees, and a few cars parked or moving along the road.
 The image depicts a narrow street in a residential area with a crosswalk, parked cars, and a mix of houses and buildings.
+An image with a house, a pavement, four people, a wall, a road, four cars, a tree, a fence, and a backpack.
+An image with a road, a backpack, four people, a tree, a house, four cars, a wall, a pavement, and a fence.
+An image with a pavement, four people, four cars, a road, a wall, a fence, a house, a backpack, and a tree.
+An image with four cars, four people, a pavement, a tree, a house, a wall, a fence, a road, and a backpack.
+An image with a road, four people, four cars, a pavement, a wall, a fence, a house, a tree, and a backpack.

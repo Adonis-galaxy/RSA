@@ -8,3 +8,8 @@ A white garage with a door on the side of a road.
 A white garage with a single door, situated on a street corner, adjacent to a residential area with houses and trees.
 A small white garage with a single door, located on a narrow street between two houses, with a car parked on the side of the road.
 A white garage with a single door, situated on a curved driveway, adjacent to a residential area with houses and trees.
+An image with a sky, a tree, a road, and a building.
+An image with a tree, a building, a sky, and a road.
+An image with a tree, a building, a road, and a sky.
+An image with a road, a tree, a sky, and a building.
+An image with a sky, a road, a tree, and a building.

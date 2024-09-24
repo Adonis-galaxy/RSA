@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 A quiet residential street with a mix of old and new, where the sun casts long shadows and the sidewalk is empty.
 The image shows a tree-lined street with a sidewalk, a grassy area, and a row of houses in the background. There are also some vehicles parked along the street.
 A tree-lined street with a paved pathway, parked vehicles, and a row of houses in the background.
+An image with three trucks, three cars, a road, a grass, a pavement, a tree, a house, and a sky.
+An image with a road, a grass, three cars, three trucks, a sky, a pavement, a house, and a tree.
+An image with a road, a pavement, a house, three trucks, a tree, a sky, a grass, and three cars.
+An image with a house, three trucks, three cars, a pavement, a sky, a tree, a grass, and a road.
+An image with a tree, a road, a pavement, a grass, three trucks, three cars, a house, and a sky.

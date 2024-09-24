@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a sidewalk.
 The image captures a serene residential street, where a parked silver car is situated on the side of the road, adjacent to a white wall and a line of trees, with a glimpse of a blue sky and a distant building.
 A narrow street with parked cars, lined by trees and buildings, leading to a wider road.
 A narrow, tree-lined street with parked cars and a single vehicle driving away.
+An image with a wall, three cars, a sky, a pavement, a tree, and a road.
+An image with three cars, a pavement, a sky, a wall, a tree, and a road.
+An image with a road, three cars, a sky, a wall, a pavement, and a tree.
+An image with a sky, a pavement, three cars, a tree, a road, and a wall.
+An image with three cars, a road, a wall, a sky, a pavement, and a tree.

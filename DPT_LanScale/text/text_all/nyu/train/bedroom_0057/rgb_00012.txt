@@ -8,3 +8,8 @@ A bedroom with a bed, nightstand, and lamp.
 The image captures a cozy bedroom scene with a neatly made bed, a nightstand with a lamp, a chair, and a window.
 The image shows a small bedroom with a large bed, a nightstand, a chair, and a lamp.
 The image shows a neatly arranged bedroom with a bed, nightstand, dresser, and a chair, all placed on a carpeted floor.
+An image with six books, a rug, a bed, a cabinet, a light, and a wall.
+An image with a rug, six books, a light, a wall, a cabinet, and a bed.
+An image with a cabinet, six books, a wall, a bed, a rug, and a light.
+An image with a cabinet, six books, a wall, a bed, a light, and a rug.
+An image with a light, a wall, six books, a rug, a bed, and a cabinet.

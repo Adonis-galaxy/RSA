@@ -8,3 +8,8 @@ A narrow, tree-lined street between two houses.
 A quiet residential street, lined with houses and trees, leading to a white building with a red trash can.
 The image shows a narrow, tree-lined street between two-story houses, with a red trash can on the right side.
 A narrow, tree-lined street with houses on both sides, leading to a white building with a black roof.
+An image with a wall, a roof, a house, a fence, a tree, a sky, a door, a grass, and a pavement.
+An image with a grass, a tree, a pavement, a house, a fence, a sky, a wall, a roof, and a door.
+An image with a roof, a sky, a house, a tree, a door, a grass, a pavement, a wall, and a fence.
+An image with a sky, a fence, a tree, a wall, a pavement, a roof, a door, a house, and a grass.
+An image with a fence, a tree, a wall, a door, a house, a sky, a grass, a roof, and a pavement.

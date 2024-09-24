@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white building.
 The image captures a busy street scene with parked cars, a white building, and a clear blue sky.
 The image shows a street scene with a large white building, several parked cars, a white van, a black car, a black truck, and a white truck.
 The image shows a street scene with parked cars, a white building with a black roof, a yellow building with a red roof, and a white van parked in front of a store.
+An image with four trucks, a road, six cars, a house, a sky, and a tree.
+An image with a road, four trucks, six cars, a sky, a house, and a tree.
+An image with four trucks, six cars, a tree, a sky, a house, and a road.
+An image with six cars, four trucks, a tree, a sky, a road, and a house.
+An image with four trucks, a sky, a tree, six cars, a road, and a house.

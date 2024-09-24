@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a typical day in a residential area, with parked cars lining the street and apartment buildings in the background.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear blue sky overhead.
 A narrow street in a residential area with parked cars and buildings on both sides.
+An image with seven cars, a door, a road, a roof, a wall, a pavement, a truck, a window, and a tree.
+An image with a door, seven cars, a tree, a roof, a pavement, a truck, a window, a road, and a wall.
+An image with a pavement, seven cars, a roof, a window, a road, a truck, a tree, a door, and a wall.
+An image with a roof, seven cars, a truck, a wall, a road, a door, a tree, a window, and a pavement.
+An image with seven cars, a pavement, a truck, a window, a tree, a road, a door, a wall, and a roof.

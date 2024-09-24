@@ -8,3 +8,8 @@ A blurry image of a white printer in a green room.
 A cardboard box sits on a green floor next to a white printer.
 The image shows a small room with a white printer, a cardboard box, and a green wall.
 The image shows a room with a green wall, a white printer, and a cardboard box on a green table.
+An image with a floor, a cabinet, a light, a wall, a paper, and a cardboard.
+An image with a floor, a cabinet, a paper, a light, a wall, and a cardboard.
+An image with a floor, a wall, a paper, a cardboard, a light, and a cabinet.
+An image with a floor, a paper, a wall, a light, a cabinet, and a cardboard.
+An image with a light, a cardboard, a wall, a paper, a cabinet, and a floor.

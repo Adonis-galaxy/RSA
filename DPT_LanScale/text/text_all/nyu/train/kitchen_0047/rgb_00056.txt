@@ -8,3 +8,8 @@ A kitchen with a window above the sink.
 The image captures a well-organized kitchen with a focus on the sink area, featuring white cabinets, a black countertop, and a window that lets in natural light.
 The image shows a small kitchen with white cabinets, a window, a sink, a stove, and a dishwasher.
 The image shows a kitchen with a sink, a window, white cabinets, and a countertop.
+An image with a cabinet, two sinks, a counter, a window, a wall, and a paper.
+An image with a counter, a cabinet, a window, two sinks, a wall, and a paper.
+An image with a counter, a window, a paper, two sinks, a wall, and a cabinet.
+An image with two sinks, a window, a paper, a cabinet, a wall, and a counter.
+An image with a wall, a window, a cabinet, a counter, a paper, and two sinks.

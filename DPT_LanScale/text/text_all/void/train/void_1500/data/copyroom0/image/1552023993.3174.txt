@@ -8,3 +8,8 @@ The image shows a desk with a printer, a black object, and a white paper.
 The image shows a desk with a printer, a black object, and a white paper on the wall.
 The image shows a small desk with a black stapler, a white paper, and a black binder on it.
 The image shows a desk with a printer, a black object, and a paper on the wall.
+An image with a mouse, a paper, a table, a laptop, and a wall.
+An image with a laptop, a wall, a paper, a mouse, and a table.
+An image with a wall, a laptop, a mouse, a paper, and a table.
+An image with a laptop, a table, a paper, a mouse, and a wall.
+An image with a table, a mouse, a paper, a laptop, and a wall.

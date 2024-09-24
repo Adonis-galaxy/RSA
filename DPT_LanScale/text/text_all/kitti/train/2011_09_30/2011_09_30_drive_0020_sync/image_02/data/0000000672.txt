@@ -8,3 +8,8 @@ The image shows a white car on a street.
 A white car is parked on the side of a street in a residential area, with a large billboard and houses in the background.
 A small white car is driving down a quiet residential street, passing by a large billboard and parked in front of a house with a red roof.
 A white car is driving down a quiet residential street, passing by a large billboard and parked cars, with houses and trees lining the road.
+An image with a sky, a stop, a car, a fence, a house, a pavement, a roof, a road, a tree, and a grass.
+An image with a sky, a road, a pavement, a roof, a stop, a grass, a fence, a house, a car, and a tree.
+An image with a sky, a car, a roof, a tree, a grass, a stop, a road, a pavement, a house, and a fence.
+An image with a roof, a tree, a sky, a grass, a car, a stop, a house, a fence, a road, and a pavement.
+An image with a house, a sky, a tree, a grass, a stop, a pavement, a road, a roof, a car, and a fence.

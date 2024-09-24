@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, lined with houses and trees, where a few cars are parked, and the sun casts a warm glow on the asphalt, creating a peaceful and inviting atmosphere.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 The image depicts a quiet residential street with parked cars, lined by houses and trees, leading to a cul-de-sac.
+An image with five cars, a bicycle, a house, a grass, a tree, a pavement, a sky, and a road.
+An image with a bicycle, a tree, a road, five cars, a grass, a pavement, a sky, and a house.
+An image with five cars, a grass, a house, a pavement, a sky, a bicycle, a tree, and a road.
+An image with five cars, a grass, a house, a road, a sky, a tree, a pavement, and a bicycle.
+An image with a grass, a tree, five cars, a bicycle, a road, a sky, a pavement, and a house.

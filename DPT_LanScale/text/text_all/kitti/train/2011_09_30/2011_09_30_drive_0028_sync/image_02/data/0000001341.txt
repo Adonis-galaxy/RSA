@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A tree-lined street in a residential area, with a car parked on the side and a house in the background.
 The image depicts a tree-lined street with a car parked on the side, a white house in the background, and a sign indicating a one-way street.
 A tree-lined street with a car parked on the side, leading to a white house with a blue sign.
+An image with three cars, a house, a grass, a tree, a sky, and a road.
+An image with a grass, a house, three cars, a sky, a road, and a tree.
+An image with a sky, a road, three cars, a grass, a tree, and a house.
+An image with three cars, a sky, a tree, a grass, a house, and a road.
+An image with a house, a grass, three cars, a sky, a road, and a tree.

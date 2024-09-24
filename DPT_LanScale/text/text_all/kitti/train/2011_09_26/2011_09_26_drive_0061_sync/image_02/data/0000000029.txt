@@ -8,3 +8,8 @@ A white truck is parked on the side of a tree-lined street.
 A narrow street between two buildings, with a truck parked on the right side and a tree-lined sidewalk on the left.
 A large truck is driving down a narrow street between two buildings, with trees lining the sides.
 A narrow street between two buildings, lined with trees and a parked truck.
+An image with a wall, a tree, a grass, a truck, a pavement, a road, two cars, and a house.
+An image with a grass, two cars, a truck, a wall, a road, a pavement, a tree, and a house.
+An image with a wall, two cars, a house, a grass, a road, a tree, a truck, and a pavement.
+An image with a house, two cars, a grass, a truck, a tree, a pavement, a road, and a wall.
+An image with a house, two cars, a road, a grass, a truck, a tree, a wall, and a pavement.

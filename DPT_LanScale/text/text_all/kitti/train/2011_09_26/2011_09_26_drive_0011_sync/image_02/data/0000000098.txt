@@ -8,3 +8,8 @@ The image shows a street scene with a black car driving on a road.
 The image captures a typical day on a suburban street, with cars driving on a divided road, traffic lights controlling the flow, and pedestrians navigating the sidewalks.
 The image shows a wide street with a black car driving on it, surrounded by trees and buildings, with traffic lights and signs indicating a busy urban area.
 The image depicts a busy city street with multiple lanes, traffic lights, and a crosswalk, all under a clear blue sky.
+An image with a road, four traffics, a building, eight cars, a person, a sky, a tree, and a grass.
+An image with four traffics, eight cars, a sky, a tree, a grass, a building, a person, and a road.
+An image with a grass, eight cars, a road, a person, a building, four traffics, a tree, and a sky.
+An image with a tree, eight cars, a sky, a building, a road, four traffics, a grass, and a person.
+An image with eight cars, a sky, a tree, four traffics, a grass, a road, a building, and a person.

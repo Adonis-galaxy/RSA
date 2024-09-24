@@ -8,3 +8,8 @@ The image shows a staircase with a blue wall in the background.
 The image shows a staircase with a white railing and a blue wall, taken from a low angle.
 The image shows a staircase with a white railing and a blue wall, taken from a low angle.
 The image shows a staircase with a white railing leading up to a blue wall.
+An image with a floor, a wall, a door, and a fence.
+An image with a fence, a floor, a door, and a wall.
+An image with a door, a fence, a floor, and a wall.
+An image with a floor, a wall, a fence, and a door.
+An image with a wall, a door, a fence, and a floor.

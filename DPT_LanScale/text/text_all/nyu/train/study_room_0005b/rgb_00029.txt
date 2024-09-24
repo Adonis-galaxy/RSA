@@ -8,3 +8,8 @@ The image shows an office space with rows of desks and chairs.
 The image captures an office space with a large open area featuring a long counter, multiple tables, and rows of chairs, all under a high ceiling with recessed lighting.
 The image shows an office space with a large room containing multiple tables and chairs, some of which are empty.
 The image shows an office space with a large open area featuring multiple rows of desks and chairs, a central island with a counter, and a high ceiling with recessed lighting.
+An image with twelve chairs, a ceiling, a wall, a floor, a door, a dining, a cabinet, a table, and a window.
+An image with a door, a ceiling, twelve chairs, a table, a wall, a window, a dining, a cabinet, and a floor.
+An image with twelve chairs, a dining, a table, a wall, a ceiling, a cabinet, a floor, a window, and a door.
+An image with twelve chairs, a window, a door, a floor, a cabinet, a wall, a table, a ceiling, and a dining.
+An image with a table, a wall, a cabinet, twelve chairs, a ceiling, a window, a door, a floor, and a dining.

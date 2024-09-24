@@ -8,3 +8,8 @@ A roll of paper leaning against a box.
 A large roll of paper leaning against a cardboard box in a room.
 A large roll of paper leaning against a cardboard box with an orange label on a white wall.
 A large roll of paper leaning against a cardboard box with a warning label on it, both sitting on the floor next to a wall.
+An image with a door, a wall, a microwave, a paper, a cardboard, and a floor.
+An image with a floor, a wall, a microwave, a paper, a door, and a cardboard.
+An image with a cardboard, a paper, a wall, a door, a microwave, and a floor.
+An image with a cardboard, a microwave, a door, a paper, a floor, and a wall.
+An image with a wall, a floor, a door, a paper, a cardboard, and a microwave.

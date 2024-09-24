@@ -8,3 +8,8 @@ The image shows an office space with a row of desks and chairs.
 The image captures an office environment with a focus on the arrangement of furniture and the presence of a large window.
 The image shows an office space with a large desk and several chairs, illuminated by overhead lights.
 The image shows an office space with a long counter, several chairs, and a row of desks, all under fluorescent lighting.
+An image with four chairs, a ceiling, a light, a floor, a tv, a sink, a table, a door, and a wall.
+An image with a door, four chairs, a tv, a light, a sink, a wall, a ceiling, a floor, and a table.
+An image with a door, a tv, a ceiling, a table, a wall, a floor, a sink, four chairs, and a light.
+An image with four chairs, a light, a ceiling, a sink, a tv, a table, a floor, a wall, and a door.
+An image with a ceiling, a table, a floor, a sink, four chairs, a door, a tv, a wall, and a light.

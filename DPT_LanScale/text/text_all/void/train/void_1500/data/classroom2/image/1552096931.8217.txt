@@ -8,3 +8,8 @@ A green trash can next to a door.
 A green trash can is placed next to a wooden door in a room with a wooden wall and a black chair.
 A green trash can is next to a wooden door in a room with a wooden wall and a black chair.
 The image shows a small room with a wooden door, a green trash can, a black chair with an orange table, and a wooden wall.
+An image with two walls, a door, a table, a floor, and a chair.
+An image with a table, a chair, a floor, a door, and two walls.
+An image with two walls, a floor, a table, a door, and a chair.
+An image with a chair, a door, two walls, a floor, and a table.
+An image with a floor, two walls, a table, a chair, and a door.

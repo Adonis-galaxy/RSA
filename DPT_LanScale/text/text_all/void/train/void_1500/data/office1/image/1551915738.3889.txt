@@ -8,3 +8,8 @@ A white coffee cup on a marble table.
 A black chair is positioned in front of a table with a white cup and a book on it.
 A black chair is pushed up to a white marble table with a white cup on it, and there are books and papers on the table.
 A black chair is positioned in front of a marble table with a white cup and a book on it.
+An image with four books, two chairs, a dining, a table, a cell, a couch, a wall, a window, and a cup.
+An image with a dining, four books, a cell, a table, two chairs, a window, a couch, a cup, and a wall.
+An image with four books, a table, a cell, two chairs, a couch, a window, a dining, a wall, and a cup.
+An image with four books, a cup, two chairs, a couch, a cell, a table, a window, a dining, and a wall.
+An image with four books, a wall, a cell, a couch, a cup, two chairs, a table, a dining, and a window.

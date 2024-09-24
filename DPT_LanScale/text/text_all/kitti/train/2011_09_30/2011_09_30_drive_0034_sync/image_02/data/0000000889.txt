@@ -8,3 +8,8 @@ The image shows a narrow street lined with buildings and trees.
 The image captures a quaint European alleyway, characterized by its narrowness, stone buildings, and the presence of a yellow sign on the sidewalk.
 The image shows a narrow street lined with buildings, a sidewalk, and a hedge.
 The image depicts a narrow street lined with buildings, trees, and a sidewalk, with a yellow sign on the sidewalk and a red sign on the building.
+An image with a pavement, two walls, a window, a potted, a house, a sky, a tree, and a flower.
+An image with a sky, two walls, a potted, a pavement, a house, a tree, a window, and a flower.
+An image with two walls, a potted, a flower, a house, a sky, a tree, a window, and a pavement.
+An image with a potted, a tree, a sky, two walls, a house, a flower, a window, and a pavement.
+An image with a tree, a pavement, a potted, a sky, two walls, a flower, a house, and a window.

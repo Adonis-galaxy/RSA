@@ -8,3 +8,8 @@ A blue chair in a room.
 A blue chair and a blue desk chair are sitting next to each other in a room.
 A blue chair and a blue desk chair are sitting next to each other in a room.
 The image shows a blue chair and a blue desk with a computer on it, all set against a white wall.
+An image with a table, two chairs, a keyboard, a tv, a floor, and a wall.
+An image with a wall, a tv, a table, a floor, a keyboard, and two chairs.
+An image with two chairs, a wall, a floor, a table, a tv, and a keyboard.
+An image with two chairs, a wall, a floor, a table, a keyboard, and a tv.
+An image with two chairs, a keyboard, a floor, a tv, a table, and a wall.

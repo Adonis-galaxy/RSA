@@ -8,3 +8,8 @@ A bedroom with a bed and a chair.
 A cozy, small bedroom with a single bed, a chair, and a nightstand.
 A small bedroom with a single bed, a chair, and a nightstand.
 A small, neatly arranged bedroom with a bed, chair, and nightstand.
+An image with a bed, a shelf, a floor, a wall, a vase, a chair, and a window.
+An image with a wall, a floor, a shelf, a window, a bed, a vase, and a chair.
+An image with a wall, a shelf, a floor, a window, a bed, a chair, and a vase.
+An image with a vase, a bed, a wall, a window, a floor, a shelf, and a chair.
+An image with a bed, a vase, a floor, a chair, a wall, a window, and a shelf.

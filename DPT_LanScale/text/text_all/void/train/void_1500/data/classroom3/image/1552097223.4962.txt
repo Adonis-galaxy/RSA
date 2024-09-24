@@ -8,3 +8,8 @@ The image shows a room with two black chairs and a white desk.
 The image shows a room with two black chairs facing each other, positioned on either side of a white wall.
 The image shows a room with two black chairs, a white desk, and a white wall. The chairs are positioned in the center of the room, and there is a black cord running along the wall.
 The image shows a room with two black chairs facing each other, positioned on either side of a white desk, with a white wall in the background.
+An image with a mouse, two chairs, a wall, a table, and a rug.
+An image with a rug, a wall, two chairs, a table, and a mouse.
+An image with a rug, two chairs, a table, a wall, and a mouse.
+An image with two chairs, a mouse, a rug, a wall, and a table.
+An image with a mouse, a wall, a table, two chairs, and a rug.

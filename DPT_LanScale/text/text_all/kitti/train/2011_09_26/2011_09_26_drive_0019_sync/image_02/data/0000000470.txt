@@ -8,3 +8,8 @@ The image shows a black car driving down a tree-lined street.
 A black car is driving down a tree-lined street, with a white car parked on the side, and a person walking on the sidewalk.
 A black car is driving down a tree-lined street, passing a white van and other cars.
 A black car is driving down a tree-lined street, with parked cars on the side and a white van in the foreground.
+An image with seven cars, a tree, a sky, a road, a truck, a person, and a grass.
+An image with a road, a person, a truck, a grass, seven cars, a tree, and a sky.
+An image with a road, a truck, seven cars, a grass, a sky, a tree, and a person.
+An image with seven cars, a person, a grass, a road, a truck, a sky, and a tree.
+An image with a tree, seven cars, a road, a person, a truck, a sky, and a grass.

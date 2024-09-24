@@ -8,3 +8,8 @@ The image shows a street scene with a car and a bench.
 The image captures a quiet residential street, with a few parked cars and a solitary pedestrian, under a clear sky.
 A car is driving down a street lined with trees and buildings.
 A quiet residential street with a few parked cars, lined by trees and buildings, under a clear sky.
+An image with six cars, a wall, a kite, a grass, a road, a tree, and a house.
+An image with a wall, a tree, six cars, a house, a grass, a road, and a kite.
+An image with a road, six cars, a tree, a kite, a grass, a house, and a wall.
+An image with six cars, a wall, a grass, a kite, a road, a house, and a tree.
+An image with a road, six cars, a house, a kite, a wall, a grass, and a tree.

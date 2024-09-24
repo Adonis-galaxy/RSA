@@ -8,3 +8,8 @@ A silver car on a street.
 A silver car is parked on a shaded street, with a white house and trees in the background.
 A small silver car is driving down a tree-lined street.
 A silver car is driving down a tree-lined street, which is a curved road with a sidewalk and a building on the right side.
+An image with a house, a grass, two cars, a tree, a parking, and a road.
+An image with a tree, a road, a grass, two cars, a house, and a parking.
+An image with a parking, two cars, a road, a tree, a grass, and a house.
+An image with a grass, a parking, a house, two cars, a tree, and a road.
+An image with two cars, a parking, a grass, a road, a tree, and a house.

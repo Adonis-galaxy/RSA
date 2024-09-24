@@ -8,3 +8,8 @@ The image shows a curvy road with a red and blue sign on the side.
 A winding road through a lush green forest, with a red and blue sign indicating a speed limit.
 The image shows a narrow, winding road with a sign on the right side, surrounded by lush greenery and trees.
 A winding road with a curve, bordered by lush greenery and a red and blue sign, leading to a forest.
+An image with a road, a pavement, a stop, a grass, and a tree.
+An image with a road, a tree, a stop, a pavement, and a grass.
+An image with a stop, a road, a tree, a grass, and a pavement.
+An image with a grass, a stop, a tree, a pavement, and a road.
+An image with a grass, a stop, a pavement, a tree, and a road.

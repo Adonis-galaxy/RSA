@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, lined with neatly trimmed hedges and trees, with a few parked cars and a bicycle, all under a clear blue sky.
 A small blue car is driving down a narrow, tree-lined street in a residential area.
 A narrow, tree-lined street in a residential area, with parked cars and a few moving vehicles, leading to a brick building.
+An image with three cars, two walls, a fence, a house, a sky, a grass, a tree, and a road.
+An image with two walls, a sky, a grass, a house, a tree, three cars, a fence, and a road.
+An image with a fence, three cars, two walls, a tree, a sky, a road, a grass, and a house.
+An image with a tree, three cars, a grass, two walls, a road, a sky, a house, and a fence.
+An image with a grass, a house, a tree, two walls, three cars, a road, a fence, and a sky.

@@ -8,3 +8,8 @@ The image shows a street with two cars parked on the side.
 The image captures a serene suburban street scene, with a line of parked cars on the side of the road, under the shade of tall trees, leading to a house in the distance.
 The image shows a narrow street lined with trees and a low wall, with two cars parked on the side and a building in the background.
 A tree-lined street with parked cars and a building on the left side.
+An image with a sky, three cars, a house, a road, a pavement, a wall, a tree, and a dirt.
+An image with three cars, a dirt, a wall, a pavement, a road, a house, a sky, and a tree.
+An image with a road, a dirt, three cars, a pavement, a house, a wall, a sky, and a tree.
+An image with a road, a tree, a pavement, a sky, a wall, a house, three cars, and a dirt.
+An image with three cars, a sky, a dirt, a road, a house, a wall, a tree, and a pavement.

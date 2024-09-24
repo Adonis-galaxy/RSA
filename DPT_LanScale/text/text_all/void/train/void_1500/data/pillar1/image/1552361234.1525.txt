@@ -8,3 +8,8 @@ A black and white checkered tile leaning against a white pole.
 A white roll of paper leaning against a white cylindrical object, with a black and white checkered object on the floor.
 A white roll of paper leaning against a white cylindrical object, with a black and white checkered object on the floor.
 A white roll of paper leaning against a white cylindrical object, with a black and white checkered object on the floor in front of a closed door.
+An image with a cardboard, a floor, a paper, and a wall.
+An image with a floor, a paper, a wall, and a cardboard.
+An image with a wall, a floor, a cardboard, and a paper.
+An image with a paper, a cardboard, a floor, and a wall.
+An image with a paper, a wall, a cardboard, and a floor.

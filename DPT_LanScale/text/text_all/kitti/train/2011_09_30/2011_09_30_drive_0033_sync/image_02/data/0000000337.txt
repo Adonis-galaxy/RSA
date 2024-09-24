@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with houses and trees, with a car parked on the side and a car driving down the road.
 The image shows a narrow street lined with houses, trees, and parked cars, with a large tree casting a shadow on the road.
 A narrow, tree-lined street in a residential area, with parked cars and a curved road leading to a building.
+An image with a tree, a wall, a pavement, four cars, a grass, a house, a truck, and a road.
+An image with a pavement, a grass, a road, four cars, a house, a tree, a wall, and a truck.
+An image with four cars, a grass, a pavement, a truck, a tree, a wall, a road, and a house.
+An image with four cars, a house, a road, a grass, a truck, a tree, a wall, and a pavement.
+An image with a tree, a pavement, four cars, a road, a wall, a truck, a grass, and a house.

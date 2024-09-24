@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a sunny day, passing by a parked car on a quiet street with a clear sky.
 A person riding a bicycle on a sunny day in a residential area with a large tree in the background.
 A quiet residential street with a clear path for a cyclist, lined with parked cars and trees, under a bright sunny sky.
+An image with a window, three people, four cars, a tree, a bicycle, a handbag, a pavement, a road, a sky, a grass, and a building.
+An image with a bicycle, a grass, four cars, three people, a pavement, a window, a building, a handbag, a sky, a road, and a tree.
+An image with a grass, four cars, three people, a road, a window, a tree, a building, a sky, a handbag, a bicycle, and a pavement.
+An image with a sky, a tree, a pavement, a window, three people, four cars, a handbag, a building, a grass, a road, and a bicycle.
+An image with four cars, three people, a pavement, a building, a tree, a sky, a grass, a bicycle, a handbag, a window, and a road.

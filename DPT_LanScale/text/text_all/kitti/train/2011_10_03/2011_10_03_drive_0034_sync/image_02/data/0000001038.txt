@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person on a motorcycle rides past a house with a hedge and a tree, on a street with a sidewalk and a curb.
 A person riding a motorcycle on a street next to a large house with a hedge and a tree in front of it.
 A person riding a motorcycle on a street with a curved sidewalk, a white wall, a red roof, and a hedge.
+An image with a road, a wall, a roof, a tree, a motorcycle, a person, a sky, and a pavement.
+An image with a person, a pavement, a tree, a road, a motorcycle, a roof, a wall, and a sky.
+An image with a tree, a person, a road, a wall, a pavement, a roof, a sky, and a motorcycle.
+An image with a sky, a person, a road, a tree, a motorcycle, a wall, a pavement, and a roof.
+An image with a pavement, a wall, a roof, a road, a motorcycle, a person, a sky, and a tree.

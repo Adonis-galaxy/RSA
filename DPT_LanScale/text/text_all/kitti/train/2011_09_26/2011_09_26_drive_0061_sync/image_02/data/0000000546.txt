@@ -8,3 +8,8 @@ The image shows a narrow street with cars driving on it.
 A narrow road flanked by hedges, with two cars driving in opposite directions.
 A narrow street with two cars, one red and one white, parked on the side, surrounded by lush greenery.
 A narrow road with parked cars on both sides, flanked by lush greenery and a stone wall.
+An image with a pavement, a wall, two cars, a road, and a tree.
+An image with a road, a wall, two cars, a pavement, and a tree.
+An image with a pavement, a wall, a tree, two cars, and a road.
+An image with two cars, a wall, a tree, a road, and a pavement.
+An image with two cars, a road, a tree, a pavement, and a wall.

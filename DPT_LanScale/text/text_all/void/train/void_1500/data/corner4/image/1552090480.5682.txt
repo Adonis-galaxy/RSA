@@ -8,3 +8,8 @@ A black computer tower with a glass door.
 A black computer tower with a glass front, sitting on the floor next to a white power outlet.
 A black computer tower with a glass front and red lights, sitting on the floor next to a white power outlet.
 A black computer tower with a glass front and red lights, sitting on a blue carpeted floor next to a white power outlet.
+An image with a floor, a wall, a door, a tv, and a keyboard.
+An image with a tv, a floor, a door, a wall, and a keyboard.
+An image with a floor, a door, a keyboard, a wall, and a tv.
+An image with a floor, a wall, a tv, a door, and a keyboard.
+An image with a wall, a keyboard, a door, a tv, and a floor.

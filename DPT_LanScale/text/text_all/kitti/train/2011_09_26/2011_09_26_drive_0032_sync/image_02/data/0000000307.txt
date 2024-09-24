@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic signs.
 The image captures a tranquil scene of a rural highway, with a few cars in motion, surrounded by lush greenery and marked by clear signage.
 The image shows a wide, empty road with a few cars and a speed limit sign, surrounded by trees and a grassy area.
 The image depicts a wide, empty road with a speed limit of 60, flanked by trees and lined with traffic signs, leading to a bridge in the distance.
+An image with a fence, four cars, a sky, a grass, a tree, a road, and a person.
+An image with a grass, four cars, a road, a sky, a tree, a person, and a fence.
+An image with four cars, a grass, a road, a person, a fence, a tree, and a sky.
+An image with four cars, a fence, a sky, a grass, a person, a tree, and a road.
+An image with four cars, a sky, a person, a grass, a road, a fence, and a tree.

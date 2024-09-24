@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 A quiet suburban street, with parked cars and a lone figure, under a canopy of trees.
 A narrow road with three cars parked on the side, surrounded by trees.
 A narrow road with parked cars and a truck, surrounded by trees and a fence.
+An image with a road, a grass, three cars, a sky, a fence, and a tree.
+An image with a tree, a fence, a grass, a road, three cars, and a sky.
+An image with three cars, a tree, a road, a grass, a fence, and a sky.
+An image with three cars, a sky, a road, a tree, a fence, and a grass.
+An image with a grass, a sky, a road, a tree, a fence, and three cars.

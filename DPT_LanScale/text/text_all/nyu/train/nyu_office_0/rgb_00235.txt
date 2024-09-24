@@ -8,3 +8,8 @@ A long hallway with dark windows and lights on the ceiling.
 The image captures a long, dark hallway with a series of doors on the right side, leading to a brightly lit room with a yellow wall and a red object on the left side.
 The image shows a long, narrow hallway with a series of doors on the left side, a single door on the right, and a brightly lit ceiling.
 The image shows a long, narrow hallway with a series of doors on the left side, leading to a brightly lit room with a yellow wall on the right.
+An image with a door, a rug, a ceiling, and a wall.
+An image with a door, a wall, a rug, and a ceiling.
+An image with a ceiling, a rug, a wall, and a door.
+An image with a ceiling, a rug, a door, and a wall.
+An image with a wall, a ceiling, a rug, and a door.

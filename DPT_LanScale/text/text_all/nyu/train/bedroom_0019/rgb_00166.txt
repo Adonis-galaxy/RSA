@@ -8,3 +8,8 @@ A lamp with two lights on in a room.
 The image captures a simple, well-lit corner of a room, featuring a desk with a laptop, a floor lamp casting a warm glow, and a white wall.
 A small desk lamp with a white shade is turned on, casting a bright light on the wall behind it.
 A dimly lit room with a desk, a laptop, a lamp, and a white wall.
+An image with a wall, a mirror, a table, a paper, and a laptop.
+An image with a wall, a laptop, a paper, a mirror, and a table.
+An image with a table, a laptop, a wall, a mirror, and a paper.
+An image with a mirror, a wall, a laptop, a paper, and a table.
+An image with a mirror, a table, a paper, a wall, and a laptop.

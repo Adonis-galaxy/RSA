@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings and car
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars and white buildings, with a clear blue sky overhead.
 A narrow street lined with white buildings, parked cars, and a sidewalk, leading to a residential area.
+An image with a sky, eleven cars, a pavement, a fence, two walls, a tree, a house, a building, and a road.
+An image with eleven cars, two walls, a fence, a pavement, a tree, a road, a sky, a building, and a house.
+An image with eleven cars, a pavement, a sky, two walls, a tree, a fence, a house, a building, and a road.
+An image with eleven cars, two walls, a sky, a house, a tree, a pavement, a road, a building, and a fence.
+An image with eleven cars, a road, a fence, a building, two walls, a tree, a sky, a pavement, and a house.

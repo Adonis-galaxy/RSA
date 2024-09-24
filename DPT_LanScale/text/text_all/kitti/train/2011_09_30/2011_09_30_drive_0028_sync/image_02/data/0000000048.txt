@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quiet residential street, where parked cars line the sides of the road, and the sun casts long shadows, creating a serene atmosphere.
 The image shows a narrow street lined with parked cars, with a few cars driving down the road. The street is flanked by buildings on both sides, and there are trees and bushes along the sidewalk.
 A narrow street in a residential area with parked cars and buildings on both sides.
+An image with nine cars, a house, a sky, a pavement, a tree, a window, and a road.
+An image with nine cars, a road, a pavement, a house, a tree, a window, and a sky.
+An image with nine cars, a road, a house, a pavement, a window, a sky, and a tree.
+An image with a sky, nine cars, a pavement, a house, a tree, a window, and a road.
+An image with a window, nine cars, a sky, a road, a house, a pavement, and a tree.

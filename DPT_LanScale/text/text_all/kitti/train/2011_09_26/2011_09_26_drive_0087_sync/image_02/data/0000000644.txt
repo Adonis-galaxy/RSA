@@ -8,3 +8,8 @@ The image shows a street scene with a yellow truck parked on the side of the roa
 The image captures a quiet residential street, with a yellow truck parked on the side of the road, under the shade of a tree, and in front of a building with a green sign.
 The image shows a narrow street with a yellow truck parked on the right side, a green street sign on the left side, a white building with a black gate on the left, and a white building with a black gate on the right. The street is lined with trees and there are no people visible.
 A quiet residential street with a mix of old and new buildings, lined with trees and a parked car.
+An image with a tree, a house, a roof, a wall, a grass, a road, a sky, a car, and a pavement.
+An image with a house, a pavement, a sky, a road, a wall, a grass, a roof, a car, and a tree.
+An image with a road, a house, a tree, a pavement, a grass, a car, a sky, a roof, and a wall.
+An image with a car, a tree, a pavement, a house, a sky, a road, a roof, a wall, and a grass.
+An image with a roof, a road, a pavement, a car, a sky, a grass, a house, a wall, and a tree.

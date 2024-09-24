@@ -8,3 +8,8 @@ The image shows a staircase with a white railing.
 The image shows a staircase with a white railing leading up to a blue wall.
 The image shows a staircase with a white railing, leading up to a blue wall.
 The image shows a staircase with a white railing leading up to a blue wall.
+An image with a floor, a wall, a mirror, and a fence.
+An image with a fence, a wall, a mirror, and a floor.
+An image with a floor, a wall, a fence, and a mirror.
+An image with a floor, a wall, a mirror, and a fence.
+An image with a wall, a fence, a floor, and a mirror.

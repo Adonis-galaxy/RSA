@@ -8,3 +8,8 @@ A gray office chair.
 A modern office chair in front of a poster board.
 A gray office chair with a high back and armrests, positioned in front of a large whiteboard with images and text.
 A modern office chair with a high back and armrests, positioned in front of a large whiteboard with various images and text.
+An image with a table, two chairs, a tv, a cabinet, a rug, and a wall.
+An image with two chairs, a tv, a table, a wall, a rug, and a cabinet.
+An image with a tv, a rug, a table, two chairs, a cabinet, and a wall.
+An image with a tv, a wall, two chairs, a cabinet, a table, and a rug.
+An image with a tv, two chairs, a wall, a table, a cabinet, and a rug.

@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a car parked on th
 A narrow, sunlit alleyway between two-story buildings, lined with parked cars and motorcycles, and bordered by lush greenery.
 A narrow, sunlit alleyway between two-story buildings, lined with parked cars, motorcycles, and a truck, with a stop sign visible at the end.
 A narrow, tree-lined street with parked cars and motorcycles, leading to a white building.
+An image with a sky, a grass, a house, a pavement, three cars, a motorcycle, a stop, and a tree.
+An image with a grass, a house, a motorcycle, a tree, a pavement, three cars, a stop, and a sky.
+An image with a sky, a house, a stop, a pavement, three cars, a grass, a motorcycle, and a tree.
+An image with a motorcycle, three cars, a tree, a stop, a house, a grass, a pavement, and a sky.
+An image with three cars, a tree, a grass, a stop, a pavement, a house, a sky, and a motorcycle.

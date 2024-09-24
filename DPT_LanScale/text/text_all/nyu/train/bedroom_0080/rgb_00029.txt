@@ -8,3 +8,8 @@ A large painting leaning against a wall.
 The image captures a room with a large, framed painting leaning against a wall, a mirror propped up against the same wall, and a desk with various items on it, including a book and a cup. The painting is the central focus, with the mirror and desk items providing context to the room's use and decor.
 A large, framed painting leaning against a wall, with a mirror propped against it.
 The image shows a room with a large painting leaning against a wall, a mirror on the opposite wall, a desk with various items on it, and a wooden dresser with drawers.
+An image with a rug, three books, a cardboard, a wall, a cabinet, a cup, and a paper.
+An image with three books, a paper, a rug, a wall, a cabinet, a cup, and a cardboard.
+An image with a cardboard, three books, a rug, a wall, a cup, a paper, and a cabinet.
+An image with a wall, a paper, three books, a rug, a cup, a cardboard, and a cabinet.
+An image with a paper, a cabinet, three books, a cup, a rug, a wall, and a cardboard.

@@ -8,3 +8,8 @@ A black chair in front of a table.
 A black chair is positioned in front of a white marble table, with a book and a cup on the table.
 The image shows a small room with a desk, a chair, a window, and a trash can.
 The image shows a small room with a desk, a chair, and a window.
+An image with a wall, a window, a cell, a dining, a book, a cup, a rug, and a chair.
+An image with a cup, a window, a cell, a wall, a dining, a chair, a book, and a rug.
+An image with a wall, a cup, a chair, a dining, a window, a cell, a book, and a rug.
+An image with a book, a rug, a wall, a cell, a window, a chair, a dining, and a cup.
+An image with a book, a chair, a cup, a dining, a cell, a wall, a rug, and a window.

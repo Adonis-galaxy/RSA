@@ -8,3 +8,8 @@ A long wooden table with two computer monitors and keyboards.
 The image shows a computer desk with two computer monitors, two keyboards, and two mice.
 The image shows a long wooden desk with two computer monitors, two keyboards, and two mice, all of which are black.
 The image shows a long wooden table with multiple computer monitors, keyboards, and mice, arranged in a row, with black chairs on either side.
+An image with two chairs, four keyboards, a table, a rug, a mouse, a wall, a cabinet, and a tv.
+An image with a table, four keyboards, two chairs, a wall, a rug, a tv, a mouse, and a cabinet.
+An image with four keyboards, a tv, a mouse, two chairs, a cabinet, a rug, a wall, and a table.
+An image with a mouse, four keyboards, a table, a tv, a rug, a wall, two chairs, and a cabinet.
+An image with a table, a wall, two chairs, a cabinet, four keyboards, a rug, a tv, and a mouse.

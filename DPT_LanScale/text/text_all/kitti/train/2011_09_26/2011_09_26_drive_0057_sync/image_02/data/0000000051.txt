@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 A red car is driving on a road with a white line, passing under a traffic light and a street sign, while a truck is parked on the side of the road.
 A red car is driving on a road with white lines, passing under a traffic light and a street sign, while a truck is parked on the side of the road.
 A red car is driving on a road with a white line, passing through an intersection with traffic lights and a crosswalk.
+An image with eight traffics, nine cars, a truck, a grass, a mountain, a house, a tree, a sky, and a road.
+An image with nine cars, eight traffics, a sky, a mountain, a house, a truck, a grass, a road, and a tree.
+An image with nine cars, eight traffics, a sky, a tree, a grass, a mountain, a house, a truck, and a road.
+An image with nine cars, a grass, a tree, eight traffics, a sky, a mountain, a truck, a road, and a house.
+An image with eight traffics, a grass, nine cars, a sky, a house, a tree, a mountain, a truck, and a road.

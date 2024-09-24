@@ -8,3 +8,8 @@ A blue chair is under a desk.
 A computer desk with a chair in front of it.
 A blue chair is tucked under a desk with a computer monitor and keyboard on it.
 The image shows a computer workstation with a monitor, keyboard, and mouse on a desk, with a blue chair in front of it, and the desk is part of a larger work area with other desks and chairs.
+An image with three tvs, three chairs, two keyboards, a cabinet, a wall, a door, a mouse, and a floor.
+An image with a floor, three tvs, a mouse, two keyboards, a cabinet, a door, a wall, and three chairs.
+An image with a mouse, three tvs, two keyboards, three chairs, a wall, a floor, a cabinet, and a door.
+An image with two keyboards, a floor, a mouse, three chairs, a cabinet, a wall, three tvs, and a door.
+An image with a wall, two keyboards, a door, a floor, a cabinet, three chairs, three tvs, and a mouse.

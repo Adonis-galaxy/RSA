@@ -8,3 +8,8 @@ The image shows a street scene with a red car parked on the side of the road, a 
 A person walking on a street corner, with a red car parked on the side of the road, and a building with balconies in the background.
 A person is walking across a crosswalk in a residential area with tall buildings, a red car parked on the side of the street, and a street sign.
 A person walks across a crosswalk in a residential area with apartment buildings, a red car parked on the street, and a few trees.
+An image with a road, a pavement, two stops, a tree, a sky, a building, a person, and a car.
+An image with two stops, a sky, a building, a tree, a pavement, a car, a road, and a person.
+An image with a road, a tree, a building, a pavement, two stops, a car, a person, and a sky.
+An image with a person, a sky, two stops, a car, a building, a tree, a pavement, and a road.
+An image with a building, two stops, a sky, a tree, a road, a pavement, a person, and a car.

@@ -8,3 +8,8 @@ The image shows a park with a playground and a road.
 The image captures a serene day in a park, with a playground nestled among the trees, a parking lot adjacent to a road, and a solitary car parked in the shade.
 The image shows a park with a playground, a road, and trees, with a large blue play structure and a small white structure in the foreground, and cars parked along the side of the road.
 The image shows a tree-lined street with parked cars, a playground, and a sidewalk.
+An image with three cars, a road, a tree, a sky, a pavement, and a grass.
+An image with a road, a pavement, a tree, three cars, a grass, and a sky.
+An image with a road, a grass, a sky, a tree, a pavement, and three cars.
+An image with a pavement, three cars, a sky, a tree, a grass, and a road.
+An image with a sky, three cars, a tree, a road, a pavement, and a grass.

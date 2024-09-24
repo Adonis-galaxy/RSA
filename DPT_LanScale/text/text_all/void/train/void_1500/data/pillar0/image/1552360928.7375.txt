@@ -8,3 +8,8 @@ A black gym bag with red trim on a blue carpet.
 A black bag with a red stripe is sitting on the floor next to a blue bucket and a stack of black poles.
 A black duffel bag with a red stripe sits next to a blue bucket and a stack of black tripods.
 A black duffel bag with a red stripe sits next to a blue bucket and a stack of black tripods on a blue carpeted floor.
+An image with a suitcase, a wall, a door, a chair, and a rug.
+An image with a chair, a wall, a suitcase, a door, and a rug.
+An image with a suitcase, a wall, a rug, a chair, and a door.
+An image with a door, a wall, a rug, a suitcase, and a chair.
+An image with a wall, a chair, a suitcase, a rug, and a door.

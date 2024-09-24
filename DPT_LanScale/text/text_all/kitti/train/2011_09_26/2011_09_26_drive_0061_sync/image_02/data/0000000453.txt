@@ -8,3 +8,8 @@ The image shows a narrow street with a car driving on it.
 A solitary car on a narrow, tree-lined street, with a brick wall and a sign on the right, under a clear sky.
 A car is driving down a narrow, tree-lined street with a brick wall on the right side.
 A narrow, tree-lined street with a brick wall on one side, a car driving down it, and a sign indicating a speed limit of 20.
+An image with two walls, a tree, a car, a fence, a sky, a road, and a pavement.
+An image with a fence, two walls, a car, a pavement, a road, a tree, and a sky.
+An image with a tree, a pavement, a sky, two walls, a road, a car, and a fence.
+An image with a tree, a car, a fence, a road, a pavement, two walls, and a sky.
+An image with a tree, a road, two walls, a sky, a fence, a car, and a pavement.

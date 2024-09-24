@@ -8,3 +8,8 @@ A desk with papers, a mouse, and a cell phone.
 A desk with a printer, papers, and a cell phone.
 A desk with a printer, a mouse, and a stack of papers.
 The image shows a desk with a printer, a mouse, and a stack of papers in an open envelope.
+An image with a table, a wall, a mouse, and a paper.
+An image with a wall, a mouse, a paper, and a table.
+An image with a mouse, a paper, a wall, and a table.
+An image with a table, a wall, a paper, and a mouse.
+An image with a table, a mouse, a wall, and a paper.

@@ -8,3 +8,8 @@ A black and red bag leaning against a white column.
 A black suitcase with a red stripe is leaning against a white column, next to a blue trash can.
 A black suitcase with a red stripe on a blue trash can, leaning against a white pillar.
 A black suitcase with a red stripe is leaning against a white column, next to a blue trash can.
+An image with a suitcase, a rug, a curtain, and a door.
+An image with a door, a curtain, a suitcase, and a rug.
+An image with a rug, a curtain, a suitcase, and a door.
+An image with a curtain, a rug, a suitcase, and a door.
+An image with a door, a rug, a suitcase, and a curtain.

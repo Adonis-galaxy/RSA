@@ -8,3 +8,8 @@ A roll of paper in a cardboard box.
 A roll of paper leaning against a cardboard box in a room.
 A large roll of paper is leaning against a cardboard box, which is placed next to a checkered board.
 A roll of paper and a box with an orange sign are leaning against a white wall.
+An image with a cardboard, a paper, two walls, a floor, a tv, and a door.
+An image with a paper, two walls, a tv, a door, a cardboard, and a floor.
+An image with a tv, two walls, a door, a floor, a paper, and a cardboard.
+An image with a door, a tv, two walls, a paper, a cardboard, and a floor.
+An image with a floor, a door, a cardboard, two walls, a paper, and a tv.

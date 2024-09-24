@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on both sides.
 The image captures a serene residential street, lined with lush greenery and quaint houses, under a clear blue sky.
 The image shows a tree-lined street with parked cars, a sidewalk, and houses on both sides.
 A quiet residential street with parked cars, lined by trees and houses, leading to a cul-de-sac.
+An image with four cars, a road, a tree, a wall, a pavement, and a house.
+An image with a pavement, a road, four cars, a house, a wall, and a tree.
+An image with a road, four cars, a pavement, a wall, a house, and a tree.
+An image with a house, four cars, a tree, a wall, a pavement, and a road.
+An image with a pavement, a wall, four cars, a road, a tree, and a house.

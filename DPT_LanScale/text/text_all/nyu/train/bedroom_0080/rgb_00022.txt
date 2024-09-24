@@ -8,3 +8,8 @@ A bed with a painting leaning against the wall.
 The image captures a room with a bed, a painting, a mirror, a box, a bookshelf, and a dresser, all arranged in a somewhat cluttered manner.
 A small bedroom with a large painting leaning against the wall, a wooden dresser, a white iron bed with a blue and white checkered comforter, and a cardboard box on the floor.
 The image shows a bedroom with a bed, a painting, a mirror, a wooden dresser, and a cardboard box on the floor.
+An image with a rug, a cardboard, a paper, three books, a wall, and a bed.
+An image with a cardboard, a rug, three books, a paper, a bed, and a wall.
+An image with a rug, three books, a cardboard, a wall, a bed, and a paper.
+An image with a rug, a bed, three books, a paper, a cardboard, and a wall.
+An image with a rug, a paper, three books, a wall, a bed, and a cardboard.

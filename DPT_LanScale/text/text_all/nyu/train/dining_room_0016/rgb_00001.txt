@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a well-lit, spacious dining room with a large table surrounded by multiple chairs, a round mirror on the wall, and a window with a view of the kitchen.
 The image shows a spacious dining room with a large table surrounded by multiple chairs, a round mirror on the wall, and a window with a view of a kitchen.
 The image shows a spacious dining room with a large table surrounded by multiple chairs, a kitchenette in the background, and a window with a view of the outside.
+An image with eight chairs, a dining, a counter, a ceiling, a floor, a wall, a door, and a cabinet.
+An image with a ceiling, eight chairs, a dining, a floor, a wall, a counter, a cabinet, and a door.
+An image with eight chairs, a floor, a counter, a door, a ceiling, a dining, a cabinet, and a wall.
+An image with a counter, eight chairs, a wall, a dining, a door, a cabinet, a ceiling, and a floor.
+An image with a ceiling, eight chairs, a floor, a dining, a cabinet, a counter, a wall, and a door.

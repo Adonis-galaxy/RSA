@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the curb and a tree providing shade over a small garden area.
 The image shows a residential street with parked cars, a curved sidewalk, and trees lining the road.
 A quiet residential street with parked cars and a curved driveway.
+An image with a grass, a road, five cars, a dirt, a sky, a wall, and a tree.
+An image with a road, five cars, a sky, a tree, a dirt, a wall, and a grass.
+An image with a tree, five cars, a grass, a sky, a wall, a dirt, and a road.
+An image with a wall, a tree, five cars, a sky, a dirt, a road, and a grass.
+An image with a sky, a wall, a grass, five cars, a road, a tree, and a dirt.

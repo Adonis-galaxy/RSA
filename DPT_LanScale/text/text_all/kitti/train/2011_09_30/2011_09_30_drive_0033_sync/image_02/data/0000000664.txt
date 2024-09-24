@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a mix of parked cars, a solitary bench, and a few potted plants, all under the shade of tall trees, creating a peaceful and inviting atmosphere.
 The image shows a residential street with parked cars, a bench, and houses, with a large tree and a smaller tree in the foreground.
 A quiet residential street with parked cars, benches, and houses.
+An image with five cars, a house, a grass, a sky, a potted, a bench, a tree, a road, and a pavement.
+An image with a road, a bench, a house, five cars, a sky, a tree, a potted, a grass, and a pavement.
+An image with a road, a potted, five cars, a bench, a sky, a grass, a house, a pavement, and a tree.
+An image with five cars, a potted, a road, a pavement, a bench, a sky, a house, a grass, and a tree.
+An image with a bench, a pavement, a house, a sky, a potted, five cars, a grass, a tree, and a road.

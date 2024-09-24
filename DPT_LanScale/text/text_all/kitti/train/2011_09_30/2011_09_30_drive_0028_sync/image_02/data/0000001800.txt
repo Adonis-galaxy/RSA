@@ -8,3 +8,8 @@ A person walking on a street.
 A quiet residential street, with a white house on the left, a blue sign on the right, and a person walking in the middle, under a clear blue sky.
 A person is walking down a tree-lined street in a residential area, with a large house on the left and a car parked on the right.
 A quiet residential street with a mix of old and new buildings, lined with trees and parked cars, under a clear blue sky.
+An image with a tree, a sky, a truck, a road, a person, two cars, a pavement, a skateboard, and a house.
+An image with a truck, a sky, two cars, a house, a person, a skateboard, a pavement, a road, and a tree.
+An image with a skateboard, a house, a road, two cars, a sky, a pavement, a tree, a person, and a truck.
+An image with a road, two cars, a person, a truck, a sky, a house, a tree, a skateboard, and a pavement.
+An image with a skateboard, a pavement, a house, a tree, a person, a road, two cars, a sky, and a truck.

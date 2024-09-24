@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined street with a parked car, leading to a residential area.
 The image shows a tree-lined street with a car parked on the side, a sidewalk, and a fence. The trees are large, and the car is small.
 A tree-lined street with a car parked at the end, leading to a residential area with houses and a fence.
+An image with a wall, a road, a car, a sky, a pavement, and a tree.
+An image with a tree, a pavement, a road, a sky, a car, and a wall.
+An image with a sky, a car, a pavement, a road, a tree, and a wall.
+An image with a tree, a road, a wall, a sky, a pavement, and a car.
+An image with a road, a tree, a wall, a pavement, a car, and a sky.

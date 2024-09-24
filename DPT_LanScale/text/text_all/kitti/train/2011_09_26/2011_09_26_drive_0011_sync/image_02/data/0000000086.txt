@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on a road.
 The image captures a bustling city street with a mix of vehicles, pedestrians, and traffic signals, all under a clear blue sky.
 The image shows a wide, tree-lined street with a few cars, a traffic light, and a pedestrian crossing.
 The image depicts a wide, tree-lined street with multiple lanes, a crosswalk, traffic lights, and a sign indicating a pedestrian crossing.
+An image with ten cars, a grass, four people, a truck, a tree, a road, four traffics, a pavement, a sky, and a bicycle.
+An image with a grass, four people, a bicycle, ten cars, a tree, a pavement, a road, a sky, a truck, and four traffics.
+An image with ten cars, a pavement, four traffics, a road, four people, a tree, a sky, a bicycle, a grass, and a truck.
+An image with four traffics, ten cars, four people, a bicycle, a truck, a tree, a sky, a pavement, a road, and a grass.
+An image with a tree, four people, four traffics, ten cars, a road, a truck, a bicycle, a pavement, a sky, and a grass.

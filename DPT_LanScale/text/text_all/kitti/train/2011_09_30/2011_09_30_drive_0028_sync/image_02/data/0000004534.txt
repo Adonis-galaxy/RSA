@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a serene residential street scene, with a white building, a green fence, a red and white sign, and a tree-lined sidewalk, all under a clear blue sky.
 The image shows a street scene with a large white building, a blue and white street sign, a red and white traffic sign, a green fence, a sidewalk, and a car on the road.
 The image shows a residential street with a white building, a green fence, a sidewalk, a street sign, and a tree-lined road.
+An image with a road, a tree, three cars, a fence, a wall, a sky, a house, a pavement, and a stop.
+An image with a wall, a house, three cars, a fence, a road, a pavement, a stop, a tree, and a sky.
+An image with a stop, three cars, a sky, a wall, a house, a road, a tree, a pavement, and a fence.
+An image with a stop, a pavement, a sky, a house, a road, a tree, three cars, a fence, and a wall.
+An image with three cars, a wall, a sky, a road, a pavement, a fence, a tree, a stop, and a house.

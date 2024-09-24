@@ -8,3 +8,8 @@ A black computer tower on a white desk.
 A computer tower sits on a white desk, surrounded by various computer equipment.
 A black computer tower on a white desk, with a black keyboard and mouse to the left.
 A black computer tower sits on a white desk, with a black keyboard and mouse to its left, and a yellow paper to its right.
+An image with a tv, a keyboard, a chair, a mouse, a floor, a wall, and a table.
+An image with a chair, a mouse, a floor, a keyboard, a wall, a tv, and a table.
+An image with a wall, a keyboard, a tv, a table, a chair, a floor, and a mouse.
+An image with a tv, a mouse, a wall, a chair, a table, a floor, and a keyboard.
+An image with a wall, a table, a keyboard, a mouse, a chair, a floor, and a tv.

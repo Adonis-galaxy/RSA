@@ -8,3 +8,8 @@ A person is sleeping on a bed.
 The image captures a cozy, lived-in bedroom with a bed covered in a blue comforter, a wooden headboard, and a bookshelf filled with books.
 The image shows a small, messy bedroom with a large, unmade bed, a nightstand with a blue water pitcher, a stack of clothes on the floor, and a bookshelf with books.
 The image shows a bedroom with a bed covered in a blue comforter, a wooden headboard, a nightstand with a blue water pitcher, and a bookshelf with books.
+An image with twelve books, a remote, a curtain, a rug, a bed, a wall, a cabinet, a floor, a door, and a shelf.
+An image with a curtain, twelve books, a rug, a remote, a cabinet, a shelf, a door, a wall, a bed, and a floor.
+An image with a wall, twelve books, a door, a floor, a rug, a curtain, a shelf, a remote, a cabinet, and a bed.
+An image with twelve books, a shelf, a cabinet, a floor, a door, a wall, a remote, a bed, a rug, and a curtain.
+An image with twelve books, a rug, a shelf, a bed, a wall, a cabinet, a door, a curtain, a floor, and a remote.

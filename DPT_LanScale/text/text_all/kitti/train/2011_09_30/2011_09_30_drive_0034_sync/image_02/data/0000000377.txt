@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with houses and trees, leads to a parked car at the end.
 The image shows a narrow, tree-lined street between two-story houses, with a car parked on the side and a trash can on the sidewalk.
 A narrow, tree-lined street with houses on both sides, leading to a white building with a red roof.
+An image with a wall, a fence, a roof, three cars, a house, a tree, a sky, a grass, a flower, and a pavement.
+An image with a tree, three cars, a grass, a wall, a sky, a roof, a house, a pavement, a fence, and a flower.
+An image with a flower, three cars, a tree, a grass, a pavement, a roof, a wall, a house, a sky, and a fence.
+An image with three cars, a house, a flower, a sky, a pavement, a grass, a tree, a wall, a roof, and a fence.
+An image with a house, a pavement, a fence, a flower, a roof, a grass, a wall, a tree, a sky, and three cars.

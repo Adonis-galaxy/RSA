@@ -8,3 +8,8 @@ A long concrete planter with plants and dirt.
 The image shows a long, narrow, concrete planter filled with sand and plants, situated on a sidewalk.
 The image shows a long, narrow, concrete planter filled with sand and small plants, situated on a sidewalk.
 The image shows a long, narrow, concrete planter filled with sand and plants, situated on a sidewalk with a brick pattern.
+An image with a floor, a wall, and a dirt.
+An image with a floor, a dirt, and a wall.
+An image with a floor, a wall, and a dirt.
+An image with a floor, a wall, and a dirt.
+An image with a wall, a dirt, and a floor.

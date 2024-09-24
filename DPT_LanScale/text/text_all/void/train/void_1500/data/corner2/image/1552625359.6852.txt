@@ -8,3 +8,8 @@ A blurry image of a desk with a computer monitor, keyboard, and mouse.
 The image shows a blurry office setting with a desk, chair, and papers.
 The image shows a blurry office desk with a computer monitor, keyboard, and mouse, along with a chair and a cabinet.
 The image shows a blurry office setting with a desk, a chair, and some papers on the desk.
+An image with a rug, a chair, a keyboard, a mouse, a book, a cup, a table, a cabinet, and a wall.
+An image with a keyboard, a chair, a wall, a rug, a mouse, a cup, a book, a table, and a cabinet.
+An image with a table, a wall, a chair, a keyboard, a mouse, a cup, a rug, a book, and a cabinet.
+An image with a cabinet, a book, a chair, a wall, a rug, a cup, a keyboard, a mouse, and a table.
+An image with a wall, a chair, a keyboard, a book, a cup, a table, a cabinet, a mouse, and a rug.

@@ -8,3 +8,8 @@ A black ball on the floor.
 The image captures a cozy living room with a warm ambiance, featuring a framed painting of flowers on the wall, a wooden floor, a comfortable chair, and a black ball resting on the floor.
 The image shows a room with a large picture frame on the wall, a black ball on the floor, a wooden floor, a window with blinds, and a chair.
 The image shows a room with a framed picture on the wall, a window with blinds, a wooden floor, and a chair.
+An image with two chairs, a sports, a vase, a floor, a wall, and a window.
+An image with a vase, a sports, two chairs, a wall, a window, and a floor.
+An image with two chairs, a wall, a window, a sports, a vase, and a floor.
+An image with two chairs, a wall, a vase, a sports, a window, and a floor.
+An image with two chairs, a floor, a window, a vase, a wall, and a sports.

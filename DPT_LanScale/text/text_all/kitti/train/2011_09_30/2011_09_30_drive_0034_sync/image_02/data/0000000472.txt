@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a paved sidewalk and
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac.
 The image shows a narrow, tree-lined street between two-story houses, with a few small objects and plants on the sidewalk.
 A narrow, tree-lined street between two-story houses, with a paved sidewalk and a small garden area at the curb.
+An image with a car, a gravel, a house, a pavement, a road, a potted, a tree, and a sky.
+An image with a pavement, a sky, a road, a car, a potted, a house, a tree, and a gravel.
+An image with a road, a tree, a sky, a car, a potted, a pavement, a gravel, and a house.
+An image with a house, a car, a road, a pavement, a sky, a potted, a gravel, and a tree.
+An image with a pavement, a gravel, a house, a road, a sky, a car, a tree, and a potted.

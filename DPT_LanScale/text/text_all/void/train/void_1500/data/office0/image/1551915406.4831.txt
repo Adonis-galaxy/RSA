@@ -8,3 +8,8 @@ A whiteboard with papers and a coffee cup on a table.
 A cluttered desk with a whiteboard, a coffee mug, and papers.
 A cluttered desk with a whiteboard, a coffee mug, and a stack of papers.
 A cluttered desk with a whiteboard, a coffee cup, and papers.
+An image with a window, two books, a chair, a paper, a table, a wall, and a cup.
+An image with two books, a window, a chair, a cup, a table, a paper, and a wall.
+An image with a window, two books, a table, a cup, a chair, a paper, and a wall.
+An image with a chair, a paper, a window, a cup, two books, a table, and a wall.
+An image with a wall, a table, two books, a paper, a cup, a window, and a chair.

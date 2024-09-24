@@ -8,3 +8,8 @@ A tree-lined street with a blue car parked on the side.
 A quiet residential street, lined with trees and houses, where a single car is parked on the side of the road.
 A narrow tree-lined street between two-story buildings, with a blue car parked on the right side.
 A tree-lined street with a blue car parked on the sidewalk, leading to a row of white buildings with balconies.
+An image with a car, a bicycle, a house, a sky, a pavement, a person, a road, a tree, and a grass.
+An image with a road, a car, a bicycle, a person, a grass, a tree, a house, a sky, and a pavement.
+An image with a pavement, a person, a sky, a road, a bicycle, a car, a tree, a house, and a grass.
+An image with a car, a road, a sky, a house, a person, a grass, a tree, a bicycle, and a pavement.
+An image with a sky, a person, a pavement, a house, a grass, a car, a road, a bicycle, and a tree.

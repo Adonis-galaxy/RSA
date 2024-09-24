@@ -8,3 +8,8 @@ The image shows a street scene with a crosswalk.
 The image captures a quiet residential street with parked cars, a pedestrian, and a clear sky, all under the watchful eye of a traffic light.
 The image shows a wide street with a crosswalk, lined with parked cars and trees, and a pedestrian walking on the sidewalk.
 A tree-lined street with parked cars, a crosswalk, and a pedestrian walking on the sidewalk.
+An image with ten cars, a grass, a pavement, a road, two people, a tree, a traffic, a building, and a roof.
+An image with ten cars, a building, a grass, two people, a road, a tree, a roof, a traffic, and a pavement.
+An image with ten cars, a tree, a roof, a road, a pavement, a building, a grass, a traffic, and two people.
+An image with a building, a pavement, ten cars, a roof, a grass, two people, a road, a traffic, and a tree.
+An image with ten cars, a building, a road, a tree, a pavement, two people, a roof, a traffic, and a grass.

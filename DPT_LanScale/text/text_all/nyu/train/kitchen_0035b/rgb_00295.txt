@@ -8,3 +8,8 @@ The image shows a dining room with a table and chairs.
 The image captures a cozy dining area with a table, chairs, and a clock on the wall, creating a warm and inviting atmosphere.
 The image shows a dining room with a table, chairs, and a clock on the wall. The clock is small.
 The image shows a dining room with a table, chairs, and decorative plates on the wall.
+An image with three chairs, a clock, a window, a car, a wall, and a dining.
+An image with a window, three chairs, a car, a clock, a wall, and a dining.
+An image with three chairs, a dining, a car, a clock, a window, and a wall.
+An image with a dining, three chairs, a car, a window, a clock, and a wall.
+An image with a wall, a clock, three chairs, a car, a dining, and a window.

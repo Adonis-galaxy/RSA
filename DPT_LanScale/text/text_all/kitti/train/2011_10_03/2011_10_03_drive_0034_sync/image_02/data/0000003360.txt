@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a tree-lined street, with a brick building and a garage door in the background.
 A white van is parked on the side of a narrow street lined with trees and brick buildings.
 A narrow, tree-lined street with parked cars and a white van driving down it.
+An image with a wall, a truck, a tree, a road, a car, a door, a sky, and a pavement.
+An image with a wall, a sky, a tree, a road, a pavement, a truck, a car, and a door.
+An image with a pavement, a car, a wall, a sky, a tree, a road, a door, and a truck.
+An image with a car, a truck, a wall, a door, a road, a sky, a tree, and a pavement.
+An image with a wall, a door, a road, a truck, a sky, a pavement, a tree, and a car.

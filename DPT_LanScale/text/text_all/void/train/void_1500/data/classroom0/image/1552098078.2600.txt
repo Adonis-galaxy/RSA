@@ -8,3 +8,8 @@ A classroom with empty chairs and a green cabinet.
 The image shows a classroom setting with rows of chairs facing a green cabinet and a whiteboard.
 The image shows a classroom with rows of chairs facing a green cabinet and a whiteboard.
 The image shows a classroom with rows of chairs facing a green cabinet and a whiteboard.
+An image with nine chairs, a wall, a tv, a floor, two refrigerators, and a dining.
+An image with a floor, nine chairs, a dining, two refrigerators, a tv, and a wall.
+An image with a floor, a dining, two refrigerators, a wall, nine chairs, and a tv.
+An image with two refrigerators, a dining, nine chairs, a wall, a floor, and a tv.
+An image with nine chairs, a dining, two refrigerators, a floor, a wall, and a tv.

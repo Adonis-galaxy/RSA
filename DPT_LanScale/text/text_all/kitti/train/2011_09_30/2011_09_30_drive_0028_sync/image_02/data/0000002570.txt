@@ -8,3 +8,8 @@ The image shows a street scene with a white building, trees, and a car.
 A quiet residential street with parked cars and a clear sky.
 The image shows a quiet residential street with a few parked cars, a large tree, and a clear blue sky.
 A quiet residential street with a few parked cars, lined with trees and houses, and a clear sky overhead.
+An image with a sky, a tree, two stops, two cars, a road, a house, a grass, and a pavement.
+An image with two cars, a grass, a house, a pavement, two stops, a sky, a tree, and a road.
+An image with a sky, a tree, two cars, a house, two stops, a road, a grass, and a pavement.
+An image with a sky, a house, a pavement, two cars, two stops, a road, a grass, and a tree.
+An image with a sky, two stops, a house, a tree, a pavement, a grass, two cars, and a road.

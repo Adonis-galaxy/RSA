@@ -8,3 +8,8 @@ A volleyball on a black couch.
 A volleyball sits on a black couch next to a gray jacket.
 A volleyball sits on a black leather couch, next to a gray jacket.
 A white volleyball sits on a black leather couch, with a gray towel hanging on the back of the couch.
+An image with a sports, a wall, a paper, and a couch.
+An image with a wall, a couch, a paper, and a sports.
+An image with a sports, a paper, a wall, and a couch.
+An image with a sports, a wall, a couch, and a paper.
+An image with a couch, a sports, a wall, and a paper.

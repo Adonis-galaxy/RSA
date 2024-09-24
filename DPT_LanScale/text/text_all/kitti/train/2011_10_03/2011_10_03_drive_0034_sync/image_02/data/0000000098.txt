@@ -8,3 +8,8 @@ The image shows a street with a number 30 painted on it.
 The image captures a quiet, tree-lined street with a speed limit of 30, marked by white arrows on the road.
 The image shows a tree-lined street with a speed limit of 30, marked by white lines on the road. There are cars driving on the street, and a sign indicating a pedestrian crossing is visible.
 The image depicts a tree-lined street with a speed limit of 30, marked by white arrows on the road, and a red and white sign indicating a pedestrian crossing.
+An image with three cars, a sky, a building, a grass, a pavement, a tree, and a road.
+An image with a road, three cars, a sky, a tree, a pavement, a grass, and a building.
+An image with three cars, a building, a grass, a road, a pavement, a tree, and a sky.
+An image with three cars, a tree, a road, a grass, a building, a pavement, and a sky.
+An image with three cars, a pavement, a sky, a building, a grass, a tree, and a road.

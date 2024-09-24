@@ -8,3 +8,8 @@ A classroom filled with students.
 A classroom scene with students engaged in learning activities, surrounded by educational materials and furniture.
 A classroom filled with students sitting at desks, with a teacher standing at the front of the room.
 A classroom scene with students seated at desks, engaged in learning activities, under the supervision of a teacher.
+An image with a paper, a wall, a clock, a table, eleven people, five books, nine chairs, a ceiling, a rug, and a light.
+An image with eleven people, a table, a wall, nine chairs, five books, a rug, a light, a ceiling, a clock, and a paper.
+An image with a paper, eleven people, a light, five books, a wall, nine chairs, a ceiling, a table, a rug, and a clock.
+An image with eleven people, nine chairs, a light, five books, a table, a wall, a rug, a clock, a paper, and a ceiling.
+An image with nine chairs, eleven people, a paper, five books, a ceiling, a wall, a clock, a light, a table, and a rug.

@@ -8,3 +8,8 @@ A blurry image of a microwave oven.
 The image shows a large, industrial machine with a yellow warning label, sitting on a wooden table, with a black cord running from it.
 The image shows a large, blue and grey machine with a yellow warning label, sitting on a wooden table, with a black cord on the floor.
 The image shows a room with a large metal object, a blue and black machine, and a wooden table.
+An image with a table, a wall, a floor, and a cardboard.
+An image with a table, a floor, a cardboard, and a wall.
+An image with a wall, a floor, a table, and a cardboard.
+An image with a table, a cardboard, a wall, and a floor.
+An image with a table, a wall, a cardboard, and a floor.

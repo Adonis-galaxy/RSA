@@ -8,3 +8,8 @@ A white napkin on a counter.
 A white napkin on a counter next to a blue and yellow box of tissues.
 A small basket of tissues sits on a counter next to a blue and white box of tissues and a cup of straws.
 A white napkin on a counter next to a blue and yellow container with straws and a white cup.
+An image with a floor, a paper, a refrigerator, a wall, a cup, and a table.
+An image with a wall, a floor, a cup, a refrigerator, a paper, and a table.
+An image with a cup, a floor, a table, a refrigerator, a paper, and a wall.
+An image with a wall, a floor, a paper, a cup, a table, and a refrigerator.
+An image with a paper, a floor, a cup, a wall, a table, and a refrigerator.

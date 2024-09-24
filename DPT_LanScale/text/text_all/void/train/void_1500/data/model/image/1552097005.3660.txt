@@ -8,3 +8,8 @@ A model of a building with a glass wall.
 The image shows a model of a building with a green roof, viewed from an elevated angle.
 The image shows a model of a building with a green roof, a white exterior, and a red stripe on the side, placed on a wooden table.
 The image shows a model of a building with a glass facade, featuring a courtyard and a multi-story structure with a flat roof.
+An image with two floors, a wall, a building, and a ceiling.
+An image with two floors, a wall, a ceiling, and a building.
+An image with a wall, a ceiling, two floors, and a building.
+An image with a building, two floors, a wall, and a ceiling.
+An image with a building, a ceiling, two floors, and a wall.

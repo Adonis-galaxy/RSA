@@ -8,3 +8,8 @@ A bicycle is leaning against a wall in a hallway.
 A bicycle parked in an office hallway next to a blue trash can.
 A bicycle is parked in a hallway next to a blue trash can and a door with a green cross on it.
 The image shows an indoor hallway with a bicycle parked against a wall, a blue trash can, a wooden floor, and a doorway leading to another room.
+An image with a wall, a bicycle, a ceiling, a floor, a table, and a door.
+An image with a door, a table, a ceiling, a floor, a bicycle, and a wall.
+An image with a door, a ceiling, a floor, a wall, a table, and a bicycle.
+An image with a floor, a door, a table, a wall, a ceiling, and a bicycle.
+An image with a table, a ceiling, a bicycle, a wall, a floor, and a door.

@@ -8,3 +8,8 @@ The image shows a narrow street with a blue car parked on the side.
 The image captures a quiet residential street, with a blue car parked in front of a white house, under a clear blue sky.
 The image shows a narrow street between two buildings, with a blue car parked on the right side and a white car parked on the left side.
 The image depicts a narrow street lined with parked cars, apartment buildings, and a white wall, with a blue sky overhead.
+An image with two cars, a road, a tree, a wall, a pavement, a sky, and a fence.
+An image with two cars, a tree, a wall, a fence, a road, a sky, and a pavement.
+An image with a tree, two cars, a fence, a road, a wall, a sky, and a pavement.
+An image with a sky, a pavement, a wall, two cars, a fence, a tree, and a road.
+An image with a wall, a sky, a road, a pavement, two cars, a tree, and a fence.

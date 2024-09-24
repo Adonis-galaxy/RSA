@@ -8,3 +8,8 @@ A living room with a brown couch.
 The image captures a cozy living room setting with a large, patterned sofa as the focal point, flanked by two red armchairs, a wooden coffee table, and a floor lamp, all arranged around a white fireplace.
 The image shows a living room with a large, patterned sofa, a smaller red chair, a wooden coffee table, and a lamp.
 The image shows a living room with a brown sofa, a red armchair, a wooden coffee table, a lamp, and a white floor lamp.
+An image with a window, two chairs, a table, a couch, a cell, a floor, a wall, and a curtain.
+An image with a curtain, a table, two chairs, a floor, a window, a couch, a cell, and a wall.
+An image with a couch, a table, a cell, two chairs, a window, a curtain, a floor, and a wall.
+An image with a cell, two chairs, a curtain, a window, a couch, a floor, a wall, and a table.
+An image with two chairs, a floor, a cell, a window, a couch, a wall, a curtain, and a table.

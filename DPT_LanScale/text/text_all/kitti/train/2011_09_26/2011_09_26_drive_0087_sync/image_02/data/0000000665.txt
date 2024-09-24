@@ -8,3 +8,8 @@ The image shows a street scene with a yellow truck parked on the side of the roa
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a stone wall lining the sidewalk, and a white house with a red roof in the background.
 The image shows a narrow street lined with houses, a yellow car parked on the side, and a sign indicating a one-way street.
 A quiet residential street with a mix of old and new buildings, lined with trees and a yellow car parked on the side.
+An image with two cars, two walls, a tree, a clock, a pavement, a road, a sky, and a house.
+An image with a pavement, a house, a clock, two cars, a sky, a tree, two walls, and a road.
+An image with a tree, two cars, a clock, a sky, two walls, a house, a road, and a pavement.
+An image with a clock, a road, a pavement, two cars, a sky, two walls, a house, and a tree.
+An image with a clock, a sky, two cars, a house, a tree, two walls, a pavement, and a road.

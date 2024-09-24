@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and houses.
 A quiet residential street, lined with parked cars and a motorcycle, under a clear blue sky.
 The image shows a narrow street lined with parked cars and tall trees, with a large black car parked on the side of the road.
 A narrow, tree-lined street with parked cars and a motorcycle, leading to a residential area with houses and a garage.
+An image with a tree, a wall, two cars, a road, a pavement, a house, and a sky.
+An image with a road, two cars, a tree, a wall, a sky, a pavement, and a house.
+An image with a road, two cars, a house, a tree, a wall, a sky, and a pavement.
+An image with a road, two cars, a tree, a house, a pavement, a sky, and a wall.
+An image with a house, two cars, a pavement, a wall, a road, a sky, and a tree.

@@ -8,3 +8,8 @@ The image is a color photograph of a residential street.
 The image captures a serene residential street, where the sun casts long shadows, highlighting the quiet charm of the neighborhood.
 The image depicts a narrow street lined with parked cars, motorcycles, and a few pedestrians, with houses on both sides, and the sun is shining brightly.
 The image captures a serene residential street, lined with houses, trees, and parked cars, all under a clear blue sky.
+An image with a house, a road, eight cars, a fire, a motorcycle, a pavement, a tree, and a sky.
+An image with eight cars, a house, a fire, a road, a tree, a sky, a motorcycle, and a pavement.
+An image with eight cars, a tree, a road, a sky, a house, a pavement, a fire, and a motorcycle.
+An image with a fire, eight cars, a road, a tree, a pavement, a house, a sky, and a motorcycle.
+An image with a tree, eight cars, a pavement, a fire, a house, a motorcycle, a sky, and a road.

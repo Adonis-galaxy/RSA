@@ -8,3 +8,8 @@ The image shows an office space with a row of desks and chairs.
 The image captures an indoor space with a row of desks, chairs, and a counter, illuminated by overhead lights.
 The image shows an indoor space with a large room containing several tables and chairs, a counter with a trash can, and a hallway leading to another room.
 The image shows an indoor space with a row of desks, chairs, and a counter, all under fluorescent lighting.
+An image with a ceiling, four chairs, a mouse, a wall, a tv, a window, a door, a light, a couch, a table, and a rug.
+An image with a mouse, a light, a tv, four chairs, a window, a table, a rug, a door, a ceiling, a wall, and a couch.
+An image with four chairs, a table, a window, a ceiling, a light, a rug, a wall, a tv, a door, a couch, and a mouse.
+An image with a ceiling, four chairs, a tv, a table, a wall, a rug, a light, a window, a couch, a mouse, and a door.
+An image with a window, a mouse, four chairs, a light, a table, a door, a couch, a rug, a tv, a ceiling, and a wall.

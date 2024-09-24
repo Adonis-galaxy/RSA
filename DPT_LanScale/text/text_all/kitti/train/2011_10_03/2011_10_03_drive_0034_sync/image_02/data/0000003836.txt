@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with parked cars and a few pedestrians, under a bright sunny sky.
 The image shows a narrow, tree-lined street with parked cars on the side, leading to a white building with a balcony.
 A quiet residential street with parked cars, a sidewalk, and a tree-lined road.
+An image with six cars, a tree, a sky, a wall, a road, and a pavement.
+An image with a sky, six cars, a tree, a road, a wall, and a pavement.
+An image with a wall, six cars, a sky, a pavement, a road, and a tree.
+An image with a road, six cars, a sky, a pavement, a wall, and a tree.
+An image with six cars, a sky, a wall, a road, a tree, and a pavement.

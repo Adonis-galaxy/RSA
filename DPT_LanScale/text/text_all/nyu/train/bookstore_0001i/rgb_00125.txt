@@ -8,3 +8,8 @@ The image shows a store with a counter and shelves.
 The image captures a well-stocked store with a variety of items, including books, electronics, and a selection of toys, all neatly arranged on shelves and a counter.
 The image shows a store with a large orange wall, a counter with various items, a large number of books, a large number of ducks, and a large number of signs.
 The image shows a store with a counter displaying various items, aisles with shelves stocked with merchandise, and a color scheme of orange walls and a gray counter.
+An image with a teddy, four books, a ceiling, a table, a tv, a wall, a cabinet, and a floor.
+An image with a tv, a cabinet, four books, a ceiling, a floor, a wall, a teddy, and a table.
+An image with a ceiling, a cabinet, a table, a floor, four books, a wall, a tv, and a teddy.
+An image with a ceiling, four books, a cabinet, a wall, a table, a floor, a teddy, and a tv.
+An image with four books, a wall, a tv, a ceiling, a floor, a teddy, a table, and a cabinet.

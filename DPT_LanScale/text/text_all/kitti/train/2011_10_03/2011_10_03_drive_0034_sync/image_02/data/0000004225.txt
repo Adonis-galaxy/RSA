@@ -8,3 +8,8 @@ A tree-lined street.
 The image captures a serene, tree-lined street, bathed in sunlight, with a clear path leading to the horizon.
 The image shows a tree-lined street with a sidewalk on the right side, and a fence on the left side. The street is shaded by the trees, and it appears to be a sunny day.
 A tree-lined street with a sidewalk and a fence on the right side.
+An image with a road, a grass, a pavement, a tree, a wall, and a sky.
+An image with a grass, a road, a tree, a wall, a pavement, and a sky.
+An image with a grass, a pavement, a road, a wall, a sky, and a tree.
+An image with a wall, a road, a pavement, a sky, a grass, and a tree.
+An image with a sky, a wall, a grass, a tree, a pavement, and a road.

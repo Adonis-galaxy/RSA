@@ -8,3 +8,8 @@ A black cart with a monitor on top.
 A black cart with a white top is placed in a room with a checkered floor.
 A black cart with a monitor on top, sitting on a checkered floor in a room with a white wall.
 The image shows a black cart with a shelf on top, placed in a room with a checkered floor and a white wall.
+An image with a tv, a floor, a refrigerator, a wall, and a chair.
+An image with a wall, a refrigerator, a chair, a tv, and a floor.
+An image with a tv, a chair, a refrigerator, a floor, and a wall.
+An image with a refrigerator, a tv, a chair, a floor, and a wall.
+An image with a floor, a refrigerator, a tv, a wall, and a chair.

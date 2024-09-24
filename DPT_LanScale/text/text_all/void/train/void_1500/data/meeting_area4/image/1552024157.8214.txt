@@ -8,3 +8,8 @@ A white round object on the floor.
 The image shows a white desk with a chair in a room with a carpeted floor.
 The image shows a white desk with a chair, a white desk with a chair, and a white desk with a chair.
 The image shows a room with two desks, one white and one gray, placed on a gray carpeted floor.
+An image with a floor, a window, a chair, two dinings, and a wall.
+An image with two dinings, a window, a chair, a wall, and a floor.
+An image with two dinings, a wall, a floor, a window, and a chair.
+An image with a window, a chair, a floor, two dinings, and a wall.
+An image with a chair, two dinings, a window, a wall, and a floor.

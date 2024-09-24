@@ -8,3 +8,8 @@ A white chair in a room.
 A small, white refrigerator stands in a corner next to a table with a chair, a water dispenser, and a bag on it.
 A small white refrigerator is in the corner of a room with a white table and a white chair.
 A small, simple kitchenette with a white refrigerator, a water dispenser, a white chair, and a table.
+An image with a chair, a refrigerator, a wall, a handbag, a floor, a cell, and a dining.
+An image with a dining, a wall, a cell, a floor, a refrigerator, a chair, and a handbag.
+An image with a handbag, a floor, a refrigerator, a wall, a chair, a dining, and a cell.
+An image with a refrigerator, a cell, a handbag, a dining, a wall, a chair, and a floor.
+An image with a chair, a dining, a wall, a handbag, a refrigerator, a floor, and a cell.

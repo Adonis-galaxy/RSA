@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a paved pathway, lined with trees and houses.
 The image shows a street scene with a row of houses, a paved path, a car parked on the side of the road, and a few trees.
 A tree-lined street with parked cars and a sidewalk, leading to a row of houses.
+An image with a sky, eight cars, a tree, a grass, a house, a road, and a person.
+An image with eight cars, a grass, a road, a person, a sky, a house, and a tree.
+An image with a sky, a grass, eight cars, a person, a tree, a house, and a road.
+An image with eight cars, a road, a grass, a person, a tree, a house, and a sky.
+An image with eight cars, a person, a road, a sky, a house, a tree, and a grass.

@@ -8,3 +8,8 @@ The image shows a street view with a white house, trees, and cars.
 A quiet residential street with a mix of houses and trees, leading to a white building with a red door.
 The image shows a residential street with a large house on the right, a smaller house on the left, and a car parked in front of the larger house. The street is lined with trees and there are sidewalks on both sides.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a sky, two cars, a road, a pavement, a grass, a house, a bicycle, and a tree.
+An image with a pavement, two cars, a bicycle, a tree, a sky, a road, a grass, and a house.
+An image with a tree, a house, two cars, a grass, a sky, a bicycle, a road, and a pavement.
+An image with a pavement, a sky, two cars, a tree, a house, a road, a bicycle, and a grass.
+An image with a sky, a house, a pavement, a road, two cars, a bicycle, a grass, and a tree.

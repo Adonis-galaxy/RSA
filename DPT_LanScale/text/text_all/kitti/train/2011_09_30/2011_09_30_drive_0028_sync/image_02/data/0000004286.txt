@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and houses.
 A lush, tree-lined street with parked cars and a green van, leading to a white house with a red roof.
 The image shows a narrow street lined with parked cars and houses, with a green van parked on the left side of the street.
 A narrow, tree-lined street with parked cars and a white house on the right side.
+An image with four cars, a pavement, a house, a sky, a fence, a road, and a tree.
+An image with four cars, a sky, a pavement, a house, a fence, a tree, and a road.
+An image with four cars, a sky, a road, a tree, a pavement, a fence, and a house.
+An image with four cars, a house, a pavement, a road, a tree, a fence, and a sky.
+An image with a tree, a sky, four cars, a fence, a pavement, a house, and a road.

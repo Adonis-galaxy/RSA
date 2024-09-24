@@ -8,3 +8,8 @@ A car on a street.
 A silver car on a tree-lined street, with a clear sky overhead and a white building in the distance.
 A silver car is driving down a tree-lined street, passing under a street sign.
 A car is driving down a tree-lined street, with a white building visible in the background.
+An image with a road, a tree, a car, a grass, and a house.
+An image with a house, a tree, a car, a grass, and a road.
+An image with a road, a tree, a house, a car, and a grass.
+An image with a road, a car, a tree, a grass, and a house.
+An image with a grass, a house, a tree, a road, and a car.

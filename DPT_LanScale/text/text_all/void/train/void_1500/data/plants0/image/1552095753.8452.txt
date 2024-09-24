@@ -8,3 +8,8 @@ A concrete planter with sand and plants.
 The image shows a small garden area with a variety of plants and trees, and a wooden bench.
 The image shows a small garden area with a few plants and trees, and a concrete planter with a wooden bench.
 The image shows a small garden area with a variety of plants and trees, surrounded by a concrete border and wooden deck.
+An image with a paper, two walls, a floor, a tree, a pavement, and a dirt.
+An image with a floor, a tree, a paper, a pavement, a dirt, and two walls.
+An image with a tree, a pavement, two walls, a floor, a paper, and a dirt.
+An image with a floor, two walls, a dirt, a tree, a pavement, and a paper.
+An image with two walls, a paper, a floor, a tree, a dirt, and a pavement.

@@ -8,3 +8,8 @@ A concrete slab is leaning against a brick wall.
 A concrete slab is leaning against a brick wall, surrounded by plants and dirt.
 A large concrete slab is leaning against a brick wall, surrounded by plants and dirt.
 A concrete slab is leaning against a brick wall, surrounded by plants and dirt.
+An image with a window, a tree, a dirt, two walls, and a bench.
+An image with two walls, a window, a tree, a bench, and a dirt.
+An image with a tree, two walls, a dirt, a bench, and a window.
+An image with two walls, a dirt, a tree, a bench, and a window.
+An image with two walls, a dirt, a window, a bench, and a tree.

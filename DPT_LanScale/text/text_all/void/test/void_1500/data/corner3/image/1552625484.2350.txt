@@ -8,3 +8,8 @@ A black bag with orange trim.
 A black bag with orange accents sits next to a chair with a red handle, both leaning against a white wall.
 A large black bag with orange accents is sitting on the floor next to a chair and a set of camera equipment.
 A black bag with orange accents sits on the floor next to a chair, with a set of camera equipment leaning against the wall.
+An image with a wall, a suitcase, a door, a rug, and a chair.
+An image with a door, a chair, a suitcase, a rug, and a wall.
+An image with a rug, a suitcase, a door, a wall, and a chair.
+An image with a door, a suitcase, a chair, a wall, and a rug.
+An image with a chair, a suitcase, a wall, a door, and a rug.

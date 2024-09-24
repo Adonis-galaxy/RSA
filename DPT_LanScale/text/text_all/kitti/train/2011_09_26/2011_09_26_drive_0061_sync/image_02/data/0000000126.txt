@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a bustling city street, with a white car leading the way down the road, surrounded by a variety of parked and moving vehicles, including a blue car and a red truck, all nestled between buildings and trees.
 The image shows a narrow street lined with parked cars, with a white car in the foreground and a blue car in the background.
 A narrow street in a residential area with parked cars on both sides, leading to a red brick building.
+An image with a tree, thirteen cars, a road, a wall, a house, a fence, and a sky.
+An image with a road, a house, thirteen cars, a wall, a sky, a tree, and a fence.
+An image with a sky, thirteen cars, a house, a tree, a wall, a fence, and a road.
+An image with thirteen cars, a road, a tree, a sky, a wall, a house, and a fence.
+An image with a sky, a tree, thirteen cars, a road, a fence, a wall, and a house.

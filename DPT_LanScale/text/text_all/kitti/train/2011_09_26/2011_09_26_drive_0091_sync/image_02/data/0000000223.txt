@@ -8,3 +8,8 @@ The image shows a narrow street between buildings, with a train track running do
 The image captures a bustling city street, with a focus on the interaction between pedestrians, cyclists, and the urban environment.
 A narrow alleyway between two buildings, with a train track running through it, flanked by potted plants and awnings.
 A narrow, cobblestone street runs between two-story buildings, with a curved path leading to a covered walkway.
+An image with eleven people, a building, three bicycles, a railroad, a pavement, a umbrella, a sky, and a tree.
+An image with a railroad, eleven people, three bicycles, a sky, a umbrella, a building, a pavement, and a tree.
+An image with a pavement, a sky, a railroad, a umbrella, eleven people, a tree, a building, and three bicycles.
+An image with eleven people, a tree, a pavement, three bicycles, a umbrella, a railroad, a building, and a sky.
+An image with a tree, eleven people, a building, a pavement, three bicycles, a sky, a railroad, and a umbrella.

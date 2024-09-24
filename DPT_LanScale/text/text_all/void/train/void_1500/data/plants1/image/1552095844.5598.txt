@@ -8,3 +8,8 @@ A concrete slab in a garden.
 A concrete slab is placed on a patch of dirt with plants growing around it.
 A large concrete slab is placed on the ground, surrounded by plants and grass.
 A concrete slab is placed on a patch of dirt with grass and plants surrounding it.
+An image with a gravel, a wall, a tree, and a pavement.
+An image with a wall, a gravel, a pavement, and a tree.
+An image with a tree, a pavement, a gravel, and a wall.
+An image with a wall, a gravel, a tree, and a pavement.
+An image with a tree, a gravel, a wall, and a pavement.

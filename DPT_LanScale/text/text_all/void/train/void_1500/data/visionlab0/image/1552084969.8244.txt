@@ -8,3 +8,8 @@ A poster on a wall.
 A poster on a wall next to a chair.
 The image shows a large whiteboard with blue text on a beige wall, with a black chair in the foreground.
 The image shows a wall with a large whiteboard and a smaller whiteboard with text on it, and a black chair in front of the wall.
+An image with a wall, a table, a paper, a chair, and a door.
+An image with a door, a wall, a paper, a chair, and a table.
+An image with a paper, a wall, a table, a door, and a chair.
+An image with a door, a table, a wall, a chair, and a paper.
+An image with a wall, a paper, a chair, a table, and a door.

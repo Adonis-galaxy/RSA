@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a serene day on a tree-lined road, with a few cars and a motorcycle moving along the empty street, under a clear blue sky.
 The image shows a wide, tree-lined road with a few cars, a train track, and a clear blue sky.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and a train track running parallel to the road.
+An image with six cars, a road, a grass, a traffic, a railroad, a sky, and a tree.
+An image with a tree, six cars, a grass, a railroad, a road, a sky, and a traffic.
+An image with a tree, a railroad, six cars, a road, a grass, a traffic, and a sky.
+An image with a road, six cars, a sky, a grass, a railroad, a traffic, and a tree.
+An image with a railroad, a traffic, six cars, a road, a tree, a sky, and a grass.

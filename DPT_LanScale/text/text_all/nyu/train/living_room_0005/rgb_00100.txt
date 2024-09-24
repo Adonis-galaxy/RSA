@@ -8,3 +8,8 @@ A man is reflected in a mirror on the wall.
 A man in a plaid shirt is reflected in a mirror above a couch, with a lamp and a plant nearby.
 A man is reflected in a mirror on the wall above a couch, which is in front of a lamp with a red base.
 A man is reflected in a mirror above a couch, which is situated in a living room with a lamp and a plant on a table.
+An image with a potted, a mirror, a light, a table, a person, a wall, and a couch.
+An image with a table, a person, a light, a couch, a mirror, a wall, and a potted.
+An image with a mirror, a table, a potted, a light, a person, a couch, and a wall.
+An image with a light, a mirror, a table, a wall, a potted, a person, and a couch.
+An image with a light, a couch, a mirror, a person, a table, a potted, and a wall.

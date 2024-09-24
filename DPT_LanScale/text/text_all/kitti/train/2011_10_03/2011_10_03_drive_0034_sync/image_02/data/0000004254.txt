@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a quiet residential street, with a clear sky overhead and a sunny day, featuring a triangular street sign indicating a pedestrian crossing, a curved road with a white line, a stone wall, and a few houses with green hedges.
 The image shows a narrow street with a red and white yield sign, a white wall, a green hedge, a house with a red roof, a street lamp, and a car parked on the side of the road.
 The image depicts a quiet residential street with a clear sky, lined with houses, trees, and a road sign.
+An image with a wall, a sky, a grass, a tree, a road, and a pavement.
+An image with a sky, a road, a pavement, a tree, a wall, and a grass.
+An image with a wall, a grass, a road, a pavement, a sky, and a tree.
+An image with a tree, a grass, a wall, a pavement, a sky, and a road.
+An image with a road, a pavement, a tree, a wall, a sky, and a grass.

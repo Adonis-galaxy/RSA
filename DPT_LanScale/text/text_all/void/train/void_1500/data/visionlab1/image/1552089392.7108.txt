@@ -8,3 +8,8 @@ A whiteboard with writing on it in a room.
 A whiteboard with writing on it, a cardboard box, and a black bag in a room.
 The image shows a whiteboard with writing on it, a cardboard box, a black bag, and a green object in the background.
 The image shows a whiteboard with writing on it, a cardboard box, a black bag, and a green object in the background.
+An image with a rug, a cabinet, a backpack, a wall, and a cardboard.
+An image with a cardboard, a rug, a backpack, a wall, and a cabinet.
+An image with a rug, a backpack, a cardboard, a cabinet, and a wall.
+An image with a rug, a backpack, a cabinet, a wall, and a cardboard.
+An image with a cardboard, a backpack, a cabinet, a wall, and a rug.

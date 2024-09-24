@@ -8,3 +8,8 @@ A man riding a bicycle down a narrow street between parked cars.
 A cyclist navigates a narrow street between parked cars, with a clear sky overhead.
 A person riding a bicycle in the middle of a narrow street between parked cars.
 A narrow street in a residential area, with parked cars on both sides and a cyclist in the middle, under a clear sky.
+An image with eight cars, a bicycle, a flower, a tree, a potted, a road, a pavement, a person, and a building.
+An image with a bicycle, eight cars, a potted, a pavement, a tree, a flower, a building, a person, and a road.
+An image with eight cars, a building, a tree, a person, a potted, a flower, a road, a pavement, and a bicycle.
+An image with a road, eight cars, a bicycle, a flower, a building, a tree, a pavement, a potted, and a person.
+An image with a flower, eight cars, a road, a potted, a person, a tree, a building, a pavement, and a bicycle.

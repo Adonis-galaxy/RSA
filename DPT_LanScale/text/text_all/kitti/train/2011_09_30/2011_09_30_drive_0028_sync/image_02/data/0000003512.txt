@@ -8,3 +8,8 @@ A white camper van parked on a street.
 A white camper van parked on a narrow street between white walls and trees, with a blue awning and a red car parked behind it.
 A large white camper is driving down a narrow street between two white walls, with a few cars parked on the side.
 A narrow street in a residential area, with parked cars and a white camper van driving down it.
+An image with a road, five cars, a tree, a sky, a wall, a pavement, a bus, and a building.
+An image with a building, a bus, five cars, a road, a sky, a wall, a pavement, and a tree.
+An image with a sky, five cars, a pavement, a tree, a wall, a building, a road, and a bus.
+An image with a bus, a road, five cars, a wall, a sky, a tree, a pavement, and a building.
+An image with a road, five cars, a bus, a building, a tree, a pavement, a sky, and a wall.

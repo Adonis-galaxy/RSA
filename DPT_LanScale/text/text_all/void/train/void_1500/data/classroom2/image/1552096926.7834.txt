@@ -8,3 +8,8 @@ The image shows a classroom with several black chairs and desks.
 The image shows a classroom with rows of black chairs and orange desks, all facing the same direction.
 The image shows a classroom with several black chairs and desks, with a focus on two desks and chairs in the foreground.
 The image shows a classroom with rows of black chairs and orange desks, arranged in a symmetrical pattern on a beige carpeted floor.
+An image with six chairs, a dining, a floor, a door, a rug, and a wall.
+An image with a door, six chairs, a dining, a wall, a rug, and a floor.
+An image with a dining, a door, a floor, a wall, six chairs, and a rug.
+An image with six chairs, a rug, a wall, a dining, a floor, and a door.
+An image with six chairs, a dining, a door, a rug, a floor, and a wall.

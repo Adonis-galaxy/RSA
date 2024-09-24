@@ -8,3 +8,8 @@ A television on a cart.
 A television on a wooden cart in a living room.
 A small television is sitting on a wooden cart in a room.
 A small, dark room with a television on a wooden cart, a doorway, and a counter with a microwave.
+An image with a cabinet, a wall, a tv, a rug, a shelf, a door, and a couch.
+An image with a tv, a cabinet, a couch, a shelf, a rug, a wall, and a door.
+An image with a cabinet, a door, a couch, a wall, a shelf, a tv, and a rug.
+An image with a shelf, a tv, a cabinet, a wall, a door, a couch, and a rug.
+An image with a tv, a couch, a cabinet, a rug, a wall, a shelf, and a door.

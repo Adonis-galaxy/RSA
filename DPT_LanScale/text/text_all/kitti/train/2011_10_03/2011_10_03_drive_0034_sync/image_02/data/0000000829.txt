@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined residential street, with a pathway leading to a white building, under a clear blue sky.
 The image shows a narrow, tree-lined street with a white building on the left, a car parked on the right, and a few bushes and trees along the sides. The street is shaded by the trees, and there are some graffiti-like markings on the pavement.
 A quiet, tree-lined residential street with a paved pathway, parked cars, and a white building on the left.
+An image with a road, a building, a sky, a tree, a grass, and a pavement.
+An image with a road, a sky, a pavement, a building, a tree, and a grass.
+An image with a grass, a road, a pavement, a building, a tree, and a sky.
+An image with a grass, a tree, a sky, a pavement, a building, and a road.
+An image with a sky, a tree, a road, a grass, a building, and a pavement.

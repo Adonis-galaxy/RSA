@@ -8,3 +8,8 @@ A black car parked on a street.
 A black car parked on a tree-lined street, with a clear sky overhead and a sunny day.
 A black car is parked on the side of a tree-lined street.
 A black car is parked on the side of a tree-lined street, with a clear sky overhead.
+An image with a wall, two cars, a road, a sky, a pavement, and a tree.
+An image with a road, two cars, a pavement, a wall, a sky, and a tree.
+An image with a road, a sky, two cars, a tree, a wall, and a pavement.
+An image with a tree, a sky, two cars, a pavement, a wall, and a road.
+An image with a sky, a road, two cars, a tree, a wall, and a pavement.

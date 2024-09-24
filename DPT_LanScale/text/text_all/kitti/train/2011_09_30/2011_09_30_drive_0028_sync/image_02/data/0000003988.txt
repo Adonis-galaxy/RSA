@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a tranquil day in a suburban area, where a tree-lined street leads to a train station, with parked cars and a pedestrian adding life to the scene.
 A large train station with a train on the tracks, surrounded by trees and buildings, with a sidewalk and cars nearby.
 The image captures a tranquil day in a suburban area, featuring a tree-lined street with parked cars, a train station, and a pedestrian walking on the sidewalk.
+An image with five cars, three people, a train, a tree, a sky, a grass, a pavement, and a road.
+An image with five cars, a train, three people, a road, a pavement, a sky, a tree, and a grass.
+An image with a train, three people, five cars, a road, a pavement, a tree, a sky, and a grass.
+An image with five cars, three people, a sky, a road, a grass, a pavement, a tree, and a train.
+An image with a road, five cars, a tree, a pavement, three people, a sky, a train, and a grass.

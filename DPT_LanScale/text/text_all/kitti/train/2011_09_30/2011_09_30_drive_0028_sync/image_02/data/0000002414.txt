@@ -8,3 +8,8 @@ The image shows a street scene with a person riding a bicycle on the road.
 A person riding a bicycle on a street in a residential area, with houses, trees, and signs, under a clear blue sky.
 A man riding a bicycle on a street in a residential area, with a large white house and a blue sign on a pole in the foreground.
 A man rides a bicycle on a street lined with houses, trees, and signs, with a curved sidewalk and a roundabout at the intersection.
+An image with eight cars, a person, a road, a house, a pavement, a bicycle, a tree, and a sky.
+An image with eight cars, a bicycle, a house, a person, a sky, a road, a tree, and a pavement.
+An image with eight cars, a house, a pavement, a tree, a road, a bicycle, a person, and a sky.
+An image with a pavement, eight cars, a house, a tree, a bicycle, a road, a sky, and a person.
+An image with eight cars, a sky, a road, a tree, a bicycle, a house, a pavement, and a person.

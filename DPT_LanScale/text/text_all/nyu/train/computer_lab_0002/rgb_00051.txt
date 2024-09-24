@@ -8,3 +8,8 @@ The image shows an office cubicle with a desk, computer, and chair.
 The image shows an office space with a desk, chair, and computer equipment, including a monitor, keyboard, and telephone.
 The image shows a small office with a desk, two chairs, two computer monitors, a keyboard, a mouse, and a printer.
 The image shows an office space with a desk, chair, computer, and storage cabinets.
+An image with a table, two tvs, two chairs, a floor, two keyboards, a mouse, a cabinet, and a wall.
+An image with a wall, two keyboards, two chairs, a floor, a table, two tvs, a mouse, and a cabinet.
+An image with two tvs, two keyboards, a floor, a cabinet, a wall, a table, two chairs, and a mouse.
+An image with two keyboards, two tvs, a wall, a table, two chairs, a mouse, a cabinet, and a floor.
+An image with two keyboards, two tvs, a table, two chairs, a mouse, a cabinet, a wall, and a floor.

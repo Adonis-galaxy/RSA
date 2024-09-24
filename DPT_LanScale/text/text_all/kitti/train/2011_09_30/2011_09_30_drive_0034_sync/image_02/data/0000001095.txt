@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area.
 A quiet residential street, lined with houses and trees, leads to a public road where a bus and a car are parked.
 A narrow street between two-story houses, lined with trees and bushes, with a large black truck parked on the right side.
 A narrow, tree-lined street in a residential area, with parked cars and a fire truck, leading to a white house with a black roof.
+An image with a house, a tree, three cars, a fence, a road, a wall, a sky, and a bus.
+An image with three cars, a road, a tree, a sky, a wall, a fence, a house, and a bus.
+An image with a house, three cars, a bus, a tree, a sky, a fence, a road, and a wall.
+An image with a bus, a road, three cars, a house, a wall, a fence, a sky, and a tree.
+An image with three cars, a bus, a tree, a road, a fence, a sky, a house, and a wall.

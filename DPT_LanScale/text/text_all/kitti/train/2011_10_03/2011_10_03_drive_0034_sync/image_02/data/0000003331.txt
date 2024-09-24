@@ -8,3 +8,8 @@ The image shows a quiet residential street with a few parked cars and a trash ca
 A quiet residential street, lined with trees and parked cars, under a clear sky.
 The image shows a narrow, tree-lined street with a few parked cars, a trash can, and a sign.
 A quiet residential street with parked cars, a brick wall, and a sidewalk.
+An image with a pavement, a road, a grass, a tree, two walls, a truck, and a sky.
+An image with a truck, a grass, a tree, two walls, a road, a sky, and a pavement.
+An image with a pavement, two walls, a grass, a sky, a truck, a road, and a tree.
+An image with a grass, a truck, two walls, a tree, a sky, a pavement, and a road.
+An image with two walls, a grass, a tree, a sky, a pavement, a truck, and a road.

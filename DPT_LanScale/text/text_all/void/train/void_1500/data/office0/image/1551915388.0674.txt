@@ -8,3 +8,8 @@ A black leather couch in a room.
 A wooden table is placed between a white door and a black couch.
 A small wooden table is placed next to a black leather couch.
 A brown wooden table is placed between a white door and a black leather couch.
+An image with a couch, a rug, a towel, a refrigerator, and a wall.
+An image with a rug, a towel, a refrigerator, a wall, and a couch.
+An image with a rug, a couch, a refrigerator, a wall, and a towel.
+An image with a rug, a refrigerator, a wall, a couch, and a towel.
+An image with a refrigerator, a couch, a rug, a towel, and a wall.

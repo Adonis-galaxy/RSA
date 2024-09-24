@@ -8,3 +8,8 @@ The image shows a street with cars and trees.
 The image captures a tranquil suburban street scene, with a mix of vehicles and trees, under a clear blue sky.
 The image shows a wide street with a few cars and trucks, lined by trees and buildings, and a clear sky overhead.
 The image shows a tree-lined street with a mix of vehicles, including cars and a bus, driving on the road.
+An image with six cars, a grass, a truck, a road, a house, a tree, and a pavement.
+An image with six cars, a pavement, a road, a grass, a house, a tree, and a truck.
+An image with six cars, a grass, a road, a house, a pavement, a tree, and a truck.
+An image with six cars, a road, a house, a truck, a pavement, a tree, and a grass.
+An image with a house, six cars, a pavement, a grass, a road, a tree, and a truck.

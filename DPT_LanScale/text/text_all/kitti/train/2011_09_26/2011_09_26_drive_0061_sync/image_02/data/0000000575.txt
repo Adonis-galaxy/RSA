@@ -8,3 +8,8 @@ A blue car parked on the side of a road.
 A blue car parked on the side of a narrow road, with a fence and trees on either side, leading to a pathway.
 A blue car is parked on the side of a narrow road, which is lined with a tall wooden fence and overgrown vegetation.
 A narrow, shaded roadway flanked by a tall wooden fence and lush greenery, with a blue car parked on the side.
+An image with a tree, a car, a wall, and a road.
+An image with a car, a wall, a road, and a tree.
+An image with a tree, a road, a car, and a wall.
+An image with a tree, a wall, a car, and a road.
+An image with a road, a car, a wall, and a tree.

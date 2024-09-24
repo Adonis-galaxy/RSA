@@ -8,3 +8,8 @@ A room with a blue line on the floor.
 The image shows an office space with a desk, chair, and a refrigerator, all set against a green wall.
 The image shows a small office with a desk, chair, and a refrigerator.
 The image shows an office space with a desk, a chair, a filing cabinet, a refrigerator, and a blue line on the floor.
+An image with a shelf, a refrigerator, two walls, a towel, a floor, three chairs, two people, and a dining.
+An image with three chairs, a refrigerator, a floor, two walls, two people, a dining, a shelf, and a towel.
+An image with three chairs, two people, a floor, a shelf, a refrigerator, a towel, two walls, and a dining.
+An image with a shelf, three chairs, a floor, a towel, two people, a dining, two walls, and a refrigerator.
+An image with a shelf, a refrigerator, two people, three chairs, two walls, a dining, a floor, and a towel.

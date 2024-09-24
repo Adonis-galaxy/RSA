@@ -8,3 +8,8 @@ A white delivery truck parked on a narrow street.
 A white delivery truck parked on a narrow, tree-lined street in a residential area.
 A large white delivery truck is parked on a narrow street between two buildings, with a blue toilet visible in the background.
 A white delivery truck is parked on a narrow, cobblestone street in a residential area, with a building on the left and a blue toilet on the right.
+An image with a truck, a tree, a house, a pavement, two cars, a wall, a roof, and a sky.
+An image with a wall, two cars, a pavement, a roof, a tree, a house, a sky, and a truck.
+An image with a wall, two cars, a truck, a sky, a roof, a house, a tree, and a pavement.
+An image with two cars, a house, a wall, a truck, a sky, a tree, a pavement, and a roof.
+An image with two cars, a roof, a tree, a truck, a house, a sky, a pavement, and a wall.

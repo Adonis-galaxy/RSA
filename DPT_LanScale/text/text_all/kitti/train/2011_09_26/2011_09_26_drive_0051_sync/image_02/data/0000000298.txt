@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a busy street scene with a white van driving down the road, surrounded by various vehicles and a lush green landscape.
 A large white van is driving down a tree-lined street, passing other vehicles, with a billboard visible in the background.
 A busy street scene with a white van driving down the road, surrounded by parked cars, trees, and a clear sky.
+An image with a truck, fourteen cars, a grass, a tree, a road, a building, a bus, and a sky.
+An image with fourteen cars, a sky, a road, a grass, a bus, a truck, a building, and a tree.
+An image with fourteen cars, a road, a tree, a truck, a bus, a sky, a grass, and a building.
+An image with fourteen cars, a grass, a bus, a building, a road, a tree, a sky, and a truck.
+An image with fourteen cars, a sky, a bus, a truck, a building, a road, a grass, and a tree.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a no left turn sign.
 The image captures a typical urban street scene with parked cars, a no-turn sign, and apartment buildings.
 The image shows a narrow street lined with parked cars, apartment buildings, and a red and blue circular sign.
 A narrow street lined with parked cars and buildings, with a no left turn sign at the end.
+An image with nine cars, a road, a building, a pavement, a tree, a wall, a stop, a grass, and a traffic.
+An image with a road, a wall, nine cars, a grass, a building, a traffic, a tree, a pavement, and a stop.
+An image with nine cars, a stop, a pavement, a grass, a traffic, a tree, a road, a building, and a wall.
+An image with nine cars, a wall, a tree, a traffic, a road, a stop, a pavement, a grass, and a building.
+An image with a tree, a wall, nine cars, a building, a stop, a traffic, a road, a grass, and a pavement.

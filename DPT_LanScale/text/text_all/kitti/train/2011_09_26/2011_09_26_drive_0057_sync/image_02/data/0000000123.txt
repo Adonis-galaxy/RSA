@@ -8,3 +8,8 @@ The image shows a busy street with cars and trucks driving on it.
 The image captures a bustling city intersection with a red car waiting at a traffic light, surrounded by various vehicles and street signs, under a clear blue sky.
 A red car is driving on a busy street with multiple lanes, surrounded by various vehicles, traffic lights, and street signs.
 A busy city intersection with multiple lanes, traffic lights, and vehicles.
+An image with a house, seven cars, a pavement, ten traffics, a sky, a road, a grass, a truck, a mountain, and a tree.
+An image with ten traffics, seven cars, a grass, a pavement, a sky, a mountain, a tree, a house, a road, and a truck.
+An image with ten traffics, seven cars, a house, a mountain, a sky, a pavement, a tree, a grass, a truck, and a road.
+An image with a road, seven cars, a tree, ten traffics, a pavement, a grass, a house, a truck, a sky, and a mountain.
+An image with ten traffics, a grass, a sky, seven cars, a mountain, a pavement, a house, a truck, a tree, and a road.

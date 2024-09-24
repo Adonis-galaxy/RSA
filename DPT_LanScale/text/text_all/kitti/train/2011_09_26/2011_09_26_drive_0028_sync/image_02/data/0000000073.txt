@@ -8,3 +8,8 @@ A car driving down a road.
 A silver car traveling down a tree-lined road, with a clear sky overhead.
 A silver car is driving down a tree-lined road.
 A silver car is driving down a tree-lined road with a clear sky overhead.
+An image with a road, a grass, two cars, a sky, and a tree.
+An image with two cars, a tree, a sky, a grass, and a road.
+An image with a road, a grass, a tree, two cars, and a sky.
+An image with a sky, a grass, a road, two cars, and a tree.
+An image with a tree, a road, two cars, a grass, and a sky.

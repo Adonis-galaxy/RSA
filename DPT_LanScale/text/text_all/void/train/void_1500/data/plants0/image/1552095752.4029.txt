@@ -8,3 +8,8 @@ The image shows a patch of dirt with sparse vegetation.
 The image shows a patch of dirt with sparse vegetation, including a few small trees and shrubs, with a concrete curb in the foreground.
 The image shows a close-up of a patch of dirt with sparse vegetation, including a few small plants and a tree trunk.
 The image shows a patch of dirt with sparse vegetation, including a few small trees and shrubs, with a concrete curb visible in the foreground.
+An image with a sand, a pavement, a tree, and two walls.
+An image with two walls, a pavement, a tree, and a sand.
+An image with a sand, two walls, a pavement, and a tree.
+An image with a sand, a pavement, two walls, and a tree.
+An image with a pavement, a sand, a tree, and two walls.

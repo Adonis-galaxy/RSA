@@ -8,3 +8,8 @@ The image shows a street scene with a black car driving down the road.
 The image captures a quiet residential street, with a few cars parked along the side, leading to a cul-de-sac where a white house with a red roof stands.
 The image shows a narrow street lined with houses and trees, with a few cars parked or moving along the road.
 A quiet residential street with a few cars parked along the side, lined with trees and houses.
+An image with a road, a house, four cars, a sky, a tree, and a grass.
+An image with four cars, a house, a grass, a sky, a road, and a tree.
+An image with a sky, four cars, a road, a grass, a house, and a tree.
+An image with four cars, a road, a tree, a house, a grass, and a sky.
+An image with four cars, a grass, a house, a tree, a sky, and a road.

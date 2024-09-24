@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 The image captures a quiet, tree-lined street with a clear sky overhead, a parking meter on the sidewalk, and a car parked at the end of the road.
 The image shows a tree-lined street with a parking meter on the sidewalk, a no parking sign on a pole, and a car parked at the end of the road.
 The image depicts a tree-lined street with a clear view of the road ahead, a parking meter on the sidewalk, and a no-parking sign at the end of the road.
+An image with a road, a tree, a car, a sky, a building, a grass, a pavement, and a parking.
+An image with a tree, a parking, a building, a pavement, a grass, a car, a sky, and a road.
+An image with a pavement, a car, a parking, a building, a road, a grass, a tree, and a sky.
+An image with a tree, a pavement, a parking, a car, a road, a sky, a building, and a grass.
+An image with a car, a building, a sky, a pavement, a grass, a parking, a tree, and a road.

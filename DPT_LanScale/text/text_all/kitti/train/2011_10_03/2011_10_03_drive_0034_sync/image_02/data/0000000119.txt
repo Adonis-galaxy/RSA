@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a single car, under a clear blue sky.
 A tree-lined street with a car driving down it, a sidewalk, and a building in the background.
 A tree-lined street with a car driving down it, leading to a white building with a green hedge.
+An image with a grass, two cars, a pavement, a sky, a road, a tree, and a house.
+An image with a grass, a pavement, a sky, a road, a tree, a house, and two cars.
+An image with a tree, a house, two cars, a sky, a road, a grass, and a pavement.
+An image with a house, a grass, a tree, a pavement, a sky, a road, and two cars.
+An image with a sky, two cars, a grass, a tree, a road, a house, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street with parked cars, a bicycle, and a few pedestrians, lined with trees and buildings, under a clear blue sky.
 The image shows a street scene with a large sign, a few cars, a bicycle, a potted plant, and a building under construction.
 A quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a pedestrian walkway.
+An image with a pavement, three potteds, nine cars, a tree, a house, a road, a person, a bicycle, and a grass.
+An image with nine cars, a house, a tree, a road, a bicycle, three potteds, a person, a grass, and a pavement.
+An image with nine cars, a pavement, three potteds, a bicycle, a grass, a road, a house, a person, and a tree.
+An image with nine cars, a house, a road, a tree, a person, a grass, a bicycle, three potteds, and a pavement.
+An image with nine cars, a pavement, a house, a tree, three potteds, a grass, a road, a bicycle, and a person.

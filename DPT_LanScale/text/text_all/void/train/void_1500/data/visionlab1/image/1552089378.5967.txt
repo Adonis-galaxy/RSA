@@ -8,3 +8,8 @@ A blurry office cubicle with a desk and chair.
 A cluttered office desk with a computer, monitor, keyboard, and chair.
 A small office cubicle with a desk, chair, computer monitor, keyboard, and mouse.
 The image shows a small office space with a desk, chair, computer monitor, keyboard, and mouse, as well as a whiteboard and a trash can.
+An image with a chair, a rug, a wall, a tv, a sink, a table, and a window.
+An image with a tv, a window, a wall, a sink, a chair, a table, and a rug.
+An image with a sink, a wall, a chair, a window, a tv, a table, and a rug.
+An image with a table, a window, a sink, a wall, a chair, a rug, and a tv.
+An image with a sink, a tv, a chair, a wall, a window, a table, and a rug.

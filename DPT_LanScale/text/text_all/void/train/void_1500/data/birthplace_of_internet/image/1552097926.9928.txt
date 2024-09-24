@@ -8,3 +8,8 @@ A large, empty room with a refrigerator and a table.
 The image shows a room with a large refrigerator, a table, and a trash can, all set against a green wall.
 The image shows a small room with a refrigerator, a table, and a trash can.
 The image shows a room with a large refrigerator, a table with chairs, a trash can, and a blue line on the floor.
+An image with a wall, a floor, three chairs, two people, a dining, a paper, a shelf, and two refrigerators.
+An image with three chairs, two people, a floor, two refrigerators, a wall, a dining, a paper, and a shelf.
+An image with three chairs, two people, two refrigerators, a paper, a dining, a wall, a floor, and a shelf.
+An image with a paper, two refrigerators, two people, a wall, a shelf, a dining, three chairs, and a floor.
+An image with a paper, three chairs, two people, two refrigerators, a floor, a wall, a shelf, and a dining.

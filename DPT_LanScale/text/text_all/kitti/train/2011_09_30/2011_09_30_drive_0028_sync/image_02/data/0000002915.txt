@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a sunlit street, with parked cars and a person walking on the sidewalk, under the shade of trees.
 A person riding a bicycle on a sunny day in a park-like setting, with a large tree and a white building in the background.
 A tree-lined street with a parked car, a bicyclist, and a pedestrian, all under a clear sky.
+An image with six cars, a grass, a road, a building, two people, a tree, a sky, a handbag, a pavement, and a bicycle.
+An image with a tree, a road, a grass, six cars, two people, a sky, a building, a bicycle, a handbag, and a pavement.
+An image with a building, a sky, a pavement, two people, six cars, a tree, a handbag, a bicycle, a grass, and a road.
+An image with two people, a tree, six cars, a bicycle, a sky, a building, a handbag, a road, a grass, and a pavement.
+An image with six cars, two people, a pavement, a sky, a tree, a road, a bicycle, a building, a handbag, and a grass.

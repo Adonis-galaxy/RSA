@@ -8,3 +8,8 @@ A picture hanging on a wall.
 The image captures a cozy, well-lit kitchen with a warm color palette, featuring a wooden floor, white cabinets, a framed artwork on the wall, and a dining table with chairs, all leading to a doorway that opens to a hallway.
 The image shows a small kitchen with a wooden floor, white cabinets, a refrigerator, a table, a chair, and a picture on the wall.
 The image shows a kitchen with a wooden floor, white cabinets, a refrigerator, a table, a chair, and a painting on the wall.
+An image with two dinings, a cabinet, a counter, a chair, a door, a ceiling, a cup, a refrigerator, two floors, and a wall.
+An image with two floors, a cabinet, two dinings, a chair, a door, a ceiling, a cup, a refrigerator, a wall, and a counter.
+An image with a cup, a counter, a door, two floors, a ceiling, a refrigerator, two dinings, a chair, a wall, and a cabinet.
+An image with a door, a cup, a refrigerator, a chair, a ceiling, a wall, two dinings, a cabinet, two floors, and a counter.
+An image with a counter, a cabinet, a chair, two floors, two dinings, a cup, a door, a wall, a refrigerator, and a ceiling.

@@ -8,3 +8,8 @@ A blurry image of a computer desk with chairs.
 The image shows a blurry office setting with a desk, chairs, and a carpeted floor.
 The image shows a blurry office setting with a desk, chairs, and a carpeted floor.
 The image shows a blurry view of a computer lab with a desk and chairs, taken from a low angle.
+An image with a mouse, two chairs, a keyboard, a rug, a table, and a wall.
+An image with a keyboard, a rug, a table, two chairs, a wall, and a mouse.
+An image with a wall, a table, two chairs, a keyboard, a rug, and a mouse.
+An image with a table, two chairs, a rug, a mouse, a wall, and a keyboard.
+An image with two chairs, a mouse, a keyboard, a wall, a table, and a rug.

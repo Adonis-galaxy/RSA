@@ -8,3 +8,8 @@ The image shows a long, empty highway with a bridge in the distance.
 The image captures a serene, empty highway with a clear sky, flanked by lush green trees and a bridge in the distance.
 The image shows a long, empty highway with a few cars, a bridge in the distance, and a clear blue sky.
 The image shows a long, straight, multi-lane highway with a clear sky, a few trees, and a bridge in the distance.
+An image with a car, a wall, a road, a fence, a tree, and a grass.
+An image with a car, a fence, a wall, a tree, a road, and a grass.
+An image with a car, a road, a fence, a grass, a tree, and a wall.
+An image with a fence, a grass, a wall, a road, a car, and a tree.
+An image with a tree, a wall, a road, a fence, a car, and a grass.

@@ -8,3 +8,8 @@ A blue chair is under a desk.
 A blue chair is tucked under a white desk.
 A blue chair is tucked under a white desk, and a black computer tower is on the floor next to the desk.
 The image shows a blue chair tucked under a white desk, with a black object and a gray object in the background.
+An image with a table, a wall, a floor, a tv, a chair, and a dining.
+An image with a floor, a wall, a tv, a chair, a table, and a dining.
+An image with a tv, a wall, a table, a dining, a floor, and a chair.
+An image with a tv, a dining, a chair, a wall, a floor, and a table.
+An image with a tv, a chair, a wall, a floor, a dining, and a table.

@@ -8,3 +8,8 @@ The image shows a street intersection with a stop sign and two cars.
 The image captures a quiet suburban street corner, with a stop sign at the intersection, a car parked on the side, and a truck parked in the background, all under a clear blue sky.
 The image shows a street corner with a stop sign, a car, a truck, and a pedestrian crossing. The stop sign is large, the car is medium-sized, the truck is small, and the pedestrian crossing is tiny.
 The image depicts a suburban street corner with a roundabout, a stop sign, a white car, a truck, a sidewalk, a hedge, trees, and a clear blue sky.
+An image with a tree, a road, a car, a stop, a truck, a sky, a grass, a wall, and a pavement.
+An image with a sky, a pavement, a wall, a grass, a stop, a road, a truck, a tree, and a car.
+An image with a pavement, a sky, a stop, a truck, a car, a grass, a road, a tree, and a wall.
+An image with a car, a stop, a truck, a pavement, a grass, a wall, a tree, a sky, and a road.
+An image with a sky, a wall, a tree, a stop, a pavement, a grass, a truck, a road, and a car.

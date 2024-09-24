@@ -8,3 +8,8 @@ A man and woman standing in a room with a table and chairs.
 A man and a woman stand in a room with a dining table and chairs, a table with a vase, a handbag, and a couch.
 A man and a woman stand in a room with a large table and several chairs, a woman with a handbag and a man with a backpack.
 A man and a woman stand in a room with a dining table, chairs, and a window, with the man facing the table and the woman facing away.
+An image with a floor, two people, a dining, eight chairs, three handbags, a window, a wall, a ceiling, and a couch.
+An image with a couch, eight chairs, three handbags, a window, a wall, a dining, two people, a ceiling, and a floor.
+An image with three handbags, two people, eight chairs, a window, a wall, a couch, a ceiling, a dining, and a floor.
+An image with a dining, eight chairs, three handbags, two people, a wall, a floor, a couch, a ceiling, and a window.
+An image with eight chairs, a window, three handbags, two people, a couch, a floor, a dining, a wall, and a ceiling.

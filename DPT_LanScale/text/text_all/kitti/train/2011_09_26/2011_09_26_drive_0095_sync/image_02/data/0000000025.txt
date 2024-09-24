@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a typical day in a European city, with parked cars lining a narrow street, a man working on a building, and a tree casting a shadow over the street.
 The image depicts a narrow street lined with parked cars, with a person standing on a ladder on the side of a building.
 A narrow street in a European city, lined with parked cars and tall buildings, with a man working on a ladder on the side of a building.
+An image with twelve cars, a tree, a person, a pavement, a sky, a road, a window, and a truck.
+An image with twelve cars, a person, a sky, a road, a pavement, a tree, a window, and a truck.
+An image with a truck, twelve cars, a pavement, a sky, a window, a person, a road, and a tree.
+An image with a window, twelve cars, a person, a tree, a road, a sky, a pavement, and a truck.
+An image with a truck, twelve cars, a person, a road, a sky, a pavement, a tree, and a window.

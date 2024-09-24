@@ -8,3 +8,8 @@ A computer tower on the floor.
 A computer tower on the floor next to a desk.
 The image shows a computer desk with a keyboard and a computer tower on the floor.
 The image shows a computer desk with a keyboard and a monitor, and a computer tower on the floor next to the desk.
+An image with a tv, a wall, a floor, a cabinet, a keyboard, and a table.
+An image with a table, a tv, a wall, a keyboard, a cabinet, and a floor.
+An image with a tv, a keyboard, a table, a floor, a cabinet, and a wall.
+An image with a keyboard, a table, a floor, a cabinet, a wall, and a tv.
+An image with a table, a wall, a tv, a floor, a cabinet, and a keyboard.

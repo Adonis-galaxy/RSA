@@ -8,3 +8,8 @@ A narrow alleyway between two walls.
 A narrow, sunlit path between two hedges, with a brick wall and a fence on the right.
 A narrow, sunlit pathway between two hedges, with a brick wall and a small gate on the right.
 A narrow, sunlit pathway between two walls of lush greenery, with a brick wall on the left and a stone wall on the right, leading to a fence at the end.
+An image with a pavement, two walls, a sky, a car, and a tree.
+An image with two walls, a sky, a pavement, a tree, and a car.
+An image with a tree, a car, a pavement, two walls, and a sky.
+An image with a pavement, a car, a sky, a tree, and two walls.
+An image with two walls, a pavement, a car, a tree, and a sky.

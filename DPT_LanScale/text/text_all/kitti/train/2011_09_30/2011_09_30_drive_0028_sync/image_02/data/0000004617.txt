@@ -8,3 +8,8 @@ The image shows a long row of parked cars on a narrow street.
 A long, narrow street lined with parked cars and buildings, with a clear sky overhead.
 A long row of parked cars on a narrow street, with apartment buildings on either side.
 A long, narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with seven cars, a tree, a pavement, a building, a road, and a sky.
+An image with seven cars, a sky, a building, a road, a tree, and a pavement.
+An image with seven cars, a road, a building, a pavement, a sky, and a tree.
+An image with seven cars, a pavement, a road, a building, a tree, and a sky.
+An image with seven cars, a building, a pavement, a sky, a tree, and a road.

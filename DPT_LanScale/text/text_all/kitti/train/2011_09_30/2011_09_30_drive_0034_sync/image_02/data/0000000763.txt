@@ -8,3 +8,8 @@ A white van driving down a tree-lined street.
 A white van driving down a tree-lined street, with a clear blue sky overhead and a white building on the right side.
 A large white van is driving down a narrow street lined with trees and buildings.
 A white van is driving down a tree-lined street in a residential area, with a clear sky overhead.
+An image with a pavement, a tree, a sky, a truck, a car, a wall, a house, and a road.
+An image with a house, a wall, a road, a tree, a sky, a car, a truck, and a pavement.
+An image with a sky, a truck, a house, a tree, a wall, a road, a pavement, and a car.
+An image with a wall, a house, a tree, a car, a road, a pavement, a truck, and a sky.
+An image with a car, a truck, a wall, a house, a tree, a pavement, a sky, and a road.

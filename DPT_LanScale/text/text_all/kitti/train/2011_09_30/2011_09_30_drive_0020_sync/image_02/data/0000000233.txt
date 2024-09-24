@@ -8,3 +8,8 @@ The image shows a street view with a white building on the right side and a fenc
 The image captures a quiet, tree-lined street leading to a white building, with a fence and a yellow object on the sidewalk.
 The image shows a street scene with a large building on the right, a fence on the left, a sidewalk, a few trees, and a car parked on the side of the road.
 The image shows a street scene with a white building on the right, a fence on the left, and a tree-lined sidewalk in the foreground.
+An image with a building, a tree, three cars, a fence, a grass, a road, and a house.
+An image with a grass, three cars, a tree, a road, a fence, a house, and a building.
+An image with a fence, a tree, a grass, a road, three cars, a house, and a building.
+An image with a road, three cars, a fence, a grass, a building, a house, and a tree.
+An image with a fence, a building, a grass, a road, a tree, a house, and three cars.

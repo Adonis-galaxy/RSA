@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a building on the side.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a building with a white facade and a brick wall in the background.
 A narrow street lined with parked cars and buildings, with a large tree on the left side.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with five cars, two walls, a sky, a road, a pavement, and a tree.
+An image with two walls, five cars, a sky, a road, a tree, and a pavement.
+An image with a tree, five cars, a sky, two walls, a pavement, and a road.
+An image with a road, five cars, a pavement, two walls, a sky, and a tree.
+An image with a tree, a pavement, five cars, a sky, a road, and two walls.

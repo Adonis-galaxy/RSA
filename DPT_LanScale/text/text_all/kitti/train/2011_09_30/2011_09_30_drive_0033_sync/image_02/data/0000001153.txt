@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quaint, tree-lined street in a residential area, with a mix of parked cars and pedestrians, leading to a bus stop shelter.
 The image shows a narrow street with parked cars, a bus stop, and a bench on the sidewalk.
 The image depicts a quiet residential street with a mix of houses and parked cars, leading to a bus stop with a bench and a trash can.
+An image with seven cars, a stairs, three people, a road, a wall, two benches, a tree, a house, a pavement, and a sky.
+An image with two benches, a sky, seven cars, a house, a stairs, a tree, a wall, a road, three people, and a pavement.
+An image with seven cars, a wall, two benches, a stairs, a road, three people, a tree, a pavement, a house, and a sky.
+An image with seven cars, two benches, a sky, a pavement, three people, a wall, a tree, a road, a house, and a stairs.
+An image with three people, a house, seven cars, two benches, a sky, a road, a pavement, a tree, a stairs, and a wall.

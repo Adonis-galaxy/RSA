@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a few parked cars and a solitary figure walking, set against the backdrop of a clear sky and lush greenery.
 The image shows a narrow street lined with houses and trees, with a car parked on the sidewalk and a sign on a pole.
 The image depicts a quiet residential street with a mix of houses and trees, leading to a cul-de-sac where a car is parked in front of a house.
+An image with a sky, a road, four cars, a gravel, a house, a stairs, a tree, and a pavement.
+An image with four cars, a stairs, a gravel, a pavement, a house, a tree, a road, and a sky.
+An image with four cars, a tree, a gravel, a house, a road, a pavement, a sky, and a stairs.
+An image with a stairs, a pavement, four cars, a gravel, a sky, a house, a road, and a tree.
+An image with a gravel, four cars, a pavement, a road, a tree, a sky, a stairs, and a house.

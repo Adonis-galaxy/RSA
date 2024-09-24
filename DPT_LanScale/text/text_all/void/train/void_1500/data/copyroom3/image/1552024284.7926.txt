@@ -8,3 +8,8 @@ The image shows a corner of a room with a blue floor and a beige wall.
 The image shows a corner of a room with a blue floor, a beige wall, and a black object in the corner.
 The image shows a small, blurry corner of a room with a blue floor and a brown wall.
 The image shows a corner of a room with a beige wall and a blue floor, with a white object on the floor and a black object in the corner.
+An image with a wall, a tv, and a paper.
+An image with a wall, a paper, and a tv.
+An image with a paper, a tv, and a wall.
+An image with a tv, a paper, and a wall.
+An image with a wall, a paper, and a tv.

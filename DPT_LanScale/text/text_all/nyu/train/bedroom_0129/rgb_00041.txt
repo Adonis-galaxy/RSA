@@ -8,3 +8,8 @@ The image shows a bedroom with a bed and a crib.
 The image shows a dimly lit room with two beds covered in red blankets, a chair with wheels, and a window with blinds.
 The image shows a small, dark room with a large bed covered in a red blanket, a gray chair, and a window with blinds.
 The image shows a dimly lit room with a bed covered in a red blanket, a chair with a gray cushion, and a window with closed blinds.
+An image with a couch, a window, a wall, a bed, and a rug.
+An image with a bed, a rug, a window, a wall, and a couch.
+An image with a rug, a wall, a window, a couch, and a bed.
+An image with a couch, a window, a rug, a bed, and a wall.
+An image with a couch, a wall, a window, a bed, and a rug.

@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A cyclist riding on a road alongside a train track, with a cityscape in the background.
 A man riding a bicycle on a road next to a train track.
 A cyclist rides on a paved road alongside a train track, with a cityscape in the background.
+An image with two people, five cars, a railroad, a road, a sky, a pavement, a building, a grass, a bicycle, and a tree.
+An image with five cars, a building, two people, a sky, a grass, a road, a bicycle, a tree, a railroad, and a pavement.
+An image with five cars, a tree, a grass, two people, a road, a sky, a railroad, a pavement, a bicycle, and a building.
+An image with a building, five cars, a road, a sky, a bicycle, two people, a pavement, a tree, a railroad, and a grass.
+An image with a sky, a building, a bicycle, a tree, two people, five cars, a railroad, a pavement, a grass, and a road.

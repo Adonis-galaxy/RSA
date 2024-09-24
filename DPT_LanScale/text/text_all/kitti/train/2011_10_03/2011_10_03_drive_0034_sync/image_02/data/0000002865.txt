@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a red car driving down it.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few trees providing shade.
 The image shows a narrow street lined with parked cars and trees, with a brick wall on the right side.
 A narrow, tree-lined street with parked cars and a red vehicle driving down it.
+An image with nine cars, a road, a pavement, a house, a grass, a sky, a tree, and a wall.
+An image with nine cars, a grass, a road, a pavement, a sky, a wall, a tree, and a house.
+An image with nine cars, a house, a tree, a sky, a wall, a road, a grass, and a pavement.
+An image with nine cars, a sky, a pavement, a grass, a wall, a tree, a road, and a house.
+An image with a grass, nine cars, a house, a pavement, a sky, a tree, a road, and a wall.

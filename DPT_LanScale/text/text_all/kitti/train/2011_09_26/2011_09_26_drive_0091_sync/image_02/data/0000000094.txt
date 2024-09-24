@@ -8,3 +8,8 @@ The image shows a street scene with a train track, a white building, a white van
 A bustling city street scene with a tram, cyclists, pedestrians, and outdoor cafes.
 A bustling city street with a tram, bicycles, pedestrians, and outdoor seating.
 A bustling city street with a tram, cyclists, pedestrians, and outdoor cafes.
+An image with a building, nine people, three chairs, two umbrellas, two cars, a tree, four bicycles, a backpack, a pavement, a railroad, a traffic, a dining, and a truck.
+An image with a railroad, nine people, a tree, two umbrellas, three chairs, a dining, two cars, a pavement, a backpack, four bicycles, a building, a truck, and a traffic.
+An image with four bicycles, nine people, two cars, a truck, a tree, a traffic, a dining, two umbrellas, a building, three chairs, a railroad, a backpack, and a pavement.
+An image with nine people, four bicycles, a tree, three chairs, two cars, a building, a railroad, two umbrellas, a traffic, a dining, a pavement, a truck, and a backpack.
+An image with nine people, a tree, three chairs, a traffic, a pavement, four bicycles, a dining, two cars, a truck, a building, two umbrellas, a backpack, and a railroad.

@@ -8,3 +8,8 @@ A cardboard box with a roll of paper and a sign on it.
 A cardboard box with a roll of paper and a checkered board leaning against a wall.
 A large roll of paper leaning against a cardboard box with a red sign on it, next to a checkered board.
 A cardboard box with a roll of paper and a checkered board leaning against a wall.
+An image with a cardboard, a paper, a door, two walls, and a floor.
+An image with a cardboard, a paper, a floor, a door, and two walls.
+An image with a paper, a door, two walls, a cardboard, and a floor.
+An image with a paper, a cardboard, two walls, a floor, and a door.
+An image with a floor, two walls, a door, a paper, and a cardboard.

@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 A quiet suburban street, lined with parked cars and trees, under a clear blue sky.
 The image shows a narrow street lined with trees, with two cars parked on the side and a larger car driving down the road.
 A quiet suburban street with parked cars and a clear sky.
+An image with a grass, a road, a pavement, three cars, a tree, a sky, and a wall.
+An image with three cars, a grass, a pavement, a wall, a road, a sky, and a tree.
+An image with a road, a sky, a grass, three cars, a pavement, a wall, and a tree.
+An image with three cars, a pavement, a grass, a sky, a wall, a road, and a tree.
+An image with a pavement, a sky, three cars, a road, a tree, a grass, and a wall.

@@ -8,3 +8,8 @@ A narrow street between two houses.
 A quiet residential street, lined with houses and trees, with a parked car on the sidewalk.
 A narrow, tree-lined street between two-story houses, with a parked car on the right side.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with two cars, a pavement, a roof, a tree, a road, a fence, a house, and a sky.
+An image with a pavement, two cars, a roof, a house, a road, a fence, a tree, and a sky.
+An image with a sky, a road, a house, a roof, two cars, a pavement, a tree, and a fence.
+An image with a fence, a sky, a tree, a pavement, two cars, a house, a roof, and a road.
+An image with a tree, a pavement, a fence, a road, two cars, a roof, a sky, and a house.

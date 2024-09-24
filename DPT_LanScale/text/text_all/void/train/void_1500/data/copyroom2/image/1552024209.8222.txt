@@ -8,3 +8,8 @@ A white printer in a room.
 A white printer is sitting on the floor next to a green cabinet.
 A large white printer is sitting on the floor next to a green cabinet.
 A white printer is sitting on a white floor next to a green cabinet.
+An image with a wall, a laptop, a floor, a oven, and a cabinet.
+An image with a laptop, a oven, a wall, a floor, and a cabinet.
+An image with a oven, a wall, a floor, a cabinet, and a laptop.
+An image with a floor, a laptop, a cabinet, a oven, and a wall.
+An image with a wall, a cabinet, a laptop, a oven, and a floor.

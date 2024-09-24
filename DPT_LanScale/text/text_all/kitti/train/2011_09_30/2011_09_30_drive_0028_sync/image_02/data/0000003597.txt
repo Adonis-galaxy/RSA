@@ -8,3 +8,8 @@ The image shows a residential street with apartment buildings, trees, and cars.
 The image captures a residential street scene with a focus on the street corner, featuring apartment buildings, parked cars, a sidewalk, and a street sign.
 The image shows a residential street with apartment buildings, parked cars, and a sidewalk.
 The image shows a residential street with apartment buildings, a sidewalk, and a tree-lined street.
+An image with a tree, a pavement, a building, two cars, a sky, a truck, and a road.
+An image with a building, two cars, a pavement, a road, a truck, a sky, and a tree.
+An image with a building, two cars, a road, a sky, a truck, a tree, and a pavement.
+An image with a sky, a pavement, two cars, a tree, a truck, a road, and a building.
+An image with a building, a tree, a pavement, two cars, a sky, a truck, and a road.

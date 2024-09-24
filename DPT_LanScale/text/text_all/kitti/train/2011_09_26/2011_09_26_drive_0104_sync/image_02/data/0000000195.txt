@@ -8,3 +8,8 @@ The image shows a busy city street with cars and buildings.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
 The image depicts a narrow city street with parked cars on both sides, a yellow car in the middle, and a few pedestrians visible.
 A narrow city street with parked cars, a yellow taxi, and a white car, lined with buildings and trees, under a clear sky.
+An image with a pavement, twelve cars, a sky, two trucks, a road, a tree, and a building.
+An image with twelve cars, two trucks, a tree, a sky, a road, a building, and a pavement.
+An image with twelve cars, a road, a tree, two trucks, a building, a sky, and a pavement.
+An image with twelve cars, a road, two trucks, a tree, a building, a pavement, and a sky.
+An image with two trucks, a tree, twelve cars, a building, a pavement, a sky, and a road.

@@ -8,3 +8,8 @@ The image shows a row of black chairs with orange tops.
 The image shows a room with three black chairs and a wooden table, all placed on a white floor.
 The image shows a room with three black chairs and a small orange table.
 The image shows a room with three black chairs and a wooden table, all placed on a white floor.
+An image with a floor, three chairs, two walls, and a dining.
+An image with a floor, three chairs, a dining, and two walls.
+An image with two walls, a floor, three chairs, and a dining.
+An image with three chairs, two walls, a dining, and a floor.
+An image with a floor, three chairs, two walls, and a dining.

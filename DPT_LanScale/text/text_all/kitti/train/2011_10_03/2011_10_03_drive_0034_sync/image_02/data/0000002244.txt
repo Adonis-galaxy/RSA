@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 The image captures a serene residential street, lined with lush greenery and parked cars, leading to a quaint white house nestled amidst the foliage.
 The image shows a narrow, tree-lined street with parked cars, a sidewalk, and a fence on the right side.
 A narrow, tree-lined street with parked cars and a clear sky.
+An image with a house, four cars, a tree, a pavement, a sky, a wall, a road, and a fence.
+An image with a wall, a sky, a tree, a pavement, four cars, a house, a road, and a fence.
+An image with a road, four cars, a wall, a fence, a sky, a pavement, a tree, and a house.
+An image with four cars, a pavement, a wall, a road, a fence, a house, a sky, and a tree.
+An image with four cars, a sky, a road, a tree, a house, a wall, a fence, and a pavement.

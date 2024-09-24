@@ -8,3 +8,8 @@ A room with a large refrigerator and a table.
 The image shows an office space with a large white refrigerator, a desk with a computer monitor, and a trash can.
 The image shows a small office with a desk, a chair, a filing cabinet, a refrigerator, and a trash can.
 The image shows an office space with a large white refrigerator, a desk with a computer monitor, a filing cabinet, and a trash can. The floor is marked with blue tape, indicating a specific area or boundary.
+An image with three chairs, two refrigerators, a wall, a paper, a tv, a floor, a dining, a person, and a shelf.
+An image with a person, a paper, two refrigerators, a shelf, three chairs, a floor, a wall, a dining, and a tv.
+An image with three chairs, two refrigerators, a shelf, a floor, a dining, a tv, a paper, a person, and a wall.
+An image with a person, two refrigerators, a wall, a dining, three chairs, a paper, a floor, a tv, and a shelf.
+An image with three chairs, two refrigerators, a wall, a floor, a dining, a shelf, a tv, a paper, and a person.

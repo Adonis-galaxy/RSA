@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building in the background
 The image captures a quiet residential street, with parked cars and a building, under a clear sky.
 The image shows a street scene with a large white SUV parked on the side of the road, a smaller white car parked in front of it, and a white building with a black roof in the background.
 The image depicts a residential street with parked cars, a curved road, and a building with a flat roof.
+An image with four cars, a house, a sky, a pavement, a road, a tree, and a fence.
+An image with four cars, a sky, a tree, a fence, a pavement, a house, and a road.
+An image with four cars, a house, a road, a sky, a fence, a pavement, and a tree.
+An image with four cars, a house, a pavement, a fence, a road, a tree, and a sky.
+An image with four cars, a fence, a sky, a pavement, a road, a house, and a tree.

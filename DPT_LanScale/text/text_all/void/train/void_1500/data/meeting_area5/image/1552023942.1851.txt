@@ -8,3 +8,8 @@ A white table with a chair in front of it.
 The image shows a white table with a chair in front of it, set in a classroom environment.
 The image shows a white table with a white chair in a room with other tables and chairs.
 The image shows a white table with a chair in a room with other tables and chairs.
+An image with five chairs, three dinings, a wall, and a floor.
+An image with five chairs, a floor, three dinings, and a wall.
+An image with a wall, five chairs, a floor, and three dinings.
+An image with three dinings, five chairs, a floor, and a wall.
+An image with a floor, three dinings, five chairs, and a wall.

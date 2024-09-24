@@ -8,3 +8,8 @@ A printer on a desk.
 A white printer on a beige desk with a yellow paper attached to it.
 A white printer with a yellow paper attached to it, sitting on a beige desk.
 A white printer is placed on top of a beige desk, with a yellow paper attached to it, and a blue pair of scissors on the desk.
+An image with a cabinet, a wall, a floor, a scissors, a tv, and a paper.
+An image with a floor, a paper, a wall, a tv, a scissors, and a cabinet.
+An image with a tv, a paper, a cabinet, a floor, a scissors, and a wall.
+An image with a cabinet, a paper, a scissors, a tv, a wall, and a floor.
+An image with a scissors, a paper, a floor, a wall, a tv, and a cabinet.

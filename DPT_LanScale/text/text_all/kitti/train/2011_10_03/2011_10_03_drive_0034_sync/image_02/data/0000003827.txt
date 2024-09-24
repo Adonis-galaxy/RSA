@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the sides and a clear pathway in the middle, leading to a house at the end.
 The image shows a narrow street with two cars parked on the side, a line of trees in the background, and a house on the left side.
 A narrow street with parked cars on both sides, lined by trees and houses.
+An image with a road, seven cars, a pavement, a sky, a house, a grass, a tree, and a wall.
+An image with seven cars, a road, a house, a sky, a wall, a tree, a pavement, and a grass.
+An image with seven cars, a grass, a wall, a road, a tree, a sky, a pavement, and a house.
+An image with a road, seven cars, a wall, a grass, a sky, a house, a tree, and a pavement.
+An image with seven cars, a house, a pavement, a tree, a road, a grass, a wall, and a sky.

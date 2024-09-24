@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 The image captures a narrow alleyway between two buildings, with a bridge arching overhead and a hillside covered in vegetation.
 The image shows a narrow alleyway between two buildings, with a large concrete structure on the right side and a smaller one on the left. The alleyway is lined with greenery and is partially shaded by the buildings.
 The image shows a narrow alleyway between two buildings, with a bridge arching over it, and a steep hillside on one side.
+An image with a car, two walls, a house, a tree, a ceiling, a fence, a sky, and a pavement.
+An image with a fence, a car, two walls, a house, a ceiling, a tree, a sky, and a pavement.
+An image with a ceiling, a pavement, a sky, a tree, a fence, two walls, a house, and a car.
+An image with a tree, a sky, two walls, a fence, a ceiling, a pavement, a house, and a car.
+An image with a ceiling, a tree, two walls, a house, a car, a fence, a sky, and a pavement.

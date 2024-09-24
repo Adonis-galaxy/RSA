@@ -8,3 +8,8 @@ A row of mailboxes.
 The image shows a row of mailboxes with a single piece of mail in one of them.
 The image shows a row of beige mailboxes with white labels, each containing a single piece of mail, situated on a beige countertop.
 The image shows a row of beige mailboxes with white labels, arranged in a long, narrow cabinet against a beige wall.
+An image with a floor, a counter, a wall, and a cabinet.
+An image with a floor, a counter, a cabinet, and a wall.
+An image with a floor, a cabinet, a counter, and a wall.
+An image with a floor, a wall, a cabinet, and a counter.
+An image with a wall, a floor, a cabinet, and a counter.

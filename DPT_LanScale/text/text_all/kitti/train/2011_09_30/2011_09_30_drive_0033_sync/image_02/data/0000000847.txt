@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, with parked cars, a curving road, a staircase leading to a building, and a tranquil setting with trees and bushes.
 The image shows a residential street with parked cars, a curved road, a staircase, and trees with yellow leaves.
 The image depicts a residential street with parked cars, a curved road, a staircase leading to a building, and a mix of trees and shrubs lining the street.
+An image with three cars, a road, a fence, a wall, a bench, a stairs, a grass, a tree, a sky, and a pavement.
+An image with a wall, a stairs, three cars, a tree, a grass, a pavement, a sky, a bench, a fence, and a road.
+An image with a tree, a wall, a grass, a bench, three cars, a fence, a stairs, a road, a pavement, and a sky.
+An image with a road, three cars, a tree, a bench, a wall, a pavement, a grass, a fence, a sky, and a stairs.
+An image with a wall, a pavement, a tree, a fence, three cars, a bench, a sky, a road, a grass, and a stairs.

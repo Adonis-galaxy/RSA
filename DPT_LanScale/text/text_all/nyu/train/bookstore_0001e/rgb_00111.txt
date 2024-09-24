@@ -8,3 +8,8 @@ The image shows a store with a variety of items on display.
 The image captures a well-organized store display featuring a variety of clothing items, including hoodies and sweatshirts, and a collection of coffee mugs with different designs and colors, all neatly arranged on shelves.
 The image shows a store with a large display of coffee mugs and a smaller display of sweatshirts.
 The image shows a well-organized store with a variety of merchandise, including clothing, souvenirs, and a large selection of coffee mugs displayed on shelves.
+An image with a floor, twenty-three cups, a ceiling, a wall, a tv, a shelf, and a paper.
+An image with a ceiling, twenty-three cups, a wall, a floor, a shelf, a tv, and a paper.
+An image with twenty-three cups, a floor, a wall, a ceiling, a paper, a tv, and a shelf.
+An image with twenty-three cups, a floor, a paper, a wall, a shelf, a tv, and a ceiling.
+An image with twenty-three cups, a shelf, a ceiling, a paper, a floor, a tv, and a wall.

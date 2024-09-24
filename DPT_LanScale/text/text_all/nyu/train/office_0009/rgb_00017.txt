@@ -8,3 +8,8 @@ The image shows an empty conference room with a wooden table and chairs.
 The image shows an empty conference room with a wooden table and chairs, a door, and a projector mounted on the wall.
 The image shows an empty conference room with a large wooden table, several black chairs, a door with a glass panel, and a projector mounted on the wall.
 The image shows an empty conference room with a wooden table, chairs, a door, and a projector mounted on the wall.
+An image with a ceiling, seven chairs, a dining, a table, a floor, a door, and a wall.
+An image with a table, a door, seven chairs, a floor, a dining, a wall, and a ceiling.
+An image with seven chairs, a table, a ceiling, a door, a wall, a dining, and a floor.
+An image with a floor, seven chairs, a wall, a ceiling, a door, a table, and a dining.
+An image with a dining, seven chairs, a wall, a floor, a ceiling, a door, and a table.

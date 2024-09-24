@@ -8,3 +8,8 @@ A narrow alleyway between two fences.
 A narrow, shaded pathway between a fence and a lush green wall, leading to a gate at the end.
 A narrow, shaded pathway between two fences, with a gate at the end, leading to a building.
 A narrow, shaded pathway between two fences, leading to a gate at the end.
+An image with a sky, a building, a fence, a pavement, and a tree.
+An image with a tree, a building, a fence, a sky, and a pavement.
+An image with a fence, a tree, a sky, a building, and a pavement.
+An image with a pavement, a fence, a building, a tree, and a sky.
+An image with a building, a sky, a fence, a tree, and a pavement.

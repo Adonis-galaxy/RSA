@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a bedroom scene with a bed that appears unmade, a chair, a nightstand, and a window with blinds.
 The image shows a small, messy bedroom with a large bed, a nightstand with a lamp, a chair, and a window with blinds.
 The image shows a bedroom with a bed that is unmade, a chair, a nightstand, and a window with blinds.
+An image with a wall, a chair, a cabinet, a rug, a bed, a bottle, and a window.
+An image with a chair, a bed, a window, a cabinet, a bottle, a wall, and a rug.
+An image with a chair, a rug, a bed, a cabinet, a wall, a bottle, and a window.
+An image with a chair, a wall, a bottle, a bed, a window, a cabinet, and a rug.
+An image with a bottle, a wall, a chair, a window, a cabinet, a rug, and a bed.

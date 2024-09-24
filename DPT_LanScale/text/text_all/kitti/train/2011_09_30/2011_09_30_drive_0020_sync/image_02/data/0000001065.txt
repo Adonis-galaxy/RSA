@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a car parked on the side o
 The image captures a quiet residential street, with a white building on the right, a car parked in front of it, and a fence on the left, leading to a sidewalk and a tree on the grassy area.
 The image shows a street scene with a large white building on the right, a small white car parked in front of it, a tree on the left side, a fence on the right side, and a sidewalk in the foreground.
 The image shows a street scene with a white building on the right, a fenced area in the foreground, and a car parked on the left side of the street.
+An image with a fence, six cars, a window, a tree, a house, a grass, and a road.
+An image with six cars, a house, a grass, a tree, a road, a window, and a fence.
+An image with a road, six cars, a tree, a fence, a window, a grass, and a house.
+An image with a road, a window, six cars, a tree, a fence, a house, and a grass.
+An image with a tree, six cars, a house, a grass, a road, a window, and a fence.

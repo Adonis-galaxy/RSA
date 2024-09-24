@@ -8,3 +8,8 @@ The image is blurry and shows a room with various objects, including a black mac
 The image shows a blurry view of a room with various objects, including a black machine, a white door, and a brown box.
 The image is blurry and shows a room with a large black object, possibly a machine or appliance, and a white object, possibly a paper or a box, in the foreground.
 The image shows a blurry view of a room with a large machine, a desk with a box and a paper, and a door in the background.
+An image with a table, three tvs, a wall, a cardboard, and a paper.
+An image with a cardboard, three tvs, a paper, a wall, and a table.
+An image with a table, three tvs, a paper, a wall, and a cardboard.
+An image with a wall, a cardboard, a paper, a table, and three tvs.
+An image with a table, a wall, a cardboard, a paper, and three tvs.

@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, with a car parked on the side, a motorcycle parked on the sidewalk, and a building with a large screen on its side.
 The image shows a narrow street lined with parked cars, a sidewalk, and a large building with a reflective surface. The street is shaded by trees, and the sky is clear.
 A quiet residential street with parked cars, a sidewalk, and a building with a large screen.
+An image with eight cars, a road, a grass, a wall, a fence, a tree, a sky, and a pavement.
+An image with eight cars, a tree, a pavement, a fence, a road, a sky, a grass, and a wall.
+An image with eight cars, a tree, a sky, a fence, a grass, a pavement, a road, and a wall.
+An image with eight cars, a fence, a pavement, a road, a tree, a sky, a grass, and a wall.
+An image with eight cars, a grass, a sky, a tree, a road, a pavement, a fence, and a wall.

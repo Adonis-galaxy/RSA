@@ -8,3 +8,8 @@ A kitchen with an orange wall and a sink.
 The image shows a kitchen with an orange wall, a sink, and a counter.
 The image shows a small kitchen with an orange countertop, a stainless steel sink, and a white cabinet above the sink.
 The image shows a small kitchen with an orange wall, a sink, and a countertop.
+An image with two bottles, a paper, a sink, a cabinet, a wall, and a counter.
+An image with a paper, a cabinet, two bottles, a wall, a sink, and a counter.
+An image with a wall, a cabinet, a paper, two bottles, a counter, and a sink.
+An image with a sink, a cabinet, a wall, a paper, two bottles, and a counter.
+An image with a counter, a paper, a sink, two bottles, a cabinet, and a wall.

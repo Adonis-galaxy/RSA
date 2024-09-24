@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a European city.
 The image captures a quaint, narrow street in a European town, lined with parked cars and tall buildings, with a person standing on a ladder, possibly working on one of the buildings.
 The image depicts a narrow street lined with parked cars, with a person standing on a ladder on the side of a building.
 A narrow street in a European city, lined with parked cars and tall buildings, with a man standing on a ladder on the side of one of the buildings.
+An image with a road, eleven cars, a person, a house, a sky, a truck, a tree, a pavement, and a window.
+An image with a tree, eleven cars, a road, a house, a window, a person, a pavement, a truck, and a sky.
+An image with a house, a person, eleven cars, a pavement, a sky, a tree, a window, a road, and a truck.
+An image with a sky, a tree, eleven cars, a window, a road, a pavement, a house, a person, and a truck.
+An image with eleven cars, a house, a road, a person, a tree, a pavement, a window, a sky, and a truck.

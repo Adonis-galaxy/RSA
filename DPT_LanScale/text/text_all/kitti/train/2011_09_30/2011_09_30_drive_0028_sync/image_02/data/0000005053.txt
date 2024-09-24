@@ -8,3 +8,8 @@ The image shows a busy street with cars and trucks.
 The image captures a bustling city street, with a mix of vehicles, including cars and a truck, navigating through an intersection under a clear blue sky.
 The image shows a busy street with a mix of vehicles, including cars and trucks, parked along the sides and moving through an intersection. The street is lined with trees and buildings, and there are traffic signs visible.
 A busy street scene with a mix of vehicles, including cars and a van, parked along the sides and moving through an intersection, with a clear sky overhead.
+An image with a road, twelve cars, a building, a stop, a bus, a tree, a pavement, and a sky.
+An image with a stop, a road, twelve cars, a building, a pavement, a tree, a sky, and a bus.
+An image with twelve cars, a tree, a stop, a road, a bus, a sky, a pavement, and a building.
+An image with twelve cars, a pavement, a building, a bus, a stop, a road, a sky, and a tree.
+An image with twelve cars, a bus, a sky, a stop, a tree, a building, a road, and a pavement.

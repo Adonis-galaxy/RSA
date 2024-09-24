@@ -8,3 +8,8 @@ The image shows a street with a white van parked on the side.
 The image captures a quiet, tree-lined street in a residential area, with a single vehicle parked on the side, and a pedestrian walking on the sidewalk.
 A narrow street with a few parked cars and a truck, lined by buildings and trees, under a bright sunny sky.
 A narrow, tree-lined street in a residential area, with a white building on the right side and a parked white van on the left side.
+An image with a grass, two walls, a house, a road, a tree, a building, a truck, a pavement, and a sky.
+An image with a road, two walls, a truck, a pavement, a sky, a grass, a house, a building, and a tree.
+An image with a road, a sky, a grass, a pavement, a house, two walls, a truck, a building, and a tree.
+An image with a truck, a road, two walls, a pavement, a sky, a grass, a house, a building, and a tree.
+An image with a tree, a building, two walls, a pavement, a grass, a truck, a house, a road, and a sky.

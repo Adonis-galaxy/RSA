@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 The image captures a serene day in a suburban area, with a blue car parked on the side of a tree-lined street, surrounded by other parked cars and a white SUV, all under the shade of the trees.
 The image shows a narrow street lined with parked cars, a white building with a blue car parked in front of it, and a white SUV parked on the right side of the street.
 A tree-lined street with parked cars and a white building in the background.
+An image with five cars, a building, a grass, a pavement, a truck, a road, and a tree.
+An image with a building, a pavement, five cars, a road, a truck, a grass, and a tree.
+An image with five cars, a tree, a road, a pavement, a truck, a grass, and a building.
+An image with a grass, five cars, a building, a pavement, a tree, a road, and a truck.
+An image with a tree, five cars, a truck, a road, a building, a pavement, and a grass.

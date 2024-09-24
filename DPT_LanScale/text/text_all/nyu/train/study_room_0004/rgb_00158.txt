@@ -8,3 +8,8 @@ The image shows an empty conference room with a long table and several chairs.
 The image captures an empty conference room with a long table and multiple chairs, all neatly arranged, ready for a meeting or presentation.
 The image shows an empty room with a long table and several chairs, a whiteboard, and a bulletin board.
 The image shows an empty conference room with a long table and multiple chairs, all facing the same direction, under a row of fluorescent lights.
+An image with a tv, ten chairs, three dinings, a floor, a door, a ceiling, a paper, and a wall.
+An image with a wall, a ceiling, a tv, a door, a paper, ten chairs, three dinings, and a floor.
+An image with three dinings, a tv, ten chairs, a floor, a ceiling, a wall, a door, and a paper.
+An image with a paper, a floor, ten chairs, a tv, a door, three dinings, a ceiling, and a wall.
+An image with a paper, three dinings, ten chairs, a door, a floor, a wall, a ceiling, and a tv.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a concrete sidewalk.
 A quiet, tree-lined street with a clear path leading to a residential area.
 The image shows a narrow, tree-lined street with a sidewalk, a few houses, and a sign indicating a speed limit of 30 km/h.
 The image depicts a quiet, tree-lined street with a clear sky overhead, leading to a residential area with houses and a parked car.
+An image with a wall, a sky, a grass, a pavement, a tree, and a road.
+An image with a road, a pavement, a tree, a sky, a grass, and a wall.
+An image with a road, a grass, a tree, a sky, a wall, and a pavement.
+An image with a wall, a tree, a road, a grass, a pavement, and a sky.
+An image with a pavement, a tree, a grass, a wall, a road, and a sky.

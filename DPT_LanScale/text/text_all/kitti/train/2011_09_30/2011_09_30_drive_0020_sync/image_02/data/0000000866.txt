@@ -8,3 +8,8 @@ The image shows a street scene with a building under construction.
 The image captures a quiet street scene with a row of trees lining the sidewalk, leading to a building under construction, with a few parked cars and a person walking, all under a clear blue sky.
 The image shows a street scene with a large building under construction, a few parked cars, a sidewalk, and a few trees.
 The image depicts a street scene with a row of trees, a sidewalk, a road, parked cars, a building under construction, and a traffic light.
+An image with four cars, a road, a grass, a person, a house, a truck, a tree, and a building.
+An image with four cars, a person, a road, a truck, a house, a building, a grass, and a tree.
+An image with a building, four cars, a person, a tree, a house, a grass, a truck, and a road.
+An image with a house, a tree, four cars, a grass, a road, a building, a person, and a truck.
+An image with a truck, a tree, four cars, a grass, a road, a person, a house, and a building.

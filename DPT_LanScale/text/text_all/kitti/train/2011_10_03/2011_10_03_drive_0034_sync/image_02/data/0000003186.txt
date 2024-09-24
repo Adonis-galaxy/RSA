@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on one side and a white wall o
 A quiet, tree-lined street in a residential area, with a parked car and a pedestrian on the sidewalk.
 The image shows a narrow, tree-lined street with a brick wall on one side, a white wall on the other, and a car parked on the right side.
 A narrow, tree-lined street with a brick wall on one side, leading to a white house at the end.
+An image with a grass, a tree, two walls, a pavement, a sky, a road, and a car.
+An image with a pavement, a road, a car, two walls, a grass, a tree, and a sky.
+An image with two walls, a grass, a pavement, a car, a tree, a sky, and a road.
+An image with a car, two walls, a sky, a grass, a tree, a pavement, and a road.
+An image with two walls, a car, a pavement, a tree, a sky, a road, and a grass.

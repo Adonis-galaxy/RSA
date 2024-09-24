@@ -8,3 +8,8 @@ The image shows a street with a yellow car parked on the side.
 A quiet, tree-lined street with a yellow car parked at the end, leading to a white building with a sign.
 The image shows a narrow, tree-lined street with a yellow car parked on the right side, a white wall on the left, and a blue sky overhead.
 A quiet, tree-lined street with a yellow car parked on the right side, leading to a brick wall and a white building with a sign on the left.
+An image with a sky, a pavement, a car, a tree, a refrigerator, a road, and a wall.
+An image with a car, a road, a refrigerator, a sky, a tree, a wall, and a pavement.
+An image with a wall, a car, a pavement, a sky, a tree, a refrigerator, and a road.
+An image with a wall, a sky, a tree, a refrigerator, a pavement, a road, and a car.
+An image with a car, a sky, a tree, a refrigerator, a road, a pavement, and a wall.

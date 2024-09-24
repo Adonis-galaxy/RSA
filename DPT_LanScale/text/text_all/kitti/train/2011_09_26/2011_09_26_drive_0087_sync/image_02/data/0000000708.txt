@@ -8,3 +8,8 @@ The image shows a narrow street with a yellow van parked on the side.
 A yellow van parked on the side of a quiet street, with a white house and a brick wall in the background.
 A yellow van is parked on the side of a narrow street between two white houses, with a brick wall and a lamp post visible in the background.
 A narrow street with a yellow van parked on the sidewalk, lined by brick walls and white buildings, under a clear blue sky.
+An image with a tree, two cars, a pavement, a road, a door, a sky, a wall, and a house.
+An image with a tree, a wall, two cars, a house, a door, a sky, a pavement, and a road.
+An image with two cars, a pavement, a road, a tree, a sky, a door, a wall, and a house.
+An image with a wall, two cars, a door, a road, a pavement, a tree, a sky, and a house.
+An image with a sky, a house, a pavement, a wall, a door, a road, two cars, and a tree.

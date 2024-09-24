@@ -8,3 +8,8 @@ A whiteboard with a book on a table.
 The image shows a whiteboard with a black marker on a white wall, and a table with a book and a cup on it.
 The image shows a whiteboard with a black marker on a white wall, a white marble table with a yellow book and a white mug on it.
 The image shows a whiteboard on a white wall with a marble table in the foreground, and a book and a cup on the table.
+An image with a book, a bed, a tv, a wall, and a cup.
+An image with a bed, a wall, a tv, a cup, and a book.
+An image with a wall, a bed, a tv, a book, and a cup.
+An image with a book, a wall, a tv, a bed, and a cup.
+An image with a book, a tv, a cup, a bed, and a wall.

@@ -8,3 +8,8 @@ A man and woman in a living room.
 A man and a woman are in a living room, with the man sitting on a couch and the woman standing with a lamp.
 A man is sitting on a couch, holding a tablet, while a woman stands in the background holding a lamp.
 A man and a woman are in a living room, with the man sitting on a couch and the woman standing with a lamp.
+An image with a book, a wall, a chair, a ceiling, two people, a door, a remote, a laptop, a floor, a couch, and a cabinet.
+An image with a couch, a book, a remote, two people, a ceiling, a door, a wall, a cabinet, a laptop, a floor, and a chair.
+An image with a floor, a remote, a couch, two people, a door, a book, a cabinet, a wall, a chair, a laptop, and a ceiling.
+An image with two people, a ceiling, a cabinet, a floor, a couch, a door, a remote, a chair, a laptop, a book, and a wall.
+An image with a floor, two people, a remote, a book, a couch, a ceiling, a wall, a cabinet, a chair, a laptop, and a door.

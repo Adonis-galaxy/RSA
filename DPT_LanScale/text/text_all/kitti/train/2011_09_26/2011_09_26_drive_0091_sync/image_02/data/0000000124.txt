@@ -8,3 +8,8 @@ A person standing on a street.
 A person stands on a street corner, near a white van, with a bicycle parked nearby, in front of a building with a sign that reads "Lowen Apotheke," and there are potted plants and a traffic light in the background.
 A large white van is parked on a narrow street between two buildings, with a person standing on the sidewalk and a bicycle rider passing by.
 A narrow street in a European city, with a white van parked on the left, a pedestrian walking on the right, and a bicycle rider in the middle, flanked by buildings and potted plants.
+An image with five potteds, three people, a tree, a bicycle, a railroad, a pavement, a sky, a building, a stop, a truck, and a dining.
+An image with five potteds, a dining, three people, a tree, a bicycle, a pavement, a sky, a railroad, a building, a truck, and a stop.
+An image with three people, a truck, a building, a dining, five potteds, a railroad, a stop, a pavement, a sky, a tree, and a bicycle.
+An image with five potteds, a sky, a pavement, a bicycle, a truck, three people, a dining, a railroad, a stop, a building, and a tree.
+An image with three people, a railroad, a sky, a pavement, a building, a stop, five potteds, a truck, a dining, a bicycle, and a tree.

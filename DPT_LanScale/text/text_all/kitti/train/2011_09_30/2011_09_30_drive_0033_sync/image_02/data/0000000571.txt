@@ -8,3 +8,8 @@ The image shows a street with parked cars and a bus.
 The image captures a residential street scene with parked vehicles, including cars, a bus, and a truck, lined up along the side of the road, with a clear sky overhead and a building visible in the background.
 The image shows a narrow street lined with parked cars and trucks, with a few larger vehicles such as a bus and a trailer, and a few smaller vehicles like a car and a motorcycle.
 A narrow street lined with parked vehicles, including cars, a bus, and a truck, in a residential area.
+An image with six cars, a road, a pavement, three buses, a tree, and a house.
+An image with three buses, six cars, a tree, a house, a pavement, and a road.
+An image with a road, three buses, a pavement, a tree, six cars, and a house.
+An image with a tree, a pavement, three buses, a road, six cars, and a house.
+An image with six cars, a road, three buses, a house, a pavement, and a tree.

@@ -8,3 +8,8 @@ A bedroom with a bed, nightstand, and framed pictures on the wall.
 The image captures a cozy bedroom scene with a neatly made bed, a nightstand with a lamp, and a framed photo on the wall.
 The image shows a bedroom with a large bed, a nightstand with a lamp, a picture frame, and a sports-related item on the wall.
 The image shows a bedroom with a neatly made bed, a nightstand with a lamp, a picture frame, and a wall-mounted clock.
+An image with a book, a table, a remote, a bed, a clock, a wall, and a light.
+An image with a book, a wall, a remote, a bed, a table, a light, and a clock.
+An image with a book, a table, a clock, a remote, a light, a wall, and a bed.
+An image with a bed, a wall, a remote, a book, a clock, a table, and a light.
+An image with a book, a wall, a bed, a clock, a light, a table, and a remote.

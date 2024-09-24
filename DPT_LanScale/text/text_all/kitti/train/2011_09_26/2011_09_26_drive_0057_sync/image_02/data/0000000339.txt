@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a moment of urban life, with a red car driving down a wide, tree-lined street, passing under a traffic light and a pedestrian crossing sign, while the surrounding area is filled with parked cars and a clear sky overhead.
 The image shows a wide, tree-lined street with a few cars, a red car in the foreground, and a white line down the middle. There are traffic lights and signs, and the sky is clear.
 The image depicts a wide, tree-lined street with multiple lanes, a central divider, and a clear sky.
+An image with fifteen cars, three traffics, a road, a sky, a building, a grass, a tree, a mountain, and a fence.
+An image with fifteen cars, three traffics, a sky, a grass, a fence, a tree, a road, a mountain, and a building.
+An image with fifteen cars, a grass, three traffics, a tree, a building, a sky, a mountain, a road, and a fence.
+An image with fifteen cars, three traffics, a sky, a fence, a tree, a building, a road, a grass, and a mountain.
+An image with a fence, fifteen cars, three traffics, a grass, a road, a building, a sky, a mountain, and a tree.

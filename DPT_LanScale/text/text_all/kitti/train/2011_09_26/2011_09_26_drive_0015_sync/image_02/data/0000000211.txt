@@ -8,3 +8,8 @@ The image shows a busy street with multiple cars and a train.
 A white car is driving on a road with a train track alongside, passing under power lines and a traffic light, with other vehicles following in the same direction.
 A long line of cars driving down a road, with a white car in the foreground and a train track in the background.
 A busy highway with multiple lanes of traffic, including cars and a bus, under a clear blue sky.
+An image with a stop, seven cars, a railroad, a tree, a road, a grass, a truck, a building, and a traffic.
+An image with seven cars, a truck, a road, a tree, a grass, a stop, a traffic, a railroad, and a building.
+An image with seven cars, a stop, a traffic, a tree, a railroad, a road, a building, a truck, and a grass.
+An image with a stop, a grass, seven cars, a traffic, a tree, a truck, a railroad, a road, and a building.
+An image with a truck, a stop, a building, seven cars, a tree, a traffic, a road, a grass, and a railroad.

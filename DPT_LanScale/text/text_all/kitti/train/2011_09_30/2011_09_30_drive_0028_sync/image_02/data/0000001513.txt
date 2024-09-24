@@ -8,3 +8,8 @@ The image shows a tree-lined street with apartment buildings on the side.
 The image captures a serene residential street, lined with lush greenery and quaint houses, under a clear blue sky.
 The image shows a narrow street lined with trees and buildings, with a sidewalk and a curb.
 A quiet residential street with a mix of trees and buildings, featuring a sidewalk, street signs, and a curved driveway.
+An image with three cars, a pavement, a road, a sky, a tree, and a building.
+An image with three cars, a tree, a building, a sky, a pavement, and a road.
+An image with a pavement, a tree, a road, three cars, a building, and a sky.
+An image with three cars, a sky, a road, a building, a tree, and a pavement.
+An image with a road, a tree, a pavement, a sky, three cars, and a building.

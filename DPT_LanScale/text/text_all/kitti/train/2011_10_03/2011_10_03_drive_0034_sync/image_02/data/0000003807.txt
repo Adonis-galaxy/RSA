@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 A quiet residential street with parked cars and a sunlit atmosphere.
 A car is driving down a tree-lined street in a residential area, with parked cars on the side of the road.
 A quiet residential street with parked cars, lined by apartment buildings and trees, under a clear blue sky.
+An image with a road, six cars, a sky, a tree, a house, a wall, a pavement, and a grass.
+An image with six cars, a grass, a tree, a wall, a pavement, a sky, a road, and a house.
+An image with a pavement, a road, six cars, a grass, a house, a sky, a tree, and a wall.
+An image with six cars, a sky, a pavement, a tree, a wall, a grass, a road, and a house.
+An image with a grass, six cars, a pavement, a wall, a house, a road, a tree, and a sky.

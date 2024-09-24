@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a moment of everyday life on a suburban road, with cars in motion and a clear sky overhead.
 The image shows a wide, empty road with a few cars and trucks driving on it, and a clear sky above.
 A busy highway with multiple lanes, a mix of vehicles, and a clear sky.
+An image with seven cars, a sky, a road, a pavement, a truck, a traffic, a grass, a wall, and a tree.
+An image with a pavement, a traffic, a tree, a road, seven cars, a wall, a grass, a sky, and a truck.
+An image with a pavement, a tree, a grass, seven cars, a sky, a road, a traffic, a wall, and a truck.
+An image with a road, a traffic, seven cars, a wall, a truck, a pavement, a tree, a sky, and a grass.
+An image with seven cars, a truck, a road, a pavement, a wall, a sky, a traffic, a grass, and a tree.

@@ -8,3 +8,8 @@ The image shows a corner of a room with an orange counter, a gray cabinet, and a
 The image shows a small, orange countertop with a few items on it, next to a gray cabinet and a white door.
 The image shows a small orange counter with a white cup and a blue box on it, next to a gray cabinet and a white door.
 The image shows a small room with an orange counter, a gray cabinet, and a white floor.
+An image with a window, a cup, a cabinet, a refrigerator, a floor, and a wall.
+An image with a refrigerator, a cabinet, a window, a cup, a wall, and a floor.
+An image with a window, a refrigerator, a cup, a floor, a wall, and a cabinet.
+An image with a floor, a cabinet, a wall, a cup, a window, and a refrigerator.
+An image with a window, a cup, a cabinet, a floor, a wall, and a refrigerator.

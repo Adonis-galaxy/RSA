@@ -8,3 +8,8 @@ The image shows a white desk with a printer on it.
 The image shows a white desk with a printer on it, and a stack of papers on the left side.
 The image shows a white desk with a printer on it, and a stack of papers on the left side.
 The image shows a white desk with a printer on it, and a stack of papers on the left side.
+An image with a floor, a scissors, a tv, a wall, and a cabinet.
+An image with a wall, a floor, a scissors, a cabinet, and a tv.
+An image with a tv, a floor, a scissors, a cabinet, and a wall.
+An image with a wall, a floor, a cabinet, a scissors, and a tv.
+An image with a floor, a wall, a scissors, a cabinet, and a tv.

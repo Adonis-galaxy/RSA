@@ -8,3 +8,8 @@ A black and orange van driving down a narrow street.
 A large orange and black van is driving down a narrow street between two white houses, with a wooden fence and a brick wall on the right side.
 A large black and orange van is driving down a narrow street between two white houses, with a wooden fence on the right side.
 A narrow street in a residential area, with a large orange and black van driving down it, flanked by white houses with brown roofs and green hedges.
+An image with a wall, a house, a tree, a grass, a bus, a pavement, a sky, a road, and a fence.
+An image with a house, a wall, a pavement, a fence, a road, a bus, a tree, a sky, and a grass.
+An image with a road, a fence, a tree, a house, a pavement, a wall, a grass, a sky, and a bus.
+An image with a pavement, a fence, a tree, a sky, a grass, a house, a bus, a road, and a wall.
+An image with a sky, a bus, a road, a tree, a wall, a grass, a fence, a house, and a pavement.

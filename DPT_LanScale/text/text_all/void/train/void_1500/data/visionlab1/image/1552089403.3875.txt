@@ -8,3 +8,8 @@ A person holding a cup of coffee.
 A person is holding a cup while standing next to a gray office chair.
 A person is standing next to a gray office chair in a room with multiple chairs and desks.
 A person is holding a cup of coffee while standing next to a gray office chair in an office setting with multiple chairs and desks.
+An image with four chairs, a tv, a wall, a window, a rug, a dining, a person, and a cup.
+An image with four chairs, a cup, a window, a rug, a dining, a person, a tv, and a wall.
+An image with a wall, a dining, a rug, a person, a window, a cup, four chairs, and a tv.
+An image with four chairs, a rug, a dining, a cup, a person, a wall, a window, and a tv.
+An image with a tv, a window, a wall, a cup, four chairs, a dining, a rug, and a person.

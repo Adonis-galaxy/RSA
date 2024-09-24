@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street, with parked cars and a pathway leading to a house.
 The image shows a narrow street with parked cars, a sidewalk, and a curb, with a building on the right side and a garden with flowers on the left.
 A quiet residential street with parked cars, a sidewalk, and a curved road leading to a white house with a balcony.
+An image with a sky, a pavement, a wall, a flower, a tree, a road, and three cars.
+An image with a tree, three cars, a sky, a wall, a pavement, a road, and a flower.
+An image with a sky, three cars, a wall, a tree, a pavement, a road, and a flower.
+An image with three cars, a flower, a road, a wall, a tree, a sky, and a pavement.
+An image with a flower, three cars, a tree, a road, a pavement, a wall, and a sky.

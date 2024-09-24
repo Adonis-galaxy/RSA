@@ -8,3 +8,8 @@ The image shows a bookstore with a counter and a bookshelf.
 The image captures a well-lit bookstore with a focus on the checkout counter, where a variety of books are displayed on shelves and a computer monitor is present.
 The image shows a large bookstore with a counter displaying a book and a computer monitor, and shelves filled with books and other items.
 The image depicts a well-lit bookstore with a spacious layout, featuring a large bookshelf, a central counter with a computer monitor, and a variety of books displayed on shelves.
+An image with a floor, sixteen books, three laptops, a mouse, a ceiling, a cardboard, a wall, a keyboard, a table, a light, and a paper.
+An image with a table, sixteen books, a paper, a ceiling, a light, a wall, a keyboard, three laptops, a mouse, a floor, and a cardboard.
+An image with a wall, a keyboard, sixteen books, three laptops, a light, a ceiling, a cardboard, a table, a floor, a mouse, and a paper.
+An image with sixteen books, a floor, a mouse, a cardboard, a ceiling, a keyboard, a table, a paper, a light, three laptops, and a wall.
+An image with three laptops, a cardboard, a wall, sixteen books, a floor, a ceiling, a table, a mouse, a light, a keyboard, and a paper.

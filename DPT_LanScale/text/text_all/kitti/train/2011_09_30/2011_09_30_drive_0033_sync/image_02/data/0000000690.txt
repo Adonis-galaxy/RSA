@@ -8,3 +8,8 @@ The image shows a street scene with cars driving on a road.
 A red car is driving down a residential street, passing by parked cars and a white house with a brown roof.
 A red car is driving down a narrow street between two white houses, with a silver car parked on the side.
 A residential street with parked cars and a curving road.
+An image with five cars, a road, a sky, a house, a truck, and a tree.
+An image with five cars, a sky, a road, a house, a tree, and a truck.
+An image with five cars, a truck, a road, a tree, a house, and a sky.
+An image with a tree, five cars, a truck, a road, a sky, and a house.
+An image with a tree, five cars, a house, a road, a sky, and a truck.

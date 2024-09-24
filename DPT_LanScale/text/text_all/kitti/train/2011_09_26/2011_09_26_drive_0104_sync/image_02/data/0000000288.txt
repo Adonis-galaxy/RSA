@@ -8,3 +8,8 @@ The image is a photograph of a busy city street.
 The image captures a bustling city street, with a focus on the interaction between a man in a red shirt and a large blue truck, set against the backdrop of parked cars and a tree-lined street.
 A busy city street with parked cars, a large truck, and a man in a red shirt walking on the sidewalk.
 A busy city street with parked cars, a truck, and pedestrians, all under a clear sky.
+An image with a pavement, sixteen cars, a dirt, a tree, a road, a sky, two people, a building, and a truck.
+An image with sixteen cars, a road, a truck, two people, a dirt, a tree, a sky, a building, and a pavement.
+An image with sixteen cars, a road, a tree, two people, a truck, a dirt, a sky, a pavement, and a building.
+An image with two people, a building, sixteen cars, a sky, a truck, a dirt, a tree, a road, and a pavement.
+An image with a pavement, sixteen cars, a sky, a road, a building, a dirt, two people, a truck, and a tree.

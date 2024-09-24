@@ -8,3 +8,8 @@ The image shows a street with a few cars and motorcycles, lined with trees and b
 A quiet, tree-lined street with a few vehicles, including a motorcycle, parked along the side.
 A narrow road lined with trees and bushes, with a few vehicles and people, and a clear sky overhead.
 A narrow, tree-lined road with vehicles and pedestrians, leading to a residential area.
+An image with a building, a tree, three cars, a road, a wall, and a sky.
+An image with a tree, a building, three cars, a wall, a road, and a sky.
+An image with a wall, a road, three cars, a tree, a building, and a sky.
+An image with a sky, three cars, a tree, a road, a building, and a wall.
+An image with a sky, three cars, a building, a wall, a road, and a tree.

@@ -8,3 +8,8 @@ A car is parked on a street.
 A quiet residential street, with a car parked at the end, leading to a row of garages.
 A car is parked on a street next to a row of garages, with trees and a house in the background.
 A narrow, tree-lined street with a row of garages on one side and a parked car on the other, leading to a residential area.
+An image with a car, a tree, a pavement, a road, and a building.
+An image with a tree, a road, a pavement, a building, and a car.
+An image with a building, a tree, a road, a pavement, and a car.
+An image with a building, a tree, a car, a pavement, and a road.
+An image with a building, a pavement, a car, a road, and a tree.

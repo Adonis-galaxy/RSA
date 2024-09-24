@@ -8,3 +8,8 @@ The image shows a pink box and a white paper on a wall.
 The image shows a pink box and a white paper attached to a wall, with other papers and a green wall in the background.
 The image shows a pink box, a white paper, and a blue paper on a beige wall.
 The image shows a pink filing cabinet with a white paper attached to it, and a green wall in the background.
+An image with a wall, a book, a floor, a cabinet, and a paper.
+An image with a book, a paper, a floor, a cabinet, and a wall.
+An image with a wall, a floor, a paper, a book, and a cabinet.
+An image with a paper, a floor, a wall, a cabinet, and a book.
+An image with a book, a paper, a cabinet, a floor, and a wall.

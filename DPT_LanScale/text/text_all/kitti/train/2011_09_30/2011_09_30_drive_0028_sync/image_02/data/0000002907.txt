@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a sunny day in a residential area, with trees and buildings lining the street.
 A person riding a bicycle on a sunny day in a residential area with large trees and a building in the background.
 A person riding a bicycle on a sunny day in a residential area with trees and buildings.
+An image with a sky, a pavement, a building, four cars, a road, a handbag, three people, a tree, and a bicycle.
+An image with a tree, four cars, three people, a road, a pavement, a sky, a bicycle, a building, and a handbag.
+An image with a sky, three people, a handbag, four cars, a building, a pavement, a tree, a bicycle, and a road.
+An image with three people, a sky, a road, a pavement, a handbag, a building, a bicycle, four cars, and a tree.
+An image with four cars, three people, a bicycle, a pavement, a building, a road, a handbag, a sky, and a tree.

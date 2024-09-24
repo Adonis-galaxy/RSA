@@ -8,3 +8,8 @@ The image shows a street with parked cars and a red van.
 The image captures a bustling street scene with a variety of vehicles, including cars and a truck, parked along the side of the road, under the shade of trees, and in front of buildings, creating a sense of urban life and activity.
 A narrow street in a residential area with parked cars and a red van.
 A narrow street in a residential area with parked cars and a red van driving down it.
+An image with a wall, six cars, a tree, a roof, a road, a pavement, a sky, and a building.
+An image with six cars, a roof, a sky, a building, a wall, a pavement, a tree, and a road.
+An image with six cars, a road, a pavement, a roof, a building, a wall, a sky, and a tree.
+An image with a building, a pavement, six cars, a sky, a wall, a tree, a road, and a roof.
+An image with a roof, a sky, a building, six cars, a road, a tree, a pavement, and a wall.

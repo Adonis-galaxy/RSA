@@ -8,3 +8,8 @@ A black backpack with a green logo on a gray couch.
 A black backpack sits on a gray bench next to a magazine and a hat.
 A black backpack with a green logo is sitting on a gray bench next to a magazine.
 A black backpack with a green logo is placed on a gray bench next to a magazine and a straw hat.
+An image with a couch, a book, a backpack, a chair, two walls, a tennis, and a floor.
+An image with a book, a backpack, two walls, a chair, a couch, a tennis, and a floor.
+An image with a book, a backpack, a tennis, a chair, a couch, a floor, and two walls.
+An image with two walls, a couch, a chair, a tennis, a floor, a backpack, and a book.
+An image with a book, a tennis, a backpack, a floor, two walls, a chair, and a couch.

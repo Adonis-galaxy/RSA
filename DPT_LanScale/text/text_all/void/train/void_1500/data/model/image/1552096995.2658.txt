@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a courtyard and a playground, placed on a wooden stand.
 The image shows a small model of a building, which is placed on a wooden stand.
 The image shows a model of a building, possibly a school, with a courtyard and a playground, displayed on a glass case.
+An image with a building, a floor, a cabinet, and a wall.
+An image with a wall, a floor, a cabinet, and a building.
+An image with a floor, a building, a cabinet, and a wall.
+An image with a building, a wall, a cabinet, and a floor.
+An image with a building, a cabinet, a wall, and a floor.

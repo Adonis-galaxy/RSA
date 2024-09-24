@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and trees.
 The image captures a serene residential street, with parked cars lining the sidewalk, under a clear blue sky, and surrounded by lush greenery.
 The image shows a narrow street lined with parked cars and trees, with a large house on the left and a smaller house on the right.
 A quiet residential street with parked cars and a clear blue sky.
+An image with six cars, a mountain, a sky, a pavement, a house, a tree, and a road.
+An image with a mountain, a tree, six cars, a sky, a road, a pavement, and a house.
+An image with six cars, a pavement, a sky, a mountain, a tree, a road, and a house.
+An image with a house, six cars, a road, a pavement, a sky, a tree, and a mountain.
+An image with six cars, a tree, a pavement, a mountain, a house, a sky, and a road.

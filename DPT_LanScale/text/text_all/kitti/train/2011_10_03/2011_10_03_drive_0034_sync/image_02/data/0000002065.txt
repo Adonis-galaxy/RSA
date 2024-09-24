@@ -8,3 +8,8 @@ A red van driving down a narrow street.
 A red van is parked on a quiet residential street, surrounded by lush greenery and a few parked cars, under a clear blue sky.
 A red van is driving down a narrow, tree-lined street.
 A narrow, tree-lined street with a red van parked on the right side, leading to a residential area with garages on the left.
+An image with a tree, a road, two cars, a building, a pavement, a sky, and a fence.
+An image with a tree, a pavement, a sky, two cars, a building, a fence, and a road.
+An image with a tree, a pavement, a road, a fence, two cars, a building, and a sky.
+An image with a sky, a tree, a building, a pavement, two cars, a road, and a fence.
+An image with a sky, two cars, a building, a tree, a fence, a pavement, and a road.

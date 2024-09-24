@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 The image captures a serene residential street, lined with neatly trimmed hedges, lush greenery, and parked cars, all under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars on the right side, a few potted plants, and a white building with balconies on the left side.
 A narrow, tree-lined street with parked cars and apartment buildings on either side.
+An image with a sky, four cars, a grass, a house, a tree, a road, and a dirt.
+An image with a house, a dirt, four cars, a road, a grass, a tree, and a sky.
+An image with a road, four cars, a sky, a house, a grass, a dirt, and a tree.
+An image with four cars, a house, a grass, a sky, a dirt, a road, and a tree.
+An image with a dirt, a house, a tree, a grass, four cars, a sky, and a road.

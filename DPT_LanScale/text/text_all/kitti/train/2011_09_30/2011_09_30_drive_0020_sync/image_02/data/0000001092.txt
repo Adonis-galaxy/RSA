@@ -8,3 +8,8 @@ The image shows a street intersection with a clear blue sky.
 The image captures a serene suburban street scene, with a clear sky overhead, lush green trees lining the road, and a few parked cars and signs adding to the everyday life of the neighborhood.
 The image shows a wide street with a few cars, a sidewalk, and trees, with a clear blue sky above.
 The image depicts a well-maintained suburban street with a clear layout, featuring a curved road, a pedestrian walkway, a roundabout, and a clear sky.
+An image with a pavement, four cars, a road, a banner, a tree, a sky, a grass, a stop, and a wall.
+An image with a pavement, a grass, a road, four cars, a wall, a stop, a tree, a banner, and a sky.
+An image with a grass, a tree, a pavement, a sky, a stop, four cars, a wall, a banner, and a road.
+An image with a tree, a wall, a grass, a road, four cars, a pavement, a sky, a banner, and a stop.
+An image with four cars, a banner, a road, a pavement, a tree, a grass, a stop, a sky, and a wall.

@@ -8,3 +8,8 @@ A computer desk with a keyboard, mouse, and a straw hat.
 A computer desk with a keyboard, mouse, and a straw hat.
 A computer desk with a black monitor, keyboard, mouse, and a straw hat.
 A computer desk with a keyboard, mouse, monitor, and a straw hat.
+An image with a table, a mouse, a wall, a keyboard, a tv, a chair, and a cardboard.
+An image with a table, a tv, a wall, a keyboard, a cardboard, a mouse, and a chair.
+An image with a tv, a table, a mouse, a keyboard, a cardboard, a wall, and a chair.
+An image with a tv, a table, a keyboard, a chair, a wall, a mouse, and a cardboard.
+An image with a keyboard, a tv, a chair, a cardboard, a table, a mouse, and a wall.

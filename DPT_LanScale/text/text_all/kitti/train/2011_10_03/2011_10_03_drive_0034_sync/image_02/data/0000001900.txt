@@ -8,3 +8,8 @@ A curvy road with a white line in the middle.
 A winding road with a hedge-lined wall and trees in the background, under a clear sky.
 A narrow, winding road with a concrete barrier on one side, bordered by trees and shrubs, leading to a white wall.
 A curving, tree-lined road with a concrete barrier on the right side, leading to a white wall and a street lamp.
+An image with a road, a sky, a grass, a tree, and a wall.
+An image with a road, a grass, a wall, a sky, and a tree.
+An image with a tree, a road, a grass, a wall, and a sky.
+An image with a wall, a tree, a road, a grass, and a sky.
+An image with a grass, a road, a wall, a sky, and a tree.

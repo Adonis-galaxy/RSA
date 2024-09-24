@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with cars parked on the s
 A narrow, tree-lined street between two-story houses, with parked cars and a pedestrian walkway.
 The image shows a narrow street lined with houses and trees, with a car parked on the right side.
 A narrow, tree-lined street between two-story buildings, with parked cars and a sidewalk.
+An image with two cars, a road, a tree, a fence, a sky, a grass, and a house.
+An image with a house, a sky, two cars, a grass, a tree, a fence, and a road.
+An image with a house, two cars, a road, a grass, a fence, a tree, and a sky.
+An image with a tree, a grass, a road, a fence, two cars, a house, and a sky.
+An image with a grass, a house, a fence, a sky, a tree, two cars, and a road.

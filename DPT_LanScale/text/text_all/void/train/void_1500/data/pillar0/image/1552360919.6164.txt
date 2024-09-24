@@ -8,3 +8,8 @@ A black bag and a black case leaning against a wall.
 A black bag and a black case leaning against a white wall.
 A black bag and a black case leaning against a white wall in a room with a carpeted floor.
 A black bag and a black case leaning against a white wall in a room with a carpeted floor.
+An image with a rug, a suitcase, a wall, and a door.
+An image with a door, a wall, a rug, and a suitcase.
+An image with a door, a suitcase, a rug, and a wall.
+An image with a wall, a door, a suitcase, and a rug.
+An image with a wall, a suitcase, a door, and a rug.

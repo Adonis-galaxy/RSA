@@ -8,3 +8,8 @@ A blue trash can is on the floor.
 A coffee maker sits on a table next to a blue trash can.
 The image shows a small office space with a desk, a chair, a trash can, a coffee maker, and a backpack.
 The image shows a small office space with a desk, chair, and a coffee maker on the desk.
+An image with three chairs, a cardboard, a backpack, a rug, a cup, a table, a wall, and a sports.
+An image with a rug, three chairs, a table, a wall, a sports, a cup, a cardboard, and a backpack.
+An image with three chairs, a backpack, a sports, a rug, a cardboard, a table, a cup, and a wall.
+An image with a backpack, a sports, a table, a cardboard, a wall, three chairs, a rug, and a cup.
+An image with a cup, three chairs, a backpack, a cardboard, a wall, a table, a sports, and a rug.

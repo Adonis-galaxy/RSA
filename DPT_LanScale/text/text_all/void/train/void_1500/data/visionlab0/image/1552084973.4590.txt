@@ -8,3 +8,8 @@ A person sitting at a desk with a blue jacket hanging on the back of a chair.
 A person sitting at a desk with a blue jacket hanging on the back of a chair, an umbrella leaning against the wall, and a trash can in the corner.
 A person sitting at a desk with a blue jacket hanging on the back of a chair, a red umbrella leaning against a wall, and a trash can in the corner.
 A person sitting at a desk with a blue jacket hanging on the back of a chair, an umbrella leaning against the wall, and a trash can in the corner.
+An image with a wall, a table, a floor, a person, a umbrella, a chair, and a towel.
+An image with a floor, a towel, a wall, a umbrella, a chair, a person, and a table.
+An image with a towel, a person, a table, a floor, a wall, a chair, and a umbrella.
+An image with a umbrella, a table, a chair, a person, a wall, a towel, and a floor.
+An image with a umbrella, a towel, a wall, a floor, a table, a person, and a chair.

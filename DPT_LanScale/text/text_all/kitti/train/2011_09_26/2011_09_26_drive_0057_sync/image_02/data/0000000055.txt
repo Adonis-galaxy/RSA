@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, while a truck is parked on the side of the road.
 A red car is driving on a road with white lines, passing under a traffic light and a street sign.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and surrounded by a suburban landscape with trees and buildings.
+An image with eight cars, eight traffics, a mountain, a sky, a grass, a building, a road, a truck, a tree, and a person.
+An image with a grass, eight traffics, a mountain, a building, eight cars, a sky, a tree, a person, a truck, and a road.
+An image with a road, eight cars, eight traffics, a tree, a grass, a building, a person, a sky, a truck, and a mountain.
+An image with eight cars, a tree, eight traffics, a truck, a sky, a building, a road, a mountain, a grass, and a person.
+An image with eight traffics, a truck, eight cars, a road, a mountain, a sky, a person, a grass, a building, and a tree.

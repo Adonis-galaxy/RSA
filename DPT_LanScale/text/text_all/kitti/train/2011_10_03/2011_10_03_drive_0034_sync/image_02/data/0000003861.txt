@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A quiet residential street, with parked cars and a clear sky, reflecting the tranquility of a peaceful neighborhood.
 The image shows a narrow street with parked cars on the side, a line of trees, and a clear sky.
 A quiet residential street with parked cars, a paved road, and a line of hedges.
+An image with four cars, a sky, a road, a tree, and a pavement.
+An image with a tree, a sky, a road, four cars, and a pavement.
+An image with four cars, a sky, a road, a tree, and a pavement.
+An image with four cars, a road, a tree, a pavement, and a sky.
+An image with a tree, a pavement, a sky, four cars, and a road.

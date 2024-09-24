@@ -8,3 +8,8 @@ A black chair in front of a whiteboard.
 The image shows a black chair in front of a whiteboard, with a table and some papers on it.
 The image shows a small black chair in front of a whiteboard, with a white marble table and a stack of papers on it.
 The image shows a small room with a whiteboard, a black chair, and a white table with papers on it.
+An image with a wall, a couch, a chair, a book, and a dining.
+An image with a couch, a dining, a chair, a wall, and a book.
+An image with a couch, a dining, a chair, a book, and a wall.
+An image with a wall, a chair, a couch, a dining, and a book.
+An image with a dining, a chair, a wall, a couch, and a book.

@@ -8,3 +8,8 @@ A kitchen with a stove top oven.
 The image captures a well-lit kitchen with a stainless steel stove and oven, a granite countertop, wooden cabinets, and a tile backsplash.
 The image shows a large kitchen with a stainless steel stove top oven, a granite countertop, wooden cabinets, and a tile backsplash.
 The image shows a kitchen with a stove top oven, a granite countertop, wooden cabinets, and a tile backsplash.
+An image with a counter, a oven, a wall, a cabinet, and a floor.
+An image with a oven, a floor, a cabinet, a counter, and a wall.
+An image with a cabinet, a floor, a oven, a counter, and a wall.
+An image with a cabinet, a counter, a oven, a wall, and a floor.
+An image with a wall, a cabinet, a oven, a floor, and a counter.

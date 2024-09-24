@@ -8,3 +8,8 @@ The image shows an interior hallway with a doorway leading to another room.
 The image captures a dimly lit hallway leading to an office area, with a focus on the contrast between the dark hallway and the brightly lit office space.
 The image shows a narrow hallway with a doorway leading to a room with a desk and a chair, and the hallway is illuminated by a single light source.
 The image shows an interior view of a hallway with a doorway leading to a room with a desk and a chair, illuminated by overhead lights.
+An image with a floor, a dining, a chair, a ceiling, a wall, a door, and a tv.
+An image with a door, a chair, a floor, a wall, a tv, a dining, and a ceiling.
+An image with a floor, a wall, a tv, a door, a chair, a ceiling, and a dining.
+An image with a tv, a door, a chair, a dining, a ceiling, a wall, and a floor.
+An image with a dining, a wall, a door, a floor, a chair, a ceiling, and a tv.

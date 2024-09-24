@@ -8,3 +8,8 @@ A gray metal post in a garden.
 A gray metal post stands in a garden with green plants and a red brick wall.
 A small gray metal post is in the foreground, surrounded by green plants and a red brick wall.
 A gray metal post stands in a garden with green plants and a red brick wall in the background.
+An image with two walls, a parking, and a pavement.
+An image with a parking, a pavement, and two walls.
+An image with a pavement, a parking, and two walls.
+An image with a parking, two walls, and a pavement.
+An image with two walls, a pavement, and a parking.

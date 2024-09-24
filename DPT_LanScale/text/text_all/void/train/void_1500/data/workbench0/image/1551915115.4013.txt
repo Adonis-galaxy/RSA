@@ -8,3 +8,8 @@ A box of Annie's Cheddar Bunnies on a table.
 A box of Annie's Cheddar Bunnies sits on a table next to a roll of tape and a pair of scissors.
 A box of Annie's Cheddar Bunnies sits on a wooden table next to a roll of tape and a pair of scissors.
 A box of Annie's Cheddar Bunnies sits on a wooden table next to a roll of tape and a pair of scissors.
+An image with a paper, three chairs, a cardboard, a cabinet, a window, a bowl, a table, and a wall.
+An image with a wall, three chairs, a cardboard, a bowl, a window, a cabinet, a paper, and a table.
+An image with a wall, a window, a cardboard, a table, a paper, a cabinet, three chairs, and a bowl.
+An image with a bowl, a cardboard, a wall, three chairs, a cabinet, a paper, a table, and a window.
+An image with a wall, three chairs, a bowl, a cabinet, a table, a paper, a cardboard, and a window.

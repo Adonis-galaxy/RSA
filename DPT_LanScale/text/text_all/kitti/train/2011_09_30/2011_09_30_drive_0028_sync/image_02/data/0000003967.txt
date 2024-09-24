@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene suburban street scene, with a parked car on the side of the road, a tree-lined sidewalk, and a parked bus at the end of the street, all under a clear blue sky.
 A small car is driving down a tree-lined street, passing a bus stop and a parked car.
 A tree-lined street with a parked car, a bus stop, and a pedestrian crossing.
+An image with five cars, a person, a grass, a tree, a road, a pavement, and a sky.
+An image with a person, a road, a grass, five cars, a pavement, a sky, and a tree.
+An image with a road, a person, five cars, a sky, a pavement, a tree, and a grass.
+An image with a tree, a person, a road, a grass, five cars, a sky, and a pavement.
+An image with a sky, five cars, a grass, a person, a road, a pavement, and a tree.

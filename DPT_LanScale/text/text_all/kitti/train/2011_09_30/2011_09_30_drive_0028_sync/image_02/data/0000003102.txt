@@ -8,3 +8,8 @@ A person walking down a tree-lined street.
 A person walking down a tree-lined street between houses, with a clear sky overhead.
 A person is walking down a narrow, tree-lined street between two-story buildings, with parked cars on the side.
 A narrow, tree-lined street with parked cars and a person walking, leading to a row of white buildings with green hedges.
+An image with four cars, a grass, a house, a person, a tree, a pavement, and a sky.
+An image with a sky, a pavement, four cars, a house, a tree, a person, and a grass.
+An image with four cars, a pavement, a grass, a person, a sky, a tree, and a house.
+An image with four cars, a sky, a pavement, a house, a tree, a grass, and a person.
+An image with a person, a grass, four cars, a sky, a tree, a house, and a pavement.

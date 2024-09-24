@@ -8,3 +8,8 @@ A black ping pong table.
 The image shows a room with a ping pong table in the center, surrounded by chairs and a bookshelf.
 A large black ping pong table with white lines and a white net, surrounded by chairs and a red wall.
 The image shows a room with a ping pong table in the center, surrounded by chairs and a shelving unit.
+An image with a wall, three chairs, a dining, a floor, a shelf, and a window.
+An image with a shelf, a floor, three chairs, a window, a wall, and a dining.
+An image with a dining, three chairs, a window, a wall, a shelf, and a floor.
+An image with a wall, a dining, a window, three chairs, a shelf, and a floor.
+An image with three chairs, a window, a floor, a shelf, a dining, and a wall.

@@ -8,3 +8,8 @@ A man is sitting at a table in a room.
 A man in a white shirt is sitting at a table with a cup, a backpack, and a hanging coat, all in a room with a white wall and a door.
 A man is sitting at a table in a small room, looking down at a piece of paper.
 A man is sitting at a table in a room with a white wall, a hanging coat rack, and a white chair.
+An image with a door, a dining, a floor, a shelf, a towel, a person, two chairs, a wall, and a cup.
+An image with a floor, a cup, a door, a person, a wall, two chairs, a dining, a towel, and a shelf.
+An image with a wall, a towel, a shelf, a cup, two chairs, a dining, a person, a door, and a floor.
+An image with a dining, a shelf, a wall, a person, a cup, a towel, a floor, two chairs, and a door.
+An image with a towel, a cup, a wall, a person, a shelf, a floor, two chairs, a dining, and a door.

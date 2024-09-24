@@ -8,3 +8,8 @@ The image shows a patch of dirt with sparse vegetation, including small plants a
 The image shows a patch of dirt with sparse vegetation, located next to a building with a brick wall.
 The image shows a small patch of dirt with sparse vegetation, including a few small plants and a larger green plant, located next to a building with a brick wall.
 The image shows a patch of dirt with sparse vegetation, surrounded by a concrete sidewalk and a brick wall.
+An image with a dirt, a tree, a pavement, and two walls.
+An image with two walls, a pavement, a dirt, and a tree.
+An image with a dirt, a pavement, a tree, and two walls.
+An image with a tree, a dirt, a pavement, and two walls.
+An image with a dirt, two walls, a tree, and a pavement.

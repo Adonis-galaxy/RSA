@@ -8,3 +8,8 @@ The image shows a street with parked cars and a blue sign.
 The image captures a quiet residential street with parked cars, a blue sign indicating an arrow, and a clear blue sky.
 The image shows a street with parked cars, a blue sign with an arrow, a white house, and trees lining the street.
 A long, narrow street lined with parked cars and houses, leading to a blue sign with an arrow pointing to the right.
+An image with nine cars, a road, a grass, a fence, a sky, a building, a tree, and a wall.
+An image with a fence, nine cars, a tree, a road, a sky, a building, a grass, and a wall.
+An image with a tree, a wall, a sky, nine cars, a fence, a building, a grass, and a road.
+An image with a building, nine cars, a tree, a grass, a sky, a wall, a road, and a fence.
+An image with a tree, nine cars, a road, a grass, a sky, a fence, a building, and a wall.

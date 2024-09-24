@@ -8,3 +8,8 @@ A narrow alleyway between two walls of greenery.
 A narrow, sunlit path between two walls of lush greenery, with a solitary figure in the distance.
 A narrow, sunlit alleyway between two walls of lush greenery, with a solitary figure walking away from the camera.
 A narrow, sunlit alleyway between two walls of lush greenery, with a solitary figure walking away from the camera.
+An image with a tree, a car, a wall, a house, a pavement, and a sky.
+An image with a car, a tree, a sky, a house, a pavement, and a wall.
+An image with a car, a wall, a tree, a sky, a house, and a pavement.
+An image with a house, a wall, a car, a sky, a pavement, and a tree.
+An image with a house, a car, a tree, a wall, a pavement, and a sky.

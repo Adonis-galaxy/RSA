@@ -8,3 +8,8 @@ The image shows a road with cars and a train track.
 A car on a road, surrounded by trees and power lines, with other cars in the distance.
 A long, straight road with multiple cars driving on it, surrounded by trees and power lines.
 A long, straight road with multiple lanes, bordered by trees and power lines, leading to a distant horizon.
+An image with seven cars, a grass, a road, a railroad, a tree, a truck, a roof, and a building.
+An image with a road, a tree, seven cars, a truck, a grass, a building, a roof, and a railroad.
+An image with seven cars, a road, a grass, a railroad, a building, a tree, a truck, and a roof.
+An image with a railroad, seven cars, a road, a building, a truck, a grass, a tree, and a roof.
+An image with a truck, a tree, a railroad, seven cars, a roof, a grass, a building, and a road.

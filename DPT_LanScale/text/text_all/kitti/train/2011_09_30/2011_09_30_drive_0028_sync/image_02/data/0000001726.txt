@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a blue and white toilet on 
 A narrow street in a residential area, with parked cars, a blue and white toilet, and a white van.
 A large white toilet is parked on a narrow street between two-story buildings, with cars parked on both sides and a person walking on the sidewalk.
 A narrow street in a residential area, with parked cars, a blue and white toilet, and a white van.
+An image with eight cars, a pavement, a road, a tree, a sky, a house, a bench, a grass, a person, and a parking.
+An image with eight cars, a bench, a tree, a grass, a house, a sky, a person, a pavement, a parking, and a road.
+An image with a tree, a parking, eight cars, a pavement, a house, a person, a grass, a sky, a road, and a bench.
+An image with a person, eight cars, a bench, a tree, a sky, a parking, a road, a house, a pavement, and a grass.
+An image with a pavement, a parking, a person, eight cars, a bench, a road, a grass, a tree, a sky, and a house.

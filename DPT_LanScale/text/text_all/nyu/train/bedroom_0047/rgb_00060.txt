@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a bedroom scene with a bed, a window, a ceiling fan, and a painting on the wall.
 The image shows a small, messy bedroom with a large bed, a window with blinds, a ceiling fan, and a picture on the wall.
 The image shows a bedroom with a large bed, a window, a ceiling fan, and a nightstand.
+An image with a tv, a floor, a clock, a bed, a wall, a ceiling, and a suitcase.
+An image with a bed, a suitcase, a floor, a ceiling, a tv, a clock, and a wall.
+An image with a floor, a wall, a suitcase, a clock, a ceiling, a tv, and a bed.
+An image with a ceiling, a floor, a tv, a wall, a suitcase, a clock, and a bed.
+An image with a ceiling, a tv, a floor, a suitcase, a bed, a clock, and a wall.

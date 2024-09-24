@@ -8,3 +8,8 @@ The image shows a street scene with a motorcycle parked on the side of the road.
 The image captures a quiet residential street, with parked cars and motorcycles lining the sidewalk, under a clear blue sky.
 The image shows a quiet residential street with parked cars, a motorcycle, and a few pedestrians, all under a clear blue sky.
 A quiet residential street with parked cars, a motorcycle, and a few pedestrians, under a clear blue sky.
+An image with five cars, a truck, a grass, a dirt, a motorcycle, a pavement, a house, a road, and a tree.
+An image with a road, five cars, a tree, a house, a grass, a truck, a dirt, a motorcycle, and a pavement.
+An image with a house, a pavement, a dirt, a tree, a motorcycle, a truck, five cars, a grass, and a road.
+An image with a tree, five cars, a road, a house, a dirt, a motorcycle, a truck, a pavement, and a grass.
+An image with a dirt, five cars, a truck, a pavement, a tree, a road, a grass, a house, and a motorcycle.

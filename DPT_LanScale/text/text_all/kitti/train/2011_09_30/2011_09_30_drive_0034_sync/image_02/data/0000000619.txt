@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses and a car.
 The image captures a quiet residential street, with a mix of houses and trees, leading to a white building with a black roof.
 The image shows a narrow street lined with houses, a car parked on the side, and a pedestrian crossing marked with white lines.
 The image depicts a quiet residential street with a mix of houses and apartment buildings, lined with trees and a sidewalk, leading to a crosswalk.
+An image with a fence, a tree, a house, a road, a wall, a traffic, a sky, and a pavement.
+An image with a pavement, a wall, a tree, a house, a road, a fence, a sky, and a traffic.
+An image with a traffic, a wall, a sky, a tree, a pavement, a road, a fence, and a house.
+An image with a traffic, a pavement, a tree, a road, a wall, a house, a sky, and a fence.
+An image with a tree, a sky, a wall, a road, a fence, a traffic, a house, and a pavement.

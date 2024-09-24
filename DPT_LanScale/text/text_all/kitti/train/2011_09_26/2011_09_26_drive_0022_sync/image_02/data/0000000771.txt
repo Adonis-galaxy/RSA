@@ -8,3 +8,8 @@ The image shows a street sign with a pedestrian crossing symbol.
 The image captures a quiet residential street, with a clear path for pedestrians and vehicles, marked by a pedestrian crossing sign.
 The image shows a narrow street lined with trees and parked cars, with a pedestrian crossing sign on the right side.
 The image depicts a tree-lined street with parked cars, a pedestrian crossing sign, and a sidewalk.
+An image with five cars, a sky, a road, a pavement, a grass, and a tree.
+An image with five cars, a sky, a road, a tree, a pavement, and a grass.
+An image with five cars, a road, a pavement, a grass, a sky, and a tree.
+An image with five cars, a pavement, a tree, a sky, a grass, and a road.
+An image with a sky, a tree, a pavement, five cars, a grass, and a road.

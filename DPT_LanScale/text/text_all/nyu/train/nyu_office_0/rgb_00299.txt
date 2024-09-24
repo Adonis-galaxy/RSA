@@ -8,3 +8,8 @@ The image shows a hallway with wooden doors and a metal door.
 The image captures a well-lit hallway with a series of closed wooden doors, a metal trash can, and a wooden table with a black cable on it.
 The image shows a hallway with two large wooden doors, a metal door, a trash can, and a wooden table.
 The image shows an interior space with a corridor featuring two wooden doors, a trash can, and a sign on the wall.
+An image with a floor, a ceiling, a wall, a cardboard, a door, a light, and a table.
+An image with a floor, a wall, a light, a ceiling, a table, a door, and a cardboard.
+An image with a ceiling, a floor, a door, a cardboard, a wall, a light, and a table.
+An image with a door, a light, a table, a floor, a wall, a cardboard, and a ceiling.
+An image with a cardboard, a wall, a light, a door, a floor, a table, and a ceiling.

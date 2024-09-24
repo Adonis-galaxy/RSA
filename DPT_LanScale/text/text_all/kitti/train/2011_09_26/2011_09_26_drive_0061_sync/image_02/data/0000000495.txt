@@ -8,3 +8,8 @@ A black car on a street.
 A black car on a narrow, tree-lined street, with a brick wall and a red car in the background, under a clear blue sky.
 A black car is driving down a narrow, tree-lined street, with a brick wall on the right side and a red car parked on the left side.
 A black car is parked on the side of a narrow, tree-lined street, with a brick wall and a red car visible in the background.
+An image with two cars, a road, a pavement, a wall, a door, a tree, and a sky.
+An image with a pavement, two cars, a wall, a sky, a door, a road, and a tree.
+An image with two cars, a tree, a wall, a sky, a door, a road, and a pavement.
+An image with a tree, a road, two cars, a wall, a door, a sky, and a pavement.
+An image with a wall, a door, a pavement, a sky, two cars, a road, and a tree.

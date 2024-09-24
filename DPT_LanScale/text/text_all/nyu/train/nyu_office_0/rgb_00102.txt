@@ -8,3 +8,8 @@ The image shows a dark hallway with a metal railing and a glass door.
 The image captures a moment of quiet solitude in an urban setting, where the essence of the scene is the contrast between the dark, empty interior of the building and the bright, open space of the street outside.
 The image shows a large, dark room with a glass partition and a metal railing, and a smaller room with a glass door and a metal railing.
 The image shows an interior space with a dark floor, a metal railing, and a glass partition that separates two areas.
+An image with a wall, a ceiling, a floor, a fence, a light, and a rug.
+An image with a rug, a fence, a ceiling, a floor, a light, and a wall.
+An image with a wall, a fence, a ceiling, a light, a rug, and a floor.
+An image with a wall, a fence, a light, a floor, a rug, and a ceiling.
+An image with a light, a floor, a fence, a rug, a ceiling, and a wall.

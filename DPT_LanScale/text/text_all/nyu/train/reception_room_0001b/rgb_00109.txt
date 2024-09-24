@@ -8,3 +8,8 @@ The image shows a room with a wooden floor and a wall-mounted picture.
 The image shows an empty room with a wooden floor, a wall-mounted picture, a potted plant, and a chair.
 The image shows a room with a large wooden floor, a potted plant, a chair, and a framed picture on the wall.
 The image shows an empty room with a wooden floor, a wall-mounted picture, a doorway, and two potted plants.
+An image with a table, a chair, three potteds, a tv, a floor, and a wall.
+An image with three potteds, a chair, a table, a floor, a tv, and a wall.
+An image with a table, a wall, a tv, a floor, three potteds, and a chair.
+An image with a wall, three potteds, a floor, a chair, a tv, and a table.
+An image with three potteds, a wall, a table, a floor, a chair, and a tv.

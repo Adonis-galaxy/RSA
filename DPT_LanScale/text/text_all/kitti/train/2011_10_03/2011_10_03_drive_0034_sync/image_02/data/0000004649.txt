@@ -8,3 +8,8 @@ A narrow road between two brick walls.
 The image captures a narrow, shaded street with a brick wall on one side, a tree-lined road, and a single vehicle in the distance.
 The image shows a narrow, tree-lined road with a brick wall on one side and a stone wall on the other, leading to a tunnel.
 A narrow, tree-lined road with a brick wall on one side and a stone wall on the other, leading to a tunnel.
+An image with a stop, a tree, a sky, two cars, a pavement, a road, and a wall.
+An image with a stop, a tree, a pavement, a sky, a wall, two cars, and a road.
+An image with two cars, a road, a stop, a wall, a pavement, a tree, and a sky.
+An image with a road, a tree, two cars, a pavement, a stop, a sky, and a wall.
+An image with a sky, a wall, two cars, a tree, a stop, a pavement, and a road.

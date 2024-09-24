@@ -8,3 +8,8 @@ A woman standing in a kitchen.
 A woman in a kitchen, opening a refrigerator, with a bottle of soda and a green bottle on the counter.
 A woman is standing in a kitchen, opening a large white refrigerator.
 A woman in a white shirt stands in a kitchen with white cabinets, a white refrigerator, and a white stove, opening the refrigerator door.
+An image with two people, a cabinet, five bottles, a counter, two refrigerators, a ceiling, a oven, and a wall.
+An image with a wall, five bottles, a counter, two refrigerators, two people, a ceiling, a cabinet, and a oven.
+An image with a oven, two people, a cabinet, five bottles, two refrigerators, a counter, a wall, and a ceiling.
+An image with a ceiling, five bottles, two people, two refrigerators, a oven, a cabinet, a counter, and a wall.
+An image with a counter, five bottles, two refrigerators, two people, a cabinet, a ceiling, a wall, and a oven.

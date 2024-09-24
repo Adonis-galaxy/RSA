@@ -8,3 +8,8 @@ A room with a ping pong table and chairs.
 The image captures a room with a ping pong table, surrounded by chairs and tables, with a door leading to a bookshelf filled with books.
 The image shows a room with a large table, several chairs, a ping pong table, and a bookshelf filled with books.
 The image shows an indoor room with a ping pong table in the foreground, surrounded by chairs and tables, with a doorway leading to a room with a bookshelf and a window.
+An image with nine chairs, a ceiling, sixteen books, a wall, a shelf, a door, a net, a table, a window, a light, a floor, a couch, and a dining.
+An image with a shelf, sixteen books, nine chairs, a table, a window, a couch, a door, a dining, a net, a light, a wall, a ceiling, and a floor.
+An image with a wall, sixteen books, nine chairs, a window, a light, a ceiling, a floor, a shelf, a net, a door, a dining, a table, and a couch.
+An image with a shelf, nine chairs, sixteen books, a net, a table, a ceiling, a couch, a wall, a floor, a dining, a light, a window, and a door.
+An image with a net, sixteen books, a couch, nine chairs, a wall, a floor, a dining, a shelf, a door, a window, a light, a table, and a ceiling.

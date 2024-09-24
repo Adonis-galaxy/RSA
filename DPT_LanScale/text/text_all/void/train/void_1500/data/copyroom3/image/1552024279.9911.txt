@@ -8,3 +8,8 @@ The image shows a kitchen with a refrigerator, cabinets, and a door.
 The image shows a kitchen with a refrigerator, a counter, and a doorway leading to another room.
 The image shows a small kitchen with a refrigerator, a counter, and a door.
 The image shows a narrow kitchen with a refrigerator on the left, a counter on the right, and a doorway leading to another room.
+An image with a floor, a wall, a door, a cabinet, a refrigerator, and a light.
+An image with a cabinet, a wall, a door, a refrigerator, a light, and a floor.
+An image with a cabinet, a refrigerator, a door, a wall, a floor, and a light.
+An image with a floor, a cabinet, a refrigerator, a light, a door, and a wall.
+An image with a door, a light, a wall, a cabinet, a floor, and a refrigerator.

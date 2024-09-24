@@ -8,3 +8,8 @@ A blurry image of a desk with a red cup and papers on it.
 A blurry image of a cluttered desk with a red cup and papers.
 A blurry image of a desk with a red cup, papers, and a black object.
 The image shows a blurry desk with a red cup, papers, and a computer mouse.
+An image with a floor, a keyboard, a table, a book, and two cups.
+An image with two cups, a book, a keyboard, a table, and a floor.
+An image with a book, two cups, a floor, a table, and a keyboard.
+An image with a table, a floor, two cups, a book, and a keyboard.
+An image with a keyboard, a table, two cups, a book, and a floor.

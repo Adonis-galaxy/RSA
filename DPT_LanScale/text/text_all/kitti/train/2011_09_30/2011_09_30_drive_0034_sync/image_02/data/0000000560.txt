@@ -8,3 +8,8 @@ A car parked on a narrow street.
 A parked silver car on a narrow street, with a white building and greenery in the background, under a bright sunny sky.
 A small white car is parked on a narrow street between two buildings, with a tree and a fence visible in the background.
 A narrow street with parked cars, a fence, and a building with a vine-covered wall.
+An image with a fence, a tree, two walls, a dirt, a road, a person, a car, and a house.
+An image with a person, a tree, a dirt, two walls, a fence, a road, a car, and a house.
+An image with a person, a fence, a tree, two walls, a road, a dirt, a house, and a car.
+An image with a person, a car, a dirt, a fence, two walls, a tree, a house, and a road.
+An image with two walls, a tree, a house, a fence, a road, a car, a person, and a dirt.

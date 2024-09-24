@@ -8,3 +8,8 @@ The image shows a street with parked cars and houses on the side.
 The image captures a serene residential street, lined with houses, trees, and parked cars, under a clear blue sky.
 The image depicts a residential street with houses, trees, and parked cars, all viewed from a distance.
 The image depicts a residential street with a row of houses, a paved sidewalk, and a tree-lined road, all under a clear blue sky.
+An image with a house, six cars, a tree, a fire, a grass, a pavement, a roof, a truck, and a road.
+An image with a grass, six cars, a fire, a road, a pavement, a roof, a house, a tree, and a truck.
+An image with a house, six cars, a truck, a roof, a road, a pavement, a grass, a fire, and a tree.
+An image with a fire, six cars, a road, a pavement, a house, a roof, a tree, a truck, and a grass.
+An image with six cars, a house, a fire, a tree, a grass, a truck, a roof, a pavement, and a road.

@@ -8,3 +8,8 @@ A bookshelf with books and a television.
 A cozy living room with a bookshelf, a television, and a blue table.
 The image shows a living room with a large bookshelf filled with books, a flat-screen TV, a small table with a phone and a remote, and a brick wall.
 A cozy living room with a brick wall, a bookshelf filled with books, a flat-screen TV, a blue table, a couch, and a phone.
+An image with eight books, a table, a tv, a remote, a floor, a shelf, two walls, and a pillow.
+An image with eight books, two walls, a remote, a shelf, a pillow, a tv, a floor, and a table.
+An image with eight books, a remote, two walls, a table, a shelf, a floor, a pillow, and a tv.
+An image with two walls, a shelf, eight books, a pillow, a table, a remote, a floor, and a tv.
+An image with a tv, a shelf, a table, eight books, a floor, two walls, a pillow, and a remote.

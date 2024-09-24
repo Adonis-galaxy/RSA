@@ -8,3 +8,8 @@ A kitchen counter with a few items on it.
 The image captures a well-lit kitchen with a focus on a countertop where various items, including a bag of coffee, a plastic container, and a remote control, are placed.
 The image shows a kitchen with a large countertop, a window with blinds, a stove, and various items on the countertop, including a large plastic container, a smaller container, a remote control, and a cup.
 The image shows a kitchen with a countertop, cabinets, a stove, and a window with blinds. There are two plastic bags on the countertop, a remote control, and a clear container with a blue lid.
+An image with three chairs, a oven, a cabinet, a floor, a ceiling, a door, a wall, a sink, a cell, a bottle, and a window.
+An image with a oven, a window, three chairs, a wall, a floor, a cell, a ceiling, a sink, a cabinet, a bottle, and a door.
+An image with a cell, a floor, three chairs, a wall, a bottle, a cabinet, a sink, a oven, a door, a ceiling, and a window.
+An image with a door, a oven, a cell, a sink, a window, three chairs, a wall, a ceiling, a bottle, a floor, and a cabinet.
+An image with a cabinet, three chairs, a sink, a wall, a door, a window, a bottle, a cell, a ceiling, a floor, and a oven.

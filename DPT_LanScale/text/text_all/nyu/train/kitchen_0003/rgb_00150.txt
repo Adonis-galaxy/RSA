@@ -8,3 +8,8 @@ A bottle of wine on a shelf.
 A bottle of wine is placed on a shelf next to a basket, with a view into a room with a window and a door.
 A bottle of wine is sitting on a shelf next to a white laundry basket.
 A bottle of wine is placed on a wooden shelf in a room with a white wall and a doorway leading to another room.
+An image with a bottle, two walls, a table, and a ceiling.
+An image with a table, a ceiling, a bottle, and two walls.
+An image with two walls, a table, a bottle, and a ceiling.
+An image with a table, a bottle, two walls, and a ceiling.
+An image with a table, two walls, a ceiling, and a bottle.

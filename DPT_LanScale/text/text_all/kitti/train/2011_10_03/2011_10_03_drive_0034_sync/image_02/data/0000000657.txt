@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars on the side of the road, a woman tending to a garden, and a house with a hedge in the background.
 The image shows a narrow street lined with parked cars, a person trimming a hedge, and a house with a green hedge in the background.
 A narrow, tree-lined street with parked cars and a woman tending to a garden.
+An image with five cars, a tree, a building, a wall, a pavement, a house, a grass, a person, a sky, and a road.
+An image with five cars, a person, a wall, a house, a sky, a pavement, a grass, a tree, a road, and a building.
+An image with a sky, five cars, a grass, a pavement, a tree, a person, a wall, a road, a building, and a house.
+An image with five cars, a road, a person, a house, a building, a pavement, a sky, a tree, a wall, and a grass.
+An image with a building, five cars, a person, a sky, a road, a grass, a house, a wall, a tree, and a pavement.

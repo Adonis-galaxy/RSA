@@ -8,3 +8,8 @@ A black bag with a red stripe on the floor next to a blue trash can.
 A black bag with a red stripe is leaning against a white cylinder, and a blue trash can is next to it.
 A black bag with a red stripe is leaning against a white cylinder, next to a blue trash can.
 A black bag with a red stripe is leaning against a white cylinder, and a blue trash can is next to it.
+An image with a suitcase, a door, and a rug.
+An image with a rug, a suitcase, and a door.
+An image with a suitcase, a rug, and a door.
+An image with a rug, a door, and a suitcase.
+An image with a rug, a suitcase, and a door.

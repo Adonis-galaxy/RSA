@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a few parked cars, a person riding a bicycle, and a solitary tree, all under the shade of a clear sky.
 A person riding a bicycle on a narrow street between tall buildings.
 A quiet residential street with parked cars, a bicyclist, and a pedestrian, lined with buildings and trees, under a bright sunny sky.
+An image with six cars, a pavement, a road, two people, a sky, a bicycle, a tree, and a building.
+An image with six cars, a bicycle, a sky, a tree, a road, a building, two people, and a pavement.
+An image with a road, six cars, a building, two people, a sky, a tree, a pavement, and a bicycle.
+An image with a bicycle, six cars, a tree, a pavement, a road, a building, a sky, and two people.
+An image with six cars, two people, a pavement, a road, a sky, a tree, a bicycle, and a building.

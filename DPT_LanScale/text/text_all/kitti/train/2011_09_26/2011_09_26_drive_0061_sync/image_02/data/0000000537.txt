@@ -8,3 +8,8 @@ The image shows a red car parked on a narrow street between two walls of greener
 A red car is parked on the side of a narrow street, with a brick wall and lush greenery on either side, and two other cars are parked further down the road.
 A red car is driving down a narrow street between two walls of greenery.
 A narrow street with parked cars and a brick wall on one side, lined with lush greenery.
+An image with two cars, a wall, a tree, a road, and a pavement.
+An image with two cars, a pavement, a wall, a road, and a tree.
+An image with two cars, a pavement, a wall, a tree, and a road.
+An image with a road, a tree, two cars, a wall, and a pavement.
+An image with a wall, a tree, two cars, a road, and a pavement.

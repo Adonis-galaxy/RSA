@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with cars driving along the road, passing under traffic lights, and parked along the side of the road.
 The image shows a wide, empty road with a few cars, a traffic light, and a street sign.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and traffic lights, leading to a roundabout at the end.
+An image with a fence, five cars, a grass, a stop, a tree, five traffics, and a road.
+An image with a tree, five traffics, five cars, a fence, a grass, a road, and a stop.
+An image with a fence, five cars, five traffics, a road, a stop, a tree, and a grass.
+An image with five traffics, five cars, a stop, a tree, a grass, a road, and a fence.
+An image with five traffics, a stop, a grass, a fence, five cars, a tree, and a road.

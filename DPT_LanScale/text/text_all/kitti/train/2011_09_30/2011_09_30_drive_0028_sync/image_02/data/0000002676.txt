@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a street, surrounded by trees and signs, with a clear sky overhead.
 A person riding a bicycle on a street surrounded by trees.
 A person riding a bicycle on a curvy road in a park-like setting, with trees and a clear sky.
+An image with a road, a pavement, a bicycle, a tree, a grass, a sky, and a person.
+An image with a grass, a road, a pavement, a tree, a bicycle, a person, and a sky.
+An image with a grass, a road, a person, a tree, a pavement, a bicycle, and a sky.
+An image with a person, a sky, a bicycle, a grass, a tree, a road, and a pavement.
+An image with a road, a bicycle, a sky, a grass, a pavement, a tree, and a person.

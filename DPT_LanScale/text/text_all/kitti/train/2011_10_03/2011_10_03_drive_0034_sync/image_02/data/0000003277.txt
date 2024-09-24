@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a clear path leading to a park.
 The image shows a narrow, tree-lined street with a stop sign at the end, leading to a larger road.
 A tree-lined street with a curved path leading to a stop sign at the end.
+An image with a grass, a tree, a road, a wall, a dirt, and a pavement.
+An image with a dirt, a road, a pavement, a tree, a wall, and a grass.
+An image with a dirt, a tree, a pavement, a road, a grass, and a wall.
+An image with a grass, a tree, a pavement, a dirt, a road, and a wall.
+An image with a dirt, a wall, a road, a pavement, a grass, and a tree.

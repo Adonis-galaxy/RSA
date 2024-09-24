@@ -8,3 +8,8 @@ A man is standing on a ladder.
 A quiet street scene with construction underway, featuring a pedestrian, a cyclist, and a delivery truck.
 A large construction site with a fenced-off area, a man on a bicycle, and a truck parked on the side of a road.
 A quiet street scene with a sidewalk, grass, a building under construction, and a few people.
+An image with six cars, a road, a building, a tree, four people, a truck, a grass, a pavement, a fence, and a bicycle.
+An image with a fence, six cars, a pavement, a grass, a building, four people, a tree, a truck, a bicycle, and a road.
+An image with a bicycle, six cars, four people, a truck, a tree, a building, a road, a fence, a grass, and a pavement.
+An image with four people, a building, six cars, a road, a grass, a pavement, a fence, a bicycle, a truck, and a tree.
+An image with a grass, a building, four people, six cars, a truck, a tree, a pavement, a fence, a road, and a bicycle.

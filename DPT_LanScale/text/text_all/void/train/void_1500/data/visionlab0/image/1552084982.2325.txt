@@ -8,3 +8,8 @@ A man in a red hoodie is standing in an office.
 A man in a red sweater is standing in an office, looking at a laptop on a desk.
 A man in a red hoodie is standing in an office, looking at a laptop on a desk.
 A man in a red hoodie is standing in a room with a desk, a whiteboard, and a laptop.
+An image with a floor, a laptop, a wall, a table, two cups, two chairs, a window, and a person.
+An image with a table, a person, a window, a wall, two cups, a floor, two chairs, and a laptop.
+An image with two chairs, two cups, a floor, a laptop, a person, a table, a wall, and a window.
+An image with a laptop, two cups, two chairs, a wall, a floor, a window, a person, and a table.
+An image with a floor, two cups, a window, a person, a table, a laptop, two chairs, and a wall.

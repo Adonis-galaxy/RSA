@@ -8,3 +8,8 @@ A treadmill is in the corner of a room.
 A home gym setup with a treadmill and a couch.
 A compact indoor gym setup with a treadmill and a couch.
 A compact living room with a treadmill, a couch, and a yellow and black pillow.
+An image with a wall, a rug, a window, and a couch.
+An image with a window, a rug, a couch, and a wall.
+An image with a rug, a couch, a wall, and a window.
+An image with a window, a couch, a wall, and a rug.
+An image with a window, a rug, a couch, and a wall.

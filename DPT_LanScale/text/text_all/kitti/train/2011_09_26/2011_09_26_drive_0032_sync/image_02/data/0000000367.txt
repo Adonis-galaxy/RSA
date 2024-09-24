@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic lights.
 The image captures a bustling highway scene with multiple lanes of traffic, a clear sky, and a mix of vehicles and infrastructure elements.
 The image shows a wide, empty road with a few cars and trucks, a traffic light, and a railroad crossing.
 The image depicts a wide, multi-lane road with traffic, flanked by grassy areas and lined with streetlights and traffic signals.
+An image with a sky, five traffics, a road, a truck, four cars, a pavement, a grass, and a tree.
+An image with a road, four cars, five traffics, a tree, a truck, a sky, a pavement, and a grass.
+An image with five traffics, a pavement, four cars, a grass, a tree, a truck, a sky, and a road.
+An image with a grass, five traffics, four cars, a tree, a sky, a pavement, a truck, and a road.
+An image with four cars, a grass, a tree, a pavement, five traffics, a road, a truck, and a sky.

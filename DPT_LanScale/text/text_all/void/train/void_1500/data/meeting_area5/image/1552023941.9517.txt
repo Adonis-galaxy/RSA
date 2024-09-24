@@ -8,3 +8,8 @@ The image shows a white table with a chair in a room.
 The image shows a white table with a chair in a room with other tables and chairs.
 The image shows a white table with a chair in a room with other tables and chairs.
 The image shows a white table with a chair in a room with other tables and chairs.
+An image with three dinings, three chairs, a wall, and a floor.
+An image with three dinings, a wall, a floor, and three chairs.
+An image with three chairs, three dinings, a wall, and a floor.
+An image with three dinings, three chairs, a floor, and a wall.
+An image with a wall, three dinings, a floor, and three chairs.

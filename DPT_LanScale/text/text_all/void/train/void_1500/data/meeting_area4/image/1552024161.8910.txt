@@ -8,3 +8,8 @@ The image shows a carpeted floor with a chair on it.
 The image shows a gray carpeted office floor with several chairs and a desk, all in a blurry state.
 The image shows a gray carpeted floor with a white desk and chair in the foreground.
 The image shows a carpeted floor with a white chair on it, and there are other chairs and desks in the background.
+An image with two chairs, a wall, a floor, and a dining.
+An image with two chairs, a wall, a dining, and a floor.
+An image with a floor, a dining, a wall, and two chairs.
+An image with two chairs, a dining, a floor, and a wall.
+An image with a dining, a wall, two chairs, and a floor.

@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 The image captures a moment of urban life, with a red car driving on a street lined with trees and buildings, passing under traffic lights and street signs, while a pedestrian waits to cross the road.
 A red car is driving on a road with multiple lanes, passing under traffic lights and street signs, while a mountain can be seen in the background.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and surrounded by trees and buildings.
+An image with twelve cars, a sky, a pavement, eight traffics, a grass, a house, a road, a mountain, and a tree.
+An image with twelve cars, a house, eight traffics, a sky, a mountain, a pavement, a road, a grass, and a tree.
+An image with twelve cars, eight traffics, a pavement, a sky, a grass, a house, a road, a tree, and a mountain.
+An image with a road, twelve cars, a pavement, a tree, a mountain, eight traffics, a sky, a house, and a grass.
+An image with twelve cars, a house, eight traffics, a grass, a mountain, a road, a tree, a sky, and a pavement.

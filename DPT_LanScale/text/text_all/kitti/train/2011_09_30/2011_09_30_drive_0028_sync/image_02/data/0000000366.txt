@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a quiet residential street, with a parked truck at the end of the road, flanked by buildings and trees, under a clear sky.
 The image shows a narrow street between two-story buildings, with a truck parked on the right side and a car parked on the left side.
 The image depicts a narrow street lined with buildings, parked cars, and a truck, with a clear sky overhead.
+An image with a tree, five cars, a sky, a fence, a road, a house, a truck, and a pavement.
+An image with a tree, five cars, a house, a road, a sky, a pavement, a fence, and a truck.
+An image with a road, a fence, five cars, a truck, a pavement, a sky, a tree, and a house.
+An image with five cars, a fence, a truck, a pavement, a road, a house, a tree, and a sky.
+An image with five cars, a tree, a fence, a sky, a road, a pavement, a house, and a truck.

@@ -8,3 +8,8 @@ A blue trash can in a classroom.
 A blue trash can sits next to a desk in a classroom.
 A blue trash can is sitting next to a desk in a classroom.
 A blue trash can is placed next to a desk with a whiteboard in the background.
+An image with a floor, a paper, a wall, a keyboard, a chair, a dining, and a table.
+An image with a table, a dining, a chair, a keyboard, a wall, a paper, and a floor.
+An image with a keyboard, a chair, a dining, a paper, a table, a floor, and a wall.
+An image with a floor, a paper, a wall, a keyboard, a chair, a table, and a dining.
+An image with a wall, a chair, a dining, a table, a floor, a paper, and a keyboard.

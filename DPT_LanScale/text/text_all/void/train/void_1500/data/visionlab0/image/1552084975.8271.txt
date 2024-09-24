@@ -8,3 +8,8 @@ A whiteboard with writing on it in a room.
 A room with a whiteboard, a hat on a table, and boxes in the corner.
 The image shows a room with a whiteboard, a blue chair, a cardboard box, a hat, and some writing on the wall.
 The image shows a room with a whiteboard, a blue chair, a cardboard box, and a sombrero on a table.
+An image with a wall, a floor, a tv, a door, a refrigerator, a cabinet, and a cardboard.
+An image with a door, a tv, a floor, a wall, a refrigerator, a cardboard, and a cabinet.
+An image with a door, a cabinet, a tv, a wall, a cardboard, a refrigerator, and a floor.
+An image with a wall, a tv, a floor, a cabinet, a cardboard, a refrigerator, and a door.
+An image with a door, a wall, a floor, a cabinet, a cardboard, a tv, and a refrigerator.

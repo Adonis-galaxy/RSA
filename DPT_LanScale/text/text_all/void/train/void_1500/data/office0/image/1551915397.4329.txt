@@ -8,3 +8,8 @@ A black leather couch with a wooden table in front of it.
 A black leather couch with a wooden side table.
 A black leather couch with a wooden side table and a metal railing.
 A black leather couch with a wooden side table and a black cushion.
+An image with a couch, a rug, a towel, a wall, and a table.
+An image with a couch, a table, a rug, a towel, and a wall.
+An image with a rug, a couch, a wall, a towel, and a table.
+An image with a wall, a couch, a table, a towel, and a rug.
+An image with a couch, a wall, a towel, a rug, and a table.

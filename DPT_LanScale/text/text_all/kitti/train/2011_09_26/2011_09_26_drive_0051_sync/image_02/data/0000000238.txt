@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A solitary car on a tree-lined street, with a large truck parked nearby and a clear sky overhead.
 A large truck is driving down a tree-lined street, passing a parked car and a sign, with other vehicles and buildings in the background.
 A tree-lined street with parked cars, a truck, and a car driving down the road, with a clear sky overhead.
+An image with seventeen cars, a sky, a building, two trucks, a tree, a grass, and a road.
+An image with seventeen cars, a building, a grass, a road, a tree, two trucks, and a sky.
+An image with seventeen cars, a building, two trucks, a grass, a sky, a tree, and a road.
+An image with seventeen cars, a sky, a building, a tree, a road, two trucks, and a grass.
+An image with seventeen cars, two trucks, a grass, a road, a sky, a building, and a tree.

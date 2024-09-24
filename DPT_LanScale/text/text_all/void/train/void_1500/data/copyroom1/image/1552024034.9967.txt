@@ -8,3 +8,8 @@ A printer on a desk.
 The image shows a white printer on a desk with a blue cord plugged into it.
 The image shows a large white printer on a desk, with a blue cord plugged into it.
 The image shows a white printer on a desk with a paper tray and a power cord plugged into the wall.
+An image with a light, a wall, a floor, a cabinet, and a paper.
+An image with a cabinet, a wall, a floor, a paper, and a light.
+An image with a paper, a floor, a wall, a cabinet, and a light.
+An image with a light, a cabinet, a paper, a floor, and a wall.
+An image with a light, a floor, a paper, a cabinet, and a wall.

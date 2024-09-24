@@ -8,3 +8,8 @@ A small office space with a desk and a printer.
 The image captures a small, cluttered room with a desk, a printer, a computer monitor, a trash can, and a closet.
 The image shows a small room with a desk, a printer, a computer monitor, a trash can, and a closet.
 The image shows a small, cluttered room with a desk, a printer, a computer monitor, a trash can, and a closet.
+An image with a microwave, a rug, a table, a wall, a tv, a paper, and a mouse.
+An image with a rug, a mouse, a microwave, a wall, a table, a paper, and a tv.
+An image with a tv, a paper, a rug, a table, a wall, a microwave, and a mouse.
+An image with a rug, a paper, a tv, a wall, a mouse, a table, and a microwave.
+An image with a tv, a mouse, a microwave, a rug, a table, a wall, and a paper.

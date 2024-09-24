@@ -8,3 +8,8 @@ A white printer in a green room.
 The image shows a white printer sitting on the floor next to a green filing cabinet.
 The image shows a white printer on a green counter, with a stack of papers on top of it.
 The image shows a white printer on a green counter next to a stack of white boxes.
+An image with a wall, a cabinet, a floor, a oven, and a paper.
+An image with a cabinet, a wall, a oven, a paper, and a floor.
+An image with a cabinet, a floor, a oven, a paper, and a wall.
+An image with a floor, a cabinet, a paper, a oven, and a wall.
+An image with a wall, a floor, a paper, a oven, and a cabinet.

@@ -8,3 +8,8 @@ A white folding chair in a room.
 A white folding chair is positioned in front of a white table, with a white refrigerator and a black bag on the table.
 A small white chair is positioned in front of a large white refrigerator, with a table and a handbag on it.
 A small, simple room with a white refrigerator, a white table, a white chair, and a few personal items.
+An image with a refrigerator, two chairs, a dining, a handbag, a wall, a cell, and a floor.
+An image with a floor, a handbag, a cell, two chairs, a refrigerator, a wall, and a dining.
+An image with two chairs, a handbag, a cell, a wall, a refrigerator, a floor, and a dining.
+An image with a floor, a wall, two chairs, a cell, a dining, a handbag, and a refrigerator.
+An image with a dining, a refrigerator, a wall, a cell, a floor, two chairs, and a handbag.

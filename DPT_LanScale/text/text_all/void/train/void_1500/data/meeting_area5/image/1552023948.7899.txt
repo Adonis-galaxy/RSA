@@ -8,3 +8,8 @@ The image shows a white table with a white chair in a room with other tables and
 The image shows an empty room with several white tables and chairs, arranged in a way that suggests a meeting or conference room.
 The image shows a white table with a white chair in a room with other white tables and chairs.
 The image shows a room with a white table and chairs, and the chairs are arranged around the table.
+An image with eight chairs, three dinings, a floor, a door, and a wall.
+An image with three dinings, eight chairs, a floor, a wall, and a door.
+An image with eight chairs, a floor, a wall, three dinings, and a door.
+An image with eight chairs, three dinings, a wall, a door, and a floor.
+An image with a floor, a wall, a door, eight chairs, and three dinings.

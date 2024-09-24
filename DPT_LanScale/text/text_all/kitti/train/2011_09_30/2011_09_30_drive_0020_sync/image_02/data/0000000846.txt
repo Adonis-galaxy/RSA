@@ -8,3 +8,8 @@ The image shows a street scene with a red car parked on the side of the road.
 A quiet residential street with a few parked cars, bicycles, and a red car, lined with trees and buildings under a clear blue sky.
 A bustling city street with a red car parked on the sidewalk, a few bicycles, and a white building under construction.
 A tree-lined street with a red car parked on the sidewalk, leading to a white building under construction.
+An image with a grass, seven cars, a road, a pavement, a house, a bicycle, a tree, and a person.
+An image with a house, seven cars, a grass, a road, a tree, a bicycle, a pavement, and a person.
+An image with a tree, a person, seven cars, a house, a bicycle, a grass, a pavement, and a road.
+An image with a person, seven cars, a bicycle, a pavement, a road, a grass, a tree, and a house.
+An image with seven cars, a pavement, a house, a person, a grass, a tree, a bicycle, and a road.

@@ -8,3 +8,8 @@ A room with a desk, a filing cabinet, and a refrigerator.
 The image shows an office space with a desk, a filing cabinet, and a bookshelf.
 The image shows a small office with a desk, a filing cabinet, a bookshelf, and a refrigerator.
 The image shows an office space with a desk, filing cabinet, and a large bookshelf.
+An image with a table, seventeen books, a dining, two chairs, a refrigerator, a light, a floor, a wall, a shelf, and a paper.
+An image with seventeen books, two chairs, a shelf, a dining, a floor, a light, a table, a refrigerator, a wall, and a paper.
+An image with a wall, seventeen books, a light, a dining, a floor, two chairs, a shelf, a refrigerator, a paper, and a table.
+An image with a table, seventeen books, a dining, a light, two chairs, a paper, a floor, a refrigerator, a wall, and a shelf.
+An image with seventeen books, a light, a table, a shelf, a floor, two chairs, a wall, a paper, a refrigerator, and a dining.

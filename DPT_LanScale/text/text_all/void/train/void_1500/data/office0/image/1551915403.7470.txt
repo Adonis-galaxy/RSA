@@ -8,3 +8,8 @@ A stack of papers on a table.
 A cluttered table with papers and a book.
 A black chair is in front of a whiteboard with papers on a table.
 A cluttered table with papers and books on it.
+An image with three books, a tv, a wall, a chair, and a dining.
+An image with a wall, three books, a dining, a tv, and a chair.
+An image with a dining, three books, a chair, a wall, and a tv.
+An image with a tv, a chair, three books, a wall, and a dining.
+An image with a wall, a dining, a tv, three books, and a chair.

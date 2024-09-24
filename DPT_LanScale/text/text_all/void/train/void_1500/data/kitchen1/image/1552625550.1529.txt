@@ -8,3 +8,8 @@ A white napkin on a counter.
 A white napkin on a yellow countertop next to a blue and yellow container.
 A white napkin on a yellow countertop, with a blue and yellow box of tissues and a brown cup of toothpicks.
 A white napkin on a yellow countertop, with a blue and yellow box of tissues and a brown cup of straws.
+An image with a wall, three spoons, a table, and a cup.
+An image with a table, three spoons, a cup, and a wall.
+An image with a wall, a cup, a table, and three spoons.
+An image with a cup, a table, three spoons, and a wall.
+An image with three spoons, a wall, a table, and a cup.

@@ -8,3 +8,8 @@ A poster on a wall.
 A poster on a wall next to a bulletin board.
 The image shows a wall with a poster and a flyer attached to it.
 The image shows a wall with a poster and a flyer attached to it, with a light source on the left side.
+An image with a cabinet, a light, a wall, and a paper.
+An image with a cabinet, a wall, a paper, and a light.
+An image with a paper, a cabinet, a light, and a wall.
+An image with a wall, a cabinet, a light, and a paper.
+An image with a light, a paper, a cabinet, and a wall.

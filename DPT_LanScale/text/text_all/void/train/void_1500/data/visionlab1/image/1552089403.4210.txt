@@ -8,3 +8,8 @@ A person holding a coffee cup.
 A person is standing next to a gray office chair in an office setting.
 A person is standing next to a gray office chair in a room with multiple chairs and desks.
 The image shows an office setting with a person standing at a desk, a gray office chair in the foreground, and other office furniture in the background.
+An image with a dining, a tv, a laptop, three chairs, a cup, a person, a wall, a rug, and a window.
+An image with a rug, three chairs, a cup, a wall, a window, a person, a tv, a laptop, and a dining.
+An image with three chairs, a window, a wall, a rug, a person, a dining, a cup, a laptop, and a tv.
+An image with a tv, a dining, a cup, a wall, three chairs, a person, a laptop, a window, and a rug.
+An image with a cup, a rug, a laptop, three chairs, a dining, a window, a tv, a person, and a wall.

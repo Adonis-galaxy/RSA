@@ -8,3 +8,8 @@ A living room with a brown couch and wooden floors.
 The image captures a cozy living room setting with a comfortable couch, a coffee table, and a lamp, all arranged on a wooden floor.
 The image shows a living room with a large, brown, patterned sofa, a smaller red chair, a wooden coffee table, and a lamp.
 The image shows a living room with a brown sofa, a wooden coffee table, a lamp, and a red armchair, all arranged on a wooden floor.
+An image with two walls, a curtain, a table, a floor, a cell, two chairs, a window, a remote, and a couch.
+An image with two chairs, a floor, a cell, two walls, a table, a window, a couch, a curtain, and a remote.
+An image with two walls, a couch, two chairs, a curtain, a floor, a window, a remote, a table, and a cell.
+An image with two chairs, a floor, two walls, a couch, a window, a remote, a table, a cell, and a curtain.
+An image with two walls, a cell, a remote, two chairs, a table, a floor, a curtain, a couch, and a window.

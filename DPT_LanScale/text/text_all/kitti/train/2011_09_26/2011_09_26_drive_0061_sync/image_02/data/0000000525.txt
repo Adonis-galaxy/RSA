@@ -8,3 +8,8 @@ A red car on a narrow street.
 A red car is parked on the side of a narrow, tree-lined street, with a lamp post and a brick wall visible in the background.
 A red car is driving down a narrow, tree-lined street.
 A narrow, tree-lined street with a red car parked on the side.
+An image with a road, a wall, a sky, a pavement, two cars, and a tree.
+An image with two cars, a road, a tree, a sky, a wall, and a pavement.
+An image with a wall, a tree, two cars, a sky, a pavement, and a road.
+An image with two cars, a road, a sky, a pavement, a tree, and a wall.
+An image with a sky, two cars, a wall, a pavement, a road, and a tree.

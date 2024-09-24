@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a clear view of a pedestrian crossing, a bus stop, and a parked car, all set against the backdrop of a row of houses and apartment buildings.
 The image shows a quiet residential street with a few pedestrians, a bus stop, a brick sidewalk, a paved road, a few parked cars, a building with a white facade and a black roof, a green hedge, a street sign, and a tree.
 The image depicts a quiet residential street with a clear view of a bus stop, a brick sidewalk, a paved road, and a row of houses.
+An image with a road, a tree, five people, a sky, a house, a fence, a traffic, and a wall.
+An image with a house, five people, a tree, a sky, a fence, a road, a traffic, and a wall.
+An image with a road, a fence, five people, a traffic, a sky, a tree, a wall, and a house.
+An image with a road, a traffic, five people, a sky, a fence, a house, a wall, and a tree.
+An image with a sky, five people, a road, a tree, a wall, a house, a fence, and a traffic.

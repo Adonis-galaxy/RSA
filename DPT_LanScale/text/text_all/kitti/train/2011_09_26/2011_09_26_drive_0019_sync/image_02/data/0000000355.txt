@@ -8,3 +8,8 @@ The image shows a street scene with a blue car, a group of people standing on th
 A group of people standing on a street corner, with a blue car parked nearby and a bicyclist passing by.
 A group of people standing on a sidewalk next to a blue car, with a bicycle and a white sign in the background.
 A group of people stand on a street corner, with a blue car parked nearby and a bicyclist in the background, under a clear sky.
+An image with five people, a bicycle, a pavement, a tree, three cars, a road, a sky, and a grass.
+An image with a grass, five people, three cars, a pavement, a road, a bicycle, a tree, and a sky.
+An image with five people, a sky, a tree, three cars, a pavement, a grass, a road, and a bicycle.
+An image with a tree, a sky, three cars, five people, a grass, a pavement, a bicycle, and a road.
+An image with a sky, five people, three cars, a road, a tree, a grass, a pavement, and a bicycle.

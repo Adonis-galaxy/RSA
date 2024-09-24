@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A bicyclist rides on a paved path alongside a train track, with trees and a clear sky in the background.
 A long train travels down the tracks, with a person riding a bicycle on the adjacent road.
 A bicyclist rides on a paved path alongside a tree-lined street with a train passing by.
+An image with five cars, a road, a train, a fence, a grass, a bicycle, a person, and a tree.
+An image with a road, a train, a bicycle, five cars, a tree, a fence, a person, and a grass.
+An image with a tree, five cars, a person, a fence, a grass, a bicycle, a road, and a train.
+An image with a fence, five cars, a road, a person, a train, a tree, a grass, and a bicycle.
+An image with five cars, a train, a tree, a bicycle, a road, a fence, a person, and a grass.

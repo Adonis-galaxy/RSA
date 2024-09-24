@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A quiet residential street with parked cars and a pedestrian, under a canopy of trees.
 The image shows a narrow street lined with parked cars and trees, with a person walking on the sidewalk and a car driving down the road.
 A tree-lined street with parked cars, a sidewalk, and a person walking.
+An image with seven cars, a person, a tree, a fence, a house, a wall, a road, a pavement, and a sky.
+An image with seven cars, a tree, a sky, a wall, a house, a fence, a pavement, a road, and a person.
+An image with seven cars, a sky, a pavement, a house, a person, a wall, a road, a tree, and a fence.
+An image with seven cars, a person, a wall, a pavement, a tree, a road, a house, a sky, and a fence.
+An image with seven cars, a tree, a fence, a sky, a wall, a person, a road, a house, and a pavement.

@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer desk with a laptop, two keyboards, and two mice.
 A black computer monitor is on a wooden desk, with two black keyboards and two black mice.
 A computer desk with a laptop, two keyboards, two mice, and a black chair with the word "SEASNET" on it.
+An image with two tvs, two keyboards, a paper, a chair, two mice, a floor, a table, and a wall.
+An image with a paper, a chair, a table, two tvs, a wall, two mice, two keyboards, and a floor.
+An image with a table, two mice, a paper, two keyboards, two tvs, a wall, a chair, and a floor.
+An image with a floor, two mice, two keyboards, a paper, a chair, two tvs, a table, and a wall.
+An image with two tvs, two mice, two keyboards, a paper, a wall, a table, a chair, and a floor.

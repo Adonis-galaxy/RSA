@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road and a sidewalk.
 A car is driving down a tree-lined street, passing a pedestrian crossing sign and a bicycle sign, with a sidewalk on the left and a parked car on the right.
 A small silver car is driving down a tree-lined street, passing a blue sign with a white bicycle symbol.
 A car is driving down a tree-lined street with a sidewalk, a bike lane, and a pedestrian crossing sign.
+An image with a sky, a tree, a stop, two cars, a road, two people, a grass, and a pavement.
+An image with a stop, two cars, two people, a grass, a tree, a sky, a pavement, and a road.
+An image with a sky, two cars, a pavement, two people, a road, a tree, a grass, and a stop.
+An image with a tree, two people, a pavement, a sky, a stop, two cars, a grass, and a road.
+An image with two people, a tree, a sky, two cars, a stop, a grass, a pavement, and a road.

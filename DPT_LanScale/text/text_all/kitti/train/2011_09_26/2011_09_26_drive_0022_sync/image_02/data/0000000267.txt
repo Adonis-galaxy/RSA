@@ -8,3 +8,8 @@ A row of garage doors.
 A row of closed garage doors on a street, with a car parked on the side.
 A row of garage doors, each with a single car parked in front of it, lining a narrow street between a forest and a parking lot.
 A row of closed garage doors on a street, with a car parked on the side.
+An image with a tree, a car, a road, a pavement, and a building.
+An image with a pavement, a tree, a building, a road, and a car.
+An image with a road, a car, a building, a tree, and a pavement.
+An image with a road, a car, a building, a tree, and a pavement.
+An image with a tree, a car, a road, a building, and a pavement.

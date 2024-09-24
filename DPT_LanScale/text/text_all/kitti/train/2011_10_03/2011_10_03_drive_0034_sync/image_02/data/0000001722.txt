@@ -8,3 +8,8 @@ A black car parked in a driveway.
 A solitary black car parked on a quiet street, surrounded by lush greenery and a white wall, under a clear blue sky.
 A black car is parked in a driveway next to a white wall and a tree.
 A narrow, tree-lined street leads to a garage, with a car parked on the right side.
+An image with a wall, a pavement, a road, a sky, a house, a car, and a tree.
+An image with a road, a car, a sky, a wall, a tree, a pavement, and a house.
+An image with a pavement, a road, a car, a wall, a house, a tree, and a sky.
+An image with a sky, a house, a tree, a road, a wall, a car, and a pavement.
+An image with a car, a road, a tree, a house, a pavement, a wall, and a sky.

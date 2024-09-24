@@ -8,3 +8,8 @@ The image shows a street with a car on it.
 The image captures a quiet, tree-lined street with a clear sky overhead, leading to a residential area with apartment buildings.
 The image shows a wide, tree-lined street with a train track running parallel to it, a few cars on the road, and a yellow sign on a pole.
 The image shows a tree-lined street with a clear sky, a train passing overhead, and a yellow sign with a red arrow pointing to the right.
+An image with four cars, a railroad, a bus, a building, a grass, a road, a wall, and a tree.
+An image with four cars, a bus, a building, a road, a grass, a wall, a tree, and a railroad.
+An image with a railroad, four cars, a building, a road, a bus, a wall, a grass, and a tree.
+An image with a wall, a grass, a bus, four cars, a tree, a road, a railroad, and a building.
+An image with four cars, a building, a railroad, a wall, a tree, a grass, a road, and a bus.

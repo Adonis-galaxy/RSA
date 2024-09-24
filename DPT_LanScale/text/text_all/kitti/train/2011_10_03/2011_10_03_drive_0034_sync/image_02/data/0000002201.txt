@@ -8,3 +8,8 @@ A blue car parked on a street.
 A blue car parked on a tree-lined street, with a fence and a house in the background.
 A blue car is parked on the side of a tree-lined street, with a fence and a house in the background.
 A narrow, tree-lined street with parked cars and a blue car driving down it.
+An image with three cars, a tree, a pavement, a sky, a road, a house, a grass, and a fence.
+An image with a tree, a pavement, three cars, a house, a fence, a road, a sky, and a grass.
+An image with a tree, a house, a fence, three cars, a pavement, a road, a grass, and a sky.
+An image with a sky, three cars, a house, a fence, a grass, a tree, a road, and a pavement.
+An image with a fence, a grass, a tree, a pavement, three cars, a road, a sky, and a house.

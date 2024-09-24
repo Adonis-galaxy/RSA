@@ -8,3 +8,8 @@ A black computer tower.
 A black computer tower with a red light on the side, sitting on a blue carpeted floor.
 A black computer tower with a green screen on the side, sitting on the floor next to a white wall.
 A black computer tower with a green display screen is sitting on the floor next to a white wall.
+An image with a keyboard, a tv, a door, a wall, and a floor.
+An image with a wall, a keyboard, a door, a floor, and a tv.
+An image with a tv, a floor, a wall, a door, and a keyboard.
+An image with a door, a wall, a floor, a keyboard, and a tv.
+An image with a keyboard, a tv, a door, a floor, and a wall.

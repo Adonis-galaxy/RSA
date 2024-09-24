@@ -8,3 +8,8 @@ A blue and black refrigerator in a room.
 The image shows a room with a blue wall, a refrigerator, a table, and a trash can.
 The image shows a room with a blue wall, a refrigerator, a table, and a trash can.
 The image shows a room with a blue wall, a refrigerator, a table, and a trash can, with a blue line on the floor.
+An image with a paper, four chairs, a dining, two walls, a floor, a person, and a refrigerator.
+An image with a paper, a floor, four chairs, a person, two walls, a dining, and a refrigerator.
+An image with a dining, a floor, a person, a paper, four chairs, two walls, and a refrigerator.
+An image with four chairs, two walls, a floor, a paper, a refrigerator, a dining, and a person.
+An image with two walls, four chairs, a dining, a person, a paper, a refrigerator, and a floor.

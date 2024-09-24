@@ -8,3 +8,8 @@ A man is sitting at a table in a room.
 A person is sitting at a table with a backpack, a cup, and a book, while another person stands nearby.
 A man is sitting at a table in a room with a poster on the wall, a lamp, a chair, a backpack, and a clock.
 A person is sitting at a table with a laptop, surrounded by chairs and a backpack, in a room with a door and a poster on the wall.
+An image with a cup, a shelf, two people, a door, a handbag, two chairs, a dining, a floor, and a wall.
+An image with a shelf, a handbag, a floor, a wall, two chairs, a cup, two people, a dining, and a door.
+An image with two people, two chairs, a door, a wall, a handbag, a floor, a dining, a cup, and a shelf.
+An image with a floor, two people, a shelf, a dining, two chairs, a door, a cup, a handbag, and a wall.
+An image with two people, a floor, two chairs, a handbag, a wall, a cup, a door, a shelf, and a dining.

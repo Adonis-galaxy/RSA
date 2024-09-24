@@ -8,3 +8,8 @@ The image shows a street scene with a yellow van parked on the side of the road.
 The image captures a quiet residential street, with a yellow truck parked on the side of the road, adjacent to a stone wall and a brick building, under a clear blue sky.
 The image shows a narrow street lined with tall buildings, a yellow truck parked on the side, and a sign indicating a one-way street.
 A narrow street between two-story buildings, with a yellow van parked on the right side.
+An image with two walls, a road, a house, a car, a clock, a sky, a pavement, and a tree.
+An image with a car, a tree, a sky, a road, two walls, a pavement, a house, and a clock.
+An image with two walls, a sky, a clock, a car, a pavement, a road, a house, and a tree.
+An image with a sky, a car, two walls, a tree, a pavement, a road, a house, and a clock.
+An image with a house, a car, two walls, a pavement, a sky, a tree, a road, and a clock.

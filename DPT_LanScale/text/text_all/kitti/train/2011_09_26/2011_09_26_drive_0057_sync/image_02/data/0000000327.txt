@@ -8,3 +8,8 @@ The image is a photograph of a street intersection with traffic lights and a red
 The image captures a bustling city street with a mix of vehicles and traffic lights, showcasing the organized chaos of urban life.
 The image shows a busy street with multiple lanes of traffic, a mix of cars and trucks, and a large number of traffic lights. The scene is captured from a high angle, emphasizing the density of vehicles and the complexity of the intersection.
 The image depicts a busy street intersection with multiple lanes, traffic lights, and a mix of vehicles, including cars and a truck, navigating the intersection.
+An image with a building, eleven traffics, twelve cars, a tree, a road, a fence, a mountain, and a grass.
+An image with eleven traffics, a mountain, twelve cars, a road, a tree, a fence, a grass, and a building.
+An image with twelve cars, eleven traffics, a mountain, a road, a fence, a building, a tree, and a grass.
+An image with a mountain, eleven traffics, twelve cars, a fence, a building, a grass, a road, and a tree.
+An image with a fence, eleven traffics, a tree, twelve cars, a building, a road, a grass, and a mountain.

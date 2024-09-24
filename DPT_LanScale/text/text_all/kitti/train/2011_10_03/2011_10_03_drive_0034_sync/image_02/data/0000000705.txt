@@ -8,3 +8,8 @@ The image shows a street with a black Porsche parked on the side.
 A quiet residential street, lined with parked cars and motorcycles, under a clear blue sky.
 A narrow street lined with hedges and trees, with a black Porsche parked on the side and a motorcycle parked in front of it.
 A narrow, tree-lined street with parked cars and motorcycles, leading to a residential area.
+An image with a sky, a wall, a road, a tree, a car, a pavement, a house, and a motorcycle.
+An image with a road, a pavement, a car, a motorcycle, a wall, a house, a sky, and a tree.
+An image with a tree, a motorcycle, a pavement, a road, a wall, a house, a sky, and a car.
+An image with a tree, a house, a wall, a pavement, a motorcycle, a road, a sky, and a car.
+An image with a wall, a pavement, a sky, a house, a tree, a motorcycle, a car, and a road.

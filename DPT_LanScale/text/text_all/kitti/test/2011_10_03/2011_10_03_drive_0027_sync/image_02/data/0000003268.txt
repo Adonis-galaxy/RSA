@@ -8,3 +8,8 @@ The image shows three cars parked on the side of a street.
 The image captures a quiet residential street scene with three parked cars, a building with a pink facade, and a street sign, all under a clear blue sky.
 Three cars parked in a row on a street, with a building in the background.
 Three cars parked in a row on a street in front of apartment buildings.
+An image with four cars, a building, a door, a road, and a tree.
+An image with four cars, a road, a tree, a building, and a door.
+An image with a door, four cars, a building, a road, and a tree.
+An image with a road, a door, a building, four cars, and a tree.
+An image with four cars, a building, a tree, a road, and a door.

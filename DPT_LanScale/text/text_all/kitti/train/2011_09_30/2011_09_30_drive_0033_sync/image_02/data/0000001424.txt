@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 A white car is parked on the side of a road, with other cars driving by on a sunny day.
 The image shows a narrow street lined with trees and parked cars, with a few cars driving down the road.
 A narrow street with parked cars and a few moving vehicles, flanked by a fence and lined with trees.
+An image with a fence, five cars, a road, a grass, a sky, a pavement, and a tree.
+An image with a pavement, a sky, five cars, a road, a grass, a fence, and a tree.
+An image with five cars, a fence, a road, a grass, a pavement, a sky, and a tree.
+An image with five cars, a pavement, a fence, a sky, a road, a grass, and a tree.
+An image with a tree, a road, five cars, a grass, a pavement, a sky, and a fence.

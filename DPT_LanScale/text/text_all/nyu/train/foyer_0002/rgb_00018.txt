@@ -8,3 +8,8 @@ A piano in a room.
 The image captures a room with a piano, a bench, and a window, where a blue bag is placed on the bench, and a red object is on the piano.
 The image shows a small room with a piano, a bench, and a window.
 The image shows a room with a piano, a bench, and a window, with a blue bag and a red object on the bench.
+An image with a bench, a floor, three chairs, a wall, a curtain, a potted, a window, two backpacks, a skateboard, and a book.
+An image with a window, a skateboard, a wall, a curtain, three chairs, a bench, two backpacks, a book, a potted, and a floor.
+An image with a book, two backpacks, a curtain, three chairs, a potted, a wall, a bench, a window, a skateboard, and a floor.
+An image with a window, a wall, three chairs, a curtain, a floor, a skateboard, two backpacks, a book, a bench, and a potted.
+An image with two backpacks, a curtain, a floor, a wall, three chairs, a book, a skateboard, a potted, a window, and a bench.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and apartment buildings.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a blue van driving down the middle, creating a sense of depth and perspective.
 A narrow street between two-story buildings, lined with parked cars and lush greenery.
 A narrow street between two-story residential buildings, lined with parked cars and lush greenery.
+An image with six cars, a grass, a house, a road, a pavement, a tree, a sky, and a dirt.
+An image with six cars, a pavement, a dirt, a road, a house, a tree, a grass, and a sky.
+An image with a sky, six cars, a house, a dirt, a grass, a pavement, a tree, and a road.
+An image with a grass, a sky, a dirt, six cars, a tree, a house, a road, and a pavement.
+An image with a tree, six cars, a house, a sky, a grass, a pavement, a dirt, and a road.

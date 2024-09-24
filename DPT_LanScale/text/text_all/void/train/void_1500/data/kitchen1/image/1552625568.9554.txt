@@ -8,3 +8,8 @@ Two coffee cups on a counter next to a coffee machine.
 A coffee maker sits on a counter next to two cups.
 A coffee maker is sitting on a counter next to two cups.
 A coffee maker is placed on a counter next to two cups, and the counter is part of a cabinet with three drawers.
+An image with two cups, a floor, a window, a wall, and a cabinet.
+An image with a wall, two cups, a window, a floor, and a cabinet.
+An image with a window, two cups, a wall, a cabinet, and a floor.
+An image with a wall, two cups, a window, a cabinet, and a floor.
+An image with two cups, a wall, a floor, a cabinet, and a window.

@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area with a car parked on the s
 A narrow, tree-lined street in a residential area, with a parked car and a trash can.
 A narrow street in a residential area, with a parked car, a trash can, and a few signs.
 A narrow, tree-lined street in a residential area, with a parked car and a trash can on the sidewalk.
+An image with two cars, a flower, a stop, a wall, a tree, a sky, and a road.
+An image with a sky, two cars, a wall, a road, a flower, a stop, and a tree.
+An image with a sky, a road, two cars, a stop, a wall, a tree, and a flower.
+An image with a sky, two cars, a tree, a flower, a stop, a wall, and a road.
+An image with a sky, a flower, a road, a tree, a wall, two cars, and a stop.

@@ -8,3 +8,8 @@ A blue and black refrigerator in a room.
 A blue and black refrigerator with a control panel and a picture of a man on the wall.
 The image shows a blue and black refrigerator with a control panel on the left side, placed in a room with a green wall, a table with a chair, and two framed pictures on the wall.
 The image shows a room with a blue and black refrigerator, a table with a laptop and a chair, and a green wall with framed pictures.
+An image with four chairs, a ceiling, a dining, two walls, a floor, a person, a light, and a refrigerator.
+An image with a dining, four chairs, two walls, a refrigerator, a light, a ceiling, a floor, and a person.
+An image with a refrigerator, four chairs, two walls, a floor, a light, a person, a ceiling, and a dining.
+An image with four chairs, a dining, a person, two walls, a refrigerator, a ceiling, a floor, and a light.
+An image with a light, four chairs, a ceiling, a floor, a dining, two walls, a person, and a refrigerator.

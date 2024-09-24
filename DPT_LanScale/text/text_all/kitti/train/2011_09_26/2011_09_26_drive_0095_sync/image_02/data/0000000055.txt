@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a bicycle.
 The image captures a typical day in a European city, with a mix of old and new architecture, narrow streets lined with parked cars, and a few pedestrians navigating the urban landscape.
 The image shows a narrow street lined with parked cars and buildings, with a tree in the center casting a shadow on the street.
 A narrow street in a European city, lined with parked cars and buildings, with a tree in the center and a bicycle rider on the right.
+An image with eleven cars, two people, a building, a tree, two bicycles, a motorcycle, and a road.
+An image with two people, a motorcycle, a road, eleven cars, two bicycles, a building, and a tree.
+An image with eleven cars, a tree, a building, two bicycles, two people, a motorcycle, and a road.
+An image with eleven cars, two bicycles, a tree, a building, two people, a road, and a motorcycle.
+An image with a motorcycle, eleven cars, a building, a road, two people, two bicycles, and a tree.

@@ -8,3 +8,8 @@ A person riding a bicycle on a brick road.
 A cyclist rides on a tree-lined road, with cars parked on the side, under a clear sky.
 A person riding a bicycle on a narrow, tree-lined road with parked cars and a white wall on the side.
 A person riding a bicycle on a tree-lined road, with cars parked on the side, and a bridge in the background.
+An image with three cars, a wall, two people, two bicycles, a tree, and a pavement.
+An image with two bicycles, two people, three cars, a wall, a pavement, and a tree.
+An image with two bicycles, two people, three cars, a pavement, a wall, and a tree.
+An image with two bicycles, three cars, a wall, two people, a tree, and a pavement.
+An image with three cars, two bicycles, a wall, two people, a tree, and a pavement.

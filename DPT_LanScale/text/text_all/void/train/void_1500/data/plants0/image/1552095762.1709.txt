@@ -8,3 +8,8 @@ A palm frond is laying on the ground.
 A palm frond lies on the ground next to a tree, with a brick pathway in the foreground.
 A large palm frond is laying on the ground in a garden area.
 The image shows a potted palm leaf on the ground, with a brick-paved walkway and a garden area in the background.
+An image with a tree, a floor, two walls, and a sand.
+An image with a tree, a sand, two walls, and a floor.
+An image with a sand, two walls, a tree, and a floor.
+An image with a floor, two walls, a tree, and a sand.
+An image with a floor, two walls, a tree, and a sand.

@@ -8,3 +8,8 @@ A tall, gray, rectangular object in a garden.
 A tall, gray, rectangular pole stands in a garden filled with green plants and shrubs.
 A tall, gray, rectangular object is standing in a garden filled with green plants and shrubs.
 A tall, gray, rectangular planter is situated in a garden filled with green plants and shrubs.
+An image with two walls, a gravel, a tree, and a pavement.
+An image with two walls, a tree, a gravel, and a pavement.
+An image with two walls, a tree, a pavement, and a gravel.
+An image with two walls, a pavement, a gravel, and a tree.
+An image with two walls, a tree, a pavement, and a gravel.

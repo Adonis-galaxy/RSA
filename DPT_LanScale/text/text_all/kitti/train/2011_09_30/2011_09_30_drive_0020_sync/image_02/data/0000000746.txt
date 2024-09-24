@@ -8,3 +8,8 @@ The image shows a street view with a row of houses, trees, and a sidewalk.
 The image captures a serene residential street, lined with houses, trees, and a sidewalk, under a clear blue sky.
 The image shows a long, narrow street lined with trees and parked cars, leading to a row of white buildings with blue signs.
 A quiet residential street with a row of houses, a paved path, and a few parked cars.
+An image with a sky, a roof, seven cars, a pavement, a grass, a fence, a road, a house, and a tree.
+An image with a road, a tree, a fence, a house, seven cars, a pavement, a sky, a roof, and a grass.
+An image with a tree, seven cars, a road, a pavement, a grass, a fence, a sky, a house, and a roof.
+An image with a tree, seven cars, a grass, a road, a pavement, a fence, a house, a roof, and a sky.
+An image with a tree, a sky, a pavement, a road, a grass, seven cars, a house, a roof, and a fence.

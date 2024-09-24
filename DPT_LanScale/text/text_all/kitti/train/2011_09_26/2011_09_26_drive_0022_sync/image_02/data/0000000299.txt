@@ -8,3 +8,8 @@ A black car is parked on a street.
 A car is parked on a street next to a row of garages, with trees and a house in the background.
 A small black car is driving down a narrow street between two rows of garages.
 A narrow street with a row of garages on one side and a parked car on the other, leading to a residential area with houses and trees.
+An image with a pavement, a car, a road, a building, a sky, and a tree.
+An image with a car, a building, a road, a sky, a pavement, and a tree.
+An image with a building, a road, a car, a tree, a pavement, and a sky.
+An image with a sky, a pavement, a tree, a road, a car, and a building.
+An image with a tree, a car, a pavement, a sky, a road, and a building.

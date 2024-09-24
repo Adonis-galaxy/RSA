@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sidewalk and apartment buildings standing tall in the background.
 The image shows a narrow street lined with parked cars and tall buildings, with a few pedestrians visible.
 A quiet residential street with parked cars, lined with neatly trimmed hedges and apartment buildings.
+An image with five cars, a road, a pavement, a window, a house, a sky, and a tree.
+An image with five cars, a tree, a house, a pavement, a sky, a window, and a road.
+An image with five cars, a road, a sky, a pavement, a house, a tree, and a window.
+An image with five cars, a window, a pavement, a house, a sky, a road, and a tree.
+An image with a road, five cars, a tree, a window, a house, a pavement, and a sky.

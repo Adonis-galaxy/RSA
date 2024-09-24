@@ -8,3 +8,8 @@ The image shows a black car parked in a garage.
 A quiet residential street, with a parked car and a garage, under a clear blue sky.
 A small black car is parked in a garage next to a narrow street with a white wall and a few trees.
 A narrow street with a car parked on the side, bordered by a white wall and lined with trees and bushes.
+An image with a building, a car, two walls, a tree, a sky, a fence, a road, and a pavement.
+An image with a building, a pavement, two walls, a tree, a car, a sky, a fence, and a road.
+An image with a sky, a road, a tree, a car, a fence, a pavement, two walls, and a building.
+An image with two walls, a building, a tree, a fence, a sky, a pavement, a road, and a car.
+An image with two walls, a road, a sky, a tree, a building, a pavement, a car, and a fence.

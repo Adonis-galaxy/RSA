@@ -8,3 +8,8 @@ The image shows a blurry classroom with a table and chairs in the foreground.
 The image shows a blurry view of a room with a table and chairs, a television on the wall, and a glass door.
 The image shows a blurry view of a room with a large black television mounted on a yellow wall, a white table with three chairs, and a glass door.
 The image shows a blurry view of a room with a table and chairs, a television mounted on the wall, and a glass door.
+An image with a door, a floor, three chairs, a light, and a tv.
+An image with a floor, three chairs, a tv, a light, and a door.
+An image with a tv, three chairs, a door, a floor, and a light.
+An image with a door, a tv, three chairs, a floor, and a light.
+An image with a light, three chairs, a tv, a floor, and a door.

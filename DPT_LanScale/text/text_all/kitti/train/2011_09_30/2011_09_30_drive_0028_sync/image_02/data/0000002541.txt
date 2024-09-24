@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses on both sides.
 A quiet residential street with a few parked vehicles, lined by houses and trees, under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a motorcycle, and a bicycle, all in front of houses with greenery and trees.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with two cars, a motorcycle, a grass, a roof, two people, a sky, a road, a wall, a tree, and a pavement.
+An image with a wall, a pavement, a roof, two cars, a grass, a road, two people, a sky, a motorcycle, and a tree.
+An image with a motorcycle, a pavement, two people, a tree, a roof, a wall, two cars, a grass, a sky, and a road.
+An image with a road, a wall, two cars, a roof, two people, a tree, a pavement, a sky, a grass, and a motorcycle.
+An image with a motorcycle, a pavement, two cars, a tree, a roof, two people, a sky, a grass, a road, and a wall.

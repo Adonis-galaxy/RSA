@@ -8,3 +8,8 @@ A coffee cup on a desk.
 A desk with a coffee cup, papers, and a computer.
 A desk with a coffee cup, papers, and a computer monitor.
 A wooden desk with a coffee cup, papers, and a computer monitor.
+An image with a table, a book, a floor, a tv, a wall, two cups, a keyboard, a rug, and a chair.
+An image with a rug, two cups, a wall, a floor, a book, a keyboard, a tv, a table, and a chair.
+An image with a wall, a tv, a chair, a floor, a book, a rug, two cups, a keyboard, and a table.
+An image with a floor, a wall, a keyboard, a tv, a chair, a book, two cups, a table, and a rug.
+An image with two cups, a book, a wall, a rug, a chair, a table, a keyboard, a tv, and a floor.

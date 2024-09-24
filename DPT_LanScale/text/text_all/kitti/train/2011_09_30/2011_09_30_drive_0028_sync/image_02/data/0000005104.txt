@@ -8,3 +8,8 @@ The image shows a street scene with two white trash cans on the sidewalk.
 The image captures a quiet residential street corner, with a parked car, a pedestrian, and two white trash cans on the sidewalk, under a clear blue sky.
 The image shows a street scene with a large white trash can on the sidewalk, a smaller white trash can on the side of the road, and a car driving on the street.
 The image shows a street scene with a curved sidewalk, a parked car, a pedestrian crossing, a parking meter, and a tree-lined street.
+An image with seven cars, a tree, a refrigerator, a road, a grass, a pavement, and a sky.
+An image with seven cars, a tree, a pavement, a road, a grass, a sky, and a refrigerator.
+An image with seven cars, a sky, a tree, a pavement, a grass, a road, and a refrigerator.
+An image with seven cars, a road, a refrigerator, a sky, a grass, a tree, and a pavement.
+An image with a pavement, a road, a grass, seven cars, a sky, a refrigerator, and a tree.

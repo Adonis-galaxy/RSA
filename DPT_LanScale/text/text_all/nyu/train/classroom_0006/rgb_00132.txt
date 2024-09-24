@@ -8,3 +8,8 @@ A classroom with a table and chairs.
 The image shows a classroom setting with a table and chairs, a bulletin board with colorful artwork, and a whiteboard with geometric patterns.
 The image shows a classroom with a large table and two chairs, a bulletin board with colorful artwork, and a whiteboard with geometric patterns.
 The image shows a classroom with a table and chairs, a bulletin board with colorful artwork, and a whiteboard with geometric patterns.
+An image with a rug, four chairs, three books, a wall, a floor, a shelf, a dining, and a door.
+An image with four chairs, three books, a shelf, a door, a wall, a dining, a floor, and a rug.
+An image with a floor, a wall, four chairs, a shelf, three books, a rug, a dining, and a door.
+An image with four chairs, a shelf, three books, a door, a floor, a dining, a rug, and a wall.
+An image with three books, four chairs, a shelf, a floor, a door, a dining, a rug, and a wall.

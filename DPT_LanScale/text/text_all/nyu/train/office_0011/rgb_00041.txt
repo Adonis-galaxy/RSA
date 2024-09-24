@@ -8,3 +8,8 @@ The image shows a room with a metal fence, a table, a chair, and a whiteboard.
 The image captures a room with a large screen, a table with a box on it, a couch, a bookshelf, and a whiteboard, all within a space that is separated by a mesh fence.
 The image shows a room with a large screen, a table with a box on it, a couch, a bookshelf, and a whiteboard.
 The image shows an interior space with a partitioned area, a table with a box on it, and a couch, all within a room with a whiteboard and a doorway leading to another room with a bookshelf.
+An image with six books, a fence, a wall, a light, a floor, a chair, and a dining.
+An image with six books, a floor, a light, a wall, a chair, a fence, and a dining.
+An image with a light, six books, a fence, a floor, a dining, a chair, and a wall.
+An image with a light, six books, a floor, a fence, a dining, a wall, and a chair.
+An image with a fence, six books, a light, a wall, a dining, a chair, and a floor.

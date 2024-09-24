@@ -8,3 +8,8 @@ A large truck driving down a road.
 A large truck driving down a highway with other vehicles, surrounded by a rural landscape.
 A large truck is driving down a highway with other vehicles, passing a field and a building.
 A long truck is driving down a highway with a clear sky and a green field on the side.
+An image with seven cars, a railroad, a truck, a road, a grass, a tree, a sky, and a building.
+An image with seven cars, a building, a road, a railroad, a grass, a tree, a sky, and a truck.
+An image with seven cars, a tree, a road, a railroad, a building, a sky, a truck, and a grass.
+An image with a tree, a sky, seven cars, a truck, a grass, a railroad, a road, and a building.
+An image with a railroad, seven cars, a road, a tree, a sky, a building, a truck, and a grass.

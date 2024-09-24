@@ -8,3 +8,8 @@ A white roll of paper leaning against a wall.
 A white roll of paper leaning against a cardboard box in a room with a black monitor.
 A large roll of paper leaning against a cardboard box in a room with a black object and a window.
 A room with a black television, a white roll of paper, and a cardboard box.
+An image with a door, a curtain, a floor, a tv, a cardboard, and a wall.
+An image with a curtain, a cardboard, a door, a floor, a tv, and a wall.
+An image with a tv, a floor, a wall, a curtain, a door, and a cardboard.
+An image with a floor, a cardboard, a wall, a door, a tv, and a curtain.
+An image with a wall, a door, a curtain, a cardboard, a tv, and a floor.

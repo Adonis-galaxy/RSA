@@ -8,3 +8,8 @@ The image shows a white printer in a room with a green wall.
 The image shows a blurry view of a room with a white printer and a green wall, with a door in the background.
 The image shows a white printer in a room with a green wall, a white door, and a white floor.
 The image shows a blurry view of a room with a white printer on the left and a white door on the right, with a green wall in the background.
+An image with a door, a oven, a light, a floor, and a wall.
+An image with a light, a oven, a floor, a wall, and a door.
+An image with a light, a oven, a wall, a floor, and a door.
+An image with a light, a oven, a floor, a wall, and a door.
+An image with a floor, a light, a wall, a door, and a oven.

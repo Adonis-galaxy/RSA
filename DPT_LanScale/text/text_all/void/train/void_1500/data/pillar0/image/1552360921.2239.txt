@@ -8,3 +8,8 @@ A black bag leaning against a wall.
 A black bag leaning against a wall with a tripod and a suitcase.
 A black bag is leaning against a white wall, with a black tripod and a black bag on the floor.
 A black bag is leaning against a white wall, with a tripod and a suitcase in the foreground.
+An image with a door, a suitcase, a rug, and a wall.
+An image with a door, a wall, a suitcase, and a rug.
+An image with a door, a rug, a wall, and a suitcase.
+An image with a wall, a rug, a door, and a suitcase.
+An image with a wall, a rug, a suitcase, and a door.

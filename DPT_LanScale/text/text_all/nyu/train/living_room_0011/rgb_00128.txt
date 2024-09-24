@@ -8,3 +8,8 @@ A wall clock on a wall.
 The image captures a cozy living room with a large flat-screen TV, a small table with a clock and a book, and a doorway leading to another room.
 The image shows a small room with a flat-screen TV, a clock on the wall, a doorway, and a book on a table.
 The image shows a living room with a flat-screen TV, a small table with a clock and a book, a doorway leading to another room, and a white wall.
+An image with a floor, a clock, a table, two books, a tv, and a wall.
+An image with a table, two books, a floor, a wall, a tv, and a clock.
+An image with a table, a wall, a floor, two books, a clock, and a tv.
+An image with a wall, a floor, two books, a tv, a clock, and a table.
+An image with a wall, a table, two books, a clock, a floor, and a tv.

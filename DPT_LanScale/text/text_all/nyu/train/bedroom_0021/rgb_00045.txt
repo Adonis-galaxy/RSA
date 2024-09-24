@@ -8,3 +8,8 @@ A lamp on a desk.
 A bedroom scene with a bed, desk, lamp, and books, captured in a single sentence: "A cozy bedroom setting with a bed, desk, lamp, and books, all in harmony."
 A small lamp with a white shade is placed on a nightstand next to a bed.
 A bedroom with a bed, a desk with a lamp, and a stack of books on the desk.
+An image with six books, a umbrella, a light, a wall, a cabinet, a bed, and a floor.
+An image with six books, a umbrella, a cabinet, a wall, a light, a floor, and a bed.
+An image with six books, a bed, a cabinet, a wall, a umbrella, a floor, and a light.
+An image with six books, a umbrella, a bed, a floor, a wall, a cabinet, and a light.
+An image with a cabinet, six books, a light, a bed, a wall, a floor, and a umbrella.

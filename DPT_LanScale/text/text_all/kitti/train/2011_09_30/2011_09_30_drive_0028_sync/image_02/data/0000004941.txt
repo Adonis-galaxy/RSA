@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a white car parked on the side of the road, surrounded by lush greenery and apartment buildings, under a clear blue sky.
 A white car is driving down a tree-lined street, passing by apartment buildings and other vehicles.
 A white car is parked on the side of a tree-lined street in a residential area, with other cars and buildings in the background.
+An image with a building, a tree, a sky, a wall, five cars, a road, a grass, and a stop.
+An image with five cars, a stop, a building, a sky, a wall, a tree, a road, and a grass.
+An image with five cars, a sky, a road, a stop, a wall, a grass, a tree, and a building.
+An image with a building, a wall, five cars, a tree, a grass, a road, a stop, and a sky.
+An image with five cars, a sky, a building, a wall, a stop, a grass, a tree, and a road.

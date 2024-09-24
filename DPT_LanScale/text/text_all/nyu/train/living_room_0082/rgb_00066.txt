@@ -8,3 +8,8 @@ A person sitting at a table in a room.
 A person is sitting at a table with a chair, a lamp, and a bag, working on a laptop.
 A person is sitting at a small table in a room with a white wall, a door, and a window.
 A person is sitting at a table in a room with a door, a window, and a chair.
+An image with a floor, a wall, two chairs, a door, two people, a shelf, and a dining.
+An image with a door, two chairs, two people, a wall, a dining, a shelf, and a floor.
+An image with a door, two chairs, a shelf, two people, a wall, a dining, and a floor.
+An image with two people, two chairs, a shelf, a floor, a dining, a wall, and a door.
+An image with a door, a dining, two people, two chairs, a shelf, a floor, and a wall.

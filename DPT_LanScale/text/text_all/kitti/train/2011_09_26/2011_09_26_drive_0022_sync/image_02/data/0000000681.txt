@@ -8,3 +8,8 @@ The image shows a street intersection with a brick road and a sidewalk.
 The image captures a tranquil suburban street scene, with a clear path leading to a park, marked by a red and white striped barrier and a solitary tree standing guard at the entrance.
 The image shows a wide, tree-lined street with a sidewalk, a bike path, and a roadway. There are traffic signs and a pedestrian crossing. The trees are green, and the sky is blue.
 The image depicts a tranquil suburban street scene with a clear pathway leading to a park, bordered by lush greenery and a few trees, under a bright blue sky.
+An image with a road, a tree, a sky, a traffic, a car, a grass, and a pavement.
+An image with a sky, a pavement, a car, a grass, a road, a traffic, and a tree.
+An image with a traffic, a sky, a tree, a road, a car, a pavement, and a grass.
+An image with a car, a traffic, a grass, a road, a tree, a sky, and a pavement.
+An image with a tree, a car, a sky, a grass, a road, a pavement, and a traffic.

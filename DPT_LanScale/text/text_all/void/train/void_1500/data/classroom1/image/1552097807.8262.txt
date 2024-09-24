@@ -8,3 +8,8 @@ Orange cone on table.
 An orange cone on a dirty table.
 A white plastic table with a single orange cone on it, located in a room with a blue chair.
 A white folding table with a blue chair in a room with a white floor.
+An image with two walls, a surfboard, a stairs, a floor, and a chair.
+An image with a stairs, two walls, a surfboard, a chair, and a floor.
+An image with a stairs, a surfboard, two walls, a chair, and a floor.
+An image with a surfboard, a stairs, a chair, two walls, and a floor.
+An image with a stairs, a floor, two walls, a chair, and a surfboard.

@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street with parked cars, lined by buildings and trees, under a clear sky.
 The image shows a narrow street lined with parked cars, a red fence, and buildings with windows and balconies.
 A narrow street with parked cars, a red fence, and buildings on both sides.
+An image with eight cars, a tree, a roof, a pavement, a house, a window, a wall, a road, and a sky.
+An image with a wall, a tree, a pavement, eight cars, a road, a window, a house, a roof, and a sky.
+An image with a pavement, a sky, eight cars, a house, a tree, a wall, a window, a roof, and a road.
+An image with a sky, a roof, a tree, eight cars, a wall, a pavement, a road, a window, and a house.
+An image with eight cars, a window, a wall, a road, a house, a sky, a roof, a tree, and a pavement.

@@ -8,3 +8,8 @@ A car on a road.
 A solitary blue car travels down a tree-lined road, with a clear sky overhead and a sense of tranquility.
 A car is driving down a tree-lined road.
 A solitary blue car travels down a long, straight, tree-lined road, with a clear sky overhead.
+An image with a grass, five cars, a sky, a tree, and a road.
+An image with five cars, a sky, a road, a grass, and a tree.
+An image with five cars, a grass, a tree, a road, and a sky.
+An image with five cars, a tree, a sky, a grass, and a road.
+An image with a road, five cars, a sky, a tree, and a grass.

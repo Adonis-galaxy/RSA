@@ -8,3 +8,8 @@ The image is a photograph of a busy street intersection with multiple lanes of t
 The image captures a bustling city intersection with a red car waiting at a traffic light, surrounded by various vehicles and street signs, under a clear blue sky.
 The image shows a busy street intersection with multiple lanes of traffic, a red car in the foreground, and various traffic lights and signs.
 The image captures a bustling city intersection with a red car waiting at a traffic light, surrounded by various vehicles and street signs, under a clear blue sky.
+An image with nine cars, eight traffics, a grass, a house, a person, a pavement, a mountain, a tree, a sky, and a road.
+An image with a house, nine cars, a pavement, a sky, a mountain, eight traffics, a tree, a grass, a person, and a road.
+An image with a sky, eight traffics, nine cars, a grass, a pavement, a person, a tree, a mountain, a house, and a road.
+An image with eight traffics, a mountain, nine cars, a pavement, a sky, a road, a person, a house, a grass, and a tree.
+An image with eight traffics, a person, nine cars, a grass, a sky, a house, a mountain, a pavement, a road, and a tree.

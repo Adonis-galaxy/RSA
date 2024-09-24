@@ -8,3 +8,8 @@ A kitchen counter with a few items on it.
 The image shows a kitchen with a refrigerator, a counter, and some cabinets.
 The image shows a kitchen with a refrigerator, a counter with a few items on it, and orange cabinets.
 The image shows a kitchen with a refrigerator, a counter with a few items on it, and orange cabinets.
+An image with a cabinet, a wall, a paper, a refrigerator, and a cup.
+An image with a cup, a wall, a paper, a cabinet, and a refrigerator.
+An image with a paper, a refrigerator, a cabinet, a wall, and a cup.
+An image with a wall, a cup, a refrigerator, a cabinet, and a paper.
+An image with a cabinet, a wall, a paper, a refrigerator, and a cup.

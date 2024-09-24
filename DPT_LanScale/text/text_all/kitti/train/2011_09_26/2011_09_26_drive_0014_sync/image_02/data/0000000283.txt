@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on a road.
 The image captures a quiet, tree-lined street with a single car in motion, under a clear blue sky.
 The image shows a wide, tree-lined street with a few cars and a bus, and it appears to be a sunny day.
 The image depicts a wide, tree-lined street with a clear sky, a few vehicles, and traffic lights, leading to a cityscape with buildings and a red bus.
+An image with two traffics, a pavement, a grass, a road, a car, a bus, and a tree.
+An image with a grass, a road, a pavement, a car, a bus, two traffics, and a tree.
+An image with a road, two traffics, a pavement, a car, a bus, a tree, and a grass.
+An image with two traffics, a pavement, a grass, a bus, a road, a tree, and a car.
+An image with two traffics, a bus, a grass, a car, a tree, a road, and a pavement.

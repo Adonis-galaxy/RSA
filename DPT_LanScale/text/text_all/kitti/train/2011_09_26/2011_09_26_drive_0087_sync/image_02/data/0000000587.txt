@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 A narrow, tree-lined street between two-story buildings, with a yellow car parked at the end and a pedestrian walking on the sidewalk.
 A narrow street between two buildings, with a car parked on the right side and a person walking on the left side.
 The image depicts a narrow, tree-lined street with a mix of residential buildings and a parked car, leading to a white structure with a green roof.
+An image with a house, two walls, a car, a tree, a road, and a grass.
+An image with a grass, two walls, a road, a house, a tree, and a car.
+An image with a tree, a road, a house, two walls, a grass, and a car.
+An image with a house, two walls, a grass, a tree, a car, and a road.
+An image with two walls, a road, a grass, a car, a tree, and a house.

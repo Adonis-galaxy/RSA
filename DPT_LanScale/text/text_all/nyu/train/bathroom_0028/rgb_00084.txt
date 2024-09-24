@@ -8,3 +8,8 @@ A bathroom with a white bathtub and a window.
 The image captures a small, dimly lit bathroom with a white bathtub, a window, and various toiletries neatly arranged on the tub's edge.
 The image shows a small, dark bathroom with a white bathtub, a window, and various toiletries on the tub.
 The image shows a small, dark bathroom with a white bathtub, a window, and a door.
+An image with two walls, six bottles, a door, a floor, a window, and a rug.
+An image with two walls, six bottles, a floor, a rug, a door, and a window.
+An image with two walls, six bottles, a window, a door, a rug, and a floor.
+An image with two walls, six bottles, a rug, a door, a window, and a floor.
+An image with six bottles, a window, two walls, a rug, a floor, and a door.

@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a moment of everyday life on a suburban street, with cars in motion and a clear sky overhead.
 The image shows a road with a few cars, a truck, and a pedestrian, all captured in a wide-angle shot that emphasizes the expansive road and the surrounding greenery.
 The image shows a road with cars driving on it, with trees and a sky background.
+An image with six cars, a grass, a sky, a tree, a road, a pavement, and a truck.
+An image with a sky, six cars, a road, a truck, a pavement, a grass, and a tree.
+An image with six cars, a truck, a pavement, a road, a tree, a grass, and a sky.
+An image with a road, a truck, a sky, six cars, a grass, a tree, and a pavement.
+An image with a truck, six cars, a sky, a pavement, a road, a grass, and a tree.

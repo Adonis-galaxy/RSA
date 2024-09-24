@@ -8,3 +8,8 @@ The image shows a busy street scene with a red car, a large orange truck, a blac
 A red car is stopped at a traffic light, waiting for the green light to proceed, while a large orange truck is crossing the intersection in front of the car.
 A large orange dump truck is driving down a street, passing a red car and a black car, with a traffic light visible in the background.
 A red car is driving on a street with a large orange truck in front of it, passing through an intersection with traffic lights and signs.
+An image with four cars, a sky, seven traffics, a house, a mountain, a truck, a tree, a road, a grass, and a pavement.
+An image with a house, seven traffics, four cars, a sky, a road, a pavement, a tree, a truck, a mountain, and a grass.
+An image with a sky, seven traffics, a tree, a truck, four cars, a grass, a mountain, a pavement, a road, and a house.
+An image with four cars, seven traffics, a road, a grass, a truck, a mountain, a sky, a tree, a house, and a pavement.
+An image with seven traffics, four cars, a road, a tree, a house, a mountain, a pavement, a truck, a grass, and a sky.

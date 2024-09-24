@@ -8,3 +8,8 @@ A group of children sitting at a table in a classroom.
 A group of children in a classroom, engaged in various activities, with a teacher standing nearby.
 A group of children are seated at tables in a classroom, engaged in various activities.
 A group of children are seated at tables in a classroom, engaged in various activities.
+An image with eight chairs, eight people, four dinings, eleven books, a shelf, a wall, a floor, a paper, and a scissors.
+An image with eight chairs, eight people, eleven books, four dinings, a shelf, a paper, a scissors, a floor, and a wall.
+An image with four dinings, eight chairs, a scissors, eight people, eleven books, a wall, a floor, a paper, and a shelf.
+An image with four dinings, eight people, a paper, eight chairs, a shelf, eleven books, a floor, a wall, and a scissors.
+An image with eight chairs, eight people, eleven books, a paper, a wall, a scissors, four dinings, a shelf, and a floor.

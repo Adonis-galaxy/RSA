@@ -8,3 +8,8 @@ The image shows a group of people standing on a street corner.
 A group of people standing on a street corner, with a blue car parked nearby and a bicycle parked further down the road.
 A group of people standing on the side of a road, with a blue car parked nearby and a bicycle in the background.
 A group of people stand on a street corner, with a blue car parked nearby and a bicycle leaning against a sign.
+An image with a sky, four people, two bicycles, a house, a tree, a road, and two cars.
+An image with a road, four people, two cars, a house, a sky, two bicycles, and a tree.
+An image with a tree, two bicycles, a road, four people, two cars, a sky, and a house.
+An image with four people, a house, two bicycles, a sky, a road, two cars, and a tree.
+An image with a tree, a road, a sky, two cars, four people, two bicycles, and a house.

@@ -8,3 +8,8 @@ A bookshelf filled with books.
 A room with a bookshelf, a desk, and a window with blinds.
 The image shows a small room with a bookshelf filled with books, a desk with a computer keyboard, and a window with vertical blinds.
 The image shows a room with a bookshelf, a desk with a computer, and a window with blinds.
+An image with nineteen books, a table, a window, a door, a wall, a shelf, a floor, and a keyboard.
+An image with nineteen books, a keyboard, a window, a door, a wall, a floor, a shelf, and a table.
+An image with nineteen books, a table, a wall, a door, a keyboard, a shelf, a window, and a floor.
+An image with a window, a table, nineteen books, a keyboard, a floor, a door, a shelf, and a wall.
+An image with a window, nineteen books, a floor, a keyboard, a shelf, a wall, a table, and a door.

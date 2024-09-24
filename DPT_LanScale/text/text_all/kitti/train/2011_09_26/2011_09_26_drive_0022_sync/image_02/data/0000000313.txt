@@ -8,3 +8,8 @@ A black car parked on a street.
 A black car is parked on a street next to a white building with garage doors, and there's a sidewalk with a sign and a tree in the background.
 A black car is parked on a street next to a white building with garage doors, and there are trees in the background.
 A black car is parked on a curved street next to a white building with garages, and there are trees and a sidewalk in the background.
+An image with a sky, a car, a building, a tree, a road, and a pavement.
+An image with a building, a road, a sky, a car, a pavement, and a tree.
+An image with a sky, a tree, a pavement, a car, a building, and a road.
+An image with a tree, a car, a pavement, a sky, a road, and a building.
+An image with a sky, a pavement, a car, a tree, a road, and a building.

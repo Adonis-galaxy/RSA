@@ -8,3 +8,8 @@ The image shows an empty room with a wooden floor and a chair.
 The image shows an empty room with a chair, a wall with two outlets, and a wooden floor.
 The image shows a room with a large, empty wall, a chair, and a small, white cabinet.
 The image shows an empty room with a wooden floor, a chair, and a wall with two electrical outlets.
+An image with a wall, a chair, a cabinet, and a floor.
+An image with a wall, a cabinet, a chair, and a floor.
+An image with a chair, a wall, a floor, and a cabinet.
+An image with a wall, a floor, a chair, and a cabinet.
+An image with a cabinet, a floor, a chair, and a wall.

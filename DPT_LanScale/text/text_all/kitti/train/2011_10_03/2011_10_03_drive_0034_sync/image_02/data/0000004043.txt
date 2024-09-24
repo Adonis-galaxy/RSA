@@ -8,3 +8,8 @@ The image shows a street with a curved road and a house in the background.
 The image captures a serene residential street, with a clear view of a house nestled amidst lush greenery, and a solitary tree standing guard at the corner of the street.
 The image shows a sunlit street with a large house on the right, a smaller house on the left, and a tree-lined sidewalk.
 A serene suburban street, bordered by lush greenery and a quaint house, leads to a cul-de-sac, where a solitary tree stands guard.
+An image with a road, a tree, a pavement, and a sky.
+An image with a road, a pavement, a tree, and a sky.
+An image with a pavement, a sky, a tree, and a road.
+An image with a sky, a pavement, a road, and a tree.
+An image with a sky, a road, a tree, and a pavement.

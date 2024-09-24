@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a few vehicles in motion, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street lined with parked cars, with a few larger vehicles and a truck visible, and a white house with a red roof in the background.
 A narrow street in a residential area with parked cars and a mix of houses and apartments.
+An image with two trucks, nine cars, a pavement, a sky, a road, a wall, a tree, a grass, and a house.
+An image with two trucks, nine cars, a wall, a grass, a tree, a road, a house, a sky, and a pavement.
+An image with nine cars, a wall, a pavement, a tree, a grass, two trucks, a sky, a house, and a road.
+An image with a wall, a road, nine cars, two trucks, a tree, a sky, a grass, a house, and a pavement.
+An image with nine cars, a tree, a road, two trucks, a sky, a wall, a house, a grass, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with a building under construction.
 The image captures a quiet residential street, with a clear view of a building under construction, a few parked cars, and a pedestrian walking on the sidewalk.
 The image shows a street scene with a large building under construction, a few parked cars, a pedestrian, and a sign.
 The image depicts a quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a roundabout at the end.
+An image with a pavement, five cars, a grass, a sky, a building, a truck, a tree, and a road.
+An image with a truck, a road, a building, five cars, a tree, a pavement, a grass, and a sky.
+An image with five cars, a building, a grass, a pavement, a sky, a road, a tree, and a truck.
+An image with five cars, a road, a building, a tree, a sky, a truck, a pavement, and a grass.
+An image with five cars, a grass, a tree, a pavement, a sky, a building, a truck, and a road.

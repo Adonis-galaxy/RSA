@@ -8,3 +8,8 @@ A large gray printer on a table.
 A large gray printer on a table in a room with a chair.
 The image shows a small, black, metal cart with a printer on top, placed in a room with a white wall and a chair.
 The image shows a room with a desk and a chair, and there is a machine on the desk.
+An image with two chairs, a wall, a table, and a floor.
+An image with a floor, two chairs, a wall, and a table.
+An image with a table, two chairs, a wall, and a floor.
+An image with a table, a wall, two chairs, and a floor.
+An image with a table, a floor, two chairs, and a wall.

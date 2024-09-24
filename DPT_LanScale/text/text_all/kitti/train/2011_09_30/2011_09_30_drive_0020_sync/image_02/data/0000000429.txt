@@ -8,3 +8,8 @@ The image shows a street scene with a clear sky.
 The image captures a quiet, tree-lined street in a residential area, with a clear sky overhead and a few parked cars along the side.
 The image shows a street scene with a large building on the left, a smaller building in the center, a street sign on the right, and a sidewalk with a tree and a street lamp.
 The image depicts a quiet residential street with a clear view of a building and a parked car, under a blue sky.
+An image with seven cars, a tree, a grass, a pavement, a road, a stop, and a building.
+An image with seven cars, a tree, a building, a grass, a pavement, a stop, and a road.
+An image with seven cars, a stop, a road, a tree, a pavement, a building, and a grass.
+An image with a stop, seven cars, a building, a tree, a grass, a road, and a pavement.
+An image with seven cars, a stop, a tree, a grass, a road, a pavement, and a building.

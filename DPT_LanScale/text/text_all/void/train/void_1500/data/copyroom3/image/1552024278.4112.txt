@@ -8,3 +8,8 @@ A microwave on a counter.
 A small white microwave sits on a white countertop.
 A small white microwave is sitting on a white countertop.
 A small white microwave is placed on a white countertop in a kitchen.
+An image with a paper, two walls, a microwave, a counter, a cabinet, and a refrigerator.
+An image with a paper, a cabinet, two walls, a microwave, a refrigerator, and a counter.
+An image with a microwave, two walls, a counter, a paper, a refrigerator, and a cabinet.
+An image with a cabinet, a counter, a microwave, a paper, two walls, and a refrigerator.
+An image with a refrigerator, a microwave, a paper, two walls, a cabinet, and a counter.

@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a tranquil suburban street scene, with a clear blue sky overhead, a lush green lawn on the right, a tree-lined road in the center, and a white arrow sign on the left, all under a bright sunny day.
 A large, blue and red circular sign with a white arrow pointing upwards is prominently displayed on the right side of the road, with a white arrow pointing downwards on the left side of the road.
 A tree-lined road with a blue and red sign on the right side.
+An image with a wall, a road, a sky, a pavement, a stop, two cars, a house, a tree, and a grass.
+An image with a sky, a wall, two cars, a stop, a pavement, a tree, a road, a house, and a grass.
+An image with two cars, a pavement, a grass, a road, a tree, a wall, a stop, a house, and a sky.
+An image with a house, a tree, a pavement, a grass, a wall, a road, a stop, two cars, and a sky.
+An image with a stop, a road, a house, a tree, a sky, two cars, a grass, a wall, and a pavement.

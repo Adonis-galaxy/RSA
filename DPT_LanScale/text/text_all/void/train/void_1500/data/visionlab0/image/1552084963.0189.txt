@@ -8,3 +8,8 @@ A man sitting at a desk with a laptop.
 A man is sitting at a desk, working on a laptop, with a cup of coffee nearby.
 A man is sitting at a desk with a laptop, in an office setting with multiple desks and chairs.
 A man is sitting at a desk with a laptop, in an office setting with multiple desks and chairs.
+An image with four chairs, two cups, a tv, a floor, a backpack, a wall, a laptop, a person, and a table.
+An image with a wall, four chairs, two cups, a person, a laptop, a table, a tv, a backpack, and a floor.
+An image with a person, two cups, a laptop, a wall, a floor, four chairs, a table, a tv, and a backpack.
+An image with four chairs, a floor, a person, a wall, two cups, a laptop, a tv, a backpack, and a table.
+An image with a floor, a table, four chairs, a backpack, a laptop, a person, two cups, a wall, and a tv.

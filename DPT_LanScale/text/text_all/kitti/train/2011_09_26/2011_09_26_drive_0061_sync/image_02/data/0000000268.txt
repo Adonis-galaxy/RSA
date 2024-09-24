@@ -8,3 +8,8 @@ A narrow street lined with trees and houses.
 A quiet, tree-lined street in a residential area, with a parked car and a white building in the background.
 A narrow street lined with tall hedges and houses, with a car parked on the side.
 A narrow, tree-lined street in a residential area, with a parked car and a white building on the right side.
+An image with four cars, a sky, a tree, a pavement, a road, and a house.
+An image with a house, four cars, a road, a tree, a sky, and a pavement.
+An image with four cars, a tree, a road, a pavement, a house, and a sky.
+An image with four cars, a pavement, a road, a tree, a house, and a sky.
+An image with a tree, four cars, a sky, a house, a road, and a pavement.

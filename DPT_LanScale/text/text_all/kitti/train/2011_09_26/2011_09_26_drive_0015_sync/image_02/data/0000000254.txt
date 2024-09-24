@@ -8,3 +8,8 @@ A large white truck driving down a road.
 A large white truck driving down a highway, with other vehicles and a clear sky in the background.
 A large white truck is driving down a highway with other vehicles, passing under power lines and near a grassy area.
 A large white truck is driving down a highway with a clear blue sky, passing other vehicles and a field on the right side.
+An image with five cars, a sky, a grass, a tree, a person, a building, a truck, a railroad, and a road.
+An image with five cars, a person, a sky, a grass, a tree, a truck, a railroad, a road, and a building.
+An image with five cars, a grass, a sky, a tree, a road, a truck, a person, a building, and a railroad.
+An image with five cars, a truck, a sky, a road, a person, a grass, a building, a tree, and a railroad.
+An image with five cars, a grass, a tree, a road, a person, a truck, a sky, a building, and a railroad.

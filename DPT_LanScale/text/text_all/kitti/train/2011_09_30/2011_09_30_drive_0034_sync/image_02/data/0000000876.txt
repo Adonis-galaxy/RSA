@@ -8,3 +8,8 @@ The image shows a street view of a residential area with houses and a sidewalk.
 The image captures a quaint, narrow street lined with charming white buildings, each adorned with vibrant greenery and colorful flowers, leading to a picturesque scene of a European village.
 The image shows a narrow street lined with houses, with a large tree on the left side and a smaller tree on the right side. The houses have white walls and red doors, and there is a green lawn in front of one of the houses. The street is shaded by the trees, and there is a sidewalk on the right side.
 The image depicts a quaint European street scene with a row of white houses, greenery, and a narrow road.
+An image with two walls, two potteds, a road, a window, a grass, a tree, a pavement, and a sky.
+An image with a sky, a pavement, a window, two potteds, a tree, a road, two walls, and a grass.
+An image with a grass, two potteds, two walls, a window, a sky, a road, a tree, and a pavement.
+An image with a pavement, a tree, two potteds, a road, a grass, a window, two walls, and a sky.
+An image with a road, a grass, two potteds, a tree, two walls, a window, a pavement, and a sky.

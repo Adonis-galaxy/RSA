@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a brick wall.
 The image captures a narrow, tree-lined street with parked cars, leading to a white building with a red door, which is situated between two brick walls with metal gates.
 The image shows a narrow, tree-lined street with parked cars on the side, a brick wall, and a white gate.
 A narrow, tree-lined street with parked cars and a brick wall on the right side.
+An image with five cars, a door, a parking, a tree, a wall, a fence, and a pavement.
+An image with a fence, five cars, a tree, a wall, a parking, a pavement, and a door.
+An image with a parking, five cars, a wall, a fence, a door, a pavement, and a tree.
+An image with a wall, a door, five cars, a fence, a pavement, a tree, and a parking.
+An image with a pavement, a tree, a fence, five cars, a door, a wall, and a parking.

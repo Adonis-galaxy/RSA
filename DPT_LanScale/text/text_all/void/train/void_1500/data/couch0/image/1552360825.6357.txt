@@ -8,3 +8,8 @@ A black backpack on a gray chair.
 A backpack, a sombrero, and a magazine on a chair.
 A black backpack, a sombrero, and a magazine on a gray chair.
 A black backpack is placed on a gray chair, with a sombrero and a magazine on the armrest.
+An image with a book, a floor, a wall, a window, a couch, a cabinet, a laptop, and a backpack.
+An image with a laptop, a cabinet, a window, a floor, a backpack, a book, a wall, and a couch.
+An image with a floor, a backpack, a window, a laptop, a cabinet, a wall, a book, and a couch.
+An image with a book, a backpack, a laptop, a wall, a window, a couch, a floor, and a cabinet.
+An image with a couch, a floor, a book, a window, a wall, a laptop, a cabinet, and a backpack.

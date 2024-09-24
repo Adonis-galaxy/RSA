@@ -8,3 +8,8 @@ The image shows a curvy road with a grassy hillside and trees.
 A winding road through a suburban neighborhood, with a clear blue sky overhead and lush greenery on either side.
 The image shows a curvy road with a grassy median, lined by trees and houses, and a clear blue sky overhead.
 A curving road with a grassy median and houses on the right, leading to a clear blue sky.
+An image with a pavement, a house, a fence, a sky, a tree, a grass, and a road.
+An image with a grass, a road, a house, a tree, a fence, a sky, and a pavement.
+An image with a tree, a pavement, a road, a fence, a grass, a sky, and a house.
+An image with a grass, a pavement, a house, a tree, a fence, a sky, and a road.
+An image with a sky, a grass, a house, a road, a pavement, a tree, and a fence.

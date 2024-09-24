@@ -8,3 +8,8 @@ The image shows a long, empty highway with a clear blue sky above.
 The image captures a long, empty highway with a clear sky, a few trees, and a distant cityscape, evoking a sense of solitude and openness.
 The image shows a long, empty highway with a clear blue sky, a few trees, and a distant cityscape.
 The image shows a long, straight, empty highway with a clear sky, a grassy median, and a few buildings in the distance.
+An image with a fence, a road, a tree, a grass, and a building.
+An image with a road, a building, a fence, a tree, and a grass.
+An image with a fence, a building, a road, a grass, and a tree.
+An image with a building, a road, a grass, a tree, and a fence.
+An image with a road, a grass, a fence, a building, and a tree.

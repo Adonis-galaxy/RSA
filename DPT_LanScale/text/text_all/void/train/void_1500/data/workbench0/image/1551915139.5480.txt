@@ -8,3 +8,8 @@ A blurry image of a cluttered office desk.
 The image shows a cluttered office desk with various items on it, including a computer monitor, keyboard, mouse, and a blue box.
 The image shows a cluttered office desk with various items, including a laptop, a mouse, and a blue box.
 The image shows a cluttered office desk with various items on it, including a computer monitor, keyboard, mouse, and a blue box.
+An image with two laptops, a floor, two chairs, a cardboard, a book, two tvs, a table, and a wall.
+An image with two laptops, a wall, two tvs, a floor, two chairs, a book, a table, and a cardboard.
+An image with two laptops, a floor, two tvs, two chairs, a cardboard, a book, a wall, and a table.
+An image with a table, a book, two laptops, two chairs, a wall, two tvs, a floor, and a cardboard.
+An image with two chairs, two laptops, a table, a book, a cardboard, a floor, two tvs, and a wall.

@@ -8,3 +8,8 @@ A black car parked on a street.
 A quiet residential street, lined with trees and houses, with a single car parked at the end.
 A small black car is parked on the side of a narrow street lined with trees and houses.
 A tree-lined street with a car parked at the end, leading to a residential area with houses and a garage.
+An image with a road, a tree, a wall, a pavement, a sky, a car, a grass, and a house.
+An image with a house, a pavement, a wall, a grass, a tree, a car, a road, and a sky.
+An image with a sky, a car, a wall, a grass, a pavement, a house, a tree, and a road.
+An image with a wall, a grass, a road, a house, a car, a pavement, a sky, and a tree.
+An image with a tree, a road, a grass, a pavement, a wall, a sky, a house, and a car.

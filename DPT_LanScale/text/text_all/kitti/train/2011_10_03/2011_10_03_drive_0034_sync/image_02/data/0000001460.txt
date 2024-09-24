@@ -8,3 +8,8 @@ The image shows a black car parked on a street.
 A black car parked on a tree-lined street, with a white fence and a house in the background.
 A black car is parked on the side of a narrow street with a tree-lined sidewalk, and there are several other cars parked along the street.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a residential area.
+An image with a wall, six cars, a pavement, a fence, a roof, a tree, a sky, and a road.
+An image with six cars, a roof, a pavement, a road, a tree, a fence, a wall, and a sky.
+An image with a road, six cars, a wall, a sky, a pavement, a tree, a fence, and a roof.
+An image with six cars, a pavement, a roof, a wall, a sky, a road, a fence, and a tree.
+An image with six cars, a wall, a road, a fence, a roof, a sky, a tree, and a pavement.

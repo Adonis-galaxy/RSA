@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses and parked cars.
 A quiet residential street with a mix of architectural styles, lined with trees and parked cars.
 The image shows a narrow street lined with houses and trees, with a red car parked on the side of the road.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a pavement, a tree, a roof, a house, three cars, a sky, a traffic, and a road.
+An image with three cars, a roof, a traffic, a sky, a house, a pavement, a tree, and a road.
+An image with a roof, a sky, a pavement, three cars, a road, a traffic, a house, and a tree.
+An image with a roof, a traffic, a tree, three cars, a road, a sky, a pavement, and a house.
+An image with a sky, three cars, a roof, a road, a house, a traffic, a pavement, and a tree.

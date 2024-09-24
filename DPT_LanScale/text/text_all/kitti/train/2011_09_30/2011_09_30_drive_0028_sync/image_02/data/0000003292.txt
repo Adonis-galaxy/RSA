@@ -8,3 +8,8 @@ The image shows a narrow street between two white walls with red trim.
 The image captures a serene residential street, lined with houses and trees, under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a red wall on the right side.
 A narrow, tree-lined street in a residential area, with houses on both sides and a red wall on the right.
+An image with six cars, a sky, a wall, a pavement, a tree, a road, and a roof.
+An image with six cars, a sky, a pavement, a road, a tree, a roof, and a wall.
+An image with six cars, a road, a wall, a sky, a tree, a roof, and a pavement.
+An image with a road, a wall, six cars, a tree, a pavement, a sky, and a roof.
+An image with six cars, a road, a sky, a roof, a tree, a wall, and a pavement.

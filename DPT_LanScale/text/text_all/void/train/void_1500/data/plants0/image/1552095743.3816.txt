@@ -8,3 +8,8 @@ A wooden bench with a metal frame.
 A wooden bench with a metal frame, situated on a wooden deck, surrounded by plants and trees.
 A wooden bench with a metal frame, situated on a wooden deck, surrounded by plants and trees.
 A wooden bench with a metal frame, situated on a wooden deck, surrounded by plants and trees.
+An image with two benches, a dirt, a tree, a wall, a fence, and a floor.
+An image with two benches, a tree, a floor, a fence, a wall, and a dirt.
+An image with a dirt, a wall, a tree, two benches, a fence, and a floor.
+An image with a fence, a wall, a tree, a dirt, two benches, and a floor.
+An image with a dirt, a wall, a floor, a tree, two benches, and a fence.

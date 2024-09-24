@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a moment of everyday life on a road, with cars in motion and a clear sky overhead.
 A car is driving down a road with trees on the side.
 The image shows a highway with multiple lanes, a median, and a side road, with vehicles traveling in both directions.
+An image with a sky, two traffics, a road, six cars, a tree, a fence, a truck, a grass, and a pavement.
+An image with six cars, a sky, a fence, a grass, two traffics, a road, a truck, a tree, and a pavement.
+An image with a road, two traffics, a tree, a grass, a pavement, six cars, a fence, a sky, and a truck.
+An image with a sky, a fence, a road, six cars, two traffics, a truck, a grass, a tree, and a pavement.
+An image with six cars, a sky, a road, a tree, two traffics, a fence, a truck, a grass, and a pavement.

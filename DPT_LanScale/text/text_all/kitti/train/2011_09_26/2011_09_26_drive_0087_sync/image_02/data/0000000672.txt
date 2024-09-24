@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a brick wall, a white house with a red roof, and a street sign indicating "Arm Burwyn."
 The image shows a narrow street lined with houses, a parked yellow car, a brick wall, a street sign, and a tree.
 The image depicts a quiet residential street with a mix of old and new buildings, a curved sidewalk, and a yellow car parked on the side of the road.
+An image with a pavement, a tree, a road, two walls, a house, two cars, and a sky.
+An image with a pavement, two walls, a sky, a road, a house, two cars, and a tree.
+An image with a tree, a house, two cars, two walls, a pavement, a sky, and a road.
+An image with two cars, a sky, a road, two walls, a pavement, a tree, and a house.
+An image with a house, a road, a tree, two cars, a sky, two walls, and a pavement.

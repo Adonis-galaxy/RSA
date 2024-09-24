@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a typical day in a residential area, with parked cars lining the street in front of apartment buildings, and a roundabout at the end of the road.
 The image shows a narrow street with parked cars on both sides, a roundabout, and apartment buildings in the background.
 The image shows a street scene with parked cars, a roundabout, and apartment buildings, captured during the day under a clear sky.
+An image with a house, eight cars, a wall, a road, a stop, a sky, and a tree.
+An image with eight cars, a stop, a sky, a tree, a house, a wall, and a road.
+An image with a wall, a road, eight cars, a house, a sky, a stop, and a tree.
+An image with eight cars, a wall, a stop, a house, a road, a sky, and a tree.
+An image with eight cars, a stop, a house, a sky, a road, a wall, and a tree.

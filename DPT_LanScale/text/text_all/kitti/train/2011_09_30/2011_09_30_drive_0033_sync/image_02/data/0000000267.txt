@@ -8,3 +8,8 @@ The image shows a curved road with a grassy area on the left side and a row of h
 A curved road leads to a row of houses, with a lamp post and a roundabout at the end.
 The image shows a curved road with a sidewalk, lined by grass and trees, leading to a row of houses in the background.
 A curved road with a sidewalk, bordered by grass and houses, leads to a large building with a flat roof.
+An image with a sky, a road, a pavement, a house, a tree, and a grass.
+An image with a road, a sky, a tree, a pavement, a grass, and a house.
+An image with a grass, a pavement, a tree, a sky, a road, and a house.
+An image with a sky, a tree, a grass, a house, a pavement, and a road.
+An image with a house, a pavement, a tree, a road, a grass, and a sky.

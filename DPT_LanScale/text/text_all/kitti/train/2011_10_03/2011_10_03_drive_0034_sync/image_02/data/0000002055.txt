@@ -8,3 +8,8 @@ The image shows a street scene with a white car, a red van, and a building with 
 A quiet suburban street, lined with trees and parked cars, under a clear blue sky.
 A white car is driving down a tree-lined street, passing a red van and a building with a large garage door.
 A tree-lined street with parked cars and a red van driving down the road.
+An image with a tree, two cars, a pavement, and a sky.
+An image with two cars, a sky, a tree, and a pavement.
+An image with a pavement, two cars, a sky, and a tree.
+An image with two cars, a sky, a pavement, and a tree.
+An image with a pavement, a tree, a sky, and two cars.

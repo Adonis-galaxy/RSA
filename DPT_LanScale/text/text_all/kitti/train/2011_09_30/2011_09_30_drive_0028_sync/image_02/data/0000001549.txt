@@ -8,3 +8,8 @@ A white van driving down a street.
 A delivery van on a residential street, with parked cars and a building in the background.
 A large white van is driving down a narrow street lined with trees and parked cars.
 A narrow street in a residential area with parked cars, a van, and a truck, lined with hedges and trees, leading to a building with a flat roof.
+An image with a sky, a road, six cars, a tree, a grass, a bus, a pavement, and a house.
+An image with six cars, a bus, a house, a tree, a grass, a sky, a road, and a pavement.
+An image with a bus, a house, six cars, a sky, a grass, a pavement, a tree, and a road.
+An image with a house, six cars, a pavement, a bus, a grass, a sky, a tree, and a road.
+An image with a bus, six cars, a tree, a sky, a house, a road, a pavement, and a grass.

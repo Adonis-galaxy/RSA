@@ -8,3 +8,8 @@ A quiet residential street.
 A quiet residential street, lined with houses and trees, leading to a cul-de-sac.
 The image shows a narrow, tree-lined street with houses on both sides, leading up a hill.
 A quiet residential street with houses on both sides, lined with trees and bushes, leading to a cul-de-sac.
+An image with a car, a mountain, a road, a tree, a wall, a house, and a sky.
+An image with a wall, a sky, a tree, a car, a mountain, a house, and a road.
+An image with a car, a tree, a wall, a house, a sky, a road, and a mountain.
+An image with a road, a house, a car, a wall, a tree, a sky, and a mountain.
+An image with a sky, a mountain, a house, a wall, a road, a car, and a tree.

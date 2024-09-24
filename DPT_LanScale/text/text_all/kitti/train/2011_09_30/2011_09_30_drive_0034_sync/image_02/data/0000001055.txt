@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A young child is playing in a residential area with houses and trees, while an adult walks down the street.
 The image shows a narrow street lined with houses and trees, with a person walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with houses on both sides, a parked car, and a person walking.
+An image with a house, a car, a truck, a grass, a tree, a road, a person, and a fence.
+An image with a truck, a tree, a grass, a house, a person, a car, a fence, and a road.
+An image with a fence, a tree, a car, a person, a grass, a house, a road, and a truck.
+An image with a grass, a person, a road, a car, a tree, a truck, a fence, and a house.
+An image with a fence, a tree, a truck, a person, a road, a house, a grass, and a car.

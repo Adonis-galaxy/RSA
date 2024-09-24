@@ -8,3 +8,8 @@ The image shows a row of black and brown chairs with orange desks.
 The image shows a row of black chairs with wooden armrests and orange desks in a classroom setting.
 The image shows a row of black and brown chairs with orange desks, all sitting on a white floor.
 The image shows a row of black chairs with wooden armrests and orange desks, all arranged in a classroom setting on a tiled floor.
+An image with five chairs, a floor, a dining, and a wall.
+An image with a wall, five chairs, a floor, and a dining.
+An image with five chairs, a wall, a dining, and a floor.
+An image with a wall, five chairs, a floor, and a dining.
+An image with a floor, a wall, a dining, and five chairs.

@@ -8,3 +8,8 @@ A concrete slab in a garden.
 A concrete slab is placed on a patch of dirt and grass, with a brick wall in the background.
 A concrete slab is placed on a patch of dirt with grass and plants around it.
 The image shows a concrete slab on the ground, surrounded by grass and plants, with a step leading up to a building.
+An image with a floor, a tree, a water, and a wall.
+An image with a water, a floor, a tree, and a wall.
+An image with a wall, a floor, a water, and a tree.
+An image with a tree, a water, a floor, and a wall.
+An image with a floor, a tree, a wall, and a water.

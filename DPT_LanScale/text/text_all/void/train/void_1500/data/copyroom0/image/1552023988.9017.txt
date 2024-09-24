@@ -8,3 +8,8 @@ The image shows a blurry view of a room with a focus on a yellow cabinet with op
 The image shows a blurry view of a room with a yellow wall, a white cabinet with open drawers, and a red object in the background.
 The image shows a blurry view of a room with a yellow wall, a white cabinet with open drawers, and a red object in the background.
 The image shows a blurry view of a room with a yellow wall, a white cabinet with open drawers, and a red object in the background.
+An image with a wall, a floor, a paper, a refrigerator, and a cabinet.
+An image with a wall, a paper, a floor, a cabinet, and a refrigerator.
+An image with a floor, a refrigerator, a wall, a cabinet, and a paper.
+An image with a floor, a refrigerator, a paper, a cabinet, and a wall.
+An image with a wall, a floor, a refrigerator, a paper, and a cabinet.

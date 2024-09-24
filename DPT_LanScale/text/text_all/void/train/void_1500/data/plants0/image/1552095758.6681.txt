@@ -8,3 +8,8 @@ A concrete planter with plants and dirt.
 The image shows a concrete planter with a variety of plants and a brick border, placed on a sidewalk.
 A concrete planter with a variety of plants and a small wooden sign.
 The image shows a concrete pathway with a raised planter on the right side, containing a variety of plants and a small wooden sign.
+An image with a tree, a floor, a grass, and two walls.
+An image with a grass, two walls, a floor, and a tree.
+An image with a tree, a grass, two walls, and a floor.
+An image with a tree, two walls, a grass, and a floor.
+An image with a floor, a tree, a grass, and two walls.

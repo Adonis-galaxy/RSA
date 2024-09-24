@@ -8,3 +8,8 @@ A person is bending over a dresser.
 A person is bending over a desk in a room with a couch and a lamp.
 A person is bending over a small wooden dresser in a room with a large painting on the wall.
 A man and a woman are sitting on a couch in a living room, with a lamp and a table nearby, and a painting on the wall.
+An image with a laptop, two couches, a wall, a cabinet, two people, a book, and a floor.
+An image with two people, a wall, a cabinet, two couches, a floor, a book, and a laptop.
+An image with two people, two couches, a book, a floor, a cabinet, a laptop, and a wall.
+An image with two people, a laptop, two couches, a cabinet, a book, a floor, and a wall.
+An image with two people, two couches, a wall, a floor, a cabinet, a laptop, and a book.

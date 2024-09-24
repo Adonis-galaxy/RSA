@@ -8,3 +8,8 @@ A kitchen with a table and chairs.
 The image captures a cozy dining area with a table surrounded by chairs, a counter with a sink and a cabinet, and a framed picture on the wall.
 The image shows a dining room with a large table and four chairs, a counter with a sink and a few items, and a framed picture on the wall.
 The image shows a dining room with a table and four chairs, a counter with a sink and a shelf above it, and a wall-mounted framed picture.
+An image with five chairs, four cups, a cabinet, a dining, a floor, a wall, a shelf, and a fence.
+An image with four cups, five chairs, a shelf, a wall, a fence, a dining, a floor, and a cabinet.
+An image with a floor, five chairs, a cabinet, a shelf, a wall, four cups, a fence, and a dining.
+An image with a dining, five chairs, a fence, four cups, a wall, a shelf, a cabinet, and a floor.
+An image with a shelf, five chairs, four cups, a dining, a fence, a floor, a cabinet, and a wall.

@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street with parked cars, a clear sky, and lush greenery, evoking a sense of tranquility and suburban life.
 The image shows a narrow street with parked cars on the side, a building on the left, and trees on the right.
 A narrow street with parked cars on the side, leading to a white building with a balcony.
+An image with three cars, a wall, a house, a road, a grass, a tree, and a pavement.
+An image with a tree, a pavement, a road, three cars, a wall, a grass, and a house.
+An image with a grass, a pavement, a road, three cars, a tree, a house, and a wall.
+An image with three cars, a house, a pavement, a grass, a wall, a tree, and a road.
+An image with three cars, a wall, a grass, a pavement, a road, a tree, and a house.

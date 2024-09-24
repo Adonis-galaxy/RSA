@@ -8,3 +8,8 @@ A person walking on a sidewalk.
 A person walking on a sidewalk, with a clear view of a tree-lined street ahead, where cars are parked and moving along the road.
 A person is walking on a sidewalk next to a road with parked cars and trees, and the sun is shining brightly.
 A tree-lined street with parked cars, a pedestrian, and a clear sky.
+An image with three people, a sky, nineteen cars, a grass, a road, a pavement, a tree, and a building.
+An image with nineteen cars, a road, three people, a tree, a building, a pavement, a grass, and a sky.
+An image with a sky, a grass, nineteen cars, three people, a pavement, a tree, a building, and a road.
+An image with nineteen cars, a pavement, a tree, three people, a road, a sky, a building, and a grass.
+An image with nineteen cars, a pavement, a building, a road, a tree, a grass, three people, and a sky.

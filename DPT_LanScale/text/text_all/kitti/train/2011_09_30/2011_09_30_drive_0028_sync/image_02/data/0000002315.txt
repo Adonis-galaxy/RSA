@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a person riding a bicycle.
 A person riding a bicycle in a narrow street between parked cars, with a clear sky overhead.
 A person riding a bicycle down a narrow street between parked cars.
 A narrow street in a residential area with parked cars and a person riding a bicycle.
+An image with nine cars, a building, a flower, a sky, a bicycle, a tree, a road, a pavement, a person, and a fence.
+An image with a person, nine cars, a bicycle, a tree, a flower, a road, a building, a fence, a pavement, and a sky.
+An image with a person, a fence, nine cars, a flower, a pavement, a bicycle, a tree, a road, a building, and a sky.
+An image with a bicycle, nine cars, a pavement, a road, a person, a tree, a sky, a flower, a fence, and a building.
+An image with a building, a flower, nine cars, a bicycle, a pavement, a tree, a sky, a person, a fence, and a road.

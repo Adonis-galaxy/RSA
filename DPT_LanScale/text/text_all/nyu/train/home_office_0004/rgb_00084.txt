@@ -8,3 +8,8 @@ A man sitting at a desk in a room with a lot of books.
 A man working at a desk in a room with a bookshelf, a rug, and a chair.
 A man is sitting at a desk in a room with a large bookshelf, a rug, and a computer monitor.
 A man is sitting at a desk in a room with a bookshelf, a rug, and a wooden floor.
+An image with twenty-one books, a cabinet, a person, a floor, a rug, a laptop, a chair, a wall, and a shelf.
+An image with twenty-one books, a laptop, a rug, a wall, a cabinet, a shelf, a chair, a person, and a floor.
+An image with twenty-one books, a shelf, a rug, a cabinet, a laptop, a person, a chair, a wall, and a floor.
+An image with a chair, twenty-one books, a floor, a cabinet, a laptop, a rug, a shelf, a wall, and a person.
+An image with twenty-one books, a person, a laptop, a chair, a floor, a wall, a cabinet, a shelf, and a rug.

@@ -8,3 +8,8 @@ The image shows a whiteboard with a black marker on it, a table with a marble to
 The image shows a whiteboard with a black marker on it, a table with a marble top, and a book on the table.
 The image shows a whiteboard with a black marker on a white wall, a black chair, a white marble table with a book and papers on it.
 The image shows a classroom setting with a whiteboard, a table with a book and papers on it, and a chair in the corner.
+An image with a chair, a dining, a book, and a wall.
+An image with a chair, a book, a wall, and a dining.
+An image with a wall, a book, a dining, and a chair.
+An image with a dining, a chair, a book, and a wall.
+An image with a book, a chair, a wall, and a dining.

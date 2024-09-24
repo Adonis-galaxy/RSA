@@ -8,3 +8,8 @@ A computer lab with multiple desks and chairs.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse.
 The image shows a large computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse.
 The image shows a long table with multiple computer monitors, keyboards, and mice, with black chairs in front of each workstation.
+An image with three chairs, two mice, three tvs, a table, three keyboards, a laptop, and a rug.
+An image with three tvs, a rug, a table, three chairs, two mice, a laptop, and three keyboards.
+An image with three chairs, a rug, a laptop, two mice, three keyboards, a table, and three tvs.
+An image with two mice, a laptop, three chairs, three keyboards, three tvs, a table, and a rug.
+An image with three chairs, three keyboards, three tvs, a rug, two mice, a table, and a laptop.

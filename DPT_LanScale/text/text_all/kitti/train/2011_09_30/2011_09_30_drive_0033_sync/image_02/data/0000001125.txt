@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a clear view of a crosswalk, parked cars, and a few pedestrians, all under a bright blue sky.
 The image shows a narrow street in a residential area with houses, trees, and a crosswalk.
 The image depicts a quiet residential street with a crosswalk, lined with houses and trees, and a clear sky overhead.
+An image with four people, a road, three cars, a tree, a wall, a sky, a pavement, a fence, a house, and a traffic.
+An image with three cars, a fence, four people, a house, a wall, a sky, a pavement, a tree, a traffic, and a road.
+An image with four people, a traffic, a sky, a pavement, three cars, a fence, a wall, a house, a tree, and a road.
+An image with four people, a tree, a pavement, three cars, a traffic, a sky, a wall, a fence, a road, and a house.
+An image with a house, three cars, a wall, four people, a road, a fence, a traffic, a sky, a pavement, and a tree.

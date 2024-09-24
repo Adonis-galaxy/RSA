@@ -8,3 +8,8 @@ A white van parked on the side of a road.
 A large white truck is parked on the side of a narrow street, adjacent to a building and a fence, with a man standing nearby.
 A large white truck is parked on the side of a narrow street, next to a building and a fence.
 A white van is parked on the side of a narrow street, with a man standing in front of a building and a yellow truck parked in front of a fence.
+An image with a grass, a roof, seven cars, a fence, a building, a truck, a road, a tree, a person, and a sky.
+An image with a grass, a person, seven cars, a truck, a fence, a sky, a road, a building, a tree, and a roof.
+An image with a person, a building, seven cars, a road, a grass, a sky, a roof, a fence, a truck, and a tree.
+An image with seven cars, a road, a person, a sky, a roof, a fence, a grass, a truck, a tree, and a building.
+An image with a truck, a roof, a grass, a sky, a road, a fence, a building, a tree, seven cars, and a person.

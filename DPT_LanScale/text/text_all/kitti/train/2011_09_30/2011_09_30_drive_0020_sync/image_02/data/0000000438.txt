@@ -8,3 +8,8 @@ The image shows a street intersection with a crosswalk.
 The image captures a quiet residential street with a clear sky, lined with parked cars and apartment buildings, leading to a crosswalk with a stop sign.
 The image shows a wide street with a large building on the left, a smaller building on the right, and a few parked cars in the middle. The street is lined with trees and has a crosswalk.
 The image depicts a quiet residential street with a mix of brick and white buildings, lined with trees and parked cars, leading to a crossroads with a pedestrian crossing.
+An image with eight cars, a sky, a building, a wall, a stop, a truck, a road, a tree, a grass, and a pavement.
+An image with eight cars, a tree, a wall, a stop, a pavement, a sky, a building, a road, a grass, and a truck.
+An image with eight cars, a road, a stop, a sky, a tree, a wall, a pavement, a grass, a truck, and a building.
+An image with a sky, a building, eight cars, a grass, a tree, a stop, a road, a wall, a truck, and a pavement.
+An image with eight cars, a pavement, a stop, a building, a truck, a sky, a tree, a grass, a wall, and a road.

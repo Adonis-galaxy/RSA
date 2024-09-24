@@ -8,3 +8,8 @@ The image shows a busy street intersection with various vehicles and traffic lig
 A red car is stopped at a traffic light, waiting for the green light to proceed, while a large orange truck is crossing the intersection in the opposite direction.
 A large orange truck is driving down a street, passing a red car and a black car, with a traffic light visible in the background.
 A red car is stopped at a traffic light on a street with a truck and other vehicles, and there are multiple traffic lights and signs in the scene.
+An image with eight traffics, a road, a truck, four cars, a grass, a tree, a mountain, a pavement, a sky, and a building.
+An image with four cars, eight traffics, a building, a sky, a tree, a pavement, a grass, a truck, a road, and a mountain.
+An image with four cars, a tree, a road, eight traffics, a grass, a building, a mountain, a sky, a truck, and a pavement.
+An image with a building, a mountain, eight traffics, a grass, a truck, a pavement, a sky, four cars, a tree, and a road.
+An image with four cars, a building, a tree, eight traffics, a mountain, a sky, a grass, a road, a pavement, and a truck.

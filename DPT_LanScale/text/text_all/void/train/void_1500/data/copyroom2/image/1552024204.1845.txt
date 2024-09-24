@@ -8,3 +8,8 @@ A white printer on a green counter.
 The image shows a green counter with a white printer and papers on it, with a blurred box in the foreground.
 The image shows a green counter with a white printer and a stack of papers on it.
 The image shows a green counter with a white printer on it, and a stack of boxes in the foreground.
+An image with a wall, a paper, a cabinet, and a cardboard.
+An image with a cabinet, a paper, a wall, and a cardboard.
+An image with a cabinet, a paper, a cardboard, and a wall.
+An image with a paper, a cabinet, a cardboard, and a wall.
+An image with a cabinet, a wall, a cardboard, and a paper.

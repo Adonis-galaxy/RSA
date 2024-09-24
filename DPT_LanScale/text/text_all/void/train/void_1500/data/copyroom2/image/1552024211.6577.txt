@@ -8,3 +8,8 @@ A printer on a table.
 A printer with a yellow paper on it, sitting on a green counter.
 A white printer with a yellow paper attached to it, sitting on a green counter.
 A white printer with a yellow paper attached to it, sitting on a green counter.
+An image with a wall, a cabinet, a light, a paper, and a floor.
+An image with a wall, a paper, a light, a floor, and a cabinet.
+An image with a light, a cabinet, a paper, a floor, and a wall.
+An image with a cabinet, a wall, a floor, a light, and a paper.
+An image with a light, a paper, a floor, a cabinet, and a wall.

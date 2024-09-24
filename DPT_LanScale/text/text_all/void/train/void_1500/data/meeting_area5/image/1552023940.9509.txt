@@ -8,3 +8,8 @@ A chair is visible in the image.
 The image shows a white desk with a green chair, positioned on a gray carpeted floor.
 The image shows a small white table with a green chair next to it, both sitting on a gray carpeted floor.
 The image shows a white desk with a green chair on a gray carpeted floor, with another green chair in the background.
+An image with a dining, two chairs, and a floor.
+An image with two chairs, a dining, and a floor.
+An image with a dining, a floor, and two chairs.
+An image with a floor, a dining, and two chairs.
+An image with a floor, a dining, and two chairs.

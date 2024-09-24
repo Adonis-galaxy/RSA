@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area with cars parked on both s
 A narrow street in a residential area, with parked cars and a red truck, under a clear sky.
 A narrow street in a residential area with parked cars and a truck, and buildings on both sides.
 A narrow street in a residential area with parked cars and a red truck.
+An image with a house, a sky, a pavement, eight cars, a road, a fence, a door, a truck, and a tree.
+An image with a road, a door, eight cars, a sky, a tree, a house, a fence, a pavement, and a truck.
+An image with eight cars, a truck, a sky, a tree, a road, a fence, a house, a pavement, and a door.
+An image with a house, eight cars, a tree, a road, a fence, a truck, a door, a pavement, and a sky.
+An image with a sky, a fence, eight cars, a pavement, a truck, a door, a house, a tree, and a road.

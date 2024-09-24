@@ -8,3 +8,8 @@ The image shows a narrow street between two houses, with a fence on the right si
 A quiet residential street, lined with houses and gardens, under a clear sky.
 The image shows a narrow street lined with houses and gardens, with a large lamp post visible in the background.
 A narrow, tree-lined street between two-story houses, with a sidewalk and a fence on the right side.
+An image with a house, a fence, a sky, a tree, a door, a potted, a road, and a pavement.
+An image with a potted, a fence, a road, a sky, a pavement, a house, a tree, and a door.
+An image with a fence, a road, a sky, a tree, a potted, a pavement, a door, and a house.
+An image with a road, a pavement, a fence, a door, a house, a potted, a sky, and a tree.
+An image with a road, a house, a sky, a tree, a door, a pavement, a fence, and a potted.

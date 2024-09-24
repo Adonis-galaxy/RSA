@@ -8,3 +8,8 @@ A colorful quilted bedspread.
 The image captures a cozy bedroom scene with a colorful quilted bedspread, a wooden nightstand with a lamp, and a bed with a headboard.
 The image shows a bed with a colorful quilt, two lamps on nightstands, a wooden dresser, and a black headboard.
 The image shows a bedroom with a colorful quilted bedspread, a wooden nightstand with a lamp, a red and white lamp, a black headboard, and a blue curtain.
+An image with a wall, six books, a window, a rug, a cabinet, a bed, a light, and a curtain.
+An image with six books, a cabinet, a window, a light, a curtain, a wall, a bed, and a rug.
+An image with a rug, a window, a bed, six books, a light, a cabinet, a curtain, and a wall.
+An image with a light, six books, a window, a cabinet, a bed, a curtain, a wall, and a rug.
+An image with a curtain, six books, a cabinet, a light, a bed, a rug, a wall, and a window.

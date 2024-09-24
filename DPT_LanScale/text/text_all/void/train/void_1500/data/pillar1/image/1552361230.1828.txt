@@ -8,3 +8,8 @@ A black and white checkerboard on the floor.
 A black and white checkerboard on the floor next to a roll of paper and a black object.
 The image shows a black and white checkerboard tile on the floor, a roll of paper towels, and a black and silver flashlight.
 The image shows a black and white checkered tile on the floor, a white cylindrical object to the left, and a black object with a silver tip to the right.
+An image with a floor, a door, a paper, and a wall.
+An image with a wall, a door, a paper, and a floor.
+An image with a paper, a floor, a door, and a wall.
+An image with a paper, a floor, a wall, and a door.
+An image with a floor, a door, a wall, and a paper.

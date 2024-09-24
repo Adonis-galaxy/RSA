@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building with garage doors
 A quiet residential street with parked cars and a white garage.
 The image shows a residential street with parked cars, a white garage, a sidewalk, and a fence.
 A quiet residential street with parked cars, a white garage, and a sidewalk.
+An image with five cars, a wall, a roof, a grass, a sky, a building, a road, a truck, a tree, and a pavement.
+An image with a roof, a sky, a wall, a truck, a road, five cars, a grass, a building, a pavement, and a tree.
+An image with a sky, a grass, a wall, a truck, a road, a pavement, a roof, five cars, a tree, and a building.
+An image with a building, five cars, a roof, a sky, a road, a tree, a pavement, a grass, a truck, and a wall.
+An image with five cars, a pavement, a sky, a grass, a truck, a wall, a roof, a building, a road, and a tree.

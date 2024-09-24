@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet suburban street, lined with trees and houses, with a car parked at the end and a motorcycle parked on the side.
 The image shows a tree-lined street with a car parked on the side, a house in the background, and a car driving down the road.
 A tree-lined street with a curved road, a car parked on the side, a fence, and a house in the background.
+An image with a wall, a roof, a house, a grass, a sky, a tree, three cars, a pavement, a fence, and a road.
+An image with a fence, a pavement, three cars, a house, a sky, a grass, a roof, a road, a tree, and a wall.
+An image with a pavement, a fence, three cars, a house, a wall, a road, a tree, a roof, a sky, and a grass.
+An image with a house, three cars, a grass, a road, a wall, a roof, a pavement, a fence, a sky, and a tree.
+An image with a pavement, a wall, three cars, a grass, a fence, a road, a sky, a house, a tree, and a roof.

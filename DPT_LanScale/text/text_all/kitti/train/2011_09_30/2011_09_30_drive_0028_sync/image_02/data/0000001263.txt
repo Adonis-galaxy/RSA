@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 A row of parked cars on a tree-lined street, with apartment buildings in the background.
 The image shows a narrow street lined with parked cars, with a row of houses on the right side, and a canopy of trees overhead.
 A row of parked cars on a tree-lined street, with apartment buildings in the background.
+An image with four cars, a sky, a pavement, a road, a house, a grass, and a tree.
+An image with a road, a pavement, four cars, a house, a tree, a sky, and a grass.
+An image with a house, a grass, four cars, a road, a sky, a pavement, and a tree.
+An image with four cars, a house, a road, a pavement, a grass, a tree, and a sky.
+An image with a tree, four cars, a sky, a house, a pavement, a grass, and a road.

@@ -8,3 +8,8 @@ A white table with two chairs in an office setting.
 A white table with two chairs in an office setting.
 A white table with two chairs, one of which is partially visible, in an office setting.
 A white table with two chairs in an office setting.
+An image with two chairs, a wall, a dining, a window, and a floor.
+An image with a window, two chairs, a dining, a wall, and a floor.
+An image with a dining, a wall, two chairs, a window, and a floor.
+An image with two chairs, a floor, a window, a dining, and a wall.
+An image with two chairs, a dining, a floor, a wall, and a window.

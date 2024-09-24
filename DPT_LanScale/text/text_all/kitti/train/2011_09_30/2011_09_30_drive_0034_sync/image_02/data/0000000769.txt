@@ -8,3 +8,8 @@ The image shows a street with a white line down the middle.
 The image captures a quiet, tree-lined street in a residential area, with a white van parked on the side, and a few cars and buildings in the background.
 The image shows a long, narrow street lined with trees and buildings, with a white van parked on the side.
 The image depicts a tree-lined street with parked cars, a sidewalk, and buildings on both sides, leading to a clear sky.
+An image with a grass, a tree, a pavement, a sky, a road, two cars, a wall, and a house.
+An image with a tree, a grass, a pavement, a house, two cars, a sky, a wall, and a road.
+An image with a wall, a grass, a road, a tree, two cars, a sky, a house, and a pavement.
+An image with a grass, a road, two cars, a tree, a sky, a house, a wall, and a pavement.
+An image with two cars, a road, a house, a wall, a sky, a grass, a pavement, and a tree.

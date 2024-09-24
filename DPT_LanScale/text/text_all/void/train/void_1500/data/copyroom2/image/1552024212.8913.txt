@@ -8,3 +8,8 @@ A cardboard box with a blue label.
 A cardboard box with a blue label is placed on top of a stack of boxes in a room with green walls.
 A cardboard box with a blue label is sitting on top of a stack of boxes.
 A cardboard box with a blue label is placed on top of a stack of boxes in a room with green walls.
+An image with a table, a ceiling, a cardboard, a paper, a light, and a wall.
+An image with a wall, a table, a ceiling, a paper, a light, and a cardboard.
+An image with a paper, a wall, a light, a cardboard, a ceiling, and a table.
+An image with a wall, a light, a table, a paper, a ceiling, and a cardboard.
+An image with a cardboard, a light, a paper, a wall, a ceiling, and a table.

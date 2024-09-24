@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street with parked cars.
 The image captures a serene residential street, lined with parked cars and trees, under a bright sunny day.
 The image shows a tree-lined street with parked cars, a sidewalk, and apartment buildings.
 A tree-lined street with parked cars and apartment buildings.
+An image with a sky, a grass, four cars, a road, a pavement, a house, and a tree.
+An image with a sky, four cars, a road, a tree, a grass, a pavement, and a house.
+An image with a grass, a pavement, four cars, a road, a tree, a sky, and a house.
+An image with four cars, a road, a tree, a sky, a pavement, a house, and a grass.
+An image with four cars, a grass, a pavement, a sky, a tree, a house, and a road.

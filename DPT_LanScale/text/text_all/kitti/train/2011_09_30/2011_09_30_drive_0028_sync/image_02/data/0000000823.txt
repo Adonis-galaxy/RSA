@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, lined with parked cars and trees, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and trees, with a large white car parked on the side.
 A narrow street lined with parked cars and trees, leading to a row of houses.
+An image with a road, seven cars, a tree, a house, a sky, and a pavement.
+An image with seven cars, a pavement, a house, a road, a tree, and a sky.
+An image with seven cars, a house, a tree, a sky, a pavement, and a road.
+An image with a pavement, a road, seven cars, a sky, a tree, and a house.
+An image with seven cars, a sky, a pavement, a tree, a house, and a road.

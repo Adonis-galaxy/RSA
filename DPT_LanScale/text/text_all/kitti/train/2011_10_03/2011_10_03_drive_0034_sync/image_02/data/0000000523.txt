@@ -8,3 +8,8 @@ The image shows a row of parked cars on a street.
 A row of parked cars on a tree-lined street, with a mix of colors and models, under a clear sky.
 A row of parked cars on a narrow street, with a mix of colors and models, including a large black SUV and a small red car.
 A row of parked cars on a tree-lined street.
+An image with a building, nine cars, a tree, a road, and a pavement.
+An image with a pavement, nine cars, a tree, a road, and a building.
+An image with nine cars, a road, a building, a pavement, and a tree.
+An image with nine cars, a building, a pavement, a tree, and a road.
+An image with nine cars, a tree, a building, a pavement, and a road.

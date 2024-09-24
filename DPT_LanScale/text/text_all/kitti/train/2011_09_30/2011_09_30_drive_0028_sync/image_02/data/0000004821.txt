@@ -8,3 +8,8 @@ A person walking on a street.
 A person walking on a street between two buildings, with a red car parked on the side of the road.
 A person is walking across a street in a residential area, with a red car parked on the side of the road and apartment buildings in the background.
 A person is walking on a street in a residential area with apartment buildings, a red car parked on the side of the road, and a roundabout.
+An image with a building, a person, a stop, a road, a car, a sky, a pavement, and a tree.
+An image with a person, a stop, a sky, a road, a building, a pavement, a tree, and a car.
+An image with a tree, a person, a sky, a car, a stop, a road, a pavement, and a building.
+An image with a car, a pavement, a person, a building, a stop, a sky, a road, and a tree.
+An image with a pavement, a person, a car, a road, a stop, a building, a tree, and a sky.

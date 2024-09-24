@@ -8,3 +8,8 @@ The image is a photograph of a narrow street lined with parked cars.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a row of houses with garages in the background, under a clear blue sky.
 The image shows a narrow street lined with parked cars and white buildings, with a few larger vehicles and a notable absence of people.
 A narrow street lined with parked cars and white buildings, leading to a dead-end.
+An image with nine cars, a roof, a road, a truck, a house, a pavement, a wall, and a tree.
+An image with nine cars, a pavement, a road, a tree, a house, a wall, a roof, and a truck.
+An image with nine cars, a truck, a pavement, a house, a roof, a road, a wall, and a tree.
+An image with nine cars, a pavement, a truck, a house, a wall, a roof, a tree, and a road.
+An image with nine cars, a tree, a pavement, a truck, a road, a wall, a house, and a roof.

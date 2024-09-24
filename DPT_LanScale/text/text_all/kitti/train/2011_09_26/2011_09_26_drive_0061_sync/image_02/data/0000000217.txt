@@ -8,3 +8,8 @@ The image shows a street view with parked cars and houses.
 The image captures a serene residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a white canopy providing shade.
 A narrow, tree-lined street with parked cars and apartment buildings on both sides, leading to a covered parking area.
+An image with a roof, a sky, seven cars, a fence, a pavement, a road, a door, a house, a wall, and a tree.
+An image with seven cars, a roof, a tree, a fence, a pavement, a house, a wall, a road, a sky, and a door.
+An image with a fence, seven cars, a house, a pavement, a wall, a sky, a door, a tree, a road, and a roof.
+An image with a road, a door, a house, seven cars, a pavement, a tree, a wall, a sky, a roof, and a fence.
+An image with seven cars, a tree, a road, a door, a house, a fence, a sky, a roof, a pavement, and a wall.

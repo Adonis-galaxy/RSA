@@ -8,3 +8,8 @@ A printer is sitting on a table.
 The image shows a printer on a green wall, with a desk and a lamp in the foreground.
 The image shows a white printer on a green wall, with a green countertop to the left.
 The image shows a white printer on a green wall, with a desk and a lamp in the foreground.
+An image with a oven, a light, a table, and a wall.
+An image with a table, a wall, a light, and a oven.
+An image with a light, a table, a oven, and a wall.
+An image with a light, a oven, a table, and a wall.
+An image with a table, a oven, a light, and a wall.

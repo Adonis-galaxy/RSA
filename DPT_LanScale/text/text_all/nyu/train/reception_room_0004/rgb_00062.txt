@@ -8,3 +8,8 @@ A group of chairs around a table.
 A set of four matching chairs surround a round table, creating a cozy and inviting seating arrangement.
 A group of six chairs with a round table in the center, arranged around a round table.
 A group of six chairs with a round table in the center, arranged in a hexagonal pattern, with a decorative wall and a window in the background.
+An image with four chairs, two walls, a potted, a window, a dining, and a floor.
+An image with four chairs, two walls, a floor, a window, a dining, and a potted.
+An image with four chairs, two walls, a dining, a potted, a window, and a floor.
+An image with a window, four chairs, a potted, two walls, a dining, and a floor.
+An image with a window, two walls, four chairs, a potted, a floor, and a dining.

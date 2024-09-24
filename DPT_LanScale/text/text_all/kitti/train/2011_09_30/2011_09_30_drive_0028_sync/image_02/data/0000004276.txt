@@ -8,3 +8,8 @@ A green car parked on a street.
 A narrow, tree-lined street with parked cars and a lone pedestrian, leading to a residential area.
 A narrow, tree-lined street with parked cars and a lone green car driving down it.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a white building with a green hedge.
+An image with a house, a road, a pavement, a wall, four cars, a tree, and a sky.
+An image with a road, a tree, a pavement, four cars, a house, a sky, and a wall.
+An image with a tree, a sky, a wall, four cars, a road, a pavement, and a house.
+An image with a pavement, a wall, four cars, a tree, a sky, a house, and a road.
+An image with a road, four cars, a wall, a tree, a pavement, a house, and a sky.

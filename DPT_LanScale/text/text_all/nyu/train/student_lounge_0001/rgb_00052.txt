@@ -8,3 +8,8 @@ A black and white ping pong table.
 The image captures a well-lit room with a ping pong table in the center, surrounded by chairs and a bookshelf.
 A large blue ping pong table is in the center of a room with a whiteboard and bookshelves.
 The image shows a room with a ping pong table in the center, surrounded by chairs and a bookshelf.
+An image with a curtain, two chairs, a floor, a window, a paper, a table, and a shelf.
+An image with a floor, two chairs, a window, a shelf, a curtain, a table, and a paper.
+An image with a window, a floor, a paper, two chairs, a table, a shelf, and a curtain.
+An image with two chairs, a floor, a window, a table, a shelf, a paper, and a curtain.
+An image with a paper, a table, a shelf, two chairs, a curtain, a floor, and a window.

@@ -8,3 +8,8 @@ A car parked on a street.
 A quiet residential street, with a parked car on the side of the road, leading to a house with a garden.
 A small car is parked on a narrow street between two houses, with a sidewalk and a brick pathway visible.
 A narrow, tree-lined street leads to a house with a garage, where a car is parked.
+An image with a door, a roof, a car, a pavement, a stairs, a grass, a road, a sky, and a tree.
+An image with a door, a car, a pavement, a tree, a sky, a grass, a roof, a stairs, and a road.
+An image with a tree, a car, a pavement, a road, a stairs, a door, a grass, a sky, and a roof.
+An image with a tree, a roof, a car, a door, a pavement, a road, a grass, a stairs, and a sky.
+An image with a tree, a grass, a stairs, a pavement, a sky, a road, a door, a car, and a roof.

@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a wooden railing in the foreground.
 The image shows a small model of a building, which is placed on a table.
 The image shows a model of a building, possibly a school, with a red roof, situated on a gray floor, with a wooden railing in the foreground.
+An image with a building, a ceiling, a wall, and a floor.
+An image with a building, a wall, a ceiling, and a floor.
+An image with a building, a floor, a wall, and a ceiling.
+An image with a ceiling, a wall, a building, and a floor.
+An image with a wall, a ceiling, a building, and a floor.

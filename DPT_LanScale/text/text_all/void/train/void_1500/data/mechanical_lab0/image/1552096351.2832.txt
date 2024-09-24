@@ -8,3 +8,8 @@ A black dell computer on a white table.
 A black desktop computer on a white table.
 A black desktop computer on a white table.
 A black desktop computer on a white table with various cables and a yellow pad.
+An image with a wall, a floor, three chairs, a table, a mouse, a keyboard, and a tv.
+An image with a keyboard, three chairs, a tv, a table, a mouse, a wall, and a floor.
+An image with a floor, three chairs, a mouse, a tv, a wall, a keyboard, and a table.
+An image with a floor, a tv, three chairs, a mouse, a table, a keyboard, and a wall.
+An image with three chairs, a tv, a floor, a keyboard, a mouse, a table, and a wall.

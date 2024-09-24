@@ -8,3 +8,8 @@ A projector on a cart.
 A black podium with a speaker on top, placed in a classroom setting.
 A large black projector on a stand in a room with rows of chairs.
 The image shows a classroom setting with a podium in the foreground and rows of chairs in the background.
+An image with six chairs, a oven, a wall, and a floor.
+An image with six chairs, a oven, a floor, and a wall.
+An image with six chairs, a wall, a oven, and a floor.
+An image with a wall, six chairs, a floor, and a oven.
+An image with six chairs, a floor, a oven, and a wall.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and bushes.
 A narrow, tree-lined street with parked cars and a clear sky.
 The image shows a narrow, tree-lined street with a parked car on the left side, a sidewalk on the right, and a clear sky overhead.
 A narrow, tree-lined street with parked cars and a clear sky.
+An image with a tree, a wall, a car, a road, and a sky.
+An image with a car, a sky, a wall, a road, and a tree.
+An image with a sky, a road, a tree, a car, and a wall.
+An image with a car, a road, a wall, a sky, and a tree.
+An image with a tree, a wall, a road, a sky, and a car.

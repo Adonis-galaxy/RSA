@@ -8,3 +8,8 @@ The image shows a street with cars and trees.
 The image captures a quiet, tree-lined street with a few cars, a bicycle path, and a clear blue sky.
 The image shows a wide, tree-lined street with a few cars, a bicycle lane, and a pedestrian crossing.
 The image depicts a wide, tree-lined street with a clear sky, a few cars, and a bicycle lane.
+An image with three cars, a wall, a house, a railroad, a grass, a sky, a bus, a road, and a tree.
+An image with a house, three cars, a bus, a sky, a road, a grass, a tree, a wall, and a railroad.
+An image with three cars, a wall, a sky, a railroad, a grass, a house, a tree, a bus, and a road.
+An image with three cars, a house, a bus, a wall, a railroad, a grass, a sky, a tree, and a road.
+An image with three cars, a wall, a railroad, a bus, a road, a grass, a sky, a house, and a tree.

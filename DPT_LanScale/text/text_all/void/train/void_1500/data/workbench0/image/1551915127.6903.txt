@@ -8,3 +8,8 @@ A pair of sneakers on the floor.
 A pair of shoes on the floor next to a desk with a computer and a box.
 A small office cubicle with a desk, chair, and a box on a blue cushion.
 A computer desk with a monitor, keyboard, and mouse, with a blue cushion on a filing cabinet, and a pair of sneakers on the floor.
+An image with a wall, three tvs, a keyboard, four chairs, a cabinet, a table, a floor, a mouse, a window, a cardboard, and a towel.
+An image with a floor, a cardboard, four chairs, a towel, a keyboard, a table, three tvs, a window, a cabinet, a mouse, and a wall.
+An image with a keyboard, a wall, four chairs, a mouse, a cabinet, three tvs, a cardboard, a table, a towel, a floor, and a window.
+An image with a mouse, a cabinet, four chairs, a towel, a cardboard, a floor, a wall, a keyboard, three tvs, a window, and a table.
+An image with three tvs, four chairs, a mouse, a cardboard, a keyboard, a floor, a window, a towel, a table, a cabinet, and a wall.

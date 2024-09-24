@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded street between buildings, with a parked car and a person on the sidewalk.
 A narrow, shaded street between two buildings, with a parked car and a person visible.
 A narrow, tree-lined alleyway between two buildings, with a parked car and a person visible.
+An image with a tree, a road, a sky, a building, a car, and a pavement.
+An image with a road, a car, a pavement, a sky, a tree, and a building.
+An image with a building, a tree, a car, a pavement, a sky, and a road.
+An image with a car, a road, a building, a tree, a sky, and a pavement.
+An image with a tree, a car, a road, a sky, a pavement, and a building.

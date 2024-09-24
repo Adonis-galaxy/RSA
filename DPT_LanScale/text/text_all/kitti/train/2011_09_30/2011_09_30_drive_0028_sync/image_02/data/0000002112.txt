@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, trees, and a playground.
 The image captures a serene suburban street scene, with a parked car, a tree, a sidewalk, and a playground, all under a clear blue sky.
 The image shows a tree-lined street with parked cars, a sidewalk, and a playground with a large blue structure.
 The image shows a suburban street with a parked car, a sidewalk, a tree, a parked trailer, and a playground in the background.
+An image with two cars, a tree, a grass, a road, a sky, and a pavement.
+An image with a road, two cars, a pavement, a grass, a sky, and a tree.
+An image with a grass, two cars, a pavement, a sky, a tree, and a road.
+An image with a sky, a road, a pavement, two cars, a tree, and a grass.
+An image with a tree, a road, a sky, a pavement, a grass, and two cars.

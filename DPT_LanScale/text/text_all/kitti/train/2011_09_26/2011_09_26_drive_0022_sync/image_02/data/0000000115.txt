@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, lined with houses and a f
 A quiet residential street with parked cars and a lush green canopy overhead.
 The image shows a narrow street lined with parked cars and white fences, with a large truck parked on the right side.
 A narrow, tree-lined street with parked cars and garages on both sides, leading to a residential area.
+An image with seven cars, a sky, two trucks, a wall, a fence, a tree, a road, a pavement, and a house.
+An image with a pavement, two trucks, seven cars, a house, a fence, a sky, a tree, a wall, and a road.
+An image with a tree, two trucks, seven cars, a fence, a pavement, a house, a road, a wall, and a sky.
+An image with a wall, a tree, a sky, a fence, a road, seven cars, two trucks, a pavement, and a house.
+An image with a pavement, two trucks, a road, seven cars, a sky, a tree, a fence, a wall, and a house.

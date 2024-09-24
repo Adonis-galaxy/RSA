@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quaint, narrow street in a residential area, lined with parked cars and featuring a mix of old and new vehicles, with a classic Beetle and a modern blue car parked side by side, reflecting the passage of time and the blend of old and new in the neighborhood.
 The image shows a narrow street lined with parked cars, including a Volkswagen Beetle, and buildings on both sides.
 A narrow street in a residential area with parked cars and apartment buildings.
+An image with a tree, a sky, twelve cars, a wall, three trucks, a pavement, a road, and a house.
+An image with twelve cars, a pavement, a tree, a road, three trucks, a wall, a sky, and a house.
+An image with three trucks, twelve cars, a house, a wall, a road, a sky, a tree, and a pavement.
+An image with a pavement, twelve cars, a house, three trucks, a tree, a road, a sky, and a wall.
+An image with a wall, twelve cars, a road, a house, three trucks, a sky, a pavement, and a tree.

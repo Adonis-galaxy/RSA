@@ -8,3 +8,8 @@ The image shows a room with a wall-mounted painting and a framed picture on the 
 The image captures a room with a wall-mounted painting, two framed pictures, a glass table with four chairs, and a doorway leading to another room.
 The image shows a room with a large painting on the wall, two smaller paintings, a glass table with four chairs, and a doorway leading to another room.
 The image shows a room with a wall-mounted painting, two framed pictures, a glass table with four chairs, and a doorway leading to another room.
+An image with six chairs, a floor, a wall, two people, and a dining.
+An image with six chairs, a floor, a wall, a dining, and two people.
+An image with six chairs, a wall, a floor, two people, and a dining.
+An image with a wall, six chairs, two people, a dining, and a floor.
+An image with six chairs, a floor, a dining, a wall, and two people.

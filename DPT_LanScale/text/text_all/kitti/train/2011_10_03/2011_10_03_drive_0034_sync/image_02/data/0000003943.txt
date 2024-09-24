@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with parked cars, leading to a building with a clear view of the sky.
 The image shows a tree-lined street with parked cars, a sidewalk, and a building on the left side. The street is lined with trees and bushes, and it appears to be a sunny day.
 A tree-lined street with parked cars and a sidewalk, leading to a building in the distance.
+An image with five cars, a pavement, a tree, a wall, a house, a road, and a sky.
+An image with a house, a sky, five cars, a tree, a wall, a pavement, and a road.
+An image with a wall, a house, five cars, a road, a tree, a pavement, and a sky.
+An image with a road, a wall, five cars, a pavement, a tree, a sky, and a house.
+An image with a pavement, a road, five cars, a wall, a tree, a sky, and a house.

@@ -8,3 +8,8 @@ A white van parked on the side of a street.
 A white van parked on the side of a tree-lined street, with a clear sky overhead and a building in the background.
 A large white truck is driving down a narrow, tree-lined street between two-story buildings.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with a car, a sky, a tree, a pavement, two walls, a road, a truck, and a house.
+An image with a truck, two walls, a pavement, a sky, a tree, a car, a road, and a house.
+An image with two walls, a pavement, a car, a sky, a tree, a truck, a house, and a road.
+An image with two walls, a sky, a house, a car, a truck, a pavement, a tree, and a road.
+An image with two walls, a car, a sky, a pavement, a house, a truck, a tree, and a road.

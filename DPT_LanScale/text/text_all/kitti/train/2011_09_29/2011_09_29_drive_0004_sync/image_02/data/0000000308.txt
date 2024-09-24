@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars driving on it.
 A busy highway with a mix of vehicles, surrounded by a lush green forest.
 A busy highway with multiple cars, surrounded by trees and a clear sky.
 A busy highway with multiple lanes of traffic, surrounded by a lush green forest.
+An image with a tree, a person, a grass, a sky, a pavement, a road, and seven cars.
+An image with seven cars, a pavement, a person, a tree, a grass, a road, and a sky.
+An image with seven cars, a grass, a sky, a person, a tree, a road, and a pavement.
+An image with seven cars, a person, a pavement, a grass, a road, a sky, and a tree.
+An image with seven cars, a pavement, a grass, a sky, a road, a person, and a tree.

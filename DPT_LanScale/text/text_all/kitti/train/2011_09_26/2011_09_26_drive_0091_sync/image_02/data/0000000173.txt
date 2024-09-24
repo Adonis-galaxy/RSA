@@ -8,3 +8,8 @@ The image shows a narrow street in a city, with buildings on both sides, a train
 The image captures a quaint, narrow street in a European town, where the old-world charm of the buildings and the vibrant life of the street intersect.
 A narrow street with a train track running down the middle, lined with shops and pedestrians, and a bicycle rider.
 A narrow, cobblestone street runs between two-story buildings, with a train track in the middle, flanked by shops and pedestrians.
+An image with three bicycles, nine people, two potteds, two umbrellas, a railroad, a traffic, a building, a pavement, and a tree.
+An image with nine people, two potteds, a pavement, three bicycles, a tree, a building, a railroad, two umbrellas, and a traffic.
+An image with a traffic, a pavement, nine people, two potteds, two umbrellas, a building, three bicycles, a tree, and a railroad.
+An image with two potteds, nine people, three bicycles, a pavement, a railroad, a building, a tree, two umbrellas, and a traffic.
+An image with nine people, two umbrellas, a tree, two potteds, a traffic, a building, three bicycles, a pavement, and a railroad.

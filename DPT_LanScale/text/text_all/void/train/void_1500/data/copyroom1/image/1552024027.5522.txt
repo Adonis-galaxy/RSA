@@ -8,3 +8,8 @@ The image shows a computer printer on a desk.
 The image shows a workspace with two printers, one on the left and one on the right, sitting on a desk with a computer monitor in the middle.
 The image shows a white desk with two computer printers, one larger and one smaller, sitting on it.
 The image shows a workspace with two printers, one on each side of a desk, and a computer monitor in the middle.
+An image with a table, a light, a paper, and a wall.
+An image with a wall, a light, a paper, and a table.
+An image with a wall, a paper, a table, and a light.
+An image with a paper, a light, a wall, and a table.
+An image with a paper, a table, a wall, and a light.

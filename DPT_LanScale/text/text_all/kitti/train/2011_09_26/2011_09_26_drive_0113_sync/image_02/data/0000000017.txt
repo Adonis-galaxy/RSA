@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist rides past a parked blue car on a shaded street, with trees and a building in the background.
 A person riding a bicycle on a street next to a blue car.
 A person riding a bicycle on a street with parked cars and a yellow building in the background.
+An image with a rock, a tree, three cars, a road, a house, a person, and a bicycle.
+An image with a tree, a house, three cars, a bicycle, a rock, a person, and a road.
+An image with a tree, three cars, a road, a bicycle, a rock, a person, and a house.
+An image with a rock, a tree, a bicycle, a person, three cars, a road, and a house.
+An image with a house, a road, three cars, a bicycle, a tree, a rock, and a person.

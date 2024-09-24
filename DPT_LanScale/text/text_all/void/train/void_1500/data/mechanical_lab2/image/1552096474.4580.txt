@@ -8,3 +8,8 @@ The image shows a laboratory setting with various pieces of equipment, including
 The image shows a laboratory setting with various pieces of equipment, including a whiteboard, a metal shelf, a blue cart, and a desk with a lamp and a computer monitor.
 The image shows a laboratory setting with a large blue metal structure, a white countertop, a metal sink, and a metal shelf with various pieces of equipment.
 The image shows a laboratory setting with a white countertop, a blue metal shelf, a white metal shelf, a blue backpack, a white metal shelf with a clear plastic container, a white metal shelf with a clear plastic container, a white metal shelf with a clear plastic container, a white metal shelf with a clear plastic container, a white metal shelf with a clear plastic container, a white metal shelf with a clear plastic container, a white metal shelf with a clear plastic container, a white metal shelf
+An image with a floor, a counter, a backpack, two windows, a sink, a cabinet, and a wall.
+An image with a counter, a backpack, a cabinet, a wall, two windows, a floor, and a sink.
+An image with a counter, a floor, two windows, a cabinet, a sink, a wall, and a backpack.
+An image with a sink, a cabinet, a wall, a backpack, two windows, a counter, and a floor.
+An image with a cabinet, a wall, a backpack, two windows, a sink, a counter, and a floor.

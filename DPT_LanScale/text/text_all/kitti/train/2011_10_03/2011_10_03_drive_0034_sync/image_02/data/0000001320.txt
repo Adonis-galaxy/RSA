@@ -8,3 +8,8 @@ The image shows a tree-lined street with a pattern of circles and lines on the p
 A tree-lined street with a path that meanders through a residential area, featuring a series of circular patterns on the pavement.
 The image shows a narrow, tree-lined road with a sidewalk, leading to a white house with a gray roof. The road is lined with trees and bushes, and there are circular patterns on the road.
 A tree-lined street with a curved path, bordered by a sidewalk and a grassy area, leads to a residential area with houses and a fence.
+An image with a tree, a pavement, a sky, a mountain, and a road.
+An image with a sky, a pavement, a road, a tree, and a mountain.
+An image with a road, a sky, a mountain, a tree, and a pavement.
+An image with a sky, a pavement, a road, a mountain, and a tree.
+An image with a sky, a tree, a mountain, a road, and a pavement.

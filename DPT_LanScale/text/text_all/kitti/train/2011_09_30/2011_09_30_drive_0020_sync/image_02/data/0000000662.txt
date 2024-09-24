@@ -8,3 +8,8 @@ The image shows a street scene with a white trailer parked on the side of the ro
 A white trailer parked on a street, with a car and a house in the background, under a clear blue sky.
 A small white car is parked on the side of a narrow street, with a large white trailer attached to it.
 A quiet residential street with a white car parked on the side, a white trailer attached to a white car, and a white house with a red door in the background.
+An image with a stop, a roof, two cars, a road, a pavement, a grass, a truck, a tree, a sky, and a house.
+An image with a tree, a stop, two cars, a truck, a grass, a pavement, a road, a sky, a house, and a roof.
+An image with a road, a sky, a stop, a house, two cars, a pavement, a grass, a truck, a roof, and a tree.
+An image with a truck, a house, a road, a roof, a stop, two cars, a pavement, a sky, a grass, and a tree.
+An image with two cars, a roof, a sky, a grass, a tree, a stop, a road, a house, a pavement, and a truck.

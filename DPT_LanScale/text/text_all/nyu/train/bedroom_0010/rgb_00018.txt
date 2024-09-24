@@ -8,3 +8,8 @@ A large abstract painting on a wall.
 The image captures a cozy living room scene, featuring a comfortable couch, a large abstract painting on the wall, a window with blinds, and a lamp providing warm light.
 A large, colorful abstract painting hangs on a wall above a couch, with a window and a lamp nearby.
 The image shows a living room with a large abstract painting on the wall, a couch, a lamp, a window with blinds, and a potted plant.
+An image with a table, a potted, two books, a wall, two windows, a door, a ceiling, and a couch.
+An image with a potted, two windows, two books, a ceiling, a table, a wall, a door, and a couch.
+An image with a potted, two windows, a ceiling, two books, a door, a wall, a couch, and a table.
+An image with two books, a wall, a couch, a potted, two windows, a ceiling, a table, and a door.
+An image with two books, a table, two windows, a couch, a ceiling, a potted, a door, and a wall.

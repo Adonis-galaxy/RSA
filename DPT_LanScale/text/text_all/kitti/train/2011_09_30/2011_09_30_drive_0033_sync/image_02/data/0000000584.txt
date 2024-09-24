@@ -8,3 +8,8 @@ The image shows a street scene with parked vehicles.
 The image captures a quiet residential street scene, with parked vehicles and a clear sky, reflecting a peaceful day in a suburban neighborhood.
 A narrow street lined with parked cars and trees, with a red van parked on the right side.
 A narrow street in a residential area with parked vehicles and a clear sky.
+An image with a house, a road, four cars, a tree, a truck, a pavement, a wall, and a sky.
+An image with four cars, a road, a truck, a house, a tree, a pavement, a wall, and a sky.
+An image with a tree, four cars, a house, a sky, a truck, a pavement, a road, and a wall.
+An image with a road, four cars, a tree, a pavement, a sky, a house, a wall, and a truck.
+An image with four cars, a wall, a pavement, a road, a sky, a tree, a truck, and a house.

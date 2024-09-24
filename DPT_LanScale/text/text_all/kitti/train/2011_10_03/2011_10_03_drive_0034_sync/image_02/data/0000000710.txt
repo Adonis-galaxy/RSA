@@ -8,3 +8,8 @@ The image shows a quiet street with a motorcycle parked on the side.
 A quiet residential street, lined with parked vehicles and a clear sky overhead.
 A narrow, tree-lined street with parked motorcycles and a car, leading to a building with a flat roof.
 A quiet residential street with parked vehicles and a clear sky.
+An image with a car, a tree, a road, a wall, a truck, a motorcycle, a roof, a pavement, and a sky.
+An image with a car, a road, a wall, a tree, a motorcycle, a truck, a roof, a sky, and a pavement.
+An image with a car, a pavement, a truck, a tree, a road, a motorcycle, a roof, a sky, and a wall.
+An image with a car, a wall, a truck, a tree, a motorcycle, a road, a sky, a roof, and a pavement.
+An image with a car, a sky, a pavement, a motorcycle, a truck, a road, a wall, a tree, and a roof.

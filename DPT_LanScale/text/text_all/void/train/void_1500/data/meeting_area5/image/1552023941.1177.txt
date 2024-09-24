@@ -8,3 +8,8 @@ The image shows a white table with a chair in a room with a gray floor.
 The image shows a white table with a chair in a room with a gray floor.
 The image shows a white table with a chair in the foreground, and another chair in the background.
 The image shows a white table with a chair on a gray floor, with another chair and table in the background.
+An image with a dining, three chairs, and a floor.
+An image with three chairs, a dining, and a floor.
+An image with a dining, a floor, and three chairs.
+An image with three chairs, a floor, and a dining.
+An image with a dining, a floor, and three chairs.

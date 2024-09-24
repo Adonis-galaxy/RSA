@@ -8,3 +8,8 @@ A car on a street.
 A silver car is driving on a tree-lined street, passing a blue sign with a white arrow pointing to the right.
 A silver car is driving down a tree-lined street, passing a blue sign and a white sign.
 A car is driving on a curvy road with trees on both sides, and there are signs and a blue street sign indicating a street name.
+An image with a pavement, a tree, a car, a sky, a grass, and a road.
+An image with a road, a sky, a car, a grass, a tree, and a pavement.
+An image with a car, a tree, a pavement, a grass, a road, and a sky.
+An image with a grass, a car, a tree, a sky, a pavement, and a road.
+An image with a grass, a pavement, a road, a sky, a tree, and a car.

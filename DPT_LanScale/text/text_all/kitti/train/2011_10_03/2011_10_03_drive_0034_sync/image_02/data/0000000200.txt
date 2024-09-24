@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white house and apartment buildings i
 A quiet residential street, lined with trees and houses, under a clear blue sky.
 A tree-lined street in a residential area, with a car parked on the side and a person walking on the sidewalk.
 A tree-lined street in a residential area, with a clear view of a white house and apartment buildings.
+An image with a road, a house, a grass, a pavement, a sky, and a tree.
+An image with a tree, a grass, a pavement, a road, a sky, and a house.
+An image with a tree, a pavement, a grass, a sky, a road, and a house.
+An image with a grass, a tree, a road, a house, a sky, and a pavement.
+An image with a grass, a pavement, a sky, a house, a tree, and a road.

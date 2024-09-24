@@ -8,3 +8,8 @@ A white table with a light shining on it.
 The image captures a dimly lit dining room with a table and chairs, highlighting the contrast between the brightly lit tabletop and the darker surroundings.
 The image shows a room with a long white table and four chairs, with a focus on the table's surface.
 The image shows a room with a long table and four chairs, illuminated by a single light source.
+An image with two dinings, a floor, a wall, and four chairs.
+An image with two dinings, four chairs, a wall, and a floor.
+An image with a floor, four chairs, a wall, and two dinings.
+An image with two dinings, a floor, four chairs, and a wall.
+An image with four chairs, two dinings, a floor, and a wall.

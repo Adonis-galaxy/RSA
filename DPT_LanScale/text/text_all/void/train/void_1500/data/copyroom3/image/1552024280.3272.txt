@@ -8,3 +8,8 @@ The image shows a blue kitchen cabinet.
 The image shows a narrow hallway with a blue wall, a white door, and a blue counter.
 The image shows a narrow hallway with a blue wall, a white door, and a blue counter.
 The image shows a narrow hallway with a blue wall on the right, a white wall on the left, and a blue countertop on the right side of the hallway.
+An image with a cabinet, a floor, a refrigerator, a wall, and a light.
+An image with a cabinet, a light, a wall, a floor, and a refrigerator.
+An image with a floor, a cabinet, a wall, a light, and a refrigerator.
+An image with a refrigerator, a cabinet, a wall, a light, and a floor.
+An image with a cabinet, a wall, a floor, a refrigerator, and a light.

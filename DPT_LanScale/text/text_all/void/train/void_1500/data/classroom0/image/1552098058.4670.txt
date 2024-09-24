@@ -8,3 +8,8 @@ A printer on a table.
 A computer monitor on a table in a room.
 The image shows a small table with a printer on it, placed in a corner of a room with a whiteboard and a chair.
 The image shows a room with a desk and a chair, and a printer on top of the desk.
+An image with two chairs, a wall, a sink, a tv, a table, and a floor.
+An image with a tv, a wall, two chairs, a table, a floor, and a sink.
+An image with a wall, a table, a floor, a sink, two chairs, and a tv.
+An image with two chairs, a floor, a tv, a sink, a table, and a wall.
+An image with two chairs, a table, a tv, a floor, a sink, and a wall.

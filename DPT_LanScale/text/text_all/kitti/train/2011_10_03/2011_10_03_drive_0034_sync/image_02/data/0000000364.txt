@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A black van parked on a tree-lined street, with other cars parked behind it, under a clear blue sky.
 A black van is parked on the side of a narrow street, with a few cars parked behind it, and a white wall on the right side.
 A narrow street lined with parked cars and a stone wall, with trees and a clear sky overhead.
+An image with a road, a tree, a wall, a grass, a sky, a pavement, three cars, and a house.
+An image with a house, a sky, three cars, a wall, a tree, a road, a grass, and a pavement.
+An image with a sky, a house, a pavement, three cars, a tree, a grass, a wall, and a road.
+An image with three cars, a road, a tree, a sky, a grass, a wall, a pavement, and a house.
+An image with a tree, three cars, a road, a grass, a pavement, a wall, a sky, and a house.

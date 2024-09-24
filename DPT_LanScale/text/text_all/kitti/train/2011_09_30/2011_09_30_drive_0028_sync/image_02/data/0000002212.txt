@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area.
 The image captures a quiet residential street, with parked cars lining the sides of the road, leading to a cul-de-sac at the end, where a few cars are parked in front of a row of houses.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 A narrow, tree-lined street in a residential area, with parked cars and a clear sky overhead.
+An image with nine cars, a person, a grass, a road, a pavement, a house, and a tree.
+An image with nine cars, a road, a house, a grass, a tree, a person, and a pavement.
+An image with nine cars, a tree, a grass, a road, a house, a person, and a pavement.
+An image with a house, nine cars, a tree, a road, a person, a pavement, and a grass.
+An image with a house, a grass, nine cars, a person, a road, a pavement, and a tree.

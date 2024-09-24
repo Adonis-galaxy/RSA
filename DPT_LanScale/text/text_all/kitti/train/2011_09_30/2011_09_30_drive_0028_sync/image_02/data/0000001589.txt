@@ -8,3 +8,8 @@ The image shows a street scene with a white car parked on the side of the road.
 The image captures a quiet residential street scene with a few parked cars, a sidewalk, and a house with a garden.
 The image shows a residential street with a few parked cars, a sidewalk, and a large house with a white facade and blue shutters.
 The image shows a residential street with parked cars, a curved sidewalk, and a two-story house with a white facade and blue shutters.
+An image with six cars, a road, a tree, a sky, a grass, a pavement, and a house.
+An image with a house, a pavement, six cars, a grass, a sky, a road, and a tree.
+An image with six cars, a sky, a tree, a house, a pavement, a grass, and a road.
+An image with a house, six cars, a tree, a sky, a grass, a road, and a pavement.
+An image with six cars, a tree, a sky, a grass, a house, a pavement, and a road.

@@ -8,3 +8,8 @@ A man is standing in front of a computer monitor.
 A man is standing in front of a computer desk with a vision sign on it.
 A man is standing in front of a computer desk with a vision sign, a black computer monitor, a blue box, and a white sign.
 A man is standing in front of a computer desk with a vision sign, a blue box, and a black box on it.
+An image with a tv, a window, a table, three chairs, a cardboard, a person, a paper, and a wall.
+An image with a window, three chairs, a tv, a paper, a person, a wall, a table, and a cardboard.
+An image with a person, a table, three chairs, a window, a wall, a cardboard, a paper, and a tv.
+An image with a person, a wall, a cardboard, a table, a paper, a window, three chairs, and a tv.
+An image with a tv, a cardboard, a person, three chairs, a paper, a window, a wall, and a table.

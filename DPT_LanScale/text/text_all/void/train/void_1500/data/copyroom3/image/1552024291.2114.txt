@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a box on it.
 The image shows a kitchen with a blue countertop and a white wall, featuring a brown box on the countertop.
 The image shows a small kitchen with blue cabinets and a countertop, featuring a white light fixture and a brown cardboard box.
 The image shows a kitchen with a blue countertop, a white wall, and a brown cabinet.
+An image with a cabinet, a light, a wall, a floor, and a cardboard.
+An image with a floor, a wall, a cardboard, a cabinet, and a light.
+An image with a cabinet, a light, a wall, a cardboard, and a floor.
+An image with a cabinet, a cardboard, a floor, a light, and a wall.
+An image with a wall, a cabinet, a cardboard, a light, and a floor.

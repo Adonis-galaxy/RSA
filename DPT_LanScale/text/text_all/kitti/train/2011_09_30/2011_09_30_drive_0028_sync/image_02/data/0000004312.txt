@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 A silver minivan driving down a tree-lined street, with other vehicles parked along the side.
 A long, narrow road lined with trees and parked cars, with a silver van driving down it.
 A tree-lined road with parked cars and a van driving down it.
+An image with eight cars, a tree, a road, a person, and a pavement.
+An image with a road, eight cars, a person, a tree, and a pavement.
+An image with a tree, eight cars, a person, a pavement, and a road.
+An image with eight cars, a road, a tree, a pavement, and a person.
+An image with eight cars, a person, a tree, a road, and a pavement.

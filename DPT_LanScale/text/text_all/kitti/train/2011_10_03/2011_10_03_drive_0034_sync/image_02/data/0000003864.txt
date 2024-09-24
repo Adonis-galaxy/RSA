@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a bicycle.
 A quiet residential street, with parked cars and a bicycle, under a clear sky.
 The image shows a narrow street with parked cars, a bicycle, and a sidewalk, with a large hedge on the left side and a clear sky above.
 A quiet residential street with parked cars and a clear sky.
+An image with a roof, a tree, three cars, a pavement, a sky, and a road.
+An image with a sky, three cars, a pavement, a roof, a road, and a tree.
+An image with three cars, a pavement, a roof, a road, a sky, and a tree.
+An image with a tree, a road, three cars, a sky, a roof, and a pavement.
+An image with a road, three cars, a sky, a tree, a pavement, and a roof.

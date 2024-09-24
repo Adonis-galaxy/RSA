@@ -8,3 +8,8 @@ A printer is sitting on the floor.
 The image shows a white printer sitting on the floor next to a green desk with drawers.
 The image shows a white printer sitting on the floor next to a green desk with drawers.
 The image shows a green office desk with a printer and a stack of papers on it.
+An image with a cabinet, a wall, a oven, a floor, and a paper.
+An image with a paper, a wall, a oven, a cabinet, and a floor.
+An image with a wall, a paper, a cabinet, a oven, and a floor.
+An image with a cabinet, a floor, a oven, a wall, and a paper.
+An image with a floor, a oven, a cabinet, a paper, and a wall.

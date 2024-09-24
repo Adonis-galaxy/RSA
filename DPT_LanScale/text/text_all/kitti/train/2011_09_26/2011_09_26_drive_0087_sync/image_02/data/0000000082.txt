@@ -8,3 +8,8 @@ A narrow pathway between two walls.
 A narrow, shaded pathway between lush greenery and a yellow building, with a person walking ahead.
 A narrow, shaded pathway between two walls, with a person visible at the end, and a white structure on the left side.
 A narrow, shaded pathway between two walls, with a person visible at the end, leads to a building with a blue and white striped awning.
+An image with two walls, a tree, and a pavement.
+An image with two walls, a pavement, and a tree.
+An image with a tree, a pavement, and two walls.
+An image with a tree, two walls, and a pavement.
+An image with a pavement, two walls, and a tree.

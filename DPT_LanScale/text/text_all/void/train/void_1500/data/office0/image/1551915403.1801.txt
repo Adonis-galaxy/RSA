@@ -8,3 +8,8 @@ The image shows a table with a black chair, a whiteboard, and some papers on it.
 The image shows a table with a piece of paper on it, and a black chair in front of it, with a whiteboard in the background.
 The image shows a small table with a black chair, a whiteboard, and some papers on it.
 The image shows a table with a white marble top, a black chair, and a whiteboard in the background.
+An image with three books, a tv, a wall, a couch, a floor, and a dining.
+An image with a tv, three books, a wall, a couch, a floor, and a dining.
+An image with a dining, a floor, a couch, a wall, three books, and a tv.
+An image with a tv, a floor, three books, a dining, a wall, and a couch.
+An image with a tv, a couch, three books, a wall, a floor, and a dining.

@@ -8,3 +8,8 @@ A black cart with a monitor on top.
 A black cart with a monitor on top, sitting on a checkered floor.
 A black cart with a monitor on top, sitting on a checkered floor.
 A black cart with a monitor on top is parked on a checkered floor next to a set of stairs.
+An image with a wall, a floor, a tv, a chair, a remote, and a stairs.
+An image with a wall, a remote, a tv, a stairs, a floor, and a chair.
+An image with a wall, a chair, a floor, a stairs, a tv, and a remote.
+An image with a chair, a tv, a wall, a floor, a stairs, and a remote.
+An image with a stairs, a floor, a wall, a remote, a chair, and a tv.

@@ -8,3 +8,8 @@ A busy highway with many cars.
 A busy highway with a mix of vehicles, surrounded by lush greenery, under a bright sunny sky.
 A busy highway with multiple cars, surrounded by a lush green forest.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with six cars, a truck, a road, a tree, a grass, and a sky.
+An image with a truck, a sky, six cars, a tree, a grass, and a road.
+An image with six cars, a tree, a road, a grass, a sky, and a truck.
+An image with six cars, a road, a truck, a tree, a grass, and a sky.
+An image with a grass, a truck, a sky, six cars, a road, and a tree.

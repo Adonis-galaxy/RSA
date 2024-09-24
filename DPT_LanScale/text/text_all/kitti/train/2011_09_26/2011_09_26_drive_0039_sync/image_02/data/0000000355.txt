@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on the side of a quiet residential street, with a clear blue sky overhead and a few parked cars in the distance.
 A white van is parked on the side of a narrow street between two buildings, with a blue sky overhead.
 A quiet residential street with a white van parked at the curb, lined with houses and trees, under a clear blue sky.
+An image with a fence, two cars, two walls, a house, a road, a tree, a sky, and a pavement.
+An image with two cars, a road, a sky, a pavement, a tree, a fence, two walls, and a house.
+An image with a pavement, a tree, two walls, two cars, a road, a fence, a house, and a sky.
+An image with a tree, a fence, a pavement, a house, two cars, two walls, a sky, and a road.
+An image with a fence, a road, two walls, two cars, a tree, a sky, a house, and a pavement.

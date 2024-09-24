@@ -8,3 +8,8 @@ A blurry image of a room with a whiteboard, a cabinet, and a cardboard box.
 The image shows a room with a whiteboard, a cabinet, a box, and some other items, with a focus on the whiteboard and the box.
 The image shows a room with a whiteboard, a black cabinet, a wooden cabinet, a cardboard box, and a black bag.
 The image shows a room with a whiteboard, a black cabinet, a wooden cabinet, a cardboard box, and a blue bag.
+An image with a backpack, a wall, a floor, a ceiling, a tv, a cabinet, and a cardboard.
+An image with a ceiling, a tv, a cabinet, a floor, a wall, a backpack, and a cardboard.
+An image with a ceiling, a wall, a cardboard, a floor, a backpack, a tv, and a cabinet.
+An image with a floor, a wall, a cardboard, a cabinet, a ceiling, a backpack, and a tv.
+An image with a ceiling, a backpack, a tv, a wall, a cabinet, a floor, and a cardboard.

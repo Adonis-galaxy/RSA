@@ -8,3 +8,8 @@ The image shows a laboratory setting with various pieces of equipment, including
 The image shows a laboratory setting with various pieces of equipment, including a white table, a blue metal rack, a metal shelf, a metal desk, and a metal cabinet.
 The image shows a blurry laboratory setting with a large blue metal structure, a white countertop, and various pieces of equipment.
 The image shows a laboratory setting with a white countertop, a blue metal shelf, a white metal shelf, a black backpack, and various pieces of equipment.
+An image with a floor, a window, a cabinet, a counter, a wall, and a backpack.
+An image with a counter, a backpack, a wall, a cabinet, a window, and a floor.
+An image with a floor, a cabinet, a counter, a wall, a window, and a backpack.
+An image with a counter, a floor, a wall, a backpack, a window, and a cabinet.
+An image with a cabinet, a backpack, a window, a floor, a counter, and a wall.

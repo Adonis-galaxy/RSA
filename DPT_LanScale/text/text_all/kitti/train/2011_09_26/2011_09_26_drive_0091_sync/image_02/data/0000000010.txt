@@ -8,3 +8,8 @@ The image shows a street scene with a train track running down the middle of the
 The image captures a quaint European street scene, featuring a narrow road flanked by old buildings, a tram track, and a few pedestrians, all under a clear blue sky.
 The image shows a narrow street with a train track running down the middle, lined with buildings on both sides. There are a few people walking on the sidewalk, and the street is shaded by trees.
 The image captures a bustling city street, with a train track running down the middle, flanked by tall buildings and lined with shops and pedestrians.
+An image with fourteen people, a building, a pavement, a sky, a railroad, and a tree.
+An image with fourteen people, a pavement, a sky, a railroad, a building, and a tree.
+An image with fourteen people, a railroad, a sky, a building, a tree, and a pavement.
+An image with a sky, fourteen people, a pavement, a railroad, a building, and a tree.
+An image with fourteen people, a railroad, a sky, a pavement, a tree, and a building.

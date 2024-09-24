@@ -8,3 +8,8 @@ A black and gray office chair.
 A modern office chair in front of a whiteboard with posters.
 A black and gray office chair in a room with a wooden desk and a whiteboard.
 A modern office chair with a high back and armrests, positioned in front of a large whiteboard with posters and papers attached to it.
+An image with a floor, two chairs, a paper, a tv, a cabinet, and a wall.
+An image with a wall, two chairs, a tv, a paper, a cabinet, and a floor.
+An image with a floor, a wall, a paper, two chairs, a cabinet, and a tv.
+An image with two chairs, a paper, a tv, a cabinet, a wall, and a floor.
+An image with a cabinet, a tv, two chairs, a wall, a floor, and a paper.

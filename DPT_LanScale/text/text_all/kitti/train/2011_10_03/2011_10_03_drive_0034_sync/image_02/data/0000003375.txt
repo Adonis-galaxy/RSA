@@ -8,3 +8,8 @@ The image shows a tree-lined street with a brick sidewalk.
 The image captures a quiet, tree-lined street with a clear sky overhead, where the sun casts long shadows and the road curves gently to the left.
 The image shows a narrow, tree-lined street with a brick sidewalk, a curved corner, and a sign indicating a one-way street.
 The image depicts a quiet, tree-lined street with a curved road, a sidewalk, and a building on the right side.
+An image with a pavement, a wall, a sky, a refrigerator, a tree, and a road.
+An image with a tree, a refrigerator, a sky, a wall, a road, and a pavement.
+An image with a sky, a wall, a refrigerator, a pavement, a road, and a tree.
+An image with a road, a wall, a pavement, a tree, a sky, and a refrigerator.
+An image with a tree, a road, a wall, a pavement, a sky, and a refrigerator.

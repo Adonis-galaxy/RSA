@@ -8,3 +8,8 @@ The image is a photograph of a road with a speed limit sign.
 The image captures a moment of tranquility on a rural highway, with a few cars gently moving along the road, under the watchful eyes of a speed limit sign and a lone tree standing guard on the side.
 The image shows a wide, empty road with a speed limit sign, a few cars, and trees in the background.
 The image shows a wide, empty road with a speed limit sign, a grassy median, and a few cars driving on the right side.
+An image with a tree, a grass, six cars, a pavement, a sky, a stop, a road, and a truck.
+An image with a tree, six cars, a grass, a truck, a sky, a road, a stop, and a pavement.
+An image with a road, six cars, a tree, a grass, a stop, a truck, a pavement, and a sky.
+An image with a grass, a stop, a tree, a pavement, six cars, a sky, a truck, and a road.
+An image with a stop, six cars, a truck, a road, a grass, a tree, a pavement, and a sky.

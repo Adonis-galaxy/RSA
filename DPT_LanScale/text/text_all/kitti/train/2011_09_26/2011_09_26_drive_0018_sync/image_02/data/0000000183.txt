@@ -8,3 +8,8 @@ The image shows a wide street with multiple lanes and traffic lights.
 The image captures a wide, empty road with multiple traffic lights and signs, leading to a clear blue sky.
 The image shows a wide, empty road with multiple traffic lights and signs, some of which are quite large, indicating a busy intersection.
 The image depicts a wide, multi-lane road with traffic lights, street signs, and a clear sky.
+An image with two traffics, a pavement, two cars, a road, a sky, a tree, a truck, and a bus.
+An image with a sky, a tree, two cars, a road, two traffics, a bus, a pavement, and a truck.
+An image with a tree, two traffics, a pavement, a truck, a bus, two cars, a sky, and a road.
+An image with two cars, a road, a sky, two traffics, a truck, a tree, a bus, and a pavement.
+An image with two cars, a sky, two traffics, a bus, a pavement, a road, a truck, and a tree.

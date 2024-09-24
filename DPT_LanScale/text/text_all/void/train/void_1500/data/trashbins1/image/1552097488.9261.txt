@@ -8,3 +8,8 @@ A trash can is next to a door.
 A trash can is placed next to a door, with a green bag on it.
 A large trash can is placed next to a door.
 A trash can is placed next to a door in a room.
+An image with a floor, a wall, a door, and a towel.
+An image with a towel, a door, a floor, and a wall.
+An image with a wall, a floor, a door, and a towel.
+An image with a floor, a door, a towel, and a wall.
+An image with a floor, a wall, a door, and a towel.

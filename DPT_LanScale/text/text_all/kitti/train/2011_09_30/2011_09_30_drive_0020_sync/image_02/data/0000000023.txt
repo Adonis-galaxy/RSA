@@ -8,3 +8,8 @@ The image shows a red car parked on the side of a street.
 A red car parked on the side of a street, with a sidewalk and a building in the background, under a clear blue sky.
 A red car is parked on the side of a street next to a sidewalk, with a building under construction in the background.
 A red car is parked on the side of a street lined with trees and buildings under construction.
+An image with seven cars, a truck, a grass, a road, a pavement, a tree, two walls, a sky, and a building.
+An image with two walls, a grass, a tree, seven cars, a building, a truck, a road, a sky, and a pavement.
+An image with seven cars, a truck, a pavement, two walls, a tree, a building, a road, a sky, and a grass.
+An image with seven cars, two walls, a sky, a grass, a building, a tree, a road, a pavement, and a truck.
+An image with seven cars, a tree, a pavement, a truck, a building, two walls, a road, a grass, and a sky.

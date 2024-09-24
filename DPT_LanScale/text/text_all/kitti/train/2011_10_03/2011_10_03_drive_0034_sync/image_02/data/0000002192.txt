@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with trees and houses, where a car is parked on the side of the road.
 A narrow, tree-lined street with a parked car, a blue car, and a white building.
 A narrow, tree-lined street with a parked car, leading to a white building with a black gate and a fence.
+An image with two cars, a potted, a fence, a road, a tree, a house, a sky, and a pavement.
+An image with a house, a sky, a tree, a potted, two cars, a pavement, a fence, and a road.
+An image with a sky, a tree, a pavement, a house, two cars, a fence, a road, and a potted.
+An image with a road, a tree, a sky, a potted, a fence, a house, two cars, and a pavement.
+An image with a fence, a sky, two cars, a potted, a house, a road, a pavement, and a tree.

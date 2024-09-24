@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a typical day in a residential area, with parked cars lining the street and apartment buildings on either side, creating a sense of community and everyday life.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with twelve cars, two people, a road, a tree, a house, a pavement, a fence, a truck, and a wall.
+An image with twelve cars, a truck, a house, a wall, two people, a road, a fence, a tree, and a pavement.
+An image with a pavement, twelve cars, two people, a road, a fence, a house, a wall, a truck, and a tree.
+An image with a pavement, twelve cars, a tree, two people, a road, a house, a fence, a truck, and a wall.
+An image with a tree, twelve cars, a road, a pavement, a house, two people, a fence, a truck, and a wall.

@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A quiet residential street, lined with houses and trees, leads to a sunlit intersection.
 A narrow, tree-lined street between two-story buildings, with a person riding a bicycle in the distance.
 A narrow, tree-lined street between two-story buildings, with a clear sky overhead.
+An image with two cars, a road, a tree, a person, a pavement, a bus, a bicycle, a stop, a sky, and a house.
+An image with two cars, a stop, a person, a tree, a house, a bus, a sky, a road, a bicycle, and a pavement.
+An image with two cars, a pavement, a bicycle, a road, a sky, a person, a tree, a stop, a house, and a bus.
+An image with a person, a house, a pavement, two cars, a tree, a bicycle, a stop, a road, a sky, and a bus.
+An image with a tree, a bicycle, a stop, two cars, a person, a road, a house, a pavement, a sky, and a bus.

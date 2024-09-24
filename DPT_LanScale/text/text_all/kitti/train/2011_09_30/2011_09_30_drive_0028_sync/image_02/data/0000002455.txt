@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a van.
 The image captures a quiet residential street, with parked cars and a van, under a clear blue sky, with a mix of trees and houses, and a sidewalk leading to a grassy area.
 The image shows a residential street with parked cars, a van, and a truck, with trees and houses in the background.
 A quiet residential street with parked cars and a van, lined with trees and houses, under a clear blue sky.
+An image with five cars, a sky, a road, a grass, a tree, a truck, and a house.
+An image with five cars, a truck, a house, a road, a sky, a tree, and a grass.
+An image with five cars, a grass, a house, a road, a sky, a tree, and a truck.
+An image with a house, five cars, a sky, a road, a grass, a tree, and a truck.
+An image with five cars, a sky, a tree, a road, a truck, a house, and a grass.

@@ -8,3 +8,8 @@ A blurry image of a room with a desk, chairs, and a box with a red object in it.
 A blurry office scene with a soccer ball in a box.
 The image shows a blurry office environment with a large cardboard box in the foreground, containing a small television screen.
 The image shows an office space with a desk, chair, and computer equipment, with a cardboard box in the foreground.
+An image with three chairs, a keyboard, a table, two tvs, a cardboard, a window, a wall, a floor, and a sports.
+An image with three chairs, a floor, a window, a cardboard, a wall, a keyboard, two tvs, a table, and a sports.
+An image with a table, a keyboard, three chairs, a floor, two tvs, a window, a sports, a wall, and a cardboard.
+An image with three chairs, a window, a table, a keyboard, a sports, a floor, two tvs, a cardboard, and a wall.
+An image with three chairs, a cardboard, a floor, a window, a table, two tvs, a wall, a sports, and a keyboard.

@@ -8,3 +8,8 @@ A printer on a table.
 A printer on a table next to a desk.
 A large white and blue printer on a table next to a smaller printer.
 A large white and blue printer sits on a wooden table next to a beige cabinet.
+An image with a paper, a sink, a wall, and a table.
+An image with a wall, a sink, a table, and a paper.
+An image with a paper, a wall, a table, and a sink.
+An image with a wall, a table, a sink, and a paper.
+An image with a paper, a table, a wall, and a sink.

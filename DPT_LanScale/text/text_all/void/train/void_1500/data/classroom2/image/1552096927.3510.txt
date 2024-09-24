@@ -8,3 +8,8 @@ The image shows two black chairs with orange tops.
 The image shows a classroom setting with two desks and two chairs, arranged in a way that they are facing each other.
 The image shows two black chairs with orange tops, placed on a gray carpeted floor, in front of a wooden door.
 The image shows a classroom setting with two desks and four chairs, arranged in a symmetrical manner.
+An image with a door, four chairs, a wall, a floor, and a dining.
+An image with four chairs, a wall, a door, a dining, and a floor.
+An image with four chairs, a floor, a door, a dining, and a wall.
+An image with four chairs, a door, a wall, a floor, and a dining.
+An image with four chairs, a door, a dining, a floor, and a wall.

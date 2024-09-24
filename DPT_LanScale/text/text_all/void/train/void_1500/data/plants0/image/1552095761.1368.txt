@@ -8,3 +8,8 @@ A palm frond on the ground.
 The image shows a potted plant on a concrete surface, with a red brick pattern and a sandy area with grass and a palm leaf.
 A palm frond is laying on the ground in a garden area.
 The image shows a paved area with a red brick pattern, a concrete curb, and a sandy area with palm fronds and grasses.
+An image with two walls, a floor, a pavement, a dirt, and a tree.
+An image with two walls, a pavement, a dirt, a floor, and a tree.
+An image with a dirt, two walls, a pavement, a floor, and a tree.
+An image with two walls, a pavement, a tree, a floor, and a dirt.
+An image with a floor, a pavement, a tree, two walls, and a dirt.

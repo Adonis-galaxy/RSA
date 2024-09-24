@@ -8,3 +8,8 @@ The image shows a street with a speed limit sign.
 The image captures a quiet residential street, with a clear view of a speed limit sign indicating a 30 zone, and a white house with a green lawn in the background.
 The image shows a quiet residential street with a 30 km/h speed limit sign, a few parked cars, and houses in the background.
 The image depicts a quiet residential street with a curved road, lined with trees and houses, and a speed limit sign indicating a 30 km/h zone.
+An image with a tree, a grass, a pavement, a car, a road, and a building.
+An image with a pavement, a building, a road, a tree, a car, and a grass.
+An image with a building, a pavement, a road, a car, a grass, and a tree.
+An image with a pavement, a car, a building, a grass, a tree, and a road.
+An image with a road, a building, a pavement, a grass, a car, and a tree.

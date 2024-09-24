@@ -8,3 +8,8 @@ A straw hat is leaning against a gray couch.
 A straw hat is resting on a gray bench, next to a magazine.
 A straw hat is placed on the arm of a gray couch, with a magazine and a piece of paper underneath it.
 A straw hat is resting on a gray bench, next to a magazine and a piece of paper.
+An image with a rug, a couch, a wall, and a book.
+An image with a couch, a rug, a wall, and a book.
+An image with a rug, a couch, a book, and a wall.
+An image with a rug, a wall, a book, and a couch.
+An image with a rug, a book, a couch, and a wall.

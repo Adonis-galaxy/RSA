@@ -8,3 +8,8 @@ A woman standing next to a black car on a street.
 A woman stands on the sidewalk next to a parked car, with a black bus parked on the street behind her.
 A woman stands next to a small black car parked on a narrow street between two buildings.
 A woman stands on the sidewalk next to a parked car, with a black bus and a white building in the background.
+An image with a pavement, four cars, a fence, two people, a house, a motorcycle, a tree, two walls, a truck, and a road.
+An image with four cars, a truck, two walls, two people, a road, a pavement, a fence, a tree, a motorcycle, and a house.
+An image with four cars, a road, two people, a motorcycle, a truck, a pavement, a tree, a fence, two walls, and a house.
+An image with four cars, a fence, a tree, two walls, two people, a truck, a road, a pavement, a house, and a motorcycle.
+An image with two people, two walls, four cars, a house, a motorcycle, a pavement, a road, a tree, a fence, and a truck.

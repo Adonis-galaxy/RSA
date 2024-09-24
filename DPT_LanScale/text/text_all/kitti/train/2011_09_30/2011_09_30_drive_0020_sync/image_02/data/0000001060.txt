@@ -8,3 +8,8 @@ The image shows a street view with a white building, a fence, and a car.
 The image captures a quiet residential street, with a white building on the right, a sidewalk on the left, and a fence separating the two.
 The image shows a street scene with a large building on the right, a sidewalk on the left, a car parked in front of the building, a fence along the sidewalk, and a tree in the foreground.
 The image shows a street scene with a white building on the right, a sidewalk on the left, a fence in the foreground, and a car parked in the background.
+An image with a grass, a fence, a tree, seven cars, a house, a road, and a building.
+An image with a building, seven cars, a road, a house, a grass, a fence, and a tree.
+An image with a fence, seven cars, a grass, a house, a building, a tree, and a road.
+An image with seven cars, a fence, a house, a grass, a tree, a building, and a road.
+An image with a house, seven cars, a grass, a building, a tree, a road, and a fence.

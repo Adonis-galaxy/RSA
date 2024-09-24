@@ -8,3 +8,8 @@ The image shows a street with a crosswalk and traffic cones.
 The image captures a typical day in a suburban area, with a clear sky, a busy street lined with parked cars and a few pedestrians, and a sidewalk adjacent to a train track.
 The image shows a wide street with a crosswalk, lined with parked cars and trees, and a building with a sign that reads "Europcar" on the left side. There are also traffic lights and construction barriers on the right side of the street.
 The image shows a street scene with a clear view of a road, sidewalk, parked cars, a building, trees, and a train track, all captured in a daytime setting.
+An image with a pavement, ten cars, a road, a tree, a bicycle, a grass, a railroad, a building, a truck, and a person.
+An image with a truck, ten cars, a tree, a building, a bicycle, a pavement, a railroad, a grass, a road, and a person.
+An image with ten cars, a truck, a pavement, a tree, a bicycle, a building, a railroad, a grass, a person, and a road.
+An image with ten cars, a truck, a person, a bicycle, a pavement, a building, a grass, a road, a tree, and a railroad.
+An image with a tree, ten cars, a building, a road, a grass, a pavement, a bicycle, a person, a railroad, and a truck.

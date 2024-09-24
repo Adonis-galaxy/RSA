@@ -8,3 +8,8 @@ A hat is on the arm of a couch.
 A hat is resting on the arm of a couch, next to a backpack and some papers.
 A black backpack is sitting on a gray couch next to a sombrero and a magazine.
 A colorful sombrero is resting on the arm of a gray couch, next to a black backpack and a magazine.
+An image with two walls, a book, a rug, a couch, a remote, and a backpack.
+An image with a book, a remote, a couch, a rug, two walls, and a backpack.
+An image with a book, two walls, a remote, a couch, a backpack, and a rug.
+An image with a remote, a backpack, two walls, a rug, a book, and a couch.
+An image with a backpack, two walls, a rug, a book, a remote, and a couch.

@@ -8,3 +8,8 @@ The image shows a busy street with cars and trucks driving on it.
 The image captures a bustling city street scene with a red car in the foreground, a white van in the background, and various traffic lights and signs controlling the flow of vehicles.
 A red car is driving on a busy street, surrounded by various vehicles and traffic lights.
 A busy city street with multiple lanes, traffic lights, and vehicles, including a red car in the right lane.
+An image with eight traffics, ten cars, a mountain, a pavement, a truck, a road, a tree, a house, a grass, and a sky.
+An image with a grass, ten cars, eight traffics, a road, a mountain, a pavement, a sky, a truck, a tree, and a house.
+An image with ten cars, a grass, a mountain, eight traffics, a truck, a road, a house, a sky, a tree, and a pavement.
+An image with eight traffics, ten cars, a pavement, a house, a truck, a sky, a grass, a tree, a road, and a mountain.
+An image with eight traffics, ten cars, a truck, a grass, a road, a house, a mountain, a pavement, a tree, and a sky.

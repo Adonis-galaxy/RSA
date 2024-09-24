@@ -8,3 +8,8 @@ A blue trash can next to a white printer.
 The image shows a white printer on a table next to a blue trash can.
 The image shows a white printer on a table next to a blue trash can.
 The image shows a room with a desk, a printer, a trash can, and a cabinet.
+An image with a door, a cell, a wall, a floor, and a cabinet.
+An image with a cell, a cabinet, a floor, a wall, and a door.
+An image with a cell, a floor, a wall, a cabinet, and a door.
+An image with a cell, a floor, a door, a wall, and a cabinet.
+An image with a wall, a cell, a cabinet, a floor, and a door.

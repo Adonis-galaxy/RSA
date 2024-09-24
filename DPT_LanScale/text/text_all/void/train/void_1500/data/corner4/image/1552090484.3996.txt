@@ -8,3 +8,8 @@ The image shows a wooden desk with a computer monitor on it.
 The image shows a blurry office cubicle with a desk, a filing cabinet, and a keyboard.
 The image shows a blurry office cubicle with a desk, a filing cabinet, and a keyboard.
 The image shows a blurry office cubicle with a desk, a filing cabinet, and a computer monitor.
+An image with a wall, a table, two keyboards, a cabinet, a remote, and a floor.
+An image with a remote, a wall, two keyboards, a table, a floor, and a cabinet.
+An image with a cabinet, two keyboards, a wall, a floor, a table, and a remote.
+An image with a remote, a cabinet, a floor, two keyboards, a table, and a wall.
+An image with a floor, a cabinet, a wall, two keyboards, a table, and a remote.

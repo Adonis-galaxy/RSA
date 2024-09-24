@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded alleyway between two buildings, with a brick wall on the right and a variety of greenery and plants on the left.
 The image shows a narrow alleyway between two buildings, with a brick wall on the right side and a green hedge on the left. The alleyway is lined with trees and bushes, and there are a few benches and a lamp post visible. The sky is clear and blue, suggesting a sunny day.
 A narrow, tree-lined alleyway between two buildings, with a brick wall on the right and a stone wall on the left, leading to a dead-end street.
+An image with two walls, a roof, a window, a tree, a sky, and a pavement.
+An image with two walls, a roof, a pavement, a tree, a sky, and a window.
+An image with two walls, a window, a roof, a tree, a pavement, and a sky.
+An image with a roof, a pavement, a sky, a tree, two walls, and a window.
+An image with two walls, a tree, a roof, a sky, a window, and a pavement.

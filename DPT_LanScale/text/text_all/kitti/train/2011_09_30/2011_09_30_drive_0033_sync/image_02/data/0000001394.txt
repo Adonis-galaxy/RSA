@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a red van driving down the r
 A narrow street in a residential area, with parked cars and a red van driving down it.
 A narrow street in a residential area with parked cars, a red van, and a white building.
 A narrow street in a residential area with parked cars, a red van, and a white building.
+An image with four cars, a tree, a wall, a sky, a house, a road, and a truck.
+An image with a truck, a road, a wall, a house, four cars, a tree, and a sky.
+An image with four cars, a tree, a house, a wall, a road, a truck, and a sky.
+An image with a wall, a truck, four cars, a tree, a sky, a house, and a road.
+An image with a house, a road, a truck, a tree, four cars, a sky, and a wall.

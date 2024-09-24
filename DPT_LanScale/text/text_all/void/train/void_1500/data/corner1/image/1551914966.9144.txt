@@ -8,3 +8,8 @@ A black and white image of a table with a blue box on it.
 The image shows a black desk with a computer monitor, keyboard, and mouse on it, along with a blue box of tissues and a white sign that says "RESERVED" on it.
 The image shows a black desk with a white sign that says "RESERVED" and a blue box of tissues on it.
 The image shows a black desk with a computer monitor, keyboard, and mouse on it, along with a blue box of tissues and a white sign with blue text that says "RESERVED" and "DATE: 4/15-3/20".
+An image with a cardboard, two chairs, a tv, a wall, a table, and a paper.
+An image with a cardboard, a table, a tv, a wall, a paper, and two chairs.
+An image with a wall, a cardboard, a tv, a table, a paper, and two chairs.
+An image with two chairs, a cardboard, a wall, a tv, a paper, and a table.
+An image with a tv, a cardboard, two chairs, a wall, a table, and a paper.

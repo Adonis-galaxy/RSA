@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 The image captures a tranquil residential street, lined with trees and houses, under a clear blue sky.
 The image shows a tree-lined street with a white house on the right, a sidewalk, and a car parked on the left side of the street.
 The image depicts a quiet residential street with a mix of houses and trees, a clear sky, and a sunlit day.
+An image with a dirt, a sky, a road, a tree, and a car.
+An image with a tree, a road, a car, a sky, and a dirt.
+An image with a tree, a road, a dirt, a sky, and a car.
+An image with a car, a tree, a sky, a road, and a dirt.
+An image with a car, a sky, a tree, a dirt, and a road.

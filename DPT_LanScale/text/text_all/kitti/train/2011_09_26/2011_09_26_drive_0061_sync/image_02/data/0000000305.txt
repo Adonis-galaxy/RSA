@@ -8,3 +8,8 @@ A narrow tree-lined street.
 A narrow, tree-lined street with parked cars and a gate, leading to a residential area.
 The image shows a narrow, tree-lined street with parked cars, a garage, and a gate.
 A narrow, tree-lined street with parked cars and a garage on the left, leading to a dead-end on the right.
+An image with a wall, three cars, a truck, a sky, a tree, a fence, a grass, a door, a road, and a pavement.
+An image with a road, a fence, three cars, a tree, a door, a wall, a sky, a grass, a pavement, and a truck.
+An image with a sky, three cars, a tree, a truck, a fence, a pavement, a road, a door, a wall, and a grass.
+An image with three cars, a sky, a grass, a wall, a tree, a truck, a road, a pavement, a fence, and a door.
+An image with a truck, a wall, a fence, a pavement, a door, a sky, a tree, three cars, a road, and a grass.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars, apartment buildings, and a variety of plants and flowers, with a clear sky overhead.
 A narrow, tree-lined street with parked cars and apartment buildings on either side.
+An image with three cars, a house, a potted, a tree, a sky, a dirt, a flower, a grass, a stairs, and a pavement.
+An image with a house, a potted, a flower, a tree, a grass, three cars, a dirt, a sky, a stairs, and a pavement.
+An image with a pavement, three cars, a grass, a dirt, a sky, a potted, a tree, a flower, a stairs, and a house.
+An image with a sky, three cars, a dirt, a flower, a stairs, a tree, a pavement, a grass, a house, and a potted.
+An image with a house, three cars, a potted, a flower, a sky, a grass, a dirt, a pavement, a tree, and a stairs.

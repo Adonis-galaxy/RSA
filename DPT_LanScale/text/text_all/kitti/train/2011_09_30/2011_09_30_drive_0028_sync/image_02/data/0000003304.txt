@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and parked cars.
 The image captures a quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars, white walls, and green trees, with a clear blue sky overhead.
 A narrow, tree-lined street with parked cars and white buildings on either side, leading to a red-roofed house at the end.
+An image with a roof, a road, seven cars, a sky, a wall, a tree, and a pavement.
+An image with a road, seven cars, a roof, a sky, a tree, a pavement, and a wall.
+An image with a roof, seven cars, a road, a pavement, a sky, a wall, and a tree.
+An image with a pavement, a road, seven cars, a wall, a tree, a sky, and a roof.
+An image with a pavement, seven cars, a sky, a tree, a roof, a road, and a wall.

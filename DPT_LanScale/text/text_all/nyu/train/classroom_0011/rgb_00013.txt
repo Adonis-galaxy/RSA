@@ -8,3 +8,8 @@ A classroom scene with students sitting at desks.
 A group of students in a classroom, engaged in learning activities, with a teacher observing.
 A classroom scene with students seated at desks, a teacher standing at the front, and a large tree-shaped bulletin board on the wall.
 A classroom scene with students seated at desks, engaged in learning activities, with a teacher standing at the front of the room.
+An image with a backpack, five people, a paper, nine chairs, a table, a wall, two clocks, a ceiling, and a rug.
+An image with a wall, a table, five people, nine chairs, a rug, two clocks, a paper, a backpack, and a ceiling.
+An image with a backpack, a ceiling, five people, a rug, nine chairs, a wall, a table, two clocks, and a paper.
+An image with nine chairs, five people, two clocks, a ceiling, a table, a wall, a backpack, a paper, and a rug.
+An image with five people, nine chairs, a wall, a paper, two clocks, a table, a backpack, a ceiling, and a rug.

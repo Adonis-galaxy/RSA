@@ -8,3 +8,8 @@ A blurry image of a table with a chair and a remote control.
 A black chair is positioned in front of a window, with a remote control and a book on a table.
 The image shows a black chair in front of a window, with a remote control and a book on a table.
 The image shows a room with a table, a chair, a window, and a remote control.
+An image with a chair, a wall, a table, two books, a couch, a window, a cabinet, a cup, a rug, and a dining.
+An image with a couch, a chair, a window, a table, a rug, two books, a wall, a cup, a dining, and a cabinet.
+An image with a window, two books, a cabinet, a chair, a couch, a table, a dining, a wall, a cup, and a rug.
+An image with two books, a window, a couch, a cabinet, a chair, a rug, a table, a wall, a cup, and a dining.
+An image with a cabinet, a wall, a cup, a couch, two books, a window, a dining, a table, a rug, and a chair.

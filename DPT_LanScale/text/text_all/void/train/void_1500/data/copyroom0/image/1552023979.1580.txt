@@ -8,3 +8,8 @@ A white desk with a blue trash can next to it.
 The image shows a white desk with a computer monitor and a blue trash can next to it.
 The image shows a white desk with a computer monitor, a blue trash can, and a white filing cabinet.
 The image shows a white desk with a computer monitor and keyboard, a blue trash can, and a white filing cabinet.
+An image with a floor, a scissors, a tv, a wall, and a cabinet.
+An image with a wall, a scissors, a floor, a tv, and a cabinet.
+An image with a wall, a floor, a scissors, a tv, and a cabinet.
+An image with a cabinet, a wall, a scissors, a tv, and a floor.
+An image with a wall, a tv, a cabinet, a scissors, and a floor.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street with parked cars and a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a person standing next to a blue bin.
 A narrow street in a residential area, with parked cars, a bicycle, and a blue bin on the sidewalk.
+An image with three cars, a truck, two walls, a sky, a person, a pavement, a tree, a fence, a airplane, a road, and a house.
+An image with a tree, a truck, three cars, a person, a fence, two walls, a sky, a road, a pavement, a airplane, and a house.
+An image with a house, three cars, a sky, two walls, a pavement, a airplane, a fence, a truck, a road, a tree, and a person.
+An image with three cars, a fence, a tree, a house, a airplane, a road, a sky, a person, two walls, a pavement, and a truck.
+An image with a fence, three cars, a truck, a house, a airplane, two walls, a road, a pavement, a tree, a sky, and a person.

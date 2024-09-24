@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white van.
 The image captures a quiet residential street, with parked cars and a white van, under a clear blue sky.
 A white van is driving down a tree-lined street, passing other vehicles, with a clear blue sky overhead.
 A narrow street lined with parked cars and trees, leading to a residential area.
+An image with five cars, a road, a truck, a sky, a tree, a house, and a grass.
+An image with a grass, a sky, a tree, five cars, a road, a house, and a truck.
+An image with five cars, a truck, a road, a house, a sky, a grass, and a tree.
+An image with a house, five cars, a road, a tree, a grass, a sky, and a truck.
+An image with a house, a truck, a road, a grass, five cars, a tree, and a sky.

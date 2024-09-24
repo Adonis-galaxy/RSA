@@ -8,3 +8,8 @@ A bathroom with a shower.
 The image captures a bathroom scene, featuring a shower with a glass door, a sink with a mirror, and a toilet with a wooden seat.
 The image shows a small bathroom with a tiled floor and walls, a shower with a glass door, and a sink with a black faucet.
 The image shows a bathroom with a tiled floor and walls, a shower with a glass door, and various toiletries on the shower ledge.
+An image with a floor, a mirror, two walls, and three bottles.
+An image with two walls, three bottles, a floor, and a mirror.
+An image with three bottles, two walls, a mirror, and a floor.
+An image with two walls, a floor, three bottles, and a mirror.
+An image with a mirror, a floor, three bottles, and two walls.

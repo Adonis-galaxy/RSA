@@ -8,3 +8,8 @@ A room with a table, chairs, and a computer.
 The image shows a room with a table, chairs, and a computer monitor, with a large black object on a wooden shelf in the foreground.
 The image shows a room with a large black metal structure on a wooden table, a white desk with a computer monitor, a blue chair, and a large orange machine in the background.
 The image shows a room with a large table and chairs, a computer monitor, and a black metal structure on a wooden table.
+An image with three tvs, a floor, two chairs, a table, and a wall.
+An image with a floor, three tvs, two chairs, a table, and a wall.
+An image with a wall, a table, three tvs, two chairs, and a floor.
+An image with three tvs, two chairs, a floor, a table, and a wall.
+An image with two chairs, three tvs, a wall, a floor, and a table.

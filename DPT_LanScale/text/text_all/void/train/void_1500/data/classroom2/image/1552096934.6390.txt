@@ -8,3 +8,8 @@ The image shows a black chair with an orange seat.
 The image shows a black chair with an orange seat, placed in a room with a wooden wall.
 The image shows a small orange table with a black chair in the foreground.
 The image shows a pair of black chairs with orange seat tops, placed on a white floor in front of a wooden wall.
+An image with two walls, a dining, two chairs, and a floor.
+An image with two chairs, two walls, a dining, and a floor.
+An image with a dining, two walls, two chairs, and a floor.
+An image with two walls, a floor, two chairs, and a dining.
+An image with two chairs, a dining, a floor, and two walls.

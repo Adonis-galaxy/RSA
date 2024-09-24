@@ -8,3 +8,8 @@ The image shows a brown chair and three blue trash cans.
 The image shows a brown chair next to three blue trash cans.
 The image shows a brown chair next to three blue trash cans.
 The image shows a brown chair next to three blue trash cans in a room with a white wall.
+An image with a chair, a cup, two bottles, a floor, and a wall.
+An image with two bottles, a floor, a cup, a wall, and a chair.
+An image with two bottles, a wall, a floor, a cup, and a chair.
+An image with a wall, a chair, two bottles, a cup, and a floor.
+An image with a wall, a chair, a cup, two bottles, and a floor.

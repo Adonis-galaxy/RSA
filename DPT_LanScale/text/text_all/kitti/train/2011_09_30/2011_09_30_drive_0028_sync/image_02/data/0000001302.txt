@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A quiet residential street, lined with trees and houses, where a cyclist is seen riding down the shaded sidewalk.
 A person riding a bicycle on a tree-lined street between two-story buildings.
 A tree-lined street with a car parked on the side, leading to a row of houses.
+An image with two cars, a person, a pavement, a road, a bicycle, a tree, a sky, a grass, and a house.
+An image with a house, two cars, a sky, a person, a road, a grass, a tree, a pavement, and a bicycle.
+An image with a sky, two cars, a tree, a pavement, a bicycle, a person, a house, a grass, and a road.
+An image with two cars, a person, a bicycle, a road, a grass, a tree, a sky, a pavement, and a house.
+An image with a road, a bicycle, a person, a tree, a pavement, a house, two cars, a grass, and a sky.

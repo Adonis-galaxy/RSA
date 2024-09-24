@@ -8,3 +8,8 @@ A stainless steel sink in a kitchen.
 A stainless steel sink with a faucet and a soap dispenser on a counter.
 A stainless steel sink with a faucet, soap dispenser, and a bottle of dish soap on a counter.
 A stainless steel sink with a faucet and a soap dispenser on a countertop.
+An image with a wall, two bottles, a sink, and a counter.
+An image with a wall, a sink, a counter, and two bottles.
+An image with a wall, a counter, two bottles, and a sink.
+An image with a sink, a wall, two bottles, and a counter.
+An image with a counter, two bottles, a sink, and a wall.

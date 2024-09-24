@@ -8,3 +8,8 @@ The image shows a street view with a white building on the right side and a fenc
 The image captures a quiet residential street, with a white building on the right, a fence on the left, and a tree in the center, all under a clear blue sky.
 The image shows a street view with a large building on the right, a fence on the left, and a few cars parked in the background.
 The image shows a street view with a white building on the right, a fenced area in the foreground, and a clear sky above.
+An image with four cars, a grass, a house, a fence, a building, a tree, and a road.
+An image with a tree, a house, a fence, a road, four cars, a grass, and a building.
+An image with a grass, a road, four cars, a fence, a building, a house, and a tree.
+An image with four cars, a building, a grass, a house, a fence, a road, and a tree.
+An image with four cars, a house, a building, a road, a grass, a tree, and a fence.

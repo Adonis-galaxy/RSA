@@ -8,3 +8,8 @@ The image shows a street with parked cars and a van, with trees and buildings in
 The image captures a sunny day in a residential area, with parked cars lining a tree-lined street, leading to apartment buildings, and a van driving down the road.
 The image shows a narrow street lined with parked cars and tall buildings, with a large van driving down the road and a red car parked on the side.
 A narrow street lined with parked cars and tall buildings, with a van driving down the road.
+An image with a grass, a tree, nine cars, a bus, a road, and a building.
+An image with a grass, nine cars, a bus, a building, a tree, and a road.
+An image with a bus, nine cars, a grass, a road, a building, and a tree.
+An image with nine cars, a bus, a grass, a building, a tree, and a road.
+An image with nine cars, a building, a road, a bus, a grass, and a tree.

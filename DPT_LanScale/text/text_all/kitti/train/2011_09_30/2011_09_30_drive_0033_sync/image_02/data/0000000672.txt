@@ -8,3 +8,8 @@ The image shows a street scene with cars and houses.
 A quiet residential street with parked cars and a numbered road.
 The image shows a residential street with a few cars, a truck, and a person, all appearing small due to the wide-angle lens used to take the photo.
 A quiet residential street with parked cars and a numbered speed limit.
+An image with a house, a pavement, five cars, a sky, a grass, a tree, and a road.
+An image with five cars, a tree, a sky, a pavement, a house, a road, and a grass.
+An image with a house, a sky, a pavement, five cars, a road, a grass, and a tree.
+An image with five cars, a tree, a house, a road, a sky, a pavement, and a grass.
+An image with a tree, a pavement, a grass, a sky, five cars, a road, and a house.

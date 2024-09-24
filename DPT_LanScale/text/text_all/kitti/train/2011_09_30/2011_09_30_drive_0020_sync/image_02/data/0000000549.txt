@@ -8,3 +8,8 @@ The image shows a street view of a residential area with houses and trees.
 The image captures a serene residential street, lined with houses and trees, under a clear blue sky.
 The image shows a residential street with houses, trees, and parked cars, all captured in a wide-angle shot.
 A quiet residential street with a mix of single-family homes and apartment buildings, lined with trees and parked cars, under a clear blue sky.
+An image with six cars, a sky, a pavement, a stop, a truck, a grass, a tree, a road, and a house.
+An image with a grass, six cars, a house, a road, a pavement, a tree, a truck, a sky, and a stop.
+An image with a stop, a sky, a road, a pavement, a tree, a truck, six cars, a grass, and a house.
+An image with a truck, six cars, a sky, a house, a tree, a stop, a grass, a pavement, and a road.
+An image with six cars, a pavement, a grass, a tree, a truck, a stop, a road, a sky, and a house.

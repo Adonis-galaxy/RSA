@@ -8,3 +8,8 @@ The image shows a road with cars driving on it.
 A tree-lined road with a few cars driving under a clear sky.
 A narrow road with a few cars driving under a canopy of trees.
 A tree-lined road with a few cars driving on it, leading to a fenced area.
+An image with a road, two cars, a tree, a wall, a grass, a pavement, and a sky.
+An image with a pavement, a grass, a wall, a sky, a road, a tree, and two cars.
+An image with two cars, a tree, a wall, a grass, a sky, a road, and a pavement.
+An image with a pavement, two cars, a grass, a tree, a road, a wall, and a sky.
+An image with a wall, a tree, a pavement, a sky, two cars, a road, and a grass.

@@ -8,3 +8,8 @@ A room with a green wall and a bookshelf.
 The image shows a room with a green wall, a bookshelf, a desk, and a large window.
 The image shows a room with a green wall, a bookshelf, a desk, and a large light fixture.
 The image shows an office space with a green wall, a bookshelf, a desk, and a large window.
+An image with eighteen books, a floor, a ceiling, a wall, a refrigerator, a light, a paper, a shelf, and a chair.
+An image with a floor, eighteen books, a wall, a refrigerator, a light, a ceiling, a paper, a chair, and a shelf.
+An image with a refrigerator, a chair, eighteen books, a paper, a ceiling, a shelf, a wall, a floor, and a light.
+An image with eighteen books, a ceiling, a wall, a paper, a floor, a refrigerator, a light, a shelf, and a chair.
+An image with a refrigerator, a chair, eighteen books, a light, a paper, a ceiling, a floor, a shelf, and a wall.

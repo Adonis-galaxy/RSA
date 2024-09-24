@@ -8,3 +8,8 @@ The image is a photograph of a busy city street.
 The image captures a bustling city street, with a focus on the interaction between a pedestrian and a parked car, highlighting the urban environment's hustle and bustle.
 A busy city street with parked cars, a person opening a car trunk, and apartment buildings lining the street.
 A busy city street with parked cars, a pedestrian, and a delivery truck.
+An image with fourteen cars, a road, a tree, a sky, a building, a pavement, and a person.
+An image with fourteen cars, a sky, a tree, a pavement, a person, a road, and a building.
+An image with fourteen cars, a building, a tree, a person, a road, a pavement, and a sky.
+An image with fourteen cars, a tree, a sky, a building, a road, a person, and a pavement.
+An image with fourteen cars, a road, a pavement, a person, a building, a tree, and a sky.

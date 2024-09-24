@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 A quiet residential street with a clear path for pedestrians and vehicles.
 The image shows a wide, tree-lined street with a sidewalk, a few parked cars, and a truck on the left side. The street is lined with tall, slender street lamps and there are large rocks on the sidewalk. The sky is clear and blue, indicating a sunny day.
 A quiet residential street with a paved pathway, lined with trees and parked vehicles, leading to a row of houses and apartment buildings.
+An image with four trucks, a house, a dirt, a road, a rock, a grass, a sky, a tree, and a car.
+An image with a grass, a rock, a house, a sky, four trucks, a tree, a road, a dirt, and a car.
+An image with a rock, a grass, a road, a sky, a car, four trucks, a dirt, a tree, and a house.
+An image with four trucks, a road, a sky, a rock, a dirt, a tree, a car, a house, and a grass.
+An image with a house, a rock, four trucks, a tree, a grass, a car, a road, a sky, and a dirt.

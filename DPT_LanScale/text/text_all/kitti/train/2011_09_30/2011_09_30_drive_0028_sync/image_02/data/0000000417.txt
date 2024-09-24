@@ -8,3 +8,8 @@ A car parked on the side of a street.
 A quiet residential street, with a parked car on the sidewalk and a truck in the distance, under a clear sky.
 A narrow street in a residential area, with a small white car parked on the side, a truck in the distance, and apartment buildings lining the street.
 A narrow street in a residential area, with parked cars, a truck, and apartment buildings on either side.
+An image with a house, a pavement, a car, a fence, a road, a roof, a tree, a window, a truck, and a wall.
+An image with a roof, a fence, a car, a wall, a tree, a road, a house, a window, a truck, and a pavement.
+An image with a road, a wall, a pavement, a car, a fence, a window, a truck, a roof, a tree, and a house.
+An image with a fence, a wall, a roof, a tree, a pavement, a truck, a car, a window, a house, and a road.
+An image with a tree, a house, a truck, a road, a wall, a roof, a pavement, a window, a fence, and a car.

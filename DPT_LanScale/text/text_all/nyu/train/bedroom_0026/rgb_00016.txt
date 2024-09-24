@@ -8,3 +8,8 @@ A bedroom with a bed, two suitcases, and a painting.
 The image captures a neatly arranged bedroom with a bed, two suitcases, a blue basket, and two framed pictures on the wall.
 The image shows a bedroom with a large bed, two suitcases, a blue basket, and two framed pictures on the wall.
 The image shows a neatly arranged bedroom with a bed, two suitcases, a blue basket, and two framed pictures on the wall.
+An image with a bed, a suitcase, a bird, a wall, a chair, a rug, a window, and a tv.
+An image with a bed, a chair, a wall, a window, a bird, a rug, a tv, and a suitcase.
+An image with a chair, a bird, a wall, a rug, a window, a tv, a suitcase, and a bed.
+An image with a wall, a chair, a window, a suitcase, a tv, a bird, a rug, and a bed.
+An image with a chair, a suitcase, a rug, a tv, a bird, a window, a bed, and a wall.

@@ -8,3 +8,8 @@ A white van parked on the side of a street.
 A quiet residential street, lined with parked cars and a fence, under a clear blue sky.
 A white van is parked on the side of a narrow street, with a blue fence and trees lining the road.
 A narrow, tree-lined street with parked cars and a fence on the right side.
+An image with five cars, a fence, a road, a tree, a sky, a house, two walls, and a pavement.
+An image with a fence, two walls, a pavement, five cars, a house, a sky, a road, and a tree.
+An image with two walls, a house, a pavement, a road, five cars, a fence, a tree, and a sky.
+An image with a pavement, two walls, a road, a tree, five cars, a sky, a fence, and a house.
+An image with two walls, a road, a tree, five cars, a pavement, a sky, a fence, and a house.

@@ -8,3 +8,8 @@ An empty orange box on a counter.
 An empty orange box on a counter next to two white cups.
 An empty orange box on a counter next to two white cups.
 The image shows an empty orange tray on a counter, with two white cups and a white container to the right.
+An image with a wall, two cups, a table, and a paper.
+An image with a paper, two cups, a table, and a wall.
+An image with a table, two cups, a paper, and a wall.
+An image with a paper, a table, two cups, and a wall.
+An image with a paper, two cups, a wall, and a table.

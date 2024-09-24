@@ -8,3 +8,8 @@ The image shows a row of empty seats in a lecture hall.
 The image shows an empty lecture hall with rows of chairs facing the front of the room.
 The image shows a row of empty seats in a lecture hall, with a single chair in the aisle.
 The image shows an empty room with rows of chairs facing each other, creating a symmetrical arrangement.
+An image with ten chairs, a floor, two benches, and a wall.
+An image with ten chairs, two benches, a wall, and a floor.
+An image with ten chairs, two benches, a wall, and a floor.
+An image with ten chairs, two benches, a wall, and a floor.
+An image with ten chairs, two benches, a floor, and a wall.

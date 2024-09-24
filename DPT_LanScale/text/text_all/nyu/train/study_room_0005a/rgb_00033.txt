@@ -8,3 +8,8 @@ The image shows an office space with several desks and chairs.
 The image captures an office space with a row of desks and chairs, illuminated by overhead lights, and featuring a large divider wall.
 The image shows an office space with a large desk, several chairs, and a high ceiling with recessed lighting.
 The image shows an office space with a row of desks and chairs, a long counter, and a high ceiling with recessed lighting.
+An image with six chairs, a ceiling, two walls, a floor, a table, and a light.
+An image with two walls, a table, a floor, six chairs, a ceiling, and a light.
+An image with six chairs, a table, a ceiling, a floor, two walls, and a light.
+An image with a table, a light, six chairs, two walls, a floor, and a ceiling.
+An image with two walls, a light, a ceiling, six chairs, a table, and a floor.

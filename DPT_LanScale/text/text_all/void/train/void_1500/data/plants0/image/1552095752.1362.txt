@@ -8,3 +8,8 @@ The image shows a patch of dirt with sparse vegetation.
 The image shows a sandy area with a few plants and trees, and a concrete ledge.
 The image shows a small patch of dirt with a few plants and trees, and a concrete ledge.
 The image shows a patch of dirt with sparse vegetation, surrounded by a concrete border, and a tree trunk in the foreground.
+An image with a sand, two walls, a floor, a pavement, and a tree.
+An image with a pavement, a tree, a sand, two walls, and a floor.
+An image with two walls, a tree, a pavement, a floor, and a sand.
+An image with a floor, two walls, a sand, a tree, and a pavement.
+An image with two walls, a sand, a pavement, a tree, and a floor.

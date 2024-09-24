@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 A quiet residential street, lined with houses and trees, under a clear blue sky.
 The image shows a narrow, tree-lined street between two-story buildings, with a person walking on the right side.
 A narrow, tree-lined street in a residential area, with a pedestrian crossing and a traffic light, leading to a white house with a black roof.
+An image with a pavement, a tree, a house, a road, a grass, a stop, a sky, a truck, a car, and a person.
+An image with a stop, a tree, a person, a house, a road, a car, a grass, a pavement, a sky, and a truck.
+An image with a truck, a tree, a pavement, a person, a stop, a house, a road, a grass, a car, and a sky.
+An image with a truck, a stop, a road, a car, a sky, a house, a grass, a person, a pavement, and a tree.
+An image with a car, a stop, a tree, a house, a truck, a grass, a pavement, a sky, a road, and a person.

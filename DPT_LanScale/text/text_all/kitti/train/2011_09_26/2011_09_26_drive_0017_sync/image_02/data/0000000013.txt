@@ -8,3 +8,8 @@ The image shows a small white car driving down a wide street with multiple traff
 A small yellow car is crossing a wide, empty road with multiple traffic lights and signs, under a clear blue sky.
 A small white car is driving down a wide, empty road with multiple traffic lights and signs.
 A small white car is driving down a wide, empty road with multiple traffic lights and signs, and a clear blue sky overhead.
+An image with a tree, three traffics, a car, a pavement, a road, and a person.
+An image with a person, a road, three traffics, a car, a pavement, and a tree.
+An image with a tree, three traffics, a pavement, a person, a road, and a car.
+An image with a road, a pavement, a car, three traffics, a tree, and a person.
+An image with a pavement, three traffics, a road, a car, a person, and a tree.

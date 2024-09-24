@@ -8,3 +8,8 @@ A black computer chair with white lettering.
 A computer desk with a laptop, two keyboards, and a mouse.
 A black computer chair with the word "seasnet" written on it, positioned in front of a wooden desk with a laptop and a computer mouse.
 A computer desk with a laptop, two keyboards, and a mouse.
+An image with two chairs, a table, two mice, two keyboards, a tv, a paper, a wall, and a rug.
+An image with a tv, a paper, a table, two mice, two chairs, a rug, a wall, and two keyboards.
+An image with two chairs, a rug, a paper, two mice, two keyboards, a wall, a tv, and a table.
+An image with two chairs, two mice, a rug, a tv, two keyboards, a wall, a table, and a paper.
+An image with two chairs, a rug, a table, two keyboards, a tv, a paper, two mice, and a wall.

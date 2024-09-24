@@ -8,3 +8,8 @@ The image shows a street scene with a yellow van parked on the side of the road.
 A yellow van parked on the side of a narrow street, with a white house and a brick wall in the background.
 A yellow car is parked on the side of a narrow street lined with houses and trees.
 A narrow street with a yellow van parked on the side, lined by white houses and a brick wall.
+An image with a tree, a wall, two cars, a pavement, a road, a sky, and a house.
+An image with a house, a road, a pavement, a tree, two cars, a wall, and a sky.
+An image with a wall, two cars, a pavement, a sky, a tree, a road, and a house.
+An image with a house, a sky, two cars, a road, a pavement, a tree, and a wall.
+An image with a road, a wall, a pavement, a sky, a tree, a house, and two cars.

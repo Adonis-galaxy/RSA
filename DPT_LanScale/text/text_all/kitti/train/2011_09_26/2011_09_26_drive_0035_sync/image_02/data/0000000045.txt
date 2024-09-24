@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white house.
 The image captures a typical day in a suburban neighborhood, with parked cars lining the street in front of residential houses, and a few vehicles moving along the road.
 The image shows a street scene with a mix of parked and moving vehicles, including cars, trucks, and a bus, in front of a row of houses and businesses.
 The image depicts a residential street with parked cars, a curved road, and a mix of houses and commercial buildings.
+An image with four trucks, twelve cars, a wall, a fence, a house, a pavement, a potted, a tree, a sky, and a road.
+An image with a potted, twelve cars, a wall, four trucks, a fence, a sky, a pavement, a road, a tree, and a house.
+An image with a potted, twelve cars, a sky, four trucks, a house, a tree, a wall, a fence, a pavement, and a road.
+An image with twelve cars, a fence, four trucks, a tree, a wall, a road, a pavement, a house, a sky, and a potted.
+An image with a wall, twelve cars, four trucks, a potted, a road, a house, a tree, a pavement, a fence, and a sky.

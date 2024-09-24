@@ -8,3 +8,8 @@ An orange plastic triangle on a white table.
 An orange plastic triangle on a dirty white table.
 A white plastic table with a single orange cone on it.
 A white plastic table with a single orange cone on it, placed in a room with a tiled floor.
+An image with a wall, a chair, a floor, and a surfboard.
+An image with a wall, a chair, a floor, and a surfboard.
+An image with a surfboard, a wall, a floor, and a chair.
+An image with a surfboard, a chair, a wall, and a floor.
+An image with a wall, a surfboard, a chair, and a floor.

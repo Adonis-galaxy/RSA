@@ -8,3 +8,8 @@ The image shows a room with two bunk beds and a chair.
 The image shows a room with two bunk beds, each with a plaid bedspread, and a single chair in the corner.
 The image shows a room with two bunk beds, a chair, and a window with blinds.
 The image shows a room with two bunk beds, a chair, and a window with blinds.
+An image with two beds, a window, a floor, a door, a chair, and a wall.
+An image with a wall, a floor, two beds, a window, a chair, and a door.
+An image with two beds, a chair, a window, a wall, a floor, and a door.
+An image with a wall, a window, a door, a chair, a floor, and two beds.
+An image with a window, a floor, a chair, a wall, a door, and two beds.

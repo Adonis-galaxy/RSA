@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a construction zone.
 The image captures a quiet residential street, with parked cars and a construction barrier, under a clear blue sky.
 A narrow street with parked cars, a traffic light, and a construction barrier.
 A narrow street with parked cars, a construction zone, and a white building with a red roof.
+An image with two trucks, a pavement, a car, a road, a wall, a tree, a sky, and a window.
+An image with a pavement, a car, two trucks, a road, a window, a wall, a sky, and a tree.
+An image with two trucks, a window, a wall, a sky, a pavement, a road, a car, and a tree.
+An image with a tree, two trucks, a pavement, a road, a car, a wall, a window, and a sky.
+An image with a car, a tree, a sky, a window, a wall, a pavement, two trucks, and a road.

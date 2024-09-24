@@ -8,3 +8,8 @@ The image shows a narrow, tree-lined street.
 A narrow, tree-lined alleyway between two brick walls, with parked cars and a clear sky overhead.
 The image shows a narrow, tree-lined street with parked cars on the sides, a brick wall on one side, and a clear sky overhead.
 A narrow, tree-lined street with parked cars and a brick wall on one side, leading to a residential area.
+An image with a wall, a house, two cars, a sky, a tree, and a pavement.
+An image with a tree, two cars, a pavement, a house, a sky, and a wall.
+An image with a wall, a house, two cars, a tree, a pavement, and a sky.
+An image with a tree, a sky, a pavement, two cars, a wall, and a house.
+An image with a house, a pavement, two cars, a wall, a sky, and a tree.

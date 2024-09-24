@@ -8,3 +8,8 @@ The image shows a classroom setting with a desk and two chairs.
 The image shows a classroom setting with a desk, two chairs, and a cabinet.
 The image shows a small orange cabinet with two silver handles, placed between two blue chairs in a room with a white countertop.
 The image shows a classroom setting with a desk and two chairs, one of which is blue and the other is orange.
+An image with a floor, two chairs, a counter, and a cabinet.
+An image with a floor, a counter, two chairs, and a cabinet.
+An image with a counter, two chairs, a cabinet, and a floor.
+An image with two chairs, a floor, a cabinet, and a counter.
+An image with two chairs, a floor, a counter, and a cabinet.

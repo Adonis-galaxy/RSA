@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and a white house.
 A quiet residential street with parked cars and a white house with a red roof.
 The image shows a residential street with parked cars, a white house with a red roof, a red car parked in front of the house, a black car parked on the side of the street, a white truck parked on the side of the street, a green fence, a sidewalk, and trees lining the street.
 A residential street with parked cars, a white house with a red roof, and a fenced yard.
+An image with six cars, a sky, a fence, two trucks, a pavement, a house, a tree, a grass, and a road.
+An image with six cars, a fence, a pavement, a grass, two trucks, a tree, a sky, a road, and a house.
+An image with two trucks, six cars, a sky, a tree, a house, a pavement, a road, a grass, and a fence.
+An image with a grass, two trucks, a sky, six cars, a house, a tree, a pavement, a road, and a fence.
+An image with a road, a fence, six cars, two trucks, a house, a tree, a pavement, a grass, and a sky.

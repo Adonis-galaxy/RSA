@@ -8,3 +8,8 @@ A street in a residential area.
 A quiet residential street with parked cars and a lone truck, under a clear sky.
 A narrow street lined with parked cars and white garages, with a large truck parked on the sidewalk.
 A quiet residential street with parked cars, lined by white garages and lush greenery.
+An image with six cars, a sky, a truck, a tree, a building, a road, and a pavement.
+An image with six cars, a sky, a truck, a road, a pavement, a building, and a tree.
+An image with a building, six cars, a tree, a pavement, a truck, a road, and a sky.
+An image with a truck, a tree, six cars, a road, a building, a pavement, and a sky.
+An image with a tree, six cars, a road, a sky, a building, a truck, and a pavement.

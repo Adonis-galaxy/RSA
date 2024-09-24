@@ -8,3 +8,8 @@ A coffee mug on a table.
 A coffee mug sits next to a box of Annie's Cheddar Bunnies on a cluttered desk.
 A coffee mug sits on a table next to a box of Annie's Cheddar Bunnies, a black umbrella, a black case, and a black clock.
 A coffee mug sits on a wooden table next to a box of Annie's Cheddar Bunnies, a black umbrella, and a black case.
+An image with a paper, a floor, a cup, a umbrella, a chair, a cardboard, a cabinet, and a table.
+An image with a chair, a paper, a umbrella, a cabinet, a cup, a cardboard, a floor, and a table.
+An image with a cardboard, a chair, a paper, a umbrella, a cabinet, a table, a floor, and a cup.
+An image with a cup, a table, a floor, a cabinet, a paper, a umbrella, a chair, and a cardboard.
+An image with a chair, a floor, a table, a paper, a cup, a cabinet, a cardboard, and a umbrella.

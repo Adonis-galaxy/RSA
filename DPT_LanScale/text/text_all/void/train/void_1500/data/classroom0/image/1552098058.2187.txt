@@ -8,3 +8,8 @@ A projector on a cart.
 A computer monitor on a stand in a room with a step.
 The image shows a small black and gray computer desk with a monitor on top, placed in a corner of a room with a beige carpet and a white wall.
 The image shows a room with a desk and a chair, and there is a projector on the desk.
+An image with a floor, two tvs, two chairs, and a wall.
+An image with two tvs, a wall, two chairs, and a floor.
+An image with two tvs, a floor, two chairs, and a wall.
+An image with a wall, a floor, two chairs, and two tvs.
+An image with two chairs, a wall, a floor, and two tvs.

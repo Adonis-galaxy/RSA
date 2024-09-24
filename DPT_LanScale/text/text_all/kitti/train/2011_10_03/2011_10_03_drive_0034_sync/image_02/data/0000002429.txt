@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars lining the curb and a large house with a garage in the background.
 The image shows a residential street with parked cars, a sidewalk, and a building in the background.
 A quiet residential street with parked cars and a building in the background.
+An image with a pavement, four cars, a fence, a mountain, a house, a road, a tree, a sky, and a roof.
+An image with a mountain, a sky, a house, four cars, a tree, a pavement, a road, a fence, and a roof.
+An image with a tree, a pavement, a roof, four cars, a sky, a house, a road, a fence, and a mountain.
+An image with four cars, a pavement, a roof, a fence, a house, a tree, a road, a sky, and a mountain.
+An image with a pavement, four cars, a house, a sky, a roof, a mountain, a fence, a road, and a tree.

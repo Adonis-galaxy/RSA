@@ -8,3 +8,8 @@ The image shows a room with several chairs and a green object.
 The image shows an empty classroom with rows of chairs facing a green board, and a whiteboard in the corner.
 The image shows a room with several chairs and a large green object in the background.
 The image shows an empty classroom with rows of chairs facing a green board, and a whiteboard in the corner.
+An image with eight chairs, a floor, a refrigerator, two walls, and a window.
+An image with a floor, a refrigerator, eight chairs, two walls, and a window.
+An image with eight chairs, two walls, a floor, a refrigerator, and a window.
+An image with eight chairs, a refrigerator, a window, two walls, and a floor.
+An image with eight chairs, two walls, a refrigerator, a window, and a floor.

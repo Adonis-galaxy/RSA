@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a focus on the tram tracks that run down the center, flanked by lively shops and restaurants on either side.
 The image depicts a narrow street lined with buildings, shops, and restaurants, with a train track running down the middle.
 The image captures a bustling city street, lined with shops and restaurants, flanked by buildings and potted plants, and bisected by a tram track.
+An image with six chairs, twelve people, a sky, two umbrellas, a potted, two dinings, a pavement, a tree, a building, a banner, a railroad, and a bicycle.
+An image with a pavement, a tree, six chairs, two umbrellas, twelve people, a sky, a building, a railroad, a banner, a potted, a bicycle, and two dinings.
+An image with twelve people, six chairs, a railroad, two umbrellas, two dinings, a tree, a building, a banner, a sky, a potted, a bicycle, and a pavement.
+An image with twelve people, two umbrellas, two dinings, a tree, six chairs, a bicycle, a pavement, a banner, a building, a railroad, a sky, and a potted.
+An image with a railroad, six chairs, twelve people, two dinings, a banner, a pavement, two umbrellas, a building, a tree, a potted, a sky, and a bicycle.

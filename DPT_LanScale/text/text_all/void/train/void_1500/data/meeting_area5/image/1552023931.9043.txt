@@ -8,3 +8,8 @@ A row of white office chairs.
 A row of white chairs with black wheels, positioned in front of a long white table.
 A row of four white chairs with black wheels, positioned in front of a long white table.
 A row of white chairs with black wheels and a white table with a black edge, all on a gray carpet.
+An image with four chairs, a wall, a curtain, a dining, and a floor.
+An image with four chairs, a curtain, a floor, a wall, and a dining.
+An image with four chairs, a floor, a dining, a wall, and a curtain.
+An image with a curtain, four chairs, a dining, a floor, and a wall.
+An image with four chairs, a floor, a curtain, a wall, and a dining.

@@ -8,3 +8,8 @@ A blue truck on a street.
 A blue truck is parked on the side of a road, adjacent to a grassy area and a residential neighborhood, with a clear blue sky overhead.
 A large blue truck is driving down a narrow street lined with houses and trees.
 A blue truck is parked on the side of a road, adjacent to a grassy area and a residential neighborhood, with a clear blue sky overhead.
+An image with a truck, a house, a grass, a tree, three cars, a pavement, a sky, and a road.
+An image with three cars, a tree, a truck, a sky, a grass, a road, a pavement, and a house.
+An image with a tree, a house, three cars, a pavement, a grass, a road, a sky, and a truck.
+An image with three cars, a grass, a road, a sky, a truck, a tree, a pavement, and a house.
+An image with three cars, a truck, a grass, a sky, a house, a tree, a road, and a pavement.

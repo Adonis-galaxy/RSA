@@ -8,3 +8,8 @@ A car parked on the side of a street.
 A silver car parked on the side of a quiet residential street, with a white wall and a hedge in the background.
 A small white car is parked on the side of a narrow street lined with houses and trees.
 A narrow street with parked cars, lined by houses and hedges, under a clear blue sky.
+An image with three cars, a sky, a pavement, a house, a tree, a wall, and a road.
+An image with a tree, three cars, a wall, a road, a pavement, a sky, and a house.
+An image with a tree, three cars, a house, a wall, a road, a sky, and a pavement.
+An image with a house, three cars, a pavement, a road, a sky, a tree, and a wall.
+An image with a sky, three cars, a pavement, a wall, a road, a house, and a tree.

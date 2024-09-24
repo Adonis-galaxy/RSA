@@ -8,3 +8,8 @@ The image shows a white office chair with a black base.
 The image shows two white office chairs with black wheels on a gray carpeted floor.
 The image shows a white desk with a chair, the chair has a black wheel and is placed on a gray carpet.
 The image shows two white office chairs with black wheels on a gray carpeted floor, positioned in front of a white desk.
+An image with two chairs, a wall, a dining, and a floor.
+An image with a dining, a floor, two chairs, and a wall.
+An image with a dining, two chairs, a wall, and a floor.
+An image with a floor, two chairs, a dining, and a wall.
+An image with a floor, two chairs, a wall, and a dining.

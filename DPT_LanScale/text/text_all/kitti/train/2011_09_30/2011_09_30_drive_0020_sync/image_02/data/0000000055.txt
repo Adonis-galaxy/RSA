@@ -8,3 +8,8 @@ The image shows a street scene with a construction area, a building under renova
 The image captures a scene of urban construction, featuring a sidewalk under renovation, a fenced-off area with construction materials, and a building undergoing renovation.
 The image shows a large construction site with a paved road, a fence, a truck, and various construction materials.
 A construction site with a paved path, a fence, and a truck parked in front of a building under renovation.
+An image with five cars, a fence, a grass, a pavement, a tree, a road, a building, and a truck.
+An image with five cars, a road, a grass, a pavement, a truck, a fence, a tree, and a building.
+An image with a grass, five cars, a fence, a pavement, a road, a tree, a truck, and a building.
+An image with a fence, five cars, a truck, a building, a pavement, a tree, a grass, and a road.
+An image with a pavement, a road, a fence, five cars, a grass, a building, a tree, and a truck.

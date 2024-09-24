@@ -8,3 +8,8 @@ A desk with a chair in a room.
 A desk with a heart shape on it is placed in a corner of a room next to a green trash can.
 A small orange desk is placed in a corner of a room, next to a green trash can.
 The image shows a small room with a desk and chair in the corner, a trash can against the wall, and a door on the right.
+An image with a floor, two walls, a dining, a door, and two chairs.
+An image with a dining, two chairs, two walls, a door, and a floor.
+An image with two walls, a floor, a dining, a door, and two chairs.
+An image with two walls, two chairs, a floor, a door, and a dining.
+An image with a door, a dining, two chairs, two walls, and a floor.

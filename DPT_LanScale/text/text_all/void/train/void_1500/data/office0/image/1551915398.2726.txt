@@ -8,3 +8,8 @@ A black flat screen television mounted on a wall.
 A black flat screen television is mounted on a white wall above a black leather couch.
 A flat screen television is mounted on a wall above a black leather couch, with a black coat hanging on a rack to the left of the couch.
 A black flat screen television is mounted on a white wall above a black leather couch, with a wooden coat rack to the left.
+An image with a couch, a wall, two chairs, and a tv.
+An image with a couch, two chairs, a tv, and a wall.
+An image with two chairs, a couch, a tv, and a wall.
+An image with two chairs, a tv, a wall, and a couch.
+An image with a couch, a tv, two chairs, and a wall.

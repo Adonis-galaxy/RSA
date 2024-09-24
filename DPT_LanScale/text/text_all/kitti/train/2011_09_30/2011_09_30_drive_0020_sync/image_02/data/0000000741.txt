@@ -8,3 +8,8 @@ The image shows a street view with a row of houses on the left side and a buildi
 The image captures a serene residential street, lined with houses and trees, leading to a large building, with a clear blue sky overhead.
 The image shows a long, narrow street lined with trees and buildings, with a few cars parked along the sides.
 The image depicts a residential street with a row of houses, a paved sidewalk, and a tree-lined road, all under a clear blue sky.
+An image with a house, a pavement, nine cars, a grass, a bicycle, a tree, a road, and a building.
+An image with nine cars, a building, a road, a pavement, a tree, a house, a grass, and a bicycle.
+An image with a house, nine cars, a pavement, a building, a tree, a grass, a road, and a bicycle.
+An image with nine cars, a grass, a house, a bicycle, a tree, a building, a pavement, and a road.
+An image with nine cars, a bicycle, a road, a tree, a building, a grass, a house, and a pavement.

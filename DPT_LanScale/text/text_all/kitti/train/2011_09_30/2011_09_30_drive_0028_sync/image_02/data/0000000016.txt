@@ -8,3 +8,8 @@ The image shows a street scene with cars parked along the side of the road.
 The image captures a bustling city street, with a mix of vehicles and buildings, showcasing the essence of urban life.
 A narrow street in a residential area with parked cars and a truck, with apartment buildings on either side.
 A narrow street in a residential area with parked cars and a truck, leading to apartment buildings.
+An image with eight cars, a road, a truck, a tree, a sky, a fence, and a house.
+An image with a tree, eight cars, a sky, a truck, a road, a house, and a fence.
+An image with eight cars, a tree, a house, a road, a sky, a fence, and a truck.
+An image with eight cars, a sky, a fence, a tree, a road, a truck, and a house.
+An image with a tree, eight cars, a truck, a house, a sky, a fence, and a road.

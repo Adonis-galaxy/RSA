@@ -8,3 +8,8 @@ The image shows a street scene with a blue car parked on the side of the road.
 A quiet residential street, with a parked blue car and a few people, under a bright sunny sky.
 A blue car is parked on a narrow street between two houses, with a person standing on the sidewalk.
 A quiet residential street with parked cars, lined by trees and a sidewalk.
+An image with two people, a house, three cars, a road, a tree, a wall, a grass, and a pavement.
+An image with a grass, a house, two people, a road, a tree, three cars, a wall, and a pavement.
+An image with a tree, three cars, two people, a pavement, a grass, a house, a road, and a wall.
+An image with a grass, three cars, a wall, a road, a house, two people, a pavement, and a tree.
+An image with a grass, three cars, a tree, a pavement, two people, a wall, a house, and a road.

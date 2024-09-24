@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars driving on it.
 The image captures a bustling highway scene with a mix of vehicles, trees, and road signs, highlighting the essence of a busy road in a rural or semi-rural area.
 A long, winding road with multiple lanes filled with cars, surrounded by lush greenery and bordered by trees, with a clear sky overhead.
 A long, tree-lined road with multiple lanes of traffic, marked by white lines and a speed limit sign, leading to a clearing with a triangular sign.
+An image with seven cars, a pavement, a grass, a stop, a road, a sky, and a tree.
+An image with seven cars, a grass, a road, a sky, a tree, a pavement, and a stop.
+An image with seven cars, a stop, a road, a sky, a pavement, a grass, and a tree.
+An image with seven cars, a grass, a sky, a road, a pavement, a stop, and a tree.
+An image with seven cars, a stop, a road, a grass, a tree, a sky, and a pavement.

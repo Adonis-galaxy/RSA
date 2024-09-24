@@ -8,3 +8,8 @@ A red car parked on a narrow street.
 A red car parked on a narrow, tree-lined street between two-story buildings, with a clear sky overhead.
 A red car is parked on a narrow street between two buildings, with a clear sky overhead.
 A narrow, tree-lined street in a residential area, with a red car parked on the right side.
+An image with four cars, a road, a tree, a bird, a house, a sky, a person, and a pavement.
+An image with four cars, a sky, a bird, a house, a person, a tree, a road, and a pavement.
+An image with a sky, a person, a bird, four cars, a house, a tree, a road, and a pavement.
+An image with a tree, four cars, a house, a road, a pavement, a sky, a person, and a bird.
+An image with four cars, a sky, a road, a house, a pavement, a bird, a tree, and a person.

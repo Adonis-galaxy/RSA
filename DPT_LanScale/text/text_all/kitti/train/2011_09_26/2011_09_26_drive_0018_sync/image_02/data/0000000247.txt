@@ -8,3 +8,8 @@ The image shows a street with multiple traffic lights and signs.
 The image captures a quiet, empty road with a few traffic lights and signs, leading towards a forest.
 The image shows a wide, empty road with a few traffic lights and signs, a train track, and a bus stop.
 The image depicts a wide, empty road with multiple traffic lights and signs, leading to a train crossing, with a clear sky and lush greenery in the background.
+An image with six traffics, a grass, a sky, a car, a road, a bus, a pavement, a tree, and a railroad.
+An image with a pavement, six traffics, a bus, a sky, a car, a grass, a railroad, a tree, and a road.
+An image with six traffics, a pavement, a tree, a railroad, a car, a bus, a road, a sky, and a grass.
+An image with a tree, a road, six traffics, a bus, a car, a railroad, a sky, a grass, and a pavement.
+An image with a sky, a grass, a tree, a road, six traffics, a railroad, a bus, a pavement, and a car.

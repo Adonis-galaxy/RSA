@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street scene, featuring a row of white buildings with balconies, a paved road, and a sidewalk, with a few potted plants adding a touch of greenery to the urban setting.
 The image shows a residential street with a row of houses, a sidewalk, and a road. The houses are of various sizes, with the largest one being the most prominent. The street is lined with trees and bushes, and there are potted plants on the sidewalk. The sky is clear and blue, indicating a sunny day.
 The image shows a residential street with a row of houses, each with a balcony and a garage, leading up to a larger building with a garden and a staircase.
+An image with a tree, a house, a door, a road, two potteds, a fence, a pavement, a grass, a wall, and a sky.
+An image with a pavement, a door, a road, a wall, a sky, a tree, a house, two potteds, a grass, and a fence.
+An image with a sky, a door, a road, a tree, a grass, two potteds, a wall, a pavement, a fence, and a house.
+An image with a fence, a pavement, a tree, a grass, a road, two potteds, a wall, a door, a house, and a sky.
+An image with a tree, a door, a grass, a pavement, two potteds, a house, a wall, a sky, a fence, and a road.

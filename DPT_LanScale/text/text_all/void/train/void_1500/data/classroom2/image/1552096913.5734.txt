@@ -8,3 +8,8 @@ The image shows a classroom with several chairs and desks.
 The image shows a classroom setting with two desks and two chairs, one of which is a desk with a curved top and the other is a chair with a curved back.
 The image shows a classroom with several black chairs and a wooden desk, all placed on a gray carpeted floor.
 The image shows a classroom setting with rows of black chairs and wooden desks, all facing the same direction.
+An image with a wall, four chairs, a table, and a floor.
+An image with a table, a floor, four chairs, and a wall.
+An image with four chairs, a table, a wall, and a floor.
+An image with a wall, a table, a floor, and four chairs.
+An image with four chairs, a floor, a table, and a wall.

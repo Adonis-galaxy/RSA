@@ -8,3 +8,8 @@ The image shows a room with four desks, each equipped with a computer and a chai
 The image shows an office setting with multiple desks each equipped with a computer, a chair, and a clock on the wall.
 The image shows a room with four desks, each equipped with a desktop computer and a chair. The desks are arranged in a square pattern, and there is a clock on the wall.
 The image shows a room with four desks, each equipped with a computer and a chair, arranged in a square pattern with a clock on the wall.
+An image with three keyboards, a table, three tvs, a rug, three chairs, three mice, a wall, and a clock.
+An image with three chairs, a table, three mice, three keyboards, three tvs, a clock, a wall, and a rug.
+An image with three chairs, three keyboards, three mice, a rug, a table, three tvs, a wall, and a clock.
+An image with three keyboards, a wall, three tvs, three mice, three chairs, a clock, a table, and a rug.
+An image with three keyboards, a rug, a clock, three tvs, three mice, three chairs, a table, and a wall.

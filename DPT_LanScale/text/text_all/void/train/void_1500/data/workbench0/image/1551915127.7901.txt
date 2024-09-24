@@ -8,3 +8,8 @@ A pair of shoes on the floor.
 A pair of shoes on the floor next to a desk with a computer and a chair.
 A small office cubicle with a desk, chair, and a box of shoes on the floor.
 A computer desk with a chair, a filing cabinet, a black computer tower, and a pair of shoes on the floor.
+An image with four chairs, a cabinet, two tvs, a towel, a wall, a cardboard, a table, a mouse, a window, and a floor.
+An image with a towel, a table, a cabinet, two tvs, a cardboard, a window, a floor, four chairs, a wall, and a mouse.
+An image with a mouse, a cardboard, two tvs, a window, a cabinet, a wall, four chairs, a floor, a towel, and a table.
+An image with a table, a wall, a floor, four chairs, a mouse, two tvs, a cabinet, a towel, a window, and a cardboard.
+An image with a window, four chairs, a mouse, two tvs, a cardboard, a table, a cabinet, a towel, a wall, and a floor.

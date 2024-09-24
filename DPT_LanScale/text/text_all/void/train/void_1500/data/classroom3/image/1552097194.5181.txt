@@ -8,3 +8,8 @@ A computer monitor on a desk.
 The image shows a computer desk with a monitor, keyboard, and mouse.
 The image shows a computer desk with a monitor, keyboard, and mouse, with the monitor being the largest object in the scene.
 The image shows a computer desk with a monitor, keyboard, and mouse, all arranged neatly on a white surface.
+An image with two keyboards, a table, three tvs, and a wall.
+An image with two keyboards, a wall, a table, and three tvs.
+An image with three tvs, two keyboards, a table, and a wall.
+An image with three tvs, two keyboards, a table, and a wall.
+An image with three tvs, a wall, two keyboards, and a table.

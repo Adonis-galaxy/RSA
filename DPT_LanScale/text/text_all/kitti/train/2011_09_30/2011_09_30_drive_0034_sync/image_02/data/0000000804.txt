@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a serene residential street, lined with trees and houses, bathed in the soft glow of a sunny day.
 The image shows a tree-lined street with a white building on the right side, a car parked in front of the building, and a sidewalk on the right side. The street is lined with trees and bushes, and the sky is visible in the background.
 The image depicts a tree-lined street with a clear view of a white building on the right side, leading to a cul-de-sac.
+An image with a wall, a pavement, a road, a tree, a house, and a sky.
+An image with a pavement, a wall, a road, a tree, a sky, and a house.
+An image with a house, a tree, a road, a pavement, a sky, and a wall.
+An image with a road, a pavement, a tree, a sky, a house, and a wall.
+An image with a road, a wall, a house, a sky, a pavement, and a tree.

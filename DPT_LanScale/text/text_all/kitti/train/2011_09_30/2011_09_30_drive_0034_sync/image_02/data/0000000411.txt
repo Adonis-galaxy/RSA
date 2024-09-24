@@ -8,3 +8,8 @@ The image shows a narrow street between two white buildings.
 A quiet residential street, lined with houses and trees, leading to a cul-de-sac.
 The image shows a narrow, tree-lined street between two-story houses, with parked cars, potted plants, and a bench visible.
 A narrow, tree-lined street between two-story houses, with parked cars and a paved sidewalk.
+An image with three cars, a house, a fence, a pavement, a tree, a truck, a grass, and a sky.
+An image with three cars, a grass, a house, a truck, a fence, a pavement, a tree, and a sky.
+An image with a fence, three cars, a pavement, a sky, a house, a tree, a truck, and a grass.
+An image with three cars, a truck, a pavement, a fence, a tree, a house, a sky, and a grass.
+An image with a truck, a grass, a fence, three cars, a pavement, a sky, a house, and a tree.

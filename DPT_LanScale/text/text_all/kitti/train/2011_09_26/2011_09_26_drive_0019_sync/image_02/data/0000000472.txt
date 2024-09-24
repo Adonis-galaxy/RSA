@@ -8,3 +8,8 @@ A black car on a street.
 A black car is driving down a tree-lined street, with other cars parked on the side, and a person walking on the sidewalk.
 A black car is driving down a narrow street lined with trees and parked cars.
 A black car is driving down a tree-lined street with parked cars on the side.
+An image with six cars, a tree, a grass, a person, a truck, a road, and a sky.
+An image with six cars, a road, a sky, a person, a grass, a truck, and a tree.
+An image with six cars, a road, a tree, a person, a sky, a grass, and a truck.
+An image with a person, six cars, a road, a tree, a sky, a truck, and a grass.
+An image with six cars, a truck, a tree, a sky, a person, a road, and a grass.

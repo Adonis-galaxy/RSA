@@ -8,3 +8,8 @@ The image shows a patch of dirt with sparse vegetation, including a palm tree an
 The image shows a patch of dirt with sparse vegetation, a tree trunk, and a concrete curb.
 The image shows a small patch of dirt with a few plants and a tree stump, all surrounded by a concrete curb.
 The image shows a patch of dirt with sparse vegetation, a tree trunk, and a concrete curb.
+An image with a pavement, a road, two walls, a tree, and a sand.
+An image with a road, two walls, a pavement, a tree, and a sand.
+An image with two walls, a tree, a road, a sand, and a pavement.
+An image with two walls, a pavement, a sand, a road, and a tree.
+An image with a pavement, a sand, a road, two walls, and a tree.

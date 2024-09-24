@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a narrow street between buildings, with a train track running parallel to the street, and people walking on the sidewalk.
 A woman rides a bicycle down a narrow street between buildings, with a train track running through the middle.
 A woman rides a bicycle down a narrow street between buildings, with a train track running parallel to the sidewalk.
+An image with ten people, a bicycle, a sky, a tree, a railroad, a building, a backpack, and a pavement.
+An image with a pavement, a backpack, ten people, a tree, a building, a sky, a bicycle, and a railroad.
+An image with ten people, a building, a bicycle, a backpack, a pavement, a railroad, a tree, and a sky.
+An image with ten people, a building, a backpack, a pavement, a sky, a tree, a bicycle, and a railroad.
+An image with ten people, a tree, a railroad, a building, a backpack, a sky, a pavement, and a bicycle.

@@ -8,3 +8,8 @@ The image shows a row of black chairs with white lettering on the backrests, pla
 The image shows a row of black chairs with white trim on a brown carpeted floor, with a white desk in the foreground.
 The image shows a row of black chairs with silver legs on a brown carpeted floor.
 The image shows a row of black chairs with white lettering on the backrests, placed on a brown carpeted floor.
+An image with a mouse, a table, a rug, and a chair.
+An image with a table, a chair, a rug, and a mouse.
+An image with a rug, a chair, a mouse, and a table.
+An image with a chair, a table, a mouse, and a rug.
+An image with a table, a rug, a mouse, and a chair.

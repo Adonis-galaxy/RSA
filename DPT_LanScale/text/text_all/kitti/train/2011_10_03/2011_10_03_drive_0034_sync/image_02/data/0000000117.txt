@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a few parked cars, leading to a white building with a green hedge.
 The image shows a tree-lined street with a car parked on the side, a blue sign on a pole, and a white building in the background.
 A tree-lined street with a car parked on the side, leading to a white building with a green hedge in the background.
+An image with a wall, three cars, a grass, a pavement, a tree, a sky, and a road.
+An image with a grass, a sky, three cars, a tree, a pavement, a wall, and a road.
+An image with a grass, a wall, a road, three cars, a tree, a sky, and a pavement.
+An image with a grass, three cars, a pavement, a wall, a road, a tree, and a sky.
+An image with a wall, a grass, a road, a tree, three cars, a sky, and a pavement.

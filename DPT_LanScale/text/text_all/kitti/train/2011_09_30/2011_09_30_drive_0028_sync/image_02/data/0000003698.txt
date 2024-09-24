@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and apartment buildings.
 The image captures a quiet residential street scene, with parked cars and apartment buildings, under a bright sunny day.
 The image shows a narrow street between two buildings, with a blue car parked on the right side, a white van parked on the left side, and a white car parked in the middle.
 The image shows a narrow street with parked cars, apartment buildings, and trees, with a blue car driving down the road.
+An image with five cars, a grass, a building, a road, a tree, a wall, and a fence.
+An image with a grass, a building, a tree, five cars, a fence, a wall, and a road.
+An image with five cars, a building, a wall, a road, a fence, a grass, and a tree.
+An image with a grass, a tree, a fence, a building, five cars, a road, and a wall.
+An image with five cars, a fence, a building, a tree, a grass, a wall, and a road.

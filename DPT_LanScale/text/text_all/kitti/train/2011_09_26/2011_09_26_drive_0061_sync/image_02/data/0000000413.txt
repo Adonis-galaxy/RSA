@@ -8,3 +8,8 @@ A narrow street between two walls.
 A narrow, tree-lined street with a car parked on the left side, leading to a staircase on the right.
 A narrow, tree-lined street with a car parked on the left side, leading to a staircase on the right.
 A narrow, tree-lined street with a car parked on the left side, leading to a staircase on the right.
+An image with two cars, a fence, a wall, a grass, a tree, a building, a road, a sky, and a pavement.
+An image with a building, two cars, a grass, a fence, a sky, a road, a wall, a pavement, and a tree.
+An image with a pavement, a road, two cars, a building, a wall, a sky, a fence, a grass, and a tree.
+An image with a tree, a fence, a sky, a road, a grass, a building, a wall, two cars, and a pavement.
+An image with two cars, a building, a road, a wall, a fence, a sky, a pavement, a tree, and a grass.

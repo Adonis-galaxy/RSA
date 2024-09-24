@@ -8,3 +8,8 @@ The image shows a street scene with a yellow van parked on the side of the road.
 The image captures a quiet residential street, with a yellow van parked on the side of the road, adjacent to a brick wall and a white house with a red roof, under a clear blue sky.
 The image shows a narrow street lined with houses, a yellow van parked on the side, and a tree-lined sidewalk.
 The image depicts a narrow street lined with houses and trees, with a yellow vehicle parked on the side of the road.
+An image with a clock, a fence, a house, a road, two walls, a tree, a pavement, a car, and a sky.
+An image with a road, a fence, a sky, two walls, a pavement, a house, a clock, a tree, and a car.
+An image with a road, a pavement, a car, a tree, two walls, a fence, a house, a sky, and a clock.
+An image with a car, a tree, a fence, two walls, a sky, a road, a pavement, a clock, and a house.
+An image with a car, a house, a sky, a fence, a clock, a pavement, a tree, a road, and two walls.

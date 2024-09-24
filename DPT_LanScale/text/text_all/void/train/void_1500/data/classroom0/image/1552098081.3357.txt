@@ -8,3 +8,8 @@ The image shows a room with several chairs and a green box.
 The image shows an empty room with rows of chairs and a green box in the corner.
 The image shows a room with several chairs and a large green object in the background.
 The image shows an empty room with rows of chairs facing a green object, possibly a podium or a speaker, and a white cabinet in the corner.
+An image with a tv, nine chairs, two walls, a floor, and a window.
+An image with a window, nine chairs, two walls, a tv, and a floor.
+An image with nine chairs, a floor, two walls, a window, and a tv.
+An image with two walls, nine chairs, a floor, a window, and a tv.
+An image with a window, a floor, nine chairs, two walls, and a tv.

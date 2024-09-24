@@ -8,3 +8,8 @@ A narrow street between two walls.
 The image captures a serene, tree-lined street that leads to a brick wall, with a car parked on the side, and a solitary figure walking away from the camera.
 A narrow, tree-lined street with a brick wall on one side and a fence on the other, leading to a brick wall at the end.
 A narrow, tree-lined street with a brick wall and a metal gate, leading to a brick wall and a metal gate.
+An image with a road, a pavement, two cars, a sky, a fence, a tree, and two walls.
+An image with two cars, a road, a tree, two walls, a pavement, a sky, and a fence.
+An image with a sky, a fence, a road, two cars, a pavement, two walls, and a tree.
+An image with a road, two cars, a pavement, a tree, a fence, a sky, and two walls.
+An image with two walls, a pavement, two cars, a tree, a fence, a sky, and a road.

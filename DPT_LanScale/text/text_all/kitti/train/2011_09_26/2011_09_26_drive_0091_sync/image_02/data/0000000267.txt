@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a European city.
 The image captures a bustling city street, with pedestrians walking along a sidewalk adjacent to a tram track, while shops line the street, creating a lively urban atmosphere.
 The image depicts a narrow street lined with shops and pedestrians, with a train track running down the middle.
 A narrow, cobblestone street with a tram track runs between two-story buildings, flanked by shops and pedestrians.
+An image with thirteen people, a tree, a bicycle, a building, a railroad, two handbags, and a pavement.
+An image with thirteen people, two handbags, a bicycle, a tree, a building, a railroad, and a pavement.
+An image with thirteen people, two handbags, a railroad, a tree, a pavement, a building, and a bicycle.
+An image with thirteen people, two handbags, a building, a bicycle, a tree, a railroad, and a pavement.
+An image with thirteen people, a pavement, a tree, a building, two handbags, a railroad, and a bicycle.

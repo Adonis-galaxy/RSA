@@ -8,3 +8,8 @@ The image shows a street scene with cars parked along the side of the road.
 The image captures a quiet residential street, with parked cars lining the sides of the road, leading to a cul-de-sac where a few cars are parked, and a stop sign is visible at the intersection.
 The image shows a narrow street lined with parked cars and tall buildings, with a stop sign visible in the foreground.
 The image depicts a residential street with a curved road, lined with parked cars, apartment buildings, and a mix of trees and bushes.
+An image with eight cars, a building, a stop, a pavement, a road, a sky, a truck, and a tree.
+An image with a stop, eight cars, a pavement, a tree, a road, a truck, a sky, and a building.
+An image with a sky, eight cars, a pavement, a stop, a building, a road, a tree, and a truck.
+An image with a stop, eight cars, a road, a tree, a sky, a pavement, a building, and a truck.
+An image with eight cars, a road, a building, a pavement, a truck, a tree, a stop, and a sky.

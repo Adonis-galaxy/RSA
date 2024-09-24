@@ -8,3 +8,8 @@ The image shows a street scene with a black car parked on the side of the road.
 The image captures a serene residential street, with a black car parked on the side of the road, adjacent to a white house with a red roof, and a tree providing shade.
 The image shows a narrow street lined with parked cars and houses, with a large tree on the left side and a construction site on the right.
 The image captures a serene residential street, lined with houses and trees, with a car parked on the side of the road.
+An image with three cars, a road, a pavement, a sky, a house, and a tree.
+An image with three cars, a pavement, a sky, a house, a tree, and a road.
+An image with three cars, a tree, a sky, a pavement, a house, and a road.
+An image with a road, a sky, three cars, a house, a tree, and a pavement.
+An image with a sky, three cars, a pavement, a road, a tree, and a house.

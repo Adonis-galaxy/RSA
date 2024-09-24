@@ -8,3 +8,8 @@ The image shows a white wall with a door, a brown chair, and a map on the wall.
 The image shows a white wall with a door, a number 4 on the wall, a brown chair, and a map on the wall.
 The image shows a white wall with a black door frame, a brown chair, and a white door with a black number 4 on it.
 The image shows a white wall with a door, a black railing, a brown chair, and a map on the wall.
+An image with a floor, a chair, a wall, a refrigerator, and a window.
+An image with a refrigerator, a window, a floor, a wall, and a chair.
+An image with a floor, a wall, a window, a refrigerator, and a chair.
+An image with a floor, a wall, a refrigerator, a chair, and a window.
+An image with a chair, a floor, a wall, a refrigerator, and a window.

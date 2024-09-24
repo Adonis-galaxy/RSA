@@ -8,3 +8,8 @@ The image shows a room with a window, a chair, a dresser, and a heater.
 The image captures a room with a window, a chair, a dresser, and a radiator, all in a state of disarray.
 The image shows a small, dimly lit room with a window, a heater, a chair, a dresser, and a clock.
 The image shows a room with a window, a heater, a chair, a dresser, and a table, all arranged in a somewhat cluttered manner.
+An image with a floor, two books, a wall, a chair, a window, and a cabinet.
+An image with two books, a floor, a wall, a window, a cabinet, and a chair.
+An image with a wall, a floor, a chair, a window, two books, and a cabinet.
+An image with two books, a window, a cabinet, a wall, a chair, and a floor.
+An image with a window, a floor, two books, a cabinet, a wall, and a chair.

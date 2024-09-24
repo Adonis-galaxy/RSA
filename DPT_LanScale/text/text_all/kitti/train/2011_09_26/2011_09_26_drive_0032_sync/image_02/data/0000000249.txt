@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a moment of everyday life on a suburban street, with vehicles in motion and traffic lights controlling the flow of traffic.
 The image shows a wide, empty road with a few cars and trucks, a traffic light, and trees on both sides.
 The image depicts a wide, multi-lane road with a clear view of traffic lights and signs, indicating a well-regulated traffic system.
+An image with six cars, six traffics, a truck, a stop, a pavement, a tree, a grass, and a road.
+An image with a truck, six traffics, six cars, a grass, a stop, a tree, a pavement, and a road.
+An image with six cars, a road, six traffics, a grass, a truck, a pavement, a tree, and a stop.
+An image with six traffics, a road, six cars, a stop, a pavement, a grass, a tree, and a truck.
+An image with a road, a tree, six traffics, six cars, a pavement, a stop, a grass, and a truck.

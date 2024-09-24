@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a fence on one sid
 A narrow, shaded alleyway between two buildings, with a fence and a staircase leading to a higher level.
 The image shows a narrow alleyway between two buildings, with a fence on the left side and a tree on the right. The alleyway is shaded by the tree and the buildings, and there is a fire escape visible on the right side.
 A narrow, tree-lined street leads to a white house with a red roof, which is partially obscured by a green fence and a white gate.
+An image with a car, a bridge, a sky, a road, a roof, a house, a tree, a train, and a fence.
+An image with a fence, a sky, a bridge, a train, a roof, a house, a tree, a road, and a car.
+An image with a train, a fence, a bridge, a car, a sky, a roof, a road, a house, and a tree.
+An image with a fence, a car, a train, a roof, a bridge, a tree, a road, a house, and a sky.
+An image with a bridge, a fence, a roof, a train, a car, a sky, a tree, a house, and a road.

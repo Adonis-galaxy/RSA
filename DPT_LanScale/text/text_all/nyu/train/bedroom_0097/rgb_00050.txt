@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a cozy bedroom scene with a large, four-poster bed as the focal point, set against a warm yellow wall, with a window allowing natural light to illuminate the space.
 The image shows a large bed with a dark wooden frame and a red bedspread, situated in a bedroom with a yellow wall and two windows.
 The image shows a neatly arranged bedroom with a large bed featuring a red and black checkered bedspread, a wooden headboard, and a canopy. The room has a yellow wall, a window with white trim, and a black nightstand.
+An image with a curtain, a cabinet, a rug, a ceiling, a wall, and a bed.
+An image with a rug, a bed, a cabinet, a ceiling, a wall, and a curtain.
+An image with a rug, a cabinet, a wall, a ceiling, a curtain, and a bed.
+An image with a rug, a curtain, a wall, a cabinet, a bed, and a ceiling.
+An image with a wall, a rug, a ceiling, a cabinet, a bed, and a curtain.

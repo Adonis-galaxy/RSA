@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two brick walls, with a paved path and
 The image captures a serene, narrow alleyway between two brick buildings, with a lush green ivy climbing up the right side, casting a soft shadow on the left side, and a solitary orange object adding a pop of color at the bottom left corner.
 The image shows a narrow, shaded alleyway between two brick buildings, with a few plants and a truck visible in the background.
 The image depicts a narrow, shaded alleyway between two brick walls, with a paved path leading to a white building on the right.
+An image with a car, a pavement, a house, a sky, a tree, and a wall.
+An image with a pavement, a tree, a house, a sky, a wall, and a car.
+An image with a car, a house, a wall, a pavement, a tree, and a sky.
+An image with a house, a pavement, a sky, a tree, a wall, and a car.
+An image with a wall, a car, a house, a sky, a pavement, and a tree.

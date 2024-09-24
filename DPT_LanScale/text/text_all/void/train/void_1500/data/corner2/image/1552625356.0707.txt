@@ -8,3 +8,8 @@ A desk with a coffee cup, papers, and a charger.
 A cluttered desk with a coffee cup, papers, and a computer mouse.
 A desk with a coffee cup, papers, and a charger.
 A desk with a coffee cup, papers, and a computer mouse.
+An image with a chair, a table, a book, two cups, a cabinet, a rug, and two keyboards.
+An image with two keyboards, two cups, a table, a chair, a book, a rug, and a cabinet.
+An image with two cups, a table, a book, a rug, a chair, two keyboards, and a cabinet.
+An image with a rug, a table, two cups, a cabinet, a book, two keyboards, and a chair.
+An image with a cabinet, two keyboards, a chair, a rug, two cups, a table, and a book.

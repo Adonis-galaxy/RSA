@@ -8,3 +8,8 @@ A row of white chairs with gray legs around a long white table.
 The image shows a long white table with white chairs on a gray carpeted floor.
 A long white table with white chairs in a room with a gray carpet.
 The image shows a long white table with white chairs on either side, arranged in a row, set against a gray carpeted floor.
+An image with a curtain, a dining, seven chairs, a wall, and a floor.
+An image with seven chairs, a curtain, a wall, a floor, and a dining.
+An image with a curtain, a wall, a floor, seven chairs, and a dining.
+An image with a dining, seven chairs, a curtain, a floor, and a wall.
+An image with seven chairs, a floor, a wall, a dining, and a curtain.

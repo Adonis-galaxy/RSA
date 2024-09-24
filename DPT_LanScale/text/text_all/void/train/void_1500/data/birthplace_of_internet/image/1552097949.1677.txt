@@ -8,3 +8,8 @@ A blue and black refrigerator in a room.
 The image shows a room with a blue cabinet, a table, a clock, and a picture on the wall.
 The image shows a room with a blue cabinet, a table, a clock, and a blue line on the floor.
 The image shows a room with a blue cabinet, a table with a poster on it, a whiteboard with writing on it, a picture on the wall, and a blue line on the floor.
+An image with three chairs, two walls, a paper, a floor, a table, a refrigerator, and a dining.
+An image with a paper, a refrigerator, two walls, three chairs, a dining, a table, and a floor.
+An image with a dining, three chairs, a paper, two walls, a refrigerator, a floor, and a table.
+An image with two walls, a refrigerator, a paper, three chairs, a dining, a floor, and a table.
+An image with a dining, a refrigerator, three chairs, a table, two walls, a floor, and a paper.

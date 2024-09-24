@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a quiet, tree-lined street, with a clear sky overhead and a sense of solitude.
 A person riding a motorcycle on a tree-lined street with a clear sky overhead.
 A quiet residential street with a single motorcyclist, lined with trees and houses, leading to a cul-de-sac.
+An image with a motorcycle, a road, a wall, a pavement, a person, a house, and a tree.
+An image with a tree, a motorcycle, a wall, a road, a pavement, a person, and a house.
+An image with a house, a pavement, a road, a person, a motorcycle, a wall, and a tree.
+An image with a house, a pavement, a person, a motorcycle, a wall, a road, and a tree.
+An image with a tree, a road, a motorcycle, a house, a person, a pavement, and a wall.

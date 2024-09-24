@@ -8,3 +8,8 @@ The image shows a black car on a street with multiple traffic lights.
 A black car is crossing a multi-lane road at an intersection, with traffic lights and street signs in the background.
 A black car is crossing a wide, empty street at a traffic light, with multiple traffic lights and signs in the background.
 The image shows a black car stopped at a red traffic light on a wide, multi-lane road with multiple traffic signals and street signs, indicating a well-regulated urban area.
+An image with three traffics, two cars, a road, a pavement, and a tree.
+An image with a pavement, three traffics, a tree, two cars, and a road.
+An image with three traffics, two cars, a tree, a pavement, and a road.
+An image with a road, two cars, three traffics, a tree, and a pavement.
+An image with a tree, three traffics, a pavement, two cars, and a road.

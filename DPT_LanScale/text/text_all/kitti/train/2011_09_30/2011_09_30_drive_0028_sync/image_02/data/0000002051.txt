@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined street in a residential area, with a clear path leading to a cul-de-sac.
 A narrow, tree-lined street between two-story houses, with a bicycle parked on the sidewalk and a car parked at the end.
 A narrow, tree-lined street with a clear pathway, bordered by houses and a parked car, leading to a cul-de-sac.
+An image with a tree, a road, a house, two bicycles, a car, a stop, a truck, a pavement, a sky, and a grass.
+An image with a grass, a stop, a road, a sky, two bicycles, a house, a pavement, a truck, a car, and a tree.
+An image with a stop, a road, two bicycles, a house, a car, a truck, a pavement, a grass, a sky, and a tree.
+An image with a pavement, a road, a stop, two bicycles, a tree, a sky, a truck, a house, a car, and a grass.
+An image with a grass, a car, two bicycles, a pavement, a stop, a road, a truck, a tree, a house, and a sky.

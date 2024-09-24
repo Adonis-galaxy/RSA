@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white van.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a white van parked in front of a house, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street lined with parked cars, a white van, and a black car, with a large white van on the right side of the street.
 The image shows a narrow street lined with parked cars and houses, with a white van parked on the right side.
+An image with nine cars, a truck, a wall, a pavement, a road, a sky, a tree, a fence, and a house.
+An image with a pavement, nine cars, a road, a truck, a wall, a house, a fence, a tree, and a sky.
+An image with a wall, a fence, nine cars, a sky, a road, a house, a pavement, a truck, and a tree.
+An image with a house, a wall, a pavement, a tree, nine cars, a road, a fence, a truck, and a sky.
+An image with nine cars, a fence, a tree, a truck, a pavement, a sky, a wall, a house, and a road.

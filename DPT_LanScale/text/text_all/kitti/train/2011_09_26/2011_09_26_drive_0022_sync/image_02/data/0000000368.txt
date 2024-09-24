@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street lined with parked cars, a white garage, and a fence, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a truck, with a white building on the left and a fence on the right.
 The image shows a narrow street lined with parked cars and a white garage, with a clear sky overhead and trees on both sides.
+An image with eight cars, two trucks, a road, a tree, a pavement, a grass, a sky, a building, and a wall.
+An image with eight cars, a wall, a pavement, a tree, a road, a building, two trucks, a sky, and a grass.
+An image with a tree, eight cars, a building, a sky, two trucks, a road, a grass, a pavement, and a wall.
+An image with eight cars, two trucks, a wall, a building, a grass, a pavement, a tree, a road, and a sky.
+An image with eight cars, two trucks, a road, a pavement, a sky, a building, a tree, a wall, and a grass.

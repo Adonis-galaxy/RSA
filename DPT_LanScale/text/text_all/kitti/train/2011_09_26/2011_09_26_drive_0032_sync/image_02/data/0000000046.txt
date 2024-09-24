@@ -8,3 +8,8 @@ A red and white truck driving on a highway.
 A red delivery truck on a highway, with a clear sky and a green field in the background.
 A large truck is driving down a highway with a grassy field on the side.
 A red and white truck is driving on a highway with a guardrail on the right side, passing under a bridge, and surrounded by trees and a grassy field.
+An image with three cars, a tree, a truck, a road, a fence, and a grass.
+An image with a road, three cars, a grass, a truck, a fence, and a tree.
+An image with a road, three cars, a tree, a fence, a grass, and a truck.
+An image with a fence, three cars, a truck, a road, a tree, and a grass.
+An image with three cars, a fence, a truck, a tree, a grass, and a road.

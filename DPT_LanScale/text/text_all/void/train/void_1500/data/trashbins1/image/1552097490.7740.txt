@@ -8,3 +8,8 @@ A trash can with a white bag in it.
 A trash can with a white trash bag and green plastic bags.
 A large gray trash can with a white liner and green bags.
 A trash can with a white liner and green bags, placed in a hallway.
+An image with a door, a towel, a floor, and a wall.
+An image with a door, a wall, a floor, and a towel.
+An image with a towel, a floor, a wall, and a door.
+An image with a towel, a wall, a door, and a floor.
+An image with a door, a wall, a towel, and a floor.

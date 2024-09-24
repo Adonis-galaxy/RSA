@@ -8,3 +8,8 @@ The image shows a street with parked cars and a red and blue sign.
 A quiet residential street with parked cars and a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a red and blue sign on the right side.
 A narrow street lined with parked cars and houses, with a red and blue sign indicating a no left turn restriction.
+An image with eight cars, a sky, a truck, a pavement, a roof, a stop, a house, a road, and a tree.
+An image with eight cars, a tree, a pavement, a road, a house, a stop, a sky, a truck, and a roof.
+An image with eight cars, a house, a tree, a sky, a pavement, a truck, a stop, a road, and a roof.
+An image with a sky, eight cars, a house, a pavement, a truck, a roof, a road, a tree, and a stop.
+An image with eight cars, a house, a stop, a road, a sky, a truck, a pavement, a tree, and a roof.

@@ -8,3 +8,8 @@ A man is standing at a table with a laptop, a cup of coffee, and a bag of trash.
 A man is standing at a table with a laptop, a cup of coffee, and a bag of trash, while wearing glasses and a red jacket.
 A man in a red jacket is standing at a table with a laptop, a cup of coffee, and a white bag.
 A man is standing at a table with a laptop, a cup of coffee, and a bag of trash, while another table has a printer and a cup of coffee.
+An image with four cups, a person, a rug, two laptops, a window, two chairs, a wall, and a table.
+An image with two chairs, a window, four cups, two laptops, a person, a wall, a table, and a rug.
+An image with two laptops, four cups, two chairs, a wall, a table, a window, a rug, and a person.
+An image with a table, a person, two chairs, four cups, a rug, a window, a wall, and two laptops.
+An image with four cups, a rug, a window, a wall, two laptops, two chairs, a person, and a table.

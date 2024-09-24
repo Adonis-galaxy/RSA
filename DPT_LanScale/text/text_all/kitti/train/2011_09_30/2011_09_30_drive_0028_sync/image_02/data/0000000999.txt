@@ -8,3 +8,8 @@ A car on a street.
 A quiet, tree-lined street with a single car parked at the end, where a pedestrian is seen walking away.
 A small car is driving down a narrow, tree-lined street.
 A narrow, tree-lined street with parked cars and pedestrians, leading to a fenced area.
+An image with two people, a fence, a pavement, two cars, a tree, a grass, and a road.
+An image with two cars, a pavement, two people, a fence, a road, a tree, and a grass.
+An image with two cars, a fence, two people, a grass, a road, a tree, and a pavement.
+An image with two people, a tree, two cars, a pavement, a road, a fence, and a grass.
+An image with two people, a tree, two cars, a fence, a grass, a road, and a pavement.

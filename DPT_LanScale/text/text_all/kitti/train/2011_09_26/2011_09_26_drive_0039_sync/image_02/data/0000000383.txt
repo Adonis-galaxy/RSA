@@ -8,3 +8,8 @@ The image shows a street intersection with a yield sign.
 The image captures a quiet residential street with a clear view of a roundabout, a few parked cars, and a building in the background.
 The image shows a residential street with a large, triangular yield sign, a few parked cars, and apartment buildings on both sides.
 The image depicts a residential street with a curved road, a triangular traffic sign, and parked cars on the side of the road.
+An image with two walls, a grass, a road, a tree, a building, four cars, a sky, and a pavement.
+An image with a grass, a pavement, four cars, a road, a building, two walls, a tree, and a sky.
+An image with four cars, a sky, two walls, a tree, a pavement, a grass, a road, and a building.
+An image with four cars, a sky, a pavement, a road, a tree, a building, two walls, and a grass.
+An image with two walls, four cars, a road, a tree, a sky, a grass, a pavement, and a building.

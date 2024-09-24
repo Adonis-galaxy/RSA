@@ -8,3 +8,8 @@ The image shows a road with multiple vehicles, including cars and trucks, and a 
 The image captures a scene of a busy road with multiple vehicles, including cars and trucks, traveling in both directions, with a clear sky overhead and a sign indicating a speed limit of 240 m.
 The image shows a busy highway with multiple lanes of traffic, a red car, a white truck, a black car, a white van, a red and white sign, and a large green field.
 A busy highway with multiple lanes, a railroad crossing, and a traffic sign indicating a train crossing.
+An image with six cars, a road, a railroad, a tree, a grass, a sky, and a truck.
+An image with a road, six cars, a tree, a truck, a grass, a sky, and a railroad.
+An image with a tree, a railroad, six cars, a truck, a sky, a road, and a grass.
+An image with six cars, a railroad, a sky, a tree, a road, a grass, and a truck.
+An image with six cars, a road, a truck, a tree, a grass, a sky, and a railroad.

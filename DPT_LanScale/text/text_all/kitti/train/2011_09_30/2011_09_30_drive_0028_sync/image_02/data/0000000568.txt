@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined street with a few parked cars, leading to a white building with a green door.
 The image shows a narrow, tree-lined street with a few parked cars, a fence, and a building on the right side.
 A narrow, tree-lined street with a sidewalk, fence, and buildings on both sides, leading to a clear sky.
+An image with a tree, a road, two walls, a car, a fence, a sky, and a pavement.
+An image with a sky, a car, two walls, a fence, a tree, a pavement, and a road.
+An image with a road, a fence, two walls, a car, a sky, a pavement, and a tree.
+An image with a fence, a pavement, a sky, a car, a tree, two walls, and a road.
+An image with a road, a tree, a pavement, two walls, a sky, a car, and a fence.

@@ -8,3 +8,8 @@ A blue and yellow basket on a table.
 A blue and yellow basket of condiments on a counter.
 A blue and yellow basket with a white cup and straws on a counter.
 A blue and yellow basket with a white cup and straws on a counter.
+An image with a wall, a spoon, a food, a table, a paper, and a cup.
+An image with a paper, a wall, a table, a food, a spoon, and a cup.
+An image with a spoon, a food, a paper, a table, a cup, and a wall.
+An image with a food, a table, a wall, a cup, a paper, and a spoon.
+An image with a cup, a spoon, a paper, a food, a table, and a wall.

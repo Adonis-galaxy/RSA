@@ -8,3 +8,8 @@ The image shows a street scene with construction barriers and a road closed sign
 The image captures a scene of a road construction area, with a focus on the presence of traffic cones, barriers, and construction equipment, all indicating a temporary disruption of traffic flow.
 A large construction zone is visible on the street, with a yellow excavator and a crane in the background, and a row of orange and white traffic cones in the foreground.
 A street scene with a detour sign, construction barriers, and a parked car, under a clear sky.
+An image with six cars, a pavement, a building, three traffics, a road, a tree, a grass, and a truck.
+An image with six cars, three traffics, a grass, a tree, a road, a building, a pavement, and a truck.
+An image with a pavement, six cars, a grass, three traffics, a truck, a road, a building, and a tree.
+An image with a pavement, six cars, a road, a building, three traffics, a grass, a truck, and a tree.
+An image with a pavement, six cars, three traffics, a building, a truck, a tree, a road, and a grass.

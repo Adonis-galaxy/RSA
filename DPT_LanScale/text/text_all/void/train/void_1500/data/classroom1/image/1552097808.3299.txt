@@ -8,3 +8,8 @@ Orange cone on table.
 An orange cone is placed on a dirty table.
 A white table with a small orange cone on it.
 A white plastic table with a single orange cone on it, placed in a room with a tiled floor.
+An image with a floor, a chair, a surfboard, two walls, a stairs, and a door.
+An image with a door, two walls, a floor, a stairs, a surfboard, and a chair.
+An image with a floor, two walls, a chair, a stairs, a door, and a surfboard.
+An image with a chair, a door, a floor, two walls, a stairs, and a surfboard.
+An image with a chair, a door, a floor, two walls, a surfboard, and a stairs.

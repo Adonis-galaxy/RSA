@@ -8,3 +8,8 @@ A kitchen with a bar area.
 The image captures a modern kitchen with a bar-height counter, featuring a brick backsplash, a white countertop, and a beige sofa in the foreground.
 The image shows a kitchen with a large island counter, a couch, a brick wall, a ceiling fan, and a window.
 The image shows a modern kitchen with a bar-height counter, a couch, and a dining table, all set against a backdrop of a brick wall and a ceiling with recessed lighting.
+An image with a window, a floor, three walls, a counter, six wines, a cup, a couch, two apples, and a ceiling.
+An image with two apples, six wines, a ceiling, three walls, a window, a couch, a counter, a floor, and a cup.
+An image with three walls, two apples, a window, a ceiling, a floor, six wines, a cup, a couch, and a counter.
+An image with three walls, a window, six wines, a cup, a couch, a counter, a floor, two apples, and a ceiling.
+An image with a cup, six wines, a ceiling, two apples, a couch, three walls, a counter, a floor, and a window.

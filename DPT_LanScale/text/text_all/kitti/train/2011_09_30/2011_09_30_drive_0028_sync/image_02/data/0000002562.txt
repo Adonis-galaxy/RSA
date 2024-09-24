@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white building on the left side.
 A quiet residential street, lined with trees and parked cars, leads to a building with a clear view of the sky.
 A narrow street between two buildings, lined with trees and bushes, with a few cars parked along the sides.
 A quiet residential street with a mix of trees and buildings, leading to a cul-de-sac.
+An image with a grass, two cars, a sky, a stop, a pavement, a road, a house, and a tree.
+An image with a house, two cars, a road, a pavement, a stop, a grass, a sky, and a tree.
+An image with a stop, a pavement, two cars, a house, a road, a sky, a tree, and a grass.
+An image with a sky, a tree, two cars, a grass, a stop, a house, a road, and a pavement.
+An image with a grass, a pavement, a tree, two cars, a road, a stop, a sky, and a house.

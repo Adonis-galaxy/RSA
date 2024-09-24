@@ -8,3 +8,8 @@ A room with a dining table and chairs.
 The image captures a well-lit dining area with a large table surrounded by chairs, a vase with flowers on the table, and a window that lets in natural light.
 The image shows a dining room with a large table surrounded by multiple chairs, a vase with flowers on the table, and a window with a view of the kitchen.
 The image shows a well-lit dining room with a large window, a table surrounded by chairs, a counter with a vase, and a framed picture on the wall.
+An image with a floor, a potted, eight chairs, a wall, two vases, a ceiling, a cabinet, a window, and a dining.
+An image with a cabinet, a potted, eight chairs, two vases, a ceiling, a floor, a dining, a wall, and a window.
+An image with eight chairs, a ceiling, a cabinet, a floor, a window, a potted, two vases, a wall, and a dining.
+An image with eight chairs, a window, a floor, a potted, a cabinet, a dining, a ceiling, a wall, and two vases.
+An image with a dining, eight chairs, a ceiling, a floor, two vases, a window, a cabinet, a wall, and a potted.

@@ -8,3 +8,8 @@ A science lab with a computer and a microscope.
 The image shows a science lab with various equipment and a computer on a desk.
 The image shows a laboratory setting with a large computer monitor, a blue cart with various tubes and equipment, and a desk with a lamp and a computer.
 The image shows a laboratory setting with a desk, a computer, and various pieces of equipment, including a blue cart with white pipes and a black bag.
+An image with a backpack, a light, a cabinet, a chair, a counter, two windows, a wall, a microwave, and a floor.
+An image with a wall, a microwave, a floor, two windows, a light, a cabinet, a chair, a backpack, and a counter.
+An image with a counter, a chair, two windows, a cabinet, a microwave, a wall, a backpack, a light, and a floor.
+An image with a microwave, a chair, two windows, a floor, a cabinet, a counter, a backpack, a wall, and a light.
+An image with a floor, a counter, a wall, a cabinet, a microwave, two windows, a light, a backpack, and a chair.

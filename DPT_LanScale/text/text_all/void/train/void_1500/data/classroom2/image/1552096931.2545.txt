@@ -8,3 +8,8 @@ A small orange table in a room.
 A small orange table with a black chair in a room with a green trash can.
 A small orange table with a black chair in a room with a green trash can.
 The image shows a small room with a desk and two chairs, a trash can, and a door.
+An image with three chairs, a floor, a cabinet, a table, a wall, and a door.
+An image with a door, a floor, three chairs, a table, a wall, and a cabinet.
+An image with three chairs, a table, a cabinet, a door, a wall, and a floor.
+An image with a wall, a floor, a cabinet, a table, three chairs, and a door.
+An image with a cabinet, a door, three chairs, a wall, a floor, and a table.

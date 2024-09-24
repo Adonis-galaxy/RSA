@@ -8,3 +8,8 @@ A whiteboard with notes and diagrams.
 The image captures a workspace with a whiteboard filled with diagrams and notes, a desk with various items, and a chair.
 A whiteboard with a large amount of writing and diagrams, a desk with various items, a red chair, and a laptop.
 A cluttered office space with a whiteboard filled with diagrams and notes, a desk with various items, and a chair in front of a door.
+An image with eight bottles, two chairs, a backpack, two cups, a table, a cabinet, a paper, a wall, and a laptop.
+An image with a wall, eight bottles, a laptop, two chairs, two cups, a backpack, a table, a cabinet, and a paper.
+An image with eight bottles, a table, a backpack, a paper, two chairs, a laptop, two cups, a wall, and a cabinet.
+An image with two cups, eight bottles, a wall, a paper, a table, a laptop, a cabinet, two chairs, and a backpack.
+An image with two cups, a laptop, a cabinet, eight bottles, two chairs, a paper, a table, a wall, and a backpack.

@@ -8,3 +8,8 @@ The image shows a narrow street between buildings with parked cars.
 The image captures a quiet residential street, with parked cars on the side of the road, a clear sky overhead, and a row of buildings lining the street, creating a sense of a peaceful neighborhood.
 The image shows a narrow street lined with parked cars, apartment buildings, and trees, with a clear sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a building, a wall, two cars, a pavement, a tree, a person, a road, a sky, and a stop.
+An image with a sky, two cars, a pavement, a building, a wall, a road, a person, a stop, and a tree.
+An image with a sky, two cars, a building, a pavement, a person, a road, a stop, a wall, and a tree.
+An image with two cars, a person, a road, a tree, a pavement, a stop, a building, a wall, and a sky.
+An image with a stop, a tree, two cars, a pavement, a person, a road, a wall, a building, and a sky.

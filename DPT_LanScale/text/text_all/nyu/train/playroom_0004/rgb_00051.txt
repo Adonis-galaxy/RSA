@@ -8,3 +8,8 @@ A television is mounted on a wall in a room.
 A television is mounted on a wall above a cabinet with drawers, and there is a sports ball on the floor next to a chair.
 The image shows a small room with a large flat-screen TV mounted on the wall above a cabinet, a chair, and a blue exercise ball.
 The image shows a room with a television mounted on a wall above a cabinet, a chair, a ball, and a remote control on the floor.
+An image with a sports, a chair, a wall, a cabinet, a tv, and a floor.
+An image with a tv, a chair, a wall, a floor, a cabinet, and a sports.
+An image with a wall, a floor, a cabinet, a tv, a sports, and a chair.
+An image with a chair, a floor, a sports, a wall, a cabinet, and a tv.
+An image with a sports, a tv, a wall, a chair, a floor, and a cabinet.

@@ -8,3 +8,8 @@ A conference room with a table and chairs.
 The image shows a conference room with a table and chairs, a television mounted on the wall, and a glass door.
 The image shows a large room with a white table and chairs, a black flat screen television mounted on a yellow wall, and a glass door.
 The image shows a conference room with a large table and chairs, a television mounted on the wall, and a glass door leading to another room.
+An image with a tv, three chairs, a dining, a light, a floor, a wall, a door, and a ceiling.
+An image with three chairs, a ceiling, a dining, a door, a light, a tv, a wall, and a floor.
+An image with a dining, three chairs, a tv, a light, a floor, a ceiling, a wall, and a door.
+An image with a tv, a door, three chairs, a dining, a ceiling, a wall, a light, and a floor.
+An image with a wall, a door, a light, a tv, a ceiling, three chairs, a floor, and a dining.

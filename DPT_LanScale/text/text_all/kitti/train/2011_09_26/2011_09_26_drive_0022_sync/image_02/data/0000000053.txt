@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white building.
 The image captures a residential street scene with parked cars, a white SUV, a red car, and a white truck, all lined up along the sidewalk, under a clear sky.
 The image shows a narrow street lined with parked cars and a white building, with a large white truck driving down the road and a red car parked on the sidewalk.
 A narrow street in a residential area with parked cars and a white building.
+An image with seven cars, a fence, a road, a house, a pavement, a tree, two trucks, a grass, and a sky.
+An image with a grass, a pavement, a house, seven cars, a fence, two trucks, a road, a sky, and a tree.
+An image with seven cars, a pavement, a tree, two trucks, a road, a sky, a grass, a fence, and a house.
+An image with a pavement, seven cars, a tree, two trucks, a road, a grass, a fence, a house, and a sky.
+An image with two trucks, a grass, seven cars, a tree, a house, a pavement, a sky, a fence, and a road.

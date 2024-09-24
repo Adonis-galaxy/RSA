@@ -8,3 +8,8 @@ A car driving down a road.
 A car travels down a tree-lined road, with a lone figure on a bicycle following behind.
 A car is driving down a tree-lined road, with a person riding a bike on the side.
 A car is driving down a tree-lined road with a clear sky overhead.
+An image with a sky, a person, a car, a road, a tree, and a grass.
+An image with a person, a grass, a road, a tree, a car, and a sky.
+An image with a road, a car, a grass, a tree, a sky, and a person.
+An image with a sky, a car, a person, a tree, a road, and a grass.
+An image with a car, a road, a tree, a person, a grass, and a sky.

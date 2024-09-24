@@ -8,3 +8,8 @@ The image shows a residential street with houses on both sides.
 The image captures a serene residential street, lined with houses and trees, leading up to a white building with a green roof, under a clear blue sky.
 The image shows a narrow, tree-lined street with houses on both sides, a car parked on the left, and a garage on the right.
 The image depicts a residential street with houses on both sides, a paved road, and a fence separating the properties.
+An image with a house, a sky, a road, a pavement, a grass, a tree, a car, and a fence.
+An image with a grass, a tree, a road, a pavement, a fence, a house, a car, and a sky.
+An image with a sky, a fence, a grass, a house, a car, a tree, a pavement, and a road.
+An image with a fence, a pavement, a house, a car, a road, a sky, a tree, and a grass.
+An image with a grass, a house, a sky, a road, a car, a fence, a tree, and a pavement.

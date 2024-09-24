@@ -8,3 +8,8 @@ A large, beige, metal cabinet.
 A large, beige, metal cabinet is leaning against a wooden wall in a room with a white floor.
 A large, beige, metal cabinet is leaning against a wooden wall in a room with a white floor.
 The image shows a room with a large, beige cabinet leaning against a wooden wall, and a white table with a black marking on it.
+An image with a refrigerator, two walls, a table, and a floor.
+An image with a floor, two walls, a refrigerator, and a table.
+An image with a table, two walls, a refrigerator, and a floor.
+An image with a refrigerator, a table, two walls, and a floor.
+An image with a floor, a table, two walls, and a refrigerator.

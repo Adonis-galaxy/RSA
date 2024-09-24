@@ -8,3 +8,8 @@ The image shows a tree-lined street with a brick sidewalk.
 The image captures a quiet, tree-lined street with a clear sky overhead, where the sunlight casts shadows on the pavement, and the road is marked with white arrows and a speed limit sign.
 The image shows a narrow, tree-lined street with a sidewalk, a few signs, and a clear sky.
 A quiet, tree-lined street with a clear path for vehicles, marked by white arrows on the asphalt, flanked by a sidewalk and a row of houses on one side, and a row of green bushes on the other.
+An image with a house, a wall, a sky, a pavement, a tree, and a road.
+An image with a tree, a pavement, a wall, a road, a sky, and a house.
+An image with a wall, a road, a pavement, a sky, a tree, and a house.
+An image with a pavement, a wall, a tree, a house, a sky, and a road.
+An image with a pavement, a sky, a road, a tree, a house, and a wall.

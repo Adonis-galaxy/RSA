@@ -8,3 +8,8 @@ A bedroom with two beds, a chair, and a painting.
 The image shows a small, well-organized bedroom with two beds, a chair, a desk, and a painting on the wall.
 The image shows a small room with two beds, a chair, a desk, and a painting on the wall.
 The image shows a small, well-organized bedroom with two beds, a chair, a desk, and a painting on the wall.
+An image with two beds, a chair, a wall, a ceiling, a door, and a rug.
+An image with a rug, two beds, a chair, a ceiling, a wall, and a door.
+An image with a rug, a wall, two beds, a chair, a door, and a ceiling.
+An image with a ceiling, a chair, a wall, two beds, a rug, and a door.
+An image with two beds, a chair, a wall, a ceiling, a door, and a rug.

@@ -8,3 +8,8 @@ The image shows a narrow, cobblestone street lined with houses and trees.
 The image captures a serene residential street, lined with houses, trees, and a brick path, bathed in the soft glow of a sunny day.
 The image shows a narrow, tree-lined street with houses on both sides, a car parked on the side, and a truck parked in the distance.
 A narrow, tree-lined street with houses on both sides, leading to a white building with a black roof.
+An image with a roof, a sky, a wall, a tree, a car, a truck, a house, a dirt, and a pavement.
+An image with a roof, a tree, a pavement, a truck, a wall, a sky, a car, a dirt, and a house.
+An image with a tree, a truck, a wall, a car, a sky, a house, a dirt, a roof, and a pavement.
+An image with a pavement, a sky, a car, a wall, a dirt, a roof, a house, a tree, and a truck.
+An image with a house, a truck, a roof, a sky, a tree, a dirt, a car, a wall, and a pavement.

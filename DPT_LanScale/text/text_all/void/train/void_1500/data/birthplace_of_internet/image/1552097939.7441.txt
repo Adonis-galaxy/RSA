@@ -8,3 +8,8 @@ A room with a green wall and a white refrigerator.
 The image shows a room with a green wall, a bookshelf, a refrigerator, and a light fixture.
 The image shows a room with a large refrigerator, a bookshelf, and a light fixture.
 The image shows a room with a green wall, a large white refrigerator, a bookshelf, a desk, and a light fixture.
+An image with a refrigerator, fourteen books, a wall, a person, a floor, a light, a shelf, and a ceiling.
+An image with fourteen books, a light, a refrigerator, a person, a ceiling, a floor, a shelf, and a wall.
+An image with fourteen books, a refrigerator, a light, a wall, a ceiling, a person, a shelf, and a floor.
+An image with fourteen books, a light, a refrigerator, a ceiling, a shelf, a floor, a person, and a wall.
+An image with fourteen books, a shelf, a wall, a light, a refrigerator, a ceiling, a person, and a floor.

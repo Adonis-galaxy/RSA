@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a motorcycle.
 A quiet residential street with parked cars and a motorcycle, under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a motorcycle, and a stop sign. The street is lined with houses and trees, and it appears to be a sunny day.
 A quiet residential street with parked cars and a motorcycle, lined with houses and trees, under a clear blue sky.
+An image with a sky, a tree, three cars, a truck, a road, a grass, a house, and a motorcycle.
+An image with a road, a tree, three cars, a sky, a house, a grass, a motorcycle, and a truck.
+An image with a house, three cars, a tree, a grass, a truck, a road, a sky, and a motorcycle.
+An image with a house, three cars, a motorcycle, a road, a tree, a sky, a truck, and a grass.
+An image with a sky, a road, three cars, a motorcycle, a truck, a grass, a tree, and a house.

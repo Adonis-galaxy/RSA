@@ -8,3 +8,8 @@ The image shows a black car parked on a street.
 A black SUV parked on the side of a narrow street, with a red car parked ahead and a white sky overhead.
 A black SUV is parked on the side of a narrow street lined with trees and bushes, with a red car parked ahead of it.
 A narrow street with parked cars and a red truck, lined by trees and buildings.
+An image with a sky, two cars, a road, a tree, a pavement, and a wall.
+An image with a tree, a sky, a wall, two cars, a pavement, and a road.
+An image with a tree, a pavement, a road, a wall, a sky, and two cars.
+An image with two cars, a pavement, a road, a wall, a sky, and a tree.
+An image with two cars, a wall, a pavement, a tree, a road, and a sky.

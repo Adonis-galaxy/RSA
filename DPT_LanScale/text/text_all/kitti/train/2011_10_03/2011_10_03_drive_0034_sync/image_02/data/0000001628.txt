@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars, lined by trees and houses, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building on the right side. The street is shaded by trees, and there are no people visible.
 A quiet residential street with parked cars, lined by trees and houses, leading to a cul-de-sac.
+An image with a tree, a grass, a road, a wall, three cars, a sky, and a pavement.
+An image with three cars, a tree, a road, a sky, a grass, a pavement, and a wall.
+An image with a pavement, a tree, three cars, a grass, a wall, a sky, and a road.
+An image with a tree, three cars, a wall, a pavement, a road, a grass, and a sky.
+An image with a road, a sky, three cars, a wall, a tree, a pavement, and a grass.

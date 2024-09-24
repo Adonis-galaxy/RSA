@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with parked cars, lush greenery, and a clear sky, creating a peaceful and inviting atmosphere.
 The image depicts a narrow, tree-lined street with parked cars, a sidewalk, and a building on the right side.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a row of houses.
+An image with four cars, a pavement, a house, a road, and a tree.
+An image with four cars, a house, a tree, a road, and a pavement.
+An image with four cars, a tree, a pavement, a house, and a road.
+An image with four cars, a house, a pavement, a road, and a tree.
+An image with a road, four cars, a tree, a house, and a pavement.

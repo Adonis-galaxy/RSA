@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person riding a bicycle.
 The image captures a quiet, tree-lined street in a European city, with parked cars and a few pedestrians, evoking a sense of calm and urban life.
 The image shows a narrow street lined with parked cars and buildings, with a few people and a motorcycle visible.
 A narrow street in a European city, lined with parked cars and buildings, with a tree in the middle and a bicycle rider on the right.
+An image with a motorcycle, twelve cars, two people, a road, a bicycle, a building, a pavement, a tree, and a window.
+An image with twelve cars, a road, a motorcycle, a pavement, two people, a building, a bicycle, a tree, and a window.
+An image with twelve cars, a building, a bicycle, a motorcycle, two people, a pavement, a road, a window, and a tree.
+An image with twelve cars, a pavement, a bicycle, a tree, a building, two people, a window, a motorcycle, and a road.
+An image with a building, twelve cars, a window, two people, a road, a pavement, a motorcycle, a bicycle, and a tree.

@@ -8,3 +8,8 @@ A large white and red bus driving down a street.
 A large white and red bus is crossing a street at an intersection, with a pedestrian standing on the sidewalk and traffic lights controlling the flow of vehicles.
 A large white and red bus is crossing a street at an intersection, with a woman standing on the sidewalk and a traffic light visible in the background.
 A large white and red bus is crossing a street at an intersection, with traffic lights and trees in the background.
+An image with three traffics, a grass, a car, a road, a person, a bus, and a tree.
+An image with three traffics, a car, a road, a bus, a tree, a grass, and a person.
+An image with a grass, three traffics, a road, a person, a car, a bus, and a tree.
+An image with a car, a grass, a road, three traffics, a person, a tree, and a bus.
+An image with a person, three traffics, a grass, a bus, a road, a tree, and a car.

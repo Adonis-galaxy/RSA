@@ -8,3 +8,8 @@ A car on a road.
 A solitary car on a tree-lined street, with pedestrians on the sidewalk, under a clear sky.
 A car is driving down a narrow, tree-lined street.
 A narrow, tree-lined street with parked cars and pedestrians on the sidewalk.
+An image with two cars, a bicycle, a tree, a road, two people, a pavement, and a fence.
+An image with two people, a bicycle, a pavement, two cars, a fence, a tree, and a road.
+An image with a road, two people, a fence, a pavement, a bicycle, two cars, and a tree.
+An image with two cars, a fence, a tree, a pavement, two people, a bicycle, and a road.
+An image with a pavement, two people, a bicycle, two cars, a tree, a road, and a fence.

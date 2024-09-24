@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a tree-lined street, with parked cars on both sides, and a red van in the foreground.
 A woman riding a bicycle on a narrow street lined with parked cars.
 A woman riding a bicycle on a tree-lined street with parked cars and a sidewalk.
+An image with eight cars, a person, a bicycle, a handbag, a pavement, a tree, and a road.
+An image with a pavement, eight cars, a handbag, a person, a bicycle, a road, and a tree.
+An image with a pavement, eight cars, a tree, a bicycle, a handbag, a road, and a person.
+An image with eight cars, a person, a tree, a handbag, a bicycle, a pavement, and a road.
+An image with eight cars, a tree, a pavement, a bicycle, a person, a road, and a handbag.

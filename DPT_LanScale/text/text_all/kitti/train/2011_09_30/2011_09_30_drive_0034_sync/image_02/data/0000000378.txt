@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A narrow, tree-lined street between two-story houses, with a clear sky overhead.
 The image shows a narrow, tree-lined street between two-story houses, with a few cars parked along the sides, a red trash can, and a green bush.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with a grass, a sky, a roof, a tree, a fence, a wall, a flower, a door, three cars, and a pavement.
+An image with three cars, a grass, a wall, a tree, a roof, a flower, a pavement, a door, a sky, and a fence.
+An image with a fence, a flower, a grass, a sky, a roof, a door, three cars, a wall, a tree, and a pavement.
+An image with a door, a flower, a wall, a fence, a sky, a grass, three cars, a roof, a pavement, and a tree.
+An image with a roof, a sky, three cars, a tree, a wall, a grass, a fence, a door, a flower, and a pavement.

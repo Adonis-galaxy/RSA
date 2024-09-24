@@ -8,3 +8,8 @@ The image shows a row of office chairs on a carpeted floor.
 The image shows a row of office chairs on a carpeted floor, with a clock visible in the foreground.
 The image shows a large office chair on a gray carpeted floor.
 The image shows a row of office chairs on a carpeted floor, with a clock visible in the foreground.
+An image with a floor, a frisbee, four chairs, and a dining.
+An image with a floor, four chairs, a frisbee, and a dining.
+An image with four chairs, a frisbee, a dining, and a floor.
+An image with four chairs, a frisbee, a floor, and a dining.
+An image with a frisbee, a floor, a dining, and four chairs.

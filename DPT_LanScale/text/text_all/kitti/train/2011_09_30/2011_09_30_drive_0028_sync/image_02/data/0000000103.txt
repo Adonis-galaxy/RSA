@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a motorcycle, and pedestrians.
 The image captures a typical day in a residential area, with parked cars lining the street, a motorcycle leaning against a building, and people walking on the sidewalk, all under a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a motorcycle parked on the sidewalk and a few people standing near the parked cars.
 A narrow street lined with parked cars and buildings, with a motorcycle parked on the sidewalk and people walking on the sidewalk.
+An image with a wall, twelve cars, a road, two people, a motorcycle, a pavement, a roof, a sky, a window, and a tree.
+An image with a wall, twelve cars, a window, two people, a motorcycle, a sky, a road, a roof, a pavement, and a tree.
+An image with a roof, a road, twelve cars, two people, a pavement, a motorcycle, a window, a wall, a sky, and a tree.
+An image with twelve cars, a motorcycle, two people, a pavement, a road, a window, a roof, a sky, a tree, and a wall.
+An image with twelve cars, two people, a wall, a road, a roof, a motorcycle, a sky, a tree, a window, and a pavement.

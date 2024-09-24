@@ -8,3 +8,8 @@ The image shows a blue car driving on a road with white lines.
 A blue car is driving on a road with white lines, passing under a clear blue sky, and is approaching a green field with trees on the side.
 A blue car is driving down a road with white lines, passing under a blue sky.
 A blue car is driving on a road with white lines and a green median, passing under a blue sky with trees in the background.
+An image with a tree, four cars, a road, a pavement, a sky, and a grass.
+An image with a grass, four cars, a sky, a pavement, a road, and a tree.
+An image with a pavement, four cars, a road, a grass, a tree, and a sky.
+An image with a road, a sky, four cars, a grass, a tree, and a pavement.
+An image with a sky, four cars, a grass, a road, a tree, and a pavement.

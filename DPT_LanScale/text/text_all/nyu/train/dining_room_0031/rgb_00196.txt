@@ -8,3 +8,8 @@ A framed picture leaning against a wall.
 The image captures a room with a large wooden cabinet, a framed artwork leaning against it, and a lamp on a shelf above. The artwork is leaning against the cabinet, and the lamp is on a shelf above the cabinet.
 The image shows a room with a large wooden cabinet, a framed picture leaning against the wall, a lamp on a shelf, and a nightstand with a lamp on it.
 The image shows a room with a large wooden cabinet, a framed picture leaning against it, a lamp on a shelf above, and a wall-mounted mirror with a reflection of a full moon.
+An image with a floor, a cabinet, a wall, a vase, and a mirror.
+An image with a cabinet, a floor, a mirror, a wall, and a vase.
+An image with a floor, a mirror, a vase, a wall, and a cabinet.
+An image with a floor, a wall, a mirror, a cabinet, and a vase.
+An image with a vase, a floor, a cabinet, a wall, and a mirror.

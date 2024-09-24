@@ -8,3 +8,8 @@ The image is a photograph of a road with traffic.
 The image captures a clear, sunny day on a wide, empty highway with a few cars, marked by a series of traffic cones and a lone pedestrian crossing sign, all under a bright blue sky.
 The image shows a wide, empty highway with a few cars, a yellow traffic light, and a large, brightly lit road sign.
 The image depicts a wide, multi-lane road with a clear view of the lanes and traffic, flanked by trees and a sidewalk, with a yellow traffic light visible in the distance.
+An image with four traffics, a pavement, a road, a tree, nine cars, a grass, a fire, and a truck.
+An image with four traffics, nine cars, a road, a fire, a grass, a pavement, a truck, and a tree.
+An image with nine cars, a pavement, four traffics, a grass, a fire, a road, a truck, and a tree.
+An image with four traffics, nine cars, a tree, a fire, a pavement, a grass, a road, and a truck.
+An image with four traffics, nine cars, a road, a fire, a tree, a grass, a pavement, and a truck.

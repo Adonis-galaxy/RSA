@@ -8,3 +8,8 @@ Office with whiteboard, desk, chairs, and trash can.
 The image shows an office space with a desk, chair, and whiteboard, with a door leading to another room.
 The image shows an office space with a large whiteboard, a desk with a computer, a trash can, and two chairs.
 The image shows an office space with a whiteboard, a desk with a computer, a trash can, and two chairs.
+An image with four chairs, a tv, two windows, a clock, a floor, a light, a paper, a wall, and a book.
+An image with a paper, a tv, four chairs, two windows, a floor, a wall, a clock, a book, and a light.
+An image with a light, a book, four chairs, a paper, two windows, a tv, a clock, a wall, and a floor.
+An image with a clock, a paper, a light, four chairs, two windows, a book, a floor, a wall, and a tv.
+An image with four chairs, two windows, a tv, a light, a book, a clock, a floor, a wall, and a paper.

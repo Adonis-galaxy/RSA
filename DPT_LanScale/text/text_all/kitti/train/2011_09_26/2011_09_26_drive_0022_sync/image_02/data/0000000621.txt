@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet suburban street, lined with trees and parked cars, under a clear blue sky.
 The image shows a tree-lined street with a car driving on the right side, a pedestrian crossing sign on the right side, and a white building with a chimney on the left side.
 A tree-lined street with a car parked on the side, a pedestrian crossing sign, and a white building in the background.
+An image with a tree, two cars, two people, a pavement, a sky, a grass, and a road.
+An image with a grass, two people, a pavement, two cars, a road, a tree, and a sky.
+An image with two cars, a road, a grass, a pavement, two people, a tree, and a sky.
+An image with two people, two cars, a tree, a road, a sky, a pavement, and a grass.
+An image with a tree, two cars, a road, a sky, two people, a pavement, and a grass.

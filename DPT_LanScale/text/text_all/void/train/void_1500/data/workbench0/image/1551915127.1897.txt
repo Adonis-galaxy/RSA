@@ -8,3 +8,8 @@ A pair of sneakers on the floor.
 A computer desk with a chair, a filing cabinet, and a pair of shoes on the floor.
 A computer desk with a chair, a filing cabinet, a computer monitor, a keyboard, a mouse, and a pair of shoes.
 The image shows a workspace with a desk, chair, computer, and a pair of shoes on the floor.
+An image with a chair, a cardboard, a table, two tvs, a window, a wall, a floor, and a cabinet.
+An image with two tvs, a cabinet, a chair, a wall, a window, a table, a cardboard, and a floor.
+An image with two tvs, a cardboard, a wall, a chair, a table, a floor, a cabinet, and a window.
+An image with two tvs, a cabinet, a window, a wall, a table, a chair, a cardboard, and a floor.
+An image with a table, two tvs, a chair, a window, a cardboard, a cabinet, a floor, and a wall.

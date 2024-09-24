@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a paved path and a
 A narrow, shaded pathway between two white houses, bordered by lush greenery and a black fence, leads to a door with a small window.
 The image shows a narrow, tree-lined alleyway between two white buildings, with a black fence on the right side and a brick pathway.
 A narrow, tree-lined alleyway leads to a white house with a black fence and a white door, under a clear blue sky.
+An image with a wall, a house, a sky, a door, a fence, a pavement, and a tree.
+An image with a pavement, a house, a fence, a sky, a door, a tree, and a wall.
+An image with a wall, a door, a fence, a sky, a house, a tree, and a pavement.
+An image with a wall, a door, a pavement, a house, a tree, a fence, and a sky.
+An image with a wall, a tree, a door, a fence, a pavement, a sky, and a house.

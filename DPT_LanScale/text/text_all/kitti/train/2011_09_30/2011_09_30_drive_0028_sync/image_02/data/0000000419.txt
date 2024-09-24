@@ -8,3 +8,8 @@ A white car parked on a street.
 A white car is parked on a narrow street between two buildings, with a construction truck in the background, and a blue sky overhead.
 A small white car is parked on a narrow street between two buildings, with a truck visible in the distance.
 A narrow street in a residential area, with parked cars, a truck, and apartment buildings on either side.
+An image with a car, a tree, a window, a truck, a pavement, a house, a road, and a fence.
+An image with a house, a road, a truck, a pavement, a tree, a car, a fence, and a window.
+An image with a car, a window, a fence, a road, a pavement, a house, a truck, and a tree.
+An image with a tree, a fence, a window, a truck, a pavement, a car, a road, and a house.
+An image with a tree, a pavement, a truck, a road, a car, a house, a window, and a fence.

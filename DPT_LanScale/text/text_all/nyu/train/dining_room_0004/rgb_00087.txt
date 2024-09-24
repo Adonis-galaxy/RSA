@@ -8,3 +8,8 @@ A row of chairs in front of a table.
 The image captures a well-lit dining room with a wooden table and matching chairs, featuring a patterned upholstery and a warm, inviting ambiance.
 The image shows a dining room with a long wooden table and six matching chairs, all with a patterned upholstery.
 The image shows a dining room with a wooden table and six matching chairs, all facing the same direction, with a window and a framed picture on the wall.
+An image with seven chairs, a window, a dining, a wall, and a floor.
+An image with a floor, seven chairs, a window, a dining, and a wall.
+An image with a dining, seven chairs, a window, a wall, and a floor.
+An image with a wall, seven chairs, a dining, a window, and a floor.
+An image with seven chairs, a dining, a floor, a window, and a wall.

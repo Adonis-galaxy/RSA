@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a parked car and a hedge on the left, and a house with a white door on the right.
 A narrow alleyway between two buildings, with a parked car and a hedge on the right side.
 A narrow alleyway between two buildings, with a car parked on the right side and a white house on the left.
+An image with a tree, a sky, a wall, a pavement, a house, a car, and a road.
+An image with a house, a sky, a wall, a car, a tree, a road, and a pavement.
+An image with a pavement, a wall, a house, a road, a car, a sky, and a tree.
+An image with a road, a house, a tree, a pavement, a car, a sky, and a wall.
+An image with a sky, a house, a pavement, a wall, a car, a road, and a tree.

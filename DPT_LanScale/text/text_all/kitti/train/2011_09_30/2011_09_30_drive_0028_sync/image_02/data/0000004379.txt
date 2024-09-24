@@ -8,3 +8,8 @@ A tree-lined street with a blue fence.
 A quiet, tree-lined street with parked cars and a blue fence.
 The image shows a narrow, tree-lined street with a few parked cars, a blue fence on the right side, and a white building on the left.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a white house with blue fences.
+An image with a tree, a fence, a road, three cars, a pavement, and a wall.
+An image with a tree, a pavement, three cars, a fence, a wall, and a road.
+An image with a fence, a tree, a road, three cars, a wall, and a pavement.
+An image with a wall, a fence, three cars, a tree, a pavement, and a road.
+An image with three cars, a wall, a tree, a pavement, a road, and a fence.

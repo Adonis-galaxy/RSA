@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, with a silver car parked on the side of the road, under the shade of a tree, and surrounded by houses and parked cars, creating a peaceful suburban atmosphere.
 A silver car is driving down a narrow street lined with houses and trees.
 A narrow street in a residential area with parked cars, a roundabout, and houses on both sides.
+An image with a sky, a wall, seven cars, a stop, a house, a tree, and a road.
+An image with seven cars, a sky, a wall, a tree, a stop, a road, and a house.
+An image with seven cars, a road, a stop, a wall, a tree, a sky, and a house.
+An image with a wall, seven cars, a tree, a road, a house, a sky, and a stop.
+An image with seven cars, a tree, a house, a wall, a stop, a sky, and a road.

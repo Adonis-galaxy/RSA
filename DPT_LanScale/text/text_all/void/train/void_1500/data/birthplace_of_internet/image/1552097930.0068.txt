@@ -8,3 +8,8 @@ A room with a large gray machine, a desk, a chair, and a filing cabinet.
 The image shows a room with a large gray machine, a desk with a computer, a filing cabinet, and a bookshelf.
 The image shows a small office with a desk, chair, and a large gray machine.
 The image shows a room with a large table, a smaller table, a filing cabinet, a large refrigerator, and a bulletin board on the wall. The room is painted green and has a white floor.
+An image with a refrigerator, three chairs, seven books, a table, a paper, a floor, a door, a person, a dining, and a wall.
+An image with a door, a floor, a table, seven books, three chairs, a paper, a person, a dining, a refrigerator, and a wall.
+An image with a door, seven books, three chairs, a person, a table, a dining, a wall, a floor, a refrigerator, and a paper.
+An image with a refrigerator, a dining, seven books, three chairs, a door, a person, a paper, a wall, a table, and a floor.
+An image with seven books, three chairs, a wall, a floor, a person, a dining, a paper, a door, a table, and a refrigerator.

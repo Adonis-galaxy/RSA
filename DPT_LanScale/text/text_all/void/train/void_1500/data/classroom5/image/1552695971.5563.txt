@@ -8,3 +8,8 @@ The image shows a row of black chairs on a carpeted floor.
 The image shows a row of black chairs with silver legs, placed in front of a long wooden desk with a black keyboard and mouse.
 The image shows a room with a desk and several chairs, with a focus on the chairs and the floor.
 The image shows a row of black chairs with silver legs, placed in front of a long wooden desk with a black keyboard and mouse on it.
+An image with four chairs, a rug, a wall, two mice, a keyboard, a tv, and a table.
+An image with four chairs, a table, a keyboard, a rug, two mice, a tv, and a wall.
+An image with a rug, two mice, four chairs, a keyboard, a wall, a table, and a tv.
+An image with a table, a tv, a keyboard, a rug, four chairs, a wall, and two mice.
+An image with two mice, four chairs, a keyboard, a tv, a rug, a wall, and a table.

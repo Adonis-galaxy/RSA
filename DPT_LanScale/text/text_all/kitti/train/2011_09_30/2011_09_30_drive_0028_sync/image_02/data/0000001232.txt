@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 The image captures a sunlit street lined with parked cars, shaded by trees, and bordered by a grassy area.
 The image shows a long, tree-lined street with a row of parked cars on the right side, and a red car driving down the street.
 A tree-lined street with parked cars and a red car driving down it.
+An image with a pavement, a grass, a sky, six cars, a tree, and a road.
+An image with a sky, six cars, a tree, a grass, a road, and a pavement.
+An image with six cars, a grass, a sky, a road, a pavement, and a tree.
+An image with six cars, a tree, a grass, a pavement, a road, and a sky.
+An image with a tree, six cars, a grass, a sky, a pavement, and a road.

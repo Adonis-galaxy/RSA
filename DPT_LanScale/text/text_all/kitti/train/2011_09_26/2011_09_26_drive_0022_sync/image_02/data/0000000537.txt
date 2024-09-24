@@ -8,3 +8,8 @@ The image shows a street scene with three cars parked on the side of the road.
 The image captures a moment of three vehicles parked on a tree-lined road, with a clear sky overhead and a sense of tranquility.
 A red car is parked on the side of a road, with a blue car parked behind it, and a white gate is visible in the background.
 A narrow road with parked cars and a gate on the left side.
+An image with a tree, a fence, a stop, three cars, a pavement, a grass, a sky, and a road.
+An image with three cars, a sky, a grass, a stop, a road, a fence, a pavement, and a tree.
+An image with a sky, a grass, a pavement, three cars, a tree, a road, a stop, and a fence.
+An image with a sky, three cars, a tree, a grass, a road, a stop, a fence, and a pavement.
+An image with a tree, a sky, a fence, a road, three cars, a pavement, a grass, and a stop.

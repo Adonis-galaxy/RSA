@@ -8,3 +8,8 @@ A gray office chair.
 A gray office chair with a straw hat on a desk.
 A gray office chair with a blue hat on a desk.
 The image shows a small office space with a desk, chair, keyboard, mouse, and a straw hat on the desk.
+An image with a wall, a rug, a book, a cardboard, a cabinet, a table, a floor, a tv, a mouse, a keyboard, and a chair.
+An image with a table, a wall, a keyboard, a cardboard, a tv, a rug, a cabinet, a floor, a mouse, a book, and a chair.
+An image with a mouse, a table, a keyboard, a rug, a chair, a cardboard, a wall, a cabinet, a tv, a book, and a floor.
+An image with a floor, a tv, a rug, a wall, a table, a book, a keyboard, a cardboard, a chair, a mouse, and a cabinet.
+An image with a cabinet, a keyboard, a table, a tv, a rug, a floor, a chair, a cardboard, a book, a wall, and a mouse.

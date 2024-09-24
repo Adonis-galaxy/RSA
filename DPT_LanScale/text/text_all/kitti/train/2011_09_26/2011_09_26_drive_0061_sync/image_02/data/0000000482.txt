@@ -8,3 +8,8 @@ A black car is parked on the side of a narrow road.
 A black car is parked on a narrow street between a brick wall and a hedge, with a white car visible in the background.
 A black car is parked on a narrow street between two brick walls, with a white car visible in the foreground.
 A narrow, tree-lined street with a brick wall on one side and parked cars on the other, leading to a house with a sloped roof.
+An image with a wall, a tree, three cars, a roof, a road, a sky, a pavement, and a fence.
+An image with a tree, a roof, three cars, a road, a pavement, a wall, a sky, and a fence.
+An image with three cars, a fence, a pavement, a tree, a road, a wall, a roof, and a sky.
+An image with a sky, three cars, a tree, a wall, a pavement, a roof, a road, and a fence.
+An image with a fence, three cars, a roof, a sky, a tree, a road, a pavement, and a wall.

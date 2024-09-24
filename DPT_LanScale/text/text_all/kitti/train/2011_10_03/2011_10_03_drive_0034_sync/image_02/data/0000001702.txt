@@ -8,3 +8,8 @@ A group of people walking down a street.
 A group of people walking down a quiet residential street, with a man in a white shirt and jeans leading the way.
 A group of people walking down a residential street, with a large house and parked cars in the background.
 A group of people walking down a residential street, with houses and parked cars on either side, and a clear sky overhead.
+An image with three people, a grass, a pavement, two cars, a tree, a bicycle, a sky, a wall, and a roof.
+An image with a tree, a sky, a bicycle, two cars, a roof, a grass, three people, a wall, and a pavement.
+An image with a grass, a wall, a tree, two cars, three people, a bicycle, a sky, a roof, and a pavement.
+An image with a wall, a tree, three people, a bicycle, two cars, a grass, a sky, a roof, and a pavement.
+An image with a sky, three people, a grass, a tree, two cars, a bicycle, a roof, a wall, and a pavement.

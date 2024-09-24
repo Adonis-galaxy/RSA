@@ -8,3 +8,8 @@ The image shows a room with a wooden floor and a chair.
 The image shows an empty room with a wooden floor and a chair, with no visible objects or furniture other than the chair.
 The image shows a room with a large, empty wall and a small, dark-colored piece of furniture in the corner.
 The image shows an empty room with a wooden floor, a chair, and a white cabinet.
+An image with a floor, a cabinet, a chair, a shelf, and a wall.
+An image with a floor, a shelf, a chair, a wall, and a cabinet.
+An image with a wall, a cabinet, a floor, a shelf, and a chair.
+An image with a cabinet, a chair, a wall, a shelf, and a floor.
+An image with a shelf, a wall, a floor, a chair, and a cabinet.

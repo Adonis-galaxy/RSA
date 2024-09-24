@@ -8,3 +8,8 @@ The image shows a street scene with a sidewalk, grass, trees, and parked cars.
 A quiet residential street with parked cars and a sidewalk, lined with trees and buildings, under a clear blue sky.
 The image shows a residential street with a mix of parked cars, trucks, and a large orange building on the right side. The street is lined with trees and grass, and there are a few pedestrians visible. The sky is clear and blue, indicating a sunny day.
 A quiet residential street with parked cars, a sidewalk, and a row of trees.
+An image with a road, a grass, six cars, a house, a tree, two trucks, a building, and a pavement.
+An image with six cars, a road, a house, a building, two trucks, a tree, a grass, and a pavement.
+An image with two trucks, a road, a grass, a tree, six cars, a house, a building, and a pavement.
+An image with two trucks, a pavement, a building, six cars, a grass, a tree, a house, and a road.
+An image with six cars, a pavement, a building, a tree, a grass, two trucks, a road, and a house.

@@ -8,3 +8,8 @@ A blurry office cubicle with a blue bench.
 The image shows a small office space with a desk, chair, and a blue bench.
 The image shows a small office space with a desk, a blue bench, a computer monitor, and a trash can.
 The image shows a small office space with a desk, a blue bench, a computer monitor, and a whiteboard.
+An image with a paper, two benches, a floor, a door, a table, two chairs, a keyboard, a tv, and a wall.
+An image with a tv, a paper, a door, two benches, two chairs, a wall, a table, a floor, and a keyboard.
+An image with a door, two benches, two chairs, a floor, a table, a tv, a wall, a keyboard, and a paper.
+An image with a table, a floor, two chairs, a keyboard, a door, a wall, two benches, a paper, and a tv.
+An image with two chairs, a keyboard, a floor, two benches, a tv, a paper, a table, a door, and a wall.

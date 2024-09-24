@@ -8,3 +8,8 @@ A blurry image of a black calculator on a wooden table.
 A blurry image of a desk with a phone and papers on it.
 A blurry image of a black phone on a wooden table with a stack of magazines.
 A blurry image of a desk with a black phone and a stack of papers.
+An image with three books, a paper, a wall, a table, and a keyboard.
+An image with three books, a paper, a table, a keyboard, and a wall.
+An image with a wall, a paper, three books, a table, and a keyboard.
+An image with three books, a keyboard, a paper, a table, and a wall.
+An image with a paper, three books, a keyboard, a wall, and a table.

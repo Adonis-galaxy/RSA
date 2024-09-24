@@ -8,3 +8,8 @@ The image shows a classroom with rows of chairs and desks, a television, and a p
 The image depicts an empty classroom with a desk, chairs, and a television, all arranged in a way that suggests it's ready for a lecture or presentation.
 The image shows a room with a large white wall, a desk with a computer monitor, a projector, and a camera mounted on the wall. There are several chairs and a TV in the room.
 The image shows an interior space with a classroom setup, featuring rows of chairs facing a central podium with a computer monitor, a television, and a projector screen.
+An image with a floor, four tvs, nine chairs, a wall, a ceiling, a dining, and a light.
+An image with a dining, four tvs, nine chairs, a light, a ceiling, a wall, and a floor.
+An image with nine chairs, a wall, four tvs, a light, a floor, a dining, and a ceiling.
+An image with nine chairs, a ceiling, four tvs, a dining, a wall, a floor, and a light.
+An image with nine chairs, a wall, four tvs, a ceiling, a floor, a light, and a dining.

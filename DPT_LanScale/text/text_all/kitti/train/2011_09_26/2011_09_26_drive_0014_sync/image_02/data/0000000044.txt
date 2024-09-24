@@ -8,3 +8,8 @@ The image shows a street scene with cars and a truck.
 The image captures a typical day on a suburban street, with a mix of vehicles, including cars and a truck, parked along the side of the road, and a few cars in motion, all under a clear blue sky.
 The image shows a wide street with a few cars, a blue truck, and a black car driving down it. The street is lined with trees and buildings, and there are overhead wires and streetlights.
 A tree-lined street with parked cars, a moving car, and a pedestrian crossing, all under a clear blue sky.
+An image with seven cars, a rock, a tree, a pavement, a house, a wall, a sky, a road, and a grass.
+An image with seven cars, a tree, a road, a sky, a grass, a pavement, a house, a rock, and a wall.
+An image with a tree, a rock, seven cars, a road, a grass, a house, a sky, a wall, and a pavement.
+An image with seven cars, a tree, a house, a grass, a sky, a road, a wall, a pavement, and a rock.
+An image with seven cars, a tree, a road, a pavement, a sky, a house, a grass, a rock, and a wall.

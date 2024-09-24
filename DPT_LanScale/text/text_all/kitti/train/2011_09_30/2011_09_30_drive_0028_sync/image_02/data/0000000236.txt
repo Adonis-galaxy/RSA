@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white van.
 The image captures a bustling city street scene, with parked cars, a white van, a pedestrian, and a tall building, all coexisting in a tight urban space.
 A narrow street with parked cars and a white van, with a person walking on the sidewalk and a building with a tree in front of it.
 A narrow street in a European city, with parked cars, a white van, and a person walking, under a clear sky.
+An image with seven cars, a road, a wall, a house, a stop, a tree, a truck, and a person.
+An image with a wall, a road, seven cars, a person, a stop, a tree, a house, and a truck.
+An image with seven cars, a road, a wall, a stop, a truck, a person, a tree, and a house.
+An image with a wall, seven cars, a stop, a truck, a road, a person, a house, and a tree.
+An image with a truck, seven cars, a person, a stop, a tree, a house, a road, and a wall.

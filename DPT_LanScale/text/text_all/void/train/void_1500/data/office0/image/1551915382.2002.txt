@@ -8,3 +8,8 @@ A whiteboard with a book on top of a table.
 A whiteboard with a book and a coffee cup on a table.
 A whiteboard with a book and a cup on a table.
 A whiteboard on a white wall with a table in front of it, a book and a cup on the table.
+An image with a wall, a book, a cup, and a bed.
+An image with a bed, a book, a wall, and a cup.
+An image with a cup, a book, a bed, and a wall.
+An image with a wall, a book, a cup, and a bed.
+An image with a book, a bed, a wall, and a cup.

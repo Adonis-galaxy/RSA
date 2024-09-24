@@ -8,3 +8,8 @@ The image shows a green kitchen with a white door and a white counter.
 The image shows a green kitchen with a white door and a white counter.
 The image shows a green kitchen with a white stove and a white door.
 The image shows a narrow hallway with a green wall, a white door, and a green countertop.
+An image with a door, a floor, a wall, a cup, and a cabinet.
+An image with a cup, a floor, a cabinet, a wall, and a door.
+An image with a cabinet, a door, a wall, a floor, and a cup.
+An image with a floor, a cabinet, a wall, a door, and a cup.
+An image with a wall, a cabinet, a door, a cup, and a floor.

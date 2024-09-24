@@ -8,3 +8,8 @@ The image shows a narrow street between two walls of trees.
 A narrow, shaded street between stone walls, with a white container and a person walking in the distance.
 The image shows a narrow alleyway between two brick walls, with a white trash can on the left side, a black manhole cover in the middle, and a car parked on the right side.
 A narrow, tree-lined street with a brick wall on one side and a white container on the other, leading to a dead-end.
+An image with two walls, a road, a tree, three cars, a refrigerator, and a grass.
+An image with a refrigerator, three cars, two walls, a road, a tree, and a grass.
+An image with three cars, two walls, a road, a refrigerator, a tree, and a grass.
+An image with a grass, a tree, a road, three cars, two walls, and a refrigerator.
+An image with three cars, a grass, two walls, a refrigerator, a road, and a tree.

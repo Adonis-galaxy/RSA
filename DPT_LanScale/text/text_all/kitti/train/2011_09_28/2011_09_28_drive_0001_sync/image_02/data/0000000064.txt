@@ -8,3 +8,8 @@ The image shows a street scene with a black SUV driving down the road.
 A black SUV is driving down a tree-lined street, passing a traffic light and a crosswalk, with parked cars on the side.
 A black SUV is driving down a tree-lined street, passing a traffic light and a stop sign.
 A black SUV is driving down a tree-lined street with a crosswalk, passing a traffic light and a stop sign, and is followed by a white car.
+An image with seven cars, a traffic, a pavement, a road, a dirt, a sky, and a tree.
+An image with a sky, seven cars, a pavement, a dirt, a traffic, a tree, and a road.
+An image with a dirt, a pavement, a road, seven cars, a sky, a tree, and a traffic.
+An image with a road, seven cars, a dirt, a tree, a traffic, a pavement, and a sky.
+An image with seven cars, a tree, a pavement, a sky, a road, a dirt, and a traffic.

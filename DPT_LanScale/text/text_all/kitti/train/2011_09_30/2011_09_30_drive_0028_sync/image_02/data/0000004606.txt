@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 A narrow, tree-lined street in a residential area, with parked cars on both sides and a clear sky overhead.
 A narrow street lined with parked cars, trees, and buildings.
 A narrow, tree-lined street with parked cars on the right side, leading to a white building with a blue sign.
+An image with a tree, nine cars, a sky, a road, a wall, and a house.
+An image with a house, nine cars, a sky, a wall, a tree, and a road.
+An image with a tree, nine cars, a house, a road, a sky, and a wall.
+An image with a road, nine cars, a wall, a sky, a tree, and a house.
+An image with nine cars, a tree, a wall, a road, a house, and a sky.

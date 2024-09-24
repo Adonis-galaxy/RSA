@@ -8,3 +8,8 @@ A blurry image of a room with a table and chairs.
 The image shows a room with a large television mounted on the wall, a table with chairs, and a glass door.
 The image shows a large black flat screen television mounted on a yellow wall above a white table with four chairs.
 The image shows a room with a large flat screen television mounted on a yellow wall, a white table with four chairs, and a glass door.
+An image with a tv, a mirror, a wall, a window, a light, and a chair.
+An image with a tv, a window, a chair, a wall, a light, and a mirror.
+An image with a window, a tv, a light, a chair, a mirror, and a wall.
+An image with a window, a wall, a chair, a light, a tv, and a mirror.
+An image with a mirror, a chair, a window, a light, a tv, and a wall.

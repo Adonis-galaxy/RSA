@@ -8,3 +8,8 @@ A black leather couch with a green pillow.
 A black leather sofa with a green throw pillow, positioned in front of a treadmill, against a beige wall.
 A large, black leather couch with a green pillow is positioned in a corner of a room, next to a treadmill.
 A black leather sofa with a green throw pillow is positioned in front of a wall-mounted exercise machine, which is connected to a power outlet, and is situated on a tiled floor next to a staircase.
+An image with a couch, a floor, a chair, a wall, a rug, and a dining.
+An image with a rug, a floor, a wall, a dining, a chair, and a couch.
+An image with a couch, a chair, a floor, a dining, a rug, and a wall.
+An image with a floor, a rug, a chair, a couch, a wall, and a dining.
+An image with a chair, a wall, a floor, a dining, a couch, and a rug.

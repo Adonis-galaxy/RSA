@@ -8,3 +8,8 @@ A long line of cars driving down a tree-lined road.
 A long, winding road through a lush, tree-lined forest, with a line of vehicles moving along it.
 A long, winding road with multiple cars driving through a lush, green forest.
 A long, tree-lined road with multiple lanes of traffic, including cars and trucks, moving in both directions.
+An image with five cars, a grass, a sky, a road, two trucks, a pavement, and a tree.
+An image with a tree, five cars, a road, a sky, two trucks, a pavement, and a grass.
+An image with five cars, a sky, a tree, a grass, a road, two trucks, and a pavement.
+An image with five cars, two trucks, a grass, a sky, a tree, a pavement, and a road.
+An image with five cars, a tree, a grass, a pavement, a road, a sky, and two trucks.

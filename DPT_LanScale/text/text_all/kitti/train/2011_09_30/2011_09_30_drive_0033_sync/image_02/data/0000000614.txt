@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with parked cars, a few trees, and a white house, all under a clear blue sky.
 The image shows a residential street with parked cars, a truck, and a trailer, lined with trees and houses.
 The image depicts a residential street with parked cars, a paved sidewalk, and a mix of houses and trees, all under a clear blue sky.
+An image with a roof, two buses, a tree, a road, three cars, a bench, a sky, and a house.
+An image with three cars, two buses, a house, a roof, a tree, a bench, a sky, and a road.
+An image with a bench, three cars, a roof, a sky, a tree, a house, two buses, and a road.
+An image with two buses, a bench, a house, a tree, a roof, three cars, a road, and a sky.
+An image with three cars, a house, a tree, a bench, two buses, a sky, a roof, and a road.

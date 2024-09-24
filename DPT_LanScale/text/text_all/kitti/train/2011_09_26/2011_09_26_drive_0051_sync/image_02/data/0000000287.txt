@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 The image captures a moment of everyday life on a suburban street, with a car driving away from a parking lot, surrounded by trees and buildings, and a billboard in the background.
 A car is driving down a street lined with trees and parked cars.
 A car is driving down a tree-lined street with parked cars on the side, and there's a billboard in the background.
+An image with nineteen cars, a bus, a tree, a road, a person, a sky, a grass, and a building.
+An image with a building, nineteen cars, a bus, a tree, a person, a grass, a sky, and a road.
+An image with nineteen cars, a person, a sky, a grass, a bus, a road, a tree, and a building.
+An image with nineteen cars, a grass, a building, a bus, a person, a road, a sky, and a tree.
+An image with a bus, nineteen cars, a grass, a road, a tree, a sky, a building, and a person.

@@ -8,3 +8,8 @@ The image shows a street with a number of parked cars and a building in the back
 The image captures a quiet residential street with parked cars, a pedestrian crossing, and apartment buildings, all under a clear blue sky.
 The image shows a street scene with a large building on the left, a row of parked cars on the right, a pedestrian crossing marked with white lines, and a sign indicating the number 30.
 The image depicts a quiet residential street with parked cars, apartment buildings, and a clear sky.
+An image with eight cars, a wall, a building, a tree, a truck, a grass, a road, a pavement, and a person.
+An image with a grass, eight cars, a road, a person, a truck, a tree, a building, a pavement, and a wall.
+An image with eight cars, a tree, a grass, a person, a building, a pavement, a road, a wall, and a truck.
+An image with eight cars, a tree, a grass, a person, a truck, a building, a wall, a pavement, and a road.
+An image with eight cars, a tree, a wall, a truck, a building, a person, a grass, a road, and a pavement.

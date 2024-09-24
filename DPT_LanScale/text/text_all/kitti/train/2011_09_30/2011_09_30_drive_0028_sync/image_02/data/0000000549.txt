@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, tree-lined street with a brick structure on the left and a fence on the right, leading to a building with a green roof.
 The image shows a narrow, tree-lined street with a brick structure on the left, a green fence on the right, and a car parked in the distance.
 A narrow, tree-lined street with a sidewalk, fences, and a paved road.
+An image with two walls, a window, a road, a sky, a pavement, a fence, a tree, and a car.
+An image with a car, two walls, a window, a tree, a road, a fence, a sky, and a pavement.
+An image with a window, two walls, a fence, a pavement, a road, a car, a tree, and a sky.
+An image with a tree, a car, a road, a window, two walls, a sky, a pavement, and a fence.
+An image with two walls, a road, a tree, a window, a fence, a pavement, a car, and a sky.

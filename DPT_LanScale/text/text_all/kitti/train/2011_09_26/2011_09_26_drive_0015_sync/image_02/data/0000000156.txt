@@ -8,3 +8,8 @@ The image shows a road with two cars and a truck, with a train track on the left
 A highway scene with two vehicles, one ahead and one behind, under a clear blue sky, with a grassy median and a bridge in the background.
 A large truck is driving down a highway with a bridge in the background, and there are trees on the side of the road.
 A highway scene with two vehicles, one in each lane, driving under a clear blue sky, with a grassy median and a bridge in the background.
+An image with a tree, a building, a grass, a fence, seven cars, a bus, two traffics, a road, and a sky.
+An image with a fence, two traffics, seven cars, a building, a tree, a bus, a road, a sky, and a grass.
+An image with a sky, seven cars, a bus, a fence, two traffics, a building, a road, a grass, and a tree.
+An image with a tree, seven cars, a building, a grass, two traffics, a bus, a sky, a road, and a fence.
+An image with seven cars, a road, a sky, a tree, a building, two traffics, a grass, a fence, and a bus.

@@ -8,3 +8,8 @@ A car is parked on the street.
 A car is parked on a street next to a building, with a stop sign and a construction site in the background.
 A small car is parked on a street next to a building, with a stop sign visible in the background.
 A quiet street scene with a car parked at the end of a cul-de-sac, a building under construction, a stop sign, and a chain-link fence.
+An image with two stops, three cars, a grass, a pavement, a sky, a house, a window, a tree, a fence, and a road.
+An image with three cars, a grass, a sky, a window, two stops, a road, a house, a tree, a fence, and a pavement.
+An image with a grass, a tree, a road, two stops, a window, a sky, three cars, a pavement, a fence, and a house.
+An image with two stops, a sky, a grass, three cars, a tree, a road, a house, a fence, a window, and a pavement.
+An image with three cars, a grass, a pavement, two stops, a tree, a window, a fence, a road, a house, and a sky.

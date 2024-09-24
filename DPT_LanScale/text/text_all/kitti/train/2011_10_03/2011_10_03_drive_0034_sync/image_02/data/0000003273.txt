@@ -8,3 +8,8 @@ The image shows a tree-lined street with a sidewalk.
 A tree-lined street with a brick wall, a person walking, and a car parked on the side.
 The image shows a narrow, tree-lined street with a sidewalk, a brick wall, and a person walking in the distance.
 A narrow, tree-lined street with a brick wall on one side and a grassy area on the other, leading to a dead-end.
+An image with a tree, a pavement, a grass, a fire, a wall, and a road.
+An image with a grass, a road, a wall, a pavement, a tree, and a fire.
+An image with a tree, a road, a pavement, a grass, a wall, and a fire.
+An image with a grass, a fire, a wall, a road, a pavement, and a tree.
+An image with a pavement, a grass, a tree, a fire, a road, and a wall.

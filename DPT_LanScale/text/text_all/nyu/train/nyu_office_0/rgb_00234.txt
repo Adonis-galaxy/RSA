@@ -8,3 +8,8 @@ The image shows a long hallway with doors on both sides, illuminated by overhead
 The image captures a long, narrow hallway with a series of doors on the right side, illuminated by overhead lights, and a darker, less lit area on the left side, possibly a storage or utility area.
 The image shows a long, narrow hallway with a series of doors on the left side, a single door on the right, and a ceiling with recessed lighting. The hallway is illuminated by overhead lights, and the doors are closed.
 The image shows a long, narrow hallway with a series of doors on the left side, illuminated by overhead lights, and a darker, less lit area on the right side.
+An image with a light, a window, a wall, a rug, and a door.
+An image with a light, a window, a rug, a door, and a wall.
+An image with a window, a light, a wall, a door, and a rug.
+An image with a rug, a window, a light, a wall, and a door.
+An image with a door, a window, a light, a rug, and a wall.

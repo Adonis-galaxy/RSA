@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a clear sky.
 The image captures a quiet residential street, with parked cars lining the sidewalk, and a clear sky overhead.
 The image shows a narrow street lined with parked cars, a sidewalk, and buildings, with a street sign indicating "Schauinslandstr."
 A quiet residential street with parked cars and a clear sky.
+An image with a sky, six cars, a pavement, a house, a road, and a tree.
+An image with a road, six cars, a tree, a house, a pavement, and a sky.
+An image with a road, a tree, six cars, a pavement, a sky, and a house.
+An image with a sky, six cars, a tree, a road, a pavement, and a house.
+An image with six cars, a pavement, a house, a tree, a road, and a sky.

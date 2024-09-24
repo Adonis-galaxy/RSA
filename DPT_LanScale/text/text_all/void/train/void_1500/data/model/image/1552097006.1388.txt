@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a clear glass case displaying it.
 The image shows a small model of a building, which is placed on a wooden table.
 The image shows a model of a building with a clear glass display case, placed on a wooden table.
+An image with a floor, a building, a cabinet, and a person.
+An image with a building, a floor, a cabinet, and a person.
+An image with a building, a cabinet, a floor, and a person.
+An image with a person, a building, a cabinet, and a floor.
+An image with a floor, a cabinet, a person, and a building.

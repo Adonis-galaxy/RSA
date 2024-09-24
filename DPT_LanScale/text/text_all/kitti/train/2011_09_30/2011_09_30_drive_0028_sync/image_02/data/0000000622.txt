@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A narrow, tree-lined street leads to a white building, with a car parked on the side.
 The image shows a narrow, tree-lined street with a car parked on the side, and a building with a white facade and a black roof in the background.
 A narrow, tree-lined street with a sidewalk and a car parked on the right side, leading to a white building with a black roof.
+An image with a sky, a wall, a tree, a road, a pavement, a grass, and a car.
+An image with a tree, a sky, a pavement, a grass, a wall, a road, and a car.
+An image with a road, a grass, a tree, a sky, a pavement, a wall, and a car.
+An image with a sky, a tree, a wall, a grass, a pavement, a car, and a road.
+An image with a wall, a road, a pavement, a car, a tree, a sky, and a grass.

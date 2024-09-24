@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A narrow, shaded alleyway between two white houses, with a black fence and a brick path, leading to a door with a mailbox.
 The image shows a narrow alleyway between two white buildings, with a black fence on the right side, a brick path, and a few trees and bushes lining the alley.
 A narrow, tree-lined alleyway between two white buildings, with a black fence and a brick pathway.
+An image with a fence, a roof, a door, a pavement, a house, a sky, a wall, and a tree.
+An image with a roof, a pavement, a door, a house, a fence, a sky, a tree, and a wall.
+An image with a pavement, a fence, a sky, a wall, a roof, a tree, a door, and a house.
+An image with a wall, a pavement, a roof, a door, a fence, a sky, a tree, and a house.
+An image with a sky, a house, a tree, a pavement, a roof, a door, a wall, and a fence.

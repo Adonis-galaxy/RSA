@@ -8,3 +8,8 @@ The image shows a narrow road with two cars and a brick wall.
 A narrow road flanked by a stone wall and lined with parked cars, with a car driving away on the right.
 A narrow road with two cars, one parked and one driving, flanked by a stone wall and lined with trees and bushes.
 A narrow road with parked cars and a brick wall on one side, leading to a house with a hedge and a lamp post.
+An image with a roof, three cars, a road, a sky, a fence, a pavement, a wall, and a tree.
+An image with a road, a sky, three cars, a pavement, a wall, a fence, a roof, and a tree.
+An image with a road, a wall, a fence, a sky, three cars, a tree, a roof, and a pavement.
+An image with a fence, three cars, a roof, a wall, a pavement, a tree, a road, and a sky.
+An image with three cars, a roof, a sky, a wall, a road, a pavement, a fence, and a tree.

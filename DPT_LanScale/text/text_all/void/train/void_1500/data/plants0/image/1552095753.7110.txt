@@ -8,3 +8,8 @@ The image shows a small garden area with a few trees and plants.
 The image shows a small garden area with a few trees and plants, surrounded by a concrete border and a wooden deck.
 The image shows a small garden area with a few trees and plants, surrounded by a concrete border.
 The image shows a small, sandy area with a few trees and plants, surrounded by a concrete border and a wooden deck.
+An image with a sand, a tree, a floor, two walls, and a pavement.
+An image with a tree, a sand, a pavement, two walls, and a floor.
+An image with a sand, two walls, a pavement, a floor, and a tree.
+An image with two walls, a floor, a pavement, a tree, and a sand.
+An image with two walls, a sand, a floor, a pavement, and a tree.

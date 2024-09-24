@@ -8,3 +8,8 @@ A room with a large refrigerator and a table.
 The image shows a room with a large refrigerator, a table with a chair, and a desk with a chair. The room has a green wall and a white ceiling.
 The image shows a room with a large refrigerator, a smaller refrigerator, a table, a chair, and a picture on the wall.
 The image shows a room with a green wall, a desk with a chair, a large refrigerator, a smaller refrigerator, a table with a chair, and a large machine with a blue panel.
+An image with a light, four chairs, two people, a floor, a ceiling, two refrigerators, a wall, and a dining.
+An image with two people, a wall, four chairs, a light, a floor, two refrigerators, a dining, and a ceiling.
+An image with a wall, two people, four chairs, a floor, two refrigerators, a dining, a ceiling, and a light.
+An image with four chairs, two people, a dining, a light, a floor, a wall, two refrigerators, and a ceiling.
+An image with four chairs, two people, a floor, a dining, two refrigerators, a ceiling, a light, and a wall.

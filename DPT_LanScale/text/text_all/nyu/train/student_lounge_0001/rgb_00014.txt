@@ -8,3 +8,8 @@ The image shows a room with a table and several chairs.
 The image captures a room with a large wooden table surrounded by various chairs, some of which are purple, and a bookshelf filled with books. The room appears to be a communal space, possibly a library or a study area.
 The image shows a room with a large wooden table surrounded by several chairs, some of which are purple. There is a bookshelf filled with books in the background.
 The image shows a room with a large wooden table surrounded by multiple chairs, a bookshelf filled with books, and a door leading to a hallway.
+An image with a floor, eleven chairs, thirteen books, a shelf, a couch, a door, a wall, a curtain, and a dining.
+An image with thirteen books, eleven chairs, a curtain, a dining, a door, a wall, a couch, a floor, and a shelf.
+An image with a floor, a couch, a wall, a dining, thirteen books, eleven chairs, a door, a curtain, and a shelf.
+An image with thirteen books, eleven chairs, a dining, a couch, a shelf, a door, a wall, a curtain, and a floor.
+An image with thirteen books, eleven chairs, a shelf, a dining, a door, a couch, a curtain, a wall, and a floor.

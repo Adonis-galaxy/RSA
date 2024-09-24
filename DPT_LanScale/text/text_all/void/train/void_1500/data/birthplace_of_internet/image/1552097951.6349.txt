@@ -8,3 +8,8 @@ A room with a green wall and various office equipment.
 The image shows an office space with a green wall, a desk with a computer, a refrigerator, and a bulletin board.
 The image shows a small room with a green wall, a refrigerator, a table, a chair, and a picture on the wall.
 The image shows an office space with a green wall, a desk with a computer, a refrigerator, and a bulletin board.
+An image with a wall, a shelf, a ceiling, a floor, a refrigerator, a light, a tv, four chairs, and a dining.
+An image with a light, four chairs, a ceiling, a refrigerator, a dining, a wall, a shelf, a floor, and a tv.
+An image with a ceiling, four chairs, a refrigerator, a dining, a wall, a shelf, a light, a tv, and a floor.
+An image with a refrigerator, a light, a wall, a dining, four chairs, a floor, a ceiling, a tv, and a shelf.
+An image with a refrigerator, four chairs, a dining, a floor, a shelf, a light, a wall, a ceiling, and a tv.

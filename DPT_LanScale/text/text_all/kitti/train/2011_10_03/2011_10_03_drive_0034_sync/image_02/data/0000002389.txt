@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on the right side.
 A quiet residential street, with a parked car and a person walking, under a clear sky.
 A narrow, tree-lined street in a residential area, with a few parked cars and a person walking on the sidewalk.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with two cars, a sky, a motorcycle, a road, a tree, and a house.
+An image with two cars, a road, a house, a sky, a motorcycle, and a tree.
+An image with a sky, two cars, a house, a road, a motorcycle, and a tree.
+An image with a house, a motorcycle, a road, a sky, two cars, and a tree.
+An image with a tree, a road, a sky, a motorcycle, a house, and two cars.

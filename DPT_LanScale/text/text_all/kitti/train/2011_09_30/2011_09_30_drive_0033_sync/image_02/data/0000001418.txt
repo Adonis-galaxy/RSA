@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 A quiet residential street with parked cars and a lush green canopy overhead.
 The image shows a narrow street lined with parked cars and a fence, with a large building on the left and a forest on the right.
 A narrow street with parked cars, lined by a fence and trees, leading to a residential area.
+An image with a sky, a road, four cars, a house, a traffic, a pavement, a wall, a tree, and a fence.
+An image with a pavement, four cars, a house, a traffic, a road, a tree, a fence, a sky, and a wall.
+An image with a traffic, four cars, a tree, a sky, a house, a road, a wall, a fence, and a pavement.
+An image with a road, four cars, a fence, a house, a traffic, a wall, a tree, a pavement, and a sky.
+An image with a tree, a house, a sky, a fence, four cars, a road, a traffic, a wall, and a pavement.

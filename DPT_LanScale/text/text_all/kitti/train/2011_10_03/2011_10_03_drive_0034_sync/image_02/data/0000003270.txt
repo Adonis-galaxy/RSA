@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a clear path for pedestrians.
 A narrow, tree-lined street with a brick building on the left, a white arrow painted on the road, and a person walking on the right.
 A narrow, tree-lined street with a brick wall, a white door, and a red stop sign at the end.
+An image with a wall, a car, a pavement, a grass, a tree, a road, a person, and a door.
+An image with a person, a tree, a door, a car, a wall, a road, a grass, and a pavement.
+An image with a pavement, a car, a road, a person, a grass, a door, a tree, and a wall.
+An image with a person, a car, a tree, a grass, a wall, a pavement, a door, and a road.
+An image with a person, a door, a road, a grass, a tree, a car, a wall, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a black SUV.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a black SUV parked in front of a white house, under a clear blue sky.
 A black car is parked on the side of a narrow street lined with trees and houses.
 A narrow street in a residential area with parked cars and a black SUV driving down it.
+An image with a fence, six cars, a stop, a road, a house, a sky, a pavement, a tree, and a wall.
+An image with six cars, a house, a road, a pavement, a stop, a wall, a sky, a fence, and a tree.
+An image with a road, six cars, a house, a sky, a fence, a tree, a stop, a pavement, and a wall.
+An image with six cars, a stop, a sky, a road, a house, a wall, a pavement, a fence, and a tree.
+An image with a tree, six cars, a pavement, a fence, a stop, a wall, a house, a road, and a sky.

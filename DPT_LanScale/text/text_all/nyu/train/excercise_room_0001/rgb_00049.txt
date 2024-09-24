@@ -8,3 +8,8 @@ A gym with various exercise equipment.
 The image captures a well-equipped gym with a comfortable leather couch, showcasing a variety of exercise equipment and a cozy seating area.
 The image shows a gym with various exercise equipment, including a large treadmill, a smaller exercise bike, and a couch with a pillow.
 The image shows a gym with various exercise equipment, including treadmills, weight machines, and a couch with a pillow.
+An image with a couch, a wall, a ceiling, a tv, a floor, a table, a light, and a window.
+An image with a couch, a wall, a floor, a tv, a ceiling, a window, a light, and a table.
+An image with a tv, a floor, a couch, a table, a wall, a window, a ceiling, and a light.
+An image with a window, a couch, a table, a light, a floor, a wall, a tv, and a ceiling.
+An image with a ceiling, a window, a wall, a table, a tv, a floor, a couch, and a light.

@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a serene residential street, lined with neatly trimmed hedges and trees, leading to a quaint house with a charming garden.
 The image shows a narrow, tree-lined street with a sidewalk on the right side, leading to a row of houses on the left.
 A narrow, tree-lined street with a sidewalk and houses on both sides, leading to a clear sky.
+An image with a tree, a pavement, a fence, a roof, two cars, a road, a house, and a sky.
+An image with two cars, a sky, a house, a fence, a tree, a road, a roof, and a pavement.
+An image with a roof, a pavement, a tree, a house, two cars, a sky, a road, and a fence.
+An image with two cars, a sky, a fence, a road, a roof, a pavement, a tree, and a house.
+An image with a sky, two cars, a pavement, a fence, a road, a roof, a house, and a tree.

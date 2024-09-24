@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with trees and houses, where the sun casts long shadows, creating a peaceful atmosphere.
 The image shows a narrow street lined with parked cars and trees, with a clear sky overhead.
 The image depicts a residential street with parked cars, a sidewalk, and houses on both sides, under a clear sky.
+An image with seven cars, a sky, a house, a wall, a fence, a road, a tree, and a pavement.
+An image with a sky, seven cars, a fence, a pavement, a road, a house, a wall, and a tree.
+An image with seven cars, a house, a pavement, a tree, a sky, a wall, a road, and a fence.
+An image with a tree, seven cars, a fence, a sky, a pavement, a road, a wall, and a house.
+An image with a tree, a road, seven cars, a wall, a fence, a sky, a pavement, and a house.

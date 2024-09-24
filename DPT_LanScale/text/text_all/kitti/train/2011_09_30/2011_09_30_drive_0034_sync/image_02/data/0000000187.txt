@@ -8,3 +8,8 @@ A narrow alleyway between two walls of greenery.
 A narrow, sunlit path between two walls of lush greenery, with a car parked at the end of the road.
 A narrow, sunlit alleyway between two walls of lush greenery, with a car parked at the end.
 A narrow, sunlit alleyway between two walls of lush greenery, with a car parked at the end.
+An image with a wall, a pavement, a house, a sky, a car, and a tree.
+An image with a car, a tree, a sky, a house, a wall, and a pavement.
+An image with a car, a tree, a house, a wall, a pavement, and a sky.
+An image with a sky, a house, a wall, a car, a pavement, and a tree.
+An image with a pavement, a wall, a sky, a tree, a car, and a house.

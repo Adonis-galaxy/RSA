@@ -8,3 +8,8 @@ A classroom with a green wall and white ceiling.
 The image shows a classroom with a green wall, a whiteboard, a refrigerator, a table, and a chair.
 The image shows a classroom with a green wall, two long fluorescent lights, a whiteboard, a refrigerator, a table with a chair, and a bulletin board with papers and pictures.
 The image shows a classroom with a green wall, a whiteboard, a desk, a refrigerator, and a projector.
+An image with a refrigerator, a tv, a ceiling, a dining, three chairs, a wall, and a light.
+An image with a ceiling, a light, a tv, a refrigerator, three chairs, a wall, and a dining.
+An image with a wall, a tv, three chairs, a dining, a light, a ceiling, and a refrigerator.
+An image with a ceiling, a dining, three chairs, a tv, a wall, a refrigerator, and a light.
+An image with a light, a dining, three chairs, a ceiling, a refrigerator, a tv, and a wall.

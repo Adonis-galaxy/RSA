@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a residential area.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles on the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a clear blue sky overhead.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a truck, six cars, a fence, a window, a pavement, a house, a tree, and a road.
+An image with six cars, a tree, a pavement, a house, a truck, a road, a fence, and a window.
+An image with a road, a house, six cars, a fence, a pavement, a window, a tree, and a truck.
+An image with a tree, a fence, a road, six cars, a truck, a house, a window, and a pavement.
+An image with a truck, six cars, a house, a road, a pavement, a fence, a tree, and a window.

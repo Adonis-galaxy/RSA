@@ -8,3 +8,8 @@ A blue basket with straws on a counter.
 A counter with a blue basket of napkins, a white basket of napkins, and a cup of straws.
 A counter with a blue basket of napkins, a white basket of napkins, and a white cup with wooden stirrers.
 A counter with a blue basket, a white cup, and a yellow basket.
+An image with a table, a cup, a paper, and a wall.
+An image with a wall, a paper, a table, and a cup.
+An image with a cup, a paper, a table, and a wall.
+An image with a cup, a paper, a wall, and a table.
+An image with a paper, a wall, a cup, and a table.

@@ -8,3 +8,8 @@ A view of hallway.
 The image captures a well-lit, spacious kitchen with a clean and organized layout, featuring a central island, a dining table, a pantry, and a hallway leading to another room.
 The image shows a narrow hallway with a large door on the right, a smaller door on the left, and a kitchen area with a countertop and cabinets in the foreground.
 The image shows a kitchen with a tiled floor, wooden cabinets, and a black coat hanging on the back of a chair.
+An image with a wall, a sink, a door, a knife, a counter, a chair, a floor, and a cabinet.
+An image with a wall, a sink, a cabinet, a counter, a knife, a floor, a door, and a chair.
+An image with a counter, a knife, a sink, a wall, a door, a cabinet, a chair, and a floor.
+An image with a knife, a door, a wall, a floor, a sink, a cabinet, a counter, and a chair.
+An image with a wall, a counter, a chair, a floor, a sink, a cabinet, a door, and a knife.

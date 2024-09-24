@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a few vehicles in motion, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street lined with parked cars and buildings, with a few cars driving down the road.
 A narrow street in a residential area with parked cars and a mix of old and new vehicles.
+An image with five trucks, a sky, eight cars, a road, two walls, a building, a grass, a stairs, a tree, and a pavement.
+An image with five trucks, eight cars, a pavement, a tree, a sky, a grass, a building, a road, a stairs, and two walls.
+An image with eight cars, a grass, five trucks, two walls, a road, a building, a pavement, a stairs, a tree, and a sky.
+An image with eight cars, a building, five trucks, a road, a pavement, a tree, a stairs, two walls, a grass, and a sky.
+An image with eight cars, five trucks, a road, a grass, a tree, a stairs, two walls, a building, a sky, and a pavement.

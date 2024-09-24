@@ -8,3 +8,8 @@ The image shows a narrow street with two vehicles parked on the side.
 A black Mercedes-Benz van is parked on the side of a narrow street between two white buildings, with a person standing next to it.
 A large black bus is parked on the side of a narrow street between two white buildings, with a smaller black car parked in front of it.
 A narrow street in a residential area with parked cars and a bus, with a fence and trees on the side.
+An image with a person, six cars, a sky, a wall, a pavement, a tree, a road, a house, a truck, and a fence.
+An image with a pavement, six cars, a house, a sky, a wall, a tree, a person, a truck, a fence, and a road.
+An image with six cars, a sky, a road, a truck, a wall, a fence, a tree, a pavement, a person, and a house.
+An image with six cars, a pavement, a tree, a truck, a person, a road, a sky, a fence, a wall, and a house.
+An image with a sky, six cars, a person, a house, a road, a fence, a tree, a pavement, a wall, and a truck.

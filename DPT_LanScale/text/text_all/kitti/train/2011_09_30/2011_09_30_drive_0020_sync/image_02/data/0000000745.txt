@@ -8,3 +8,8 @@ The image shows a street view of a residential area with houses and trees.
 The image captures a serene residential street, lined with houses and trees, leading to a white building with a blue sign, under a clear blue sky.
 The image shows a long, narrow street lined with houses and trees, with a clear blue sky overhead.
 The image depicts a long, narrow street lined with houses and trees, leading to a white building with a blue sign on the right side.
+An image with ten cars, a tree, a roof, a grass, a house, a pavement, and a wall.
+An image with ten cars, a house, a grass, a pavement, a tree, a roof, and a wall.
+An image with ten cars, a roof, a tree, a pavement, a house, a wall, and a grass.
+An image with a pavement, ten cars, a wall, a grass, a house, a roof, and a tree.
+An image with ten cars, a grass, a wall, a roof, a pavement, a house, and a tree.

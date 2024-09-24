@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a box on it.
 The image shows a small, blue kitchenette with a counter, cabinets, and a light fixture.
 The image shows a small, blue kitchenette with a counter, cabinets, and a light fixture.
 The image shows a small, blue-walled kitchenette with a counter, cabinets, and a light fixture.
+An image with a cabinet, a counter, a cardboard, a light, and a wall.
+An image with a cardboard, a counter, a cabinet, a wall, and a light.
+An image with a cardboard, a counter, a light, a wall, and a cabinet.
+An image with a cardboard, a wall, a light, a counter, and a cabinet.
+An image with a cardboard, a cabinet, a light, a wall, and a counter.

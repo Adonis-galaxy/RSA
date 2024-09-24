@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings, green 
 The image captures a serene residential street, lined with houses, trees, and parked cars, under a clear blue sky.
 The image shows a long, narrow street lined with parked cars and lush greenery, with apartment buildings on both sides, and a clear blue sky overhead.
 A long, narrow street lined with trees and parked cars, leading to a row of white buildings with yellow doors.
+An image with six cars, a truck, a pavement, a house, a tree, a grass, a bicycle, a road, and a potted.
+An image with six cars, a road, a house, a bicycle, a truck, a potted, a grass, a tree, and a pavement.
+An image with a house, a pavement, six cars, a potted, a truck, a bicycle, a tree, a road, and a grass.
+An image with six cars, a road, a grass, a pavement, a house, a tree, a bicycle, a potted, and a truck.
+An image with a house, six cars, a tree, a road, a pavement, a bicycle, a grass, a potted, and a truck.

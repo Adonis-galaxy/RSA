@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white van driving down it.
 A white van is parked on the side of a tree-lined street, with other vehicles and houses in the background.
 A white van is driving down a tree-lined street with other cars parked along the side.
 A quiet residential street with parked cars and a clear sky.
+An image with a pavement, a tree, five cars, a road, a sky, a house, and a grass.
+An image with five cars, a house, a sky, a grass, a road, a pavement, and a tree.
+An image with five cars, a house, a pavement, a grass, a road, a tree, and a sky.
+An image with a pavement, five cars, a grass, a tree, a sky, a house, and a road.
+An image with a house, five cars, a tree, a grass, a sky, a road, and a pavement.

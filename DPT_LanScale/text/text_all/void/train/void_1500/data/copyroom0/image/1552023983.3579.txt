@@ -8,3 +8,8 @@ A printer is sitting on a desk.
 A printer sits on a desk next to a box of paper.
 A white printer with a yellow paper sign on it, sitting on a desk.
 A printer is sitting on a desk next to a paper tray.
+An image with a floor, a wall, a paper, and a cabinet.
+An image with a paper, a wall, a floor, and a cabinet.
+An image with a wall, a cabinet, a floor, and a paper.
+An image with a cabinet, a paper, a floor, and a wall.
+An image with a cabinet, a floor, a wall, and a paper.

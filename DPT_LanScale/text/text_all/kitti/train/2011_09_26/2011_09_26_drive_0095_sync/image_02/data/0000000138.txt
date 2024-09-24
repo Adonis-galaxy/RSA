@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a quiet street, with parked cars and apartment buildings in the background.
 A woman riding a bicycle on a narrow street between parked cars and tall buildings.
 A woman rides a bicycle on a narrow street between parked cars and tall buildings, with a man walking on the sidewalk.
+An image with two people, six cars, a pavement, a building, a bicycle, a tree, a wall, a sky, a road, and a grass.
+An image with six cars, a building, a bicycle, two people, a sky, a pavement, a wall, a tree, a road, and a grass.
+An image with six cars, a building, a tree, a grass, a sky, two people, a road, a wall, a pavement, and a bicycle.
+An image with six cars, two people, a wall, a sky, a building, a pavement, a tree, a road, a grass, and a bicycle.
+An image with a bicycle, six cars, a road, a tree, a wall, a building, a pavement, two people, a sky, and a grass.

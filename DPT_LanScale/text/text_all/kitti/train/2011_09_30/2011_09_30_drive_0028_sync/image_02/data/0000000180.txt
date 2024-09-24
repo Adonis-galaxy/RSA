@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 A quiet residential street with parked cars and a sidewalk.
 The image shows a narrow street lined with parked cars and buildings, with a sidewalk on the right side.
 A narrow street lined with parked cars and buildings, with a sidewalk and a hedge on the right side.
+An image with six cars, a sky, a house, a tree, a road, a pavement, a person, and a fence.
+An image with six cars, a person, a house, a road, a sky, a pavement, a fence, and a tree.
+An image with a tree, a fence, six cars, a person, a pavement, a sky, a road, and a house.
+An image with a fence, a house, a pavement, a person, a road, six cars, a tree, and a sky.
+An image with a tree, a pavement, a fence, six cars, a person, a sky, a road, and a house.

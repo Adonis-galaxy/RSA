@@ -8,3 +8,8 @@ The image shows a street intersection with a road leading to the right.
 The image captures a tranquil suburban street scene, with a clear view of the road ahead, marked by a crosswalk and a traffic light, leading to a residential area with trees and a park.
 The image shows a wide, tree-lined street with a clear view of the road ahead, marked by a red and white striped pole on the left side.
 The image shows a wide, tree-lined street with a clear view of the intersection and the surrounding area.
+An image with a tree, a road, a sky, a pavement, a grass, a traffic, and a car.
+An image with a tree, a sky, a road, a grass, a car, a pavement, and a traffic.
+An image with a grass, a car, a tree, a sky, a road, a traffic, and a pavement.
+An image with a sky, a car, a tree, a pavement, a grass, a road, and a traffic.
+An image with a car, a road, a grass, a traffic, a tree, a pavement, and a sky.

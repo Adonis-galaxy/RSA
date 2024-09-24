@@ -8,3 +8,8 @@ A car on a narrow road.
 A solitary car on a narrow, tree-lined road, with a lone street lamp standing sentinel on the sidewalk.
 A red car is driving down a narrow, tree-lined street.
 A narrow, tree-lined road with a red car parked on the side, leading to a brick wall and a lamppost.
+An image with two cars, a tree, a road, a pavement, a sky, a door, and a wall.
+An image with a pavement, a door, a wall, a sky, two cars, a road, and a tree.
+An image with a road, two cars, a pavement, a sky, a door, a wall, and a tree.
+An image with two cars, a wall, a tree, a road, a pavement, a sky, and a door.
+An image with a pavement, two cars, a sky, a wall, a road, a tree, and a door.

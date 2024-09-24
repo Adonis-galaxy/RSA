@@ -8,3 +8,8 @@ The image shows a street with a few cars and a sidewalk.
 The image captures a serene, tree-lined street with a few cars parked or moving along, under a bright, sunny sky.
 The image shows a tree-lined street with a few cars, a sidewalk, and a large concrete wall on the right side.
 A tree-lined street with a concrete barrier, a few parked cars, and a clear sky.
+An image with three cars, a road, a tree, a grass, a wall, a sky, and a pavement.
+An image with a wall, three cars, a tree, a road, a sky, a pavement, and a grass.
+An image with three cars, a tree, a grass, a road, a sky, a pavement, and a wall.
+An image with a wall, three cars, a tree, a grass, a sky, a road, and a pavement.
+An image with a sky, three cars, a tree, a wall, a road, a pavement, and a grass.

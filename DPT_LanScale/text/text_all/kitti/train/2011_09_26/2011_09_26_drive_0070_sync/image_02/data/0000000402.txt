@@ -8,3 +8,8 @@ The image shows a two-lane road with a white line down the middle.
 The image captures a serene rural road, with a clear sky overhead and lush greenery on both sides, featuring a white line dividing the lanes and a single vehicle in motion.
 A large, empty highway with a few vehicles, surrounded by lush greenery and a clear blue sky.
 A two-lane road with a center divider, flanked by trees and a grassy area, with a white line down the middle and a traffic sign on the left side.
+An image with a grass, a road, a sky, a fence, a tree, a stop, a truck, a car, and a person.
+An image with a stop, a sky, a grass, a fence, a car, a tree, a person, a road, and a truck.
+An image with a person, a car, a tree, a sky, a fence, a truck, a grass, a stop, and a road.
+An image with a grass, a person, a sky, a road, a fence, a stop, a car, a tree, and a truck.
+An image with a truck, a road, a stop, a car, a person, a sky, a tree, a grass, and a fence.

@@ -8,3 +8,8 @@ A view of table.
 The image captures a cozy dining area with a table, chairs, and a window that offers a view of the outside.
 The image shows a dining room with a large table, several chairs, a window with blinds, and a clock on the wall. A shopping cart is placed on the table.
 The image shows a dining room with a table, chairs, and a window with blinds, featuring a view of a house and a car outside.
+An image with four chairs, a wall, a clock, a window, a dining, and a car.
+An image with a wall, four chairs, a dining, a car, a window, and a clock.
+An image with a car, a window, a clock, four chairs, a dining, and a wall.
+An image with a window, a car, a wall, four chairs, a clock, and a dining.
+An image with a dining, a window, a car, four chairs, a wall, and a clock.

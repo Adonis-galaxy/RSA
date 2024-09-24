@@ -8,3 +8,8 @@ A car driving down a tree-lined street.
 A car on a tree-lined street, with a sidewalk and a fence on the right side.
 A narrow road with parked cars and a truck, surrounded by trees and a sidewalk.
 A tree-lined street with a car driving down it, surrounded by a sidewalk and a fence.
+An image with five cars, a pavement, a road, a tree, and a grass.
+An image with five cars, a pavement, a tree, a road, and a grass.
+An image with a tree, five cars, a road, a pavement, and a grass.
+An image with five cars, a pavement, a road, a grass, and a tree.
+An image with a road, five cars, a grass, a tree, and a pavement.

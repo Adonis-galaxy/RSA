@@ -8,3 +8,8 @@ A coffee maker on a counter.
 A coffee machine is sitting on a counter in a room.
 A small silver coffee maker on a orange counter.
 A coffee machine is sitting on a counter in a room with an orange wall.
+An image with a floor, a table, a door, a wall, and a toaster.
+An image with a floor, a door, a toaster, a wall, and a table.
+An image with a wall, a floor, a toaster, a door, and a table.
+An image with a wall, a floor, a door, a table, and a toaster.
+An image with a floor, a door, a table, a toaster, and a wall.

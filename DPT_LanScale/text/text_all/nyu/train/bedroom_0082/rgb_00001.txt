@@ -8,3 +8,8 @@ A room with a large bookshelf filled with books.
 A room with a large collection of books, a blue exercise ball, and a door with a decorative handle.
 A large blue exercise ball is positioned in front of a full bookshelf filled with books of various sizes.
 A room with a large bookshelf filled with books, a blue exercise ball, and a door with a decorative handle.
+An image with a rug, twenty-seven books, a curtain, a tv, a sports, a shelf, and a door.
+An image with twenty-seven books, a rug, a curtain, a door, a tv, a shelf, and a sports.
+An image with a shelf, a sports, twenty-seven books, a curtain, a rug, a tv, and a door.
+An image with twenty-seven books, a tv, a sports, a shelf, a door, a rug, and a curtain.
+An image with twenty-seven books, a rug, a tv, a door, a shelf, a sports, and a curtain.

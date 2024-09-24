@@ -8,3 +8,8 @@ A model of a building on display.
 The image shows a model of a building, possibly a hospital, displayed on a wooden stand with a glass case.
 The image shows a small model of a building, which is placed on a wooden stand.
 The image shows a model of a building, possibly a hospital, with a clear glass case on a wooden stand, placed on a tiled floor in a room with a gray wall.
+An image with a ceiling, a floor, and a building.
+An image with a building, a ceiling, and a floor.
+An image with a floor, a ceiling, and a building.
+An image with a floor, a building, and a ceiling.
+An image with a ceiling, a building, and a floor.

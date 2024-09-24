@@ -8,3 +8,8 @@ Two white cups on a counter.
 A coffee machine is on a counter next to two cups.
 A coffee machine is on a counter next to two cups, and there are three drawers below the counter.
 A coffee machine is placed on a counter next to two white cups, and there are three orange drawers beneath the counter.
+An image with a wall, two cups, a cabinet, a window, and a floor.
+An image with a wall, two cups, a cabinet, a floor, and a window.
+An image with two cups, a cabinet, a window, a wall, and a floor.
+An image with a wall, two cups, a cabinet, a floor, and a window.
+An image with two cups, a cabinet, a wall, a floor, and a window.

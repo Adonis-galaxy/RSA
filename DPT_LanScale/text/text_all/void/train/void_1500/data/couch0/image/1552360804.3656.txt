@@ -8,3 +8,8 @@ A straw hat is placed on a couch.
 A straw hat is placed on a gray couch, next to a magazine and a bag.
 A colorful straw hat is placed on a gray couch, next to a black bag and a magazine.
 A colorful straw hat is placed on a gray couch, next to a black bag and a stack of papers.
+An image with a book, a backpack, a floor, a couch, and a rug.
+An image with a floor, a rug, a couch, a backpack, and a book.
+An image with a book, a backpack, a rug, a couch, and a floor.
+An image with a floor, a book, a rug, a backpack, and a couch.
+An image with a rug, a book, a backpack, a floor, and a couch.

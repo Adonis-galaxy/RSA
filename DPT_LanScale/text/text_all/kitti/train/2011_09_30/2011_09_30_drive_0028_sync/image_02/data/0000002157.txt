@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 The image captures a quiet residential street, with two parked cars and a house in the background, under a clear blue sky.
 The image shows a residential street with two parked cars, a sidewalk, and a house in the background.
 The image shows a residential street with two cars parked on the side, a curved driveway leading to a house with a garage, and a sidewalk with trees and bushes lining the street.
+An image with two cars, a grass, a sky, a house, a road, a pavement, and a tree.
+An image with a sky, a grass, two cars, a tree, a pavement, a house, and a road.
+An image with a grass, a road, a house, two cars, a pavement, a tree, and a sky.
+An image with a house, a grass, a pavement, two cars, a road, a sky, and a tree.
+An image with a house, two cars, a pavement, a tree, a sky, a grass, and a road.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with cars parked along the side, a few vehicles in motion, and a clear sky overhead.
 The image shows a wide street with a few cars parked on the side, a few more cars driving down the road, and a large billboard in the background.
 The image depicts a wide, tree-lined street with multiple lanes, parked cars, and a few vehicles in motion, leading to a commercial area with buildings and a parking lot.
+An image with seventeen cars, a sky, a grass, a building, three trucks, a tree, and a road.
+An image with seventeen cars, a road, three trucks, a building, a tree, a grass, and a sky.
+An image with seventeen cars, three trucks, a road, a building, a sky, a tree, and a grass.
+An image with seventeen cars, a grass, a tree, three trucks, a sky, a building, and a road.
+An image with seventeen cars, a grass, a building, a road, a sky, three trucks, and a tree.

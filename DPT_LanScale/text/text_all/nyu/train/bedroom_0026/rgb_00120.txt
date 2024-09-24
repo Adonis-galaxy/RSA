@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a neatly arranged bedroom with a bed, nightstand, and a painting on the wall.
 The image shows a neatly made bed with a patterned comforter, flanked by two pillows, a nightstand with a lamp, and a framed picture on the wall.
 The image shows a neatly made bed with a patterned comforter, flanked by two pillows, a nightstand with a lamp, and a framed picture on the wall.
+An image with a bed, a door, a wall, a light, a cabinet, a chair, and a rug.
+An image with a chair, a door, a light, a bed, a wall, a rug, and a cabinet.
+An image with a chair, a door, a bed, a light, a cabinet, a rug, and a wall.
+An image with a cabinet, a chair, a wall, a door, a bed, a light, and a rug.
+An image with a rug, a cabinet, a bed, a chair, a light, a wall, and a door.

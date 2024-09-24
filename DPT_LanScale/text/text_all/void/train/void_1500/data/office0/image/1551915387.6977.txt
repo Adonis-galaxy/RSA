@@ -8,3 +8,8 @@ A wooden table with a black base.
 A wooden table with a black base is placed between a white door and a black couch.
 A small wooden table with a black base is placed next to a black leather couch.
 A wooden table with a black base is placed between a white door and a black leather couch.
+An image with a wall, a rug, a couch, and a door.
+An image with a couch, a wall, a door, and a rug.
+An image with a rug, a door, a couch, and a wall.
+An image with a couch, a wall, a rug, and a door.
+An image with a rug, a door, a couch, and a wall.

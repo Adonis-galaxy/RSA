@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street with a car parked at the side, a pedestrian crossing, and a train station in the background, all under a clear sky.
 A black car is parked on the side of a street, next to a sidewalk, under a bridge, with a traffic light in the background.
 The image depicts a sunny day in a suburban area with a car parked on the side of a street, a pedestrian crossing, a traffic light, a train station, a bridge, and a parked bicycle.
+An image with seven cars, a bridge, a railroad, two bicycles, a tree, a stop, a grass, a road, a sky, a pavement, and a house.
+An image with seven cars, a grass, a railroad, a road, two bicycles, a tree, a stop, a sky, a house, a bridge, and a pavement.
+An image with a sky, seven cars, a road, a grass, a bridge, a stop, a pavement, a tree, a railroad, a house, and two bicycles.
+An image with a sky, seven cars, a tree, a bridge, a stop, two bicycles, a house, a pavement, a road, a grass, and a railroad.
+An image with seven cars, a grass, a sky, a tree, a road, a stop, a railroad, two bicycles, a pavement, a house, and a bridge.

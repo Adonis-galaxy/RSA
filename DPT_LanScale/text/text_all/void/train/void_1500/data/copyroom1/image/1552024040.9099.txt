@@ -8,3 +8,8 @@ The image shows a white printer on a counter.
 The image shows a white printer on a desk with a blue handle, a black stapler, and a black phone.
 The image shows a blurry view of a counter with a printer, a cell phone, and a pair of scissors.
 The image shows a blurry view of a counter with a printer, a cell phone, and a remote control on it.
+An image with a tv, a wall, a paper, and a cabinet.
+An image with a paper, a wall, a tv, and a cabinet.
+An image with a paper, a tv, a cabinet, and a wall.
+An image with a tv, a wall, a cabinet, and a paper.
+An image with a cabinet, a wall, a paper, and a tv.

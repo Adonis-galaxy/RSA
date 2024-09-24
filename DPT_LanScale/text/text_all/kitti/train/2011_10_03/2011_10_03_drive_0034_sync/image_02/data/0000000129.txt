@@ -8,3 +8,8 @@ The image shows a street with cars and trees.
 A quiet suburban street, lined with parked cars and trees, under a clear blue sky.
 A blue car is driving down a tree-lined street, passing a yellow box on the sidewalk.
 A tree-lined street with parked cars and a yellow box on the sidewalk.
+An image with a building, a pavement, four cars, a grass, a tree, and a road.
+An image with a tree, a road, four cars, a building, a pavement, and a grass.
+An image with four cars, a pavement, a building, a grass, a road, and a tree.
+An image with four cars, a pavement, a road, a tree, a building, and a grass.
+An image with four cars, a building, a pavement, a grass, a tree, and a road.

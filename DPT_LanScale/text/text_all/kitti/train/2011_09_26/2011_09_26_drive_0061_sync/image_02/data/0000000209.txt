@@ -8,3 +8,8 @@ The image shows a street view with parked cars and houses.
 The image captures a serene residential street, lined with parked cars and houses, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 A narrow, tree-lined street in a residential area, with parked cars and a mix of traditional and modern architecture.
+An image with nine cars, a road, a house, a sky, a tree, a wall, a stop, and a pavement.
+An image with a road, nine cars, a tree, a stop, a house, a sky, a wall, and a pavement.
+An image with a wall, a pavement, nine cars, a stop, a house, a tree, a sky, and a road.
+An image with nine cars, a stop, a pavement, a wall, a tree, a road, a house, and a sky.
+An image with nine cars, a house, a wall, a pavement, a sky, a road, a tree, and a stop.

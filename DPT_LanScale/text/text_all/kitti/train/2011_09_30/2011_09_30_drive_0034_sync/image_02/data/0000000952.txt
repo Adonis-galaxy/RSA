@@ -8,3 +8,8 @@ The image shows a street scene with a black van driving down a narrow road betwe
 A quiet residential street, lined with houses and trees, with a delivery truck parked at the end.
 The image shows a narrow street lined with houses and trees, with a large truck driving down the road.
 A narrow street in a residential area with houses, a parked van, and a fence.
+An image with a road, a sky, a roof, a fence, a house, a flower, a tree, a wall, a pavement, a grass, and a truck.
+An image with a house, a sky, a roof, a truck, a fence, a pavement, a grass, a wall, a road, a tree, and a flower.
+An image with a truck, a house, a wall, a flower, a road, a fence, a pavement, a grass, a sky, a roof, and a tree.
+An image with a pavement, a house, a tree, a fence, a sky, a roof, a grass, a flower, a truck, a wall, and a road.
+An image with a sky, a house, a flower, a grass, a pavement, a road, a fence, a wall, a truck, a tree, and a roof.

@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 A quiet, tree-lined street with a yellow car parked on the right side, leading to a white building with a blue sign on the left.
 The image shows a narrow, tree-lined street with a yellow car parked on the right side, a white wall on the left, and a large, round manhole cover in the middle of the road.
 A tree-lined street with a yellow car parked on the right side, a white line in the middle, and a blue sign on the left side.
+An image with a refrigerator, a road, a tree, a wall, a pavement, a sky, and a car.
+An image with a tree, a car, a pavement, a refrigerator, a sky, a wall, and a road.
+An image with a refrigerator, a car, a road, a sky, a pavement, a wall, and a tree.
+An image with a road, a car, a tree, a wall, a refrigerator, a pavement, and a sky.
+An image with a road, a refrigerator, a wall, a sky, a pavement, a car, and a tree.

@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A quiet, tree-lined street with a clear path for pedestrians and cyclists, leading to a building in the distance.
 A person riding a bicycle on a sunny day, with a clear view of a street sign and a car in the distance.
 A tree-lined street with a clear pathway, a building on the left, a parked car, a person on a bicycle, and a red and white sign on the right.
+An image with a grass, a building, a person, five cars, a sky, a pavement, a road, and a tree.
+An image with a grass, five cars, a building, a pavement, a sky, a road, a person, and a tree.
+An image with five cars, a grass, a sky, a person, a pavement, a road, a building, and a tree.
+An image with five cars, a pavement, a person, a sky, a road, a building, a grass, and a tree.
+An image with five cars, a road, a person, a pavement, a grass, a sky, a building, and a tree.

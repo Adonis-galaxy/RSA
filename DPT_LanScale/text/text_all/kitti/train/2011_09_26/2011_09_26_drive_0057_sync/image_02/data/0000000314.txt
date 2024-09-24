@@ -8,3 +8,8 @@ The image is a photograph of a busy street intersection.
 The image captures a bustling city street with a mix of vehicles, traffic lights, and pedestrian crossings, all under a clear blue sky.
 The image shows a busy street with multiple lanes of traffic, including a red car in the foreground, a white van in the middle ground, and various other vehicles in the background. The street is lined with trees and buildings, and there are traffic lights and signs visible. The sky is clear and blue, suggesting a sunny day.
 A busy city street with multiple lanes, traffic lights, and vehicles, including a red car, driving on a rainy day.
+An image with ten cars, a grass, a road, a pavement, eight traffics, a mountain, a sky, a tree, a house, and a fence.
+An image with eight traffics, ten cars, a fence, a house, a grass, a pavement, a sky, a tree, a road, and a mountain.
+An image with eight traffics, a mountain, ten cars, a grass, a sky, a road, a tree, a fence, a pavement, and a house.
+An image with a pavement, eight traffics, a mountain, ten cars, a road, a house, a fence, a tree, a sky, and a grass.
+An image with eight traffics, a grass, ten cars, a house, a mountain, a tree, a pavement, a fence, a sky, and a road.

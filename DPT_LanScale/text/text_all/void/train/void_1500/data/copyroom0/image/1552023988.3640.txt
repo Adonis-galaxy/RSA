@@ -8,3 +8,8 @@ The image shows a door with a glass window, through which a red cart can be seen
 The image shows a hallway with a door leading to a room, a trash can, and a bookshelf.
 The image shows a narrow hallway with a glass door, a blue trash can, and a white cabinet.
 The image shows a narrow hallway with a glass door, a trash can, and a bookshelf on the right side.
+An image with a floor, a door, a wall, and a cabinet.
+An image with a cabinet, a door, a floor, and a wall.
+An image with a cabinet, a floor, a door, and a wall.
+An image with a door, a cabinet, a floor, and a wall.
+An image with a wall, a cabinet, a door, and a floor.

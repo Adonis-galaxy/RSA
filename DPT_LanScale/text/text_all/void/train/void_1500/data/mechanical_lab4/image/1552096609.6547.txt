@@ -8,3 +8,8 @@ A sink with a hose attached to it.
 A sink with a hose attached to it, located in a kitchen.
 The image shows a small sink with a hose attached to it, located in a kitchen area.
 The image shows a kitchen sink with a hose attached to a yellow pipe, and a red cabinet underneath the sink.
+An image with a counter, a floor, a cabinet, a sink, and a wall.
+An image with a wall, a sink, a counter, a cabinet, and a floor.
+An image with a floor, a wall, a cabinet, a counter, and a sink.
+An image with a wall, a sink, a counter, a cabinet, and a floor.
+An image with a cabinet, a sink, a counter, a wall, and a floor.

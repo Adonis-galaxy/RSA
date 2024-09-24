@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A car parked on a tree-lined street, with a person walking on the sidewalk.
 A small car is parked on the side of a road, with a person walking in the background.
 A car is parked on the side of a tree-lined street, with a pedestrian walking on the sidewalk.
+An image with two cars, two people, a road, a tree, a grass, a sky, and a pavement.
+An image with two cars, two people, a grass, a pavement, a tree, a sky, and a road.
+An image with two people, a road, two cars, a sky, a tree, a grass, and a pavement.
+An image with two cars, a sky, a road, two people, a pavement, a tree, and a grass.
+An image with a tree, two people, a road, two cars, a sky, a grass, and a pavement.

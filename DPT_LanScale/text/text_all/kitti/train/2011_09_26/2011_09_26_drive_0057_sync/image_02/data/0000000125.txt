@@ -8,3 +8,8 @@ The image shows a busy street with cars and traffic lights.
 The image captures a bustling city intersection with a red car in the foreground, a blue car in the middle, and a white car in the background, all stopped at a traffic light, surrounded by various street signs and lampposts.
 A busy city street with a mix of vehicles, including a red car, a blue car, a white van, and a red truck, all stopped at a traffic light.
 A busy city intersection with multiple lanes, traffic lights, and vehicles.
+An image with a truck, ten traffics, eight cars, a grass, a sky, a tree, a mountain, a pavement, a road, and a house.
+An image with a sky, a house, ten traffics, a tree, eight cars, a grass, a mountain, a truck, a road, and a pavement.
+An image with eight cars, ten traffics, a sky, a pavement, a truck, a tree, a road, a mountain, a house, and a grass.
+An image with eight cars, ten traffics, a sky, a road, a pavement, a mountain, a tree, a grass, a truck, and a house.
+An image with eight cars, ten traffics, a pavement, a tree, a house, a grass, a road, a truck, a sky, and a mountain.

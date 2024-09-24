@@ -8,3 +8,8 @@ A black car driving down a narrow street.
 A car is driving down a quiet residential street, passing by houses and parked cars, with a clear sky overhead.
 A small black car is driving down a narrow, tree-lined street in a residential area.
 A narrow, tree-lined street with parked cars and houses on both sides, leading to a white building with a black car parked in front.
+An image with a sky, three cars, two potteds, a roof, a tree, a pavement, and a road.
+An image with a road, two potteds, three cars, a roof, a pavement, a sky, and a tree.
+An image with three cars, a pavement, a sky, a roof, two potteds, a road, and a tree.
+An image with a sky, two potteds, a roof, a tree, a road, three cars, and a pavement.
+An image with a road, three cars, a pavement, a sky, a roof, two potteds, and a tree.

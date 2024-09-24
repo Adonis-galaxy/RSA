@@ -8,3 +8,8 @@ A person standing in an office with a red hoodie on.
 A person in a red sweater stands in an office with a desk, chair, and computer.
 A person in a red hoodie stands in a room with a desk, chair, and computer.
 A person in a red hoodie stands in a room with a desk, chairs, and a whiteboard.
+An image with a table, three chairs, a floor, a tv, a wall, a person, a window, and a laptop.
+An image with three chairs, a table, a tv, a laptop, a wall, a person, a floor, and a window.
+An image with a person, a floor, three chairs, a laptop, a wall, a tv, a table, and a window.
+An image with three chairs, a laptop, a tv, a floor, a person, a window, a table, and a wall.
+An image with three chairs, a tv, a window, a laptop, a person, a table, a floor, and a wall.

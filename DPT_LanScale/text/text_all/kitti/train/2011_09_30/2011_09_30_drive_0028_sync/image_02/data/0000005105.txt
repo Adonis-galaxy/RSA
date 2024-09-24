@@ -8,3 +8,8 @@ The image shows a street scene with two white boxes on the sidewalk.
 The image captures a quiet residential street corner, with a white trash bin and a parking meter standing side by side on the sidewalk, under the watchful gaze of a solitary tree.
 The image shows a street scene with a large white trash can on the sidewalk, a smaller white trash can on the side of the road, and a car parked on the street.
 The image shows a street scene with a curved sidewalk, a parked car, a parking meter, a tree, and a building in the background.
+An image with eight cars, a fire, a sky, a tree, a grass, a pavement, a road, and a refrigerator.
+An image with eight cars, a refrigerator, a sky, a pavement, a grass, a road, a tree, and a fire.
+An image with a tree, a fire, eight cars, a sky, a refrigerator, a pavement, a road, and a grass.
+An image with eight cars, a grass, a pavement, a refrigerator, a road, a fire, a tree, and a sky.
+An image with a refrigerator, eight cars, a fire, a grass, a tree, a pavement, a sky, and a road.

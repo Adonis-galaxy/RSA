@@ -8,3 +8,8 @@ A car is parked on the side of a tree-lined street.
 A car drives down a shaded, tree-lined street, with a sidewalk on the right side.
 A small white car is parked on the side of a shaded street lined with large trees.
 A tree-lined street with a car parked on the right side, leading to a house on the left.
+An image with a tree, a road, a grass, a pavement, and a car.
+An image with a grass, a pavement, a tree, a road, and a car.
+An image with a grass, a road, a pavement, a car, and a tree.
+An image with a tree, a grass, a car, a road, and a pavement.
+An image with a pavement, a car, a tree, a grass, and a road.

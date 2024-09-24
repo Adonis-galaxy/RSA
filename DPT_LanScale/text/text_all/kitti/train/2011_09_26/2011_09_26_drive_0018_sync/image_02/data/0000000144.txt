@@ -8,3 +8,8 @@ The image shows a busy street with multiple lanes of traffic, traffic lights, an
 The image captures a bustling city street with a clear sky, where traffic lights and signs regulate the flow of vehicles and pedestrians.
 The image shows a wide, multi-lane road with traffic lights, street signs, and vehicles, all captured from a distance.
 The image depicts a wide, multi-lane road with traffic lights, a median, and a clear sky.
+An image with a road, five cars, a tree, three traffics, a truck, a pavement, and a bus.
+An image with five cars, three traffics, a bus, a truck, a road, a tree, and a pavement.
+An image with five cars, a bus, a truck, a tree, three traffics, a road, and a pavement.
+An image with a tree, a truck, five cars, a pavement, three traffics, a bus, and a road.
+An image with five cars, three traffics, a bus, a pavement, a road, a tree, and a truck.

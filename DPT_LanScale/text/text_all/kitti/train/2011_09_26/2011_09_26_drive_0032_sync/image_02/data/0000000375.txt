@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes and vehicles.
 The image captures a typical day on a suburban road, with cars stopped at a traffic light, a pedestrian crossing, and a train crossing, all under a clear sky.
 The image shows a wide, empty road with a few cars and trucks, a traffic light, and a railroad crossing.
 The image depicts a busy road with multiple lanes, a crosswalk, traffic lights, and a railroad crossing, all under a bright, cloudy sky.
+An image with four cars, four traffics, a pavement, a sky, a truck, a road, a grass, and a tree.
+An image with four traffics, four cars, a pavement, a truck, a grass, a tree, a road, and a sky.
+An image with a sky, four cars, four traffics, a pavement, a grass, a truck, a tree, and a road.
+An image with four traffics, a road, four cars, a sky, a tree, a pavement, a grass, and a truck.
+An image with a truck, four traffics, four cars, a road, a sky, a grass, a tree, and a pavement.

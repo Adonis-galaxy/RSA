@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and trucks.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all coexisting in a dynamic urban environment.
 The image shows a narrow street in a European city, with tall buildings on both sides, parked cars, and a large white truck driving down the road.
 A narrow city street with parked cars, a delivery truck, and pedestrians, flanked by tall buildings and lined with trees.
+An image with a tree, twelve cars, a road, two trucks, a pavement, a sky, and a building.
+An image with twelve cars, a sky, a tree, two trucks, a pavement, a road, and a building.
+An image with a tree, a road, twelve cars, two trucks, a building, a sky, and a pavement.
+An image with twelve cars, a sky, a road, two trucks, a building, a pavement, and a tree.
+An image with twelve cars, two trucks, a sky, a pavement, a building, a tree, and a road.

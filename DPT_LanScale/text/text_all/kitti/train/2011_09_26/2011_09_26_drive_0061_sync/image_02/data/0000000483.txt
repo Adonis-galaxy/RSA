@@ -8,3 +8,8 @@ A black car parked on a street.
 A black car parked on a narrow street between a stone wall and a lush green hedge, with a lamp post and a house in the background.
 A black car is parked on a narrow street between two brick walls, with a green hedge and a lamp post visible in the background.
 A narrow, tree-lined street with a brick wall on one side and parked cars on the other, leading to a house with a hedge-covered roof.
+An image with a house, a fence, a pavement, three cars, a road, a sky, a tree, and a wall.
+An image with a tree, a pavement, three cars, a house, a wall, a road, a sky, and a fence.
+An image with a house, three cars, a tree, a fence, a road, a wall, a pavement, and a sky.
+An image with three cars, a tree, a house, a wall, a sky, a pavement, a fence, and a road.
+An image with a sky, three cars, a fence, a road, a tree, a wall, a pavement, and a house.

@@ -8,3 +8,8 @@ A blue bicycle parked inside a building.
 A bicycle parked inside an office building, leaning against a glass door.
 A large blue bicycle is parked inside a room with a whiteboard and a red chair.
 A bicycle is parked inside an office building, leaning against a glass door that leads to a classroom.
+An image with a chair, a shelf, a door, two floors, a wall, a bicycle, a light, and a paper.
+An image with two floors, a light, a paper, a bicycle, a wall, a chair, a door, and a shelf.
+An image with two floors, a light, a chair, a bicycle, a shelf, a door, a wall, and a paper.
+An image with a light, a bicycle, a paper, two floors, a door, a shelf, a wall, and a chair.
+An image with a chair, a shelf, two floors, a light, a paper, a bicycle, a door, and a wall.

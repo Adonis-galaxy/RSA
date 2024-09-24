@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with neatly trimmed hedges and trees, leading to a row of white houses with balconies, where the sun casts long shadows.
 The image shows a narrow, tree-lined street with parked cars on the right side, a white building on the left, and a clear sky overhead.
 A narrow, tree-lined street with parked cars and apartment buildings on either side.
+An image with a sky, three cars, a road, a tree, a dirt, a house, and a grass.
+An image with three cars, a grass, a house, a tree, a dirt, a road, and a sky.
+An image with a house, a grass, three cars, a dirt, a sky, a tree, and a road.
+An image with a tree, a road, three cars, a dirt, a sky, a grass, and a house.
+An image with a sky, a grass, a tree, a road, three cars, a house, and a dirt.

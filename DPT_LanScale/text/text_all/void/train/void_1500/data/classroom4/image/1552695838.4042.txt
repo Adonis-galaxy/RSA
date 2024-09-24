@@ -8,3 +8,8 @@ A computer desk with a laptop, mouse, and keyboard.
 A computer desk with a laptop, mouse, and keyboard.
 A computer desk with a laptop, two monitors, a mouse, and a keyboard.
 A computer desk with a laptop, two monitors, a mouse, and a keyboard.
+An image with two chairs, a wall, two keyboards, a book, two mice, three tvs, a table, and a paper.
+An image with two mice, a book, a table, two keyboards, three tvs, two chairs, a paper, and a wall.
+An image with a table, three tvs, two chairs, two mice, a book, two keyboards, a paper, and a wall.
+An image with a wall, a book, two keyboards, three tvs, two chairs, two mice, a paper, and a table.
+An image with three tvs, a book, two keyboards, two mice, a paper, two chairs, a wall, and a table.

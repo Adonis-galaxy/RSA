@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
 The image shows a wide, tree-lined street with a mix of vehicles, including cars and trucks, and a few pedestrians, with a clear sky overhead.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
+An image with nineteen cars, a road, a sky, a grass, two trucks, a tree, and a building.
+An image with a road, two trucks, nineteen cars, a grass, a building, a sky, and a tree.
+An image with nineteen cars, a grass, two trucks, a sky, a tree, a road, and a building.
+An image with a building, two trucks, nineteen cars, a sky, a grass, a road, and a tree.
+An image with nineteen cars, a road, a building, a tree, two trucks, a grass, and a sky.

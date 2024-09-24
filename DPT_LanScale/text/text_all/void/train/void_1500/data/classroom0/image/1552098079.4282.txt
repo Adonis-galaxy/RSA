@@ -8,3 +8,8 @@ A row of empty seats in a movie theater.
 The image shows a row of empty seats in a waiting area, with a green partition and a white wall in the background.
 The image shows a row of empty seats in a theater, with a green box and a white wall in the background.
 The image shows a row of empty seats in a waiting area, with a green partition and a white wall in the background.
+An image with a wall, a floor, five chairs, and a refrigerator.
+An image with five chairs, a refrigerator, a wall, and a floor.
+An image with five chairs, a refrigerator, a floor, and a wall.
+An image with a floor, a refrigerator, five chairs, and a wall.
+An image with five chairs, a refrigerator, a floor, and a wall.

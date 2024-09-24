@@ -8,3 +8,8 @@ The image shows a narrow street between tall buildings.
 The image captures a quiet, tree-lined street in a residential area, with parked cars and a few pedestrians, under a bright, sunny sky.
 The image shows a narrow street lined with parked cars and buildings, with a few pedestrians and cyclists visible.
 The image depicts a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a house, eight cars, a pavement, five people, two bicycles, a tree, a window, a sky, a road, and a wall.
+An image with eight cars, five people, two bicycles, a window, a sky, a tree, a wall, a road, a pavement, and a house.
+An image with five people, a tree, eight cars, a sky, a window, a road, two bicycles, a pavement, a wall, and a house.
+An image with two bicycles, a wall, five people, eight cars, a tree, a sky, a window, a pavement, a house, and a road.
+An image with eight cars, five people, a house, a pavement, a tree, two bicycles, a road, a wall, a window, and a sky.

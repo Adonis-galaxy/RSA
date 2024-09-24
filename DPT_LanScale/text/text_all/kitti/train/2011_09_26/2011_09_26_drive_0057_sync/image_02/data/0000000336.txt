@@ -8,3 +8,8 @@ The image shows a street scene with a red car driving down the road.
 The image captures a moment of urban life, with a red car driving down a street lined with trees and buildings, under a clear blue sky.
 The image shows a wide street with a few cars, a red truck, and a pedestrian crossing. There are traffic lights and street signs, and the road is lined with trees. The sky is clear and blue, indicating a sunny day.
 The image depicts a wide, multi-lane road with a clear sky, a few cars, and traffic lights, leading to a town with a green field and trees in the background.
+An image with six traffics, a grass, fourteen cars, a house, a mountain, a road, a tree, and a sky.
+An image with fourteen cars, six traffics, a grass, a road, a tree, a mountain, a sky, and a house.
+An image with fourteen cars, a mountain, six traffics, a road, a tree, a house, a sky, and a grass.
+An image with fourteen cars, a road, six traffics, a sky, a tree, a house, a mountain, and a grass.
+An image with fourteen cars, a sky, a mountain, a tree, six traffics, a house, a road, and a grass.

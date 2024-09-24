@@ -8,3 +8,8 @@ A view of kitchen.
 The image shows an empty room with a view of a kitchenette through an open door.
 The image shows a small, empty room with a large window, a black appliance, a white cabinet, and a black door.
 The image shows a small, empty room with a kitchenette, featuring a refrigerator, a microwave, a sink, and a window with blinds.
+An image with a oven, a sink, a cabinet, a bottle, a rug, a wall, a refrigerator, a window, a microwave, and a counter.
+An image with a bottle, a counter, a oven, a microwave, a refrigerator, a window, a rug, a sink, a wall, and a cabinet.
+An image with a microwave, a counter, a rug, a cabinet, a wall, a window, a sink, a refrigerator, a bottle, and a oven.
+An image with a rug, a sink, a oven, a microwave, a wall, a window, a refrigerator, a bottle, a cabinet, and a counter.
+An image with a oven, a refrigerator, a sink, a counter, a microwave, a rug, a bottle, a window, a wall, and a cabinet.

@@ -8,3 +8,8 @@ A white printer on a green counter.
 A printer sits on a table next to a box with a blue label.
 A white printer sits on a green counter next to a cardboard box with blue writing.
 A white printer sits on a green counter next to a cardboard box with blue writing.
+An image with a table, a paper, a cabinet, a wall, a cardboard, and a light.
+An image with a cabinet, a paper, a wall, a cardboard, a table, and a light.
+An image with a table, a cardboard, a paper, a wall, a cabinet, and a light.
+An image with a cabinet, a cardboard, a wall, a light, a paper, and a table.
+An image with a paper, a wall, a table, a cardboard, a light, and a cabinet.

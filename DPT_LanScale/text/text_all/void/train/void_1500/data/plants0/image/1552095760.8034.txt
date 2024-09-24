@@ -8,3 +8,8 @@ The image shows a brick patio with a tree stump and a concrete curb.
 The image shows a brick-paved area with a tree and a concrete curb.
 The image shows a brick-paved area with a tree and a concrete curb.
 The image shows a brick-paved area with a tree and a concrete curb, taken from a low angle.
+An image with a floor, a wall, a tree, a pavement, a dirt, and a grass.
+An image with a dirt, a floor, a grass, a pavement, a wall, and a tree.
+An image with a dirt, a floor, a pavement, a wall, a tree, and a grass.
+An image with a floor, a wall, a grass, a dirt, a tree, and a pavement.
+An image with a grass, a wall, a pavement, a tree, a dirt, and a floor.

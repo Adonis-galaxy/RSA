@@ -8,3 +8,8 @@ The image is a black and white photograph of a residential street.
 The image captures a residential street scene with a two-story building, parked cars, a sidewalk, and a street sign.
 The image shows a residential street with a large two-story house on the left, a smaller house on the right, and several parked cars along the sidewalk.
 The image depicts a residential street with a row of houses, a sidewalk, a street, parked cars, and a clear sky.
+An image with seven cars, a road, a grass, a tree, a pavement, and a house.
+An image with seven cars, a grass, a tree, a pavement, a road, and a house.
+An image with seven cars, a road, a tree, a pavement, a house, and a grass.
+An image with seven cars, a tree, a road, a house, a pavement, and a grass.
+An image with a tree, a pavement, a grass, seven cars, a house, and a road.

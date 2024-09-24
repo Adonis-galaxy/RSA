@@ -8,3 +8,8 @@ The image is a black and white photograph of a residential street.
 A quiet residential street with parked cars and a single moving vehicle, under a clear sky.
 A narrow street with parked cars, a parked police car, and a few houses.
 A quiet residential street with parked cars, a tree-lined sidewalk, and a mix of houses and apartments.
+An image with five cars, a sky, a pavement, a grass, a house, a tree, and a road.
+An image with a sky, a tree, a grass, a road, a pavement, five cars, and a house.
+An image with five cars, a tree, a pavement, a road, a grass, a house, and a sky.
+An image with five cars, a house, a pavement, a road, a grass, a sky, and a tree.
+An image with five cars, a grass, a sky, a tree, a pavement, a road, and a house.

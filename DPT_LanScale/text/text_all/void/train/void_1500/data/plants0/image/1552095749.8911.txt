@@ -8,3 +8,8 @@ A blurry image of a plant growing in a garden.
 The image shows a plant growing out of a concrete wall, with a tree and a pole in the background.
 The image shows a small green plant growing in a planter next to a building.
 The image shows a garden area with a variety of plants and shrubs, a tree trunk, and a concrete wall.
+An image with a dirt, a tree, two walls, and a floor.
+An image with a tree, two walls, a floor, and a dirt.
+An image with a tree, a floor, two walls, and a dirt.
+An image with a tree, a floor, a dirt, and two walls.
+An image with a tree, two walls, a dirt, and a floor.

@@ -8,3 +8,8 @@ The image shows a paved road with a sidewalk, lined with trees and parked vehicl
 A quiet residential street with a clear path for pedestrians and vehicles, lined with trees and parked cars.
 A long, tree-lined street with a few parked vehicles and a truck driving down it.
 A tree-lined street with a paved sidewalk, grassy median, and parked vehicles on the right side.
+An image with a house, a grass, four cars, a tree, three trucks, a pavement, and a road.
+An image with a road, three trucks, a tree, four cars, a grass, a house, and a pavement.
+An image with three trucks, a grass, a house, a road, four cars, a pavement, and a tree.
+An image with three trucks, a pavement, four cars, a house, a road, a grass, and a tree.
+An image with four cars, a tree, a road, three trucks, a house, a pavement, and a grass.

@@ -8,3 +8,8 @@ A computer on a table.
 A computer setup on a desk with a chair.
 A black computer tower on a white table, with a black keyboard and monitor in front of it.
 A computer setup on a white table with a black monitor, keyboard, and a black tower.
+An image with a floor, a cabinet, a tv, a paper, a table, a keyboard, and a chair.
+An image with a cabinet, a chair, a keyboard, a floor, a paper, a table, and a tv.
+An image with a chair, a paper, a keyboard, a tv, a table, a floor, and a cabinet.
+An image with a paper, a cabinet, a floor, a tv, a keyboard, a table, and a chair.
+An image with a floor, a cabinet, a keyboard, a tv, a table, a chair, and a paper.

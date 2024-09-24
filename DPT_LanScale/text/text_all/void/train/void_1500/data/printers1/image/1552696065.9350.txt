@@ -8,3 +8,8 @@ A computer desk with a keyboard and a monitor.
 The image shows a computer desk with a keyboard and a monitor, positioned next to a door.
 The image shows a computer desk with a keyboard and a monitor, and a trash can is visible in the background.
 The image shows a computer desk with a keyboard and monitor, positioned next to a door with a blue trash can in the foreground.
+An image with a wall, a floor, a door, a table, a keyboard, and a tv.
+An image with a floor, a door, a tv, a keyboard, a wall, and a table.
+An image with a door, a wall, a tv, a keyboard, a floor, and a table.
+An image with a door, a table, a tv, a floor, a keyboard, and a wall.
+An image with a tv, a keyboard, a table, a floor, a door, and a wall.

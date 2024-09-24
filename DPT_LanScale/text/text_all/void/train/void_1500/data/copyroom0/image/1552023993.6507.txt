@@ -8,3 +8,8 @@ The image shows a desk with various items on it, including a phone, a stapler, a
 The image shows a desk with a phone, a stapler, and a stack of papers.
 The image shows a wall with a light switch, a paper on the wall, and a desk with a stapler, a staple gun, and a book.
 The image shows a desk with a phone, a stapler, and a stack of papers, with a light switch on the wall above the desk.
+An image with a remote, a bed, a wall, a table, and a paper.
+An image with a paper, a table, a wall, a remote, and a bed.
+An image with a wall, a remote, a bed, a paper, and a table.
+An image with a table, a remote, a paper, a wall, and a bed.
+An image with a paper, a wall, a bed, a table, and a remote.

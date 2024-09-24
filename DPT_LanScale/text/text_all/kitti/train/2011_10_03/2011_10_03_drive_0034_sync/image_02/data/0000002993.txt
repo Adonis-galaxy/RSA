@@ -8,3 +8,8 @@ The image shows a quiet residential street with a few parked cars.
 A quiet residential street, lined with trees and parked cars, leading to a white garage with a black door.
 The image shows a narrow street lined with trees and buildings, with a few cars parked along the sides.
 A quiet residential street with a mix of houses and trees, leading to a garage on the right.
+An image with four cars, a sky, a pavement, a house, a tree, a wall, and a road.
+An image with a tree, a sky, a road, four cars, a pavement, a house, and a wall.
+An image with four cars, a sky, a road, a wall, a pavement, a tree, and a house.
+An image with four cars, a road, a house, a sky, a wall, a tree, and a pavement.
+An image with four cars, a road, a wall, a sky, a pavement, a tree, and a house.

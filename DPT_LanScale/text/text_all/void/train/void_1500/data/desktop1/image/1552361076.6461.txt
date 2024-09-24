@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer monitor on a desk with a keyboard and a woven hat.
 A computer monitor on a desk with a keyboard, mouse, and a colorful hat.
 A computer monitor on a desk with a keyboard, mouse, and a colorful hat.
+An image with a mouse, a table, a cabinet, a cardboard, a keyboard, and a tv.
+An image with a table, a keyboard, a tv, a cabinet, a cardboard, and a mouse.
+An image with a mouse, a keyboard, a cabinet, a cardboard, a table, and a tv.
+An image with a keyboard, a mouse, a cardboard, a tv, a table, and a cabinet.
+An image with a cardboard, a tv, a cabinet, a table, a mouse, and a keyboard.

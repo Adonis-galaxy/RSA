@@ -8,3 +8,8 @@ The image shows a street with cars and a fence.
 The image captures a serene suburban street scene, with a line of parked cars on the side of the road, under a clear blue sky, and surrounded by lush greenery.
 The image shows a street with a few cars, a fence, and trees on both sides, with a large concrete wall on the right side.
 A tree-lined road with a few cars driving down it, flanked by a construction barrier and a stone wall.
+An image with a fence, a tree, a grass, a road, a wall, a sky, and four cars.
+An image with four cars, a sky, a fence, a tree, a grass, a road, and a wall.
+An image with a wall, a grass, a sky, a tree, a road, four cars, and a fence.
+An image with a wall, a road, a fence, four cars, a tree, a sky, and a grass.
+An image with a grass, a sky, four cars, a fence, a tree, a wall, and a road.

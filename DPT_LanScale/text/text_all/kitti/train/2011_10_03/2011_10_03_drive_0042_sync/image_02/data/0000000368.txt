@@ -8,3 +8,8 @@ The image shows a highway with a car driving on it.
 The image captures a long, straight road with a clear sky, a few trees, and a yellow sign with white text indicating directions to various cities.
 A large, empty highway with a yellow sign indicating directions to various cities.
 A long, straight, multi-lane highway with a clear sky, a few trees, and a yellow sign with directions to various cities.
+An image with a grass, a road, a tree, a building, a car, a truck, and a fence.
+An image with a road, a fence, a grass, a tree, a truck, a building, and a car.
+An image with a grass, a car, a building, a tree, a road, a fence, and a truck.
+An image with a road, a tree, a truck, a grass, a car, a building, and a fence.
+An image with a tree, a fence, a grass, a road, a car, a truck, and a building.

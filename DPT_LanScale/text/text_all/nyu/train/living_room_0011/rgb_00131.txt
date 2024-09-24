@@ -8,3 +8,8 @@ A wall clock on a wall.
 A wall-mounted clock is positioned above a flat-screen TV, which is placed on a stand in a room with a doorway leading to another room.
 A small flat-screen TV is mounted on a wall above a table with a clock and a remote control.
 A small, dark room with a flat-screen TV, a clock on the wall, and a doorway leading to another room.
+An image with a floor, a book, a clock, a tv, a wall, a table, a door, and a ceiling.
+An image with a tv, a floor, a clock, a book, a door, a table, a ceiling, and a wall.
+An image with a tv, a door, a ceiling, a table, a clock, a book, a floor, and a wall.
+An image with a book, a door, a ceiling, a clock, a wall, a floor, a table, and a tv.
+An image with a table, a ceiling, a book, a wall, a door, a floor, a clock, and a tv.

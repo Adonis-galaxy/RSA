@@ -8,3 +8,8 @@ A yellow piece of paper on a table.
 A yellow piece of paper on a white table with blue legs.
 A yellow square on a white table with blue legs.
 A yellow post-it note on a white desk with blue legs.
+An image with a toothbrush, a floor, a table, and a paper.
+An image with a paper, a toothbrush, a floor, and a table.
+An image with a paper, a toothbrush, a table, and a floor.
+An image with a toothbrush, a table, a paper, and a floor.
+An image with a floor, a table, a paper, and a toothbrush.

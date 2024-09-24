@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A quiet residential street, with a parked car and a few houses, under a bright sunny sky.
 A small silver car is parked on a narrow street between two houses, with a tree and a bush in front of it.
 A quiet residential street with a parked car, lined with houses and trees, leading to a cul-de-sac.
+An image with a road, a pavement, a house, a tree, a door, and two cars.
+An image with a tree, a house, two cars, a road, a pavement, and a door.
+An image with a door, two cars, a house, a tree, a pavement, and a road.
+An image with a house, a tree, a pavement, a road, two cars, and a door.
+An image with a road, a pavement, a tree, two cars, a house, and a door.

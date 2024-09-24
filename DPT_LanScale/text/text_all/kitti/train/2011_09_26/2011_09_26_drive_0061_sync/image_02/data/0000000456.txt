@@ -8,3 +8,8 @@ A white car driving down a narrow street.
 A car is driving down a narrow, tree-lined street, passing under a brick wall with a sign, and is being shaded by a tree.
 A car is driving down a narrow, tree-lined street with a brick wall on one side and a sign on the other.
 A narrow, tree-lined street with a brick wall on one side and a parked car on the other, leading to a roundabout.
+An image with a pavement, two walls, a car, a stop, a road, a tree, a fence, and a sky.
+An image with a pavement, a road, a fence, a car, a sky, a tree, two walls, and a stop.
+An image with a sky, a fence, two walls, a pavement, a stop, a car, a road, and a tree.
+An image with a sky, a pavement, two walls, a stop, a fence, a tree, a car, and a road.
+An image with a tree, two walls, a fence, a road, a pavement, a sky, a stop, and a car.

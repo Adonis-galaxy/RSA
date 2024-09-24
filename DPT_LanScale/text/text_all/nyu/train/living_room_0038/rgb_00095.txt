@@ -8,3 +8,8 @@ A checkers board on a table.
 The image captures a cozy living room setting with a checkerboard table in the center, surrounded by comfortable seating and a warm, patterned rug.
 The image shows a cozy living room with a checkerboard table, two chairs, a fireplace, a rug, and a bookshelf.
 The image shows a cozy living room with a checkered tabletop, a fireplace, a rug, and a variety of seating options, including a blue chair and a couch.
+An image with a rug, fifteen books, a shelf, six chairs, a floor, a dining, a stairs, a door, three vases, two potteds, two couches, two walls, a bowl, and a cabinet.
+An image with six chairs, a dining, fifteen books, two walls, a floor, three vases, a rug, a cabinet, a door, two couches, a stairs, a shelf, a bowl, and two potteds.
+An image with a bowl, six chairs, two potteds, fifteen books, a floor, a rug, two couches, two walls, a shelf, a cabinet, a door, three vases, a stairs, and a dining.
+An image with six chairs, two potteds, fifteen books, a floor, a bowl, two walls, a rug, a cabinet, two couches, a stairs, a dining, a door, a shelf, and three vases.
+An image with fifteen books, a floor, two couches, a bowl, two walls, six chairs, a dining, a cabinet, a rug, three vases, a stairs, two potteds, a shelf, and a door.

@@ -8,3 +8,8 @@ A box of cereal on a table.
 A desk with a coffee cup, a box of cereal, a tape dispenser, and a pair of scissors.
 A wooden table with a box of cereal, a roll of tape, a measuring tape, and a cup.
 A wooden desk with a coffee cup, a roll of tape, a pair of scissors, and a box of cereal.
+An image with a chair, a table, a cardboard, a wall, and two bowls.
+An image with a wall, two bowls, a table, a chair, and a cardboard.
+An image with a table, a wall, a chair, a cardboard, and two bowls.
+An image with two bowls, a cardboard, a table, a wall, and a chair.
+An image with two bowls, a table, a chair, a cardboard, and a wall.

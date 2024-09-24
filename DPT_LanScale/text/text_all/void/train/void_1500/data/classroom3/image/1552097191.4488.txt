@@ -8,3 +8,8 @@ The image shows a black office chair.
 The image shows a black office chair in the foreground, with other chairs and a desk in the background, all set against a carpeted floor.
 The image shows a black office chair with a white tag on the back, taken from a low angle, with other chairs and a desk in the background.
 The image shows a room with a carpeted floor, a white wall, and several black chairs arranged in a circle around a table.
+An image with a wall, a chair, a table, a window, and a rug.
+An image with a chair, a wall, a table, a rug, and a window.
+An image with a table, a window, a wall, a rug, and a chair.
+An image with a rug, a table, a chair, a wall, and a window.
+An image with a wall, a rug, a table, a chair, and a window.

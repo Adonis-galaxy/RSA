@@ -8,3 +8,8 @@ A model of a building on a table.
 A model of a building on a table.
 The image shows a small model of a building, which is placed on a wooden shelf.
 The image shows a model of a building, possibly a school, with a clear glass case on a wooden stand, placed on a gray floor in a room with a person in the background.
+An image with a floor, a cabinet, a building, and a person.
+An image with a building, a floor, a person, and a cabinet.
+An image with a cabinet, a floor, a building, and a person.
+An image with a floor, a person, a building, and a cabinet.
+An image with a building, a cabinet, a person, and a floor.

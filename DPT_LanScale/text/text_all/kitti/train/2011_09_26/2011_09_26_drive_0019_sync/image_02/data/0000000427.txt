@@ -8,3 +8,8 @@ The image shows a street with three cars parked on the side.
 A group of vehicles on a tree-lined road, with a clear sky overhead.
 A group of cars driving down a tree-lined street.
 A row of parked cars on a tree-lined street.
+An image with a sky, five cars, a bus, a tree, a grass, and a road.
+An image with five cars, a grass, a road, a sky, a tree, and a bus.
+An image with five cars, a grass, a bus, a sky, a tree, and a road.
+An image with a bus, a sky, five cars, a grass, a road, and a tree.
+An image with five cars, a road, a bus, a sky, a tree, and a grass.

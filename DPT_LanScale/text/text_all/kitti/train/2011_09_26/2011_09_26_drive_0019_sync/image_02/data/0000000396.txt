@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a serene suburban street scene, with parked cars lining the side of the road, under the shade of tall trees, and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars, with a large tree on the left side and a smaller tree on the right side.
 A tree-lined street with parked cars and a clear sky.
+An image with a tree, a road, six cars, a grass, and a bus.
+An image with a tree, six cars, a bus, a grass, and a road.
+An image with six cars, a grass, a tree, a bus, and a road.
+An image with six cars, a tree, a bus, a grass, and a road.
+An image with six cars, a road, a grass, a tree, and a bus.

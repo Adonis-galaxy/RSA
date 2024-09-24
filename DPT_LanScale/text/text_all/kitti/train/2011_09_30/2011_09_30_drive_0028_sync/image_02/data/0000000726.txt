@@ -8,3 +8,8 @@ A silver suv driving down a tree-lined road.
 A silver SUV parked on a tree-lined road, with a clear view of the path ahead.
 A silver SUV is parked on the side of a tree-lined road.
 A silver SUV is parked on the side of a tree-lined road, with a clear view of the road ahead.
+An image with a car, a tree, a grass, a sky, and a road.
+An image with a car, a road, a tree, a sky, and a grass.
+An image with a car, a road, a grass, a tree, and a sky.
+An image with a tree, a car, a grass, a road, and a sky.
+An image with a car, a sky, a tree, a road, and a grass.

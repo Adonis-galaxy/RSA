@@ -8,3 +8,8 @@ The image shows a street with a row of houses on the left side and a sidewalk on
 A quiet residential street with a mix of houses and trees, leading to a white building with a green roof.
 The image shows a long, narrow street lined with houses and trees, with a car parked on the sidewalk and a bicycle leaning against a pole.
 A long, tree-lined street with apartment buildings on both sides, leading to a clear blue sky.
+An image with a road, eight cars, a tree, a pavement, a grass, and a house.
+An image with eight cars, a pavement, a tree, a house, a grass, and a road.
+An image with a road, a house, a grass, eight cars, a pavement, and a tree.
+An image with eight cars, a road, a pavement, a tree, a house, and a grass.
+An image with a house, eight cars, a tree, a pavement, a road, and a grass.

@@ -8,3 +8,8 @@ A black car parked on the side of a road.
 A quiet residential street, lined with houses and trees, leads to a car parked in a driveway.
 A narrow, tree-lined street with a parked car, leading to a row of houses.
 A quiet residential street with a parked car, a brick sidewalk, and a paved road leading to houses and trees.
+An image with a sky, a tree, a grass, a house, a car, and a road.
+An image with a sky, a car, a house, a tree, a grass, and a road.
+An image with a grass, a sky, a road, a house, a car, and a tree.
+An image with a house, a grass, a road, a tree, a car, and a sky.
+An image with a tree, a road, a grass, a car, a sky, and a house.

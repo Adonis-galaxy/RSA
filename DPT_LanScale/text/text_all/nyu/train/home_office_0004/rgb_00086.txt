@@ -8,3 +8,8 @@ A man sitting at a desk in a room with a lot of books.
 A man working at a desk in a well-organized office, surrounded by books and a rug.
 A man is sitting at a desk in a room with a large bookshelf, a rug, and a computer monitor.
 A man is sitting at a desk in a room with a dark wood theme, surrounded by bookshelves and a rug.
+An image with sixteen books, a person, a floor, a chair, a cabinet, a rug, a shelf, and a laptop.
+An image with sixteen books, a floor, a laptop, a chair, a rug, a cabinet, a person, and a shelf.
+An image with a laptop, sixteen books, a chair, a cabinet, a floor, a shelf, a person, and a rug.
+An image with a rug, a floor, sixteen books, a chair, a laptop, a cabinet, a person, and a shelf.
+An image with sixteen books, a person, a rug, a floor, a laptop, a chair, a cabinet, and a shelf.

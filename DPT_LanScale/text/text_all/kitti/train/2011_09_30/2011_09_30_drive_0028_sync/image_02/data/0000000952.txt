@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 The image captures a quiet residential street with a few parked cars, a pedestrian crossing, and a mix of old and new buildings, under a clear blue sky.
 A silver car is driving down a tree-lined street in a residential area, passing under a blue street sign.
 A quiet residential street with parked cars, a few pedestrians, and a mix of old and new buildings.
+An image with a pavement, a tree, a sky, four cars, a road, a house, a truck, and a grass.
+An image with four cars, a grass, a sky, a road, a truck, a pavement, a house, and a tree.
+An image with four cars, a grass, a road, a sky, a pavement, a tree, a house, and a truck.
+An image with a grass, a house, a pavement, four cars, a sky, a truck, a road, and a tree.
+An image with a pavement, a tree, a house, a road, a truck, four cars, a grass, and a sky.

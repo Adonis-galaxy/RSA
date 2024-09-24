@@ -8,3 +8,8 @@ The image shows a street scene with a green truck parked on the side of the road
 A green truck parked on the side of a street, with a row of trees, a white building, and parked cars in the background.
 A large green truck is parked on the side of a road next to a row of parked cars and a white building with a brown roof.
 A green truck is parked on the side of a street lined with trees and parked cars, adjacent to a white building with a red roof.
+An image with three trucks, six cars, a grass, a pavement, a building, a road, a tree, and a fence.
+An image with a building, six cars, a road, three trucks, a fence, a grass, a tree, and a pavement.
+An image with a road, three trucks, six cars, a fence, a pavement, a grass, a tree, and a building.
+An image with six cars, a pavement, a fence, three trucks, a building, a tree, a grass, and a road.
+An image with six cars, three trucks, a building, a fence, a tree, a pavement, a road, and a grass.

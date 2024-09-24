@@ -8,3 +8,8 @@ A whiteboard with a book on top of a table.
 A cluttered desk with a book, a cup, and a whiteboard.
 The image shows a whiteboard with a black marker on it, a white mug on a table, and a stack of papers and books on the table.
 A cluttered desk with a whiteboard, a mug, and a book.
+An image with a wall, a dining, a refrigerator, a train, and a cup.
+An image with a wall, a train, a dining, a cup, and a refrigerator.
+An image with a dining, a refrigerator, a wall, a cup, and a train.
+An image with a refrigerator, a cup, a train, a wall, and a dining.
+An image with a train, a cup, a refrigerator, a dining, and a wall.

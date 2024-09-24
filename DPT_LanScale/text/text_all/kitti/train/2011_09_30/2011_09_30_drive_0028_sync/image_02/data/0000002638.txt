@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street leads to a house, with a clear sky overhead.
 The image shows a quiet residential street with a mix of houses and trees, leading to a larger building in the distance.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a tree, a house, a road, a grass, a pavement, and a sky.
+An image with a house, a tree, a pavement, a road, a sky, and a grass.
+An image with a sky, a road, a tree, a house, a grass, and a pavement.
+An image with a grass, a road, a tree, a house, a sky, and a pavement.
+An image with a grass, a pavement, a road, a house, a sky, and a tree.

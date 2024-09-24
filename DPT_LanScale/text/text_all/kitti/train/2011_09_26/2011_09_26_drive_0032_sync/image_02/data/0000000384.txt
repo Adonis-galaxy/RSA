@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes and vehicles.
 The image captures a moment of everyday life on a suburban street, with cars in motion and traffic lights guiding the flow of traffic.
 A busy road with multiple cars, a train crossing, and traffic lights.
 A busy road with multiple lanes, traffic lights, and a railroad crossing, all under a bright sunny sky.
+An image with a grass, five cars, two trucks, a road, a fence, five traffics, and a tree.
+An image with a road, five cars, a tree, five traffics, a fence, a grass, and two trucks.
+An image with five traffics, five cars, a tree, a grass, two trucks, a road, and a fence.
+An image with five traffics, a tree, two trucks, a fence, a road, five cars, and a grass.
+An image with five cars, five traffics, a tree, two trucks, a road, a grass, and a fence.

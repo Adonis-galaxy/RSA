@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with houses, trees, and a brick path, where the sun casts a warm glow on the scene.
 The image shows a narrow, tree-lined street between two-story houses, with a few cars parked along the sides, a red trash can, and a sign on a pole.
 A narrow, tree-lined street in a residential area, with houses on both sides, leading to a dead-end.
+An image with a tree, a pavement, three cars, a sky, a fence, a flower, a grass, and a roof.
+An image with a pavement, a roof, a grass, a sky, three cars, a tree, a flower, and a fence.
+An image with three cars, a sky, a flower, a tree, a pavement, a roof, a grass, and a fence.
+An image with a grass, a fence, a tree, three cars, a sky, a pavement, a flower, and a roof.
+An image with three cars, a pavement, a tree, a sky, a fence, a grass, a roof, and a flower.

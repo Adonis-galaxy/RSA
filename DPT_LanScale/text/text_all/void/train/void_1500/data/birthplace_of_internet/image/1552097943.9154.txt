@@ -8,3 +8,8 @@ A classroom with a green wall and a long fluorescent light.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a projector.
 The image shows a classroom with a green wall, a whiteboard, a desk with a computer monitor, a projector, and a chalkboard.
 The image shows a classroom with a green wall, a whiteboard, a desk with a computer monitor, a projector, and a bulletin board with pictures.
+An image with four chairs, two people, a ceiling, a floor, a wall, a light, a table, and a tv.
+An image with four chairs, two people, a ceiling, a tv, a wall, a light, a table, and a floor.
+An image with a table, two people, a wall, a tv, four chairs, a ceiling, a floor, and a light.
+An image with a wall, two people, four chairs, a tv, a light, a table, a floor, and a ceiling.
+An image with a table, four chairs, a wall, two people, a light, a floor, a tv, and a ceiling.

@@ -8,3 +8,8 @@ A bus is driving down a street.
 A bus is crossing a street at an intersection, with a pedestrian waiting to cross.
 A large white and red bus is driving down a street with trees and traffic lights.
 A city bus is crossing a street at an intersection, with a pedestrian waiting to cross, surrounded by trees and traffic lights.
+An image with a bus, a tree, three traffics, a person, a grass, and a road.
+An image with three traffics, a bus, a grass, a road, a tree, and a person.
+An image with a road, three traffics, a person, a grass, a tree, and a bus.
+An image with three traffics, a tree, a person, a bus, a grass, and a road.
+An image with a person, a tree, three traffics, a bus, a grass, and a road.

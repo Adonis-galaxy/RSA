@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, tree-lined street leads to a house at the end, with a car parked in the driveway.
 A narrow, tree-lined street with a car parked on the right side.
 A narrow, tree-lined street with a curved bend, leading to a house on the right, and a car parked on the left.
+An image with a sky, a building, a car, a pavement, a road, and a tree.
+An image with a pavement, a building, a road, a tree, a car, and a sky.
+An image with a building, a pavement, a sky, a car, a tree, and a road.
+An image with a road, a pavement, a sky, a tree, a building, and a car.
+An image with a building, a tree, a pavement, a car, a sky, and a road.

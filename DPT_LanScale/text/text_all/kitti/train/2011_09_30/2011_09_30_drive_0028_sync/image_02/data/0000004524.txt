@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars and a clear sky, leading to a building with a blue sign and a red x.
 The image shows a narrow street with parked cars, a sidewalk, a building, a street sign, and trees.
 The image depicts a residential street with parked cars, a curved sidewalk, a fence, and a building with a blue sign and a red circle.
+An image with two cars, a grass, a road, a stop, a sky, a fence, a house, a pavement, and a tree.
+An image with two cars, a fence, a road, a tree, a stop, a pavement, a grass, a house, and a sky.
+An image with a grass, a tree, a stop, a road, two cars, a pavement, a house, a fence, and a sky.
+An image with a sky, a road, a grass, a tree, a pavement, a stop, two cars, a house, and a fence.
+An image with a house, a tree, two cars, a sky, a road, a pavement, a grass, a fence, and a stop.

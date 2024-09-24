@@ -8,3 +8,8 @@ A computer desk with three monitors and two keyboards.
 A computer desk with multiple monitors and keyboards.
 The image shows a table with three computer monitors, two keyboards, and two mice.
 The image shows a computer desk with three computer monitors, two keyboards, and two mice.
+An image with a table, four tvs, a wall, two mice, and two keyboards.
+An image with four tvs, a table, two keyboards, two mice, and a wall.
+An image with four tvs, a table, two mice, a wall, and two keyboards.
+An image with four tvs, two keyboards, two mice, a table, and a wall.
+An image with two mice, a table, four tvs, two keyboards, and a wall.

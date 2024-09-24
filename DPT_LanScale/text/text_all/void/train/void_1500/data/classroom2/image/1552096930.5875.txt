@@ -8,3 +8,8 @@ The image shows a room with two black chairs and a small orange table.
 The image shows a room with two black chairs and a small orange table.
 The image shows a room with two black chairs and a small orange table.
 The image shows a room with two black chairs, one with a wooden seat and the other with a black seat, positioned in front of a desk with a wooden top. The floor is white, and there is a trash can in the corner.
+An image with a wall, a dining, three chairs, and a floor.
+An image with a dining, a floor, a wall, and three chairs.
+An image with three chairs, a dining, a wall, and a floor.
+An image with three chairs, a wall, a floor, and a dining.
+An image with a wall, a floor, three chairs, and a dining.

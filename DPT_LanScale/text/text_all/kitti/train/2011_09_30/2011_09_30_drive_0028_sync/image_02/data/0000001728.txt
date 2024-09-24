@@ -8,3 +8,8 @@ The image shows a street scene with a blue and white toilet on the sidewalk.
 A narrow street in a residential area, with parked cars, a white toilet, and a bench on the sidewalk.
 A large blue and white toilet is parked on the side of a narrow street lined with parked cars and houses.
 A narrow street in a residential area with parked cars, a white toilet, and a bench.
+An image with seven cars, a sky, a parking, a bench, a grass, a house, a pavement, a tree, a person, and a road.
+An image with seven cars, a grass, a house, a parking, a person, a pavement, a bench, a road, a sky, and a tree.
+An image with a sky, a person, seven cars, a pavement, a grass, a house, a tree, a bench, a road, and a parking.
+An image with seven cars, a sky, a tree, a person, a parking, a house, a grass, a bench, a road, and a pavement.
+An image with a house, seven cars, a parking, a tree, a grass, a road, a sky, a bench, a pavement, and a person.

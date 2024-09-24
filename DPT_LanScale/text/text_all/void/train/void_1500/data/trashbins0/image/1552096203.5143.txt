@@ -8,3 +8,8 @@ The image shows a blue trash can.
 The image shows a blue trash can next to a blue recycling bin, both placed against a white wall.
 The image shows a blue trash can next to a white trash can, both placed on a white floor.
 The image shows a blue trash can next to a white trash can, both placed against a wall, with a brown chair in the foreground.
+An image with a wall, a chair, a cup, a floor, and a bottle.
+An image with a bottle, a wall, a cup, a floor, and a chair.
+An image with a bottle, a chair, a cup, a floor, and a wall.
+An image with a chair, a wall, a floor, a bottle, and a cup.
+An image with a wall, a chair, a bottle, a floor, and a cup.

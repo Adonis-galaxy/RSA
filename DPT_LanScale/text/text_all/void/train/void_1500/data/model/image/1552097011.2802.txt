@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden shelf.
 The image shows a small model of a city, with a prominent white building and a red building, placed on a wooden shelf.
 The image shows a model of a cityscape with buildings and a street, displayed on a shelf.
+An image with a building, a wall, a cabinet, and a floor.
+An image with a floor, a wall, a building, and a cabinet.
+An image with a wall, a cabinet, a floor, and a building.
+An image with a floor, a cabinet, a wall, and a building.
+An image with a floor, a cabinet, a wall, and a building.

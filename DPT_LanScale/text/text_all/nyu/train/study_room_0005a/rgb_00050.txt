@@ -8,3 +8,8 @@ The image shows an empty room with a row of black leather chairs and a televisio
 The image captures an empty, modern lobby with a row of gray chairs, a TV mounted on the wall, and a counter with a trash can.
 The image shows an empty room with a large TV screen, several black leather chairs, and trash cans.
 The image shows an empty room with a long, narrow layout featuring a row of black leather chairs, a TV mounted on the wall, and a counter with a trash can.
+An image with a rug, six chairs, a window, a tv, a ceiling, a door, a wall, and a table.
+An image with a door, a ceiling, six chairs, a tv, a window, a rug, a table, and a wall.
+An image with a tv, six chairs, a rug, a ceiling, a door, a wall, a window, and a table.
+An image with six chairs, a ceiling, a door, a tv, a window, a rug, a wall, and a table.
+An image with a table, a window, a door, six chairs, a ceiling, a rug, a wall, and a tv.

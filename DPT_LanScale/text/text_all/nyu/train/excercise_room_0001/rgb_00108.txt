@@ -8,3 +8,8 @@ A room with a piano, a leather chair, a bicycle, and a window.
 A cozy living room with a piano, a leather armchair, a bicycle, and a vase.
 The image shows a small room with a piano, a leather armchair, a bicycle, and a vase.
 The image shows a room with a piano, a leather chair, a bicycle, and a vase with branches, all arranged in a somewhat cluttered manner.
+An image with a wall, two chairs, a table, a floor, a keyboard, a potted, a window, and a cabinet.
+An image with a floor, a wall, a potted, a keyboard, two chairs, a cabinet, a window, and a table.
+An image with a window, two chairs, a keyboard, a floor, a cabinet, a table, a potted, and a wall.
+An image with a cabinet, a keyboard, a wall, two chairs, a window, a potted, a table, and a floor.
+An image with a potted, a cabinet, a table, two chairs, a floor, a wall, a window, and a keyboard.

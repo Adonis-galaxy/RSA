@@ -8,3 +8,8 @@ A narrow street between two white fences.
 A narrow, shaded street between white fences and houses, with a car parked at the end.
 A narrow, tree-lined street between two white fences, with a car parked on the right side.
 A narrow, tree-lined street between white fences and houses, with a car parked at the end.
+An image with a fence, a grass, a sky, a house, a tree, two cars, and a pavement.
+An image with a fence, a tree, two cars, a pavement, a grass, a sky, and a house.
+An image with a house, two cars, a grass, a sky, a tree, a fence, and a pavement.
+An image with a sky, a pavement, a grass, two cars, a fence, a tree, and a house.
+An image with a pavement, a house, two cars, a tree, a grass, a fence, and a sky.

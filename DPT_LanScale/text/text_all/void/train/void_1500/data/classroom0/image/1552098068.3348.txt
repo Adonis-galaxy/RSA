@@ -8,3 +8,8 @@ The image shows a row of empty seats in a theater.
 The image shows a row of empty seats in a theater, with the chairs facing the same direction.
 The image shows a row of empty seats in a theater, with the chairs being of a standard size.
 The image shows a row of empty seats in a theater or auditorium, with the seats facing the same direction.
+An image with fourteen chairs, a floor, and a wall.
+An image with fourteen chairs, a wall, and a floor.
+An image with a wall, fourteen chairs, and a floor.
+An image with a floor, fourteen chairs, and a wall.
+An image with fourteen chairs, a floor, and a wall.

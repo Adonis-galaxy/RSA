@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 The image captures a serene suburban street scene, with a white car parked on the side of the road, a few other cars driving away, and a lush green hedge lining the street, creating a sense of tranquility and everyday life.
 The image shows a narrow street lined with parked cars and a fence, with a few cars driving down the road and a person walking on the sidewalk.
 A narrow, tree-lined street with parked cars and a few moving vehicles.
+An image with five cars, a tree, a road, a sky, a fence, and a grass.
+An image with a fence, five cars, a sky, a grass, a road, and a tree.
+An image with five cars, a tree, a grass, a road, a fence, and a sky.
+An image with a fence, a sky, five cars, a grass, a road, and a tree.
+An image with a fence, a tree, a road, five cars, a grass, and a sky.

@@ -8,3 +8,8 @@ A black bookshelf with books on it.
 A cozy living room with a bookshelf, a television, and a doorway leading to a white-curtained window.
 The image shows a room with a large bookshelf filled with books, a television on a stand, a door with a white curtain, and a brick wall.
 A cozy living room with a brick wall, a black bookshelf filled with books, a blue chair, a black TV, and a door with a white curtain.
+An image with eleven books, a chair, a remote, a tv, a table, two walls, and a door.
+An image with a remote, eleven books, a chair, a tv, two walls, a door, and a table.
+An image with a chair, a tv, eleven books, a table, a door, two walls, and a remote.
+An image with eleven books, a tv, two walls, a table, a door, a chair, and a remote.
+An image with eleven books, two walls, a chair, a table, a tv, a door, and a remote.

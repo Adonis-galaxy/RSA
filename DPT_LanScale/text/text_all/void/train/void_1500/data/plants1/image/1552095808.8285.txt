@@ -8,3 +8,8 @@ The image shows a brick wall with green ivy growing on it.
 The image shows a brick wall with a green plant growing on it, partially obscuring a window.
 The image shows a brick wall with a large amount of green ivy growing on it, partially covering a window.
 The image shows a brick wall with a green plant growing on it, partially obscuring a window.
+An image with two walls, a rock, a window, a bench, a grass, and a tree.
+An image with a window, two walls, a tree, a grass, a bench, and a rock.
+An image with a rock, a grass, a window, two walls, a tree, and a bench.
+An image with a grass, a window, a rock, a tree, a bench, and two walls.
+An image with a grass, a tree, two walls, a window, a rock, and a bench.

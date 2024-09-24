@@ -8,3 +8,8 @@ A brown couch in a living room.
 The image captures a cozy living room scene, featuring a comfortable couch with a patterned upholstery, a wooden floor, and a doorway leading to another room.
 The image shows a small, brown, patterned couch in a room with a wooden floor and a doorway leading to another room.
 The image shows a room with a brown couch, a wooden floor, and a doorway leading to another room.
+An image with a wall, a door, a couch, and a floor.
+An image with a floor, a wall, a couch, and a door.
+An image with a door, a floor, a wall, and a couch.
+An image with a door, a floor, a couch, and a wall.
+An image with a couch, a floor, a door, and a wall.

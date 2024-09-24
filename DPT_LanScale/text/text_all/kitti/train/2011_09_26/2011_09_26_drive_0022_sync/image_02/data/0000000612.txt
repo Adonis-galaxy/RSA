@@ -8,3 +8,8 @@ The image shows a street scene with a car, a tree, a sign, and a sidewalk.
 A tree-lined street with a car parked on the side, a pedestrian crossing sign, and a grassy area.
 The image shows a tree-lined street with a car parked on the side, a pedestrian crossing sign, and a grassy area.
 A tree-lined street with a car parked on the side, a pedestrian crossing sign, and a grassy area.
+An image with a tree, a road, a pavement, a car, a sky, and a grass.
+An image with a sky, a tree, a road, a car, a pavement, and a grass.
+An image with a tree, a pavement, a grass, a road, a sky, and a car.
+An image with a road, a car, a pavement, a grass, a sky, and a tree.
+An image with a road, a pavement, a car, a sky, a grass, and a tree.

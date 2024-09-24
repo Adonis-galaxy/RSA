@@ -8,3 +8,8 @@ A long wooden desk with multiple computer monitors and keyboards.
 A long wooden desk with multiple computer monitors, keyboards, and mice.
 A long wooden desk with multiple computer monitors, keyboards, and mice.
 The image shows a long wooden desk with multiple computer monitors, keyboards, and mice arranged in a row, with chairs positioned at each end.
+An image with a wall, three tvs, a rug, three mice, a table, two keyboards, and a chair.
+An image with a table, three mice, three tvs, a wall, two keyboards, a chair, and a rug.
+An image with a rug, three tvs, a table, two keyboards, a wall, a chair, and three mice.
+An image with three tvs, a rug, three mice, a chair, a table, two keyboards, and a wall.
+An image with a rug, three mice, two keyboards, three tvs, a chair, a wall, and a table.

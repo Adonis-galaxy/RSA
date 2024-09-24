@@ -8,3 +8,8 @@ A cardboard box with a blue label.
 A cardboard box with a blue label is placed against a green wall, and a yellow cord is running through it.
 A cardboard box with a blue label and a yellow cord on top of it.
 A cardboard box with a blue label and a white logo is placed against a green wall, with a yellow cord running through it.
+An image with a wall, a paper, a cabinet, a table, and a cardboard.
+An image with a table, a wall, a cardboard, a cabinet, and a paper.
+An image with a table, a wall, a cabinet, a cardboard, and a paper.
+An image with a cabinet, a wall, a paper, a table, and a cardboard.
+An image with a cabinet, a paper, a table, a cardboard, and a wall.

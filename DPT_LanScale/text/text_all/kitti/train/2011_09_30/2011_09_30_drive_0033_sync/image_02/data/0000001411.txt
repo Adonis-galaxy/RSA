@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, lined with houses and trees, with a few parked cars and a person walking, under a clear blue sky.
 A narrow street lined with houses and trees, with a car parked on the side and a truck driving down it.
 A narrow, tree-lined street with parked cars and a fence on the right side.
+An image with a fence, three cars, a tree, a wall, a pavement, a house, a sky, and a road.
+An image with three cars, a pavement, a road, a tree, a wall, a house, a sky, and a fence.
+An image with a wall, a tree, a sky, a fence, a road, a pavement, a house, and three cars.
+An image with three cars, a tree, a sky, a wall, a house, a pavement, a fence, and a road.
+An image with three cars, a tree, a house, a fence, a road, a pavement, a wall, and a sky.

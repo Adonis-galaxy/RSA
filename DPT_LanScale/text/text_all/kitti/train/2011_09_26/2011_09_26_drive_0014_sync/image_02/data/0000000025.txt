@@ -8,3 +8,8 @@ The image shows a busy street with cars and a truck.
 A busy street scene with a mix of vehicles, including a black SUV, parked cars, and a truck, all moving along a road lined with trees and a fence.
 A busy street with multiple cars, a truck, and a train, surrounded by trees and a brick wall.
 A busy street scene with multiple lanes of traffic, a green fence, and a variety of vehicles, including a black SUV, a white car, and a blue car, all moving in the same direction.
+An image with seven cars, a sky, a road, a tree, a grass, a fence, and a pavement.
+An image with seven cars, a road, a grass, a sky, a fence, a pavement, and a tree.
+An image with seven cars, a tree, a pavement, a fence, a grass, a sky, and a road.
+An image with a tree, a road, a sky, seven cars, a fence, a grass, and a pavement.
+An image with a sky, a pavement, seven cars, a grass, a road, a tree, and a fence.

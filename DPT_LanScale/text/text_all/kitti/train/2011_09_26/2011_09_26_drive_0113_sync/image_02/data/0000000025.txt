@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a shaded street, with a car parked nearby and a dog walking in the background.
 A woman riding a bicycle on a narrow street between parked cars and a building.
 A woman rides a bicycle down a tree-lined street, passing by parked cars and a building, with a clear sky overhead.
+An image with a fence, a house, three cars, a person, a backpack, a rock, a tree, and a pavement.
+An image with a pavement, three cars, a fence, a rock, a person, a tree, a backpack, and a house.
+An image with a tree, a fence, a house, a pavement, a rock, a person, three cars, and a backpack.
+An image with a person, a pavement, three cars, a fence, a house, a rock, a tree, and a backpack.
+An image with three cars, a backpack, a rock, a house, a person, a pavement, a fence, and a tree.

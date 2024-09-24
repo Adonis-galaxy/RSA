@@ -8,3 +8,8 @@ A narrow road between two walls.
 A narrow, tree-lined road with a fence on one side, leading to a distant view of a town.
 A narrow, tree-lined road with a white wall on the right side.
 A narrow, tree-lined road with a fence on one side, leading to a dead-end street.
+An image with a tree, a road, a pavement, a sky, and a grass.
+An image with a road, a tree, a sky, a pavement, and a grass.
+An image with a road, a pavement, a sky, a tree, and a grass.
+An image with a road, a grass, a pavement, a sky, and a tree.
+An image with a road, a grass, a pavement, a sky, and a tree.

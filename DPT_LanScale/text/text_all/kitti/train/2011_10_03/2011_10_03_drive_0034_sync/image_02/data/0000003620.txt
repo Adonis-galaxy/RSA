@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses on both sides.
 The image captures a serene residential street, lined with houses, trees, and a sidewalk, leading to a cul-de-sac at the end.
 The image shows a narrow, tree-lined street with a house on the right side, a car parked in front of the house, and a fence on the left side. The street is empty and appears to be in a residential area.
 A quiet residential street with a curved driveway leading to a house on a hill.
+An image with a car, a tree, a wall, a fence, a pavement, a road, a sky, a roof, and a house.
+An image with a tree, a roof, a house, a road, a fence, a wall, a pavement, a sky, and a car.
+An image with a fence, a road, a pavement, a car, a tree, a sky, a wall, a house, and a roof.
+An image with a fence, a sky, a roof, a wall, a tree, a pavement, a house, a road, and a car.
+An image with a pavement, a fence, a wall, a road, a tree, a roof, a house, a car, and a sky.

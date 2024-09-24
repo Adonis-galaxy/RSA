@@ -8,3 +8,8 @@ The image shows a street with a train passing by.
 The image captures a quiet, tree-lined street with a train passing by, a car parked on the side, and a yellow sign indicating directions.
 The image shows a wide, tree-lined street with a train passing by on the left side, a car driving on the right side, and a yellow sign with a black arrow pointing to the right.
 The image depicts a wide, tree-lined street with a train track running parallel to it, flanked by buildings and a yellow sign indicating a park.
+An image with a wall, three cars, a building, a tree, a pavement, a road, a bus, and a railroad.
+An image with a pavement, a railroad, a wall, a building, three cars, a road, a tree, and a bus.
+An image with a wall, a road, three cars, a building, a pavement, a tree, a railroad, and a bus.
+An image with three cars, a wall, a railroad, a road, a pavement, a tree, a building, and a bus.
+An image with a railroad, three cars, a road, a tree, a bus, a pavement, a building, and a wall.

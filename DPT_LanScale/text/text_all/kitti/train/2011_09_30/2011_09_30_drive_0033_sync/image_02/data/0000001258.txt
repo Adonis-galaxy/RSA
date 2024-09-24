@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with houses, trees, and parked cars, under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a white van parked on the left side and a blue car parked on the right side.
 A quiet residential street with parked cars, lined by houses and trees, leading to a clear sky.
+An image with a wall, a truck, two cars, a sky, a fence, a road, a house, a tree, and a fire.
+An image with a sky, two cars, a house, a wall, a road, a tree, a truck, a fire, and a fence.
+An image with a wall, a fence, a sky, a tree, a truck, a fire, a house, two cars, and a road.
+An image with a road, a wall, a tree, a truck, a house, a fence, two cars, a fire, and a sky.
+An image with a road, a sky, a fire, a truck, a wall, two cars, a tree, a house, and a fence.

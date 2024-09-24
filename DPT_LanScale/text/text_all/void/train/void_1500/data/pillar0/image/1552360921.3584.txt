@@ -8,3 +8,8 @@ A black bag leaning against a wall.
 A black bag leaning against a white wall, with a golf bag and a suitcase nearby.
 A black bag with a white tag is leaning against a white wall next to a black suitcase.
 A black bag leaning against a white wall, with a golf bag and a suitcase in the background.
+An image with a rug, a wall, a door, and a suitcase.
+An image with a wall, a rug, a door, and a suitcase.
+An image with a rug, a door, a wall, and a suitcase.
+An image with a suitcase, a door, a rug, and a wall.
+An image with a wall, a suitcase, a rug, and a door.

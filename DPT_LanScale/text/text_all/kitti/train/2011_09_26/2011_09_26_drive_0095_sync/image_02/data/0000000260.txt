@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quiet residential street, lined with parked cars and trees, under a clear sky.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and trees with autumn foliage overhead.
 The image depicts a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with nine cars, a road, a pavement, a tree, a building, a traffic, and a sky.
+An image with nine cars, a pavement, a traffic, a sky, a building, a road, and a tree.
+An image with a pavement, nine cars, a tree, a road, a traffic, a sky, and a building.
+An image with nine cars, a traffic, a pavement, a tree, a sky, a building, and a road.
+An image with a building, nine cars, a sky, a road, a traffic, a tree, and a pavement.

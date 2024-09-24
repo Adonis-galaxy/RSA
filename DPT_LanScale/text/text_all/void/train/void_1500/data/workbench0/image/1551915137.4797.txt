@@ -8,3 +8,8 @@ A cup of coffee on a table.
 A cup of coffee sits on a table next to a box of Annie's Extra Cheddar Bunnies.
 A cup of coffee sits on a table next to a box of Annie's Extra Cheddar Bunnies.
 A cup of coffee sits on a wooden table next to a box of Annie's Extra Cheddar Bunnies and a roll of tape.
+An image with a wall, a cup, a cabinet, a floor, a dining, a paper, and a cardboard.
+An image with a paper, a cup, a wall, a cardboard, a cabinet, a dining, and a floor.
+An image with a wall, a cabinet, a cardboard, a cup, a floor, a dining, and a paper.
+An image with a paper, a wall, a cardboard, a cup, a dining, a floor, and a cabinet.
+An image with a dining, a paper, a floor, a cup, a cabinet, a wall, and a cardboard.

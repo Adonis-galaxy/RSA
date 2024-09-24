@@ -8,3 +8,8 @@ The image shows a street with cars and trees.
 The image captures a typical day on a suburban street, with cars parked along the side, a few moving along the road, and a clear blue sky overhead.
 The image shows a wide street with multiple lanes, lined with trees and buildings, and several cars driving on it.
 A tree-lined street with parked cars and a clear sky.
+An image with a fence, six cars, a sky, a wall, a grass, a road, a pavement, and a tree.
+An image with a grass, a pavement, six cars, a fence, a sky, a road, a wall, and a tree.
+An image with a wall, six cars, a pavement, a fence, a grass, a road, a tree, and a sky.
+An image with six cars, a wall, a tree, a fence, a pavement, a grass, a sky, and a road.
+An image with a grass, six cars, a wall, a pavement, a tree, a road, a fence, and a sky.

@@ -8,3 +8,8 @@ A car parked on a street.
 A parked car on a tree-lined street, with a sidewalk and a building in the background.
 A small white car is parked on the side of a narrow street lined with trees and houses.
 A quiet residential street with a parked car, lined by trees and houses, under a bright sunny sky.
+An image with a road, a grass, a tree, a fence, a car, a sky, a pavement, and a house.
+An image with a road, a sky, a house, a car, a pavement, a tree, a grass, and a fence.
+An image with a fence, a grass, a tree, a house, a pavement, a car, a sky, and a road.
+An image with a car, a pavement, a sky, a fence, a grass, a house, a road, and a tree.
+An image with a car, a sky, a pavement, a tree, a road, a house, a fence, and a grass.

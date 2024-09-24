@@ -8,3 +8,8 @@ The image shows an interior hallway with a row of doors, a long counter, and a l
 The image captures a long, narrow hallway with a series of doors on the left, a central column, a large window, and a counter with a chair on the right.
 The image shows a long hallway with a row of doors on the left, a large black pillar in the center, and a desk with a computer monitor and a white cup on the right.
 The image shows a long hallway with a series of doors on the left, a central column, and a room with a desk and shelves on the right.
+An image with a floor, a refrigerator, a sports, a book, a shelf, a wall, a table, a cup, a chair, a light, and a ceiling.
+An image with a book, a shelf, a chair, a ceiling, a cup, a table, a light, a refrigerator, a floor, a wall, and a sports.
+An image with a wall, a book, a chair, a light, a ceiling, a cup, a floor, a shelf, a table, a sports, and a refrigerator.
+An image with a refrigerator, a cup, a ceiling, a shelf, a book, a chair, a floor, a light, a wall, a sports, and a table.
+An image with a light, a shelf, a wall, a book, a cup, a ceiling, a chair, a table, a sports, a floor, and a refrigerator.

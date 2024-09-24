@@ -8,3 +8,8 @@ A black and gray ventilation pipe.
 The image shows a large black pipe with a red label, connected to a machine, in a room with a whiteboard and a shelf in the background.
 The image shows a large black pipe with a red label, located in a room with a white ceiling and a wooden floor.
 The image shows a large industrial machine with a black hose attached to it, situated in a room with a white ceiling and a wooden floor.
+An image with a light, two walls, a floor, and a ceiling.
+An image with a light, a floor, a ceiling, and two walls.
+An image with two walls, a floor, a light, and a ceiling.
+An image with a light, a floor, two walls, and a ceiling.
+An image with two walls, a ceiling, a light, and a floor.

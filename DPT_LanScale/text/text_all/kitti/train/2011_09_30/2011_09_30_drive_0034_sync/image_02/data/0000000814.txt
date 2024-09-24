@@ -8,3 +8,8 @@ The image shows a tree-lined street in a residential area.
 The image captures a serene, tree-lined street in a residential area, with a clear sky overhead and a sign indicating a nearby parking area.
 The image shows a tree-lined street with a sign indicating a parking area, a sidewalk, and a building in the background.
 The image depicts a tree-lined street with a clear view of a white building on the right side, a sign indicating a parking area, and a potted plant on the sidewalk.
+An image with a house, a tree, a potted, a sky, a pavement, a road, a wall, and a car.
+An image with a pavement, a house, a road, a potted, a sky, a car, a wall, and a tree.
+An image with a road, a pavement, a wall, a house, a tree, a car, a sky, and a potted.
+An image with a road, a potted, a sky, a car, a wall, a house, a pavement, and a tree.
+An image with a potted, a pavement, a sky, a house, a tree, a road, a wall, and a car.

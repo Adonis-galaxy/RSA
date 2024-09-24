@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 The image captures a serene residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a white building visible in the background.
 A row of parked cars on a tree-lined street, with a white van and a trailer in the foreground, and a white car in the background.
+An image with a pavement, a road, a truck, three cars, a tree, a house, and a grass.
+An image with a pavement, three cars, a grass, a tree, a truck, a house, and a road.
+An image with a road, a tree, a grass, three cars, a pavement, a truck, and a house.
+An image with a house, three cars, a road, a truck, a grass, a pavement, and a tree.
+An image with a pavement, three cars, a road, a truck, a grass, a tree, and a house.

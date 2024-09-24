@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and lush greenery, with a white building on the left side.
 A narrow street lined with parked cars and lush greenery, leading to a white house with a black roof.
+An image with a road, five cars, a wall, a tree, a sky, and a pavement.
+An image with a road, five cars, a tree, a pavement, a sky, and a wall.
+An image with five cars, a tree, a road, a pavement, a sky, and a wall.
+An image with five cars, a road, a sky, a tree, a pavement, and a wall.
+An image with a tree, a pavement, five cars, a sky, a wall, and a road.

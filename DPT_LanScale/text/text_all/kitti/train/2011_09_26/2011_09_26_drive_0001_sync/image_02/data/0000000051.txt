@@ -8,3 +8,8 @@ A train on the tracks.
 A train travels down tracks adjacent to a road where cars are parked and moving, with a person walking on the sidewalk.
 A large yellow bus is traveling down a street next to a train track, with a car and a person visible in the background.
 A train is passing through a suburban area with a mix of residential and commercial buildings, and a road with cars and a bicyclist.
+An image with three traffics, a railroad, a bicycle, a road, two people, a house, a sky, a bus, two cars, a tree, a wall, and a grass.
+An image with three traffics, a wall, two cars, a house, two people, a sky, a grass, a road, a railroad, a bicycle, a tree, and a bus.
+An image with a wall, two people, a bus, a sky, a railroad, two cars, a grass, three traffics, a bicycle, a tree, a house, and a road.
+An image with two cars, a bicycle, two people, a house, a grass, a road, three traffics, a wall, a tree, a sky, a bus, and a railroad.
+An image with two people, a bicycle, two cars, a sky, three traffics, a tree, a house, a road, a wall, a railroad, a grass, and a bus.

@@ -8,3 +8,8 @@ The image shows a city street with a train track running down the middle.
 The image captures a bustling city street, with a focus on the interaction between pedestrians, cyclists, and the urban environment.
 The image depicts a narrow street lined with buildings, a sidewalk, and a train track, with people walking and biking, and a large sign on a building.
 A narrow street with a curved layout, flanked by buildings and lined with parked bicycles and a potted plant.
+An image with eleven people, a building, a railroad, three bicycles, a pavement, and a tree.
+An image with three bicycles, eleven people, a pavement, a railroad, a tree, and a building.
+An image with eleven people, three bicycles, a tree, a building, a railroad, and a pavement.
+An image with eleven people, a tree, a railroad, a pavement, a building, and three bicycles.
+An image with eleven people, a tree, three bicycles, a railroad, a building, and a pavement.

@@ -8,3 +8,8 @@ The image shows a room with a large metal machine and a window with blue tinted 
 The image captures a scene of a workspace with various objects, including a gray machine, a red fire extinguisher, and a whiteboard with blue squares, all arranged in a way that suggests a functional and organized environment.
 The image shows a large gray machine with a pipe running through it, situated in a room with a whiteboard and a red fire extinguisher.
 The image shows a room with a large metal machine, a table with a red fire extinguisher, and a wall with a window and a poster.
+An image with a wall, a window, a refrigerator, a counter, and a cabinet.
+An image with a wall, a window, a cabinet, a refrigerator, and a counter.
+An image with a refrigerator, a window, a cabinet, a counter, and a wall.
+An image with a counter, a cabinet, a window, a refrigerator, and a wall.
+An image with a counter, a window, a wall, a cabinet, and a refrigerator.

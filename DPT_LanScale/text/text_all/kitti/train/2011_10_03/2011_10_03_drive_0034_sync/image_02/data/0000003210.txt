@@ -8,3 +8,8 @@ A black jeep parked on the side of a road.
 A black Mercedes SUV is parked on the side of a quiet residential street, with a white house and a stone wall in the background.
 A black Mercedes SUV is parked on the side of a narrow street, with a white house and a stone wall in the background.
 A black Mercedes SUV is parked on the side of a narrow, tree-lined street, adjacent to a white house with a black gate and a stone wall.
+An image with two walls, a pavement, a road, a tree, a building, a fence, a truck, and a sky.
+An image with two walls, a building, a sky, a road, a truck, a pavement, a tree, and a fence.
+An image with a pavement, two walls, a fence, a tree, a road, a sky, a building, and a truck.
+An image with two walls, a sky, a tree, a building, a truck, a road, a fence, and a pavement.
+An image with two walls, a pavement, a fence, a road, a sky, a truck, a building, and a tree.

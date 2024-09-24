@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a clear path leading to a park.
 A narrow, tree-lined street with a sidewalk on one side, leading to a park.
 A tree-lined street with a curved path, bordered by a stone wall and a grassy area, leading to a parked car on the right.
+An image with a road, a wall, a tree, a fire, a grass, and a pavement.
+An image with a road, a tree, a grass, a pavement, a fire, and a wall.
+An image with a grass, a pavement, a road, a tree, a fire, and a wall.
+An image with a grass, a fire, a wall, a pavement, a road, and a tree.
+An image with a fire, a grass, a tree, a road, a wall, and a pavement.

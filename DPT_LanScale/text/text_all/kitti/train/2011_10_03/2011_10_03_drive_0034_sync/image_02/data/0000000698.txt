@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, with parked cars and a clear sky, reflecting the calm and orderly nature of suburban life.
 The image shows a narrow street lined with parked cars, including a black SUV, a black car, and a red car, with a few trees and houses in the background.
 A quiet residential street with parked cars and a clear sky.
+An image with a road, a tree, a pavement, a wall, a house, three cars, and a sky.
+An image with a road, three cars, a tree, a wall, a pavement, a house, and a sky.
+An image with a tree, a pavement, three cars, a wall, a sky, a road, and a house.
+An image with a house, a wall, a pavement, a road, a sky, three cars, and a tree.
+An image with a sky, three cars, a pavement, a house, a tree, a wall, and a road.

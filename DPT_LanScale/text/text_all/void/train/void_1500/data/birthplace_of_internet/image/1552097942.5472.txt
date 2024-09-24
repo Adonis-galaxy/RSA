@@ -8,3 +8,8 @@ A classroom with a green wall and a long light fixture.
 The image shows a room with a green wall, a whiteboard, a desk, a chair, a refrigerator, and a light fixture.
 The image shows a room with a green wall, a long fluorescent light fixture, a desk with a computer monitor, a chair, and a bulletin board with papers and photos on it.
 The image shows a room with a green wall, a whiteboard, a desk with a computer, a table with a lamp, and a shelf with a machine.
+An image with a table, a light, a person, three chairs, a ceiling, and a wall.
+An image with a wall, three chairs, a person, a ceiling, a light, and a table.
+An image with three chairs, a wall, a ceiling, a person, a light, and a table.
+An image with a light, three chairs, a ceiling, a person, a wall, and a table.
+An image with a wall, a ceiling, a table, a light, three chairs, and a person.

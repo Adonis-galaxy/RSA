@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street in a residential area.
 The image captures a quiet residential street, with parked cars and a truck on the side, leading to a row of houses with trees and a fence lining the road.
 The image shows a narrow street lined with parked cars and houses, with a large truck parked on the left side.
 A quiet residential street with parked cars, a white truck, and a brick wall on the right side.
+An image with a fence, two trucks, a pavement, three cars, a road, a tree, a sky, a potted, and a house.
+An image with a fence, two trucks, a house, three cars, a pavement, a sky, a tree, a road, and a potted.
+An image with three cars, two trucks, a house, a tree, a potted, a pavement, a sky, a fence, and a road.
+An image with a fence, three cars, a sky, two trucks, a pavement, a potted, a road, a tree, and a house.
+An image with three cars, a road, two trucks, a sky, a pavement, a house, a potted, a fence, and a tree.

@@ -8,3 +8,8 @@ A black leather couch with a wooden table on it.
 A black leather couch with a wooden table on it, holding a few books and a soccer ball.
 A black leather couch with a wooden table on it, holding a few books and a soccer ball.
 A black leather couch with a wooden table on the side, holding a few books and a soccer ball.
+An image with a couch, a rug, four books, a sports, a table, and a wall.
+An image with a rug, a table, four books, a wall, a sports, and a couch.
+An image with a couch, four books, a wall, a sports, a table, and a rug.
+An image with a couch, a wall, four books, a rug, a table, and a sports.
+An image with a sports, four books, a wall, a couch, a table, and a rug.

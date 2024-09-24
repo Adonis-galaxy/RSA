@@ -8,3 +8,8 @@ A room with a long table and chairs.
 The image shows an empty conference room with a long table and several chairs, each chair paired with a small potted plant on the table.
 The image shows a large conference table with four chairs, each containing a small potted plant, and a doorway leading to another room.
 The image shows a conference room with a long table surrounded by chairs, each chair has a small plant in a glass vase on the table.
+An image with two potteds, eight chairs, a door, a rug, a wall, a vase, a dining, and a cardboard.
+An image with a rug, eight chairs, a cardboard, a wall, two potteds, a vase, a dining, and a door.
+An image with a vase, a dining, eight chairs, a wall, two potteds, a cardboard, a door, and a rug.
+An image with two potteds, a rug, eight chairs, a door, a wall, a dining, a vase, and a cardboard.
+An image with a door, eight chairs, a rug, a wall, a cardboard, a dining, two potteds, and a vase.

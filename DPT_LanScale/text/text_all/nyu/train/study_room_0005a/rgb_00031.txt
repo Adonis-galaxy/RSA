@@ -8,3 +8,8 @@ The image shows an office with rows of desks and chairs.
 The image captures an office space with a row of desks and chairs, illuminated by overhead lights, and featuring a large divider wall.
 The image shows an indoor space with a large room containing multiple tables and chairs, some of which are empty.
 The image shows an office space with a row of desks and chairs, a long counter, and a large window.
+An image with eight chairs, a ceiling, a wall, a tv, a door, a floor, a table, and a light.
+An image with eight chairs, a floor, a door, a light, a wall, a table, a ceiling, and a tv.
+An image with eight chairs, a ceiling, a tv, a floor, a door, a wall, a light, and a table.
+An image with eight chairs, a tv, a table, a wall, a floor, a ceiling, a light, and a door.
+An image with a ceiling, eight chairs, a table, a light, a tv, a door, a wall, and a floor.

@@ -8,3 +8,8 @@ A set of six chairs around a table.
 A set of six matching chairs and a table, arranged in a perfect circle, creating a cozy and inviting seating area.
 A set of six chairs with a round table in the center, arranged around a round table.
 A set of six chairs with a round table in the center, arranged in a hexagonal pattern on a tiled floor.
+An image with four chairs, a floor, a dining, a potted, a window, and two walls.
+An image with a dining, four chairs, a potted, two walls, a window, and a floor.
+An image with a floor, a window, a potted, two walls, four chairs, and a dining.
+An image with a window, four chairs, a floor, a dining, two walls, and a potted.
+An image with a dining, four chairs, a window, two walls, a floor, and a potted.

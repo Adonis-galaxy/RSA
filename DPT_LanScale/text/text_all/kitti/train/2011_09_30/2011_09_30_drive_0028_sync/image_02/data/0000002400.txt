@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a quiet street, with a clear sky overhead and houses lining the road.
 A person riding a bicycle on a quiet street between two-story houses.
 A quiet residential street with a clear path for a cyclist.
+An image with seven cars, a grass, a bicycle, a tree, a person, a sky, a road, and a house.
+An image with a grass, a sky, a bicycle, a road, seven cars, a person, a house, and a tree.
+An image with seven cars, a person, a house, a sky, a tree, a grass, a road, and a bicycle.
+An image with seven cars, a sky, a person, a house, a bicycle, a road, a grass, and a tree.
+An image with seven cars, a grass, a house, a road, a sky, a bicycle, a tree, and a person.

@@ -8,3 +8,8 @@ A small black and white checkered box.
 A small room with a desk, chair, and a window.
 The image shows a small room with a desk, a chair, a window, and a box.
 The image shows a small room with a desk, chair, and a window.
+An image with a window, a dining, a rug, a book, a chair, and a wall.
+An image with a book, a rug, a chair, a wall, a dining, and a window.
+An image with a chair, a wall, a rug, a window, a dining, and a book.
+An image with a rug, a wall, a window, a book, a chair, and a dining.
+An image with a chair, a dining, a book, a wall, a rug, and a window.

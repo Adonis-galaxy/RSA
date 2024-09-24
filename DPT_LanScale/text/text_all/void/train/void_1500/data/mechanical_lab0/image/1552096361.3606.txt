@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is placed under a white desk with a computer on it.
 A blue chair is tucked under a white desk with a computer on it.
 A blue chair is placed under a white desk with a computer on it, and the desk is on a blue metal frame.
+An image with a book, a chair, a dining, and a floor.
+An image with a book, a dining, a floor, and a chair.
+An image with a book, a chair, a dining, and a floor.
+An image with a chair, a book, a dining, and a floor.
+An image with a chair, a floor, a dining, and a book.

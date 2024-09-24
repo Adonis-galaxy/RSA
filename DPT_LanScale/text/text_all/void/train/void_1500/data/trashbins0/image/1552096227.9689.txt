@@ -8,3 +8,8 @@ The image shows a white door with a black frame and a metal handle.
 The image shows a white door with a black frame, a metal elevator button, and a brown trash can.
 The image shows a white door with a black frame, a brown trash can, and a white wall.
 The image shows a white door with a black frame, a metal door handle, and a metal door stopper. The door is closed and appears to be in a hallway or room.
+An image with a floor, a wall, a refrigerator, and a chair.
+An image with a floor, a wall, a chair, and a refrigerator.
+An image with a refrigerator, a chair, a floor, and a wall.
+An image with a wall, a chair, a floor, and a refrigerator.
+An image with a wall, a floor, a chair, and a refrigerator.

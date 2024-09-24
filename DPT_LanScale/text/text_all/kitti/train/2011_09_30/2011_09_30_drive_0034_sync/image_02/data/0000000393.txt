@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and parked cars.
 A quiet residential street, lined with parked cars and neatly maintained gardens, leading to a row of houses with garages.
 The image shows a narrow, tree-lined street between two-story houses, with parked cars on the side, a sidewalk, and a brick pathway.
 A narrow, tree-lined street between two-story houses, with parked cars and a sidewalk.
+An image with a door, a grass, a tree, six cars, a sky, a fence, a pavement, a roof, and a building.
+An image with six cars, a roof, a fence, a building, a sky, a grass, a tree, a door, and a pavement.
+An image with a roof, a sky, six cars, a door, a pavement, a tree, a fence, a building, and a grass.
+An image with six cars, a building, a door, a grass, a sky, a tree, a roof, a fence, and a pavement.
+An image with a fence, six cars, a roof, a building, a sky, a pavement, a door, a tree, and a grass.

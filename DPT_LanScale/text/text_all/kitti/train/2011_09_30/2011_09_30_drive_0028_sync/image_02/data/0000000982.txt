@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road and trees on the side.
 A car is parked on the side of a tree-lined street, with a blue sign indicating a nearby park.
 A car is driving down a tree-lined street, passing a parked car and a street sign.
 A car is driving down a tree-lined street with a curved road and a sidewalk, and there are signs and a blue sign with a white arrow.
+An image with a grass, a wall, a pavement, a sky, a car, a tree, and a road.
+An image with a grass, a road, a sky, a car, a pavement, a tree, and a wall.
+An image with a car, a tree, a wall, a grass, a pavement, a sky, and a road.
+An image with a grass, a car, a wall, a pavement, a road, a tree, and a sky.
+An image with a sky, a tree, a car, a grass, a road, a wall, and a pavement.

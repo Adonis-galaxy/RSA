@@ -8,3 +8,8 @@ A microwave on a counter.
 A microwave is sitting on a countertop.
 A small microwave is sitting on a white countertop.
 A microwave is sitting on a white countertop in a kitchen.
+An image with a sink, a wall, a paper, a cabinet, a microwave, a light, and a bottle.
+An image with a sink, a paper, a light, a wall, a microwave, a cabinet, and a bottle.
+An image with a wall, a sink, a paper, a cabinet, a bottle, a light, and a microwave.
+An image with a wall, a bottle, a light, a sink, a paper, a cabinet, and a microwave.
+An image with a microwave, a bottle, a wall, a cabinet, a sink, a light, and a paper.

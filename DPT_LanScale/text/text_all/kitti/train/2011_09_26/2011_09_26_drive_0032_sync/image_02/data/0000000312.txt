@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic signs.
 The image captures a serene, tree-lined road with a few cars in motion, flanked by traffic signs and barriers, suggesting a well-regulated and safe driving environment.
 The image shows a wide, empty highway with a few cars and trucks, a grassy median, and trees on both sides.
 The image depicts a wide, empty highway with a clear sky, lined by trees and a grassy median, with a few cars and traffic signs visible.
+An image with seven cars, a road, a truck, a pavement, a tree, a grass, and a sky.
+An image with a tree, a pavement, seven cars, a road, a truck, a sky, and a grass.
+An image with a grass, seven cars, a truck, a road, a pavement, a tree, and a sky.
+An image with seven cars, a grass, a sky, a tree, a road, a pavement, and a truck.
+An image with a road, seven cars, a truck, a grass, a sky, a tree, and a pavement.

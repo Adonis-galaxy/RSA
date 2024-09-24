@@ -8,3 +8,8 @@ A car on a road.
 A line of cars on a road, with trees on both sides, under a bright sky.
 A long line of cars driving down a tree-lined road.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with a grass, a road, eight cars, a tree, a sky, and a pavement.
+An image with eight cars, a pavement, a road, a sky, a grass, and a tree.
+An image with a tree, eight cars, a road, a sky, a grass, and a pavement.
+An image with eight cars, a sky, a road, a pavement, a tree, and a grass.
+An image with a grass, eight cars, a pavement, a tree, a road, and a sky.

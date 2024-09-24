@@ -8,3 +8,8 @@ A blurry image of a desk with a phone and papers on it.
 A blurry image of a desk with a phone and papers on it.
 A blurry image of a wooden desk with a phone and papers on it.
 A blurry image of a wooden desk with a phone and papers on it.
+An image with a keyboard, two books, a floor, a table, a wall, and a chair.
+An image with a wall, a keyboard, two books, a chair, a table, and a floor.
+An image with a keyboard, a wall, a floor, a chair, two books, and a table.
+An image with a table, a wall, a floor, two books, a chair, and a keyboard.
+An image with a wall, a table, a chair, two books, a keyboard, and a floor.

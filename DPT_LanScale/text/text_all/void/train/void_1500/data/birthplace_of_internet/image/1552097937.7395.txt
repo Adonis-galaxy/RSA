@@ -8,3 +8,8 @@ A room with a desk, a bookshelf, and a green wall.
 The image shows a room with a desk, a bookshelf, and a wall with posters, all under a fluorescent light.
 The image shows a room with a desk, a bookshelf, a telephone, and a green wall with posters.
 The image shows a room with a desk, a bookshelf, a telephone, and a green wall with nine framed pictures.
+An image with twenty-one books, a shelf, a ceiling, a wall, a light, a table, a door, a refrigerator, a floor, and a chair.
+An image with a chair, twenty-one books, a light, a wall, a door, a ceiling, a refrigerator, a table, a floor, and a shelf.
+An image with twenty-one books, a shelf, a door, a refrigerator, a table, a chair, a wall, a floor, a ceiling, and a light.
+An image with twenty-one books, a chair, a table, a floor, a refrigerator, a light, a ceiling, a wall, a door, and a shelf.
+An image with twenty-one books, a wall, a refrigerator, a door, a chair, a shelf, a ceiling, a table, a light, and a floor.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a brick wall on the right side.
 A quiet, tree-lined street with a brick wall and a clear blue sky.
 The image shows a narrow, tree-lined street with a brick wall on the right side, a sidewalk on the left, and a traffic sign at the beginning of the street.
 A narrow, tree-lined street with a brick wall on one side, leading to a house with a red roof in the distance.
+An image with two walls, a tree, a pavement, a sky, and a road.
+An image with a sky, two walls, a pavement, a tree, and a road.
+An image with a sky, two walls, a road, a pavement, and a tree.
+An image with a road, a pavement, two walls, a tree, and a sky.
+An image with two walls, a road, a pavement, a sky, and a tree.

@@ -8,3 +8,8 @@ A plastic orange cone on a table.
 A blue chair is positioned next to a white table with an orange cone on it.
 A blue chair is next to a white table with orange cones on it.
 A white folding table with a blue chair in a room with a white floor.
+An image with two walls, a chair, a floor, a dining, and a stairs.
+An image with a floor, a chair, two walls, a dining, and a stairs.
+An image with a dining, two walls, a floor, a chair, and a stairs.
+An image with a stairs, two walls, a chair, a floor, and a dining.
+An image with a floor, a dining, two walls, a stairs, and a chair.

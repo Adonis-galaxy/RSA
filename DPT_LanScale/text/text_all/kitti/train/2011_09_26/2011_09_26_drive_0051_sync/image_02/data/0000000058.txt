@@ -8,3 +8,8 @@ The image shows a street scene with a variety of vehicles and construction equip
 The image captures a bustling city street scene with a focus on the interaction between vehicles and construction barriers.
 The image shows a wide street with a few cars and trucks, a construction area with orange cones and barriers, and a row of trees along the sidewalk.
 A busy city street with multiple lanes, parked cars, construction barriers, and a mix of commercial and residential buildings.
+An image with seven cars, three trucks, a building, three people, a tree, a road, and a pavement.
+An image with seven cars, a pavement, a road, three people, three trucks, a tree, and a building.
+An image with a road, a tree, seven cars, three trucks, three people, a pavement, and a building.
+An image with a road, a tree, a building, a pavement, three people, seven cars, and three trucks.
+An image with seven cars, three trucks, a road, a building, three people, a pavement, and a tree.

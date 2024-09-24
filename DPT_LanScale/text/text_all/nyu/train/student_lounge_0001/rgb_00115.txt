@@ -8,3 +8,8 @@ A blue ping pong table.
 The image captures a quiet indoor setting with a ping pong table in the foreground, surrounded by chairs and a window, and a larger room with additional seating in the background.
 A large blue ping pong table with white lines and a wooden paddle on the left side.
 The image shows an indoor setting with a blue ping pong table in the center, surrounded by chairs and tables, with a large window allowing natural light to enter.
+An image with seven chairs, a dining, a table, a wall, a floor, a curtain, a window, and a couch.
+An image with a wall, seven chairs, a floor, a couch, a window, a table, a curtain, and a dining.
+An image with seven chairs, a curtain, a window, a wall, a floor, a dining, a couch, and a table.
+An image with seven chairs, a window, a floor, a couch, a table, a dining, a wall, and a curtain.
+An image with a couch, a curtain, seven chairs, a table, a wall, a window, a floor, and a dining.

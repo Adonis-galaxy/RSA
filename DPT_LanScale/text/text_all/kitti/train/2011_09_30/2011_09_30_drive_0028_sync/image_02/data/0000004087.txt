@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, and a person riding a bic
 A quiet suburban street, lined with parked cars and a lone bicycle, under the shade of leafy trees, with a hint of sunlight filtering through.
 A narrow street lined with parked cars and trees, with a large truck and two green trash cans on the right side.
 A narrow, tree-lined street with parked cars and a truck, leading to a clearing with a green dumpster and a sign.
+An image with four cars, a bridge, a sky, a truck, a pavement, a bicycle, a tree, and a road.
+An image with four cars, a sky, a truck, a tree, a bicycle, a pavement, a bridge, and a road.
+An image with a bicycle, four cars, a road, a tree, a sky, a truck, a bridge, and a pavement.
+An image with a sky, a truck, four cars, a pavement, a road, a bicycle, a bridge, and a tree.
+An image with a sky, four cars, a pavement, a truck, a road, a bicycle, a bridge, and a tree.

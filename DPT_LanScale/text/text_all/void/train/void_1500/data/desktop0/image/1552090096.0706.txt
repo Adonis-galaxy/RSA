@@ -8,3 +8,8 @@ A small wooden desk with a model ship on top.
 A small wooden desk with a model ship on top, a stuffed penguin, and a key locker.
 A small wooden desk with a model ship on top, a stuffed penguin, and a key locker.
 A wooden desk with a model ship on top, a stuffed penguin, and a white power strip.
+An image with a window, a light, a table, a cabinet, a floor, a wall, a chair, a bird, a clock, and a couch.
+An image with a wall, a couch, a table, a clock, a floor, a window, a bird, a light, a cabinet, and a chair.
+An image with a table, a clock, a floor, a bird, a cabinet, a wall, a chair, a light, a couch, and a window.
+An image with a light, a couch, a bird, a wall, a clock, a window, a table, a cabinet, a floor, and a chair.
+An image with a chair, a light, a window, a couch, a bird, a wall, a table, a clock, a cabinet, and a floor.

@@ -8,3 +8,8 @@ The image shows a kitchen counter with a white box on it.
 The image shows a small, orange kitchen counter with a white sink and a white cabinet.
 The image shows a small, orange kitchen counter with a white sink and a white cabinet.
 The image shows a small, orange-colored kitchen counter with a white sink and a white cabinet underneath.
+An image with a cup, a wall, a paper, a cabinet, a table, and a sink.
+An image with a paper, a cup, a table, a cabinet, a wall, and a sink.
+An image with a cabinet, a sink, a table, a paper, a wall, and a cup.
+An image with a paper, a cabinet, a sink, a cup, a wall, and a table.
+An image with a table, a sink, a paper, a wall, a cup, and a cabinet.

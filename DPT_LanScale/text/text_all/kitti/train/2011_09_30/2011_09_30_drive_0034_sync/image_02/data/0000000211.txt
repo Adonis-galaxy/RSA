@@ -8,3 +8,8 @@ A narrow alleyway between two walls.
 A narrow, sunlit alleyway between two walls, with a red trash can and a green hedge.
 The image shows a narrow, sunlit alleyway between two walls, with a red trash can on the right side.
 A narrow, sunlit alleyway between two walls, with a brick path, a red trash can, and a green hedge.
+An image with two walls, a fence, a pavement, a car, a tree, a house, and a sky.
+An image with a house, a fence, two walls, a tree, a sky, a pavement, and a car.
+An image with a fence, a pavement, two walls, a tree, a house, a sky, and a car.
+An image with a car, two walls, a house, a pavement, a tree, a fence, and a sky.
+An image with a tree, two walls, a pavement, a fence, a house, a sky, and a car.

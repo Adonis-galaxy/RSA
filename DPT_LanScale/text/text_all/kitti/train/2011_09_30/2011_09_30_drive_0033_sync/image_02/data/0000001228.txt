@@ -8,3 +8,8 @@ The image shows a white van parked on the side of a street.
 A white van parked on a shaded street, with a brick building and trees in the background.
 A white van is parked on the side of a narrow street lined with trees and houses.
 A narrow street with parked cars, a sidewalk, and a fence on the right side.
+An image with two walls, five cars, a house, a tree, a pavement, a fence, a sky, and a road.
+An image with a fence, five cars, a sky, a pavement, two walls, a house, a road, and a tree.
+An image with a tree, five cars, a sky, two walls, a road, a house, a pavement, and a fence.
+An image with a road, a pavement, two walls, a tree, a house, five cars, a fence, and a sky.
+An image with a road, a tree, a sky, two walls, five cars, a fence, a house, and a pavement.

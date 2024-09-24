@@ -8,3 +8,8 @@ A row of black office chairs.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and mouse, and black chairs.
 The image shows a computer lab with multiple desks, each equipped with a keyboard and mouse, and black chairs with silver legs.
 The image shows a row of black chairs with silver legs, positioned in front of a long wooden desk with multiple computer monitors and keyboards.
+An image with two tvs, four chairs, a table, a wall, two keyboards, two mice, and a floor.
+An image with a table, four chairs, two keyboards, two mice, a floor, two tvs, and a wall.
+An image with two tvs, four chairs, two keyboards, a table, a floor, two mice, and a wall.
+An image with two mice, two tvs, four chairs, two keyboards, a floor, a table, and a wall.
+An image with two mice, a table, two keyboards, four chairs, a floor, two tvs, and a wall.

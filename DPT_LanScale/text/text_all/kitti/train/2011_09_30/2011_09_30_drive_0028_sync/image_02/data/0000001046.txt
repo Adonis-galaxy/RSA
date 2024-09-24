@@ -8,3 +8,8 @@ The image shows a narrow street with cars parked on the side.
 The image captures a moment of tranquility on a tree-lined street, where a red car is parked on the side, waiting for its driver to return.
 A red car is parked on the side of a narrow street, with a white wall and trees in the background.
 A narrow, tree-lined street with parked cars and a pedestrian walkway.
+An image with eight cars, a wall, a pavement, a sky, a tree, a road, and a person.
+An image with eight cars, a road, a pavement, a person, a sky, a tree, and a wall.
+An image with a wall, a pavement, eight cars, a road, a person, a sky, and a tree.
+An image with a sky, eight cars, a tree, a pavement, a person, a road, and a wall.
+An image with eight cars, a wall, a pavement, a person, a road, a sky, and a tree.

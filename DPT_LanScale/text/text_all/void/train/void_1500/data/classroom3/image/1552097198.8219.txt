@@ -8,3 +8,8 @@ A black office chair with a white stripe.
 A black office chair tucked under a desk.
 A black office chair with a white stripe on the seat, positioned under a white desk.
 A black office chair with a white stripe on the seat is tucked under a white desk.
+An image with a mouse, a wall, a table, two chairs, a keyboard, and a rug.
+An image with a keyboard, two chairs, a rug, a wall, a table, and a mouse.
+An image with a keyboard, a mouse, two chairs, a rug, a wall, and a table.
+An image with a wall, two chairs, a keyboard, a rug, a table, and a mouse.
+An image with two chairs, a table, a rug, a wall, a mouse, and a keyboard.

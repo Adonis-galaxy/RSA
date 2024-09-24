@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street with parked cars, a pedestrian, and a bus stop, all under a clear blue sky.
 A man is walking on a sidewalk next to a row of parked cars on a tree-lined street.
 A tree-lined street with parked cars, a crosswalk, and a pedestrian walking on the sidewalk.
+An image with nine cars, a road, a traffic, a building, a person, a grass, a roof, a pavement, a tree, and a sky.
+An image with a pavement, nine cars, a tree, a grass, a building, a traffic, a person, a road, a roof, and a sky.
+An image with nine cars, a road, a sky, a person, a building, a grass, a pavement, a roof, a traffic, and a tree.
+An image with a road, a roof, a building, nine cars, a person, a traffic, a pavement, a sky, a grass, and a tree.
+An image with a roof, a tree, a pavement, nine cars, a traffic, a grass, a road, a sky, a building, and a person.

@@ -8,3 +8,8 @@ The image shows a row of black chairs with orange desks.
 The image shows a row of black chairs with orange desks, arranged in a classroom setting.
 The image shows a row of black chairs with orange desks, all sitting on a tiled floor.
 The image shows a row of black chairs with orange desks, arranged in a classroom setting.
+An image with a dining, ten chairs, and a floor.
+An image with ten chairs, a dining, and a floor.
+An image with ten chairs, a floor, and a dining.
+An image with a floor, ten chairs, and a dining.
+An image with ten chairs, a floor, and a dining.

@@ -8,3 +8,8 @@ A woman walking down a tree-lined street.
 A woman in a white tank top walks down a tree-lined street, passing by a woman in a red jacket who is walking her dog.
 A woman in a white tank top walks down a narrow, sunlit street lined with houses and trees, with a dog on a leash.
 A woman walks down a tree-lined street between two-story buildings, with a dog on a leash.
+An image with four cars, a house, a tree, a dog, two people, a road, a sky, a fence, and a pavement.
+An image with a house, four cars, a tree, a dog, a fence, a sky, two people, a road, and a pavement.
+An image with four cars, two people, a fence, a house, a dog, a road, a pavement, a tree, and a sky.
+An image with a sky, a road, four cars, a dog, a pavement, two people, a tree, a house, and a fence.
+An image with a fence, a house, a sky, four cars, a road, a pavement, two people, a dog, and a tree.

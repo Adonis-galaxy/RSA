@@ -8,3 +8,8 @@ A room with a dining table and chairs.
 A cozy dining area with a warm ambiance, featuring a table surrounded by chairs, a potted plant, and a basket of stuffed animals.
 A large dining table surrounded by six chairs, with a potted plant and a basket of stuffed animals in the foreground.
 A well-lit dining room with a round table surrounded by six chairs, a potted plant, and a basket of stuffed animals.
+An image with six chairs, a potted, a ceiling, a dining, a wall, a window, and a floor.
+An image with six chairs, a window, a dining, a floor, a potted, a ceiling, and a wall.
+An image with six chairs, a ceiling, a floor, a window, a potted, a wall, and a dining.
+An image with a wall, six chairs, a potted, a ceiling, a window, a dining, and a floor.
+An image with a floor, a wall, a dining, six chairs, a window, a ceiling, and a potted.

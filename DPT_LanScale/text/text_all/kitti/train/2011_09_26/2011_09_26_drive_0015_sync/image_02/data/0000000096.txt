@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a tranquil day on a tree-lined street, with a car driving away from the viewer, and a train passing by on the adjacent tracks, creating a sense of movement and life in the otherwise serene setting.
 A large black car is driving down a wide, tree-lined street with a train track running parallel to it.
 The image depicts a wide, tree-lined road with a train track running parallel to it, flanked by parked cars and a few moving vehicles, including a motorcycle, under a clear blue sky.
+An image with seven cars, a tree, a railroad, a road, a grass, a sky, and a traffic.
+An image with a traffic, seven cars, a sky, a railroad, a grass, a tree, and a road.
+An image with a tree, a railroad, seven cars, a grass, a sky, a road, and a traffic.
+An image with a sky, seven cars, a traffic, a railroad, a grass, a tree, and a road.
+An image with a grass, seven cars, a tree, a traffic, a road, a sky, and a railroad.

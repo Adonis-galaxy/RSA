@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a serene suburban scene with a clear blue sky, a curving road leading to a residential area, and a lush green field with trees and bushes.
 The image shows a street sign on a pole, with a blue sky background and a road leading to a residential area with houses and trees.
 The image shows a street corner with a signpost, a road leading to a residential area, and a grassy area with trees.
+An image with a house, a tree, a sky, a fence, a road, a grass, and a pavement.
+An image with a house, a road, a tree, a pavement, a grass, a fence, and a sky.
+An image with a grass, a pavement, a fence, a house, a road, a tree, and a sky.
+An image with a tree, a house, a fence, a road, a pavement, a sky, and a grass.
+An image with a grass, a sky, a pavement, a house, a fence, a road, and a tree.

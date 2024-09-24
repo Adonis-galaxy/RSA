@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white van.
 The image captures a quiet residential street, with parked cars and a clear sky, reflecting a peaceful suburban setting.
 A white van is parked on the side of a narrow street between two houses, with a black car parked in front of it.
 A quiet residential street with parked cars and a clear sky.
+An image with three cars, a grass, a road, a truck, a house, a pavement, a tree, and a sky.
+An image with a truck, a road, three cars, a house, a tree, a pavement, a sky, and a grass.
+An image with three cars, a road, a truck, a tree, a pavement, a sky, a grass, and a house.
+An image with three cars, a road, a house, a grass, a truck, a sky, a pavement, and a tree.
+An image with a house, a road, three cars, a pavement, a sky, a grass, a truck, and a tree.

@@ -8,3 +8,8 @@ A man standing at a table with a laptop and a bag.
 A man is standing at a desk with a laptop, a bag of trash, and a box of tissues.
 A man in a red jacket is standing at a desk with two laptops, a whiteboard, and a plastic bag.
 A man is standing at a table with two laptops, a bag of trash, and a red box on a shelf.
+An image with a person, two laptops, a book, a wall, a cup, a table, a floor, and a chair.
+An image with a person, a wall, a floor, a chair, a table, a book, a cup, and two laptops.
+An image with a chair, a floor, a person, two laptops, a cup, a wall, a book, and a table.
+An image with a wall, a table, a person, a floor, two laptops, a cup, a book, and a chair.
+An image with a chair, two laptops, a cup, a person, a book, a floor, a table, and a wall.

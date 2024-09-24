@@ -8,3 +8,8 @@ The image shows a computer desk with two monitors and a keyboard.
 The image shows a computer desk with two monitors, a keyboard, and a chair.
 The image shows a computer desk with two computer monitors, two keyboards, and two chairs.
 The image shows a computer desk with two monitors, a keyboard, and a chair, set against a white wall.
+An image with three tvs, a rug, a keyboard, a chair, a table, and a wall.
+An image with a wall, three tvs, a rug, a table, a chair, and a keyboard.
+An image with a rug, three tvs, a wall, a table, a keyboard, and a chair.
+An image with a table, three tvs, a rug, a keyboard, a wall, and a chair.
+An image with three tvs, a chair, a keyboard, a table, a rug, and a wall.

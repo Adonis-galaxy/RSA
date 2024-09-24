@@ -8,3 +8,8 @@ A window with white curtains.
 The image captures a dimly lit room with a window covered by sheer curtains, revealing a glimpse of the outside world.
 The image shows a dimly lit room with a large window covered by sheer curtains, a door with a metal handle, and a small picture frame on the floor.
 The image shows a dimly lit room with a window covered by sheer curtains, a door with a metal handle, and a framed picture leaning against the wall.
+An image with a wall, a rug, a window, a door, a toothbrush, and a floor.
+An image with a floor, a door, a wall, a window, a toothbrush, and a rug.
+An image with a wall, a floor, a rug, a window, a toothbrush, and a door.
+An image with a floor, a wall, a rug, a toothbrush, a door, and a window.
+An image with a window, a rug, a floor, a toothbrush, a wall, and a door.

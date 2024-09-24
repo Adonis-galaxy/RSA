@@ -8,3 +8,8 @@ The image shows a street with parked cars and apartment buildings.
 The image captures a typical urban street scene with parked cars, apartment buildings, and a clear blue sky.
 The image shows a narrow street lined with parked cars, apartment buildings, and a red and blue sign.
 A narrow street lined with parked cars and buildings, with a red and blue sign indicating a no-turning-right restriction.
+An image with a tree, seven cars, two people, a stop, a grass, a pavement, a sky, a road, and a building.
+An image with seven cars, a sky, a tree, a grass, a stop, a pavement, a building, a road, and two people.
+An image with seven cars, a sky, a building, two people, a road, a tree, a stop, a grass, and a pavement.
+An image with a sky, seven cars, two people, a tree, a pavement, a stop, a grass, a road, and a building.
+An image with a stop, a tree, two people, seven cars, a road, a building, a grass, a sky, and a pavement.

@@ -8,3 +8,8 @@ A computer desk with a keyboard, monitor, and coffee cup.
 A computer desk with a keyboard, mouse, monitor, and coffee cup.
 A wooden desk with a computer monitor, keyboard, and coffee cup.
 A computer desk with a keyboard, mouse, monitor, and coffee cup.
+An image with three tvs, a cardboard, two cups, a table, a paper, a mouse, a floor, a wall, and a keyboard.
+An image with a mouse, three tvs, a keyboard, a wall, two cups, a table, a paper, a floor, and a cardboard.
+An image with a floor, three tvs, a table, a keyboard, two cups, a cardboard, a mouse, a paper, and a wall.
+An image with three tvs, a floor, two cups, a paper, a mouse, a table, a keyboard, a cardboard, and a wall.
+An image with two cups, a mouse, a paper, three tvs, a cardboard, a wall, a table, a keyboard, and a floor.

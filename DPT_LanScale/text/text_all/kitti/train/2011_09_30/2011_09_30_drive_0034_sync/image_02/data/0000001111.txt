@@ -8,3 +8,8 @@ A city street with parked cars and a bus.
 A quiet residential street with parked cars and a bus, lined with houses and trees, under a clear blue sky.
 A narrow street lined with houses, trees, and parked cars, with a large truck parked at the end.
 A narrow, tree-lined street with parked cars, a bus, and a truck, leading to a row of houses.
+An image with three cars, a fence, a person, a house, a wall, a gravel, a truck, a pavement, a tree, and a sky.
+An image with a wall, a sky, a house, a truck, a tree, a fence, three cars, a gravel, a pavement, and a person.
+An image with three cars, a sky, a person, a tree, a truck, a house, a pavement, a gravel, a fence, and a wall.
+An image with a pavement, a fence, three cars, a person, a tree, a sky, a truck, a house, a gravel, and a wall.
+An image with three cars, a tree, a wall, a person, a gravel, a fence, a sky, a truck, a house, and a pavement.

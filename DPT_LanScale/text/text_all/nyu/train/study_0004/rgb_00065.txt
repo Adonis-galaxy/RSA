@@ -8,3 +8,8 @@ A dark room with two striped chairs and a bookshelf.
 A cozy living room with a bookshelf and two striped armchairs, creating a warm and inviting atmosphere.
 The image shows a dimly lit room with two large, striped armchairs positioned in front of a bookshelf filled with books.
 A dimly lit living room with a bookshelf, two striped armchairs, and a rug.
+An image with a chair, twelve books, a door, a floor, a couch, a shelf, a rug, and a wall.
+An image with twelve books, a chair, a shelf, a wall, a floor, a couch, a rug, and a door.
+An image with a chair, a floor, twelve books, a rug, a shelf, a couch, a wall, and a door.
+An image with a door, twelve books, a shelf, a chair, a wall, a floor, a rug, and a couch.
+An image with twelve books, a door, a rug, a shelf, a wall, a couch, a floor, and a chair.

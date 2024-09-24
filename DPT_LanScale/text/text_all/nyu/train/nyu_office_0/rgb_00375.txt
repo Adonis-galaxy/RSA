@@ -8,3 +8,8 @@ A man sitting in a red chair in a cluttered office.
 A man in a gray sweater is sitting on a red chair in front of a desk with a computer, a monitor, and a keyboard, holding a game controller.
 A man is sitting in a red chair in a cluttered room with a large desk, multiple monitors, and various objects.
 A man in a gray sweater is sitting at a desk with a red chair, holding a game controller, in a cluttered room with a window, shelves, and a whiteboard.
+An image with five books, a backpack, a floor, a bottle, a table, two potteds, a wall, two windows, two tvs, three chairs, a person, a remote, and a shelf.
+An image with a floor, three chairs, five books, two potteds, two windows, a wall, two tvs, a remote, a table, a person, a shelf, a backpack, and a bottle.
+An image with five books, a person, three chairs, a remote, a wall, two potteds, a shelf, a table, two windows, a bottle, a backpack, two tvs, and a floor.
+An image with a person, two windows, two potteds, five books, two tvs, three chairs, a shelf, a remote, a floor, a backpack, a wall, a bottle, and a table.
+An image with five books, two potteds, a bottle, two windows, a remote, a shelf, a wall, a person, two tvs, three chairs, a backpack, a floor, and a table.

@@ -8,3 +8,8 @@ The image shows a busy street with cars and traffic lights.
 The image captures a moment of urban life, with a red car driving on a street lined with trees and buildings, passing under traffic lights and street signs, while a pedestrian waits to cross the road.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and surrounded by a suburban landscape with trees and buildings.
+An image with eight traffics, ten cars, a tree, a sky, a mountain, a grass, a house, and a road.
+An image with eight traffics, ten cars, a house, a tree, a grass, a mountain, a road, and a sky.
+An image with ten cars, eight traffics, a mountain, a sky, a tree, a road, a house, and a grass.
+An image with a grass, a sky, a mountain, ten cars, eight traffics, a tree, a house, and a road.
+An image with ten cars, eight traffics, a mountain, a house, a sky, a grass, a tree, and a road.

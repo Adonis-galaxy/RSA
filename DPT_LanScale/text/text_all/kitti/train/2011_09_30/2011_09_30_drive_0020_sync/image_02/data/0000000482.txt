@@ -8,3 +8,8 @@ The image shows a street with a number 30 painted on it.
 The image captures a quiet residential street, with a clear view of the numbered road, parked cars, and apartment buildings, all under a bright blue sky.
 The image shows a wide street with a number 30 painted on it, lined with parked cars and buildings on both sides, with a clear blue sky overhead.
 The image shows a street with a numbered lane, parked cars, and buildings in the background, with a clear sky.
+An image with nine cars, two trucks, a tree, a fence, a road, a pavement, a building, and a grass.
+An image with two trucks, nine cars, a tree, a pavement, a road, a fence, a grass, and a building.
+An image with a road, a grass, nine cars, a building, a fence, a pavement, a tree, and two trucks.
+An image with nine cars, a tree, a pavement, two trucks, a grass, a road, a building, and a fence.
+An image with a pavement, a tree, nine cars, a road, two trucks, a fence, a building, and a grass.

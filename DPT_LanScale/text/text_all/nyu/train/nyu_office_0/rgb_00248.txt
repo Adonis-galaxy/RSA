@@ -8,3 +8,8 @@ The image is a black and white photograph of an interior hallway.
 The image captures a dark hallway with a doorway leading to a well-lit room, creating a contrast between the illuminated interior and the dimly lit exterior.
 The image shows a dark hallway with a doorway leading to a room with a desk and a chair, and a window with a view of a building.
 The image shows a dark hallway with a doorway leading to a room with a desk and a red chair, illuminated by a single light source.
+An image with a ceiling, a light, a wall, a floor, a refrigerator, a door, a dining, and a chair.
+An image with a chair, a dining, a wall, a light, a refrigerator, a door, a floor, and a ceiling.
+An image with a light, a dining, a refrigerator, a wall, a floor, a door, a chair, and a ceiling.
+An image with a door, a ceiling, a refrigerator, a floor, a wall, a light, a dining, and a chair.
+An image with a chair, a ceiling, a floor, a light, a dining, a wall, a refrigerator, and a door.

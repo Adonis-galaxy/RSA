@@ -8,3 +8,8 @@ The image shows a street scene with a blue van driving on the road.
 The image captures a bustling city street, with a mix of vehicles and pedestrians, set against a backdrop of lush greenery and clear skies.
 The image shows a wide, tree-lined road with a few cars and a truck, and a clear sky overhead.
 A tree-lined road with a blue van driving on the right side, passing under a bridge, with a clear sky overhead.
+An image with five cars, a sky, a tree, a truck, a road, a grass, a bus, and a house.
+An image with five cars, a road, a grass, a truck, a house, a sky, a tree, and a bus.
+An image with a tree, five cars, a truck, a grass, a sky, a bus, a road, and a house.
+An image with a truck, five cars, a tree, a grass, a sky, a road, a house, and a bus.
+An image with a grass, five cars, a truck, a road, a sky, a bus, a house, and a tree.

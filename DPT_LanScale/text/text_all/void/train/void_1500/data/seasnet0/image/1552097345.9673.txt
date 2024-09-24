@@ -8,3 +8,8 @@ A row of desktop computers on a long table.
 A computer lab with multiple desks, each equipped with a computer and a keyboard.
 The image shows a room with a long table containing multiple computer monitors, keyboards, and mice, with several chairs around the table.
 The image shows a long table with multiple computer monitors, keyboards, and mice, with black chairs on either side, and a large monitor at the end of the table.
+An image with two mice, eight tvs, four chairs, a wall, four keyboards, a table, and a rug.
+An image with four keyboards, eight tvs, two mice, four chairs, a wall, a table, and a rug.
+An image with eight tvs, a wall, four chairs, four keyboards, two mice, a table, and a rug.
+An image with four chairs, eight tvs, a table, four keyboards, two mice, a wall, and a rug.
+An image with two mice, four chairs, eight tvs, a table, four keyboards, a rug, and a wall.

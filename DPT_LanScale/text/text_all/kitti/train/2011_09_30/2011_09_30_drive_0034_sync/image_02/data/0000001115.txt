@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with parked cars and a large truck, under a clear blue sky.
 A narrow street lined with houses, trees, and parked cars, with a large truck driving down it.
 A narrow, tree-lined street in a residential area, with parked cars, a truck, and a pedestrian, leading to a white house with a balcony.
+An image with three cars, a house, a truck, a person, a tree, a sky, a gravel, and a wall.
+An image with a truck, a tree, three cars, a house, a sky, a gravel, a wall, and a person.
+An image with a gravel, three cars, a sky, a tree, a house, a truck, a wall, and a person.
+An image with three cars, a house, a tree, a person, a wall, a sky, a truck, and a gravel.
+An image with three cars, a truck, a tree, a gravel, a person, a house, a wall, and a sky.

@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A quiet suburban street, lined with trees and houses, with a single car parked at the end.
 A narrow, tree-lined street with parked cars and a large wall on the right side.
 A tree-lined street with parked cars and a house in the background.
+An image with three cars, a dirt, a sky, a tree, a house, a road, and a wall.
+An image with three cars, a sky, a wall, a dirt, a house, a tree, and a road.
+An image with a sky, three cars, a wall, a dirt, a tree, a road, and a house.
+An image with three cars, a wall, a sky, a tree, a house, a dirt, and a road.
+An image with three cars, a dirt, a house, a wall, a road, a sky, and a tree.

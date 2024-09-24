@@ -8,3 +8,8 @@ A white ball on a black couch.
 A white ball is sitting on a black couch, next to a gray jacket.
 A small white ball is sitting on a black leather couch.
 A white ball is sitting on a black leather couch, which is positioned against a white wall.
+An image with a wall, a book, a sports, and a couch.
+An image with a wall, a sports, a book, and a couch.
+An image with a book, a sports, a wall, and a couch.
+An image with a book, a wall, a sports, and a couch.
+An image with a wall, a sports, a book, and a couch.

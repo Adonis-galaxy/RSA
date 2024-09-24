@@ -8,3 +8,8 @@ A blue basket with sugar packets on a counter.
 A small table with a blue basket of sugar packets, a white container of stir sticks, and a blue basket of sugar packets.
 A small table with a blue basket of sugar packets, a white cup with wooden stirrers, and a blue basket of sugar packets.
 A small table with a blue basket of sugar packets, a white container with wooden stirrers, and a blue basket of sugar packets.
+An image with a cup, a table, and a wall.
+An image with a table, a wall, and a cup.
+An image with a cup, a wall, and a table.
+An image with a table, a cup, and a wall.
+An image with a wall, a table, and a cup.

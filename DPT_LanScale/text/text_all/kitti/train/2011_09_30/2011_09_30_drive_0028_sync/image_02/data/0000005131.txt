@@ -8,3 +8,8 @@ The image shows a street scene with a car, a parking meter, and a trash can.
 The image captures a typical day on a suburban street, with a car driving past a parked car, a parking meter, and a trash can, all set against the backdrop of a residential area with trees and a clear blue sky.
 The image shows a street scene with a car, a parking meter, a trash can, and a tree. The parking meter is large, the trash can is medium-sized, and the tree is small.
 The image shows a street scene with a parked silver car, a white parking meter, a white trash can, a sidewalk, a grassy area, a building, and trees.
+An image with seven cars, a tree, a refrigerator, a pavement, a sky, a road, a grass, and a fire.
+An image with a tree, a road, seven cars, a pavement, a sky, a grass, a fire, and a refrigerator.
+An image with seven cars, a refrigerator, a sky, a grass, a fire, a road, a tree, and a pavement.
+An image with seven cars, a tree, a refrigerator, a fire, a sky, a grass, a road, and a pavement.
+An image with seven cars, a refrigerator, a pavement, a tree, a fire, a sky, a grass, and a road.

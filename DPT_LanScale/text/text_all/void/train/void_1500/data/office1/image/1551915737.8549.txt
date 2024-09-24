@@ -8,3 +8,8 @@ A table with books and a roll of paper.
 A table with a roll of paper towels, a book, and a remote control.
 A table with a white roll of paper, a book, and a remote control.
 The image shows a table with a few books and a roll of paper on it, with chairs around it, and a window in the background.
+An image with a table, a window, three chairs, three books, a cell, a cup, a wall, a dining, and a laptop.
+An image with three books, a table, a cup, a dining, a laptop, three chairs, a cell, a window, and a wall.
+An image with a cell, three books, a dining, a wall, three chairs, a cup, a window, a table, and a laptop.
+An image with three chairs, a laptop, a wall, a cup, a table, a cell, three books, a window, and a dining.
+An image with a window, three books, a laptop, a dining, a cell, a cup, three chairs, a table, and a wall.

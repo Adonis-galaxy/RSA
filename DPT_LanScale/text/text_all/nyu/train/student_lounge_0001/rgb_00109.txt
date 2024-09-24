@@ -8,3 +8,8 @@ A blue ping pong table in a room.
 The image captures a room with a ping pong table, a couch, and a bookshelf, all under a window with a closed blind.
 The image shows a room with a large blue ping pong table, a red wall, a white window, a wooden bookshelf, and a couch.
 The image shows an indoor room with a ping pong table, a couch, a bookshelf, and a window with a closed blind.
+An image with a couch, a window, a curtain, a floor, a wall, a shelf, and a table.
+An image with a shelf, a window, a wall, a table, a curtain, a floor, and a couch.
+An image with a shelf, a table, a window, a floor, a couch, a wall, and a curtain.
+An image with a curtain, a window, a table, a shelf, a wall, a couch, and a floor.
+An image with a couch, a shelf, a window, a curtain, a wall, a table, and a floor.

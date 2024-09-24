@@ -8,3 +8,8 @@ A yellow car parked on a street.
 A yellow car parked on a shaded street, with a white fence and house in the background.
 A small yellow car is parked on a narrow street between two white fences.
 A narrow, tree-lined street with parked cars and a white fence on the right side.
+An image with a road, a pavement, a wall, three cars, a sky, a tree, and a house.
+An image with a sky, a pavement, three cars, a wall, a road, a house, and a tree.
+An image with a tree, a sky, a pavement, a house, a wall, a road, and three cars.
+An image with a road, three cars, a wall, a sky, a pavement, a house, and a tree.
+An image with three cars, a road, a house, a tree, a pavement, a sky, and a wall.

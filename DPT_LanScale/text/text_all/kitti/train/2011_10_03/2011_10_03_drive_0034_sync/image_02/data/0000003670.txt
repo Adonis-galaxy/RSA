@@ -8,3 +8,8 @@ The image shows a narrow street with a blue car parked on the side.
 A quiet suburban street, lined with lush greenery and a blue car parked at the end, inviting a peaceful drive down the tree-lined road.
 The image shows a narrow, tree-lined street with a blue car parked on the right side, a white building with a gray roof on the left, and a fence on the left side.
 A narrow, tree-lined street with a blue car parked on the right side, leading to a white house with a gray roof.
+An image with a pavement, a fence, a tree, a road, a sky, a car, and a house.
+An image with a car, a road, a fence, a pavement, a house, a tree, and a sky.
+An image with a road, a pavement, a fence, a sky, a tree, a car, and a house.
+An image with a tree, a fence, a sky, a house, a road, a car, and a pavement.
+An image with a road, a house, a fence, a pavement, a car, a sky, and a tree.

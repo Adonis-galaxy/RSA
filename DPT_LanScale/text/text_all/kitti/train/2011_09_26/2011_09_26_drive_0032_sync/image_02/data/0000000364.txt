@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic lights.
 The image captures a moment of everyday life on a rural highway, with vehicles in motion and traffic lights guiding the flow of traffic.
 The image shows a wide, empty road with a few cars and trucks, a railroad crossing, and traffic lights.
 The image depicts a rural highway with multiple lanes, a divided median, and traffic lights, all under a bright, sunny sky.
+An image with three traffics, four cars, a sky, a tree, a road, a grass, and a truck.
+An image with three traffics, four cars, a road, a grass, a tree, a sky, and a truck.
+An image with a tree, three traffics, a sky, a road, four cars, a grass, and a truck.
+An image with a sky, four cars, three traffics, a truck, a grass, a road, and a tree.
+An image with a grass, four cars, a truck, three traffics, a sky, a tree, and a road.

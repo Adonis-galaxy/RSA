@@ -8,3 +8,8 @@ A blurry image of a gray office chair.
 A gray office chair in front of a bulletin board.
 The image shows a small gray office chair in front of a large white poster board on a beige wall, with a wooden desk and a black computer tower to the left.
 The image shows a small office space with a desk, chair, and a bulletin board on the wall.
+An image with a cabinet, a wall, a window, a paper, a door, two chairs, and a floor.
+An image with a cabinet, two chairs, a wall, a floor, a window, a paper, and a door.
+An image with a floor, a door, a window, two chairs, a wall, a cabinet, and a paper.
+An image with a wall, a window, a floor, two chairs, a door, a paper, and a cabinet.
+An image with two chairs, a paper, a cabinet, a wall, a floor, a door, and a window.

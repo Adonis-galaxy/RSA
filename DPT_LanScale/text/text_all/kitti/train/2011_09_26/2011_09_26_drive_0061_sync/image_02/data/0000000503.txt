@@ -8,3 +8,8 @@ A narrow, tree-lined road.
 A narrow, tree-lined road leads to a quaint, arched brick entrance, with a parked car and a solitary figure in the distance, under a clear blue sky.
 A narrow, tree-lined road with a brick wall on the right side, a car parked on the left, and a wooden door on the left side of the brick wall.
 A narrow, tree-lined road leads to a brick archway, with a car parked on the right side and a lamp post on the left.
+An image with a pavement, a sky, a fence, a tree, a road, two walls, a door, and a car.
+An image with a pavement, two walls, a tree, a road, a sky, a door, a fence, and a car.
+An image with two walls, a pavement, a car, a sky, a fence, a door, a road, and a tree.
+An image with a sky, a road, a door, two walls, a fence, a pavement, a tree, and a car.
+An image with a road, a pavement, two walls, a sky, a tree, a car, a fence, and a door.

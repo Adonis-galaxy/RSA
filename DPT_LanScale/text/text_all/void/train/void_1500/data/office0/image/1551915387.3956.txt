@@ -8,3 +8,8 @@ A black leather couch with a wooden table in front of it.
 A wooden table is placed next to a black couch in a room.
 A small wooden table is placed next to a black leather couch.
 A black leather couch with a wooden side table in a room.
+An image with a rug, a couch, a refrigerator, a door, a towel, and a wall.
+An image with a couch, a door, a wall, a refrigerator, a towel, and a rug.
+An image with a rug, a towel, a couch, a refrigerator, a door, and a wall.
+An image with a wall, a refrigerator, a couch, a towel, a rug, and a door.
+An image with a towel, a wall, a door, a couch, a rug, and a refrigerator.

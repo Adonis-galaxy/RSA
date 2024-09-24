@@ -8,3 +8,8 @@ A white printer on a green counter.
 A white printer on a green counter next to a white printer.
 A white printer on a green counter next to a white printer with a yellow sign on it.
 The image shows a green counter with a white printer on top, a white printer on the right, and a white printer on the left.
+An image with a paper, a wall, a cabinet, and a oven.
+An image with a wall, a paper, a cabinet, and a oven.
+An image with a cabinet, a paper, a wall, and a oven.
+An image with a wall, a cabinet, a paper, and a oven.
+An image with a cabinet, a wall, a oven, and a paper.

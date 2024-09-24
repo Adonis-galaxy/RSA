@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a fence, and a car.
 The image captures a quiet residential street, with a white building on the right, a fence on the left, and a few parked cars in the middle, all under a clear blue sky.
 The image shows a street scene with a white building on the right, a fence on the left, a car parked in the background, and a few trees along the sidewalk.
 The image shows a street scene with a white building on the right, a fenced area in the foreground, and a road with parked cars and a few pedestrians.
+An image with six cars, a fence, a road, a house, a tree, a building, and a grass.
+An image with a house, six cars, a building, a road, a tree, a grass, and a fence.
+An image with a tree, six cars, a grass, a road, a fence, a house, and a building.
+An image with a house, a road, a building, a tree, a fence, six cars, and a grass.
+An image with six cars, a building, a road, a house, a grass, a tree, and a fence.

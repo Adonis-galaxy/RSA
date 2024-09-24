@@ -8,3 +8,8 @@ A black car on a street.
 A black car is parked on the side of a street, adjacent to a white house with a green lawn, and a yellow bench is situated in front of the house.
 A black car is driving down a tree-lined street, passing a yellow bench and a white house with a black roof.
 A quiet residential street with a parked car, a bench, and houses on the side.
+An image with a bench, a road, a tree, a pavement, a house, a car, and a grass.
+An image with a tree, a house, a grass, a bench, a pavement, a road, and a car.
+An image with a car, a tree, a pavement, a house, a road, a grass, and a bench.
+An image with a car, a grass, a house, a tree, a road, a bench, and a pavement.
+An image with a road, a pavement, a house, a grass, a tree, a car, and a bench.

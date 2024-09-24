@@ -8,3 +8,8 @@ A silver car driving on a highway.
 A silver car on a highway, with a clear blue sky above and a line of trees and buildings in the distance.
 A silver car is driving on a highway with a clear blue sky and a few clouds in the distance.
 A car is driving on a highway with a bridge in the background, and there are buildings in the distance.
+An image with two cars, a road, a tree, a grass, a building, and a fence.
+An image with two cars, a tree, a building, a fence, a road, and a grass.
+An image with a grass, two cars, a fence, a tree, a road, and a building.
+An image with a grass, a road, a building, two cars, a tree, and a fence.
+An image with a grass, a fence, a building, two cars, a road, and a tree.

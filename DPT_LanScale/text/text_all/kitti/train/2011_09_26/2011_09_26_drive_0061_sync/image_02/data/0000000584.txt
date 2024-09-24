@@ -8,3 +8,8 @@ A motorcycle parked on a street.
 A parked motorcycle on a narrow, shaded street, adjacent to a stone wall and a wooden fence, with a lush green hillside in the background.
 A motorcycle parked on a narrow street between a stone wall and a wooden fence.
 A narrow, shaded alleyway between two fences, with a parked motorcycle and a street lamp.
+An image with a road, two walls, a car, a motorcycle, a door, and a tree.
+An image with a door, a road, a motorcycle, a car, a tree, and two walls.
+An image with a tree, a motorcycle, a road, a car, a door, and two walls.
+An image with a car, a motorcycle, two walls, a door, a tree, and a road.
+An image with a door, a road, a car, two walls, a tree, and a motorcycle.

@@ -8,3 +8,8 @@ The image shows a garden with three wooden planters.
 The image shows a row of three wooden boards placed on a sandy surface, with a tree trunk in the background.
 The image shows a row of three wooden boards placed on a sandy area, with a tree trunk in the background.
 The image shows a garden area with a tree, a stone wall, and three wooden boards placed on the ground.
+An image with two floors, a wall, a tree, and a sand.
+An image with a tree, two floors, a wall, and a sand.
+An image with a sand, a tree, a wall, and two floors.
+An image with a wall, two floors, a sand, and a tree.
+An image with a sand, a tree, two floors, and a wall.

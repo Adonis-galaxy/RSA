@@ -8,3 +8,8 @@ A whiteboard with writing on it.
 The image captures a workspace with a laptop, a red chair, a desk with a whiteboard, a coffee table with bottles and a mug, and a person sitting in the chair.
 A small office with a whiteboard, a laptop, a red chair, a desk, a coffee mug, and several bottles.
 The image shows a workspace with a laptop, a red chair, a desk with a whiteboard, a cup, and several bottles.
+An image with two cups, two chairs, nine bottles, a table, a paper, a cabinet, a laptop, and a wall.
+An image with a paper, a laptop, nine bottles, a table, two chairs, two cups, a cabinet, and a wall.
+An image with nine bottles, a paper, two chairs, a cabinet, two cups, a laptop, a table, and a wall.
+An image with two chairs, two cups, nine bottles, a cabinet, a paper, a wall, a laptop, and a table.
+An image with a table, nine bottles, a paper, a laptop, a wall, two chairs, two cups, and a cabinet.

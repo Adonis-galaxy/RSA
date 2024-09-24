@@ -8,3 +8,8 @@ A woman in a white shirt and red shorts is cooking in a kitchen.
 A young woman in a white shirt and red shorts is cooking in a kitchen with a white refrigerator, a black and white checkered floor, and a painting on the wall.
 A woman in a white shirt and red shorts is standing in a kitchen, preparing food.
 A young woman in a white shirt and red shorts is cooking in a small, white kitchen with a black and white checkered floor.
+An image with three bottles, a floor, a ceiling, a wall, a cabinet, a person, a refrigerator, and a oven.
+An image with three bottles, a wall, a ceiling, a refrigerator, a person, a oven, a floor, and a cabinet.
+An image with a oven, three bottles, a ceiling, a wall, a floor, a cabinet, a refrigerator, and a person.
+An image with a wall, a floor, three bottles, a refrigerator, a person, a oven, a ceiling, and a cabinet.
+An image with a cabinet, a refrigerator, a oven, a person, a ceiling, three bottles, a floor, and a wall.

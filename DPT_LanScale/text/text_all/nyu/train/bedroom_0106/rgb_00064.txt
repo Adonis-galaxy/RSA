@@ -8,3 +8,8 @@ A small bedroom with a bed and a television.
 The image shows a small, simple bedroom with a bed, a television on a stand, and a lamp.
 The image shows a small room with a bed, a television on a stand, and a lamp.
 The image shows a small, neatly arranged bedroom with a bed, a television on a stand, and a lamp.
+An image with a tv, a light, a bed, a wall, and a rug.
+An image with a rug, a bed, a tv, a wall, and a light.
+An image with a light, a tv, a bed, a wall, and a rug.
+An image with a bed, a tv, a rug, a wall, and a light.
+An image with a rug, a bed, a wall, a tv, and a light.

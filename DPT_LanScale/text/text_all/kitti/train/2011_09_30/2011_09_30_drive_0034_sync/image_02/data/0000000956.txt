@@ -8,3 +8,8 @@ The image shows a street scene with a van parked on the side of the road.
 A narrow street in a residential area, with parked vehicles and houses on either side, under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a large van parked on the side of the road.
 A narrow street in a residential area with houses, trees, and a parked van.
+An image with a roof, a car, a sky, a truck, a tree, a house, a pavement, a wall, a road, and a fence.
+An image with a roof, a tree, a road, a pavement, a wall, a house, a fence, a sky, a truck, and a car.
+An image with a tree, a pavement, a road, a roof, a car, a fence, a house, a sky, a truck, and a wall.
+An image with a tree, a car, a truck, a wall, a house, a road, a roof, a fence, a sky, and a pavement.
+An image with a tree, a wall, a road, a car, a sky, a roof, a truck, a pavement, a fence, and a house.

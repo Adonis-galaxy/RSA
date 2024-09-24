@@ -8,3 +8,8 @@ The image is a photograph of an office space.
 The image captures a dimly lit office space with a desk, computer, and television, suggesting a workspace with limited natural light.
 The image shows an office with a large window, a desk with a computer monitor and a television, and a doorway leading to another room.
 The image shows an office space with a desk, computer, and television, viewed from a doorway leading to a hallway with a door at the end.
+An image with a ceiling, a wall, a paper, two tvs, a sink, a door, a window, a counter, a clock, and a floor.
+An image with a counter, a wall, two tvs, a sink, a clock, a ceiling, a door, a paper, a window, and a floor.
+An image with a counter, a paper, a window, a floor, two tvs, a ceiling, a door, a sink, a clock, and a wall.
+An image with a paper, a window, a clock, a ceiling, a counter, a wall, a sink, a door, a floor, and two tvs.
+An image with a ceiling, a clock, two tvs, a door, a wall, a counter, a sink, a floor, a paper, and a window.

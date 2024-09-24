@@ -8,3 +8,8 @@ A classroom with a blue and white board and a desk.
 The image shows a classroom with a blue and white chalkboard, a desk with a computer monitor, and a table with a picture frame.
 The image shows a classroom with a large blue and white board, a desk with a computer monitor, and a projector.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a projector.
+An image with a light, a door, four chairs, a floor, a ceiling, a dining, and a wall.
+An image with four chairs, a dining, a ceiling, a door, a wall, a light, and a floor.
+An image with a door, four chairs, a floor, a light, a wall, a dining, and a ceiling.
+An image with four chairs, a light, a floor, a dining, a door, a wall, and a ceiling.
+An image with a ceiling, four chairs, a door, a dining, a light, a floor, and a wall.

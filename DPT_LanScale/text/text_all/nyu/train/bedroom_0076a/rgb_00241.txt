@@ -8,3 +8,8 @@ The image shows a room with two bunk beds and a chair.
 The image shows a room with two bunk beds, each with a blue and yellow checkered bedspread, and a gray chair positioned between them.
 The image shows a room with two bunk beds, each with a blue and yellow checkered bedspread, a gray chair, and a window with white blinds.
 The image shows a room with two bunk beds, one of which has a blue and yellow checkered bedspread, and a gray chair with a white bucket seat.
+An image with two beds, a window, a wall, a chair, and a floor.
+An image with a floor, a wall, two beds, a window, and a chair.
+An image with a window, two beds, a wall, a floor, and a chair.
+An image with two beds, a window, a floor, a chair, and a wall.
+An image with a floor, two beds, a wall, a chair, and a window.

@@ -8,3 +8,8 @@ A black chair in front of a desk.
 A black chair is positioned in front of a desk with a phone and a book on it.
 The image shows a small room with a desk, a chair, a window, and a book.
 The image shows a room with a desk, a chair, a window, and a book on the table.
+An image with a wall, a table, two books, a couch, a cabinet, a rug, a window, a dining, and a chair.
+An image with a table, a cabinet, a wall, a dining, a rug, two books, a couch, a chair, and a window.
+An image with a table, two books, a wall, a window, a rug, a cabinet, a chair, a couch, and a dining.
+An image with two books, a couch, a window, a cabinet, a table, a dining, a wall, a rug, and a chair.
+An image with a chair, two books, a dining, a table, a cabinet, a couch, a rug, a window, and a wall.

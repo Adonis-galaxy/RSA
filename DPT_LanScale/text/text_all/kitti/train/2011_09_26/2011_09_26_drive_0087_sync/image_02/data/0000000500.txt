@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A quiet residential street, with a blue tarp covering a white cart parked on the sidewalk, leading to a row of houses and a garage.
 A narrow alleyway between two buildings, with a blue tarp covering a white cart, a parked car, and a motorcycle.
 A narrow, tree-lined street with a mix of residential buildings, parked vehicles, and a blue tarp on a cart.
+An image with a tree, a fence, a wall, two cars, a roof, a road, a door, a pavement, a sky, and a truck.
+An image with two cars, a tree, a wall, a road, a door, a pavement, a roof, a fence, a truck, and a sky.
+An image with a fence, a wall, a road, a truck, a door, a sky, a pavement, two cars, a tree, and a roof.
+An image with a fence, a roof, two cars, a road, a truck, a wall, a pavement, a sky, a tree, and a door.
+An image with a road, a pavement, a tree, a sky, a fence, two cars, a door, a roof, a truck, and a wall.

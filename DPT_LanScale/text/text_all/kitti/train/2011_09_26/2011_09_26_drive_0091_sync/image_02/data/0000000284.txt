@@ -8,3 +8,8 @@ The image shows a narrow street with a train track running down the middle.
 The image captures a quaint, narrow street in a European city, where the old-world charm of the cobblestone pavement and the presence of a tram track evoke a sense of history and nostalgia.
 The image depicts a narrow, cobblestone street lined with shops and buildings, with a train track running down the middle.
 A narrow, cobblestone street with a tram track runs between two-story buildings, flanked by shops and pedestrians.
+An image with eleven people, a building, three bicycles, a railroad, a handbag, a tree, and a pavement.
+An image with eleven people, a handbag, a pavement, a railroad, three bicycles, a tree, and a building.
+An image with eleven people, a handbag, a tree, three bicycles, a railroad, a building, and a pavement.
+An image with three bicycles, eleven people, a railroad, a handbag, a tree, a building, and a pavement.
+An image with a tree, eleven people, three bicycles, a handbag, a building, a pavement, and a railroad.

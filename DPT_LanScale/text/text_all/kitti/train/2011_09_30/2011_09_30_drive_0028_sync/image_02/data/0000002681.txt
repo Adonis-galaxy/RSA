@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A cyclist rides on a street corner, with a parked bicycle and a street sign in the background, under a clear blue sky.
 A person riding a bicycle on a street corner, with a large tree in the background and a street sign in the foreground.
 A person riding a bicycle on a street corner, with a sign indicating the intersection of two roads, surrounded by trees and grass.
+An image with a road, a sky, a tree, a person, a grass, and a bicycle.
+An image with a tree, a road, a bicycle, a person, a grass, and a sky.
+An image with a road, a grass, a bicycle, a sky, a person, and a tree.
+An image with a sky, a person, a road, a tree, a bicycle, and a grass.
+An image with a grass, a person, a sky, a bicycle, a road, and a tree.

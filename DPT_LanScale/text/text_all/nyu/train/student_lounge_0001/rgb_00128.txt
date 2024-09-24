@@ -8,3 +8,8 @@ A blue ping pong table in a room.
 The image captures a well-lit indoor space featuring a ping pong table with a net, surrounded by chairs and tables, and a large window allowing natural light to enter.
 A large blue ping pong table is in the middle of a room with a view of a window and a bookshelf.
 The image shows an indoor setting with a blue ping pong table in the center, surrounded by chairs and tables, with a large window allowing natural light to enter the room.
+An image with twelve books, six chairs, a couch, a window, a ceiling, a wall, a dining, a table, and a floor.
+An image with twelve books, a window, six chairs, a couch, a ceiling, a wall, a dining, a floor, and a table.
+An image with six chairs, twelve books, a dining, a floor, a wall, a couch, a table, a window, and a ceiling.
+An image with twelve books, a table, six chairs, a wall, a ceiling, a window, a dining, a couch, and a floor.
+An image with six chairs, a table, a wall, twelve books, a dining, a couch, a window, a floor, and a ceiling.

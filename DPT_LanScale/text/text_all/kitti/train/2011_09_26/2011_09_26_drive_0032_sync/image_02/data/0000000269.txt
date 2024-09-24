@@ -8,3 +8,8 @@ The image is a photograph of a road with traffic.
 The image captures a clear day on a wide, empty road with a few cars, a blue sign indicating a right turn, and a traffic light in the distance.
 The image shows a wide, empty road with a few cars, a traffic light, and a blue sign with an arrow pointing to the right.
 The image depicts a wide, empty road with a clear view of traffic signs and signals, leading to a distant horizon where trees and buildings can be seen.
+An image with three traffics, four cars, a tree, a grass, a pavement, a road, a building, and a person.
+An image with three traffics, a grass, a tree, a person, four cars, a road, a building, and a pavement.
+An image with three traffics, four cars, a building, a pavement, a person, a tree, a grass, and a road.
+An image with a pavement, four cars, three traffics, a person, a tree, a road, a building, and a grass.
+An image with a grass, four cars, three traffics, a building, a person, a road, a pavement, and a tree.

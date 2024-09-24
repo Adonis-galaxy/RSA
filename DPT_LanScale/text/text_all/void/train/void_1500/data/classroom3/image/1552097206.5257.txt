@@ -8,3 +8,8 @@ A black office chair with silver legs.
 A black office chair with silver legs and a white cord plugged into a white outlet on a white wall.
 A black chair with silver legs and a black mouse on a white desk.
 The image shows a small office space with a desk, two chairs, and a computer mouse.
+An image with a tv, a table, two chairs, a mouse, a wall, a keyboard, and a rug.
+An image with a rug, a table, a tv, two chairs, a keyboard, a wall, and a mouse.
+An image with a rug, a tv, a keyboard, a wall, two chairs, a mouse, and a table.
+An image with a rug, two chairs, a keyboard, a mouse, a tv, a table, and a wall.
+An image with a wall, a tv, a mouse, a keyboard, two chairs, a table, and a rug.

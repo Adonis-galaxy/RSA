@@ -8,3 +8,8 @@ The image shows a road with a white line in the middle.
 The image captures a serene, tree-lined road with a single vehicle in motion, under a clear blue sky.
 A long, empty, two-lane road with a white center line, bordered by lush greenery and trees, leading to a distant town with a red roof.
 A winding, tree-lined road with a single vehicle in motion, leading to a distant town.
+An image with a tree, a road, a pavement, a sky, a car, and a grass.
+An image with a car, a pavement, a tree, a grass, a sky, and a road.
+An image with a grass, a sky, a tree, a pavement, a car, and a road.
+An image with a car, a tree, a grass, a sky, a pavement, and a road.
+An image with a road, a pavement, a car, a tree, a grass, and a sky.

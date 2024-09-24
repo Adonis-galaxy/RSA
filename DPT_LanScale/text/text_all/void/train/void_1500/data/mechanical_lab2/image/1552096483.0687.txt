@@ -8,3 +8,8 @@ A blue chair in front of a desk.
 A blue chair is positioned in front of a desk with a computer on it.
 A blue chair is sitting in front of a wooden desk with a keyboard and mouse on it.
 A blue chair is positioned in front of a desk with a computer and keyboard on it.
+An image with a wall, a table, two chairs, a floor, and a keyboard.
+An image with two chairs, a table, a keyboard, a wall, and a floor.
+An image with a table, a wall, a floor, two chairs, and a keyboard.
+An image with a wall, a table, a floor, a keyboard, and two chairs.
+An image with two chairs, a table, a keyboard, a floor, and a wall.

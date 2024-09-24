@@ -8,3 +8,8 @@ A man walking on a sidewalk.
 A man in a plaid shirt stands on a brick street, looking to his right, with a bicycle parked nearby and a train track running parallel to the street.
 A man is walking down a narrow street lined with buildings, trees, and a train track.
 A narrow, cobblestone street with a train track running down the middle, lined with buildings and pedestrians, and a man standing on the sidewalk.
+An image with nine people, a building, a tree, a railroad, three bicycles, and a pavement.
+An image with a railroad, nine people, three bicycles, a pavement, a tree, and a building.
+An image with nine people, a building, a railroad, three bicycles, a tree, and a pavement.
+An image with nine people, a railroad, a building, a tree, a pavement, and three bicycles.
+An image with nine people, a pavement, three bicycles, a building, a railroad, and a tree.

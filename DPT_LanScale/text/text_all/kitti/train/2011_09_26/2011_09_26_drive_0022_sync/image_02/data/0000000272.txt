@@ -8,3 +8,8 @@ A row of garage doors.
 A car is parked in front of a row of garage doors, which are closed and appear to be in a quiet, possibly rural, setting.
 A row of garage doors is visible, with a car parked in front of the largest one.
 A row of closed garage doors on a building, with a car parked on the street in front of them.
+An image with a pavement, a road, a tree, a building, a sky, and a car.
+An image with a car, a pavement, a building, a road, a tree, and a sky.
+An image with a pavement, a sky, a car, a road, a building, and a tree.
+An image with a pavement, a sky, a building, a tree, a road, and a car.
+An image with a road, a sky, a car, a tree, a building, and a pavement.

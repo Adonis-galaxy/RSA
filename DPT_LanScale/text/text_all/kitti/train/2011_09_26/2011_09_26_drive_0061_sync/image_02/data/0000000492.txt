@@ -8,3 +8,8 @@ A black car parked on a narrow street.
 A black Mercedes-Benz car parked on a narrow, tree-lined street, with a brick wall and a fence in the background.
 A black Mercedes-Benz car is parked on a narrow, tree-lined street, with a brick wall on the right side and a fence on the left.
 A black Mercedes-Benz car is parked on a narrow, tree-lined street, adjacent to a brick wall and a fence, with a clear sky above.
+An image with a tree, a road, a car, a wall, a sky, a pavement, and a door.
+An image with a door, a car, a pavement, a road, a sky, a tree, and a wall.
+An image with a road, a wall, a door, a car, a pavement, a sky, and a tree.
+An image with a road, a tree, a door, a car, a sky, a pavement, and a wall.
+An image with a road, a tree, a wall, a door, a sky, a pavement, and a car.

@@ -8,3 +8,8 @@ A narrow, sunlit street between houses.
 A quiet residential street, lined with houses and trees, under a bright sunny sky.
 The image shows a narrow, sunlit alleyway between two houses, with a few parked cars and a truck, a potted plant, and a small tree on the left side, and a larger tree and a bench on the right side.
 A narrow, tree-lined street with houses on both sides, leading to a white building with a brown roof.
+An image with a house, a tree, a truck, a pavement, a bench, a car, a roof, and a sky.
+An image with a house, a car, a bench, a tree, a roof, a sky, a pavement, and a truck.
+An image with a roof, a bench, a car, a pavement, a tree, a truck, a house, and a sky.
+An image with a sky, a roof, a tree, a house, a truck, a bench, a car, and a pavement.
+An image with a car, a bench, a truck, a roof, a sky, a pavement, a house, and a tree.

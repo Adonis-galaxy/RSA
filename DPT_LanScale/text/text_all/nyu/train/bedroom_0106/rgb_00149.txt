@@ -8,3 +8,8 @@ The image shows a hallway with a doorway leading to another room.
 The image captures a well-lit, spacious room with a doorway leading to another room, featuring a framed picture on the wall and a window with blinds.
 The image shows a hallway with a large picture on the wall, a doorway leading to another room, and a carpeted floor.
 The image shows a hallway with a doorway leading to another room, a picture hanging on the wall, and a view of a kitchen area.
+An image with a sink, a wall, two windows, a chair, a door, a oven, a bed, a rug, and a floor.
+An image with two windows, a wall, a oven, a chair, a rug, a door, a bed, a sink, and a floor.
+An image with a floor, a bed, a oven, two windows, a chair, a rug, a sink, a door, and a wall.
+An image with a floor, a oven, a door, a rug, a sink, two windows, a wall, a chair, and a bed.
+An image with a oven, a floor, a bed, a wall, a rug, a chair, two windows, a sink, and a door.

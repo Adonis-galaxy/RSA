@@ -8,3 +8,8 @@ A dog is walking down a tree-lined street.
 A dog is walking down a shaded street, with a person riding a motorcycle following behind.
 A dog is walking down a shaded street between two walls of greenery.
 A quiet suburban street with a motorcycle parked at the end, lined by trees and a low wall.
+An image with a grass, a sky, a person, a road, a pavement, a motorcycle, a wall, and a tree.
+An image with a motorcycle, a grass, a sky, a tree, a wall, a road, a pavement, and a person.
+An image with a wall, a grass, a person, a sky, a road, a motorcycle, a pavement, and a tree.
+An image with a grass, a tree, a wall, a motorcycle, a sky, a person, a pavement, and a road.
+An image with a pavement, a motorcycle, a person, a wall, a road, a tree, a grass, and a sky.

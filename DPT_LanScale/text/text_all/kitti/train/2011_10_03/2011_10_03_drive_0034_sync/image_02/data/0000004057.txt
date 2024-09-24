@@ -8,3 +8,8 @@ The image shows a street with a house and a car parked on the side.
 The image captures a serene residential street scene, with a house nestled amidst lush greenery, a sidewalk leading to a building, and a street marked with a playful animal design.
 The image shows a residential street scene with a large house, a smaller house, a fence, a sidewalk, and a driveway.
 The image shows a residential street with a curved road, a building with a curved roof, and a sidewalk with a curved edge.
+An image with a wall, a road, a building, a tree, a pavement, and a window.
+An image with a window, a building, a tree, a wall, a pavement, and a road.
+An image with a building, a road, a window, a tree, a pavement, and a wall.
+An image with a pavement, a window, a road, a building, a tree, and a wall.
+An image with a pavement, a window, a tree, a building, a wall, and a road.

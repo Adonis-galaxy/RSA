@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, with a mix of houses, trees, and parked vehicles, all under a clear blue sky.
 The image shows a residential street with a few parked cars, a white camper van, and a few trees with yellow leaves. The street is lined with houses and there is a clear blue sky overhead.
 A quiet residential street with a mix of houses, trees, and parked vehicles, leading to a cul-de-sac.
+An image with five cars, a road, a building, a stop, a tree, a sky, a grass, a pavement, and a bus.
+An image with five cars, a sky, a stop, a grass, a building, a tree, a bus, a pavement, and a road.
+An image with five cars, a tree, a grass, a building, a sky, a pavement, a road, a bus, and a stop.
+An image with a stop, a sky, five cars, a bus, a building, a road, a pavement, a grass, and a tree.
+An image with five cars, a sky, a stop, a road, a tree, a building, a pavement, a bus, and a grass.

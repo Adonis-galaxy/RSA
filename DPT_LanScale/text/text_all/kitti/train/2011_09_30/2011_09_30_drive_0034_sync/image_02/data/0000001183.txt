@@ -8,3 +8,8 @@ A large blue truck is driving down a narrow street between two houses.
 A large truck is parked on a narrow street between two buildings, with a car parked in front of it.
 A large truck is driving down a narrow street between two houses, with a car parked on the sidewalk.
 A large blue truck is parked on a narrow street between two white buildings, with a car parked on the sidewalk and a tree in front of the buildings.
+An image with a pavement, a car, a tree, a gravel, a wall, a sky, a truck, and a house.
+An image with a truck, a wall, a gravel, a tree, a car, a pavement, a sky, and a house.
+An image with a house, a truck, a sky, a pavement, a tree, a car, a wall, and a gravel.
+An image with a house, a car, a truck, a wall, a tree, a pavement, a gravel, and a sky.
+An image with a car, a pavement, a house, a truck, a gravel, a wall, a tree, and a sky.

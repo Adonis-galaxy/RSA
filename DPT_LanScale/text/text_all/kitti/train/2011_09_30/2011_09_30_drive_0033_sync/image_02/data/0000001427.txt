@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 The image captures a serene suburban street scene, with parked cars on the side of the road, a lush green canopy overhead, and a clear path leading to a distant horizon.
 The image shows a narrow road with three cars parked on the side, and a fence on the right side.
 A narrow, tree-lined street with parked cars and a fence on the right side.
+An image with five cars, a road, a grass, a sky, a fence, and a tree.
+An image with a tree, five cars, a grass, a sky, a fence, and a road.
+An image with a fence, a grass, five cars, a tree, a sky, and a road.
+An image with a tree, a fence, a road, a sky, five cars, and a grass.
+An image with a fence, a tree, five cars, a grass, a road, and a sky.

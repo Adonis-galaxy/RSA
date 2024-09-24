@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building with a street and trees, placed on a wooden stand.
 The image shows a small model of a building, with a street and trees, placed on a wooden stand.
 The image shows a model of a building with a street and sidewalk, placed on a wooden board.
+An image with a floor, a wall, a tree, and a building.
+An image with a tree, a wall, a building, and a floor.
+An image with a floor, a wall, a building, and a tree.
+An image with a wall, a floor, a tree, and a building.
+An image with a building, a floor, a wall, and a tree.

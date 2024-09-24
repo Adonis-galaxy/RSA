@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a serene, tree-lined road with a single vehicle in motion, under a clear blue sky.
 A large, blue and red circular sign with an arrow pointing to the right is visible on the right side of the road.
 A tree-lined road with a blue and red sign indicating a no left turn restriction.
+An image with a grass, two cars, a tree, a house, a wall, a pavement, a stop, a sky, and a road.
+An image with a road, a house, a sky, a stop, a tree, a grass, a pavement, two cars, and a wall.
+An image with a road, a grass, two cars, a stop, a pavement, a sky, a house, a wall, and a tree.
+An image with a tree, a sky, a house, a stop, two cars, a road, a grass, a wall, and a pavement.
+An image with a road, a sky, a house, two cars, a wall, a grass, a tree, a pavement, and a stop.

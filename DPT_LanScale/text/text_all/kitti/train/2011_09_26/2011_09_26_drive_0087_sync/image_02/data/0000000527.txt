@@ -8,3 +8,8 @@ A narrow street between two white houses.
 A quiet residential street, lined with houses and trees, leads to a parked car on the sidewalk.
 A narrow, tree-lined street with parked cars and a white house with a red roof.
 A narrow, tree-lined street leads to a white house with a red roof, flanked by parked cars and a fence.
+An image with a roof, two cars, a sky, a tree, a pavement, a fence, a road, and a house.
+An image with a house, a sky, a roof, a tree, a road, a fence, a pavement, and two cars.
+An image with two cars, a house, a tree, a road, a fence, a sky, a roof, and a pavement.
+An image with a fence, two cars, a roof, a pavement, a sky, a tree, a road, and a house.
+An image with a tree, a fence, two cars, a pavement, a sky, a roof, a road, and a house.

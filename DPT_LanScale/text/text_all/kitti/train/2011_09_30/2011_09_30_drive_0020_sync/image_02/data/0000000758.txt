@@ -8,3 +8,8 @@ The image shows a street with a row of houses on the right side.
 The image captures a serene residential street, lined with houses, trees, and parked cars, under a clear blue sky.
 The image shows a long, narrow street lined with parked cars and bicycles, flanked by buildings on both sides, with trees and signs adding to the urban setting.
 A long, tree-lined street with parked cars, bicycles, and pedestrians, leading to a row of white buildings with orange doors and windows.
+An image with a pavement, a road, nine cars, a house, a bicycle, a tree, a roof, and a grass.
+An image with nine cars, a road, a tree, a bicycle, a grass, a roof, a house, and a pavement.
+An image with nine cars, a pavement, a road, a house, a roof, a bicycle, a grass, and a tree.
+An image with a grass, nine cars, a pavement, a road, a tree, a bicycle, a roof, and a house.
+An image with nine cars, a tree, a roof, a bicycle, a pavement, a grass, a road, and a house.

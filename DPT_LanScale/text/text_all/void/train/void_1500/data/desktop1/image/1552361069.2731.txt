@@ -8,3 +8,8 @@ A computer desk with a keyboard, mouse, and a box of cheerios.
 A computer desk with a keyboard, mouse, and a box of snacks.
 A computer desk with a keyboard, mouse, monitor, and a small stuffed penguin.
 A computer desk with a keyboard, mouse, and a box of snacks.
+An image with a floor, a chair, a tv, a bird, a table, a wall, a mouse, a keyboard, and a cardboard.
+An image with a keyboard, a floor, a table, a cardboard, a mouse, a wall, a bird, a tv, and a chair.
+An image with a tv, a bird, a wall, a mouse, a cardboard, a keyboard, a chair, a floor, and a table.
+An image with a table, a wall, a cardboard, a chair, a keyboard, a mouse, a floor, a tv, and a bird.
+An image with a table, a tv, a mouse, a floor, a wall, a cardboard, a keyboard, a chair, and a bird.

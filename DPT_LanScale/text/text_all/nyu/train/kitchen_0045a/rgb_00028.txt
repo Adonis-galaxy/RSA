@@ -8,3 +8,8 @@ A kitchen with a wooden table and chairs.
 A cozy kitchen scene with a dining table surrounded by chairs, a baby high chair, and a playful toy box.
 The image shows a dining room with a large wooden table surrounded by six chairs, a highchair, and a play kitchen set.
 The image shows a dining room with a wooden table surrounded by six chairs, a highchair, and a play kitchen set on a tiled floor.
+An image with seven chairs, three bottles, two dinings, a wall, a cabinet, a microwave, a floor, and a window.
+An image with three bottles, seven chairs, a wall, two dinings, a window, a cabinet, a floor, and a microwave.
+An image with a wall, seven chairs, two dinings, a cabinet, three bottles, a window, a microwave, and a floor.
+An image with a floor, seven chairs, three bottles, two dinings, a microwave, a cabinet, a wall, and a window.
+An image with seven chairs, a floor, a microwave, three bottles, two dinings, a wall, a window, and a cabinet.

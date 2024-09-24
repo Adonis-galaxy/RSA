@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and houses.
 A quiet residential street, lined with parked cars and houses, under a clear sky.
 A black car is parked on a narrow street between two white houses, with a clear sky above.
 A narrow street in a residential area, with parked cars and houses on either side, leading to a dead-end.
+An image with a house, a road, a pavement, a sky, a tree, a wall, and two cars.
+An image with a road, a pavement, a wall, two cars, a house, a tree, and a sky.
+An image with two cars, a road, a wall, a tree, a sky, a pavement, and a house.
+An image with a house, a pavement, a road, a tree, a sky, two cars, and a wall.
+An image with a road, two cars, a tree, a pavement, a wall, a house, and a sky.

@@ -8,3 +8,8 @@ The image shows a street scene with two people riding bicycles.
 The image captures a moment of urban life, where two cyclists are riding down a tree-lined street, passing by parked cars and tall buildings, under a clear sky.
 A group of people riding bicycles down a narrow street between tall buildings.
 A narrow street in a European city, with tall buildings on both sides, is lined with parked cars and bicycles, and is shaded by trees.
+An image with a sky, eight cars, a building, three bicycles, a tree, four people, a pavement, and a road.
+An image with eight cars, a road, three bicycles, a pavement, four people, a building, a sky, and a tree.
+An image with four people, a tree, eight cars, three bicycles, a building, a pavement, a sky, and a road.
+An image with three bicycles, eight cars, four people, a sky, a tree, a pavement, a building, and a road.
+An image with eight cars, a road, three bicycles, a tree, a sky, four people, a pavement, and a building.

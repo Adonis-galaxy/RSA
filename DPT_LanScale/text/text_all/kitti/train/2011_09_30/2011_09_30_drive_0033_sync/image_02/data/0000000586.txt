@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building in the background
 The image captures a quiet residential street, with parked cars and a white van, under a clear blue sky.
 A white van is parked on the side of a narrow street, with a red van parked behind it, and a white house with a chimney in the background.
 A narrow street lined with parked cars and a white building with a red roof.
+An image with a sky, a road, four cars, a wall, a tree, a house, a pavement, and a truck.
+An image with four cars, a pavement, a truck, a tree, a sky, a wall, a road, and a house.
+An image with a pavement, a sky, a truck, a road, four cars, a house, a wall, and a tree.
+An image with a sky, four cars, a wall, a road, a truck, a house, a pavement, and a tree.
+An image with a pavement, four cars, a tree, a house, a road, a wall, a sky, and a truck.

@@ -8,3 +8,8 @@ The image shows a row of white chairs and tables.
 The image shows a row of white chairs and tables in a room, with the chairs facing the tables.
 The image shows a blurry view of a room with a long white table and several white chairs.
 The image shows a row of white chairs and tables in a room, with the chairs facing the tables.
+An image with two dinings, eight chairs, a floor, a wall, and a door.
+An image with a wall, eight chairs, two dinings, a floor, and a door.
+An image with eight chairs, two dinings, a floor, a door, and a wall.
+An image with eight chairs, a wall, two dinings, a door, and a floor.
+An image with eight chairs, a floor, two dinings, a door, and a wall.

@@ -8,3 +8,8 @@ A whiteboard with writing on it in an office setting.
 The image shows an office space with a whiteboard, a desk, a trash can, and a chair.
 The image shows an office space with a whiteboard, a desk with a chair, a trash can, and a cardboard box on a blue cushion.
 The image shows an office space with a whiteboard, a desk with a computer, a trash can, and a chair.
+An image with a wall, three chairs, a clock, a couch, a cardboard, a ceiling, a floor, and a paper.
+An image with a wall, three chairs, a couch, a cardboard, a clock, a floor, a paper, and a ceiling.
+An image with three chairs, a paper, a cardboard, a wall, a ceiling, a floor, a clock, and a couch.
+An image with a ceiling, a cardboard, a wall, three chairs, a paper, a floor, a clock, and a couch.
+An image with a ceiling, a clock, three chairs, a couch, a paper, a cardboard, a wall, and a floor.

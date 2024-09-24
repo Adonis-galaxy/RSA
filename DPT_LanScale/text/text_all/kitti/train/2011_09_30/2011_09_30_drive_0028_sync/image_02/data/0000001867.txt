@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down a tree-lined road.
 The image captures a serene residential street, with a silver car parked on the side of the road, surrounded by lush greenery and quaint houses, creating a peaceful and idyllic suburban atmosphere.
 A silver car is driving down a tree-lined street between two-story houses.
 The image depicts a residential street with a car parked on the side, lined with houses and trees, and a clear sky overhead.
+An image with six cars, a tree, a grass, a stop, a pavement, a road, a sky, and a house.
+An image with a house, six cars, a road, a pavement, a stop, a tree, a sky, and a grass.
+An image with six cars, a pavement, a house, a grass, a sky, a road, a stop, and a tree.
+An image with six cars, a tree, a road, a grass, a house, a stop, a sky, and a pavement.
+An image with a tree, six cars, a house, a pavement, a grass, a sky, a stop, and a road.

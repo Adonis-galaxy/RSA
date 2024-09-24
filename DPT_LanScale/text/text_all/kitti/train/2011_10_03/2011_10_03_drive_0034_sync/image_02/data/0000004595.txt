@@ -8,3 +8,8 @@ The image shows a narrow street with a white van parked on the side.
 A quiet residential street, with a parked van and a solitary figure, under a clear blue sky.
 A large white van is parked on the side of a narrow street lined with trees and brick walls, with a smaller white trash can nearby.
 A narrow, tree-lined street with parked vehicles, leading to a brick wall and a building, with a curved driveway and a sidewalk.
+An image with a pavement, a sky, a road, a truck, a grass, a wall, a stairs, and a tree.
+An image with a road, a wall, a truck, a pavement, a tree, a grass, a stairs, and a sky.
+An image with a sky, a tree, a wall, a road, a stairs, a grass, a pavement, and a truck.
+An image with a road, a tree, a stairs, a pavement, a sky, a wall, a truck, and a grass.
+An image with a wall, a road, a grass, a truck, a tree, a stairs, a sky, and a pavement.

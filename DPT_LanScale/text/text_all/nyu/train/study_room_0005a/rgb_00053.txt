@@ -8,3 +8,8 @@ The image shows an empty room with a row of black chairs and a desk.
 The image captures an empty, modern office space with a row of gray chairs facing a desk area, illuminated by recessed lighting and a red exit sign.
 The image shows an empty room with a large window, several black chairs, a desk, and a television.
 The image shows an empty, modern office space with a long, narrow layout featuring a row of gray chairs and desks, a reception area with a counter and a television, and a door leading to another room.
+An image with a window, five chairs, a tv, a door, a wall, a rug, and a ceiling.
+An image with a door, five chairs, a wall, a rug, a window, a tv, and a ceiling.
+An image with a wall, five chairs, a rug, a door, a ceiling, a window, and a tv.
+An image with a wall, five chairs, a ceiling, a rug, a tv, a door, and a window.
+An image with a tv, five chairs, a door, a rug, a ceiling, a wall, and a window.

@@ -8,3 +8,8 @@ The image is a photograph of a narrow street with parked cars.
 A narrow, tree-lined street leads to a residential area, with a parked car at the end.
 A black car is parked on a narrow, tree-lined street, with a brick gate and a brick wall in the foreground.
 A narrow, tree-lined street with parked cars and a brick gate.
+An image with a wall, a sky, a fence, a pavement, two cars, a tree, and a house.
+An image with a house, two cars, a wall, a sky, a tree, a pavement, and a fence.
+An image with a wall, a house, a fence, two cars, a pavement, a sky, and a tree.
+An image with two cars, a sky, a house, a fence, a wall, a tree, and a pavement.
+An image with two cars, a house, a fence, a tree, a sky, a wall, and a pavement.

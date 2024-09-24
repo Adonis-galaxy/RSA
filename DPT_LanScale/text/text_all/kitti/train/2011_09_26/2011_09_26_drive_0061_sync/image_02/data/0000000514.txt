@@ -8,3 +8,8 @@ The image shows a narrow road lined with trees and bushes.
 A narrow, tree-lined road with a car parked at the end, leading to a brick wall and a gate.
 A narrow, tree-lined road with a car parked on the side, a lamp post, and a round manhole cover.
 A narrow, tree-lined road with a car parked at the end, leading to a brick wall and a gate.
+An image with a building, a fence, a road, a sky, a car, a tree, a pavement, and a wall.
+An image with a building, a wall, a fence, a sky, a tree, a car, a pavement, and a road.
+An image with a building, a road, a tree, a wall, a car, a sky, a pavement, and a fence.
+An image with a car, a pavement, a sky, a building, a road, a wall, a tree, and a fence.
+An image with a car, a fence, a wall, a building, a road, a tree, a pavement, and a sky.

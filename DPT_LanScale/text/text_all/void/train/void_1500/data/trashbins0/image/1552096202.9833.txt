@@ -8,3 +8,8 @@ A brown chair is in the corner of a room.
 A brown chair is placed against a white wall, next to a blue trash can.
 A brown folding chair is next to a blue trash can in a room.
 A brown folding chair is placed against a white wall next to a blue trash can.
+An image with a floor, a wall, a chair, and a refrigerator.
+An image with a chair, a wall, a floor, and a refrigerator.
+An image with a chair, a wall, a refrigerator, and a floor.
+An image with a floor, a wall, a refrigerator, and a chair.
+An image with a wall, a chair, a floor, and a refrigerator.

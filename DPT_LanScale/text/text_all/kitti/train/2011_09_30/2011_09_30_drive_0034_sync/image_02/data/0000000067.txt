@@ -8,3 +8,8 @@ A paved road in a rural area.
 A serene, tree-lined road leads to a quaint, white house nestled in a lush, green field.
 A long, narrow road leads to a white house with a red roof, surrounded by lush greenery and a fence.
 A narrow, tree-lined road leads to a white house with a red roof, situated in a rural area with a clear sky.
+An image with a road, a grass, a house, a sky, a tree, and a fence.
+An image with a road, a sky, a house, a tree, a fence, and a grass.
+An image with a house, a sky, a grass, a fence, a tree, and a road.
+An image with a grass, a tree, a fence, a house, a road, and a sky.
+An image with a house, a tree, a road, a sky, a grass, and a fence.

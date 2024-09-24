@@ -8,3 +8,8 @@ A classroom with a blueboard and a desk.
 The image shows a classroom with a blueboard, a desk, and a chair, all under a long fluorescent light.
 The image shows a room with a blue and black cabinet, a table with a poster on it, and a desk with a chair. The room has a green wall and a long light fixture.
 The image shows a room with a blue and white cabinet, a table with a poster on it, and a desk with a computer monitor. The room has a green wall and a wooden door.
+An image with two walls, two people, three chairs, a light, a ceiling, a dining, a paper, and a floor.
+An image with two walls, three chairs, a floor, a dining, two people, a ceiling, a paper, and a light.
+An image with two walls, a ceiling, two people, a paper, three chairs, a dining, a light, and a floor.
+An image with a light, a ceiling, two walls, two people, a dining, three chairs, a floor, and a paper.
+An image with three chairs, a floor, a paper, two walls, two people, a light, a dining, and a ceiling.

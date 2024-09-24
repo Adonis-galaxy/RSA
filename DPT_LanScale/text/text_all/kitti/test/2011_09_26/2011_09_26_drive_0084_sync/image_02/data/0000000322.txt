@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with parked cars lining the sidewalk and a mix of vehicles driving down the road, creating a sense of urban life and activity.
 The image shows a busy city street with parked cars, a sidewalk, and buildings in the background.
 A busy city street with parked cars, traffic, and pedestrians, viewed from a moving vehicle.
+An image with eight cars, a pavement, a wall, a grass, a road, a fence, a building, and a tree.
+An image with eight cars, a wall, a road, a pavement, a tree, a building, a fence, and a grass.
+An image with eight cars, a pavement, a wall, a road, a fence, a building, a tree, and a grass.
+An image with eight cars, a wall, a grass, a building, a fence, a road, a tree, and a pavement.
+An image with eight cars, a wall, a pavement, a fence, a tree, a road, a building, and a grass.

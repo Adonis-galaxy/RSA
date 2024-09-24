@@ -8,3 +8,8 @@ The image shows a street with a curved road and trees on both sides.
 The image captures a quiet, tree-lined street with a clear view of a building in the background, marked by a red and white sign on the left side.
 The image shows a wide street with a large building on the left side, a median strip with trees in the middle, and a smaller building on the right side. The street is lined with trees and has a clear sky above.
 The image shows a tree-lined street with a building on the left, a clear sky, and a road with white lines and arrows indicating directions.
+An image with a grass, a tree, five cars, a road, a building, a stop, and a sky.
+An image with a road, five cars, a tree, a sky, a building, a stop, and a grass.
+An image with a building, five cars, a grass, a road, a stop, a sky, and a tree.
+An image with a road, a stop, five cars, a grass, a sky, a tree, and a building.
+An image with a stop, five cars, a grass, a sky, a building, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a person riding a bicycle.
 A tranquil suburban street, lined with parked cars and shaded by tall trees, leads to a serene grassy field.
 The image shows a tree-lined street with parked cars, a person riding a bicycle, and a clear sky.
 A tree-lined street with parked cars, a person riding a bicycle, and a person walking, leading to a grassy area.
+An image with a sky, three cars, a bicycle, a grass, a road, a person, a tree, and a house.
+An image with a grass, a house, three cars, a sky, a person, a tree, a bicycle, and a road.
+An image with a bicycle, a person, three cars, a tree, a grass, a road, a sky, and a house.
+An image with three cars, a person, a tree, a bicycle, a sky, a road, a house, and a grass.
+An image with a road, a grass, three cars, a house, a sky, a bicycle, a tree, and a person.

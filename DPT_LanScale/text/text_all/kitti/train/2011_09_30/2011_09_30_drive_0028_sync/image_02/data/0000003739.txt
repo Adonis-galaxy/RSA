@@ -8,3 +8,8 @@ The image shows a street scene with a person walking on a sidewalk.
 A person riding a bicycle on a sunny day, passing by a row of brown wooden cabinets on a sidewalk next to a white building.
 A person is walking down a narrow street between two buildings, with a car parked on the side of the road.
 A quiet residential street with a white building, parked cars, a pedestrian, and a covered walkway.
+An image with a tree, a window, seven cars, a road, a pavement, a grass, a wall, and a sky.
+An image with seven cars, a road, a wall, a tree, a window, a pavement, a sky, and a grass.
+An image with seven cars, a sky, a tree, a window, a grass, a wall, a pavement, and a road.
+An image with a grass, seven cars, a road, a wall, a tree, a sky, a pavement, and a window.
+An image with seven cars, a pavement, a tree, a grass, a wall, a sky, a road, and a window.

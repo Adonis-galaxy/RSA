@@ -8,3 +8,8 @@ A white table with chairs in a room.
 The image shows a long white table with several white chairs around it, placed on a gray carpeted floor in a room with a green wall.
 A long white table with several white chairs around it, placed on a gray carpeted floor.
 The image shows a long white table with several chairs on a carpeted floor, positioned in a room with a green wall.
+An image with six chairs, a rug, a dining, a floor, and a door.
+An image with six chairs, a door, a rug, a dining, and a floor.
+An image with a dining, a floor, six chairs, a door, and a rug.
+An image with a floor, a dining, six chairs, a rug, and a door.
+An image with a door, a rug, six chairs, a floor, and a dining.

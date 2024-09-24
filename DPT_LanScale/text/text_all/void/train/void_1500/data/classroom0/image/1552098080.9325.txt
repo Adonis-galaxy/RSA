@@ -8,3 +8,8 @@ The image shows a row of empty seats in a movie theater.
 The image shows a row of empty seats in a theater, with a green object in the background.
 The image shows a row of empty seats in a theater, with a large green object in the background.
 The image shows a row of empty seats in a theater, with a green object in the background.
+An image with eight chairs, a refrigerator, two walls, a tv, and a floor.
+An image with a floor, eight chairs, a tv, two walls, and a refrigerator.
+An image with eight chairs, a floor, two walls, a refrigerator, and a tv.
+An image with eight chairs, two walls, a tv, a floor, and a refrigerator.
+An image with eight chairs, a floor, two walls, a tv, and a refrigerator.

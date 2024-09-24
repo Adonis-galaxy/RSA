@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a street, passing by a house with a hedge and a tree, and a street sign.
 A person riding a motorcycle on a street next to a large house with a hedge and a tree in front of it.
 The image shows a residential street scene with a motorcycle rider, a house with a hedge and a tree, a sidewalk, a street sign, and a roundabout.
+An image with a motorcycle, a road, a tree, a roof, a wall, a person, a pavement, and a sky.
+An image with a road, a motorcycle, a tree, a wall, a person, a pavement, a sky, and a roof.
+An image with a wall, a tree, a sky, a road, a motorcycle, a person, a pavement, and a roof.
+An image with a roof, a pavement, a tree, a person, a wall, a motorcycle, a sky, and a road.
+An image with a tree, a road, a sky, a pavement, a person, a motorcycle, a roof, and a wall.

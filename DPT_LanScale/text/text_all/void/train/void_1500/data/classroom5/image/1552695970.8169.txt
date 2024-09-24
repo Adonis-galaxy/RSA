@@ -8,3 +8,8 @@ A computer lab with two desks and four chairs.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and chair.
 The image shows a computer lab with two desks, each with a monitor, keyboard, and chair. The floor is carpeted, and there is a radiator against the wall.
 The image shows a computer lab with multiple desks, each equipped with a computer monitor, keyboard, and chair. The floor is carpeted, and there is a whiteboard on the wall.
+An image with three keyboards, three chairs, two tvs, a floor, a mouse, a wall, a window, and a table.
+An image with a window, three keyboards, a table, two tvs, three chairs, a mouse, a wall, and a floor.
+An image with three keyboards, two tvs, three chairs, a table, a floor, a mouse, a window, and a wall.
+An image with three keyboards, three chairs, two tvs, a window, a floor, a mouse, a table, and a wall.
+An image with three chairs, a mouse, two tvs, three keyboards, a window, a wall, a floor, and a table.

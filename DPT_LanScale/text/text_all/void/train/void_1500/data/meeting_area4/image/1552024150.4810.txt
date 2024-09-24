@@ -8,3 +8,8 @@ A white table with four chairs.
 The image shows a white table with two chairs, positioned in a room with a whiteboard and a green wall.
 A large white table with four chairs in a room.
 The image shows a white table with four chairs in a room with a whiteboard and a green wall.
+An image with three dinings, a wall, seven chairs, a tv, a paper, and a floor.
+An image with three dinings, a wall, seven chairs, a floor, a tv, and a paper.
+An image with a paper, seven chairs, a tv, a wall, three dinings, and a floor.
+An image with a wall, seven chairs, three dinings, a floor, a tv, and a paper.
+An image with seven chairs, a paper, a wall, three dinings, a tv, and a floor.

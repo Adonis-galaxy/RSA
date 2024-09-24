@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses and trees.
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a stone wall lining the street, and a white house with a black gate and a black sign on the corner.
 The image shows a narrow street lined with houses, a parked yellow car, a brick wall, a sidewalk, a street sign, and a tree.
 A quiet residential street with a mix of old and new buildings, lined with trees and a paved road.
+An image with a house, a pavement, a tree, a road, a sky, a car, and a wall.
+An image with a tree, a pavement, a sky, a road, a house, a wall, and a car.
+An image with a house, a wall, a road, a tree, a car, a sky, and a pavement.
+An image with a pavement, a car, a road, a tree, a house, a sky, and a wall.
+An image with a wall, a road, a car, a tree, a pavement, a sky, and a house.

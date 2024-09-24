@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 The image captures a serene, tree-lined street, with a clear pathway leading to a building on the right, under a bright, sunny sky.
 The image depicts a narrow, tree-lined street between two buildings, with a car parked on the right side.
 A narrow, tree-lined street between two buildings, with a sidewalk and a fence on the right side.
+An image with a building, two walls, a fence, a pavement, a car, a tree, a sky, and a road.
+An image with two walls, a car, a building, a pavement, a sky, a tree, a fence, and a road.
+An image with two walls, a pavement, a car, a sky, a building, a road, a tree, and a fence.
+An image with a fence, two walls, a road, a car, a tree, a building, a sky, and a pavement.
+An image with a car, a sky, a tree, a fence, two walls, a pavement, a building, and a road.

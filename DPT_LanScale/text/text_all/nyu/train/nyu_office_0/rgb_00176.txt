@@ -8,3 +8,8 @@ The image shows an empty hallway with a doorway at the end.
 The image captures a long, narrow hallway with a doorway leading to another room, illuminated by overhead lights.
 The image shows a long, narrow hallway with a doorway at the end, flanked by two large, dark gray doors on the left and right sides. The hallway is illuminated by overhead lights and has a carpeted floor.
 The image shows a long, narrow hallway with a doorway at the end, flanked by two walls with closed doors and a window on the right side.
+An image with a door, a wall, a rug, a light, and a ceiling.
+An image with a rug, a door, a light, a wall, and a ceiling.
+An image with a door, a wall, a rug, a ceiling, and a light.
+An image with a wall, a light, a door, a rug, and a ceiling.
+An image with a rug, a light, a ceiling, a door, and a wall.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street lined with houses, with a parked silver car on the left side and a parked black car on the right side.
 A quiet residential street with parked cars and houses, under a clear blue sky.
+An image with three cars, a house, a sky, a road, a pavement, a tree, and a grass.
+An image with a house, a tree, a grass, three cars, a sky, a road, and a pavement.
+An image with a house, three cars, a grass, a road, a pavement, a sky, and a tree.
+An image with three cars, a grass, a pavement, a road, a sky, a tree, and a house.
+An image with a road, a grass, a house, a pavement, three cars, a tree, and a sky.

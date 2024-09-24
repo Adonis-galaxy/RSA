@@ -8,3 +8,8 @@ A blue trash can is on the floor.
 A blue trash can sits next to a black chair in an office setting.
 A blue trash can sits next to a black chair in an office with a whiteboard and a wooden desk.
 The image shows a small office space with a desk, chair, and various items such as a backpack, umbrella, and coffee maker.
+An image with a cup, a sports, a rug, a backpack, a wall, a cardboard, a table, and three chairs.
+An image with a cup, a wall, a rug, three chairs, a backpack, a cardboard, a sports, and a table.
+An image with three chairs, a table, a cup, a rug, a sports, a backpack, a wall, and a cardboard.
+An image with a sports, a wall, three chairs, a cardboard, a table, a backpack, a rug, and a cup.
+An image with a table, three chairs, a cardboard, a rug, a sports, a backpack, a cup, and a wall.

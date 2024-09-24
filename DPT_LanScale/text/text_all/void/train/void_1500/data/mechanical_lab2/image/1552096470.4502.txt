@@ -8,3 +8,8 @@ A blue chair tucked under a desk.
 A blue chair tucked under a desk in a classroom.
 The image shows a classroom with a desk and two chairs, one of which is blue.
 The image shows a classroom setting with a desk and two chairs, one of which is tucked under the desk.
+An image with a floor, a wall, three tvs, four chairs, a keyboard, and a table.
+An image with four chairs, a keyboard, three tvs, a floor, a table, and a wall.
+An image with a keyboard, a floor, four chairs, three tvs, a table, and a wall.
+An image with a table, a keyboard, a floor, three tvs, four chairs, and a wall.
+An image with a wall, four chairs, three tvs, a keyboard, a table, and a floor.

@@ -8,3 +8,8 @@ A paved roadway in a residential area.
 A quiet residential street, lined with houses and trees, leads to a white house with a garden path.
 A long, narrow, paved roadway leads to a white house with a brown roof, surrounded by lush greenery and a few trees.
 A narrow, tree-lined street leads to a white house with a sloped roof, situated on a hillside.
+An image with a sky, a road, a dirt, a tree, a grass, a fence, and a house.
+An image with a house, a tree, a dirt, a road, a sky, a grass, and a fence.
+An image with a road, a grass, a sky, a tree, a fence, a house, and a dirt.
+An image with a sky, a road, a fence, a dirt, a tree, a grass, and a house.
+An image with a fence, a road, a grass, a sky, a tree, a house, and a dirt.

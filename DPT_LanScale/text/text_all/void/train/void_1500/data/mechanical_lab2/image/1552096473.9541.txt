@@ -8,3 +8,8 @@ A science lab with a computer, a vacuum cleaner, and a blue cart.
 A science lab with a computer, a vacuum cleaner, and a blue cart.
 The image shows a science lab with a large blue cart, a black computer monitor, a silver lamp, and a blue vacuum cleaner.
 The image shows a science classroom with a desk, a computer, a vacuum cleaner, and a blue cart with various tubes and equipment.
+An image with two windows, a floor, a light, a cabinet, a table, a keyboard, a wall, a tv, and a chair.
+An image with a keyboard, a tv, a cabinet, a chair, a wall, a table, a light, two windows, and a floor.
+An image with a tv, a cabinet, a chair, a table, a wall, two windows, a keyboard, a floor, and a light.
+An image with a light, a table, a cabinet, two windows, a keyboard, a tv, a floor, a chair, and a wall.
+An image with a table, a floor, a light, a chair, a wall, a cabinet, a tv, two windows, and a keyboard.

@@ -8,3 +8,8 @@ A laboratory with a microscope and a computer.
 The image shows a laboratory setting with various pieces of equipment, including a microscope, a desk with a computer, and a shelf with glassware.
 The image shows a laboratory setting with a large piece of equipment, a smaller piece of equipment, and a desk with various items on it.
 The image shows a laboratory setting with a blue shelf, a white counter, and various pieces of equipment, including a microscope and a computer.
+An image with a tv, a table, a backpack, a floor, a light, a keyboard, a window, a cabinet, and a wall.
+An image with a table, a tv, a light, a wall, a backpack, a keyboard, a cabinet, a floor, and a window.
+An image with a cabinet, a light, a table, a keyboard, a backpack, a window, a floor, a wall, and a tv.
+An image with a window, a cabinet, a floor, a light, a tv, a backpack, a keyboard, a table, and a wall.
+An image with a floor, a backpack, a light, a cabinet, a keyboard, a wall, a table, a window, and a tv.

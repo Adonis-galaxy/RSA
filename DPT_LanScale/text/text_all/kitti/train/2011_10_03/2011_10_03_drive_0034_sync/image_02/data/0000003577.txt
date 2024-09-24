@@ -8,3 +8,8 @@ A narrow street between two rows of hedges.
 A quiet, tree-lined street in a residential area, with a clear path leading to a house at the end.
 A narrow, tree-lined street with a brick sidewalk and a paved road, leading to a white house with a red roof.
 A narrow, tree-lined street with houses on both sides, leading to a distant road.
+An image with a sky, a road, a tree, a car, and a pavement.
+An image with a road, a tree, a pavement, a car, and a sky.
+An image with a tree, a sky, a road, a pavement, and a car.
+An image with a sky, a pavement, a tree, a car, and a road.
+An image with a road, a pavement, a tree, a sky, and a car.

@@ -8,3 +8,8 @@ A man sitting on a couch holding a tablet.
 A man sitting on a couch, holding a tablet, with a chair and a lamp nearby, in a room with a painting and a door.
 A man is sitting on a couch, holding a tablet, while another person is standing in front of a chair.
 A man sits on a couch, holding a tablet, while another person is seated in a chair, facing away from the camera.
+An image with a chair, a ceiling, a wall, a floor, two people, a door, a remote, a couch, and a cabinet.
+An image with a chair, a wall, a door, a floor, two people, a cabinet, a remote, a couch, and a ceiling.
+An image with a couch, a floor, a chair, a wall, a door, a ceiling, two people, a remote, and a cabinet.
+An image with a couch, a chair, a ceiling, a remote, two people, a wall, a floor, a door, and a cabinet.
+An image with a floor, a wall, a door, a couch, a remote, a ceiling, two people, a cabinet, and a chair.

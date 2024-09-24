@@ -8,3 +8,8 @@ The image is a black and white photograph of a tree-lined street.
 The image captures a quiet, tree-lined street with parked cars, a bus stop, and a building, all under a clear blue sky.
 The image shows a narrow street lined with trees and parked cars, with a white building on the right side.
 The image depicts a narrow, tree-lined street with parked cars, a bus stop, and a brick wall on the right side.
+An image with a flower, two walls, four cars, a pavement, a window, a tree, a sky, a truck, and a road.
+An image with a flower, four cars, a tree, a truck, a road, a sky, a pavement, two walls, and a window.
+An image with a flower, a pavement, a truck, a road, two walls, four cars, a tree, a window, and a sky.
+An image with a truck, four cars, a road, two walls, a sky, a flower, a pavement, a window, and a tree.
+An image with a window, four cars, a flower, a sky, a tree, a road, a pavement, two walls, and a truck.

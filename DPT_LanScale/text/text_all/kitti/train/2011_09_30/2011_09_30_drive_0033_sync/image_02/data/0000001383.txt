@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a serene residential street, lined with parked cars and trees, leading to a quaint white house with a red roof, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a blue vehicle in the foreground and a white wall on the right side.
 A narrow, tree-lined street with parked cars and a white building on the left side.
+An image with a road, a tree, seven cars, two walls, a house, a pavement, and a sky.
+An image with seven cars, two walls, a pavement, a house, a road, a sky, and a tree.
+An image with seven cars, a pavement, a road, a tree, two walls, a sky, and a house.
+An image with seven cars, a house, a road, a pavement, two walls, a tree, and a sky.
+An image with a house, seven cars, a pavement, a tree, two walls, a sky, and a road.

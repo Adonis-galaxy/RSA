@@ -8,3 +8,8 @@ The image is a color photograph of a street scene.
 The image captures a tranquil urban scene where a pedestrian is walking on a sidewalk adjacent to a street, with a parked car and a train station in the background, under a clear blue sky.
 A large train is traveling down the tracks next to a small car and a person walking on a sidewalk.
 A tranquil suburban scene with a train station, parked cars, and pedestrians on a tree-lined street.
+An image with five cars, a tree, a pavement, a grass, a sky, two people, a road, and a building.
+An image with a sky, five cars, a grass, two people, a building, a tree, a pavement, and a road.
+An image with a sky, a grass, five cars, a tree, a pavement, a building, two people, and a road.
+An image with five cars, a sky, a building, a road, two people, a grass, a pavement, and a tree.
+An image with two people, a tree, five cars, a pavement, a grass, a sky, a road, and a building.

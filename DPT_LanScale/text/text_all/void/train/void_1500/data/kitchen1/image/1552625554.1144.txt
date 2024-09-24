@@ -8,3 +8,8 @@ A yellow basket with tissues on a counter.
 A yellow basket with tissues and a blue basket with tissues on a counter in a bathroom.
 A small yellow basket with tissues and a blue box of tissues on a counter in a bathroom.
 A yellow basket with tissues and a blue basket with tissues on a counter in a bathroom.
+An image with a cup, a refrigerator, a wall, a floor, and a table.
+An image with a floor, a cup, a table, a wall, and a refrigerator.
+An image with a floor, a refrigerator, a cup, a wall, and a table.
+An image with a cup, a floor, a refrigerator, a wall, and a table.
+An image with a cup, a floor, a table, a refrigerator, and a wall.

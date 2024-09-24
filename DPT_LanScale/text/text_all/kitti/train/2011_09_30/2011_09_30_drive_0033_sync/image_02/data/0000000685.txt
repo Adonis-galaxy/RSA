@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars and a few moving vehicles, under a clear blue sky.
 The image shows a narrow street with parked cars on the side, a few vehicles driving down the road, and houses on both sides. The street is lined with trees and bushes, and the sky is clear.
 A narrow street in a residential area with parked cars and a white van.
+An image with a road, five cars, a sky, a truck, a building, a wall, a tree, a house, and a pavement.
+An image with a tree, a wall, five cars, a building, a sky, a truck, a house, a pavement, and a road.
+An image with a road, a tree, five cars, a wall, a pavement, a sky, a truck, a house, and a building.
+An image with a road, a pavement, a house, a wall, five cars, a sky, a truck, a building, and a tree.
+An image with five cars, a sky, a house, a tree, a building, a road, a wall, a pavement, and a truck.

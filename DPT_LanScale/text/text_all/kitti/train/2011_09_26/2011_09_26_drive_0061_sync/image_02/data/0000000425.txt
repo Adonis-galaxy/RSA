@@ -8,3 +8,8 @@ A narrow street between two walls of trees.
 A narrow, tree-lined street with a car parked at the end, leading to a brick wall and a building.
 A narrow, tree-lined street with a car parked on the side.
 A narrow, tree-lined street with a brick wall and a parked car at the end.
+An image with a sky, two cars, a tree, a door, a road, two walls, and a pavement.
+An image with a road, a pavement, a sky, two cars, a door, two walls, and a tree.
+An image with a sky, a tree, a road, two walls, a pavement, a door, and two cars.
+An image with a tree, a door, two cars, a road, two walls, a sky, and a pavement.
+An image with two cars, two walls, a pavement, a sky, a tree, a door, and a road.

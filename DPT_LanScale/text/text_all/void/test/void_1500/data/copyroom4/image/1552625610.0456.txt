@@ -8,3 +8,8 @@ A stack of printers on a table.
 A printer is stacked on top of another printer, both sitting on a table in an office setting.
 A large white printer is stacked on top of a smaller white printer, both sitting on a table next to a black cabinet.
 A white printer is stacked on top of a white printer, both sitting on a table next to a yellow wall and a black cabinet.
+An image with a scissors, a cabinet, a wall, a table, and a door.
+An image with a cabinet, a table, a scissors, a door, and a wall.
+An image with a table, a cabinet, a door, a scissors, and a wall.
+An image with a cabinet, a scissors, a wall, a door, and a table.
+An image with a scissors, a cabinet, a door, a table, and a wall.

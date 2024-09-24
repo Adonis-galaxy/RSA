@@ -8,3 +8,8 @@ A bathroom with a white bathtub.
 The image captures a small, well-organized bathroom with a white bathtub, a window, and storage bins.
 The image shows a small bathroom with a white bathtub, a window, and a tiled floor. On the bathtub, there are several small bottles and a soap dispenser.
 The image shows a small, tiled bathroom with a white bathtub, a window, and storage bins.
+An image with a window, two bottles, a wall, a curtain, a shelf, and a floor.
+An image with a floor, two bottles, a curtain, a window, a shelf, and a wall.
+An image with a window, a curtain, a wall, two bottles, a floor, and a shelf.
+An image with a wall, two bottles, a curtain, a shelf, a window, and a floor.
+An image with a wall, a shelf, two bottles, a curtain, a floor, and a window.

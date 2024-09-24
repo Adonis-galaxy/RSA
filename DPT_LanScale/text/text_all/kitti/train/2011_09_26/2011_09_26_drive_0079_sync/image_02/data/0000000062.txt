@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white building on the right side.
 A quiet residential street, lined with lush greenery and a few parked cars, leads to a white building with a balcony.
 The image shows a narrow street lined with trees and bushes, with a white building on the right side.
 A quiet residential street with a mix of trees, shrubs, and apartment buildings, leading to a white house with a metal railing.
+An image with a tree, a car, a sky, a fence, a pavement, a grass, a house, a wall, and a road.
+An image with a house, a sky, a tree, a car, a fence, a wall, a pavement, a road, and a grass.
+An image with a pavement, a road, a house, a fence, a wall, a car, a grass, a sky, and a tree.
+An image with a house, a sky, a fence, a road, a grass, a wall, a car, a tree, and a pavement.
+An image with a fence, a pavement, a tree, a grass, a house, a wall, a sky, a car, and a road.

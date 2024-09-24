@@ -8,3 +8,8 @@ A truck is driving down a tree-lined street.
 A large truck is driving down a tree-lined street, passing by a parked car and a traffic sign, with a clear sky overhead.
 A large truck is driving down a tree-lined street, passing by a parked car and a stop sign.
 A tree-lined street with parked cars, a truck, and a traffic sign, leading to a residential area.
+An image with eight cars, a sky, a stop, a road, a dirt, a tree, and a truck.
+An image with eight cars, a dirt, a road, a tree, a sky, a truck, and a stop.
+An image with a truck, a road, eight cars, a dirt, a tree, a sky, and a stop.
+An image with a stop, a sky, a tree, a dirt, eight cars, a road, and a truck.
+An image with eight cars, a stop, a tree, a truck, a dirt, a sky, and a road.

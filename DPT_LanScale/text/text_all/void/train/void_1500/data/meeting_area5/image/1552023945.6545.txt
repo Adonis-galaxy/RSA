@@ -8,3 +8,8 @@ The image shows a white table and chairs in a room.
 The image shows a room with a table and chairs, with a focus on the table and chairs in the foreground.
 The image shows a large white table with several chairs around it, all set up in a room.
 The image shows a room with a long table and several chairs, all in white, set up in a row.
+An image with seven chairs, a window, two dinings, and a floor.
+An image with a window, seven chairs, two dinings, and a floor.
+An image with a floor, seven chairs, a window, and two dinings.
+An image with a window, a floor, seven chairs, and two dinings.
+An image with seven chairs, a floor, two dinings, and a window.

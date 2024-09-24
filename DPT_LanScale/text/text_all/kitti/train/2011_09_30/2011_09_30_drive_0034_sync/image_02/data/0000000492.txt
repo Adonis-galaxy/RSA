@@ -8,3 +8,8 @@ A person walking down a narrow street between buildings.
 A person walking down a narrow, tree-lined street between two buildings, with a clear sky overhead.
 A person is walking down a narrow, tree-lined street between two buildings.
 A narrow, tree-lined street leads to a row of houses, with a person walking on the sidewalk.
+An image with a road, a sky, a tree, a traffic, a car, and a house.
+An image with a road, a house, a sky, a car, a traffic, and a tree.
+An image with a tree, a road, a car, a house, a traffic, and a sky.
+An image with a sky, a car, a traffic, a house, a road, and a tree.
+An image with a traffic, a tree, a car, a road, a house, and a sky.

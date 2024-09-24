@@ -8,3 +8,8 @@ A large roll of paper leaning against a box.
 A large roll of paper leaning against a box in a room.
 A large black television is next to a white roll of paper and a brown box with a red label.
 A large roll of paper leaning against a cardboard box in a room with a black television.
+An image with a cardboard, a door, a wall, a tv, a floor, and a curtain.
+An image with a cardboard, a curtain, a tv, a wall, a door, and a floor.
+An image with a curtain, a tv, a wall, a floor, a door, and a cardboard.
+An image with a cardboard, a curtain, a floor, a wall, a tv, and a door.
+An image with a door, a wall, a curtain, a cardboard, a tv, and a floor.

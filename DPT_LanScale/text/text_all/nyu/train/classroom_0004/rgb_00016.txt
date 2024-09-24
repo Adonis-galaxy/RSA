@@ -8,3 +8,8 @@ A classroom with desks and chairs.
 The image depicts an empty classroom with rows of desks and chairs, a teacher's desk, and a window with blinds, ready for a new day of learning.
 The image shows a classroom with a large number of desks and chairs, some of which are empty.
 The image shows a classroom with a large number of desks arranged in rows, facing a central whiteboard, with a teacher's desk at the front, and a window with blinds on the right side.
+An image with eleven chairs, a ceiling, two books, a cabinet, a mouse, two potteds, a paper, a rug, a shelf, a window, and a wall.
+An image with eleven chairs, two books, a window, a rug, a mouse, a cabinet, a paper, a shelf, two potteds, a wall, and a ceiling.
+An image with a paper, two books, two potteds, a window, eleven chairs, a mouse, a rug, a cabinet, a ceiling, a shelf, and a wall.
+An image with eleven chairs, two books, a cabinet, a mouse, a rug, a ceiling, a window, two potteds, a wall, a shelf, and a paper.
+An image with a rug, eleven chairs, a cabinet, a shelf, two potteds, a wall, a window, a mouse, a ceiling, two books, and a paper.

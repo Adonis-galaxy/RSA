@@ -8,3 +8,8 @@ A printer on a desk.
 A printer sits on a desk with a paper sign on it.
 A white printer with a yellow paper on top, sitting on a desk with a blue pen and a white stapler.
 A white printer with a yellow paper on top, sitting on a desk with a black pen and a white stapler.
+An image with a table, a scissors, a wall, and a cabinet.
+An image with a table, a cabinet, a scissors, and a wall.
+An image with a cabinet, a wall, a scissors, and a table.
+An image with a cabinet, a scissors, a wall, and a table.
+An image with a wall, a scissors, a table, and a cabinet.

@@ -8,3 +8,8 @@ The image shows a street scene with a yellow truck parked on the side of the roa
 A quiet residential street, with a parked car and a lone pedestrian, under the shade of trees.
 The image shows a narrow street with a yellow car parked on the side, a blue trash can, a brick wall, a white building, a green tree, a street sign, and a sidewalk.
 A quiet residential street with a mix of houses, trees, and a parked car, leading to a garage and a street sign.
+An image with a pavement, two walls, a road, a house, a sky, a tree, and a car.
+An image with a pavement, a car, a road, a sky, two walls, a tree, and a house.
+An image with a car, a house, two walls, a road, a tree, a pavement, and a sky.
+An image with a road, a tree, a sky, a pavement, a house, a car, and two walls.
+An image with a tree, a car, a sky, a road, a pavement, two walls, and a house.

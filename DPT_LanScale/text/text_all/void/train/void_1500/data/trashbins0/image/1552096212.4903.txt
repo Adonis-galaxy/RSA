@@ -8,3 +8,8 @@ The image shows a room with a number 4 on the wall, a bulletin board, a chair, a
 The image shows a room with a number 4 on the wall, a chair, and a bulletin board.
 The image shows a room with a number 4 on the wall, a brown chair, and a blue object in the corner.
 The image shows a room with a number 4 on the wall, a bulletin board, a chair, and a blue object in the corner.
+An image with a toilet, a chair, and a wall.
+An image with a wall, a toilet, and a chair.
+An image with a toilet, a wall, and a chair.
+An image with a wall, a chair, and a toilet.
+An image with a chair, a wall, and a toilet.

@@ -8,3 +8,8 @@ The image is a photograph of a narrow, tree-lined street in a residential area.
 A quiet residential street, lined with houses and parked cars, leads to a quaint alleyway.
 The image depicts a narrow, tree-lined street between two-story houses, with parked cars and a few pedestrians visible.
 A narrow, tree-lined street with parked cars, leading to a row of houses with garages and gardens.
+An image with a pavement, a tree, a window, five cars, a chair, a grass, a sky, a door, a house, and a roof.
+An image with a house, five cars, a chair, a sky, a pavement, a window, a tree, a roof, a grass, and a door.
+An image with a sky, five cars, a grass, a window, a roof, a door, a house, a pavement, a chair, and a tree.
+An image with five cars, a pavement, a chair, a roof, a house, a sky, a window, a door, a grass, and a tree.
+An image with a chair, five cars, a door, a pavement, a grass, a roof, a tree, a house, a window, and a sky.

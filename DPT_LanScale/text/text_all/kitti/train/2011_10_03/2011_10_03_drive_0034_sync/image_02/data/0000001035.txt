@@ -8,3 +8,8 @@ The image shows a street scene with a building, a person riding a motorcycle, a 
 The image captures a quiet residential street corner, with a house nestled among trees, a motorcycle parked on the sidewalk, and a street sign indicating the intersection of two roads.
 The image shows a residential street scene with a large house on the corner, a person riding a motorcycle, a street sign, a sidewalk, and a tree.
 The image shows a residential street corner with a house, a sidewalk, a street sign, a motorcycle, and a person riding a bicycle.
+An image with a tree, a wall, a road, a pavement, a sky, a roof, a motorcycle, and a person.
+An image with a tree, a motorcycle, a pavement, a sky, a wall, a person, a roof, and a road.
+An image with a road, a sky, a tree, a wall, a pavement, a roof, a person, and a motorcycle.
+An image with a motorcycle, a sky, a person, a pavement, a wall, a roof, a tree, and a road.
+An image with a wall, a tree, a sky, a motorcycle, a person, a roof, a pavement, and a road.

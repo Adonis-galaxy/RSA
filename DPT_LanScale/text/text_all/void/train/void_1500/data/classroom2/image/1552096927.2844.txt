@@ -8,3 +8,8 @@ The image shows a classroom with black chairs and orange desks.
 The image shows a classroom setting with two desks and four chairs, all in black and orange colors.
 The image shows a classroom setting with two desks and four chairs, all in black and orange colors.
 The image shows a classroom setting with two desks and four chairs, arranged in a way that allows for easy movement and interaction between the desks.
+An image with a rug, four chairs, a wall, a door, and a dining.
+An image with four chairs, a wall, a door, a rug, and a dining.
+An image with four chairs, a dining, a door, a rug, and a wall.
+An image with a door, a rug, four chairs, a wall, and a dining.
+An image with four chairs, a dining, a rug, a wall, and a door.

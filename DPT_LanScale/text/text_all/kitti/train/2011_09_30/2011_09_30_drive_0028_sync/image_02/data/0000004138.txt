@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars.
 A quiet, tree-lined street with parked cars, where the sun casts long shadows.
 The image shows a tree-lined street with parked cars, a sidewalk, and a clear sky.
 A tree-lined street with parked cars and a clear sky.
+An image with a sky, eight cars, a tree, a wall, a person, a grass, a pavement, and a road.
+An image with a tree, eight cars, a person, a pavement, a grass, a sky, a road, and a wall.
+An image with a person, a pavement, eight cars, a road, a grass, a wall, a tree, and a sky.
+An image with a person, eight cars, a sky, a tree, a pavement, a wall, a grass, and a road.
+An image with a wall, a tree, a pavement, a road, a person, a sky, eight cars, and a grass.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car driving down it.
 The image captures a quiet, tree-lined street with a single car in motion, under a clear blue sky.
 The image shows a wide, tree-lined street with a car driving down it, a sign indicating a pedestrian crossing, and a traffic light in the distance.
 The image shows a tree-lined street with a car driving on the right side, a pedestrian crossing sign on the right, and a traffic sign on the left, all under a clear blue sky.
+An image with a pavement, a grass, a bus, a tree, a road, and a car.
+An image with a tree, a bus, a pavement, a road, a car, and a grass.
+An image with a grass, a road, a bus, a tree, a pavement, and a car.
+An image with a pavement, a tree, a road, a car, a grass, and a bus.
+An image with a car, a pavement, a road, a grass, a bus, and a tree.

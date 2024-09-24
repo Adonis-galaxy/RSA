@@ -8,3 +8,8 @@ A classroom scene with students sitting at desks.
 A group of students in a classroom, engaged in learning activities, with a teacher observing and a clock on the wall.
 A classroom scene with students seated at desks, engaged in learning activities, with a teacher standing at the front of the room.
 A classroom scene with students seated at desks, engaged in learning activities, with a teacher standing at the front of the room.
+An image with seven people, five books, ten chairs, a backpack, a ceiling, a paper, a table, a wall, a rug, and a light.
+An image with seven people, a table, five books, ten chairs, a wall, a rug, a ceiling, a paper, a light, and a backpack.
+An image with five books, a paper, a table, ten chairs, a backpack, seven people, a rug, a wall, a ceiling, and a light.
+An image with five books, seven people, ten chairs, a ceiling, a light, a backpack, a table, a wall, a paper, and a rug.
+An image with five books, ten chairs, seven people, a backpack, a light, a ceiling, a rug, a wall, a table, and a paper.

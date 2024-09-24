@@ -8,3 +8,8 @@ The image shows a street scene with a large truck, cars, and a parked truck on t
 A semi-truck is parked on the side of a road, with a car driving past it, and a sign is visible in the background.
 A large truck is driving down a tree-lined street, passing a parked car and a sign, with a smaller car following behind.
 A tree-lined street with a white truck parked on the side, a car driving down the road, and a sign on the sidewalk.
+An image with fifteen cars, a tree, two trucks, a grass, a building, a sky, and a road.
+An image with fifteen cars, a tree, two trucks, a sky, a grass, a building, and a road.
+An image with fifteen cars, a building, two trucks, a sky, a grass, a tree, and a road.
+An image with fifteen cars, two trucks, a sky, a tree, a road, a building, and a grass.
+An image with a grass, fifteen cars, a sky, two trucks, a road, a tree, and a building.

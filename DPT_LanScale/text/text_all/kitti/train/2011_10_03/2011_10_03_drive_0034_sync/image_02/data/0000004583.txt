@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 A yellow car parked on a residential street, with a white van and a brick wall in the background.
 A yellow car is parked on the side of a narrow street, with a white van and a white truck parked behind it, and a brick wall and a lamp post are visible on the sidewalk.
 A narrow, tree-lined street with parked cars and a brick wall on the right side.
+An image with a road, a sky, a pavement, a car, a tree, a truck, a wall, and a grass.
+An image with a car, a grass, a truck, a sky, a tree, a pavement, a road, and a wall.
+An image with a tree, a wall, a sky, a road, a truck, a car, a pavement, and a grass.
+An image with a wall, a car, a tree, a truck, a road, a pavement, a sky, and a grass.
+An image with a wall, a truck, a pavement, a sky, a road, a car, a grass, and a tree.

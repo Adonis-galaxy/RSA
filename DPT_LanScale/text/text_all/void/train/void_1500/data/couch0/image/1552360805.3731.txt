@@ -8,3 +8,8 @@ A colorful sombrero is resting on the arm of a gray couch.
 A colorful sombrero is resting on the arm of a gray couch, next to a magazine and a backpack.
 A colorful sombrero is resting on the arm of a gray couch, next to a black backpack and a magazine.
 A colorful sombrero is resting on the arm of a gray couch, with a backpack and a magazine on the seat.
+An image with a cabinet, a rug, two walls, a backpack, a book, a couch, and a sports.
+An image with a couch, a rug, two walls, a backpack, a cabinet, a sports, and a book.
+An image with a couch, two walls, a sports, a cabinet, a rug, a backpack, and a book.
+An image with a book, a backpack, a cabinet, a sports, two walls, a couch, and a rug.
+An image with a sports, a backpack, a rug, two walls, a book, a couch, and a cabinet.

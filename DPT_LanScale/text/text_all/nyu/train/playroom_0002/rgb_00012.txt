@@ -8,3 +8,8 @@ A room with a messy table and a window.
 The image captures a room in disarray, with a cluttered table and a pile of clothes, suggesting a lack of organization and possibly a need for tidying up.
 The room is filled with various objects, including a large table, a window with blinds, and a pile of clothes on the floor.
 The room is cluttered with various items, including a table with clothes on it, a shelf with toys, and a window with blinds.
+An image with a bed, a cabinet, a chair, a wall, a window, a ceiling, and a rug.
+An image with a wall, a ceiling, a cabinet, a rug, a bed, a window, and a chair.
+An image with a cabinet, a bed, a ceiling, a rug, a window, a chair, and a wall.
+An image with a cabinet, a rug, a bed, a window, a chair, a wall, and a ceiling.
+An image with a chair, a rug, a wall, a window, a bed, a cabinet, and a ceiling.

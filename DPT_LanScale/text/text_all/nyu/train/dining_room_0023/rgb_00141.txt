@@ -8,3 +8,8 @@ A white table with two white table tops.
 The image shows a room with a table and chairs, illuminated by a light source that casts a shadow on the table, creating a contrast between the light and shadow areas.
 The image shows a room with a long table and four chairs, with the tabletops being the main focus due to their size.
 The image shows a room with a long table and four chairs, with the tabletops illuminated by a light source.
+An image with four chairs, three dinings, a wall, and a floor.
+An image with three dinings, four chairs, a floor, and a wall.
+An image with four chairs, a wall, three dinings, and a floor.
+An image with a floor, a wall, four chairs, and three dinings.
+An image with four chairs, three dinings, a wall, and a floor.

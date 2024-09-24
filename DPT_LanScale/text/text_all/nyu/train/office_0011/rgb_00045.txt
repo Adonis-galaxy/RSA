@@ -8,3 +8,8 @@ The image shows an office room with a glass partition.
 The image captures a room with a large glass partition, showcasing a workspace with a desk, chairs, and a bookshelf, reflecting the interior of another room with a whiteboard and a door.
 The image shows an office with a large screen, a whiteboard, a desk with a computer, a chair, and a bookshelf. The office is furnished with a large couch and a small table.
 The image shows an office space with a partitioned area, a whiteboard, a desk with a computer, a chair, and a bookshelf.
+An image with eleven books, a wall, a fence, a floor, a chair, and a dining.
+An image with eleven books, a fence, a floor, a wall, a dining, and a chair.
+An image with eleven books, a fence, a chair, a floor, a wall, and a dining.
+An image with eleven books, a fence, a chair, a dining, a wall, and a floor.
+An image with eleven books, a dining, a wall, a chair, a floor, and a fence.

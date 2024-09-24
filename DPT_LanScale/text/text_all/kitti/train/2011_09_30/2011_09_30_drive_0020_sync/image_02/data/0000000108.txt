@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 A quiet residential street with a clear pathway, bordered by lush greenery and a sandy construction site.
 The image shows a wide, tree-lined street with a few parked cars, a truck, and a bus, leading to a residential area with houses and a park.
 A quiet residential street with a paved pathway, lined with trees and houses, leading to a dirt road and a construction site.
+An image with a sky, two trucks, a road, a tree, a dirt, a grass, a car, and a house.
+An image with two trucks, a car, a tree, a dirt, a road, a grass, a house, and a sky.
+An image with a car, a tree, a grass, a house, two trucks, a road, a dirt, and a sky.
+An image with two trucks, a road, a house, a tree, a dirt, a car, a sky, and a grass.
+An image with a grass, a dirt, a house, a car, a road, a sky, two trucks, and a tree.

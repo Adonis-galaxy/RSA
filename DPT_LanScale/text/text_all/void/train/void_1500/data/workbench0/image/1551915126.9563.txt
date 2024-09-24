@@ -8,3 +8,8 @@ A computer desk with a chair and a computer.
 A computer desk with a chair, a computer monitor, a keyboard, a mouse, a printer, and a pair of shoes.
 A computer desk with a chair, a computer monitor, a keyboard, a mouse, a printer, a file cabinet, and a pair of shoes on the floor.
 The image shows a workspace with a desk, a chair, a computer, a filing cabinet, and a pair of shoes on the floor.
+An image with two tvs, a mouse, a window, a cardboard, a wall, a table, a chair, a cabinet, and a floor.
+An image with a mouse, a window, a cabinet, two tvs, a chair, a wall, a floor, a table, and a cardboard.
+An image with a mouse, a table, a wall, two tvs, a floor, a chair, a cardboard, a cabinet, and a window.
+An image with a table, a cabinet, two tvs, a mouse, a chair, a window, a cardboard, a floor, and a wall.
+An image with a window, a chair, two tvs, a table, a wall, a mouse, a cabinet, a cardboard, and a floor.

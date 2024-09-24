@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a brick wall.
 A quiet residential street, with parked cars and a brick wall, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars, a brick wall, and a large black gate on the right side.
 A narrow, tree-lined street with parked cars, a brick wall, and a black gate at the end.
+An image with a truck, a grass, a car, a pavement, a sky, a wall, a door, a road, and a tree.
+An image with a wall, a car, a road, a sky, a grass, a door, a pavement, a truck, and a tree.
+An image with a truck, a road, a grass, a wall, a pavement, a door, a tree, a car, and a sky.
+An image with a wall, a car, a pavement, a door, a sky, a grass, a tree, a truck, and a road.
+An image with a wall, a pavement, a road, a sky, a car, a door, a truck, a tree, and a grass.

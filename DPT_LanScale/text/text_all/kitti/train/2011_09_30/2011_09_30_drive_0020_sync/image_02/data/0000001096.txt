@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, trees, and signs.
 The image captures a serene suburban street, lined with trees and parked cars, leading to a white building with a red sign, under a clear blue sky.
 The image shows a wide street with a curved path, lined with trees and signs, and a clear blue sky overhead.
 The image depicts a suburban street scene with a curved road leading to a white wall and a green field, with trees and signs lining the road.
+An image with a sky, three cars, a wall, a tree, a pavement, a grass, a banner, a stop, and a road.
+An image with a wall, a sky, a pavement, three cars, a stop, a tree, a grass, a banner, and a road.
+An image with a sky, three cars, a stop, a tree, a banner, a road, a pavement, a wall, and a grass.
+An image with three cars, a banner, a sky, a pavement, a stop, a road, a grass, a wall, and a tree.
+An image with three cars, a road, a wall, a banner, a grass, a stop, a tree, a sky, and a pavement.

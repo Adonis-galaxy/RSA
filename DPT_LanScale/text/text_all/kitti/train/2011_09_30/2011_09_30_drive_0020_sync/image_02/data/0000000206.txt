@@ -8,3 +8,8 @@ A man in a yellow shirt is standing on a truck.
 A man in a yellow shirt is loading a large metal object onto a truck parked on a street lined with houses and trees.
 A man in a yellow shirt is loading a large metal object onto a truck on a street.
 A man in a yellow shirt is loading a large metal structure onto a truck parked on a street lined with buildings and trees.
+An image with a building, a window, a grass, a roof, a road, two cars, two trucks, two people, a tree, and a dirt.
+An image with a building, a grass, two people, a window, a roof, a tree, two cars, two trucks, a road, and a dirt.
+An image with two trucks, a dirt, two cars, a grass, two people, a window, a roof, a building, a tree, and a road.
+An image with a tree, two people, a roof, a grass, a road, a building, two cars, a dirt, two trucks, and a window.
+An image with two cars, a building, two people, a tree, a roof, a dirt, a window, two trucks, a road, and a grass.

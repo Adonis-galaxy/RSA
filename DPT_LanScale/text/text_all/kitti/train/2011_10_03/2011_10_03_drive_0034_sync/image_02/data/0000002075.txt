@@ -8,3 +8,8 @@ A red van parked on a street.
 A red van parked on a tree-lined street, with a clear blue sky overhead.
 A red van is parked on a narrow, tree-lined street in a residential area.
 A red van is parked on a narrow, tree-lined street in a residential area.
+An image with a tree, three cars, a house, a sky, a mountain, a road, and a pavement.
+An image with a pavement, three cars, a mountain, a tree, a sky, a house, and a road.
+An image with three cars, a road, a sky, a pavement, a mountain, a house, and a tree.
+An image with three cars, a road, a mountain, a tree, a house, a pavement, and a sky.
+An image with a house, a pavement, a mountain, a sky, three cars, a tree, and a road.

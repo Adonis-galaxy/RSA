@@ -8,3 +8,8 @@ A blue chair in front of a desk.
 The image shows a classroom setting with a desk, chair, and a mirror.
 The image shows a classroom with a desk and two blue chairs, with a mirror reflecting the room.
 The image shows a classroom with a desk and two chairs, with a mirror reflecting the room.
+An image with three tvs, a keyboard, six chairs, a counter, a wall, a cabinet, and a floor.
+An image with six chairs, a wall, three tvs, a counter, a floor, a cabinet, and a keyboard.
+An image with six chairs, a wall, a counter, a keyboard, three tvs, a floor, and a cabinet.
+An image with six chairs, a keyboard, a floor, three tvs, a counter, a cabinet, and a wall.
+An image with a cabinet, three tvs, six chairs, a keyboard, a counter, a floor, and a wall.

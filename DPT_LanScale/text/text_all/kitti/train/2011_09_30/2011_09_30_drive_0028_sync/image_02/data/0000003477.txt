@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road, a man 
 A quiet residential street, with parked cars and pedestrians, under a clear blue sky.
 A narrow street with parked cars, a man and woman walking, and a construction area with a red and white sign.
 A narrow street in a residential area, with parked cars, a construction site, and pedestrians.
+An image with a grass, a road, a handbag, a fence, a tree, a pavement, a stop, a truck, two cars, a fire, a wall, two people, a window, and a sky.
+An image with a road, a stop, a wall, a fire, two people, a sky, a handbag, a pavement, a truck, a fence, two cars, a tree, a window, and a grass.
+An image with a stop, two cars, a window, two people, a wall, a tree, a grass, a handbag, a truck, a sky, a fire, a fence, a road, and a pavement.
+An image with two cars, a tree, a sky, two people, a stop, a fence, a road, a pavement, a handbag, a truck, a wall, a grass, a fire, and a window.
+An image with two people, a stop, two cars, a handbag, a window, a wall, a truck, a fence, a fire, a sky, a pavement, a grass, a tree, and a road.

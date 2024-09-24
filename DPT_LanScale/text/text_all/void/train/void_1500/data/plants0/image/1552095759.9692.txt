@@ -8,3 +8,8 @@ A concrete planter with a red object in it.
 The image shows a garden area with a brick pathway, a tree stump, and a sandy area with plants.
 The image shows a small garden area with a few plants and a brick pattern on the ground.
 The image shows a garden area with a variety of plants and a brick pathway.
+An image with a tree, a floor, two walls, and a sand.
+An image with a tree, two walls, a floor, and a sand.
+An image with two walls, a tree, a floor, and a sand.
+An image with a tree, two walls, a sand, and a floor.
+An image with two walls, a sand, a tree, and a floor.

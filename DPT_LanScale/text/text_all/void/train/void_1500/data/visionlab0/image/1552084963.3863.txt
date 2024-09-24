@@ -8,3 +8,8 @@ A man sitting at a desk with a laptop.
 A man is sitting at a desk with two computer monitors, a keyboard, and a mouse.
 A man is sitting at a desk with a laptop, a monitor, a cup, and a keyboard.
 The image shows an office setting with two desks, each equipped with a computer monitor, keyboard, and chair.
+An image with two chairs, two cups, a laptop, a table, a tv, a wall, a paper, a floor, and a person.
+An image with a wall, a laptop, two chairs, a tv, a table, two cups, a paper, a floor, and a person.
+An image with a floor, two cups, a wall, a tv, two chairs, a table, a paper, a laptop, and a person.
+An image with a floor, a table, two cups, a wall, two chairs, a paper, a person, a tv, and a laptop.
+An image with a paper, two cups, a floor, a person, a laptop, two chairs, a tv, a table, and a wall.

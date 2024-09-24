@@ -8,3 +8,8 @@ The image shows a street scene with a crosswalk.
 The image captures a quaint, tree-lined street in a residential area, with a pedestrian crossing and a bus stop, where a person is waiting for the bus.
 The image shows a narrow street with a crosswalk, lined with houses and trees, and a person standing on the sidewalk.
 A quiet residential street with a crosswalk, parked cars, and a pedestrian.
+An image with a road, two people, six cars, a sky, a wall, a bench, a tree, a pavement, and a house.
+An image with a road, a bench, six cars, a house, a wall, two people, a tree, a pavement, and a sky.
+An image with two people, a bench, a sky, six cars, a road, a wall, a tree, a house, and a pavement.
+An image with two people, a sky, six cars, a house, a bench, a road, a tree, a pavement, and a wall.
+An image with six cars, a tree, a wall, a pavement, a bench, a house, a road, a sky, and two people.

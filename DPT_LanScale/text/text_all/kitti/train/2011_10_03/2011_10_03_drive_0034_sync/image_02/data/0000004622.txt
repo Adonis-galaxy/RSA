@@ -8,3 +8,8 @@ The image shows a narrow, tree-lined street.
 A narrow, tree-lined street with a brick wall and a white door on the right side.
 The image shows a narrow, tree-lined street with a brick wall on one side, a white mailbox on the right, and a sign with a blue circle and a white arrow on the left.
 A narrow, tree-lined street with a brick wall on one side and a stone wall on the other, leading to a dead-end.
+An image with a tree, a wall, a door, a sky, and a road.
+An image with a door, a sky, a wall, a road, and a tree.
+An image with a wall, a door, a tree, a road, and a sky.
+An image with a road, a door, a tree, a sky, and a wall.
+An image with a tree, a road, a sky, a wall, and a door.

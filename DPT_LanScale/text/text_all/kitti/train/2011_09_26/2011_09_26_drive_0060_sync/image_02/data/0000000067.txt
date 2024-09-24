@@ -8,3 +8,8 @@ The image shows a street intersection with a white crosswalk.
 The image captures a quiet, tree-lined street in a residential area, with a clear view of a traffic light and a bicycle parked on the sidewalk.
 The image shows a quiet residential street with a few parked cars, a bicycle, and a traffic light. The street is lined with trees and houses, and there is a crosswalk painted on the road.
 The image depicts a quiet, tree-lined street in a residential area, with a clear view of a traffic light and a bicycle parked on the sidewalk.
+An image with four traffics, a window, five cars, a pavement, a house, a tree, a bicycle, a grass, and a road.
+An image with five cars, a window, four traffics, a grass, a tree, a bicycle, a house, a pavement, and a road.
+An image with a bicycle, five cars, a window, four traffics, a road, a tree, a pavement, a grass, and a house.
+An image with five cars, a house, a bicycle, a grass, four traffics, a window, a tree, a road, and a pavement.
+An image with a house, five cars, a grass, four traffics, a tree, a pavement, a bicycle, a road, and a window.

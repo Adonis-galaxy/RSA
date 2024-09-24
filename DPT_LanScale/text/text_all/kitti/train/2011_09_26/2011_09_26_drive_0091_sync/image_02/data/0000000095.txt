@@ -8,3 +8,8 @@ A bustling city street with a train running down the middle.
 A bustling city street with a tram, cyclists, pedestrians, and a mix of old and new architecture.
 A bustling city street with a tram, bicycles, pedestrians, and outdoor seating.
 A bustling city street with a tram, cyclists, pedestrians, and a mix of shops and restaurants.
+An image with nine people, five bicycles, a tree, a dining, a car, a building, two umbrellas, a traffic, a pavement, a truck, a bench, three chairs, and a railroad.
+An image with a pavement, nine people, two umbrellas, five bicycles, a truck, a bench, three chairs, a car, a dining, a building, a tree, a railroad, and a traffic.
+An image with two umbrellas, three chairs, five bicycles, nine people, a tree, a railroad, a building, a traffic, a dining, a bench, a truck, a car, and a pavement.
+An image with three chairs, five bicycles, a dining, nine people, a car, a tree, a traffic, a bench, a pavement, two umbrellas, a truck, a building, and a railroad.
+An image with nine people, a bench, two umbrellas, five bicycles, a dining, a truck, a car, a pavement, a building, three chairs, a railroad, a tree, and a traffic.

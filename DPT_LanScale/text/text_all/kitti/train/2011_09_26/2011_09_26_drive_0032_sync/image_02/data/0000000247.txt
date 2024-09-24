@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with cars driving along the road, passing under traffic lights, and navigating a crosswalk.
 The image shows a wide, tree-lined road with multiple lanes, a crosswalk, and traffic lights. The road is mostly empty, with only a few cars visible in the distance.
 The image depicts a wide, tree-lined road with multiple lanes, a crosswalk, and traffic lights, leading to a roundabout with a sign indicating a nearby brewery.
+An image with six cars, eight traffics, a stop, a tree, a road, a grass, a pavement, and a truck.
+An image with six cars, a truck, a grass, eight traffics, a pavement, a road, a stop, and a tree.
+An image with six cars, eight traffics, a road, a stop, a truck, a grass, a tree, and a pavement.
+An image with eight traffics, six cars, a grass, a tree, a road, a pavement, a truck, and a stop.
+An image with eight traffics, a tree, a pavement, a truck, six cars, a grass, a road, and a stop.

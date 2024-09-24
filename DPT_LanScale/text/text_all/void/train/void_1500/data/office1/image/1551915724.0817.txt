@@ -8,3 +8,8 @@ A black chair in front of a desk.
 A small black table with a marble top sits next to a window in a room with a gray filing cabinet.
 The image shows a small, dark gray filing cabinet tucked into a corner next to a window, with a black chair and a marble table in the foreground.
 The image shows a small room with a desk, a chair, and a window.
+An image with a table, a cabinet, a book, a window, a rug, a dining, a wall, a chair, and a cell.
+An image with a wall, a chair, a cabinet, a rug, a dining, a cell, a window, a table, and a book.
+An image with a table, a book, a chair, a cabinet, a wall, a cell, a rug, a dining, and a window.
+An image with a cell, a book, a window, a chair, a wall, a dining, a cabinet, a table, and a rug.
+An image with a rug, a table, a wall, a cell, a window, a book, a dining, a chair, and a cabinet.

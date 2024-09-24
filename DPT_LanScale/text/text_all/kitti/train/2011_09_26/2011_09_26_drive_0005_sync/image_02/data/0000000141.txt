@@ -8,3 +8,8 @@ The image shows a narrow street in a city with parked cars and a person riding a
 A person riding a skateboard in a narrow street between parked cars, with a clear sky overhead.
 A narrow street in a European city, lined with parked cars and pedestrians, with a large building on one side and a smaller building on the other.
 A narrow street in a European city, with parked cars, a skateboarder, and a bicyclist, all under a bright sun.
+An image with a pavement, fourteen cars, three people, a sky, a bicycle, a parking, a building, a truck, a road, and a tree.
+An image with a parking, a bicycle, fourteen cars, a pavement, a building, three people, a road, a sky, a truck, and a tree.
+An image with fourteen cars, three people, a bicycle, a road, a pavement, a tree, a building, a truck, a sky, and a parking.
+An image with a bicycle, fourteen cars, a building, a pavement, a road, a tree, three people, a parking, a sky, and a truck.
+An image with a building, a road, fourteen cars, a bicycle, a tree, a truck, three people, a sky, a pavement, and a parking.

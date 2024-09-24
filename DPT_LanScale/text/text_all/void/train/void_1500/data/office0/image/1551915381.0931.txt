@@ -8,3 +8,8 @@ A stack of papers on a table.
 A stack of papers and magazines on a table with a coffee cup on the side.
 A stack of papers and magazines on a table with a white mug on the side.
 A stack of papers and books on a table with a white mug on the side.
+An image with two books, a paper, a cup, a wall, and a tv.
+An image with a cup, two books, a paper, a wall, and a tv.
+An image with a tv, two books, a paper, a wall, and a cup.
+An image with two books, a paper, a tv, a cup, and a wall.
+An image with a wall, a paper, two books, a tv, and a cup.

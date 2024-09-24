@@ -8,3 +8,8 @@ A red van is parked on the side of a road.
 A red van is parked on the side of a tree-lined street, with a clear sky overhead and a building in the background.
 A red van is driving down a narrow, tree-lined street, with a brick sidewalk and a building on the left side.
 A narrow, tree-lined street with a red van parked on the right side, leading to a residential area with garages and a house in the background.
+An image with two cars, a road, a sky, a pavement, a building, and a tree.
+An image with two cars, a road, a tree, a building, a sky, and a pavement.
+An image with a sky, a building, a road, a tree, a pavement, and two cars.
+An image with a pavement, a building, two cars, a tree, a sky, and a road.
+An image with a building, a pavement, a tree, a road, a sky, and two cars.

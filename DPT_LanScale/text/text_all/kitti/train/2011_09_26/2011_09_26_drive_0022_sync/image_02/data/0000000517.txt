@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 A red car is parked on the side of a road, surrounded by a line of parked cars, with a white fence and trees in the background.
 A red car is parked on the side of a road, surrounded by a few other cars, with a white fence and trees in the background.
 A row of parked cars on a tree-lined street, with a red car in the foreground and a black car in the background.
+An image with five cars, a road, a tree, a fence, a grass, and a pavement.
+An image with five cars, a fence, a tree, a pavement, a grass, and a road.
+An image with a pavement, a tree, five cars, a grass, a road, and a fence.
+An image with five cars, a fence, a road, a grass, a tree, and a pavement.
+An image with five cars, a pavement, a road, a tree, a fence, and a grass.

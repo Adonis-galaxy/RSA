@@ -8,3 +8,8 @@ The image shows a sidewalk with a metal drainage pipe and a patch of dirt with p
 The image shows a concrete sidewalk with a metal drainage pipe, a patch of dirt with some plants, and a tree trunk.
 The image shows a sidewalk with a metal railing, a concrete curb, and a patch of dirt with some plants and a small concrete slab.
 The image shows a concrete sidewalk with a metal drainage pipe, a patch of dirt with some plants, and a tree trunk.
+An image with two walls, a tree, a floor, and a dirt.
+An image with two walls, a floor, a dirt, and a tree.
+An image with two walls, a dirt, a tree, and a floor.
+An image with a floor, two walls, a tree, and a dirt.
+An image with a dirt, a floor, two walls, and a tree.

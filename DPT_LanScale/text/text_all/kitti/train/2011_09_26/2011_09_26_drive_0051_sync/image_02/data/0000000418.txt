@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with a train passing by on the tracks, cars driving on the road, and pedestrians navigating the sidewalk, all under a clear blue sky.
 The image shows a wide street with a train passing by on the right side, lined with trees and buildings, and a crosswalk in the foreground.
 The image captures a bustling city street, with a train track running parallel to the road, and a crosswalk leading to a building with a yellow sign.
+An image with thirteen cars, a road, a building, a sky, two traffics, two trucks, a tree, a bus, a railroad, a grass, and a fire.
+An image with a sky, thirteen cars, two traffics, a road, a tree, two trucks, a fire, a building, a bus, a grass, and a railroad.
+An image with thirteen cars, two trucks, a grass, a bus, a tree, a fire, a sky, two traffics, a railroad, a building, and a road.
+An image with a sky, a fire, thirteen cars, two traffics, a grass, two trucks, a railroad, a building, a bus, a road, and a tree.
+An image with thirteen cars, two traffics, a tree, a sky, a railroad, a grass, a building, two trucks, a fire, a bus, and a road.

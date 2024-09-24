@@ -8,3 +8,8 @@ A whiteboard with red writing on it.
 The image captures a conference room setting with a whiteboard, a large screen, a wooden table with red chairs, and a few items on the table.
 The image shows an office meeting room with a large whiteboard, a wooden table, red chairs, and a projection screen.
 The image shows an office meeting room with a whiteboard, a large screen, a wooden table, red chairs, and a white box on the table.
+An image with eight chairs, a tv, a cup, a floor, a wall, a dining, a ceiling, a bottle, and a window.
+An image with a wall, eight chairs, a bottle, a tv, a window, a dining, a floor, a ceiling, and a cup.
+An image with eight chairs, a ceiling, a bottle, a tv, a window, a dining, a floor, a wall, and a cup.
+An image with a wall, eight chairs, a cup, a tv, a dining, a floor, a window, a ceiling, and a bottle.
+An image with a floor, eight chairs, a tv, a bottle, a ceiling, a window, a cup, a wall, and a dining.

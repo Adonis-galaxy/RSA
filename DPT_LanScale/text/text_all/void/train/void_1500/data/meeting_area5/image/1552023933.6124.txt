@@ -8,3 +8,8 @@ A row of white plastic chairs with gray legs around a white table.
 The image shows a row of four white chairs with gray legs, positioned in front of a long white table.
 The image shows a row of four white plastic chairs with gray metal legs and a white table with a gray metal frame.
 The image shows a row of four white chairs with gray legs, positioned in front of a long white table.
+An image with a dining, three chairs, a floor, and a wall.
+An image with three chairs, a wall, a floor, and a dining.
+An image with a dining, a floor, a wall, and three chairs.
+An image with a dining, a wall, three chairs, and a floor.
+An image with a wall, three chairs, a dining, and a floor.

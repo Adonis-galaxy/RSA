@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a typical urban street scene with parked cars lining both sides of a narrow road, a sidewalk, and apartment buildings in the background.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a sign indicating a no-parking zone.
 A narrow street lined with parked cars and buildings, with a sign indicating a no-parking zone.
+An image with seven cars, a door, a road, a sky, a window, a truck, a wall, a building, a tree, and a pavement.
+An image with a truck, a pavement, seven cars, a wall, a road, a tree, a door, a building, a sky, and a window.
+An image with seven cars, a building, a pavement, a wall, a tree, a window, a road, a truck, a sky, and a door.
+An image with a window, seven cars, a road, a wall, a sky, a door, a tree, a building, a truck, and a pavement.
+An image with a pavement, a sky, a building, a tree, a road, seven cars, a door, a truck, a window, and a wall.

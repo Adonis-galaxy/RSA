@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, with a mix of nature and urban elements, where the sun casts long shadows and the quietness of the day is palpable.
 The image shows a residential street with a large house on the left, a car parked on the right, a tree-lined sidewalk, and a street sign.
 The image depicts a residential street with a curved driveway, a parked car, a triangular street sign, and a sidewalk lined with trees and bushes.
+An image with two cars, a road, a wall, a tree, and a pavement.
+An image with two cars, a tree, a road, a pavement, and a wall.
+An image with a wall, a tree, a road, a pavement, and two cars.
+An image with two cars, a tree, a pavement, a road, and a wall.
+An image with two cars, a wall, a tree, a road, and a pavement.

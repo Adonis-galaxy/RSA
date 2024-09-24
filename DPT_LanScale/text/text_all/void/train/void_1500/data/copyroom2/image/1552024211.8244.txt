@@ -8,3 +8,8 @@ The image shows a printer in a room with green walls.
 The image shows a white printer in a room with green walls, and a blurred object in the foreground.
 The image shows a white printer in a room with green walls, and a blurry object in the foreground.
 The image shows a white printer on a green floor in a room with green walls, and a brown object in the corner.
+An image with a floor, a wall, a cabinet, a ceiling, a couch, and a light.
+An image with a floor, a couch, a wall, a cabinet, a light, and a ceiling.
+An image with a light, a wall, a ceiling, a couch, a cabinet, and a floor.
+An image with a wall, a ceiling, a floor, a couch, a light, and a cabinet.
+An image with a couch, a floor, a light, a wall, a cabinet, and a ceiling.

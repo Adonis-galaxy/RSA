@@ -8,3 +8,8 @@ The image shows a black chair with silver legs on a brown carpeted floor.
 The image shows a black chair with silver legs on a brown carpeted floor.
 The image shows a black chair with silver legs on a brown carpeted floor.
 The image shows a row of black chairs with silver legs on a brown carpeted floor.
+An image with two chairs, a floor, and a rug.
+An image with a floor, two chairs, and a rug.
+An image with two chairs, a rug, and a floor.
+An image with a floor, two chairs, and a rug.
+An image with two chairs, a rug, and a floor.

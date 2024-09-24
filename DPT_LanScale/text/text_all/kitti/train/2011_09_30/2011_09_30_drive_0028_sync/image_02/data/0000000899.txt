@@ -8,3 +8,8 @@ The image shows a street with parked cars and a building in the background.
 The image captures a sunny day in a residential area, with parked cars lining a tree-lined street, and a Volkswagen van parked in front of a house.
 The image shows a narrow street lined with parked cars, with a large Volkswagen van parked in the foreground and a smaller car parked behind it. The street is shaded by trees, and there are buildings on both sides.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with seven cars, a tree, a grass, a sky, a road, a fence, and a house.
+An image with a tree, seven cars, a grass, a house, a sky, a road, and a fence.
+An image with a sky, a tree, a house, seven cars, a grass, a fence, and a road.
+An image with a house, seven cars, a fence, a road, a tree, a grass, and a sky.
+An image with seven cars, a sky, a house, a grass, a fence, a road, and a tree.

@@ -8,3 +8,8 @@ A long line of cars driving down a road.
 A long, winding road through a lush, tree-lined forest, with a line of cars driving along it.
 A long, narrow road with a dense line of cars, surrounded by a forest.
 A long, winding road with a dense forest on both sides, flanked by a variety of vehicles, including cars and trucks, moving in both directions.
+An image with a sky, six cars, a pavement, a road, a grass, a truck, and a tree.
+An image with a tree, six cars, a pavement, a road, a sky, a grass, and a truck.
+An image with six cars, a road, a grass, a pavement, a truck, a tree, and a sky.
+An image with a pavement, six cars, a tree, a sky, a road, a truck, and a grass.
+An image with six cars, a sky, a road, a pavement, a truck, a tree, and a grass.

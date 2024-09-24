@@ -8,3 +8,8 @@ The image shows a classroom with black chairs and orange desks.
 The image shows a classroom setting with two black chairs and two orange desks.
 The image shows a classroom with two black chairs and two orange desks.
 The image shows a classroom setting with two desks and two chairs, one of which is partially visible.
+An image with a dining, four chairs, a wall, and a floor.
+An image with a floor, a dining, four chairs, and a wall.
+An image with four chairs, a dining, a floor, and a wall.
+An image with a floor, four chairs, a wall, and a dining.
+An image with four chairs, a wall, a floor, and a dining.

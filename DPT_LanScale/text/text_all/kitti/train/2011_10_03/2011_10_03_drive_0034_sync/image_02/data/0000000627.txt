@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a white building, and trees, with a clear blue sky overhead.
 The image depicts a residential street with a mix of houses, trees, and parked cars, showcasing a typical suburban setting.
+An image with a grass, seven cars, a house, a road, a sky, a tree, and a pavement.
+An image with seven cars, a house, a sky, a tree, a grass, a road, and a pavement.
+An image with seven cars, a pavement, a tree, a road, a grass, a sky, and a house.
+An image with a tree, seven cars, a pavement, a road, a sky, a grass, and a house.
+An image with seven cars, a house, a pavement, a sky, a tree, a grass, and a road.

@@ -8,3 +8,8 @@ The image shows a street view with a car on the road.
 A quiet residential street, with a clear view of the road ahead, leading to a row of houses and apartment buildings.
 A narrow street with parked cars, a sidewalk, and a building in the background.
 A quiet residential street with a clear view of the sky and a few parked cars.
+An image with two walls, four cars, a sky, a pavement, a tree, a fence, a road, and a window.
+An image with a pavement, two walls, a road, a window, four cars, a tree, a fence, and a sky.
+An image with a road, two walls, a pavement, a sky, four cars, a window, a fence, and a tree.
+An image with two walls, a window, a tree, a sky, a fence, a pavement, four cars, and a road.
+An image with a sky, four cars, two walls, a road, a pavement, a window, a tree, and a fence.

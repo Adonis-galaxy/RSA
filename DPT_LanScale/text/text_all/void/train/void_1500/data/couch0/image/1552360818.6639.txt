@@ -8,3 +8,8 @@ A black backpack on a gray couch.
 A backpack and a hat are placed on a gray couch, with a magazine and a suitcase nearby.
 A black backpack and a black bag are sitting on a gray bench, with a magazine and a hat on the bench.
 A black backpack and a black bag are placed on a gray bench, with a magazine and a hat on the seat.
+An image with two backpacks, a couch, a rug, a wall, a book, a door, and a suitcase.
+An image with two backpacks, a book, a suitcase, a couch, a rug, a wall, and a door.
+An image with a rug, a door, a wall, two backpacks, a book, a suitcase, and a couch.
+An image with a suitcase, a wall, a book, two backpacks, a door, a rug, and a couch.
+An image with a book, a rug, a couch, two backpacks, a door, a wall, and a suitcase.

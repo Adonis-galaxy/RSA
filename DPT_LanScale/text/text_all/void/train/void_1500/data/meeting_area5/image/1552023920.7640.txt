@@ -8,3 +8,8 @@ The image shows two white office chairs with black wheels.
 The image shows two white office chairs positioned in front of a white desk, with the chairs facing each other.
 The image shows two white office chairs with black wheels, positioned in front of a white table.
 The image shows a white table with two chairs in a room with a carpeted floor.
+An image with a window, four chairs, a floor, a dining, and a wall.
+An image with four chairs, a wall, a floor, a dining, and a window.
+An image with four chairs, a dining, a window, a floor, and a wall.
+An image with four chairs, a window, a wall, a floor, and a dining.
+An image with four chairs, a dining, a window, a floor, and a wall.

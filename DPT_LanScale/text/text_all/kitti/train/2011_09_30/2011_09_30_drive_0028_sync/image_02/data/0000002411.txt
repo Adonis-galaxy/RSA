@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A person riding a bicycle on a street, with houses and trees in the background, and a blue sign on a pole.
 A man riding a bicycle on a street between two houses, with a roundabout and a blue sign in the background.
 A man riding a bicycle on a street with houses, cars, and a roundabout.
+An image with seven cars, a road, a person, a pavement, a sky, a house, a bicycle, and a tree.
+An image with a bicycle, a person, seven cars, a pavement, a tree, a road, a sky, and a house.
+An image with a house, a person, a bicycle, seven cars, a tree, a sky, a pavement, and a road.
+An image with a bicycle, seven cars, a pavement, a person, a house, a sky, a tree, and a road.
+An image with seven cars, a house, a bicycle, a person, a pavement, a sky, a road, and a tree.

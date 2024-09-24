@@ -8,3 +8,8 @@ A black computer chair.
 A black office chair with a white stripe on the seat, positioned in front of a computer desk.
 A black computer chair with a white stripe on the seat, sitting on a brown carpeted floor in front of a white desk.
 A black office chair with a white stripe on the seat is positioned in front of a white desk with a black keyboard and mouse.
+An image with a rug, a table, a wall, two chairs, a keyboard, and a mouse.
+An image with two chairs, a mouse, a rug, a wall, a table, and a keyboard.
+An image with a rug, two chairs, a table, a keyboard, a wall, and a mouse.
+An image with a wall, a mouse, a table, a rug, two chairs, and a keyboard.
+An image with two chairs, a keyboard, a mouse, a rug, a wall, and a table.

@@ -8,3 +8,8 @@ A man is sitting at a table in a room.
 A man is sitting at a table with a laptop, surrounded by a few chairs and a bag, in a room with a door and a window.
 A man is sitting at a table in a room with a white wall, a red lantern, a white tablecloth, and a white chair.
 A man is sitting at a table in a room with a white wall, a red lantern, a whiteboard, and a window.
+An image with a handbag, two people, a shelf, a wall, a cup, a dining, a door, a floor, and two chairs.
+An image with a shelf, two chairs, two people, a floor, a handbag, a cup, a dining, a wall, and a door.
+An image with a shelf, a cup, a handbag, two chairs, a wall, a floor, two people, a door, and a dining.
+An image with two chairs, a floor, a handbag, a cup, two people, a dining, a shelf, a door, and a wall.
+An image with a handbag, two chairs, a dining, a wall, a cup, a door, two people, a shelf, and a floor.

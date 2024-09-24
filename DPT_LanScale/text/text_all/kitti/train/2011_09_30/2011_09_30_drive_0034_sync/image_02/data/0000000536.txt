@@ -8,3 +8,8 @@ The image shows a narrow street in a European town.
 The image captures a quaint, narrow street in a European town, lined with charming houses, lush greenery, and a few parked cars, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a sign indicating a 10-meter limit.
 A narrow, tree-lined street in a residential area, with parked cars and a few signs, leading to a white house with a red roof.
+An image with a tree, a wall, a road, two cars, a sky, a flower, and a house.
+An image with a road, a tree, two cars, a flower, a house, a sky, and a wall.
+An image with a wall, a sky, two cars, a house, a tree, a road, and a flower.
+An image with a house, a flower, a tree, a wall, two cars, a sky, and a road.
+An image with a flower, two cars, a road, a house, a wall, a tree, and a sky.

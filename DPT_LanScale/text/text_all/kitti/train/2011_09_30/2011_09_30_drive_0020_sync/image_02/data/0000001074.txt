@@ -8,3 +8,8 @@ A silver car driving down a street.
 A car is driving down a street, passing by a building with a fenced-off construction area in front of it.
 A small silver car is driving down a street next to a white building with a blue sky in the background.
 A car is driving down a street that is lined with buildings and trees, and there is a construction site with a fence and a sign nearby.
+An image with three cars, a fence, two stops, a wall, a building, a house, a tree, a grass, a pavement, and a road.
+An image with a road, three cars, a fence, a tree, a pavement, a wall, two stops, a grass, a building, and a house.
+An image with a grass, a building, a tree, three cars, a house, a wall, a pavement, two stops, a fence, and a road.
+An image with a fence, three cars, two stops, a house, a tree, a road, a pavement, a wall, a grass, and a building.
+An image with a house, a wall, a road, a tree, three cars, a building, two stops, a fence, a pavement, and a grass.

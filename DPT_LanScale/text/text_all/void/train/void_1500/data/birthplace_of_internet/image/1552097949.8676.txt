@@ -8,3 +8,8 @@ A blue and black cabinet with a white sign on it.
 The image shows a room with a blue cabinet, a table with a chair, a trash can, and a bulletin board with a blue background.
 The image shows a room with a blue cabinet, a table with a chair, a trash can, and a bulletin board with a blue border.
 The image shows a room with a blue cabinet, a table with a chair, a trash can, and a blue line on the floor.
+An image with a person, four chairs, a refrigerator, a paper, a floor, a wall, a door, and a dining.
+An image with a wall, a person, a floor, four chairs, a paper, a refrigerator, a dining, and a door.
+An image with a refrigerator, a door, a wall, a floor, four chairs, a person, a dining, and a paper.
+An image with a person, a floor, a dining, four chairs, a door, a wall, a refrigerator, and a paper.
+An image with four chairs, a floor, a paper, a wall, a dining, a refrigerator, a door, and a person.

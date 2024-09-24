@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes and a median, with traffic moving 
 The image captures a scene of a highway with multiple lanes, marked by white lines, and a clear sky overhead. There are trees on the left side of the road, and a yellow sign with black text indicating the direction of the road. The road is lined with a green grassy area on the right side.
 The image shows a wide, empty highway with a few cars and trucks, a yellow sign with black text, and a green field on the side.
 The image shows a wide, multi-lane road with a clear view of the surrounding landscape, including trees and a grassy area, and there are traffic signs and barriers indicating a highway or freeway.
+An image with six cars, a sky, three people, a grass, a road, a tree, and a pavement.
+An image with a tree, six cars, three people, a grass, a pavement, a road, and a sky.
+An image with six cars, a tree, three people, a pavement, a road, a sky, and a grass.
+An image with six cars, three people, a pavement, a tree, a sky, a road, and a grass.
+An image with three people, six cars, a pavement, a tree, a road, a grass, and a sky.

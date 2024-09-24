@@ -8,3 +8,8 @@ A computer mouse on a desk.
 A computer mouse on a desk, with a black cord, on a carpeted floor.
 A computer mouse is on a desk, and a black suitcase is under the desk.
 The image shows a computer mouse on a desk, with a black computer monitor and a black chair in the background. The floor is carpeted, and the desk is positioned against a white wall.
+An image with a chair, a mouse, a table, a rug, and a wall.
+An image with a table, a chair, a mouse, a wall, and a rug.
+An image with a chair, a rug, a mouse, a table, and a wall.
+An image with a mouse, a wall, a chair, a table, and a rug.
+An image with a wall, a table, a chair, a mouse, and a rug.

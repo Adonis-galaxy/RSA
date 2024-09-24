@@ -8,3 +8,8 @@ The image shows a car on a road.
 A car on a road, with a fence and trees in the background.
 A car is driving down a narrow road between two fences, with trees on both sides.
 A car is driving down a tree-lined road with a fence on the side, and there are other cars in the distance.
+An image with three cars, a tree, a sky, a road, a fence, a person, a stop, and a grass.
+An image with a sky, a person, a road, three cars, a fence, a grass, a stop, and a tree.
+An image with a sky, a tree, a grass, a stop, three cars, a fence, a road, and a person.
+An image with a person, a grass, a stop, three cars, a road, a tree, a fence, and a sky.
+An image with three cars, a person, a road, a grass, a stop, a tree, a sky, and a fence.

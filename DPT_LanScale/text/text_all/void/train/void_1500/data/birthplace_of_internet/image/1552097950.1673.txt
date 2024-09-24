@@ -8,3 +8,8 @@ A room with a blue cabinet and a table.
 The image shows a room with a blue cabinet, a table with a chair, and a whiteboard with a blue border.
 The image shows a room with a blue cabinet, a table with a chair, a desk with a chair, and a large screen on the wall.
 The image shows a room with a blue cabinet, a table with a chair, a desk with a chair, and a green wall with pictures and a shelf.
+An image with four chairs, a floor, a door, a refrigerator, a person, a light, a paper, a dining, and a wall.
+An image with a dining, a door, four chairs, a paper, a light, a refrigerator, a floor, a wall, and a person.
+An image with a floor, a door, a light, a paper, four chairs, a refrigerator, a person, a wall, and a dining.
+An image with a person, a light, four chairs, a floor, a paper, a refrigerator, a door, a wall, and a dining.
+An image with four chairs, a paper, a dining, a light, a person, a wall, a refrigerator, a door, and a floor.

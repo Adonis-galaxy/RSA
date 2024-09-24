@@ -8,3 +8,8 @@ The image shows a street scene with two white boxes on the sidewalk.
 The image captures a quiet residential street corner, with two white trash cans standing side by side on the sidewalk, under the shade of a tree, and adjacent to a parked car.
 The image shows a street scene with a large white trash can on the sidewalk, a smaller white trash can on the side of the road, and a car parked on the street.
 The image shows a street scene with a curved sidewalk, a roundabout, a parked car, a pedestrian crossing, a parking meter, and a tree-lined street.
+An image with seven cars, a road, a pavement, a grass, a sky, and a tree.
+An image with seven cars, a road, a tree, a sky, a pavement, and a grass.
+An image with a road, seven cars, a sky, a grass, a pavement, and a tree.
+An image with seven cars, a tree, a pavement, a grass, a road, and a sky.
+An image with seven cars, a pavement, a grass, a tree, a road, and a sky.

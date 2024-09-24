@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a white building on the right, a sidewalk on the left, and a tree-lined road in the middle, all under a clear blue sky.
 The image shows a narrow street lined with trees and buildings, with a small sidewalk and a metal railing.
 The image depicts a quiet residential street with a white building, a sidewalk, a driveway, and a few trees, all under a clear blue sky.
+An image with two cars, a sky, a pavement, a road, a wall, a house, a tree, a fence, and a grass.
+An image with a fence, a house, two cars, a road, a pavement, a grass, a sky, a wall, and a tree.
+An image with two cars, a sky, a pavement, a house, a tree, a road, a wall, a grass, and a fence.
+An image with a fence, a house, a pavement, a sky, two cars, a tree, a wall, a road, and a grass.
+An image with a pavement, a fence, a house, a wall, a sky, a road, two cars, a grass, and a tree.

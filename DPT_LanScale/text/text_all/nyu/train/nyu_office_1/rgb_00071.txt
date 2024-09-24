@@ -8,3 +8,8 @@ A red chair in front of a desk with two computer monitors.
 A red chair in front of a desk with two computer monitors, a keyboard, and a mouse.
 A red chair is in front of a desk with two computer monitors, a keyboard, and a mouse.
 A red chair is positioned in front of a desk with two computer monitors, a keyboard, and a mouse, all set against a brick wall.
+An image with two tvs, a floor, two walls, a cup, a table, a chair, a mouse, and a keyboard.
+An image with two walls, a chair, a floor, a mouse, a cup, two tvs, a keyboard, and a table.
+An image with a chair, two tvs, two walls, a floor, a mouse, a keyboard, a cup, and a table.
+An image with a chair, two tvs, a floor, two walls, a keyboard, a table, a mouse, and a cup.
+An image with a floor, a keyboard, a chair, two walls, a mouse, a cup, a table, and two tvs.

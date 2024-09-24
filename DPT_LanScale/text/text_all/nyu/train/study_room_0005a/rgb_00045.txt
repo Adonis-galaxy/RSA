@@ -8,3 +8,8 @@ The image shows an empty room with a gray carpet, a row of gray chairs, a gray d
 The image captures an empty, well-lit office space with a row of gray chairs facing a desk area, a trash can, and a doorway leading to another room.
 The image shows an empty room with a large desk, several chairs, and a counter. The room is illuminated by fluorescent lights.
 The image shows an empty office space with a row of gray chairs, a desk, a counter, and a doorway leading to another room.
+An image with five chairs, a ceiling, a window, a wall, a door, a rug, and a table.
+An image with five chairs, a rug, a window, a wall, a door, a table, and a ceiling.
+An image with five chairs, a window, a rug, a wall, a table, a ceiling, and a door.
+An image with a table, a door, five chairs, a window, a ceiling, a rug, and a wall.
+An image with five chairs, a door, a rug, a wall, a ceiling, a table, and a window.

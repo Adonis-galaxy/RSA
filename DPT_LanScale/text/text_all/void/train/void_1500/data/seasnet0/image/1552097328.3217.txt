@@ -8,3 +8,8 @@ A row of computer monitors on a table.
 A row of computer monitors on a table with keyboards and mice.
 The image shows a large room with multiple desks, each equipped with a computer monitor, keyboard, and mouse.
 The image shows a row of computer monitors on a table, with each monitor accompanied by a keyboard and mouse, and the chairs are black.
+An image with five tvs, three chairs, a laptop, three keyboards, two mice, a wall, a table, and a rug.
+An image with two mice, three keyboards, a table, five tvs, a laptop, three chairs, a wall, and a rug.
+An image with three keyboards, two mice, a wall, a rug, five tvs, three chairs, a table, and a laptop.
+An image with two mice, a rug, five tvs, three keyboards, a wall, a laptop, three chairs, and a table.
+An image with three chairs, a table, five tvs, a rug, a laptop, a wall, two mice, and three keyboards.

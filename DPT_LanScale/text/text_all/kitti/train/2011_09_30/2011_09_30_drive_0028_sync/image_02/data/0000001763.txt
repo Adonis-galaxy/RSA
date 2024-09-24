@@ -8,3 +8,8 @@ A narrow street between two houses.
 A quiet residential street, lined with houses and trees, where the sun casts a warm glow on the brick pavement.
 A narrow, tree-lined street between two-story houses, with a few cars parked along the sides and a person walking on the right side.
 A narrow, tree-lined street between two-story houses, with a clear sky overhead.
+An image with three cars, a road, two people, a stop, a pavement, a sky, a tree, a house, and a bicycle.
+An image with three cars, a tree, a stop, a road, a house, a pavement, two people, a bicycle, and a sky.
+An image with three cars, two people, a pavement, a stop, a bicycle, a house, a road, a sky, and a tree.
+An image with a pavement, three cars, a bicycle, two people, a tree, a sky, a road, a stop, and a house.
+An image with three cars, a bicycle, a stop, a pavement, two people, a tree, a house, a road, and a sky.

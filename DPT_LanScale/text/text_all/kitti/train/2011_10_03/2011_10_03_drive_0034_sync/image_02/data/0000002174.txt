@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on both sides.
 A quiet, tree-lined residential street, with a car parked at the end, leading to a row of houses.
 The image shows a narrow, tree-lined street between two-story houses, with a car parked on the right side.
 A tree-lined street with houses on both sides, leading to a cul-de-sac.
+An image with a house, a sky, two cars, a window, a pavement, a tree, and a road.
+An image with a house, a road, a sky, two cars, a tree, a pavement, and a window.
+An image with a tree, a house, a window, a road, a sky, two cars, and a pavement.
+An image with a window, two cars, a tree, a road, a pavement, a sky, and a house.
+An image with a tree, two cars, a road, a house, a window, a sky, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with cars, a truck, and traffic lights.
 The image captures a moment of everyday urban life, featuring a car in motion on a street, with traffic lights and a pedestrian crossing sign, set against a backdrop of trees and a parked white van.
 A car is driving on a street with a traffic light, trees, and a white van in the background.
 A busy street scene with cars, a truck, and traffic lights, set against a backdrop of trees and a clear sky.
+An image with three cars, three traffics, a truck, a tree, a road, a sky, a fence, and a pavement.
+An image with a sky, three cars, a road, three traffics, a truck, a tree, a fence, and a pavement.
+An image with three cars, a pavement, a tree, three traffics, a truck, a sky, a fence, and a road.
+An image with a road, a fence, three traffics, three cars, a sky, a tree, a pavement, and a truck.
+An image with three traffics, a sky, a fence, a pavement, three cars, a road, a tree, and a truck.

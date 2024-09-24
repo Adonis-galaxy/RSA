@@ -8,3 +8,8 @@ A kitchen with a table and chairs.
 The image captures a cozy kitchen scene with a dining table set for two, a kitchen counter with a kettle, and a television in the background.
 The image shows a small kitchen with a dining table, chairs, a counter, a stove, a sink, and a window with blinds.
 The image shows a well-lit kitchen with a dining table and chairs, a countertop with a stove and sink, and a window with blinds.
+An image with a vase, three chairs, a floor, a potted, a window, a wall, a counter, a sink, a cabinet, a tv, and a dining.
+An image with a floor, a sink, a counter, a cabinet, three chairs, a tv, a wall, a window, a vase, a potted, and a dining.
+An image with a wall, a dining, a vase, three chairs, a floor, a counter, a sink, a potted, a tv, a window, and a cabinet.
+An image with a wall, a counter, three chairs, a potted, a window, a dining, a cabinet, a vase, a sink, a tv, and a floor.
+An image with a cabinet, three chairs, a vase, a potted, a floor, a counter, a tv, a window, a sink, a wall, and a dining.

@@ -8,3 +8,8 @@ A blue truck on a street.
 A blue truck with a metal structure in its bed is driving down a street lined with houses and trees, with a clear blue sky overhead.
 A large blue truck is driving down a street lined with houses and trees.
 A blue truck is parked on the side of a road, adjacent to a grassy area and a row of houses, with a clear blue sky overhead.
+An image with a house, a tree, three cars, a grass, a truck, a pavement, and a road.
+An image with a truck, a tree, three cars, a grass, a house, a pavement, and a road.
+An image with a grass, a pavement, three cars, a house, a road, a truck, and a tree.
+An image with a tree, a truck, three cars, a grass, a pavement, a house, and a road.
+An image with three cars, a pavement, a road, a tree, a grass, a truck, and a house.

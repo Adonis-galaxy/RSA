@@ -8,3 +8,8 @@ A blurry image of a classroom with a person standing in the corner.
 The image shows a blurry office setting with a person standing in the background, a desk with a laptop and a cup, and a whiteboard with writing on it.
 The image shows a blurry office setting with a person standing in the background, a desk with a laptop and a cup, a whiteboard with writing on it, and various office equipment and furniture.
 The image shows a blurry office setting with a person standing in the foreground, a desk with a laptop and a cup, a whiteboard with writing on it, and various office equipment and furniture.
+An image with a tv, a floor, a chair, a wall, a person, and a table.
+An image with a tv, a chair, a floor, a table, a wall, and a person.
+An image with a tv, a person, a wall, a floor, a chair, and a table.
+An image with a floor, a table, a tv, a person, a wall, and a chair.
+An image with a table, a wall, a tv, a floor, a person, and a chair.

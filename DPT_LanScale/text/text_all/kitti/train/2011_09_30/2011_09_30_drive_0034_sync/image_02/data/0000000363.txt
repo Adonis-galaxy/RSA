@@ -8,3 +8,8 @@ A white van parked on a brick road.
 A white van parked on a narrow street between buildings, with a blue car parked on the side and a white portable toilet nearby.
 A large white van is parked on a narrow street between two buildings, with a blue car parked in front of it and a white portable toilet to the right.
 A narrow, tree-lined street in a residential area, with a white van parked on the right side, a blue car parked on the left side, and a white toilet on the right side.
+An image with a sky, a pavement, a wall, two cars, a truck, a roof, a grass, a tree, and a house.
+An image with a wall, two cars, a truck, a sky, a grass, a tree, a house, a roof, and a pavement.
+An image with a grass, a house, a pavement, two cars, a tree, a wall, a roof, a truck, and a sky.
+An image with a truck, two cars, a wall, a grass, a house, a sky, a tree, a roof, and a pavement.
+An image with a sky, a truck, a pavement, two cars, a wall, a grass, a roof, a tree, and a house.

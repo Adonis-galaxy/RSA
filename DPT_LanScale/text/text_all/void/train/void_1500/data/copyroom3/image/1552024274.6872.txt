@@ -8,3 +8,8 @@ A blurry image of a bathroom counter with a microwave and a sink.
 The image shows a bathroom counter with a white microwave, a sink, and a soap dispenser.
 The image shows a small white microwave on a blue countertop, with a white cord plugged into an outlet.
 The image shows a bathroom counter with a white microwave, a sink, and a mirror.
+An image with a counter, a microwave, a bottle, a sink, a wall, and a paper.
+An image with a bottle, a microwave, a sink, a paper, a wall, and a counter.
+An image with a bottle, a paper, a microwave, a counter, a wall, and a sink.
+An image with a paper, a wall, a bottle, a counter, a sink, and a microwave.
+An image with a wall, a sink, a paper, a counter, a bottle, and a microwave.

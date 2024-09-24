@@ -8,3 +8,8 @@ The image shows a quiet residential street with a few cars parked on the side.
 A quiet residential street with a few parked cars, a bicycle, and a trash can, under a clear blue sky.
 The image shows a quiet residential street with a few cars parked along the sides, a bicycle leaning against a building, and a few trees and bushes lining the road.
 A quiet residential street with a few cars parked on the side, lined with houses and trees, and a clear blue sky overhead.
+An image with a bicycle, four cars, a grass, a stop, a house, a tree, and a road.
+An image with four cars, a stop, a bicycle, a grass, a house, a tree, and a road.
+An image with a house, a tree, four cars, a bicycle, a grass, a road, and a stop.
+An image with four cars, a house, a grass, a road, a bicycle, a stop, and a tree.
+An image with a road, four cars, a bicycle, a stop, a tree, a house, and a grass.

@@ -8,3 +8,8 @@ A narrow alleyway between two fences.
 A narrow, shaded pathway between two fences, with a glimpse of a building and a street in the distance.
 The image shows a narrow alleyway between two fences, with a gate at the end, and a building with a red sign on the right side.
 A narrow, shaded pathway between two fences, with a glimpse of a street and a building in the distance.
+An image with a window, a pavement, a sky, a tree, a wall, and a fence.
+An image with a tree, a wall, a sky, a window, a fence, and a pavement.
+An image with a pavement, a sky, a tree, a wall, a window, and a fence.
+An image with a fence, a wall, a window, a sky, a tree, and a pavement.
+An image with a fence, a pavement, a window, a sky, a tree, and a wall.

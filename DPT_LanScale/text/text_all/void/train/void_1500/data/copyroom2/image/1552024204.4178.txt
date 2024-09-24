@@ -8,3 +8,8 @@ A stack of boxes on a green counter.
 A stack of boxes next to a printer on a green counter.
 A stack of boxes next to a green desk with a white printer on it.
 A stack of boxes on a green counter next to a white printer.
+An image with a paper, a wall, a counter, a cardboard, and a cabinet.
+An image with a cardboard, a cabinet, a counter, a wall, and a paper.
+An image with a counter, a paper, a cardboard, a cabinet, and a wall.
+An image with a counter, a cabinet, a wall, a cardboard, and a paper.
+An image with a counter, a wall, a paper, a cabinet, and a cardboard.

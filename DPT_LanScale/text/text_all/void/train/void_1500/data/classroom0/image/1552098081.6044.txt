@@ -8,3 +8,8 @@ The image shows a row of empty seats in a theater.
 The image shows a row of empty seats in a room with a white cabinet and a blue cabinet.
 The image shows a row of empty seats in a theater, with a small white box in the background.
 The image shows a row of empty seats in a theater, with a white box and a green cabinet in the background.
+An image with a tv, a floor, ten chairs, and a wall.
+An image with a floor, ten chairs, a tv, and a wall.
+An image with ten chairs, a floor, a tv, and a wall.
+An image with ten chairs, a tv, a floor, and a wall.
+An image with ten chairs, a tv, a wall, and a floor.

@@ -8,3 +8,8 @@ The image shows a narrow street with buildings on both sides, a traffic light, a
 The image captures a quaint, narrow street in a European city, where the essence of the scene is the harmonious blend of old-world charm and modern life, with a cyclist navigating the cobblestone path, a pedestrian crossing the street, and a traffic light guiding the flow of urban life.
 A narrow street with a train track running down the middle, lined with buildings and potted plants, and a few people walking.
 A narrow, cobblestone street with a train track running down the middle, lined with shops and pedestrians, and flanked by buildings on both sides.
+An image with a pavement, three bicycles, eight people, a traffic, a car, a building, a flower, a tree, a sky, a railroad, and a umbrella.
+An image with a flower, three bicycles, eight people, a sky, a building, a car, a umbrella, a tree, a traffic, a pavement, and a railroad.
+An image with a building, a sky, three bicycles, eight people, a flower, a umbrella, a traffic, a railroad, a car, a tree, and a pavement.
+An image with eight people, a car, a flower, three bicycles, a sky, a umbrella, a railroad, a building, a traffic, a tree, and a pavement.
+An image with three bicycles, eight people, a tree, a pavement, a railroad, a sky, a car, a building, a flower, a traffic, and a umbrella.

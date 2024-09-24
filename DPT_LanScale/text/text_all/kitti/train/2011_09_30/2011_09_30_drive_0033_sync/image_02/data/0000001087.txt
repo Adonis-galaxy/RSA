@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with quaint houses and trees, under a clear blue sky.
 The image shows a narrow street lined with houses, a car parked on the side, a stop sign, and a tree.
 A quiet residential street with houses, a road, and a few trees, leading to a red stop sign at the end.
+An image with a road, a house, a grass, a motorcycle, a car, a wall, a tree, a fence, a roof, and a pavement.
+An image with a grass, a car, a road, a roof, a tree, a house, a motorcycle, a wall, a fence, and a pavement.
+An image with a car, a tree, a fence, a wall, a grass, a house, a motorcycle, a road, a pavement, and a roof.
+An image with a house, a fence, a car, a tree, a roof, a grass, a wall, a road, a pavement, and a motorcycle.
+An image with a fence, a roof, a pavement, a wall, a road, a tree, a grass, a car, a motorcycle, and a house.

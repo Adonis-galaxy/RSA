@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and apartment buildings.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street lined with parked cars and hedges, with apartment buildings on either side, and a traffic sign indicating a one-way street.
 A narrow, tree-lined street in a residential area, with parked cars and apartment buildings on either side.
+An image with three cars, a pavement, a tree, a wall, a road, a truck, a building, a sky, and a stop.
+An image with a wall, three cars, a truck, a pavement, a stop, a sky, a building, a tree, and a road.
+An image with a building, a truck, a road, three cars, a wall, a sky, a tree, a pavement, and a stop.
+An image with a tree, a truck, three cars, a stop, a building, a sky, a wall, a road, and a pavement.
+An image with three cars, a truck, a sky, a tree, a road, a building, a stop, a wall, and a pavement.

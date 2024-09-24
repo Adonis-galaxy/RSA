@@ -8,3 +8,8 @@ A tree-lined street.
 A serene, tree-lined road under a clear blue sky.
 A tree-lined road with a car parked on the side.
 A tree-lined street with a curved path, bordered by a grassy area and a sidewalk, leading to a road intersection with a stop sign.
+An image with a grass, five cars, a tree, a pavement, and a road.
+An image with five cars, a grass, a road, a pavement, and a tree.
+An image with a road, five cars, a grass, a tree, and a pavement.
+An image with five cars, a tree, a pavement, a road, and a grass.
+An image with five cars, a pavement, a grass, a road, and a tree.

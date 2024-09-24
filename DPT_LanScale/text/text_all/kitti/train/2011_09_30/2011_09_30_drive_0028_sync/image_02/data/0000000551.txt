@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, tree-lined street with a brick wall, a metal fence, and a sidewalk.
 The image depicts a narrow, tree-lined street with a sidewalk, a fence, and a building on the right side.
 The image depicts a narrow, tree-lined street with a sidewalk, a fence, and a building on the right side.
+An image with two walls, a sky, a tree, a road, a car, a pavement, a fence, and a window.
+An image with a tree, a road, a sky, two walls, a car, a window, a fence, and a pavement.
+An image with a tree, two walls, a car, a fence, a window, a road, a sky, and a pavement.
+An image with a fence, a road, a window, a pavement, two walls, a sky, a car, and a tree.
+An image with a fence, two walls, a sky, a window, a tree, a car, a pavement, and a road.

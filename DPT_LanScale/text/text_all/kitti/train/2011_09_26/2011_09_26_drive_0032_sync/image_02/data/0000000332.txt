@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a moment of a car driving down a road, with a clear view of the road ahead, and the surrounding environment.
 The image shows a car on a road with trees and a sky background, and there are traffic lights in the distance.
 The image shows a road with a car, a sidewalk, and trees on both sides, with a clear sky above.
+An image with a grass, nine cars, a tree, two traffics, a pavement, a truck, a sky, a road, and a building.
+An image with a tree, nine cars, a pavement, a building, a sky, two traffics, a truck, a grass, and a road.
+An image with nine cars, a truck, a building, a sky, two traffics, a tree, a road, a grass, and a pavement.
+An image with nine cars, a tree, two traffics, a sky, a pavement, a truck, a road, a building, and a grass.
+An image with a pavement, a sky, nine cars, a building, two traffics, a road, a grass, a tree, and a truck.

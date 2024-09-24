@@ -8,3 +8,8 @@ A room with a black cabinet, a white refrigerator, and a black cart.
 The image shows a room with a black cabinet, a white refrigerator, and a black cart with wheels.
 The image shows a room with a large black cabinet, a white refrigerator, a black cart with wheels, a black and silver camera tripod, and a white desk with a computer monitor.
 The image shows a room with a black cabinet, a white refrigerator, a black cart with wheels, and a white counter. The room has a blue carpet and a white wall.
+An image with a cabinet, a window, a wall, a suitcase, a table, and a floor.
+An image with a cabinet, a wall, a suitcase, a floor, a table, and a window.
+An image with a floor, a wall, a cabinet, a window, a suitcase, and a table.
+An image with a window, a suitcase, a table, a floor, a wall, and a cabinet.
+An image with a cabinet, a window, a floor, a wall, a table, and a suitcase.

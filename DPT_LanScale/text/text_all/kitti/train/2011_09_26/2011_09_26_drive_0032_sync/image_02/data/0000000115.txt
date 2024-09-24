@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes of traffic.
 The image captures a moment of everyday life on a highway, with a car in motion, surrounded by a natural landscape.
 The image shows a wide, empty highway with a few cars and a truck, surrounded by trees and grass, with a clear sky above.
 A long, straight road with multiple lanes, bordered by trees and grass, leading to a distant horizon.
+An image with a road, seven cars, three people, a pavement, a sky, a grass, and a tree.
+An image with three people, seven cars, a sky, a pavement, a tree, a grass, and a road.
+An image with a pavement, seven cars, three people, a road, a sky, a tree, and a grass.
+An image with seven cars, a grass, three people, a pavement, a road, a tree, and a sky.
+An image with seven cars, three people, a sky, a tree, a grass, a road, and a pavement.

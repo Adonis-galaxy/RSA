@@ -8,3 +8,8 @@ A desk with various items on it.
 A cluttered desk with various items, including a roll of tape, a box of cereal, a camera bag, and a laptop.
 A cluttered desk with a box of cereal, a tape dispenser, a pair of scissors, and a laptop.
 A cluttered desk with a box of cereal, a tape dispenser, a pair of scissors, and a laptop.
+An image with two chairs, a wall, a table, a floor, a door, a cardboard, and a laptop.
+An image with two chairs, a wall, a door, a cardboard, a floor, a laptop, and a table.
+An image with two chairs, a cardboard, a wall, a table, a door, a floor, and a laptop.
+An image with a floor, a door, two chairs, a cardboard, a table, a wall, and a laptop.
+An image with a wall, a laptop, two chairs, a table, a door, a floor, and a cardboard.

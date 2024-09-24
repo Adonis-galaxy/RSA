@@ -8,3 +8,8 @@ A blue chair in a classroom.
 A blue chair is sitting next to a desk in a room.
 A blue chair is sitting next to a desk in a room with white tile flooring.
 A blue chair is placed under a desk in a room with white tiled flooring.
+An image with a counter, two chairs, a wall, and a floor.
+An image with two chairs, a floor, a counter, and a wall.
+An image with a counter, a floor, a wall, and two chairs.
+An image with a wall, a floor, a counter, and two chairs.
+An image with a wall, a floor, a counter, and two chairs.

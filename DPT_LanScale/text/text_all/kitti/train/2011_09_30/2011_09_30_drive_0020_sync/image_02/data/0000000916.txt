@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist rides down a quiet residential street, passing by a stop sign and a roundabout, with houses and trees lining the road.
 A person riding a bicycle on a quiet street with houses and trees in the background.
 A quiet residential street with a clear view of the houses and a lone cyclist.
+An image with two trucks, two cars, a bicycle, two stops, a road, a house, a tree, a grass, a person, and a pavement.
+An image with a grass, a pavement, a house, a person, two trucks, two cars, a road, two stops, a tree, and a bicycle.
+An image with a tree, a house, two cars, two trucks, a person, two stops, a pavement, a grass, a bicycle, and a road.
+An image with two stops, a person, a road, a grass, two cars, a tree, a bicycle, two trucks, a house, and a pavement.
+An image with two cars, a pavement, two stops, a grass, a house, a road, a bicycle, a person, two trucks, and a tree.

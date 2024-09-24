@@ -8,3 +8,8 @@ A white table with black chairs in a room.
 The image shows a small, simple room with a white table and four chairs, a refrigerator, and a bulletin board.
 The image shows a small room with a white table and four chairs, a refrigerator, a bulletin board, and a phone.
 A small, simple, and functional dining area with a white table and four chairs, a refrigerator, and a bulletin board.
+An image with a floor, four chairs, a handbag, a refrigerator, a cup, a paper, a wall, and a dining.
+An image with four chairs, a refrigerator, a floor, a wall, a paper, a handbag, a dining, and a cup.
+An image with a refrigerator, a floor, four chairs, a wall, a dining, a paper, a cup, and a handbag.
+An image with a refrigerator, a paper, a floor, four chairs, a wall, a cup, a dining, and a handbag.
+An image with a cup, a paper, four chairs, a wall, a dining, a floor, a handbag, and a refrigerator.

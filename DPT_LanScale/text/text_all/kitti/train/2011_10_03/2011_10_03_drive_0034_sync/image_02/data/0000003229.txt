@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and a white building.
 A quiet, tree-lined street with a parked van, leading to a residential area.
 A narrow street lined with trees and a white van parked on the side.
 A narrow, tree-lined street with a white van parked on the side, leading to a residential area with houses and a brick wall.
+An image with a road, a tree, a sky, a wall, a house, a fence, a car, and a pavement.
+An image with a fence, a tree, a car, a road, a wall, a pavement, a sky, and a house.
+An image with a house, a road, a fence, a wall, a sky, a pavement, a car, and a tree.
+An image with a sky, a fence, a road, a pavement, a car, a house, a wall, and a tree.
+An image with a house, a sky, a wall, a fence, a tree, a car, a pavement, and a road.

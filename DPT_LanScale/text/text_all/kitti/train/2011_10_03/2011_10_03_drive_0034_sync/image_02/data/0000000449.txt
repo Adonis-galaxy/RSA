@@ -8,3 +8,8 @@ A tree-lined street.
 A sunlit, tree-lined street with parked cars, leading to a serene suburban setting.
 A tree-lined street with a car parked on the side.
 A tree-lined street with a clear pathway, bordered by a grassy area and a sidewalk, leading to a parked car on the right side.
+An image with a sky, seven cars, a road, a tree, a pavement, and a grass.
+An image with seven cars, a tree, a road, a grass, a pavement, and a sky.
+An image with a grass, a sky, a road, seven cars, a pavement, and a tree.
+An image with a grass, a tree, seven cars, a sky, a road, and a pavement.
+An image with a sky, a road, seven cars, a pavement, a grass, and a tree.

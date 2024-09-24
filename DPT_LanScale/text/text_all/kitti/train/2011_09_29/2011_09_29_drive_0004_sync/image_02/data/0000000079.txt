@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars driving on it.
 The image captures a scene of a busy highway with multiple vehicles, including cars and trucks, driving in both directions, surrounded by a lush green forest.
 A long, winding road with multiple cars driving on it, surrounded by trees and under a clear sky.
 A long, winding road with multiple lanes, bordered by trees and lined with signs, leading to a destination with a clear view of the road ahead.
+An image with eight cars, a tree, a sky, a road, a grass, and a stop.
+An image with eight cars, a road, a stop, a sky, a tree, and a grass.
+An image with a road, eight cars, a sky, a grass, a tree, and a stop.
+An image with eight cars, a stop, a tree, a grass, a road, and a sky.
+An image with a road, eight cars, a grass, a tree, a stop, and a sky.

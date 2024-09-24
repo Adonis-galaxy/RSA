@@ -8,3 +8,8 @@ A yellow piece of paper on a table.
 A yellow piece of paper on a white table.
 A yellow piece of paper on a white table with blue legs.
 The image shows a white desk with a blue frame, a yellow piece of paper on it, and a few wires and cables scattered around.
+An image with a chair, a paper, a table, and a floor.
+An image with a paper, a table, a chair, and a floor.
+An image with a chair, a table, a floor, and a paper.
+An image with a floor, a paper, a table, and a chair.
+An image with a chair, a paper, a floor, and a table.

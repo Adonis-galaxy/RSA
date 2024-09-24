@@ -8,3 +8,8 @@ A red van parked on a street.
 A red Mercedes van is parked on a narrow, tree-lined street, with a brick sidewalk and a garage in the background.
 A red Mercedes van is parked on a narrow street lined with trees and houses.
 A red Mercedes van is parked on a narrow, tree-lined street, adjacent to a garage and a house, with a clear sky overhead.
+An image with a tree, a wall, a pavement, two cars, a grass, a sky, and a road.
+An image with a sky, two cars, a pavement, a wall, a tree, a road, and a grass.
+An image with a road, a grass, a tree, a sky, a pavement, a wall, and two cars.
+An image with a grass, a road, two cars, a tree, a pavement, a sky, and a wall.
+An image with two cars, a wall, a road, a pavement, a grass, a tree, and a sky.

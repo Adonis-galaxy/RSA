@@ -8,3 +8,8 @@ A white van driving down a street.
 A white van is parked on the side of a street, with a white building and trees in the background, and a blue sky overhead.
 A large white van is driving down a narrow street lined with parked cars and a hedge.
 A white van is driving down a narrow street lined with parked cars and a hedge, with a clear blue sky overhead.
+An image with a pavement, a road, a sky, seven cars, a grass, a bus, a tree, and a house.
+An image with a pavement, seven cars, a bus, a grass, a road, a tree, a house, and a sky.
+An image with a house, a bus, a grass, seven cars, a road, a sky, a tree, and a pavement.
+An image with a house, seven cars, a grass, a road, a sky, a tree, a pavement, and a bus.
+An image with a grass, a bus, seven cars, a sky, a pavement, a road, a house, and a tree.

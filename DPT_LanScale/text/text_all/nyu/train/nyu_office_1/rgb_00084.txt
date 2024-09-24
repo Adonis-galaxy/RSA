@@ -8,3 +8,8 @@ A blurry image of a messy office.
 The image captures a cluttered office space with a child's face peeking from under a desk.
 A small child is peeking from behind a large box in a cluttered office with a red chair, a desk with a computer, and a whiteboard.
 The image shows an office space with a desk, chair, and computer monitor, featuring a messy workspace with various items scattered around.
+An image with a tv, a shelf, a cardboard, two chairs, a person, a floor, a curtain, a wall, and a dining.
+An image with a wall, a person, a floor, two chairs, a dining, a tv, a cardboard, a curtain, and a shelf.
+An image with a cardboard, two chairs, a tv, a wall, a curtain, a person, a shelf, a floor, and a dining.
+An image with a cardboard, a tv, a curtain, two chairs, a shelf, a person, a dining, a wall, and a floor.
+An image with a dining, a person, a wall, a tv, a shelf, two chairs, a cardboard, a floor, and a curtain.

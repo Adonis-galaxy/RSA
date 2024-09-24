@@ -8,3 +8,8 @@ A truck is parked on the side of a street.
 A quiet residential street, with a single vehicle parked at the end, under a clear sky.
 A large truck is driving down a narrow street between two-story buildings, with a construction site visible in the background.
 A quiet residential street with a mix of old and new buildings, lined with trees and a paved road.
+An image with a building, a fence, a road, a wall, a tree, a truck, and a pavement.
+An image with a building, a tree, a pavement, a road, a fence, a truck, and a wall.
+An image with a building, a road, a wall, a tree, a pavement, a fence, and a truck.
+An image with a wall, a tree, a road, a fence, a truck, a building, and a pavement.
+An image with a building, a road, a pavement, a truck, a fence, a wall, and a tree.

@@ -8,3 +8,8 @@ A black folding chair is leaning against a wall.
 The image captures a simple, uncluttered room with a doorway leading to another room, featuring a white door and a black folding chair.
 The image shows a narrow hallway with a white door on the left and a white door on the right, both closed. In the foreground, there is a black folding chair with a metal frame and a black seat, which is open and leaning against the wall. The hallway is illuminated by a light source that is not visible in the image.
 The image shows a narrow hallway with a door on the left, a chair on the right, and a light source illuminating the space.
+An image with a wall, two chairs, a door, and a floor.
+An image with a floor, two chairs, a door, and a wall.
+An image with two chairs, a door, a wall, and a floor.
+An image with a floor, a wall, a door, and two chairs.
+An image with a floor, a door, a wall, and two chairs.

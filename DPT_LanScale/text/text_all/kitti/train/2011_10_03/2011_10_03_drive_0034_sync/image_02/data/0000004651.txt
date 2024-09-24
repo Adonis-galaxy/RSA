@@ -8,3 +8,8 @@ The image shows a narrow street between two brick walls.
 The image captures a narrow, tree-lined street that appears to be a dead-end, with a single vehicle visible in the distance.
 The image shows a narrow, tree-lined street with a brick wall on one side, a red brick building on the other, and a small red vehicle in the distance.
 The image shows a narrow, tree-lined street with a brick wall on one side, a stone wall on the other, and a red brick building on the right.
+An image with two cars, a tree, a sky, a road, a wall, and a stop.
+An image with two cars, a sky, a wall, a tree, a stop, and a road.
+An image with two cars, a wall, a road, a stop, a tree, and a sky.
+An image with a wall, two cars, a road, a tree, a stop, and a sky.
+An image with a tree, a wall, a stop, a road, two cars, and a sky.

@@ -8,3 +8,8 @@ A room with a table, chair, lamp, and a picture on the wall.
 The image captures a cozy, lived-in space with a focus on a table adorned with a black and white tablecloth, a potted plant, and a framed picture on the wall.
 The image shows a small room with a table, a chair, a potted plant, a framed picture on the wall, and a lamp.
 The image shows a room with a table, a chair, a lamp, a framed picture on the wall, and a plant.
+An image with a wall, a dining, three chairs, a couch, a potted, and a floor.
+An image with a wall, a couch, three chairs, a potted, a dining, and a floor.
+An image with three chairs, a wall, a potted, a couch, a dining, and a floor.
+An image with a floor, a potted, a wall, a dining, three chairs, and a couch.
+An image with three chairs, a couch, a potted, a floor, a dining, and a wall.

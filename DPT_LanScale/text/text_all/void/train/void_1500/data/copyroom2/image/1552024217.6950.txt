@@ -8,3 +8,8 @@ A green counter with drawers and cabinets.
 The image shows a green counter with drawers and a white door in the background.
 The image shows a green counter with a row of green drawers and a white door in the background.
 The image shows a green counter with drawers and shelves, and a white door in the background.
+An image with six books, a cabinet, a shelf, a wall, a floor, and a window.
+An image with a cabinet, a wall, six books, a window, a shelf, and a floor.
+An image with six books, a shelf, a window, a cabinet, a floor, and a wall.
+An image with a floor, six books, a shelf, a cabinet, a wall, and a window.
+An image with a shelf, a wall, six books, a window, a floor, and a cabinet.

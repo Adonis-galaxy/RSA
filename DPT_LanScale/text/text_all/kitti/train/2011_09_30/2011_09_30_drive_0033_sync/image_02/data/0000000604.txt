@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with parked cars and a parked scooter, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a white scooter parked on the sidewalk.
 A quiet residential street with parked cars, a motor scooter, and a few pedestrians, lined with trees and houses.
+An image with a tree, a grass, four cars, a motorcycle, a sky, a truck, a pavement, a house, and a road.
+An image with four cars, a grass, a truck, a sky, a tree, a house, a motorcycle, a road, and a pavement.
+An image with a tree, a sky, a pavement, four cars, a road, a truck, a motorcycle, a house, and a grass.
+An image with a truck, a motorcycle, four cars, a sky, a grass, a house, a road, a tree, and a pavement.
+An image with a road, four cars, a pavement, a truck, a motorcycle, a grass, a tree, a house, and a sky.

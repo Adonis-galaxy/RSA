@@ -8,3 +8,8 @@ The image shows a room with two printers and a cabinet.
 The image shows a small office space with two printers and a cabinet.
 The image shows a small office space with a white cabinet, a white printer, a blue printer, and a white paper shredder.
 The image shows a small office space with a white cabinet, a white printer, a blue printer, and a white paper shredder.
+An image with a table, a scissors, a cabinet, a wall, a paper, and a refrigerator.
+An image with a scissors, a wall, a refrigerator, a cabinet, a table, and a paper.
+An image with a wall, a refrigerator, a cabinet, a paper, a table, and a scissors.
+An image with a paper, a table, a cabinet, a refrigerator, a wall, and a scissors.
+An image with a paper, a scissors, a table, a wall, a refrigerator, and a cabinet.

@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white wall on the right s
 A quiet residential street, lined with parked cars and shaded by trees, leading to a white house with a green hedge.
 The image shows a narrow street lined with parked cars, a sidewalk, and a white wall with a green hedge on the right side. The street is shaded by trees, and there are a few parked cars on the left side.
 A narrow, tree-lined street with parked cars and a white wall on the right side.
+An image with a traffic, a pavement, a tree, a road, a wall, a sky, a building, and seven cars.
+An image with seven cars, a pavement, a wall, a road, a tree, a traffic, a sky, and a building.
+An image with a traffic, a pavement, a tree, seven cars, a building, a wall, a sky, and a road.
+An image with a wall, a road, a traffic, seven cars, a tree, a pavement, a building, and a sky.
+An image with a building, seven cars, a sky, a road, a tree, a wall, a traffic, and a pavement.

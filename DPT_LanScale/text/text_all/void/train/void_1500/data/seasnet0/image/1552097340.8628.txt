@@ -8,3 +8,8 @@ A row of black computer monitors on a desk.
 The image shows a row of computer monitors on a table, with keyboards and mice in front of each monitor.
 The image shows a large number of computer monitors on a table, with a keyboard and mouse in front of each monitor.
 The image shows a room filled with rows of desks, each equipped with a computer monitor, keyboard, and mouse.
+An image with a cell, seventeen tvs, three mice, a person, three keyboards, a wall, a table, and a floor.
+An image with seventeen tvs, three mice, a table, a wall, three keyboards, a cell, a floor, and a person.
+An image with seventeen tvs, three mice, a person, a cell, a floor, three keyboards, a table, and a wall.
+An image with seventeen tvs, a wall, three mice, three keyboards, a table, a person, a cell, and a floor.
+An image with seventeen tvs, a floor, three keyboards, a table, three mice, a cell, a wall, and a person.

@@ -8,3 +8,8 @@ The image shows an empty classroom with a long hallway and several desks.
 The image depicts an empty classroom with a long hallway leading to multiple rows of desks and chairs, all facing a central whiteboard.
 The image shows an empty classroom with a long whiteboard, several chairs, and a table.
 The image shows an empty classroom with a long hallway leading to a row of desks and chairs, all facing a whiteboard at the end of the hall.
+An image with ten chairs, a wall, two dinings, a floor, a door, a light, a window, a cabinet, a couch, and a ceiling.
+An image with a couch, two dinings, ten chairs, a ceiling, a cabinet, a wall, a door, a window, a floor, and a light.
+An image with two dinings, ten chairs, a wall, a couch, a ceiling, a light, a door, a window, a cabinet, and a floor.
+An image with a light, a door, ten chairs, a floor, a window, a wall, two dinings, a cabinet, a ceiling, and a couch.
+An image with ten chairs, a ceiling, a window, a door, a couch, a cabinet, a light, two dinings, a wall, and a floor.

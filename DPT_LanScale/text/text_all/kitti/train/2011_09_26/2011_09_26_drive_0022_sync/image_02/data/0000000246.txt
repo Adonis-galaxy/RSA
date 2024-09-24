@@ -8,3 +8,8 @@ A row of garages with closed doors.
 A car is parked in front of a row of garages, which are situated in a parking lot adjacent to a wooded area.
 A large white building with garage doors, surrounded by trees, and a car parked in front of it.
 A row of garages with closed doors, situated in a parking lot adjacent to a wooded area.
+An image with a grass, two cars, a building, a road, a pavement, and a tree.
+An image with two cars, a tree, a building, a grass, a pavement, and a road.
+An image with a building, a road, two cars, a tree, a pavement, and a grass.
+An image with a tree, a building, a road, a pavement, two cars, and a grass.
+An image with two cars, a road, a tree, a grass, a building, and a pavement.

@@ -8,3 +8,8 @@ The image is a photograph of an office cubicle.
 The image captures a cluttered office space with a desk, computer monitor, and various items on the wall, including a clock and a calendar.
 The image shows a small office with a white desk, a computer monitor, a fan, a clock, and various items on the walls.
 The image shows a cluttered office space with a desk, computer monitor, and various items on the walls and shelves.
+An image with a microwave, a door, nine books, a floor, a window, a paper, a ceiling, a tv, a vase, a cabinet, two clocks, and a wall.
+An image with two clocks, nine books, a window, a ceiling, a microwave, a floor, a tv, a wall, a cabinet, a vase, a paper, and a door.
+An image with nine books, two clocks, a floor, a tv, a ceiling, a paper, a door, a vase, a window, a microwave, a cabinet, and a wall.
+An image with a tv, nine books, a door, a ceiling, a window, two clocks, a microwave, a paper, a vase, a floor, a wall, and a cabinet.
+An image with nine books, a paper, a window, a vase, two clocks, a floor, a door, a wall, a tv, a microwave, a cabinet, and a ceiling.

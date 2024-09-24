@@ -8,3 +8,8 @@ The image shows a green shelf with various items on it.
 The image shows a green shelf with various items on it, including books, papers, and a black object.
 The image shows a green shelf with various items on it, including books, papers, and a black object.
 The image shows a green bookshelf with books and papers on it, and a whiteboard with papers and a pen on it.
+An image with three books, a shelf, a wall, and a paper.
+An image with a wall, three books, a shelf, and a paper.
+An image with three books, a wall, a paper, and a shelf.
+An image with a paper, three books, a wall, and a shelf.
+An image with three books, a paper, a shelf, and a wall.

@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A person riding a bicycle on a shaded street, with parked cars and a person walking on the sidewalk.
 A person riding a bicycle on a narrow street with parked cars and trees on both sides.
 A woman rides her bicycle down a tree-lined street, passing parked cars and a red van, with a sidewalk on the right side.
+An image with a person, eight cars, a handbag, a tree, a bicycle, a grass, a road, and a pavement.
+An image with eight cars, a tree, a road, a person, a pavement, a grass, a bicycle, and a handbag.
+An image with a grass, eight cars, a pavement, a handbag, a person, a road, a tree, and a bicycle.
+An image with a road, a handbag, eight cars, a person, a bicycle, a grass, a pavement, and a tree.
+An image with eight cars, a handbag, a person, a tree, a pavement, a grass, a road, and a bicycle.

@@ -8,3 +8,8 @@ The image shows a street with a car on it, a blue sign with an arrow, and a whit
 A solitary car on a tree-lined road, with a blue sign indicating a right turn ahead.
 A car is driving down a tree-lined road, passing a blue sign with an arrow pointing downward.
 A tree-lined road with a car driving on the right side, a pedestrian crossing sign, and a white fence on the left side.
+An image with a fence, a car, a tree, a grass, and a road.
+An image with a car, a grass, a tree, a fence, and a road.
+An image with a car, a road, a fence, a tree, and a grass.
+An image with a grass, a fence, a road, a car, and a tree.
+An image with a tree, a fence, a road, a car, and a grass.

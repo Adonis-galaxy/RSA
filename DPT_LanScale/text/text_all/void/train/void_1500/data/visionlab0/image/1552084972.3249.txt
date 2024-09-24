@@ -8,3 +8,8 @@ The image shows a blurry view of a room with a suitcase and a piece of furniture
 The image shows a blurry view of a room with a wooden cabinet, a blue backpack, and a white car in the background.
 The image shows a blurry view of a room with a large wooden cabinet, a blue backpack, and a white car in the background.
 The image shows a blurry view of a room with a wooden cabinet, a blue chair, and a backpack.
+An image with a bed, two bottles, a wall, a backpack, a refrigerator, and a car.
+An image with two bottles, a bed, a refrigerator, a wall, a car, and a backpack.
+An image with a bed, two bottles, a car, a refrigerator, a backpack, and a wall.
+An image with a refrigerator, a bed, a backpack, a wall, two bottles, and a car.
+An image with a wall, two bottles, a car, a backpack, a refrigerator, and a bed.

@@ -8,3 +8,8 @@ A car parked on a street.
 A quiet, tree-lined street with a parked car at the end, leading to a house on the right.
 A narrow, tree-lined street with a parked car and a fence.
 A narrow, tree-lined street with a parked car at the end, leading to a house on the right.
+An image with a sky, a pavement, a car, a road, a fence, and a tree.
+An image with a pavement, a fence, a road, a tree, a car, and a sky.
+An image with a fence, a car, a sky, a pavement, a tree, and a road.
+An image with a pavement, a sky, a road, a tree, a fence, and a car.
+An image with a tree, a fence, a pavement, a road, a car, and a sky.

@@ -8,3 +8,8 @@ A black car parked on a street.
 A quiet residential street, with a car parked at the end, leading to a house with a black roof.
 A narrow, tree-lined street leads to a house with a black roof, with a car parked on the side.
 A quiet residential street with a curved road leading to a house with a black roof, lined with hedges and trees, and a car parked on the side.
+An image with a pavement, a roof, a sky, a road, two cars, a wall, and a tree.
+An image with a wall, a pavement, a sky, two cars, a road, a roof, and a tree.
+An image with two cars, a pavement, a tree, a roof, a sky, a wall, and a road.
+An image with a wall, a tree, two cars, a road, a pavement, a roof, and a sky.
+An image with two cars, a sky, a pavement, a wall, a road, a tree, and a roof.

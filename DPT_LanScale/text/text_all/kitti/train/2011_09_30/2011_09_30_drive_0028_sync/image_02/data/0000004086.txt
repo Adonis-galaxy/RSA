@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, with trees lining the roa
 A narrow street in a residential area, lined with parked cars and a truck, with a person walking and a green trash can on the sidewalk.
 A narrow street lined with parked cars and trees, with a large truck and two green carts in the middle of the road.
 A narrow, tree-lined street with parked cars and a truck, leading to a clearing with a building and a parked car.
+An image with five cars, a sky, a bridge, a tree, a person, a road, a truck, a pavement, and a motorcycle.
+An image with a sky, a bridge, a tree, a person, five cars, a pavement, a motorcycle, a truck, and a road.
+An image with a road, a bridge, five cars, a truck, a person, a sky, a tree, a pavement, and a motorcycle.
+An image with a road, a sky, five cars, a motorcycle, a tree, a bridge, a pavement, a person, and a truck.
+An image with five cars, a bridge, a motorcycle, a person, a pavement, a sky, a tree, a road, and a truck.

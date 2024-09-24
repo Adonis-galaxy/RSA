@@ -8,3 +8,8 @@ A blue trash can with a white bag.
 A blue trash can with a white bag in a room with a yellow wall.
 A blue trash can is placed next to a counter in a room.
 A blue trash can with a white bag is placed next to a beige cabinet in a room with a yellow wall.
+An image with a door, a counter, a wall, and a cabinet.
+An image with a counter, a door, a wall, and a cabinet.
+An image with a wall, a counter, a cabinet, and a door.
+An image with a counter, a door, a cabinet, and a wall.
+An image with a wall, a cabinet, a counter, and a door.

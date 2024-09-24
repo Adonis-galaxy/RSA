@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 The image captures a narrow alleyway between two buildings, with a fence on the left and a wall on the right, leading to a larger street in the distance.
 The image shows a narrow alleyway between two buildings, with a small car parked on the right side and a green fence on the left.
 The image shows a narrow alleyway between two buildings, with a fence on the left side and a wall on the right, leading to a larger street in the distance.
+An image with a pavement, two walls, a house, a mountain, a sky, a ceiling, a tree, and a car.
+An image with two walls, a car, a tree, a pavement, a mountain, a house, a ceiling, and a sky.
+An image with a tree, a ceiling, a house, a mountain, a sky, two walls, a car, and a pavement.
+An image with a sky, a house, two walls, a pavement, a mountain, a ceiling, a car, and a tree.
+An image with a sky, a pavement, a tree, a car, two walls, a mountain, a house, and a ceiling.

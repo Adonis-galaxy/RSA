@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street lined with parked cars, a white building, and a row of green hedges, creating a sense of a residential area during the daytime.
 A narrow street lined with parked cars and buildings, with a sidewalk and a fence on the left side.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a building, a pavement, a sky, six cars, a road, a tree, a wall, and a truck.
+An image with six cars, a pavement, a wall, a sky, a road, a truck, a building, and a tree.
+An image with a building, six cars, a pavement, a tree, a road, a truck, a wall, and a sky.
+An image with a sky, six cars, a wall, a truck, a road, a pavement, a building, and a tree.
+An image with six cars, a road, a building, a wall, a pavement, a truck, a tree, and a sky.

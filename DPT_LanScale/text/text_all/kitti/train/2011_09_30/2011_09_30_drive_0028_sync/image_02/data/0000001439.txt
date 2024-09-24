@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building.
 A quiet residential street, lined with parked cars and a white building, under the shade of tall trees.
 A tree-lined street with parked cars and a white truck, leading to a row of houses.
 A tree-lined street with parked cars and a white building in the background.
+An image with a house, three cars, a grass, a fence, a road, a tree, a truck, a pavement, and a sky.
+An image with a house, a road, a sky, a fence, a pavement, a truck, three cars, a tree, and a grass.
+An image with a truck, three cars, a road, a sky, a pavement, a tree, a house, a fence, and a grass.
+An image with a house, a grass, a pavement, three cars, a sky, a fence, a truck, a tree, and a road.
+An image with three cars, a fence, a house, a sky, a pavement, a grass, a road, a truck, and a tree.

@@ -8,3 +8,8 @@ A black mercedes suv parked on a street.
 A black SUV parked on the side of a quiet residential street, with a stone wall and trees lining the road.
 A black Mercedes-Benz SUV is parked on the side of a narrow, tree-lined street.
 A black SUV is parked on the side of a narrow, tree-lined street, adjacent to a white house with a brown roof and a stone wall.
+An image with a tree, a truck, a wall, a pavement, a fence, a building, a road, and a sky.
+An image with a tree, a fence, a wall, a pavement, a road, a sky, a building, and a truck.
+An image with a fence, a building, a tree, a pavement, a wall, a sky, a truck, and a road.
+An image with a truck, a tree, a building, a pavement, a sky, a wall, a road, and a fence.
+An image with a pavement, a building, a fence, a truck, a wall, a sky, a tree, and a road.

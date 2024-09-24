@@ -8,3 +8,8 @@ A blue plastic chair in front of a table.
 A blue plastic chair is positioned in front of a white table in a room with a staircase.
 A blue plastic chair is sitting in front of a white table in a room with a staircase.
 A blue plastic chair is positioned in front of a white table in a room with a tiled floor and a staircase.
+An image with a door, two walls, a stairs, a refrigerator, a dining, a chair, and a floor.
+An image with a dining, two walls, a chair, a floor, a stairs, a refrigerator, and a door.
+An image with a chair, two walls, a floor, a door, a dining, a stairs, and a refrigerator.
+An image with a stairs, a floor, two walls, a door, a dining, a chair, and a refrigerator.
+An image with a chair, a stairs, two walls, a floor, a refrigerator, a door, and a dining.

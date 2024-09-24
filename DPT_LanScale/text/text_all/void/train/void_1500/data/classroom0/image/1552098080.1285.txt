@@ -8,3 +8,8 @@ Empty theater seats on a tiled floor.
 The image shows a row of empty seats in a theater, with a black armrest on the aisle seat.
 The image shows a row of empty seats in a theater, with a black armrest on the chair closest to the camera.
 The image shows a row of empty seats in a theater, with a black armrest on the aisle seat.
+An image with five chairs, a table, a floor, and a wall.
+An image with a table, a floor, five chairs, and a wall.
+An image with a wall, five chairs, a floor, and a table.
+An image with a table, five chairs, a wall, and a floor.
+An image with five chairs, a floor, a wall, and a table.

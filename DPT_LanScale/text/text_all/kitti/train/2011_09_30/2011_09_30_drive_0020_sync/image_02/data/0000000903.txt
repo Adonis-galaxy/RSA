@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist rides down a quiet, tree-lined street, passing by a construction site and a building under renovation.
 A person riding a bicycle on a paved road between two fences.
 A cyclist rides down a quiet, tree-lined street, passing by a construction site and a building under renovation.
+An image with two stops, a truck, a bicycle, a house, a fence, a person, a road, a pavement, a grass, a wall, and a tree.
+An image with a wall, a tree, a pavement, a truck, a road, a grass, two stops, a bicycle, a person, a fence, and a house.
+An image with a truck, a road, two stops, a bicycle, a person, a house, a fence, a pavement, a wall, a grass, and a tree.
+An image with two stops, a grass, a truck, a house, a wall, a road, a bicycle, a pavement, a tree, a fence, and a person.
+An image with a pavement, a grass, a road, a house, a bicycle, two stops, a tree, a fence, a wall, a truck, and a person.

@@ -8,3 +8,8 @@ The image shows a row of parked cars on a street.
 A row of parked cars on a residential street, with apartment buildings and trees in the background.
 A long row of parked cars on a narrow street, with apartment buildings on both sides.
 A long, narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a building, eight cars, a road, two potteds, a grass, a pavement, and a tree.
+An image with eight cars, a pavement, two potteds, a road, a tree, a grass, and a building.
+An image with eight cars, a building, a tree, a grass, a pavement, two potteds, and a road.
+An image with a tree, eight cars, two potteds, a grass, a road, a building, and a pavement.
+An image with eight cars, two potteds, a pavement, a building, a road, a grass, and a tree.

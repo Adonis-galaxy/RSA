@@ -8,3 +8,8 @@ The image is a photograph of a narrow city street.
 The image captures a bustling city street, with a mix of parked cars, moving vehicles, and pedestrians, all sharing the limited space under the watchful eyes of the surrounding buildings.
 The image depicts a narrow street in a European city, with tall buildings on both sides, parked cars, a few pedestrians, and a bicyclist.
 A narrow street in a European city, lined with parked cars and pedestrians, with a mix of old and new buildings, and a clear sky overhead.
+An image with twelve cars, a pavement, three people, a bicycle, a tree, a parking, a truck, a building, and a road.
+An image with a bicycle, a building, twelve cars, three people, a pavement, a road, a truck, a tree, and a parking.
+An image with twelve cars, a building, a parking, a truck, a bicycle, three people, a pavement, a tree, and a road.
+An image with twelve cars, three people, a road, a truck, a bicycle, a parking, a tree, a building, and a pavement.
+An image with twelve cars, a tree, a truck, a building, a bicycle, three people, a pavement, a road, and a parking.

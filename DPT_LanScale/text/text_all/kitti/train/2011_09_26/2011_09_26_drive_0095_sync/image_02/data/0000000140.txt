@@ -8,3 +8,8 @@ The image is a black and white photograph of a city street.
 A quiet residential street, with parked cars and pedestrians, under a clear sky.
 A person riding a bicycle on a narrow street between parked cars and tall buildings.
 A quiet residential street with parked cars, a person walking, and a bicycle, under a clear sky.
+An image with a grass, four cars, three people, a pavement, a gravel, a building, a road, a bicycle, a tree, and a wall.
+An image with a building, four cars, a gravel, three people, a wall, a pavement, a bicycle, a road, a grass, and a tree.
+An image with a grass, a building, a pavement, three people, four cars, a wall, a road, a gravel, a bicycle, and a tree.
+An image with a road, a tree, three people, four cars, a gravel, a wall, a bicycle, a grass, a building, and a pavement.
+An image with four cars, a wall, a bicycle, a grass, a pavement, three people, a gravel, a tree, a building, and a road.

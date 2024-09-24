@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a brick wall.
 A narrow, tree-lined street with parked cars and a brick wall.
 A narrow street lined with parked cars and a brick wall.
 A narrow, tree-lined street with parked cars and a brick wall on the right side.
+An image with a pavement, a truck, a fence, two walls, a road, four cars, and a tree.
+An image with four cars, a fence, a road, a pavement, two walls, a tree, and a truck.
+An image with a pavement, four cars, two walls, a tree, a fence, a road, and a truck.
+An image with four cars, a pavement, a tree, two walls, a fence, a truck, and a road.
+An image with a fence, a pavement, four cars, a tree, a truck, a road, and two walls.

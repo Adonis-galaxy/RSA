@@ -8,3 +8,8 @@ A red vacuum cleaner on the floor.
 A vacuum cleaner is on the floor in a living room, next to a couch and a dresser.
 A red vacuum cleaner is on the floor in a dark room, next to a large wooden dresser.
 The image shows a living room with a vacuum cleaner on the floor, a couch, a chair, a dresser, and a doorway leading to another room.
+An image with a curtain, a rug, a tv, a wall, a cabinet, a window, and two couches.
+An image with a wall, two couches, a window, a tv, a curtain, a cabinet, and a rug.
+An image with a wall, a curtain, two couches, a cabinet, a window, a tv, and a rug.
+An image with two couches, a tv, a curtain, a window, a cabinet, a wall, and a rug.
+An image with a curtain, a tv, a rug, two couches, a wall, a window, and a cabinet.

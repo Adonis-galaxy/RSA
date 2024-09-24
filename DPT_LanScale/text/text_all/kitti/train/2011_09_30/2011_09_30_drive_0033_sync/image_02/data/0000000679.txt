@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day in a residential area, with cars parked along the street and a few vehicles moving along the road.
 The image shows a narrow street with parked cars on the side, a building in the background, and a number 30 painted on the road.
 A narrow street with parked cars and a speed limit of 30, lined by trees and buildings.
+An image with a house, six cars, a road, a tree, a sky, and a pavement.
+An image with six cars, a pavement, a road, a tree, a sky, and a house.
+An image with six cars, a sky, a pavement, a road, a house, and a tree.
+An image with six cars, a road, a sky, a house, a pavement, and a tree.
+An image with a road, a tree, a house, six cars, a sky, and a pavement.

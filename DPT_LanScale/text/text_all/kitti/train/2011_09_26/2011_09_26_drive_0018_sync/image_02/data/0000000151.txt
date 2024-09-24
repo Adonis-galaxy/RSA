@@ -8,3 +8,8 @@ The image shows a wide street with multiple lanes and traffic lights.
 The image captures a wide, multi-lane road with traffic lights and signs, leading to a clear blue sky, surrounded by trees and buildings.
 The image shows a wide, multi-lane road with traffic lights, street signs, and a few vehicles, all captured from a distance.
 The image depicts a wide, multi-lane road with traffic lights, lined by trees and buildings, leading to a clear blue sky.
+An image with a pavement, three traffics, a tree, a truck, a road, four cars, and a bus.
+An image with three traffics, a road, a pavement, four cars, a tree, a bus, and a truck.
+An image with a bus, three traffics, a road, four cars, a tree, a truck, and a pavement.
+An image with a road, three traffics, four cars, a bus, a truck, a tree, and a pavement.
+An image with four cars, a truck, a road, three traffics, a pavement, a bus, and a tree.

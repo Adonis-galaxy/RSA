@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and buildings.
 A narrow, tree-lined street with a brick wall and a paved pathway, leading to a white building with a black door.
 The image shows a narrow, tree-lined street with a brick wall on the left side, a paved sidewalk on the right, and a car parked on the right side.
 The image depicts a narrow, tree-lined street with a brick wall on one side, a paved walkway on the other, and a driveway leading to a building with a white roof.
+An image with two walls, a road, a door, a grass, a pavement, and a tree.
+An image with a pavement, a tree, two walls, a door, a road, and a grass.
+An image with a grass, a tree, a road, a pavement, two walls, and a door.
+An image with two walls, a road, a door, a grass, a pavement, and a tree.
+An image with a grass, two walls, a tree, a road, a door, and a pavement.

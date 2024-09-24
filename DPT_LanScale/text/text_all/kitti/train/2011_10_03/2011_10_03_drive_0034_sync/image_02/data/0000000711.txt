@@ -8,3 +8,8 @@ The image shows a street with a motorcycle parked on the side.
 A quiet residential street, with parked vehicles and a clear pathway, under a sunny sky.
 A narrow street lined with hedges and trees, with a motorcycle parked on the side and a trailer parked at the end.
 A quiet suburban street with parked vehicles, a motorcycle, and a trailer, lined by a hedge and a building, under a clear blue sky.
+An image with a sky, a tree, a grass, a road, a motorcycle, a car, a truck, and a wall.
+An image with a sky, a road, a tree, a wall, a grass, a car, a motorcycle, and a truck.
+An image with a sky, a truck, a grass, a car, a tree, a road, a motorcycle, and a wall.
+An image with a tree, a truck, a road, a wall, a motorcycle, a car, a grass, and a sky.
+An image with a wall, a sky, a road, a truck, a motorcycle, a tree, a grass, and a car.

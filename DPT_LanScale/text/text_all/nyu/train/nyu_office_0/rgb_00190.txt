@@ -8,3 +8,8 @@ The image shows an indoor room with several chairs and tables.
 The image captures a room with a table and chairs, where the chairs are arranged around the table, and the table is positioned in front of a door.
 The image shows a room with a large table and several chairs, some of which are smaller in size.
 The image shows an indoor room with a table, chairs, and a doorway, all under a fluorescent lighting system.
+An image with a door, three chairs, a floor, a dining, a wall, a window, and a ceiling.
+An image with three chairs, a ceiling, a wall, a dining, a window, a door, and a floor.
+An image with a dining, a ceiling, a floor, three chairs, a window, a wall, and a door.
+An image with a ceiling, a wall, a door, a floor, a window, three chairs, and a dining.
+An image with a wall, a window, three chairs, a dining, a door, a floor, and a ceiling.

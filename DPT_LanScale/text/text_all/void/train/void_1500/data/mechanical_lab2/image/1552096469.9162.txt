@@ -8,3 +8,8 @@ A blue chair is under a desk.
 A computer desk with a chair and a monitor.
 A computer desk with a chair, a monitor, and a keyboard.
 The image shows a computer lab with a desk and chair, and a monitor on the desk.
+An image with four chairs, a wall, three tvs, a door, a keyboard, a table, and a floor.
+An image with four chairs, a table, three tvs, a wall, a floor, a door, and a keyboard.
+An image with four chairs, a door, a keyboard, three tvs, a floor, a wall, and a table.
+An image with three tvs, a keyboard, four chairs, a wall, a door, a floor, and a table.
+An image with three tvs, four chairs, a door, a wall, a floor, a table, and a keyboard.

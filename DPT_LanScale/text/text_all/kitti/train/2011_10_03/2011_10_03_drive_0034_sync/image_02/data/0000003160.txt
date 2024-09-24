@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on the right side.
 A quiet residential street, lined with houses and trees, leading to a cul-de-sac.
 The image shows a narrow, tree-lined street with a brick wall on one side, a paved sidewalk, and a few houses on the other side.
 A narrow, tree-lined street with a brick wall on one side, leading to a row of houses on the other.
+An image with a road, a tree, two walls, a pavement, a car, and a house.
+An image with a pavement, two walls, a house, a car, a tree, and a road.
+An image with two walls, a pavement, a road, a tree, a house, and a car.
+An image with a road, two walls, a tree, a pavement, a house, and a car.
+An image with a pavement, a house, two walls, a car, a road, and a tree.

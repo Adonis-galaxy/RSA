@@ -8,3 +8,8 @@ The image shows a street view with houses on both sides.
 The image captures a serene residential street, lined with houses and trees, leading to a cul-de-sac, with a clear blue sky overhead.
 The image shows a long, narrow street lined with houses and trees, with a clear sky overhead.
 The image depicts a quiet residential street with a curved layout, lined with trees and parked cars, leading to a cul-de-sac.
+An image with four cars, a road, a tree, a fence, a grass, a house, and a pavement.
+An image with a tree, four cars, a pavement, a house, a road, a fence, and a grass.
+An image with four cars, a house, a grass, a fence, a tree, a road, and a pavement.
+An image with four cars, a pavement, a fence, a road, a grass, a tree, and a house.
+An image with a fence, a tree, four cars, a house, a grass, a road, and a pavement.

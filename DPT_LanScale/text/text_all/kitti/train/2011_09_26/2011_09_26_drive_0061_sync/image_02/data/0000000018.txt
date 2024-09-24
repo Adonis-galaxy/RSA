@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white line painted on the road.
 The image captures a quiet residential street, lined with trees and buildings, where a white truck is parked on the side of the road, and a pedestrian crosswalk indicates the presence of a 30 km/h speed limit.
 The image shows a narrow street between two buildings, with a tree-lined sidewalk, a parked truck, and a speed limit sign indicating "30."
 The image depicts a narrow street lined with trees and buildings, with a white truck parked on the right side.
+An image with a truck, a road, a house, a car, a wall, a pavement, a door, and a tree.
+An image with a wall, a road, a pavement, a truck, a door, a tree, a house, and a car.
+An image with a wall, a road, a house, a car, a door, a truck, a tree, and a pavement.
+An image with a truck, a door, a road, a house, a pavement, a car, a tree, and a wall.
+An image with a truck, a house, a tree, a wall, a car, a door, a road, and a pavement.

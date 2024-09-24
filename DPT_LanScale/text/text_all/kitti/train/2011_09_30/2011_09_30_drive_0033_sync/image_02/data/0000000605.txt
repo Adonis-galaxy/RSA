@@ -8,3 +8,8 @@ A quiet residential street.
 A quiet residential street, lined with parked cars and a single scooter, under a clear blue sky.
 A narrow street lined with parked cars and trees, with a white scooter parked on the right side.
 A quiet residential street with parked cars, a motor scooter, and a few pedestrians, lined with trees and buildings.
+An image with a house, a motorcycle, three cars, a tree, a pavement, a road, a truck, a grass, and a sky.
+An image with three cars, a truck, a road, a pavement, a house, a tree, a sky, a motorcycle, and a grass.
+An image with a tree, a grass, a house, a road, a sky, a pavement, a motorcycle, a truck, and three cars.
+An image with a pavement, three cars, a house, a road, a tree, a grass, a motorcycle, a sky, and a truck.
+An image with three cars, a sky, a pavement, a tree, a house, a motorcycle, a truck, a road, and a grass.

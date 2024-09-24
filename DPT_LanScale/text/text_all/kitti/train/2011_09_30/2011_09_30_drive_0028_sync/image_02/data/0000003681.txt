@@ -8,3 +8,8 @@ The image shows a narrow street between tall buildings, with a blue and white to
 The image captures a quiet residential street, with a blue and white toilet standing prominently in the foreground, flanked by parked cars and apartment buildings, under a clear blue sky.
 The image shows a narrow street between tall buildings, with a blue and white toilet on the left, a white car in the middle, and a blue car on the right.
 The image shows a narrow street between two-story buildings, with a blue and white toilet on the left, parked cars on the right, and a tree in the middle.
+An image with four cars, a tree, a road, a sky, a truck, a dirt, and a building.
+An image with four cars, a dirt, a truck, a road, a building, a sky, and a tree.
+An image with a sky, four cars, a dirt, a truck, a tree, a building, and a road.
+An image with a building, four cars, a truck, a dirt, a tree, a road, and a sky.
+An image with a road, four cars, a tree, a truck, a sky, a dirt, and a building.

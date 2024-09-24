@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a white fence separating the road from the houses.
 The image shows a narrow street lined with houses and cars, with a red wall on the right side.
 A narrow, tree-lined street in a residential area, with parked cars and a red wall on the right side.
+An image with seven cars, a tree, a wall, a potted, a sky, a fence, a stairs, a roof, a road, and a pavement.
+An image with a stairs, seven cars, a road, a sky, a wall, a roof, a fence, a tree, a potted, and a pavement.
+An image with a road, a tree, seven cars, a wall, a stairs, a fence, a pavement, a potted, a roof, and a sky.
+An image with a road, a stairs, a tree, a wall, seven cars, a pavement, a potted, a roof, a fence, and a sky.
+An image with a tree, seven cars, a roof, a stairs, a pavement, a wall, a road, a sky, a fence, and a potted.

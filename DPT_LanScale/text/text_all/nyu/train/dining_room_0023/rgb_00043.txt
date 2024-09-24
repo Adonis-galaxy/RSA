@@ -8,3 +8,8 @@ A room with a table and chairs.
 The image shows a dining room with a set of tables and chairs, ready for a meal.
 The image shows a room with a large dining table surrounded by six chairs, all of which are black. The table is white and appears to be made of plastic. The room has a wooden floor and a beige wall.
 The image shows a room with a long table surrounded by six chairs, all facing the same direction.
+An image with eight chairs, two dinings, a wall, a door, a cabinet, a microwave, and a floor.
+An image with eight chairs, a microwave, two dinings, a door, a wall, a floor, and a cabinet.
+An image with eight chairs, two dinings, a door, a floor, a microwave, a cabinet, and a wall.
+An image with a cabinet, eight chairs, a door, a microwave, two dinings, a wall, and a floor.
+An image with eight chairs, a door, two dinings, a cabinet, a microwave, a wall, and a floor.

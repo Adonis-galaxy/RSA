@@ -8,3 +8,8 @@ The image is a photograph of a narrow city street.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few pedestrians, including an older man, walking along the sidewalk, under the shade of trees, and in front of buildings with white walls and brown roofs.
 The image depicts a narrow street lined with parked cars and buildings, with a few pedestrians visible.
 A narrow street in a European city, lined with parked cars and tall buildings, with a man walking on the sidewalk.
+An image with a grass, ten cars, a house, four people, a sky, a pavement, a road, and a tree.
+An image with ten cars, a road, a house, a grass, four people, a tree, a sky, and a pavement.
+An image with a house, four people, ten cars, a road, a tree, a pavement, a sky, and a grass.
+An image with ten cars, four people, a grass, a sky, a house, a pavement, a tree, and a road.
+An image with a grass, ten cars, a sky, four people, a tree, a road, a house, and a pavement.

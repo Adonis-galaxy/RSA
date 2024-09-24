@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A quiet residential street, with a car parked on the side, bordered by lush greenery and a neatly trimmed hedge.
 The image shows a narrow street with a few parked cars, a house with a black roof, and a sidewalk lined with hedges.
 A quiet residential street with a curved road, lined with hedges and trees, leading to a house with a black roof.
+An image with two cars, a road, a roof, a tree, a sky, and a wall.
+An image with a roof, two cars, a tree, a wall, a road, and a sky.
+An image with two cars, a road, a roof, a sky, a wall, and a tree.
+An image with a roof, a tree, a road, a sky, a wall, and two cars.
+An image with a roof, a sky, a wall, two cars, a road, and a tree.

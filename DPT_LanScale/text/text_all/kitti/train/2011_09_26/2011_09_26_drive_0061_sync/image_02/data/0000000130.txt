@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street in a residential area, with parked cars on both sides, creating a sense of a tightly packed neighborhood.
 The image shows a narrow street lined with parked cars, with a few moving cars in the foreground, and buildings on both sides.
 The image shows a narrow street lined with parked cars, with buildings on both sides, and a clear sky overhead.
+An image with a sky, twelve cars, a roof, a fence, a wall, a tree, and a road.
+An image with a tree, twelve cars, a fence, a sky, a wall, a road, and a roof.
+An image with twelve cars, a tree, a wall, a fence, a sky, a road, and a roof.
+An image with a fence, a wall, a road, a sky, twelve cars, a tree, and a roof.
+An image with twelve cars, a road, a sky, a roof, a wall, a fence, and a tree.

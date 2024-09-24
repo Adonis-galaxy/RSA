@@ -8,3 +8,8 @@ A car parked on the side of a tree-lined street.
 A solitary car parked on a tree-lined street, with a clear view of a residential area and a glimpse of the sky.
 A small car is parked on the side of a tree-lined street in a residential area.
 A tree-lined street in a residential area, with a car parked on the side and a curved road leading to a white house.
+An image with a road, a tree, a car, a dirt, a house, and a pavement.
+An image with a road, a tree, a house, a dirt, a pavement, and a car.
+An image with a tree, a house, a pavement, a road, a car, and a dirt.
+An image with a dirt, a road, a pavement, a house, a car, and a tree.
+An image with a pavement, a house, a tree, a car, a dirt, and a road.

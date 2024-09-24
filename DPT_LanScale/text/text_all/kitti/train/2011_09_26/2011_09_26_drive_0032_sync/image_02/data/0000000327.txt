@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and a truck.
 The image captures a moment of everyday life on a suburban road, with cars in motion and a clear sky overhead.
 The image shows a wide, empty road with a few cars and trucks driving on it, and a car parked on the side.
 The image captures a scene of a road with multiple lanes, a sidewalk, and a grassy area, with cars driving on the road and a car parked on the side.
+An image with eight cars, a tree, a truck, a road, a sky, and a grass.
+An image with eight cars, a truck, a grass, a sky, a road, and a tree.
+An image with eight cars, a road, a grass, a truck, a sky, and a tree.
+An image with a road, eight cars, a sky, a grass, a truck, and a tree.
+An image with a truck, a road, eight cars, a tree, a sky, and a grass.

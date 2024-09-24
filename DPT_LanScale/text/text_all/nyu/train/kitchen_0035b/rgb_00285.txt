@@ -8,3 +8,8 @@ A kitchen with a table and chairs.
 The image captures a cozy dining area with a table, chairs, and a clock, all set against a window that offers a view of the outside.
 The image shows a dining room with a table, four chairs, a clock on the wall, and a view of the outside through the window.
 The image shows a dining room with a table, chairs, and a clock on the wall.
+An image with four chairs, a clock, two dinings, a wall, a door, a car, a window, a cabinet, a floor, and a microwave.
+An image with a floor, a microwave, four chairs, a cabinet, a car, two dinings, a clock, a door, a window, and a wall.
+An image with a clock, two dinings, four chairs, a floor, a window, a door, a cabinet, a car, a wall, and a microwave.
+An image with a wall, a car, a cabinet, a door, a microwave, four chairs, a clock, a floor, a window, and two dinings.
+An image with a wall, a window, a floor, a car, two dinings, a clock, a cabinet, a door, a microwave, and four chairs.

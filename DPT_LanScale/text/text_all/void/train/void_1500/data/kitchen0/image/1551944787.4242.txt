@@ -8,3 +8,8 @@ A kitchen counter with a whiteboard and a few items on it.
 The image shows a kitchen counter with a few items on it, and a refrigerator door is open.
 The image shows a small kitchen with an orange countertop, a white refrigerator, and a white cabinet.
 The image shows a kitchen with an orange countertop, a white refrigerator, and a white cabinet with two drawers.
+An image with a refrigerator, a wall, a chair, a ceiling, a cabinet, and a counter.
+An image with a counter, a chair, a wall, a ceiling, a cabinet, and a refrigerator.
+An image with a ceiling, a chair, a wall, a cabinet, a refrigerator, and a counter.
+An image with a refrigerator, a cabinet, a chair, a wall, a counter, and a ceiling.
+An image with a counter, a refrigerator, a cabinet, a chair, a wall, and a ceiling.

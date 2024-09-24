@@ -8,3 +8,8 @@ A blue chair is under a desk.
 A blue chair is tucked under a white desk.
 A blue chair is tucked under a white desk.
 A blue chair is tucked under a white desk, and a black cord is plugged into the back of the chair.
+An image with a wall, a chair, a dining, a floor, and a tv.
+An image with a dining, a tv, a floor, a chair, and a wall.
+An image with a wall, a dining, a floor, a tv, and a chair.
+An image with a wall, a floor, a tv, a dining, and a chair.
+An image with a chair, a dining, a floor, a wall, and a tv.

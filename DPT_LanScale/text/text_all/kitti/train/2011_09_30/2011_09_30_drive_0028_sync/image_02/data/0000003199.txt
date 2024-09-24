@@ -8,3 +8,8 @@ A narrow alleyway between two rows of hedges.
 A narrow, sunlit alleyway between lushly hedged properties, with a parked truck and a bench.
 A narrow, tree-lined street with parked cars and a truck, leading to a white house with a blue door.
 A narrow, tree-lined street with parked vehicles and a bench, leading to a white house with a blue door.
+An image with two cars, a grass, a bench, a sky, a pavement, a house, a truck, and a tree.
+An image with two cars, a sky, a grass, a pavement, a truck, a tree, a house, and a bench.
+An image with a tree, two cars, a truck, a bench, a grass, a house, a sky, and a pavement.
+An image with a tree, two cars, a sky, a house, a truck, a bench, a grass, and a pavement.
+An image with a tree, a grass, a house, a bench, two cars, a pavement, a truck, and a sky.

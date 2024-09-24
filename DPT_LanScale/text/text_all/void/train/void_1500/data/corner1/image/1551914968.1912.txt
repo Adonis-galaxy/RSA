@@ -8,3 +8,8 @@ A black chair with a white label on it.
 The image shows a desk with a computer monitor, a box of tissues, and a sign that says "Reserved" on it.
 The image shows a black chair with a white label that says "vision" on it, placed in front of a large black machine with a silver handle, and a blue box with a white label that says "reserved" on it, all situated in a room with a glass door.
 The image shows a black desk with a computer monitor, keyboard, and mouse on it, along with a blue box of tissues and a white sign that says "RESERVED" on it.
+An image with two chairs, a table, a window, a tv, a paper, a wall, and a cardboard.
+An image with a tv, two chairs, a window, a wall, a paper, a cardboard, and a table.
+An image with a table, a window, a cardboard, a paper, two chairs, a wall, and a tv.
+An image with a paper, a window, a tv, a wall, two chairs, a table, and a cardboard.
+An image with two chairs, a table, a wall, a window, a paper, a tv, and a cardboard.

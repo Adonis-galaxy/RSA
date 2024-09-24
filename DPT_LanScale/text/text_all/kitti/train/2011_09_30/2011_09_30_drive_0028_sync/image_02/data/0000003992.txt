@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A tranquil suburban scene with a parked car, a pedestrian, a train station, and a tree-lined street.
 A large train station with a train on the tracks, a street with cars and pedestrians, and a sidewalk with trees and bushes.
 A tree-lined street with a train station, parked cars, and pedestrians, all under a bright sun.
+An image with a grass, a sky, two people, a pavement, two cars, a road, a tree, and a railroad.
+An image with two cars, a grass, two people, a sky, a road, a railroad, a tree, and a pavement.
+An image with a sky, a road, a tree, two people, a grass, a railroad, a pavement, and two cars.
+An image with two people, a road, a pavement, a grass, a tree, a railroad, a sky, and two cars.
+An image with a pavement, two people, a tree, a grass, two cars, a road, a railroad, and a sky.

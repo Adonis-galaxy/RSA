@@ -8,3 +8,8 @@ The image shows a black car driving down a street.
 A solitary car on a tree-lined street, with a house and a sidewalk in the background.
 A small black car is driving down a narrow, tree-lined street, with a house visible in the background.
 A narrow, tree-lined street with a car driving down it, flanked by houses and a sidewalk.
+An image with a tree, a wall, two cars, a road, a sky, a fence, a grass, a roof, and a pavement.
+An image with a sky, a wall, two cars, a fence, a grass, a pavement, a road, a roof, and a tree.
+An image with a sky, a grass, a road, two cars, a roof, a pavement, a fence, a tree, and a wall.
+An image with a wall, a grass, a road, a fence, a roof, a tree, a pavement, two cars, and a sky.
+An image with a sky, two cars, a fence, a pavement, a roof, a wall, a tree, a grass, and a road.

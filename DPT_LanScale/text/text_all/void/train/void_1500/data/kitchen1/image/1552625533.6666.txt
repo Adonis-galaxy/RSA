@@ -8,3 +8,8 @@ A counter with a basket of napkins and a basket of plastic utensils.
 A counter with a basket of napkins and a basket of plastic utensils.
 The image shows a counter with a basket of napkins, a basket of straws, and a basket of blue containers.
 The image shows a counter with a basket of napkins, a basket of straws, and a basket of blue containers, all set against an orange wall.
+An image with a counter, a wall, a cabinet, a paper, and a cup.
+An image with a cup, a counter, a paper, a cabinet, and a wall.
+An image with a cup, a cabinet, a wall, a paper, and a counter.
+An image with a paper, a cabinet, a wall, a counter, and a cup.
+An image with a wall, a cabinet, a cup, a paper, and a counter.

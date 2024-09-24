@@ -8,3 +8,8 @@ A model of a building in a display case.
 The image shows a model of a building displayed in a glass case, with a blurred background that suggests the setting is a public building.
 The image shows a model of a building, which is placed on a table, and the model is smaller than the table.
 The image shows a model of a building displayed in a glass case, with a blurred background that suggests the setting is a public space, possibly a museum or exhibition hall.
+An image with a cabinet, a wall, a floor, and a train.
+An image with a floor, a wall, a train, and a cabinet.
+An image with a train, a cabinet, a floor, and a wall.
+An image with a cabinet, a train, a floor, and a wall.
+An image with a wall, a train, a floor, and a cabinet.

@@ -8,3 +8,8 @@ The image shows a street with a white line painted on it.
 The image captures a quiet, tree-lined street with a clear path for vehicles, marked by white arrows on the asphalt.
 The image shows a narrow, tree-lined street with a sidewalk, a curb, and a paved road. There are two red signs on the sidewalk, and the road has white markings indicating a speed limit of 20 km/h.
 A quiet, tree-lined street with a clear path for vehicles, marked by white arrows on the asphalt.
+An image with a road, a pavement, a roof, a wall, a sky, and a tree.
+An image with a road, a tree, a wall, a pavement, a roof, and a sky.
+An image with a wall, a tree, a sky, a roof, a road, and a pavement.
+An image with a sky, a roof, a road, a tree, a wall, and a pavement.
+An image with a tree, a roof, a pavement, a road, a wall, and a sky.

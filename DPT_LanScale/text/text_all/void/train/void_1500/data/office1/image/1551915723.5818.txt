@@ -8,3 +8,8 @@ A small black chair in front of a table.
 The image shows a small room with a table, a chair, and a bench.
 The image shows a small room with a table, a chair, and a bench.
 The image shows a small room with a table, a chair, and a window.
+An image with a cabinet, a wall, a book, a rug, a window, a chair, and a dining.
+An image with a book, a dining, a wall, a cabinet, a chair, a rug, and a window.
+An image with a rug, a chair, a cabinet, a wall, a window, a book, and a dining.
+An image with a chair, a window, a wall, a cabinet, a rug, a dining, and a book.
+An image with a cabinet, a window, a book, a dining, a wall, a rug, and a chair.

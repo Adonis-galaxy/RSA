@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a row of trees.
 A quiet residential street, lined with trees and parked vehicles, under a clear blue sky.
 The image shows a tree-lined street with a large truck parked on the side, a few cars and a trailer in the background, and a clear blue sky overhead.
 A tree-lined street with a paved sidewalk, parked vehicles, and a clear blue sky.
+An image with a building, a pavement, a grass, a road, three trucks, a tree, and four cars.
+An image with a road, three trucks, a grass, a pavement, a building, four cars, and a tree.
+An image with a building, a pavement, four cars, a grass, three trucks, a tree, and a road.
+An image with four cars, a building, three trucks, a tree, a grass, a road, and a pavement.
+An image with four cars, three trucks, a tree, a grass, a road, a pavement, and a building.

@@ -8,3 +8,8 @@ The image shows a street scene with a row of parked cars, a bicycle, and pedestr
 A quiet residential street with parked cars, a bicyclist, and pedestrians, under a bright sunny day.
 A narrow street in a residential area with parked cars, a bicycle, and pedestrians.
 A sunny day in a residential area with parked cars, bicycles, and pedestrians on a tree-lined street.
+An image with ten cars, two bicycles, a pavement, a house, a grass, two people, a truck, a stairs, a tree, a road, and a sky.
+An image with two people, a road, ten cars, two bicycles, a grass, a tree, a sky, a house, a stairs, a truck, and a pavement.
+An image with ten cars, a pavement, two bicycles, two people, a truck, a sky, a grass, a stairs, a road, a house, and a tree.
+An image with a tree, two bicycles, ten cars, a grass, two people, a house, a pavement, a truck, a sky, a road, and a stairs.
+An image with a tree, a sky, ten cars, a truck, a grass, two people, a pavement, two bicycles, a house, a road, and a stairs.

@@ -8,3 +8,8 @@ A whiteboard with some writing on it.
 The image captures a room with a whiteboard, a printer, and various office supplies, suggesting a workspace or a classroom setting.
 The image shows a small office with a whiteboard, a printer, a trash can, and a box on the floor.
 The image shows an office space with a whiteboard on the wall, a printer on a desk, and various office supplies and equipment.
+An image with a shelf, a table, three books, a light, a cabinet, a wall, a floor, and a cardboard.
+An image with a table, three books, a cardboard, a shelf, a floor, a light, a cabinet, and a wall.
+An image with a wall, a light, three books, a floor, a cardboard, a shelf, a cabinet, and a table.
+An image with three books, a cardboard, a table, a light, a wall, a cabinet, a floor, and a shelf.
+An image with three books, a shelf, a cabinet, a floor, a cardboard, a wall, a light, and a table.

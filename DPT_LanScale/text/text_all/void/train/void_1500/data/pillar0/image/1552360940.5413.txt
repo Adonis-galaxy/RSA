@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue bucket sits next to a black bag and a white cylinder in a room with a wooden cabinet.
 A blue trash can is next to a black bag and a white cylinder in a room with a wooden cabinet.
 A blue trash can is placed next to a black bag and a white cylinder in a room with a wooden cabinet.
+An image with a floor, a suitcase, a cabinet, a refrigerator, a cardboard, a wall, and a door.
+An image with a floor, a suitcase, a cardboard, a refrigerator, a wall, a cabinet, and a door.
+An image with a door, a cabinet, a refrigerator, a cardboard, a wall, a suitcase, and a floor.
+An image with a refrigerator, a cardboard, a floor, a wall, a cabinet, a door, and a suitcase.
+An image with a refrigerator, a wall, a floor, a cardboard, a door, a cabinet, and a suitcase.

@@ -8,3 +8,8 @@ The image shows a street scene with a bicycle parked on the sidewalk.
 A quiet residential street, with a parked bicycle and a dog on a leash, under a clear sky.
 The image shows a residential street with apartment buildings, a sidewalk, a bike rack, a stop sign, a car, a person walking a dog, and a tree.
 A quiet residential street with apartment buildings, parked cars, and a few pedestrians.
+An image with a tree, three cars, a stairs, a bicycle, a stop, two people, a pavement, a road, and a house.
+An image with a stop, a house, a road, three cars, a pavement, a stairs, a bicycle, a tree, and two people.
+An image with a stairs, a stop, a pavement, three cars, a house, two people, a road, a tree, and a bicycle.
+An image with three cars, a tree, two people, a road, a bicycle, a pavement, a stairs, a stop, and a house.
+An image with a tree, three cars, two people, a bicycle, a stairs, a stop, a road, a pavement, and a house.

@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 A quiet residential street, lined with neatly trimmed hedges and houses, with a lone child playing in the distance.
 A narrow street between two-story buildings, lined with hedges and a car parked on the right side.
 A narrow, tree-lined street between two-story buildings, with a child running on the sidewalk.
+An image with a house, six cars, a person, a stairs, a sky, a pavement, a tree, a road, and a fence.
+An image with a fence, a house, a sky, a pavement, a person, six cars, a stairs, a road, and a tree.
+An image with a road, a tree, a sky, a person, a pavement, a fence, six cars, a stairs, and a house.
+An image with a fence, six cars, a sky, a road, a tree, a person, a stairs, a pavement, and a house.
+An image with six cars, a house, a road, a sky, a pavement, a stairs, a tree, a person, and a fence.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and trees.
 A quiet residential street, lined with parked cars and trees, under a clear sky.
 The image shows a narrow street lined with parked cars and trees, with a larger car parked on the sidewalk and a smaller car parked on the street.
 A narrow, tree-lined street with parked cars and a sidewalk.
+An image with a sky, a tree, five cars, a road, a house, and a pavement.
+An image with five cars, a pavement, a sky, a house, a road, and a tree.
+An image with a house, five cars, a tree, a sky, a pavement, and a road.
+An image with a sky, a pavement, a road, five cars, a house, and a tree.
+An image with a sky, five cars, a road, a house, a pavement, and a tree.

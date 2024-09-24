@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with cars driving down the road, parked vehicles, and a clear sky overhead.
 The image shows a busy street with a mix of vehicles, including cars, trucks, and a bus, driving on a road lined with trees. The street is wide and has multiple lanes, with a clear sky overhead.
 A busy street scene with multiple vehicles, including cars and trucks, driving on a road with a median, lined with trees and buildings in the background.
+An image with fourteen cars, three trucks, a grass, a tree, a sky, a building, and a road.
+An image with fourteen cars, a building, a grass, three trucks, a road, a sky, and a tree.
+An image with three trucks, fourteen cars, a tree, a sky, a building, a road, and a grass.
+An image with a road, three trucks, fourteen cars, a tree, a building, a grass, and a sky.
+An image with fourteen cars, three trucks, a grass, a road, a sky, a tree, and a building.

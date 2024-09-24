@@ -8,3 +8,8 @@ A blue car on a street.
 A blue car is parked on a tree-lined street, with a person walking on the sidewalk and a building in the background.
 A blue car is parked on a narrow street between two buildings, with a person riding a bicycle in the background.
 A blue car is parked on a tree-lined street, with a sidewalk and a building in the background.
+An image with a car, a grass, a pavement, a road, a tree, a house, and a person.
+An image with a house, a tree, a person, a car, a pavement, a grass, and a road.
+An image with a road, a tree, a pavement, a person, a grass, a car, and a house.
+An image with a house, a tree, a grass, a car, a pavement, a road, and a person.
+An image with a person, a tree, a pavement, a road, a grass, a house, and a car.

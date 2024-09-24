@@ -8,3 +8,8 @@ A row of white chairs with black accents around a white table.
 A row of white chairs with black accents, positioned around a long white table, set against a yellow wall.
 A row of white chairs with black accents, positioned around a long white table, set on a gray floor.
 The image shows a row of white chairs with black accents, positioned in front of a long white table, with a gray floor and a yellow wall in the background.
+An image with four chairs, two dinings, a wall, and a floor.
+An image with a floor, four chairs, a wall, and two dinings.
+An image with two dinings, four chairs, a floor, and a wall.
+An image with two dinings, four chairs, a wall, and a floor.
+An image with four chairs, two dinings, a floor, and a wall.

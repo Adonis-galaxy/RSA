@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 The image captures a serene residential street, with a mix of houses and trees, leading to a quiet cul-de-sac.
 The image shows a narrow alleyway between two buildings, with a car parked on the right side and a tree on the left.
 The image depicts a narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with a house, a fence, a grass, a door, a sky, a car, a tree, a road, and a pavement.
+An image with a road, a fence, a car, a tree, a pavement, a sky, a grass, a door, and a house.
+An image with a road, a sky, a car, a fence, a tree, a door, a pavement, a house, and a grass.
+An image with a road, a house, a sky, a door, a fence, a car, a tree, a grass, and a pavement.
+An image with a grass, a car, a road, a tree, a pavement, a sky, a door, a house, and a fence.

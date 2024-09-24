@@ -8,3 +8,8 @@ The image shows a room with two black chairs and an orange table.
 The image shows a room with two black chairs and an orange table, with the chairs positioned in front of the table.
 The image shows a small orange table with a black chair in a room with a white wall.
 The image shows a room with two black chairs and an orange table, all placed on a white floor.
+An image with a wall, two chairs, a floor, and a skateboard.
+An image with two chairs, a skateboard, a floor, and a wall.
+An image with a floor, two chairs, a wall, and a skateboard.
+An image with a wall, two chairs, a floor, and a skateboard.
+An image with a skateboard, a wall, two chairs, and a floor.

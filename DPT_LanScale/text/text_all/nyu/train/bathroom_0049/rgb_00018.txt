@@ -8,3 +8,8 @@ A bathroom with a white sink and a white bathtub.
 The image captures a well-lit, compact bathroom with a sink, mirror, and bathtub, featuring a tiled wall and a toilet.
 The image shows a small bathroom with a white sink, a white toilet, a white bathtub, and a mirror. The sink is relatively large compared to the other objects in the room.
 The image shows a small, well-lit bathroom with a white sink, a white toilet, a white bathtub, and a mirrored wall.
+An image with a toilet, six bottles, a curtain, two walls, a mirror, a toothbrush, a cabinet, and a sink.
+An image with a curtain, a toilet, six bottles, two walls, a toothbrush, a mirror, a sink, and a cabinet.
+An image with a sink, six bottles, a mirror, a toothbrush, two walls, a toilet, a curtain, and a cabinet.
+An image with six bottles, two walls, a mirror, a toilet, a sink, a cabinet, a curtain, and a toothbrush.
+An image with a mirror, a sink, a toilet, a cabinet, six bottles, a toothbrush, a curtain, and two walls.

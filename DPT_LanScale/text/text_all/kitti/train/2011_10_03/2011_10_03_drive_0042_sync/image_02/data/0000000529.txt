@@ -8,3 +8,8 @@ A car driving on a highway.
 The image captures a moment of solitude on a long, empty highway, with a few cars in the distance, leading towards a cluster of buildings in the distance, under a clear blue sky.
 A car is driving on a highway with a median strip, passing by a large building with a yellow facade and a white building with a blue sign.
 A car is driving on a highway with a clear sky and a line of trees in the background, leading to a large industrial building with a yellow facade.
+An image with four cars, a road, a grass, a fence, a building, and a tree.
+An image with a road, a building, four cars, a tree, a fence, and a grass.
+An image with a grass, four cars, a building, a fence, a road, and a tree.
+An image with four cars, a building, a grass, a road, a tree, and a fence.
+An image with four cars, a road, a fence, a tree, a grass, and a building.

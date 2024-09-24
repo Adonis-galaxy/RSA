@@ -8,3 +8,8 @@ The image shows a blue car parked on the side of a street in front of a building
 The image captures a quiet residential street scene, featuring a blue car parked in front of a white building with a balcony, a green and brown box on the sidewalk, and a red brick planter with a tree.
 The image shows a blue car parked on the side of a street in front of a white building with balconies, a green and brown box on the sidewalk, and a red and brown box on the sidewalk.
 The image shows a blue car parked on the side of a street in front of a white building with a balcony, a green and brown box on the sidewalk, and a sign indicating the building's address.
+An image with a grass, a building, a road, a car, a potted, a pavement, a tree, and a stop.
+An image with a tree, a stop, a car, a pavement, a potted, a grass, a road, and a building.
+An image with a grass, a potted, a pavement, a building, a car, a road, a tree, and a stop.
+An image with a building, a grass, a tree, a car, a potted, a road, a stop, and a pavement.
+An image with a potted, a building, a stop, a car, a tree, a grass, a road, and a pavement.

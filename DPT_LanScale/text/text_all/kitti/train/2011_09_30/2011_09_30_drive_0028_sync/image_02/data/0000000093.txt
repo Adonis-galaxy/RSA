@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a moment on a city street, featuring a storefront with a blue sign, a white building, a sidewalk, parked cars, a motorcycle, and people walking by.
 The image shows a street scene with a large building on the right, a blue sign with a white arrow pointing to the left, a white wall with a large advertisement, a sidewalk with a few chairs and a motorcycle parked on the side.
 The image shows a street scene with a storefront, a sidewalk, parked cars, and a building with a sign indicating "Einbahnstrasse."
+An image with a motorcycle, nine cars, a road, two people, two chairs, a door, a dining, a tree, a roof, a pavement, a house, and a sky.
+An image with nine cars, a door, a road, a pavement, two chairs, two people, a motorcycle, a dining, a sky, a roof, a tree, and a house.
+An image with a roof, a motorcycle, a dining, nine cars, a tree, a pavement, two chairs, a sky, two people, a road, a door, and a house.
+An image with a house, two people, a roof, nine cars, a tree, a road, a sky, a dining, two chairs, a pavement, a door, and a motorcycle.
+An image with a dining, nine cars, a tree, a pavement, a sky, a roof, a road, two people, a house, a door, a motorcycle, and two chairs.

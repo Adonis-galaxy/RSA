@@ -8,3 +8,8 @@ A car on a highway.
 A car on a highway, with a bridge and buildings in the background, under a clear blue sky.
 A car is driving on a highway with a bridge in the background, and there are buildings in the distance.
 A car is driving on a highway with a bridge in the background, and there are buildings in the distance.
+An image with a grass, a tree, a sky, three cars, a building, and a road.
+An image with a building, a grass, a road, three cars, a sky, and a tree.
+An image with a building, a grass, three cars, a sky, a road, and a tree.
+An image with a grass, three cars, a tree, a building, a road, and a sky.
+An image with three cars, a sky, a tree, a building, a road, and a grass.

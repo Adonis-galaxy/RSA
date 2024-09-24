@@ -8,3 +8,8 @@ A large roll of paper leaning against a cardboard box.
 A large roll of paper leaning against a cardboard box in a room.
 A large roll of paper leaning against a cardboard box in a room with a checkered floor.
 A large roll of paper leaning against a cardboard box in a room with a checkered floor.
+An image with a microwave, a paper, a floor, a door, a cardboard, and a wall.
+An image with a floor, a microwave, a wall, a cardboard, a door, and a paper.
+An image with a floor, a microwave, a paper, a wall, a door, and a cardboard.
+An image with a paper, a floor, a cardboard, a wall, a microwave, and a door.
+An image with a door, a microwave, a wall, a floor, a cardboard, and a paper.

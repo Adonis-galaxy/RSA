@@ -8,3 +8,8 @@ The image shows a street scene with a sign, a car, a parking lot, and trees.
 The image captures a typical day on a suburban street, with cars driving on the road, a pedestrian crossing, and a parked car on the side of the road.
 The image shows a wide road with multiple lanes, a median strip, and a sign indicating a park and ride facility. The road is lined with trees and there are cars driving on it. The sign is large and prominently displayed.
 The image shows a road with a parked car, a sign indicating a parking area, and a pedestrian crossing with a red and white sign, all set against a backdrop of trees and a clear blue sky.
+An image with four cars, a sky, a building, a road, a tree, a grass, and a pavement.
+An image with a sky, a grass, four cars, a tree, a pavement, a road, and a building.
+An image with four cars, a road, a sky, a grass, a pavement, a building, and a tree.
+An image with a sky, four cars, a building, a pavement, a tree, a road, and a grass.
+An image with a sky, four cars, a tree, a road, a building, a pavement, and a grass.

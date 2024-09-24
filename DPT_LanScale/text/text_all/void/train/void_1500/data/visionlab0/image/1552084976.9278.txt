@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it, a brown cardboard box, a black 
 The image shows a whiteboard with writing on it, a brown cardboard box, a black bag, and a blue bag in a room with a carpeted floor.
 The image shows a whiteboard with writing on it, a brown cardboard box, a blue plastic container, and a black bag in a room with a carpeted floor.
 The image shows a whiteboard with writing on it, a brown cardboard box, a black bag, and a blue bag in a room with a carpeted floor.
+An image with a cardboard, a floor, a suitcase, a wall, a door, and a cabinet.
+An image with a suitcase, a wall, a cabinet, a cardboard, a door, and a floor.
+An image with a door, a cardboard, a cabinet, a floor, a suitcase, and a wall.
+An image with a cabinet, a cardboard, a door, a suitcase, a wall, and a floor.
+An image with a floor, a suitcase, a wall, a cardboard, a cabinet, and a door.

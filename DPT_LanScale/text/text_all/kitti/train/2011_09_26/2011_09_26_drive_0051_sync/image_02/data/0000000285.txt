@@ -8,3 +8,8 @@ A car on a street.
 A car on a road, surrounded by trees and buildings, with a clear sky overhead.
 A small car is driving down a tree-lined street, with a large billboard visible in the background.
 A gray car is driving down a tree-lined street with parked cars on the side, and a billboard is visible in the background.
+An image with seventeen cars, a bus, a building, a sky, a road, a tree, and a grass.
+An image with seventeen cars, a building, a sky, a road, a bus, a tree, and a grass.
+An image with seventeen cars, a tree, a bus, a building, a road, a sky, and a grass.
+An image with a road, seventeen cars, a sky, a grass, a bus, a building, and a tree.
+An image with a sky, seventeen cars, a bus, a building, a grass, a tree, and a road.

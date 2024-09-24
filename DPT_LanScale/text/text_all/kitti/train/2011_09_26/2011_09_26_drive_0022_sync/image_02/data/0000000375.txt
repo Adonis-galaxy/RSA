@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 A narrow street lined with parked cars and a truck, with a clear sky overhead.
 The image shows a narrow street lined with parked cars, a truck, and a trailer, with a clear sky overhead and a fence on the side.
 A narrow, tree-lined street with parked cars and a truck, leading to a residential area.
+An image with nine cars, a fence, a truck, a tree, a wall, a pavement, a roof, a grass, a sky, and a road.
+An image with a road, nine cars, a grass, a truck, a fence, a wall, a roof, a tree, a sky, and a pavement.
+An image with nine cars, a tree, a road, a pavement, a fence, a wall, a sky, a truck, a grass, and a roof.
+An image with nine cars, a roof, a pavement, a wall, a truck, a grass, a road, a tree, a sky, and a fence.
+An image with a pavement, a wall, nine cars, a road, a truck, a sky, a roof, a grass, a tree, and a fence.

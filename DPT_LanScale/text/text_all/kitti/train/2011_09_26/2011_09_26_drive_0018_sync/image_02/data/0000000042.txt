@@ -8,3 +8,8 @@ The image shows a red car driving on a road with multiple traffic lights.
 The image captures a moment of urban life, with a red car driving on a wide, empty street, passing under a network of traffic lights and street signs, all set against a backdrop of trees and buildings.
 The image shows a wide, empty road with a few cars and traffic lights, and the sky is blue.
 The image depicts a wide, multi-lane road with traffic lights, lined with trees and buildings, and a red car driving on the right side of the road.
+An image with a road, a pavement, a tree, two traffics, and three cars.
+An image with a road, three cars, a pavement, a tree, and two traffics.
+An image with a tree, three cars, a road, a pavement, and two traffics.
+An image with three cars, a road, a pavement, two traffics, and a tree.
+An image with two traffics, three cars, a road, a pavement, and a tree.

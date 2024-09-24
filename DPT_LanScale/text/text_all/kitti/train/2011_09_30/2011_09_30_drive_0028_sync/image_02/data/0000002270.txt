@@ -8,3 +8,8 @@ The image shows a narrow street between two rows of houses, with parked cars and
 The image captures a quiet residential street, with parked cars lining the sides, a lone cyclist in the middle, and a clear pathway leading to the houses in the background.
 The image shows a narrow street lined with parked cars and bicycles, with a person walking in the middle, and it appears to be a sunny day.
 A narrow, tree-lined street between two-story residential buildings, with parked cars and bicycles on both sides.
+An image with seven cars, a pavement, four bicycles, a grass, a person, a tree, a sky, a road, and a house.
+An image with seven cars, four bicycles, a grass, a house, a sky, a tree, a road, a person, and a pavement.
+An image with four bicycles, seven cars, a sky, a person, a house, a pavement, a grass, a road, and a tree.
+An image with seven cars, a grass, four bicycles, a road, a sky, a house, a tree, a person, and a pavement.
+An image with four bicycles, a sky, seven cars, a grass, a tree, a person, a road, a house, and a pavement.

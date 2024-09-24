@@ -8,3 +8,8 @@ The image shows a white wall with a door frame and a small section of a wooden f
 The image shows a plain white wall with a closed door, and a wooden staircase is visible in the corner.
 The image shows a white wall with a small black marking, a closed door, and a wooden staircase.
 The image shows a plain white wall with a closed door, and a wooden staircase is visible in the corner.
+An image with a floor, a door, and a wall.
+An image with a door, a floor, and a wall.
+An image with a wall, a door, and a floor.
+An image with a floor, a wall, and a door.
+An image with a door, a floor, and a wall.

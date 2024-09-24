@@ -8,3 +8,8 @@ A white table with four chairs in a room with a blackboard and a trash can.
 A modern office space with a white table and chairs, a black flat screen television, and a glass door.
 A large white table with four chairs in a room with a black flat screen TV on the wall and a trash can in the corner.
 The image shows a modern office space with a white table and chairs, a large black monitor on the wall, and a glass door in the background.
+An image with four chairs, four dinings, a floor, a wall, a tv, and a door.
+An image with four chairs, a wall, four dinings, a tv, a door, and a floor.
+An image with four chairs, a floor, a tv, four dinings, a door, and a wall.
+An image with four chairs, a tv, a floor, four dinings, a door, and a wall.
+An image with a tv, four dinings, four chairs, a door, a floor, and a wall.

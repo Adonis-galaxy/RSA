@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
 The image depicts a wide, tree-lined street with a few parked cars, a truck, and a bus, leading to a large building with a billboard in the background.
 The image depicts a wide, tree-lined street with multiple lanes, a median, and a sidewalk, leading to a commercial area with various buildings and parked cars.
+An image with seventeen cars, three trucks, a tree, a sky, a bus, a road, a grass, a building, and a person.
+An image with seventeen cars, three trucks, a building, a person, a bus, a grass, a road, a sky, and a tree.
+An image with seventeen cars, a bus, three trucks, a grass, a person, a road, a sky, a tree, and a building.
+An image with seventeen cars, a building, three trucks, a person, a tree, a grass, a road, a sky, and a bus.
+An image with a grass, seventeen cars, a person, a sky, a building, a bus, a tree, three trucks, and a road.

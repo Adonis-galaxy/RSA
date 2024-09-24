@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 A quiet residential street with a clear path for pedestrians and vehicles, lined with trees and parked cars.
 The image shows a wide, tree-lined street with a sidewalk on the right side, leading to a row of houses in the distance. The street is mostly empty, with a few vehicles parked along the side.
 A tree-lined street with parked vehicles, a sidewalk, and a paved road.
+An image with a dirt, five cars, a tree, three trucks, a house, a rock, a sky, a grass, and a road.
+An image with a rock, five cars, a sky, three trucks, a tree, a road, a grass, a dirt, and a house.
+An image with five cars, a dirt, a grass, a tree, three trucks, a road, a house, a sky, and a rock.
+An image with a road, a house, three trucks, a grass, a dirt, a tree, five cars, a rock, and a sky.
+An image with three trucks, five cars, a dirt, a tree, a rock, a sky, a grass, a road, and a house.

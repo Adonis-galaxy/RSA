@@ -8,3 +8,8 @@ A classroom with a green wall and a whiteboard.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a projector.
 The image shows a classroom with a green wall, a whiteboard, a desk with a computer monitor, a table with a poster, and a large window with a light fixture.
 The image shows a classroom with a green wall, a whiteboard, a desk with a computer monitor, and a shelf with a projector.
+An image with three chairs, a wall, a person, a light, a ceiling, a dining, a tv, and a floor.
+An image with three chairs, a dining, a wall, a floor, a light, a tv, a ceiling, and a person.
+An image with a ceiling, three chairs, a floor, a light, a person, a dining, a wall, and a tv.
+An image with a floor, three chairs, a ceiling, a light, a person, a wall, a tv, and a dining.
+An image with a wall, three chairs, a person, a light, a tv, a floor, a ceiling, and a dining.

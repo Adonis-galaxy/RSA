@@ -8,3 +8,8 @@ A blue couch with a backpack on it.
 The image captures a cozy living room scene with a blue couch, a backpack, and a framed picture on the wall.
 A large blue couch with a backpack on it, sitting in a room with a framed picture on the wall.
 A blue couch with a backpack and a bag on it, positioned in front of a doorway with a framed picture on the wall.
+An image with a backpack, a rug, a door, a cabinet, a couch, a wall, and a tv.
+An image with a rug, a tv, a wall, a cabinet, a backpack, a couch, and a door.
+An image with a cabinet, a couch, a backpack, a rug, a door, a tv, and a wall.
+An image with a tv, a cabinet, a backpack, a rug, a door, a couch, and a wall.
+An image with a couch, a backpack, a door, a wall, a tv, a rug, and a cabinet.

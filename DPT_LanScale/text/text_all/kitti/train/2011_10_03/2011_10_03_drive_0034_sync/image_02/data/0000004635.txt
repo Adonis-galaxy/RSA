@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two stone walls, with a white trash ca
 A narrow alleyway between two stone walls, with a white trash can on the left and a black metal gate on the right, leading to a tree-lined street.
 The image shows a narrow alleyway between two stone walls, with a white trash can on the left side, a metal fence on the right, and a car parked at the end of the alley.
 A narrow, shaded alleyway between two stone walls, with a white trash can on the left and a metal fence on the right.
+An image with a tree, two walls, a refrigerator, a road, a fence, and a car.
+An image with a car, two walls, a fence, a road, a refrigerator, and a tree.
+An image with two walls, a car, a refrigerator, a fence, a tree, and a road.
+An image with a road, a car, two walls, a refrigerator, a fence, and a tree.
+An image with a refrigerator, two walls, a road, a car, a tree, and a fence.

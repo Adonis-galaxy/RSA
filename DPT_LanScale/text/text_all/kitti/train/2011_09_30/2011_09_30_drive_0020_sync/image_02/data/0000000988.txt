@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a clear blue sky.
 The image shows a street scene with a row of parked cars, a sidewalk, a grassy area, and a building with orange and white walls.
 A tree-lined street with parked cars and buildings, leading to a paved pathway.
+An image with six cars, a building, a pavement, a house, a grass, a road, a tree, a truck, and a sky.
+An image with a sky, a house, six cars, a road, a grass, a building, a pavement, a truck, and a tree.
+An image with six cars, a house, a truck, a road, a sky, a building, a tree, a grass, and a pavement.
+An image with a road, six cars, a tree, a building, a house, a truck, a grass, a pavement, and a sky.
+An image with six cars, a road, a sky, a pavement, a building, a grass, a house, a truck, and a tree.

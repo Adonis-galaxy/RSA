@@ -8,3 +8,8 @@ The image shows a residential street with houses and trees.
 A quiet residential street with houses and trees, under a clear blue sky.
 The image shows a narrow, tree-lined street with houses on both sides, a few parked cars, and a clear blue sky.
 A quiet residential street with houses, trees, and a clear blue sky.
+An image with a house, three cars, a fence, a mountain, a road, a sky, a tree, a pavement, and a roof.
+An image with a house, three cars, a fence, a pavement, a road, a sky, a tree, a roof, and a mountain.
+An image with a fence, a tree, a mountain, three cars, a house, a roof, a sky, a pavement, and a road.
+An image with a sky, three cars, a tree, a pavement, a house, a road, a fence, a mountain, and a roof.
+An image with a roof, a house, a mountain, three cars, a pavement, a fence, a sky, a tree, and a road.

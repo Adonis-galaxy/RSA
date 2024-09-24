@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist rides past a parked blue car on a tree-lined street, with a person walking on the sidewalk and a building in the background.
 A person riding a bicycle on a narrow street between parked cars and a building.
 A man rides a bicycle on a tree-lined street, passing a blue car parked on the side of a yellow building.
+An image with three cars, a pavement, a bicycle, a road, a tree, a grass, a person, a house, and a handbag.
+An image with three cars, a house, a handbag, a bicycle, a pavement, a tree, a person, a grass, and a road.
+An image with three cars, a pavement, a house, a grass, a person, a bicycle, a road, a handbag, and a tree.
+An image with a house, a road, a pavement, a grass, a person, three cars, a bicycle, a handbag, and a tree.
+An image with three cars, a grass, a tree, a person, a handbag, a bicycle, a pavement, a road, and a house.

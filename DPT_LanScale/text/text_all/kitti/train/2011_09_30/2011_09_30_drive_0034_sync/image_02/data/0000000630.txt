@@ -8,3 +8,8 @@ The image shows a street with a bike lane marked on it.
 The image captures a quiet residential street, with a clear sky overhead and a sunny day, featuring a mix of houses and trees, a bicycle lane, and a car parked on the side of the road.
 The image shows a narrow street lined with houses, a car parked on the side, and a bicycle lane marked with white arrows.
 The image depicts a quiet residential street with a mix of houses and apartment buildings, lined with trees and a sidewalk, and featuring a bike lane marked with white arrows.
+An image with a house, a fence, a traffic, a road, a pavement, a wall, a sky, and a tree.
+An image with a fence, a house, a wall, a road, a pavement, a tree, a traffic, and a sky.
+An image with a sky, a fence, a house, a pavement, a tree, a road, a traffic, and a wall.
+An image with a traffic, a fence, a road, a wall, a sky, a pavement, a tree, and a house.
+An image with a road, a traffic, a tree, a house, a sky, a pavement, a wall, and a fence.

@@ -8,3 +8,8 @@ The image shows a long, straight road with a clear view of the horizon.
 The image captures a long, straight road with a clear horizon, flanked by trees and a bridge, leading to a city in the distance.
 The image shows a long, straight road with a few vehicles, a bridge, and a clear blue sky.
 The image shows a long, straight, multi-lane highway with a clear sky, a few trees, and a distant cityscape.
+An image with a sky, a fence, a road, a car, a tree, a grass, and a bus.
+An image with a car, a fence, a tree, a road, a bus, a sky, and a grass.
+An image with a grass, a fence, a bus, a tree, a sky, a car, and a road.
+An image with a car, a road, a fence, a bus, a grass, a tree, and a sky.
+An image with a bus, a road, a tree, a grass, a car, a fence, and a sky.

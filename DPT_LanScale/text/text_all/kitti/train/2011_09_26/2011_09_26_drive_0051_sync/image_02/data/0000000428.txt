@@ -8,3 +8,8 @@ The image shows a street scene with a train on the tracks, cars driving on the r
 The image captures a bustling city street with a train passing through, surrounded by parked cars and a building with flags.
 A large train is traveling down a street lined with trees and buildings, with cars driving on the road and pedestrians walking on the sidewalk.
 A busy street scene with a train crossing, cars driving, and pedestrians walking, all under a clear sky.
+An image with fifteen cars, two trucks, a railroad, a road, a grass, a banner, a traffic, a tree, a bus, and a building.
+An image with fifteen cars, a railroad, two trucks, a tree, a grass, a building, a bus, a traffic, a road, and a banner.
+An image with fifteen cars, two trucks, a banner, a bus, a road, a grass, a traffic, a railroad, a tree, and a building.
+An image with fifteen cars, a banner, two trucks, a bus, a building, a road, a grass, a tree, a traffic, and a railroad.
+An image with a banner, a traffic, fifteen cars, a building, a tree, two trucks, a railroad, a grass, a bus, and a road.

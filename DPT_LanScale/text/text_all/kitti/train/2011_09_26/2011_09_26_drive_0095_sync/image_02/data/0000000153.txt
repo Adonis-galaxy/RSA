@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a few parked cars and a person walking, set against the backdrop of a row of buildings.
 A narrow street in a European city, with parked cars, a person walking, and tall buildings on either side.
 A narrow street in a European city, lined with parked cars and tall buildings, with a pedestrian walking on the sidewalk.
+An image with six cars, a road, a handbag, a pavement, a sky, a tree, a person, and a building.
+An image with a road, a sky, six cars, a handbag, a tree, a person, a building, and a pavement.
+An image with six cars, a road, a person, a tree, a building, a handbag, a sky, and a pavement.
+An image with a person, a road, a tree, six cars, a building, a pavement, a sky, and a handbag.
+An image with a road, a sky, a person, a building, six cars, a pavement, a handbag, and a tree.

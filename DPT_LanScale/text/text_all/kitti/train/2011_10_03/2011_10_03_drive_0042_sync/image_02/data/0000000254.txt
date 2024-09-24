@@ -8,3 +8,8 @@ The image shows a highway with a red car driving on it.
 The image captures a serene highway scene with a red car driving away from a clear blue sky, flanked by lush greenery and a few scattered buildings in the distance.
 A car is driving on a highway with a clear blue sky and a few trees in the background.
 The image shows a long, straight highway with a clear sky, a few vehicles, and a green landscape on either side, with a bridge and a road sign in the foreground.
+An image with a car, a tree, a traffic, a road, a fence, a grass, and a bus.
+An image with a road, a fence, a traffic, a car, a bus, a grass, and a tree.
+An image with a car, a grass, a tree, a fence, a bus, a traffic, and a road.
+An image with a traffic, a car, a grass, a tree, a bus, a road, and a fence.
+An image with a fence, a bus, a traffic, a grass, a tree, a car, and a road.

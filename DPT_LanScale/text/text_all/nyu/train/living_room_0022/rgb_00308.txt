@@ -8,3 +8,8 @@ A man sitting on a couch using a tablet.
 A man is sitting on a couch, holding a tablet, while a woman stands in front of him, gesturing with her hands.
 A man is sitting on a couch, holding a tablet, while a woman stands in the background, gesturing with her hands.
 A man is sitting on a couch, holding a tablet, while a woman stands in the background, gesturing with her hands.
+An image with a cabinet, three books, two people, a door, two chairs, a wall, a ceiling, a floor, and a laptop.
+An image with two people, three books, two chairs, a laptop, a door, a ceiling, a cabinet, a wall, and a floor.
+An image with a door, three books, two people, a cabinet, a ceiling, two chairs, a laptop, a wall, and a floor.
+An image with two people, three books, a laptop, a ceiling, a wall, two chairs, a cabinet, a floor, and a door.
+An image with two chairs, a laptop, a floor, a ceiling, a wall, two people, a cabinet, three books, and a door.

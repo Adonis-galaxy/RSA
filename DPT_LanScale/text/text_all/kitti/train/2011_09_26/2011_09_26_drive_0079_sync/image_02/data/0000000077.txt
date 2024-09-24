@@ -8,3 +8,8 @@ The image shows a tree on a sidewalk.
 A narrow street lined with lush greenery and a white building, with a small tree in the foreground casting a shadow on the road.
 The image shows a narrow street lined with trees and bushes, with a white building on the right side. The street is shaded by the trees, and there is a small bush in the foreground.
 A narrow street lined with trees and hedges, leading to a white building with a car parked in front.
+An image with a pavement, a road, a grass, a sky, a house, and a tree.
+An image with a tree, a road, a pavement, a sky, a grass, and a house.
+An image with a road, a pavement, a house, a grass, a sky, and a tree.
+An image with a tree, a pavement, a grass, a sky, a house, and a road.
+An image with a road, a tree, a house, a grass, a sky, and a pavement.

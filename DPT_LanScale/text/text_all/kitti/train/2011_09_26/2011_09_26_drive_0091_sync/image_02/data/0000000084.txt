@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 A bustling city street with a tram, pedestrians, cyclists, and benches, all under a clear sky.
 A man stands on a sidewalk next to a street with a train track, benches, and people.
 A bustling city street with a tram, pedestrians, cyclists, benches, and shops.
+An image with fifteen people, four bicycles, a building, three benches, a railroad, two chairs, a umbrella, a tree, a truck, a roof, a traffic, a car, a backpack, and a pavement.
+An image with fifteen people, three benches, two chairs, four bicycles, a roof, a traffic, a tree, a car, a railroad, a building, a pavement, a truck, a umbrella, and a backpack.
+An image with three benches, four bicycles, fifteen people, a truck, a railroad, a traffic, a car, two chairs, a pavement, a building, a backpack, a tree, a umbrella, and a roof.
+An image with a pavement, fifteen people, three benches, a building, a traffic, a roof, a railroad, a umbrella, a truck, a backpack, four bicycles, two chairs, a tree, and a car.
+An image with three benches, fifteen people, a tree, four bicycles, two chairs, a roof, a umbrella, a pavement, a railroad, a traffic, a car, a truck, a backpack, and a building.

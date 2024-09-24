@@ -8,3 +8,8 @@ A model of a building on a display case.
 The image shows a model of a building, possibly a school, with a street and sidewalk in front of it, placed on a wooden display case.
 The image shows a small model of a building, which is placed on a wooden shelf.
 The image shows a model of a building, possibly a school, with a playground and a parking lot, displayed on a wooden stand.
+An image with a tree, a floor, a wall, and a building.
+An image with a building, a wall, a floor, and a tree.
+An image with a floor, a building, a wall, and a tree.
+An image with a tree, a building, a floor, and a wall.
+An image with a tree, a wall, a floor, and a building.

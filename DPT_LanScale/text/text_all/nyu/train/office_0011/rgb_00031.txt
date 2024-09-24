@@ -8,3 +8,8 @@ The image shows an office with a desk and chair, a bookshelf, and a large screen
 The image captures an office space with a desk, chair, and shelving, featuring a metal partition and a whiteboard, all under a ceiling with recessed lighting.
 The image shows an office with a large metal partition, a desk with a computer monitor and a whiteboard, a chair, and a coffee cup.
 The image shows an office space with a partitioned area, a desk with a computer, a chair, and a whiteboard, all within a corridor with a row of doors and a column.
+An image with a book, a floor, a shelf, a light, a table, a chair, a ceiling, a cup, and a wall.
+An image with a cup, a wall, a table, a book, a light, a chair, a shelf, a ceiling, and a floor.
+An image with a ceiling, a floor, a chair, a book, a cup, a wall, a light, a table, and a shelf.
+An image with a cup, a shelf, a chair, a book, a floor, a table, a wall, a light, and a ceiling.
+An image with a table, a chair, a ceiling, a cup, a wall, a book, a light, a floor, and a shelf.

@@ -8,3 +8,8 @@ The image shows a highway with a blue guardrail and a white line in the middle o
 The image captures a serene highway scene with a clear sky, a few cars, and a bridge with a railing, all set against a backdrop of lush greenery.
 The image shows a wide, empty highway with a few cars, a bridge, and a clear blue sky.
 The image shows a long, straight highway with multiple lanes, a central divider, and a bridge overpass in the distance, under a clear blue sky.
+An image with a grass, three cars, a tree, a fence, a road, and a sky.
+An image with a tree, a sky, three cars, a fence, a road, and a grass.
+An image with a grass, three cars, a road, a fence, a sky, and a tree.
+An image with three cars, a road, a grass, a fence, a tree, and a sky.
+An image with a sky, a road, three cars, a tree, a fence, and a grass.

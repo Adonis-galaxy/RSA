@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A quiet residential street, lined with parked cars and a white fence, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a sidewalk on the right side. The street is marked with a large, bold, black text that reads "PAPAYAN".
 A tree-lined street with parked cars, a sidewalk, and a white fence.
+An image with four cars, a sky, a pavement, a grass, a wall, a road, and a tree.
+An image with four cars, a wall, a grass, a tree, a road, a pavement, and a sky.
+An image with a grass, a sky, a road, four cars, a pavement, a wall, and a tree.
+An image with a grass, four cars, a road, a pavement, a tree, a sky, and a wall.
+An image with a tree, four cars, a wall, a pavement, a road, a grass, and a sky.

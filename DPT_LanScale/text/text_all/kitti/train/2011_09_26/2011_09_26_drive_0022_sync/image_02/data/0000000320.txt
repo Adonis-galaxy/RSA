@@ -8,3 +8,8 @@ The image shows a street view with a car parked on the side of the road.
 A quiet suburban street, lined with trees and a garage, leads to a cul-de-sac.
 The image shows a narrow, tree-lined street with a car parked on the right side, a garage on the left, and a sign on the right side of the street.
 A narrow, curving road leads to a white garage with a sign, surrounded by trees and bushes.
+An image with a car, a road, a tree, a dirt, and a building.
+An image with a road, a building, a car, a tree, and a dirt.
+An image with a building, a road, a car, a dirt, and a tree.
+An image with a road, a car, a building, a tree, and a dirt.
+An image with a dirt, a tree, a building, a car, and a road.

@@ -8,3 +8,8 @@ The image shows a street scene with cars and trees.
 The image captures a typical day on a suburban street, with cars driving on the road and parked along the side, under a clear blue sky.
 The image shows a wide street with a few cars, a sidewalk, and trees on both sides.
 The image depicts a wide, tree-lined street with multiple lanes, a sidewalk, and a fence, leading to a residential area with buildings and a park.
+An image with five cars, a wall, a tree, a grass, a pavement, a sky, a road, and a building.
+An image with a building, a road, a grass, five cars, a tree, a sky, a pavement, and a wall.
+An image with a sky, a wall, five cars, a tree, a grass, a building, a pavement, and a road.
+An image with five cars, a tree, a grass, a building, a wall, a road, a sky, and a pavement.
+An image with a tree, a grass, five cars, a wall, a road, a pavement, a sky, and a building.

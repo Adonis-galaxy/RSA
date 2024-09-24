@@ -8,3 +8,8 @@ The image shows a street lined with parked cars and a truck, with trees on both 
 A narrow street lined with parked cars and trees, with a delivery truck parked in the middle, and a green couch being carried down the street.
 A long, narrow street lined with parked cars and trees, with a large truck parked on the side and a green couch being carried down the street.
 A narrow street lined with parked cars and trees, leading to a clearing where a truck is parked.
+An image with a tree, five cars, a person, a truck, a pavement, a road, a bridge, and a sky.
+An image with a person, a pavement, a bridge, a sky, a truck, five cars, a road, and a tree.
+An image with five cars, a person, a bridge, a tree, a truck, a road, a sky, and a pavement.
+An image with five cars, a bridge, a person, a road, a sky, a pavement, a truck, and a tree.
+An image with five cars, a person, a bridge, a sky, a road, a truck, a tree, and a pavement.

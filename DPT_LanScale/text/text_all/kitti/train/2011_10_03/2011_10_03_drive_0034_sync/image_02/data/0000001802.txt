@@ -8,3 +8,8 @@ A tree-lined road.
 A sunlit, tree-lined road with a clear view of the sky.
 A long, narrow, tree-lined road with a fence on the right side.
 A long, narrow, tree-lined road with a clear sky overhead.
+An image with a road, a sky, a tree, and a pavement.
+An image with a pavement, a tree, a sky, and a road.
+An image with a sky, a pavement, a road, and a tree.
+An image with a tree, a pavement, a sky, and a road.
+An image with a sky, a road, a pavement, and a tree.

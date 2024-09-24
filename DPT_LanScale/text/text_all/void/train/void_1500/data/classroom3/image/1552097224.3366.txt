@@ -8,3 +8,8 @@ A row of black chairs with white legs.
 A computer desk with a keyboard and mouse, and three black chairs with white legs.
 A computer desk with a keyboard and mouse on it, and three black chairs with white legs.
 The image shows a computer desk with a keyboard and mouse on it, and three black chairs with white legs in front of the desk.
+An image with two chairs, a keyboard, a rug, two mice, a wall, a table, and a tv.
+An image with a keyboard, two chairs, a wall, a tv, two mice, a rug, and a table.
+An image with two mice, a wall, a tv, a rug, a keyboard, two chairs, and a table.
+An image with a keyboard, a tv, two chairs, two mice, a wall, a rug, and a table.
+An image with two chairs, a keyboard, a table, a wall, two mice, a tv, and a rug.

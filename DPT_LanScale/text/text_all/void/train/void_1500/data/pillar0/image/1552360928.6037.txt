@@ -8,3 +8,8 @@ A black duffel bag with red trim on the floor.
 A black duffel bag with a red stripe sits next to a blue trash can and a white cylindrical object.
 A black duffel bag with a red stripe sits next to a blue trash can and a white cylinder on a blue carpeted floor.
 A black duffel bag with a red stripe sits next to a blue trash can and a white cylindrical object, all on a blue carpeted floor.
+An image with a suitcase, a chair, a rug, a door, and a refrigerator.
+An image with a rug, a refrigerator, a chair, a suitcase, and a door.
+An image with a chair, a door, a refrigerator, a suitcase, and a rug.
+An image with a refrigerator, a rug, a chair, a door, and a suitcase.
+An image with a door, a rug, a refrigerator, a chair, and a suitcase.

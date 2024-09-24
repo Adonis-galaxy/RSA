@@ -8,3 +8,8 @@ A silver car driving on a street.
 A silver car is driving through an intersection, passing a gas station and a parked white car, with a person walking on the sidewalk.
 A silver car is driving across a street intersection, passing a gas station and a parked white car.
 The image shows a street scene with a car turning at an intersection, surrounded by parked cars and trees, with a clear sky and a blue sign in the background.
+An image with a grass, eight cars, a person, a road, a tree, a pavement, a bench, and a building.
+An image with eight cars, a road, a grass, a person, a pavement, a tree, a building, and a bench.
+An image with eight cars, a road, a grass, a bench, a person, a building, a pavement, and a tree.
+An image with eight cars, a grass, a tree, a bench, a pavement, a building, a road, and a person.
+An image with a grass, a building, a tree, eight cars, a bench, a pavement, a person, and a road.

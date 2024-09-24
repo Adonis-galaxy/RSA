@@ -8,3 +8,8 @@ The image shows a blurry view of a kitchen with a refrigerator, a counter, and a
 The image shows a blurry view of a kitchen with a refrigerator, a counter, and a glass door.
 The image shows a blurry view of a kitchen with a refrigerator, a blue counter, and a glass door.
 The image shows a blurry view of a kitchen with a refrigerator, a blue countertop, and a glass door.
+An image with a light, a refrigerator, a wall, a window, and a cabinet.
+An image with a wall, a refrigerator, a window, a cabinet, and a light.
+An image with a light, a refrigerator, a wall, a cabinet, and a window.
+An image with a light, a cabinet, a wall, a window, and a refrigerator.
+An image with a wall, a cabinet, a light, a window, and a refrigerator.

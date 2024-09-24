@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a person walking, a street sign
 The image captures a typical day in a residential area, with parked cars lining the street, a few pedestrians, and a clear sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a traffic sign indicating a pedestrian crossing.
 The image depicts a narrow street lined with parked cars, trees, and buildings, with a pedestrian crossing sign visible on the right side.
+An image with fifteen cars, a tree, a bicycle, a person, a dirt, a road, a pavement, a house, and a truck.
+An image with a tree, a road, fifteen cars, a bicycle, a pavement, a person, a house, a truck, and a dirt.
+An image with a house, fifteen cars, a bicycle, a road, a person, a tree, a pavement, a dirt, and a truck.
+An image with fifteen cars, a pavement, a road, a dirt, a house, a tree, a bicycle, a person, and a truck.
+An image with fifteen cars, a dirt, a road, a truck, a pavement, a bicycle, a tree, a person, and a house.

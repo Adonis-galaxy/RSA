@@ -8,3 +8,8 @@ A blue and black refrigerator in a room.
 The image shows a room with a blue and black refrigerator, a table with a poster on it, and a desk with a chair.
 The image shows a room with a blue and black refrigerator, a table with a poster on it, and a few chairs.
 The image shows a room with a blue and white refrigerator, a table with a poster on it, and a desk with a chair. The room has a green wall and a wooden door.
+An image with two walls, three chairs, a light, a paper, a laptop, a floor, a ceiling, and a dining.
+An image with a ceiling, a dining, three chairs, a laptop, two walls, a light, a paper, and a floor.
+An image with a light, two walls, a floor, a paper, a laptop, a dining, three chairs, and a ceiling.
+An image with two walls, three chairs, a floor, a paper, a dining, a laptop, a light, and a ceiling.
+An image with a paper, three chairs, a light, two walls, a laptop, a ceiling, a dining, and a floor.

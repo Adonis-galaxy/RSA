@@ -8,3 +8,8 @@ A classroom with students.
 The image captures a classroom scene with students engaged in learning activities, a teacher observing, and a bulletin board with a tree-themed display.
 The image shows a classroom with a large bulletin board, a red basket on top, a whiteboard with writing, a clock on the wall, and students seated at desks.
 The image shows a classroom with students seated at desks, engaged in learning activities, and a teacher standing at the front of the room. The room is decorated with educational posters and a bulletin board, and there is a red cart with a sign that reads "How do you want to be greeted today?"
+An image with eight chairs, four people, a paper, a door, a wall, a backpack, a ceiling, a clock, a vase, a book, a rug, and a light.
+An image with a rug, a backpack, eight chairs, four people, a clock, a vase, a wall, a light, a paper, a ceiling, a book, and a door.
+An image with a ceiling, eight chairs, a vase, a backpack, a door, a clock, a light, four people, a paper, a book, a wall, and a rug.
+An image with a door, four people, eight chairs, a rug, a clock, a light, a paper, a backpack, a ceiling, a book, a wall, and a vase.
+An image with four people, a clock, a paper, a book, a door, eight chairs, a light, a ceiling, a wall, a rug, a backpack, and a vase.

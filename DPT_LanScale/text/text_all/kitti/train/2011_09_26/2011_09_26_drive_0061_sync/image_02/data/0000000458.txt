@@ -8,3 +8,8 @@ A car on a narrow road.
 A car on a narrow, tree-lined road, with a brick wall and a sign on the right side.
 A car is driving down a narrow, tree-lined street with a brick wall on one side and a sign on the other.
 A narrow, tree-lined road curves gently to the left, with a white car driving on it, and a brick wall on the right side.
+An image with a sky, a road, two walls, a car, a pavement, a tree, and a fence.
+An image with a road, two walls, a sky, a pavement, a fence, a car, and a tree.
+An image with a sky, a fence, a pavement, a car, a tree, two walls, and a road.
+An image with a sky, two walls, a fence, a tree, a pavement, a car, and a road.
+An image with a fence, a sky, a pavement, two walls, a tree, a car, and a road.

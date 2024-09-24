@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 A quiet suburban street lined with parked cars under a canopy of trees.
 The image shows a narrow street lined with parked cars, a stop sign, and trees, with a clear sky overhead.
 A narrow street lined with parked cars and trees, leading to a bridge.
+An image with a person, six cars, a pavement, a grass, a tree, a truck, a bridge, a sky, a road, and a stop.
+An image with six cars, a road, a pavement, a sky, a grass, a stop, a truck, a person, a tree, and a bridge.
+An image with a sky, six cars, a bridge, a pavement, a person, a tree, a grass, a stop, a truck, and a road.
+An image with a truck, six cars, a grass, a stop, a pavement, a road, a bridge, a person, a tree, and a sky.
+An image with a pavement, a truck, a sky, six cars, a person, a road, a stop, a grass, a tree, and a bridge.

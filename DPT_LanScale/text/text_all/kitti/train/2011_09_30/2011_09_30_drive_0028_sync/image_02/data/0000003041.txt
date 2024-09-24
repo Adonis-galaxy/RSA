@@ -8,3 +8,8 @@ The image shows a street scene with a bicycle, a car, a person, and a dog.
 A quiet residential street, with a bicycle parked on the sidewalk, a dog walking on the sidewalk, and cars parked along the street, under a clear sky.
 The image shows a narrow street lined with parked cars, a bicycle, and a stop sign, with apartment buildings on either side.
 A quiet residential street with parked cars, a bicycle, and a person walking, under a clear sky.
+An image with a road, four cars, a house, a tree, a dog, a bicycle, two people, a stop, a sky, and a pavement.
+An image with four cars, a pavement, a bicycle, two people, a house, a dog, a stop, a road, a sky, and a tree.
+An image with a stop, a road, a house, a dog, a sky, a bicycle, a tree, four cars, two people, and a pavement.
+An image with four cars, a road, two people, a house, a pavement, a bicycle, a stop, a sky, a tree, and a dog.
+An image with a tree, two people, a sky, four cars, a house, a stop, a bicycle, a pavement, a road, and a dog.

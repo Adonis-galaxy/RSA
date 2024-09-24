@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on the right side.
 A quiet, tree-lined street with a parked car and a sign, under a clear blue sky.
 The image shows a narrow street lined with trees and a brick wall, with a blue street sign on the right side.
 A narrow, tree-lined street with a curved sidewalk and a brick wall on the right side, leading to a blue street sign at the end.
+An image with a tree, two walls, a car, a pavement, a dirt, a road, and a sky.
+An image with a car, two walls, a dirt, a road, a tree, a sky, and a pavement.
+An image with a road, a dirt, a car, two walls, a pavement, a tree, and a sky.
+An image with a sky, a dirt, a car, two walls, a tree, a road, and a pavement.
+An image with two walls, a dirt, a pavement, a sky, a car, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a sidewalk, and a building.
 The image captures a quiet residential street, lined with parked cars and a bench, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building. There is a sign indicating a speed limit of 30 km/h.
 A narrow street lined with parked cars, a sidewalk, and a row of houses, with a yellow warning sign on a pole.
+An image with four cars, a pavement, a truck, a sky, a house, a window, a bench, and a tree.
+An image with a house, four cars, a sky, a window, a pavement, a tree, a truck, and a bench.
+An image with four cars, a window, a truck, a house, a pavement, a sky, a bench, and a tree.
+An image with a window, four cars, a house, a tree, a pavement, a bench, a truck, and a sky.
+An image with a sky, four cars, a tree, a truck, a house, a window, a bench, and a pavement.

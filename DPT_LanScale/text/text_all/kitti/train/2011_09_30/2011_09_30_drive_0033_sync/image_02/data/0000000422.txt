@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a clear sky.
 A quiet residential street with parked vehicles and a clear sky.
 A narrow street with parked cars, a sidewalk, and houses on both sides.
 A quiet residential street with parked cars and a clear sky.
+An image with three cars, a house, a truck, a tree, a road, a grass, a pavement, and a dirt.
+An image with a dirt, a house, three cars, a grass, a tree, a pavement, a truck, and a road.
+An image with a pavement, three cars, a dirt, a house, a tree, a road, a truck, and a grass.
+An image with three cars, a truck, a tree, a grass, a pavement, a house, a road, and a dirt.
+An image with a dirt, three cars, a house, a tree, a truck, a grass, a road, and a pavement.

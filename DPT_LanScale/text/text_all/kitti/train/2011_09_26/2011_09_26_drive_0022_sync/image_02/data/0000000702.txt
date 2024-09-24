@@ -8,3 +8,8 @@ The image shows a street with trees and a car.
 The image captures a serene suburban street, lined with lush greenery and mature trees, leading to a cul-de-sac where a car is parked, under a clear blue sky.
 The image shows a wide, tree-lined street with a few cars, a sidewalk, and streetlights.
 The image depicts a suburban street scene with a curved road leading to a residential area, lined with trees and streetlights, and a clear blue sky overhead.
+An image with a stop, a traffic, a grass, a building, a sky, a tree, a car, and a road.
+An image with a grass, a car, a traffic, a building, a road, a tree, a stop, and a sky.
+An image with a tree, a grass, a sky, a road, a traffic, a building, a car, and a stop.
+An image with a grass, a building, a car, a tree, a sky, a road, a stop, and a traffic.
+An image with a traffic, a car, a stop, a tree, a grass, a road, a sky, and a building.

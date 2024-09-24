@@ -8,3 +8,8 @@ The image shows a long, empty highway with a clear blue sky.
 The image captures a long, straight highway with a clear view of the road ahead, flanked by trees and a bridge on the left side, and a cityscape with buildings and a large structure on the right side.
 The image shows a wide, empty highway with a few cars, a bridge, and a clear blue sky.
 The image shows a long, straight, multi-lane highway with a clear sky, a few cars, and a distant cityscape.
+An image with a fence, a tree, three cars, a road, a building, and a grass.
+An image with a tree, three cars, a road, a fence, a grass, and a building.
+An image with three cars, a tree, a building, a fence, a grass, and a road.
+An image with a road, a building, three cars, a grass, a tree, and a fence.
+An image with a building, a tree, a fence, a grass, three cars, and a road.

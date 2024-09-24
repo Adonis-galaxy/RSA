@@ -8,3 +8,8 @@ The image shows a street scene with a train passing by on the tracks.
 The image captures a quiet, tree-lined street with a train passing by, a car driving on the road, and a pedestrian sign indicating a pedestrian crossing.
 The image shows a wide, tree-lined street with a train track running parallel to it, a yellow sign with black text on the right side, and a red bus driving on the street.
 The image depicts a wide, tree-lined street with a train track running parallel to it, flanked by buildings and a yellow sign indicating a campus.
+An image with a tree, two cars, a bus, a railroad, a sky, a road, a pavement, a house, a wall, and a fence.
+An image with a house, a road, a bus, a fence, a pavement, a sky, a wall, a tree, two cars, and a railroad.
+An image with a wall, a sky, a road, a bus, a pavement, two cars, a tree, a railroad, a house, and a fence.
+An image with a sky, a pavement, a fence, a road, a wall, two cars, a tree, a bus, a railroad, and a house.
+An image with a pavement, a tree, a railroad, a bus, a house, a road, a fence, two cars, a wall, and a sky.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A man and woman walking down a quiet residential street, with parked cars and houses in the background.
 A man and woman walking down a quiet residential street, with parked cars and houses in the background.
 A man and woman walk down a quiet residential street, passing by parked cars and a house with a garage.
+An image with a bicycle, two people, two cars, a house, a door, a sky, a road, a tree, a wall, a grass, and a pavement.
+An image with a road, a grass, a wall, a bicycle, a pavement, a tree, a door, a house, two people, a sky, and two cars.
+An image with two people, a door, a house, a road, a pavement, two cars, a sky, a tree, a wall, a bicycle, and a grass.
+An image with two cars, a wall, a road, a grass, a house, a bicycle, a sky, two people, a tree, a pavement, and a door.
+An image with a bicycle, two cars, a sky, a house, a door, a pavement, two people, a grass, a tree, a road, and a wall.

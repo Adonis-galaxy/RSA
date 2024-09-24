@@ -8,3 +8,8 @@ The image shows an empty room with a long row of tables and chairs.
 The image captures an empty room with a long corridor, multiple tables and chairs, and a series of windows.
 The image shows an empty room with a long corridor, several tables and chairs, and a large window.
 The image shows an empty room with a long corridor, multiple tables and chairs, and a series of windows.
+An image with twelve chairs, three dinings, a floor, a ceiling, a door, a wall, and a light.
+An image with twelve chairs, three dinings, a door, a floor, a light, a wall, and a ceiling.
+An image with a door, a ceiling, twelve chairs, three dinings, a floor, a light, and a wall.
+An image with a light, three dinings, twelve chairs, a ceiling, a door, a floor, and a wall.
+An image with a light, a wall, twelve chairs, a ceiling, three dinings, a floor, and a door.

@@ -8,3 +8,8 @@ A blue chair in front of a white table.
 A blue chair is positioned next to a white table with orange cones on it.
 A blue chair is next to a white table with orange cones on it.
 A blue chair is placed next to a white table with orange cones on it.
+An image with two walls, a floor, a dining, a stairs, and a chair.
+An image with a floor, two walls, a chair, a stairs, and a dining.
+An image with two walls, a floor, a dining, a chair, and a stairs.
+An image with a floor, a dining, a stairs, two walls, and a chair.
+An image with a floor, a dining, a chair, two walls, and a stairs.

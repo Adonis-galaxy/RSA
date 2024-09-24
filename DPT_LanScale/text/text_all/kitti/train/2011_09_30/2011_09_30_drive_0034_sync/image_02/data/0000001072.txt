@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a serene residential street, lined with houses, trees, and a parked car, all under a clear blue sky.
 The image shows a narrow, tree-lined street between two-story houses, with a car parked on the left side and a trash can on the right side.
 A narrow, tree-lined street in a residential area, with houses on both sides, leads to a dead-end.
+An image with three cars, a pavement, a road, a wall, a window, a stairs, a bus, a grass, a tree, a house, and a fence.
+An image with a pavement, a bus, three cars, a window, a wall, a fence, a house, a tree, a grass, a road, and a stairs.
+An image with a pavement, three cars, a window, a wall, a bus, a house, a road, a tree, a fence, a grass, and a stairs.
+An image with a wall, a house, three cars, a bus, a stairs, a window, a pavement, a road, a fence, a tree, and a grass.
+An image with a wall, three cars, a grass, a stairs, a window, a bus, a tree, a fence, a house, a road, and a pavement.

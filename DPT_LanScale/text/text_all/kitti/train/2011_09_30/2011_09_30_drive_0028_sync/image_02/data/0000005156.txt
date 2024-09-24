@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road and parked cars on the sid
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few pedestrians, under a clear blue sky.
 The image shows a street scene with a large building on the right, a sidewalk on the left, a tree-lined street in the middle, and several cars parked along the street.
 A quiet residential street with parked cars, a sidewalk, and a building in the background.
+An image with eleven cars, a pavement, a tree, a building, a grass, a person, a road, and a sky.
+An image with a sky, eleven cars, a building, a tree, a grass, a person, a pavement, and a road.
+An image with eleven cars, a sky, a pavement, a person, a grass, a road, a tree, and a building.
+An image with a pavement, eleven cars, a tree, a person, a sky, a grass, a road, and a building.
+An image with eleven cars, a tree, a grass, a road, a pavement, a sky, a building, and a person.

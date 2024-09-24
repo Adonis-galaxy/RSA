@@ -8,3 +8,8 @@ A yellow piece of paper on a table.
 A yellow piece of paper on a blue table.
 A yellow piece of paper on a blue table with a white table next to it.
 A yellow piece of paper on a blue and white table with wires and cords.
+An image with a table, a toothbrush, a chair, a paper, and a floor.
+An image with a paper, a table, a toothbrush, a floor, and a chair.
+An image with a toothbrush, a table, a chair, a floor, and a paper.
+An image with a toothbrush, a floor, a paper, a chair, and a table.
+An image with a chair, a paper, a floor, a toothbrush, and a table.

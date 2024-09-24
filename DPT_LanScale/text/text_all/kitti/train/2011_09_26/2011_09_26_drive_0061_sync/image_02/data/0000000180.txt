@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, and there are trees and b
 A narrow street lined with parked cars and a truck, with a clear sky overhead and a red and blue sign on the right side.
 The image shows a narrow street lined with parked cars and lush greenery, with a large truck parked on the side and a red and blue sign on a pole.
 A narrow street lined with parked cars and lush greenery, leading to a residential area with houses and trees.
+An image with five cars, a tree, a stop, a roof, a sky, a house, a road, and a pavement.
+An image with a house, five cars, a stop, a sky, a tree, a pavement, a road, and a roof.
+An image with a roof, a tree, a stop, five cars, a road, a house, a sky, and a pavement.
+An image with five cars, a stop, a tree, a road, a pavement, a roof, a sky, and a house.
+An image with a sky, five cars, a house, a road, a pavement, a roof, a tree, and a stop.

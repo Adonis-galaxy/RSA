@@ -8,3 +8,8 @@ Office cubicle with desk, chair, and whiteboard.
 The image shows an office cubicle with a desk, chair, and whiteboard.
 The image shows a small office space with a desk, chair, and whiteboard.
 The image shows an office space with a desk, chair, and a whiteboard on the wall.
+An image with two chairs, a wall, a floor, a clock, a table, and a tv.
+An image with a tv, two chairs, a floor, a table, a clock, and a wall.
+An image with a table, a wall, two chairs, a floor, a clock, and a tv.
+An image with a table, two chairs, a tv, a wall, a floor, and a clock.
+An image with a table, a clock, a tv, a floor, two chairs, and a wall.

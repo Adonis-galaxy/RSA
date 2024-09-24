@@ -8,3 +8,8 @@ A narrow alleyway between two houses.
 A narrow, shaded street between houses, with a person walking and a car parked at the end.
 A narrow alleyway between two houses, with a small car parked on the right side and a person walking on the left side.
 A narrow, tree-lined street between two-story houses, with a fence and a car parked on the right side.
+An image with a car, a house, a sky, a fence, a road, a person, a tree, a window, and a wall.
+An image with a sky, a window, a house, a fence, a road, a person, a car, a tree, and a wall.
+An image with a person, a window, a house, a road, a car, a fence, a wall, a tree, and a sky.
+An image with a fence, a car, a sky, a window, a person, a wall, a house, a road, and a tree.
+An image with a tree, a wall, a window, a house, a road, a fence, a person, a car, and a sky.

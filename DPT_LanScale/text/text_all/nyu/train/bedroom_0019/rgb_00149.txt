@@ -8,3 +8,8 @@ A desk with a laptop and books.
 A cluttered workspace with a laptop, books, and a mouse on a wooden desk.
 A small desk with a laptop, a stack of books, and a mouse.
 A cluttered desk with a laptop, books, papers, and a mouse.
+An image with four books, a wall, a curtain, a table, a laptop, and a mouse.
+An image with a table, four books, a curtain, a laptop, a wall, and a mouse.
+An image with a laptop, a curtain, a table, a mouse, four books, and a wall.
+An image with four books, a wall, a table, a mouse, a curtain, and a laptop.
+An image with four books, a mouse, a curtain, a wall, a laptop, and a table.

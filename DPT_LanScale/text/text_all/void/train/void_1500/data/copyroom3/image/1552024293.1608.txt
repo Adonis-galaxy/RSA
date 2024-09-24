@@ -8,3 +8,8 @@ A blurry image of a kitchen with a microwave and a sink.
 The image shows a small kitchen with a white microwave, a blue countertop, and a white wall.
 The image shows a blurry kitchen scene with a white microwave on a blue countertop, two white light switches, and a bottle of soap.
 The image shows a small kitchen with a blue wall, a white microwave, a white sink, and a white light fixture.
+An image with a paper, a light, a sink, a counter, a microwave, a bottle, and a wall.
+An image with a bottle, a wall, a counter, a microwave, a sink, a paper, and a light.
+An image with a light, a sink, a microwave, a wall, a counter, a bottle, and a paper.
+An image with a light, a counter, a sink, a wall, a microwave, a paper, and a bottle.
+An image with a wall, a paper, a light, a sink, a bottle, a microwave, and a counter.

@@ -8,3 +8,8 @@ A blurry image of a desk with papers and a chair.
 A blurry image of a desk with papers and a chair.
 The image shows a blurry office setting with a desk, chair, and papers, with the chair being the most prominent object.
 The image shows a blurry office setting with a desk, chair, and papers, giving a sense of a busy workspace.
+An image with a floor, a book, a table, a tv, a chair, and a cardboard.
+An image with a tv, a chair, a cardboard, a floor, a table, and a book.
+An image with a tv, a cardboard, a floor, a book, a table, and a chair.
+An image with a floor, a chair, a book, a table, a tv, and a cardboard.
+An image with a cardboard, a book, a floor, a chair, a table, and a tv.

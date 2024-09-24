@@ -8,3 +8,8 @@ A white table with four chairs in a room.
 The image shows a white table with four chairs in a room with a green wall.
 A white table with four chairs in a room.
 The image shows a white rectangular table with a black base, surrounded by four white chairs, in a room with a green wall and a whiteboard.
+An image with five chairs, a cup, a wall, a door, a rug, a dining, a floor, and a tv.
+An image with five chairs, a wall, a floor, a door, a rug, a tv, a cup, and a dining.
+An image with a dining, a door, a rug, five chairs, a cup, a floor, a wall, and a tv.
+An image with a wall, five chairs, a tv, a rug, a floor, a dining, a cup, and a door.
+An image with a dining, five chairs, a cup, a wall, a floor, a door, a rug, and a tv.

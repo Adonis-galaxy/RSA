@@ -8,3 +8,8 @@ A printer and a copier in a room.
 The image shows a printer and a computer monitor on a desk in a room with green walls.
 The image shows a white printer on a green table, with a yellow paper sign taped to the front of the printer.
 The image shows a white printer on a green table, with a yellow paper sign taped to the front of the printer.
+An image with a table, a wall, a cell, a light, and a cabinet.
+An image with a wall, a light, a cell, a cabinet, and a table.
+An image with a wall, a table, a light, a cell, and a cabinet.
+An image with a light, a cell, a table, a cabinet, and a wall.
+An image with a light, a cabinet, a table, a cell, and a wall.

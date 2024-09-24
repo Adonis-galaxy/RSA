@@ -8,3 +8,8 @@ A wooden deck.
 The image shows a wooden deck with a shadow cast on it, indicating that the deck is elevated and possibly located outdoors.
 The image shows a wooden deck with a railing, taken from a low angle.
 The image shows a wooden deck with a railing, situated in a garden with plants and sand.
+An image with a dirt, a tree, two walls, and a floor.
+An image with a dirt, two walls, a floor, and a tree.
+An image with a tree, two walls, a floor, and a dirt.
+An image with a floor, two walls, a tree, and a dirt.
+An image with a floor, a dirt, two walls, and a tree.

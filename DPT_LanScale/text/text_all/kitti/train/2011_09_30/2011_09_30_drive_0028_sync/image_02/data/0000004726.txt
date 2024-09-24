@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a white building.
 A narrow street lined with parked cars and a white building, with a van parked on the right side.
 The image shows a narrow street lined with parked cars, a white building, and a van parked on the right side. The street is bordered by a hedge and a building on the left side.
 A narrow street lined with parked cars and apartment buildings, with a van parked on the right side.
+An image with a road, six cars, a truck, a tree, a building, a wall, a sky, and a pavement.
+An image with a truck, six cars, a building, a road, a tree, a pavement, a sky, and a wall.
+An image with six cars, a tree, a sky, a truck, a wall, a building, a road, and a pavement.
+An image with six cars, a wall, a sky, a pavement, a tree, a truck, a road, and a building.
+An image with six cars, a building, a wall, a sky, a truck, a pavement, a road, and a tree.

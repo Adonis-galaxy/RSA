@@ -8,3 +8,8 @@ The image shows a tree-lined street.
 A quiet, tree-lined street in a residential area, with a clear path leading to a house.
 A tree-lined street with a sidewalk, a house, and a car.
 A quiet, tree-lined street with a sidewalk, leading to a residential area.
+An image with a bench, a house, a sky, a road, a pavement, a grass, and a tree.
+An image with a house, a tree, a sky, a road, a grass, a pavement, and a bench.
+An image with a grass, a house, a sky, a road, a bench, a tree, and a pavement.
+An image with a grass, a tree, a road, a sky, a house, a bench, and a pavement.
+An image with a tree, a pavement, a sky, a grass, a bench, a house, and a road.

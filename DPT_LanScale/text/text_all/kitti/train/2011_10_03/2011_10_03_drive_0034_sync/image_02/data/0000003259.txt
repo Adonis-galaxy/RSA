@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, tree-lined street with a brick wall and a white building on the right, leading to a grassy area.
 The image shows a narrow, tree-lined street with a brick wall on the left side, a white building on the right, and a sidewalk on the left.
 A narrow, tree-lined street with a brick wall and a white building on the right, leading to a larger road with a sidewalk and a green lawn.
+An image with two walls, a road, a roof, a tree, a pavement, a grass, and a building.
+An image with a roof, two walls, a tree, a grass, a road, a building, and a pavement.
+An image with a grass, a roof, a pavement, a building, two walls, a tree, and a road.
+An image with a road, a grass, two walls, a pavement, a building, a tree, and a roof.
+An image with a roof, a building, a grass, two walls, a tree, a pavement, and a road.

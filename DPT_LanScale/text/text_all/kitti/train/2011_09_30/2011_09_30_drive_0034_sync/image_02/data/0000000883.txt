@@ -8,3 +8,8 @@ The image shows a narrow street with a white building on the right side.
 The image captures a quaint, narrow street lined with charming, old-world buildings, their facades adorned with vibrant greenery and colorful signs, creating a picturesque scene that evokes a sense of tranquility and timelessness.
 The image shows a narrow street lined with buildings, with a large white building on the right side and a smaller building on the left. The street is shaded by trees and has a sidewalk.
 The image depicts a narrow street lined with buildings, trees, and a sidewalk, with a yellow sign on the side of the road.
+An image with a potted, a grass, a sky, a pavement, a fence, a road, a tree, a wall, and a window.
+An image with a fence, a pavement, a tree, a window, a sky, a wall, a grass, a road, and a potted.
+An image with a fence, a sky, a tree, a window, a pavement, a potted, a grass, a wall, and a road.
+An image with a sky, a grass, a fence, a road, a wall, a window, a tree, a potted, and a pavement.
+An image with a grass, a sky, a road, a wall, a pavement, a fence, a window, a tree, and a potted.

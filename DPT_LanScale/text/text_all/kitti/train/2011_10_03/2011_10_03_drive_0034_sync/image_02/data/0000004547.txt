@@ -8,3 +8,8 @@ The image shows a road sign on a street.
 The image captures a quiet, tree-lined street with a yield sign indicating a road intersection, where a car is parked on the side of the road.
 The image shows a narrow road with a sign indicating a sharp turn ahead, and a car parked on the side of the road.
 The image shows a narrow road with a triangular warning sign on the right side, indicating a sharp turn ahead. The road is lined with trees and a fence, and there is a car parked on the left side. The sky is overcast, and the overall layout suggests a rural or suburban setting.
+An image with a road, a car, a tree, a sky, a grass, and a fence.
+An image with a tree, a sky, a grass, a fence, a car, and a road.
+An image with a car, a tree, a grass, a sky, a fence, and a road.
+An image with a tree, a grass, a road, a car, a sky, and a fence.
+An image with a sky, a car, a fence, a road, a tree, and a grass.

@@ -8,3 +8,8 @@ The image shows a street scene with a tree-lined road, a sidewalk, and a street 
 The image captures a tranquil street scene, with a clear sky overhead, a tree-lined road leading to a serene park, and a solitary parking meter standing guard on the sidewalk.
 The image shows a tree-lined street with a sidewalk, a road sign, and a parking meter.
 The image depicts a quiet, tree-lined street with a clear view of the road ahead, a sidewalk, and a few scattered leaves on the ground.
+An image with a sky, a pavement, a road, a tree, and a wall.
+An image with a pavement, a road, a sky, a tree, and a wall.
+An image with a tree, a road, a sky, a wall, and a pavement.
+An image with a pavement, a wall, a tree, a sky, and a road.
+An image with a pavement, a tree, a sky, a road, and a wall.

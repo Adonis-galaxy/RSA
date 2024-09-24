@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars and a delivery van, under a clear blue sky.
 The image shows a narrow street with parked cars, a truck, and a house with a white roof.
 A narrow, tree-lined street with parked cars and a white building on the right, leading to a white house with a black roof.
+An image with two cars, a tree, a sky, a dirt, a pavement, a bus, a window, a grass, and a roof.
+An image with a bus, two cars, a grass, a roof, a sky, a pavement, a dirt, a tree, and a window.
+An image with a pavement, a roof, a window, two cars, a tree, a bus, a dirt, a sky, and a grass.
+An image with a roof, a window, two cars, a pavement, a sky, a bus, a tree, a dirt, and a grass.
+An image with a dirt, a roof, a bus, two cars, a tree, a grass, a sky, a pavement, and a window.

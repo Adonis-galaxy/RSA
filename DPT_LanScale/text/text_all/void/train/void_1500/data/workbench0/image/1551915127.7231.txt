@@ -8,3 +8,8 @@ A pair of shoes on the floor.
 A pair of shoes on a desk next to a computer.
 A small gray filing cabinet with a blue top, a black computer tower, and a pair of yellow and white sneakers on a gray carpeted office floor.
 A computer desk with a chair, a box on a filing cabinet, and a pair of shoes on the floor.
+An image with a table, four chairs, a cardboard, a wall, a window, three tvs, a floor, a towel, a cabinet, and a mouse.
+An image with a window, three tvs, a cardboard, a mouse, a table, a cabinet, a wall, a floor, four chairs, and a towel.
+An image with a table, a floor, four chairs, a cabinet, a mouse, three tvs, a towel, a cardboard, a window, and a wall.
+An image with a table, a cabinet, three tvs, a floor, a mouse, a towel, a window, four chairs, a wall, and a cardboard.
+An image with four chairs, a table, a cardboard, a cabinet, three tvs, a towel, a floor, a window, a mouse, and a wall.

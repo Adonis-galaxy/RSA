@@ -8,3 +8,8 @@ A tree-lined street.
 A serene, tree-lined street, with a car parked on the right side, inviting a peaceful drive.
 A narrow, tree-lined street with a car parked on the right side.
 A narrow, tree-lined street with a car parked on the right side, leading to a cul-de-sac.
+An image with three cars, a pavement, a road, a tree, and a sky.
+An image with a road, three cars, a sky, a pavement, and a tree.
+An image with a sky, three cars, a pavement, a road, and a tree.
+An image with three cars, a sky, a tree, a road, and a pavement.
+An image with a tree, a sky, three cars, a road, and a pavement.

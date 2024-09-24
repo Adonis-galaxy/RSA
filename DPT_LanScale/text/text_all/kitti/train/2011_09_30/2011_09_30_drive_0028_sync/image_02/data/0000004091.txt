@@ -8,3 +8,8 @@ The image shows a street lined with parked cars and a person riding a bicycle.
 A quiet residential street, lined with parked cars and a lone cyclist, under the shade of leafy trees.
 A narrow street lined with parked cars and a truck, with a person riding a bicycle in the middle.
 A tree-lined street with parked cars and a person riding a bicycle.
+An image with a person, a road, a sky, three cars, a tree, a truck, a bicycle, and a pavement.
+An image with three cars, a pavement, a tree, a road, a person, a truck, a sky, and a bicycle.
+An image with a sky, a truck, a road, three cars, a pavement, a person, a bicycle, and a tree.
+An image with a person, three cars, a tree, a pavement, a road, a bicycle, a sky, and a truck.
+An image with a tree, three cars, a person, a road, a sky, a bicycle, a pavement, and a truck.

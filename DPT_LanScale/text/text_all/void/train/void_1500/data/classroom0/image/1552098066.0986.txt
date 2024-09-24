@@ -8,3 +8,8 @@ The image shows a row of empty seats in an auditorium.
 The image shows a row of empty seats in an auditorium, with the perspective taken from the aisle.
 The image shows a row of empty seats in a theater, with the chairs being the main focus.
 The image shows a row of empty seats in an auditorium, with the perspective taken from the aisle.
+An image with a floor, a wall, and fifteen chairs.
+An image with fifteen chairs, a wall, and a floor.
+An image with fifteen chairs, a floor, and a wall.
+An image with fifteen chairs, a wall, and a floor.
+An image with fifteen chairs, a floor, and a wall.

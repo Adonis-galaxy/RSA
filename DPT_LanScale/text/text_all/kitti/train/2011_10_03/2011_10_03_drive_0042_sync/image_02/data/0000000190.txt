@@ -8,3 +8,8 @@ The image shows a highway with two cars driving on it.
 The image captures a moment of tranquility on a highway, with a white car driving away from a black SUV, both moving towards the horizon where the sky meets the trees.
 A car is driving on a highway with a guardrail, passing a bridge and trees, and there are other cars on the road.
 A car is driving on a highway with a guardrail, passing under a bridge, and surrounded by trees.
+An image with a tree, a sky, a grass, six cars, and a road.
+An image with a tree, six cars, a grass, a road, and a sky.
+An image with a tree, a road, six cars, a grass, and a sky.
+An image with a road, six cars, a grass, a tree, and a sky.
+An image with a sky, six cars, a road, a tree, and a grass.

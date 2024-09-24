@@ -8,3 +8,8 @@ The image shows a street scene with a row of houses, a sidewalk, and a few cars.
 A quiet residential street, lined with parked cars and lush greenery, under a bright sunny sky.
 A person riding a bicycle on a tree-lined street between parked cars.
 A quiet residential street with parked cars, lined by trees and houses, leading to a clear sky.
+An image with seven cars, a house, a tree, a road, a bicycle, a pavement, a grass, a person, and a sky.
+An image with a road, seven cars, a grass, a bicycle, a sky, a person, a pavement, a tree, and a house.
+An image with seven cars, a bicycle, a pavement, a sky, a road, a house, a person, a grass, and a tree.
+An image with seven cars, a sky, a grass, a house, a pavement, a road, a person, a bicycle, and a tree.
+An image with a house, a person, a road, a bicycle, a grass, seven cars, a sky, a pavement, and a tree.

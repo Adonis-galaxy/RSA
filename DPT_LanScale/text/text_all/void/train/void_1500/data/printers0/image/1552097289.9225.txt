@@ -8,3 +8,8 @@ The image shows a whiteboard with red writing on it.
 The image shows a whiteboard with red writing and a blue bucket in the foreground, with posters on the wall behind it.
 The image shows a white wall with a whiteboard, two paper shredders, and several posters.
 The image shows a wall with posters and a whiteboard, with two paper shredders placed below the posters.
+An image with a paper, a wall, a table, and a bowl.
+An image with a paper, a wall, a bowl, and a table.
+An image with a table, a wall, a paper, and a bowl.
+An image with a table, a paper, a bowl, and a wall.
+An image with a bowl, a table, a wall, and a paper.

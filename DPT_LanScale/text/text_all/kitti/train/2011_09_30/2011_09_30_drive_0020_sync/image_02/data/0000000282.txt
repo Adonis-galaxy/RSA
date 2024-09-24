@@ -8,3 +8,8 @@ The image shows a street scene with a house, trees, and signs.
 The image captures a quiet residential street with a clear sky, lined with houses and trees, and a few signs indicating a commercial area nearby.
 The image shows a residential street with a large house on the left, a roundabout with a red sign in the center, and a white building with red and white signs on the right. The sky is clear and blue.
 The image shows a residential street with a curved layout, featuring a house, a car parked on the side, a tree, a street sign, and a clear blue sky.
+An image with a stop, a tree, a grass, two cars, a sky, and a road.
+An image with a sky, a tree, a road, a stop, a grass, and two cars.
+An image with a road, two cars, a grass, a stop, a sky, and a tree.
+An image with a sky, a road, a grass, a stop, two cars, and a tree.
+An image with a tree, a grass, two cars, a road, a stop, and a sky.

@@ -8,3 +8,8 @@ The image shows a desk with papers and a computer monitor.
 The image shows a desk with papers, a computer monitor, and a printer.
 The image shows a blurry view of a desk with papers, a monitor, and a keyboard.
 The image shows a desk with papers, a computer monitor, and a printer.
+An image with a table, a mouse, a paper, and a wall.
+An image with a mouse, a paper, a table, and a wall.
+An image with a paper, a mouse, a wall, and a table.
+An image with a wall, a paper, a table, and a mouse.
+An image with a wall, a mouse, a paper, and a table.

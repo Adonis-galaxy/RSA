@@ -8,3 +8,8 @@ A desk with a box of annie's cheddar bunnies, a roll of tape, a pair of scissors
 A desk with a box of Annie's Cheddar Bunnies, a roll of tape, a pair of scissors, and a black bag.
 A desk with a box of Annie's Cheddar Bunnies, a roll of tape, a pair of scissors, and a black bag.
 A desk with a box of Annie's Cheddar Bunnies, a roll of tape, a pair of scissors, and a black bag.
+An image with a dining, a wall, a cabinet, a tv, a table, two chairs, a floor, and a cardboard.
+An image with a wall, two chairs, a table, a tv, a floor, a cabinet, a cardboard, and a dining.
+An image with a dining, two chairs, a wall, a cardboard, a table, a floor, a cabinet, and a tv.
+An image with two chairs, a table, a wall, a cardboard, a tv, a floor, a cabinet, and a dining.
+An image with a tv, a cabinet, two chairs, a wall, a table, a floor, a cardboard, and a dining.

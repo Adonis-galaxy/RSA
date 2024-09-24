@@ -8,3 +8,8 @@ A black car on a narrow street.
 A quiet, tree-lined street with a parked vehicle and a pedestrian, under a clear blue sky.
 A small car is driving down a narrow, tree-lined street.
 A narrow, tree-lined street with a parked vehicle and a pedestrian gate.
+An image with two walls, a tree, a pavement, a sky, a fence, a truck, and a road.
+An image with a truck, a fence, two walls, a road, a pavement, a sky, and a tree.
+An image with a truck, two walls, a road, a tree, a fence, a pavement, and a sky.
+An image with a tree, two walls, a pavement, a road, a truck, a sky, and a fence.
+An image with a truck, a pavement, a sky, a tree, a road, a fence, and two walls.

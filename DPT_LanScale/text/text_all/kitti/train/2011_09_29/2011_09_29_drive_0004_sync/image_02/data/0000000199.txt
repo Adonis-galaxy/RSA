@@ -8,3 +8,8 @@ A car on a road.
 A car on a road, surrounded by trees and other vehicles, with a clear sky overhead.
 A busy highway with multiple cars and trucks, surrounded by lush green trees and a clear sky.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and trees, under a bright sunny sky.
+An image with a pavement, seven cars, a road, a sky, a tree, and a grass.
+An image with a grass, seven cars, a road, a sky, a pavement, and a tree.
+An image with a grass, seven cars, a tree, a sky, a pavement, and a road.
+An image with a sky, a tree, seven cars, a road, a pavement, and a grass.
+An image with seven cars, a road, a tree, a pavement, a grass, and a sky.

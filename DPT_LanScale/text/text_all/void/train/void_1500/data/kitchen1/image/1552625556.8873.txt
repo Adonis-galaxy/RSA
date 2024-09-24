@@ -8,3 +8,8 @@ The image shows a kitchen with orange cabinets and a stainless steel refrigerato
 The image shows a narrow hallway with a refrigerator on the left and a counter on the right, with a door in the middle.
 The image shows a narrow hallway with orange walls and a gray floor, leading to a white door.
 The image shows a narrow hallway with a refrigerator on the left and a counter with drawers on the right.
+An image with a floor, a cabinet, a refrigerator, a microwave, a wall, and a window.
+An image with a floor, a wall, a refrigerator, a microwave, a window, and a cabinet.
+An image with a wall, a floor, a refrigerator, a cabinet, a microwave, and a window.
+An image with a microwave, a floor, a wall, a refrigerator, a cabinet, and a window.
+An image with a cabinet, a floor, a window, a wall, a microwave, and a refrigerator.

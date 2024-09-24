@@ -8,3 +8,8 @@ A computer chair with a straw hat on a desk.
 A modern office chair with a straw hat on a desk.
 A gray office chair with a woven straw hat on a desk.
 A modern office chair with a woven hat on a desk.
+An image with a wall, a chair, a cabinet, a table, a rug, a cardboard, a tv, a floor, a mouse, and a keyboard.
+An image with a tv, a table, a cardboard, a keyboard, a mouse, a rug, a cabinet, a wall, a floor, and a chair.
+An image with a keyboard, a table, a floor, a wall, a rug, a mouse, a cardboard, a cabinet, a tv, and a chair.
+An image with a tv, a mouse, a wall, a rug, a chair, a cardboard, a cabinet, a keyboard, a floor, and a table.
+An image with a mouse, a table, a floor, a tv, a wall, a cardboard, a chair, a cabinet, a keyboard, and a rug.

@@ -8,3 +8,8 @@ The image shows a city street with parked cars and a building in the background.
 The image captures a bustling city street, with parked cars lining the sides, a white car driving down the road, and a pedestrian crossing sign indicating a safe passage for pedestrians.
 The image shows a narrow street lined with parked cars and buildings, with a pedestrian crossing sign visible in the distance.
 A narrow city street with parked cars, a pedestrian crossing sign, and a tall building on the right side.
+An image with four cars, two trucks, a pavement, a building, a road, and a tree.
+An image with a tree, a building, two trucks, a road, a pavement, and four cars.
+An image with a tree, a building, a pavement, two trucks, four cars, and a road.
+An image with a building, two trucks, a pavement, four cars, a tree, and a road.
+An image with four cars, a road, a tree, a building, two trucks, and a pavement.

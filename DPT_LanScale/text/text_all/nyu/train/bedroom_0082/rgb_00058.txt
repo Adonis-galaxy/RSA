@@ -8,3 +8,8 @@ A bedroom with a bed and a window.
 The image captures a cozy bedroom with a colorful bed, a nightstand, a lamp, a window with white curtains, and a blue exercise ball.
 The image shows a bedroom with a large bed featuring a colorful comforter and two pillows, a nightstand with a lamp, a chair, a window with white curtains, and a blue exercise ball.
 The image shows a neatly arranged bedroom with a bed featuring a colorful comforter and matching pillows, a nightstand with a lamp, a bedside table with a tissue box, a window with white curtains, and a blue exercise ball.
+An image with a table, three books, a rug, a curtain, a wall, a bed, a light, and a sports.
+An image with a sports, a table, three books, a wall, a bed, a curtain, a rug, and a light.
+An image with a wall, a light, three books, a bed, a curtain, a table, a rug, and a sports.
+An image with a wall, a sports, a light, three books, a bed, a rug, a table, and a curtain.
+An image with a rug, a bed, three books, a sports, a light, a wall, a table, and a curtain.

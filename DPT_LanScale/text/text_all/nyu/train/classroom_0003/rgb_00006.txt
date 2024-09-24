@@ -8,3 +8,8 @@ The image shows a classroom with a desk and chairs.
 The image depicts an empty classroom with a desk, chairs, and a whiteboard, suggesting a space designed for learning and teaching.
 The image shows a classroom with a large desk, several chairs, a whiteboard, and a window with blinds.
 The image shows a classroom with a long table, chairs, a desk with a laptop, a bookshelf, and a window with blinds.
+An image with twelve books, nine chairs, a curtain, a table, a window, a wall, a cabinet, a cardboard, and a floor.
+An image with twelve books, nine chairs, a wall, a window, a curtain, a cabinet, a floor, a table, and a cardboard.
+An image with twelve books, nine chairs, a wall, a curtain, a floor, a cardboard, a window, a table, and a cabinet.
+An image with a wall, twelve books, a cardboard, nine chairs, a curtain, a cabinet, a floor, a window, and a table.
+An image with nine chairs, twelve books, a curtain, a floor, a wall, a cardboard, a table, a window, and a cabinet.

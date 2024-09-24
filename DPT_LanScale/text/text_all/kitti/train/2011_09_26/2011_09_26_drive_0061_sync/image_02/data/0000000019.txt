@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white building on the right side.
 A quiet residential street, lined with trees and buildings, where a delivery truck is parked at the end of the road.
 The image shows a narrow street lined with trees and buildings, with a large truck parked on the right side.
 A narrow, tree-lined street between two buildings, with a white truck parked on the right side.
+An image with a building, a road, a wall, a grass, a car, a pavement, a tree, and a bus.
+An image with a building, a bus, a car, a wall, a pavement, a grass, a road, and a tree.
+An image with a grass, a road, a bus, a building, a pavement, a tree, a wall, and a car.
+An image with a car, a grass, a road, a building, a bus, a tree, a wall, and a pavement.
+An image with a road, a pavement, a building, a grass, a bus, a car, a tree, and a wall.

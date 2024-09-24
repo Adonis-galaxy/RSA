@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 A solitary car on a tree-lined street, with a building in the background, under a bright sun.
 A small car is driving down a narrow street between two rows of trees.
 A narrow street lined with trees and parked cars, leading to a residential area.
+An image with six cars, a house, a road, a tree, a fence, a sky, and a pavement.
+An image with a tree, a fence, a pavement, six cars, a house, a sky, and a road.
+An image with six cars, a house, a road, a sky, a pavement, a tree, and a fence.
+An image with a pavement, six cars, a road, a fence, a house, a tree, and a sky.
+An image with a pavement, a road, six cars, a fence, a tree, a sky, and a house.

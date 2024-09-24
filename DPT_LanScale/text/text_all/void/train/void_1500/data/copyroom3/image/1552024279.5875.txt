@@ -8,3 +8,8 @@ A blurry image of a kitchen with a refrigerator and a microwave.
 The image shows a kitchen with a refrigerator and a microwave, and the floor is made of tile.
 A stainless steel refrigerator in a kitchen with a white countertop and a blue wall.
 The image shows a kitchen with a stainless steel refrigerator, a white countertop, and a blue wall.
+An image with a microwave, a wall, a door, a floor, a cabinet, and a refrigerator.
+An image with a wall, a door, a floor, a refrigerator, a microwave, and a cabinet.
+An image with a refrigerator, a microwave, a cabinet, a wall, a door, and a floor.
+An image with a cabinet, a wall, a floor, a refrigerator, a microwave, and a door.
+An image with a door, a wall, a microwave, a cabinet, a floor, and a refrigerator.

@@ -8,3 +8,8 @@ A woman sitting at a table in a living room.
 A woman sits at a table in a living room, with a potted plant, a vase, a book, and a baby carrier nearby.
 A woman sits at a table in a room with a fireplace, a potted plant, a vase, a book, and a baby stroller.
 A woman sits at a table in a living room with a fireplace, a potted plant, a vase, and a baby stroller.
+An image with two potteds, four vases, a person, a wall, two books, a curtain, two chairs, a floor, and a dining.
+An image with two chairs, two potteds, four vases, a curtain, a wall, a floor, two books, a person, and a dining.
+An image with four vases, two chairs, two books, a floor, a person, a dining, two potteds, a wall, and a curtain.
+An image with a dining, a curtain, two potteds, four vases, a wall, a person, two books, a floor, and two chairs.
+An image with two books, a floor, a wall, four vases, two potteds, two chairs, a dining, a curtain, and a person.

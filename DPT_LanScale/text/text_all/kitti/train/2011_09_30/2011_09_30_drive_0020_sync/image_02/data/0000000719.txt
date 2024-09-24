@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings, trees,
 The image captures a quiet residential street, with a row of white buildings, a few parked cars, and a mix of trees and bicycles, all under a clear blue sky.
 The image shows a narrow street lined with white buildings, a few parked cars, bicycles, and trees.
 The image shows a residential street with apartment buildings, parked cars, bicycles, and trees, all under a clear blue sky.
+An image with a road, four bicycles, a grass, five cars, a house, a pavement, and a tree.
+An image with four bicycles, a road, a tree, five cars, a grass, a pavement, and a house.
+An image with five cars, four bicycles, a grass, a road, a pavement, a tree, and a house.
+An image with four bicycles, five cars, a house, a pavement, a tree, a road, and a grass.
+An image with a house, five cars, four bicycles, a pavement, a tree, a grass, and a road.

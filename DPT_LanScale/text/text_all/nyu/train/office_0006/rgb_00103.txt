@@ -8,3 +8,8 @@ The image is a photograph of an interior space, possibly an office or a public a
 The image captures a dimly lit office space with a television monitor on a counter, a doorway leading to another room, and a hallway with a trash can.
 The image shows an indoor scene with a large window, a television set, a counter, and a doorway leading to another room.
 The image shows an interior view of a room with a counter, a television, a doorway, and a hallway leading to another room.
+An image with a paper, two tvs, a wall, a window, a rug, a door, a ceiling, and a counter.
+An image with a wall, a door, a paper, a ceiling, two tvs, a window, a counter, and a rug.
+An image with a ceiling, a counter, two tvs, a rug, a window, a paper, a door, and a wall.
+An image with a wall, two tvs, a ceiling, a counter, a rug, a door, a window, and a paper.
+An image with a counter, a wall, a ceiling, two tvs, a door, a rug, a window, and a paper.

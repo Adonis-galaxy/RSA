@@ -8,3 +8,8 @@ The image shows an interior view of a hallway with a whiteboard on the wall.
 The image captures a long, narrow hallway with a series of rooms on either side, featuring a central divider with a whiteboard and a metal railing.
 The image shows a long hallway with a row of red doors on the left, a large black pole in the center, a whiteboard on the right wall, and a desk with a computer monitor and keyboard on the right side.
 The image shows an interior view of a hallway with a series of rooms, including a conference room with a large screen and a desk, and a storage area with shelves and a chair.
+An image with a light, a floor, a table, a chair, a wall, a shelf, and a ceiling.
+An image with a wall, a light, a table, a shelf, a floor, a chair, and a ceiling.
+An image with a wall, a light, a floor, a table, a shelf, a ceiling, and a chair.
+An image with a chair, a ceiling, a light, a wall, a table, a shelf, and a floor.
+An image with a table, a wall, a light, a ceiling, a chair, a shelf, and a floor.

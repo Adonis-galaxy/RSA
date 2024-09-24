@@ -8,3 +8,8 @@ The image shows a printer on a table.
 The image shows a small office space with a desk, a printer, and a cabinet.
 The image shows a small office space with a desk, a printer, and a cabinet.
 The image shows a small office space with a desk, a printer, and a cabinet.
+An image with a door, a paper, a scissors, a cardboard, a floor, a wall, and a cabinet.
+An image with a paper, a scissors, a wall, a cabinet, a floor, a door, and a cardboard.
+An image with a floor, a door, a cabinet, a paper, a scissors, a cardboard, and a wall.
+An image with a floor, a wall, a cardboard, a door, a paper, a scissors, and a cabinet.
+An image with a cabinet, a paper, a door, a wall, a floor, a scissors, and a cardboard.

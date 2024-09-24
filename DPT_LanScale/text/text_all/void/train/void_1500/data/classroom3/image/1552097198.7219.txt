@@ -8,3 +8,8 @@ A black chair with white tape on it.
 A black chair with white tape on it, sitting on a carpeted floor next to a desk.
 A black chair with white tape on it is partially visible under a desk.
 A black chair with white tape on it is tucked under a desk.
+An image with a rug, a table, a mouse, a keyboard, a wall, and a chair.
+An image with a table, a mouse, a chair, a rug, a keyboard, and a wall.
+An image with a chair, a wall, a table, a keyboard, a mouse, and a rug.
+An image with a table, a rug, a keyboard, a wall, a mouse, and a chair.
+An image with a rug, a wall, a table, a mouse, a chair, and a keyboard.

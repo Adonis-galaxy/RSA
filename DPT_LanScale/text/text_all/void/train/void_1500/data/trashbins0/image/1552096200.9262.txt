@@ -8,3 +8,8 @@ A brown chair in a corner of a room.
 A brown chair is placed against a white wall in a room with a blue trash can.
 A brown chair is in the corner of a room next to a blue trash can.
 A brown chair is placed against a white wall in a room with a blue trash can.
+An image with a wall, a chair, a floor, and a door.
+An image with a floor, a wall, a door, and a chair.
+An image with a floor, a wall, a door, and a chair.
+An image with a wall, a chair, a floor, and a door.
+An image with a chair, a door, a floor, and a wall.

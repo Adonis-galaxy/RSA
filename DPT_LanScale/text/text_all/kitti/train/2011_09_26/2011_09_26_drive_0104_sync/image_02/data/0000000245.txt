@@ -8,3 +8,8 @@ The image is a photograph of a busy city street.
 The image captures a bustling city street, filled with parked cars and pedestrians, under a clear sky.
 The image depicts a narrow city street lined with parked cars, with a person standing next to an open car trunk.
 A busy city street with parked cars and a pedestrian opening a car trunk.
+An image with a road, fourteen cars, a person, a tree, a sky, and a building.
+An image with fourteen cars, a person, a building, a road, a sky, and a tree.
+An image with fourteen cars, a sky, a building, a person, a tree, and a road.
+An image with fourteen cars, a tree, a building, a person, a sky, and a road.
+An image with fourteen cars, a building, a road, a tree, a person, and a sky.

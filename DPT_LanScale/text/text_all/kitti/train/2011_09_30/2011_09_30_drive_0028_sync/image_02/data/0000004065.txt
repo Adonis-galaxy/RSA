@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a serene suburban street scene, with parked cars lining the sidewalk, a few trees providing shade, and a clear sky overhead.
 The image shows a narrow street lined with parked cars, a sidewalk, and trees, with a pedestrian bridge visible in the background.
 A tree-lined street with parked cars and a pedestrian walkway.
+An image with a stop, a road, six cars, a grass, a person, a sky, a truck, a bridge, a pavement, and a tree.
+An image with six cars, a bridge, a road, a person, a pavement, a truck, a sky, a tree, a grass, and a stop.
+An image with six cars, a tree, a sky, a pavement, a stop, a grass, a truck, a road, a person, and a bridge.
+An image with a stop, six cars, a sky, a pavement, a bridge, a grass, a road, a tree, a truck, and a person.
+An image with a truck, six cars, a tree, a stop, a bridge, a grass, a sky, a person, a pavement, and a road.

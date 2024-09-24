@@ -8,3 +8,8 @@ A classroom scene with students sitting at desks.
 A group of students in a classroom, engaged in learning activities, with a teacher assisting and a Jewish boy wearing a kippah.
 A group of students sitting at desks in a classroom, with a teacher standing at the front of the room.
 A classroom scene with students seated at desks, engaged in learning activities, under the supervision of a teacher.
+An image with six people, six chairs, a light, two bottles, a rug, two dinings, a cabinet, a cup, a ceiling, a laptop, a wall, and a window.
+An image with a cabinet, six people, a laptop, two dinings, a cup, two bottles, a light, six chairs, a window, a ceiling, a wall, and a rug.
+An image with six chairs, two bottles, a laptop, a cup, six people, a window, two dinings, a light, a cabinet, a wall, a ceiling, and a rug.
+An image with six chairs, two bottles, six people, a wall, a cabinet, a laptop, a window, a light, a cup, a rug, a ceiling, and two dinings.
+An image with two bottles, two dinings, six people, six chairs, a window, a cup, a ceiling, a wall, a light, a cabinet, a laptop, and a rug.

@@ -8,3 +8,8 @@ A concrete planter with dirt and plants.
 The image shows a small, sandy area with a few trees and a concrete curb, with a focus on the curb and the sandy area.
 The image shows a small, sandy area with a few trees and a concrete curb.
 The image shows a small, sandy area with a few trees and plants, surrounded by a concrete border and a brick building in the background.
+An image with a floor, a tree, two walls, a door, a pavement, and a sand.
+An image with two walls, a floor, a pavement, a door, a tree, and a sand.
+An image with a floor, two walls, a tree, a sand, a door, and a pavement.
+An image with a pavement, a tree, two walls, a sand, a floor, and a door.
+An image with a floor, a door, two walls, a tree, a sand, and a pavement.

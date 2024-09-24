@@ -8,3 +8,8 @@ A blue box on a table.
 The image shows a cluttered office space with various items on a desk, including a blue box, a white sign, and a black chair.
 The image shows a cluttered office space with a desk, a chair, and various office equipment.
 The image shows a cluttered office space with various items on a desk, including a blue box, a white sign, and a black chair.
+An image with a wall, a paper, a tv, a chair, a window, a cardboard, a table, and a rug.
+An image with a wall, a table, a cardboard, a rug, a tv, a window, a paper, and a chair.
+An image with a tv, a table, a cardboard, a paper, a chair, a rug, a window, and a wall.
+An image with a cardboard, a window, a table, a wall, a chair, a tv, a rug, and a paper.
+An image with a cardboard, a paper, a table, a wall, a window, a chair, a tv, and a rug.

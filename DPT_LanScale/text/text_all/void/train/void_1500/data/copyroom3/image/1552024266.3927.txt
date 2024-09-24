@@ -8,3 +8,8 @@ A kitchen with a sink, a counter, and a television.
 A small kitchen with a sink, a television, and a counter.
 A small kitchen with a sink, a counter, a television, and a cabinet.
 The image shows a small, clean kitchen with a sink, a counter, a television, and cabinets.
+An image with a floor, a wall, a paper, a sink, a counter, a light, two bottles, a cabinet, and a microwave.
+An image with two bottles, a counter, a sink, a paper, a microwave, a light, a floor, a wall, and a cabinet.
+An image with a cabinet, a wall, two bottles, a floor, a microwave, a paper, a light, a sink, and a counter.
+An image with a wall, two bottles, a microwave, a paper, a cabinet, a floor, a sink, a counter, and a light.
+An image with a paper, two bottles, a wall, a cabinet, a light, a counter, a microwave, a sink, and a floor.

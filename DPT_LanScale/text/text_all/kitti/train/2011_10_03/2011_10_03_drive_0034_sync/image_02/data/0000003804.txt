@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street with parked cars and a sunlit atmosphere.
 The image shows a residential street with parked cars, a sidewalk, and houses with greenery.
 A quiet residential street with parked cars, lined by a stone wall and trees, leading to a white house with a garage.
+An image with a pavement, a tree, a road, four cars, a house, a sky, a grass, and a wall.
+An image with a grass, four cars, a pavement, a house, a tree, a wall, a road, and a sky.
+An image with a road, a tree, four cars, a sky, a wall, a pavement, a grass, and a house.
+An image with four cars, a grass, a road, a tree, a wall, a sky, a pavement, and a house.
+An image with a sky, a tree, four cars, a wall, a road, a pavement, a grass, and a house.

@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 The image captures a serene residential street, lined with trees and houses, where the sun casts a warm glow on the asphalt, highlighting the tranquility of the neighborhood.
 The image shows a narrow street lined with houses and trees, with a few cars parked along the sides.
 The image depicts a narrow, tree-lined street with parked cars, leading to a row of houses on the right side.
+An image with four cars, a pavement, a tree, a fence, a road, a sky, a wall, and a house.
+An image with a pavement, a house, a wall, a sky, four cars, a tree, a fence, and a road.
+An image with a tree, a house, a sky, a pavement, four cars, a road, a wall, and a fence.
+An image with four cars, a fence, a pavement, a wall, a tree, a road, a house, and a sky.
+An image with a road, a fence, four cars, a sky, a pavement, a house, a tree, and a wall.

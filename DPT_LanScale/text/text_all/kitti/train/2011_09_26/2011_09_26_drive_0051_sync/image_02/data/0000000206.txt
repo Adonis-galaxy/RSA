@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with cars, trucks, and a billboard, all moving along the road under a clear sky.
 The image shows a busy street with a mix of vehicles, including cars, trucks, and a bus, driving on a road with trees lining the sides. The street is lined with parked cars and there are buildings in the background. The sky is clear and it appears to be a sunny day.
 The image captures a bustling city street, with a mix of vehicles, including cars and trucks, moving along the road, while pedestrians navigate the sidewalks.
+An image with fifteen cars, a tree, a sky, three trucks, a road, a building, and a grass.
+An image with fifteen cars, three trucks, a sky, a road, a building, a tree, and a grass.
+An image with fifteen cars, three trucks, a sky, a grass, a tree, a building, and a road.
+An image with fifteen cars, a road, a tree, a sky, three trucks, a building, and a grass.
+An image with fifteen cars, a tree, a grass, three trucks, a building, a road, and a sky.

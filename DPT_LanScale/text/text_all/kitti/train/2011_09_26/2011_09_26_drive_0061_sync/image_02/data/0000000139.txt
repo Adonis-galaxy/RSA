@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street in a residential area, with parked cars on both sides, a few pedestrians, and a mix of architectural styles, including a building with a distinctive red roof.
 The image shows a narrow street lined with parked cars, with a mix of small and large vehicles, and a few trees on the side.
 The image captures a narrow street in a residential area, with parked cars on both sides, a mix of vehicles, and a clear sky overhead.
+An image with a road, ten cars, a pavement, a house, a tree, a sky, a wall, and a fence.
+An image with ten cars, a sky, a fence, a tree, a house, a pavement, a road, and a wall.
+An image with ten cars, a fence, a road, a wall, a pavement, a tree, a house, and a sky.
+An image with a sky, ten cars, a wall, a tree, a house, a pavement, a road, and a fence.
+An image with ten cars, a wall, a house, a fence, a road, a tree, a sky, and a pavement.

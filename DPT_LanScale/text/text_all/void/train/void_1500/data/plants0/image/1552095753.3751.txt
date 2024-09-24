@@ -8,3 +8,8 @@ The image shows a small patch of dirt with a few plants and trees, and a buildin
 The image shows a small patch of dirt surrounded by trees and a building, with a piece of paper on the ground.
 The image shows a small, sandy area with a few trees and a building in the background.
 The image shows a small, sandy area with a few trees and plants, surrounded by a concrete border.
+An image with a door, a dirt, a floor, two walls, and a tree.
+An image with two walls, a floor, a tree, a dirt, and a door.
+An image with a dirt, a floor, two walls, a door, and a tree.
+An image with a floor, a dirt, two walls, a door, and a tree.
+An image with two walls, a door, a dirt, a floor, and a tree.

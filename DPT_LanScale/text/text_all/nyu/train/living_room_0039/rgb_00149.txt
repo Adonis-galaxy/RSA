@@ -8,3 +8,8 @@ A dog is laying on a couch.
 The image captures a cozy living room scene with a comfortable couch, a dog curled up on it, and a bar area with a countertop and a refrigerator in the background.
 The image shows a large, empty living room with a brown leather couch and a black dog lying on it.
 The image shows a living room with a brown leather couch, a black dog lying on it, a beige area rug, a wooden floor, a white wall, a brown brick wall, a white countertop, a white refrigerator, a white door, a white window, and a white ceiling.
+An image with three walls, a door, two dogs, a floor, a couch, a window, a refrigerator, and a counter.
+An image with three walls, a door, a refrigerator, a counter, two dogs, a couch, a window, and a floor.
+An image with a door, three walls, a refrigerator, two dogs, a counter, a window, a floor, and a couch.
+An image with three walls, a window, a door, a counter, a refrigerator, two dogs, a couch, and a floor.
+An image with a couch, a window, two dogs, a refrigerator, three walls, a floor, a door, and a counter.

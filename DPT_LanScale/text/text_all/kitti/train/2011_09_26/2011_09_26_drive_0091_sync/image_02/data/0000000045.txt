@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street scene, with a focus on the interaction between pedestrians, cyclists, and the urban environment.
 The image depicts a bustling city street with a mix of pedestrians, cyclists, and motor vehicles, all navigating the narrow road between tall buildings.
 A bustling European street scene with a mix of pedestrians, cyclists, and motorcycles, lined with shops and cafes, and featuring a cobblestone road and a tram track.
+An image with eighteen people, a motorcycle, three chairs, two potteds, a building, a handbag, three umbrellas, a pavement, a railroad, two bicycles, a tree, a truck, and a dining.
+An image with eighteen people, three umbrellas, three chairs, a tree, a truck, two potteds, a motorcycle, a railroad, a handbag, a building, two bicycles, a dining, and a pavement.
+An image with a motorcycle, eighteen people, three chairs, two bicycles, a building, three umbrellas, a truck, two potteds, a pavement, a tree, a dining, a railroad, and a handbag.
+An image with two potteds, eighteen people, three chairs, a pavement, a tree, three umbrellas, a railroad, a handbag, a building, a motorcycle, two bicycles, a truck, and a dining.
+An image with three chairs, two potteds, a pavement, eighteen people, a dining, a truck, three umbrellas, a motorcycle, a handbag, two bicycles, a building, a railroad, and a tree.

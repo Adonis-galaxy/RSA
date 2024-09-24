@@ -8,3 +8,8 @@ A man walking on a sidewalk.
 The image captures a quiet, tree-lined street with parked cars, a pedestrian, and a solitary figure walking on the sidewalk, under a clear blue sky.
 A man is walking on a sidewalk next to a row of parked cars on a tree-lined street.
 A quiet residential street with parked cars, a pedestrian, and a man walking down the sidewalk.
+An image with ten cars, a tree, a road, a roof, a pavement, a person, a grass, and a building.
+An image with a building, a roof, ten cars, a tree, a road, a person, a pavement, and a grass.
+An image with a grass, a roof, ten cars, a tree, a pavement, a building, a person, and a road.
+An image with ten cars, a road, a pavement, a grass, a person, a tree, a building, and a roof.
+An image with a road, ten cars, a building, a person, a roof, a pavement, a tree, and a grass.

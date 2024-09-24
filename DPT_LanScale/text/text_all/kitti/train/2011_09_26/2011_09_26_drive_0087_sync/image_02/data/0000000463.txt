@@ -8,3 +8,8 @@ The image shows a black car parked on a street.
 The image captures a quiet residential street, with a parked car on the side of the road, a white wall with a gate, and a line of trees and buildings in the background.
 A black car is parked on a narrow street between two white walls, with a red building in the background and a green fence on the right.
 A narrow street with a parked car, a white wall, a fence, and a building with a red roof in the background.
+An image with a house, three cars, a sky, a road, a tree, a roof, a pavement, and a door.
+An image with three cars, a house, a tree, a road, a door, a pavement, a sky, and a roof.
+An image with a sky, a house, three cars, a pavement, a road, a tree, a roof, and a door.
+An image with a house, a tree, three cars, a sky, a pavement, a road, a door, and a roof.
+An image with a tree, three cars, a roof, a door, a sky, a house, a road, and a pavement.

@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a bicycle lane.
 A quiet residential street, lined with parked cars and a bicycle path, under a clear blue sky.
 The image depicts a narrow, tree-lined street with parked cars, a bicycle lane, and a staircase leading to a building.
 A quiet residential street with parked cars, a bicycle lane, and a staircase leading to a building.
+An image with five cars, a pavement, a flower, a tree, a stairs, a sky, a house, and a road.
+An image with five cars, a tree, a sky, a road, a house, a flower, a stairs, and a pavement.
+An image with a tree, five cars, a sky, a flower, a house, a stairs, a pavement, and a road.
+An image with five cars, a pavement, a road, a stairs, a sky, a tree, a house, and a flower.
+An image with a tree, five cars, a road, a flower, a stairs, a pavement, a house, and a sky.

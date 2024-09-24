@@ -8,3 +8,8 @@ A bed in a room.
 The image captures a small, dark room with a bed, a dresser, and a window with a brown curtain. The room appears to be in a state of disarray, with clothes scattered on the floor and a stuffed animal on the dresser.
 The image shows a small, dark room with a bed, a dresser, and a window with a brown curtain.
 The image shows a small, dark room with a bed, a dresser, and a window with a brown curtain.
+An image with a bed, a rug, a curtain, a cat, a wall, and a cabinet.
+An image with a rug, a curtain, a cat, a bed, a wall, and a cabinet.
+An image with a bed, a cabinet, a curtain, a rug, a wall, and a cat.
+An image with a cat, a curtain, a rug, a cabinet, a bed, and a wall.
+An image with a cabinet, a wall, a rug, a cat, a curtain, and a bed.

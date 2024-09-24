@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and shaded by tall trees, leading to a white wall and a gate.
 The image shows a narrow street lined with parked cars, trees, and a wall, with a clear sky overhead.
 A tree-lined street with parked cars, a sidewalk, and a fence, leading to a building with a garden area.
+An image with a wall, a pavement, a house, a sky, a road, a tree, and six cars.
+An image with a sky, a house, six cars, a wall, a tree, a road, and a pavement.
+An image with six cars, a road, a pavement, a tree, a house, a wall, and a sky.
+An image with a house, six cars, a wall, a tree, a pavement, a sky, and a road.
+An image with a sky, six cars, a road, a pavement, a tree, a wall, and a house.

@@ -8,3 +8,8 @@ The image shows a wall with a map drawn on it, a bench, a table, and a plant.
 The image captures a casual dining setting with a map on the wall, a bench, a table, and a jacket on the bench.
 The image shows an indoor setting with a large map on the wall, a wooden bench, a table, and a potted plant.
 The image shows an indoor setting with a wall covered in various writings and drawings, a wooden bench, a table, and a potted plant.
+An image with two benches, two walls, a floor, a backpack, a potted, a dining, and a table.
+An image with a floor, two walls, two benches, a table, a potted, a backpack, and a dining.
+An image with a potted, a backpack, two benches, a table, a floor, two walls, and a dining.
+An image with a backpack, two benches, a floor, a table, two walls, a dining, and a potted.
+An image with a table, two benches, a backpack, two walls, a potted, a floor, and a dining.

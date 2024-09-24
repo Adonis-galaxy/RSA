@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a basketball hoop on the right side.
 A narrow street lined with parked cars and buildings, leading to a cul-de-sac.
+An image with nine cars, three potteds, a tree, a grass, a road, a house, and a pavement.
+An image with nine cars, a tree, three potteds, a road, a grass, a house, and a pavement.
+An image with nine cars, a house, three potteds, a pavement, a road, a grass, and a tree.
+An image with a house, a road, nine cars, three potteds, a tree, a pavement, and a grass.
+An image with nine cars, three potteds, a tree, a house, a road, a pavement, and a grass.

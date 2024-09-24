@@ -8,3 +8,8 @@ A blue trash can with a white liner.
 A blue trash can is placed next to a white door in a room.
 A blue trash can is next to a yellow door in a room.
 The image shows a blue trash can next to a yellow door, with a white trash bag inside the trash can.
+An image with a cabinet, a paper, a floor, and a wall.
+An image with a paper, a floor, a cabinet, and a wall.
+An image with a wall, a paper, a cabinet, and a floor.
+An image with a wall, a floor, a cabinet, and a paper.
+An image with a floor, a wall, a paper, and a cabinet.

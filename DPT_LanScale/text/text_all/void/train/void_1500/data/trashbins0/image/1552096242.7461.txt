@@ -8,3 +8,8 @@ The image shows a white wall with a door frame and a small black mark on it.
 The image shows a white wall with a black mark and a door frame, with a beige carpeted floor.
 The image shows a white wall with a small black mark on it, and a brown door frame.
 The image shows a plain white wall with a closed door, and a small black mark is visible on the wall.
+An image with a floor, a refrigerator, and a wall.
+An image with a wall, a floor, and a refrigerator.
+An image with a refrigerator, a floor, and a wall.
+An image with a refrigerator, a wall, and a floor.
+An image with a wall, a refrigerator, and a floor.

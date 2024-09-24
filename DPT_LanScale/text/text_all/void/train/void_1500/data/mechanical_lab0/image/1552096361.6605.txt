@@ -8,3 +8,8 @@ A blue chair is under a white table.
 A blue chair is placed under a white table with a computer monitor on it.
 A blue chair is sitting under a white table with a computer monitor on it.
 A blue chair is placed under a white table with a computer monitor on it.
+An image with two chairs, a wall, a dining, and a floor.
+An image with a dining, a wall, two chairs, and a floor.
+An image with two chairs, a wall, a floor, and a dining.
+An image with a wall, two chairs, a floor, and a dining.
+An image with a dining, a floor, two chairs, and a wall.

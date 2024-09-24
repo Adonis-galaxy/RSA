@@ -8,3 +8,8 @@ The image is blurry and shows a cluttered office space with various items on a d
 The image shows a cluttered office space with various items on a desk, including a cardboard box, a blue carton, and a white sign.
 The image shows a blurry scene with a large black object, a smaller black object, a white object, a brown object, and a blue object, all placed on a table.
 The image shows a cluttered office space with various items on a desk, including a computer monitor, a printer, and a cardboard box.
+An image with a wall, two tvs, a cardboard, a table, a paper, and a book.
+An image with a paper, a wall, a cardboard, two tvs, a table, and a book.
+An image with a wall, a paper, a book, two tvs, a table, and a cardboard.
+An image with two tvs, a table, a book, a cardboard, a paper, and a wall.
+An image with two tvs, a cardboard, a paper, a book, a table, and a wall.

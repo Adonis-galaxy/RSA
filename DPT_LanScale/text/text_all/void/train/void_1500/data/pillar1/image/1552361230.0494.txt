@@ -8,3 +8,8 @@ A black and white checkered tile on the floor.
 A black and white checkered tile on the floor next to a white wall.
 The image shows a black and white checkered tile on the floor, a roll of paper on the left, and a black umbrella leaning against a white wall.
 The image shows a black and white checkered tile on the floor, a roll of paper on the left, and a black pole with a silver top on the right.
+An image with a paper, a wall, and a door.
+An image with a wall, a door, and a paper.
+An image with a door, a paper, and a wall.
+An image with a door, a wall, and a paper.
+An image with a door, a paper, and a wall.

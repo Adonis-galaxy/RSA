@@ -8,3 +8,8 @@ A row of parked cars on a tree-lined street.
 The image captures a serene, tree-lined street where a few cars are parked, and the sunlight filters through the leaves, creating a peaceful atmosphere.
 A narrow street lined with parked cars and trees, with a white van driving down the road.
 A tree-lined street with parked cars and a sidewalk.
+An image with a wall, a fence, five cars, a tree, a pavement, a house, a sky, a grass, and a road.
+An image with a wall, five cars, a grass, a pavement, a house, a tree, a road, a sky, and a fence.
+An image with a fence, a wall, five cars, a road, a tree, a sky, a grass, a pavement, and a house.
+An image with a pavement, a wall, five cars, a sky, a house, a road, a fence, a grass, and a tree.
+An image with a road, five cars, a grass, a pavement, a wall, a house, a tree, a fence, and a sky.

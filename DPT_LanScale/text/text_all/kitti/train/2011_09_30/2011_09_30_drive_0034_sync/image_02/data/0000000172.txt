@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded alleyway between two white buildings, bordered by a black fence and lined with greenery.
 The image shows a narrow alleyway between two buildings, with a brick pathway, a low wall, a black fence, and a variety of green shrubs and trees.
 A narrow, shaded alleyway between two white buildings, bordered by a black fence and lined with greenery.
+An image with a house, a fence, a pavement, a door, a wall, a sky, and a tree.
+An image with a fence, a door, a wall, a tree, a sky, a pavement, and a house.
+An image with a house, a wall, a tree, a fence, a sky, a pavement, and a door.
+An image with a house, a wall, a sky, a tree, a pavement, a fence, and a door.
+An image with a tree, a sky, a fence, a house, a wall, a door, and a pavement.

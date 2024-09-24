@@ -8,3 +8,8 @@ A room with a blue wall and a table.
 The image shows a room with a blue cabinet, a table with a chair, a trash can, and a picture on the wall.
 The image shows a room with a blue cabinet, a table with a chair, a picture on the wall, and a trash can.
 The image shows a room with a blue wall, a large blue and black machine, a table with a chair, a small desk with a chair, a trash can, and two pictures on the wall.
+An image with a person, four chairs, a refrigerator, a floor, a paper, a wall, a door, a light, a ceiling, and a dining.
+An image with a dining, four chairs, a person, a light, a floor, a door, a paper, a ceiling, a wall, and a refrigerator.
+An image with four chairs, a door, a floor, a person, a refrigerator, a ceiling, a wall, a dining, a paper, and a light.
+An image with a floor, four chairs, a person, a ceiling, a dining, a light, a refrigerator, a wall, a paper, and a door.
+An image with a light, a person, a floor, four chairs, a dining, a paper, a door, a ceiling, a wall, and a refrigerator.

@@ -8,3 +8,8 @@ A narrow street in a residential area.
 A quiet, tree-lined street with a parked car and a pedestrian, under a clear blue sky.
 The image shows a narrow, tree-lined street with a car parked on the side, a brick wall, and a white building in the background.
 A narrow, tree-lined street with a brick wall on one side and a white wall on the other, leading to a hill with a building at the top.
+An image with two walls, a car, a grass, a pavement, a tree, a sky, and a road.
+An image with two walls, a car, a tree, a grass, a sky, a pavement, and a road.
+An image with two walls, a sky, a pavement, a tree, a road, a grass, and a car.
+An image with a sky, two walls, a road, a tree, a car, a grass, and a pavement.
+An image with a sky, a road, two walls, a pavement, a car, a grass, and a tree.

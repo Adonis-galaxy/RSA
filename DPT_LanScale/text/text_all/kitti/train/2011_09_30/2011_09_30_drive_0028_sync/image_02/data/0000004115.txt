@@ -8,3 +8,8 @@ A dump truck on a street.
 A dump truck is parked on the side of a road, with a car and a building in the background, under a clear sky.
 A large dump truck is driving down a tree-lined street, with a car parked on the side and a building in the background.
 A large blue dump truck is parked on the side of a tree-lined street, with a red car and a white building in the background.
+An image with a wall, four cars, a sky, a tree, a road, a grass, a truck, and a pavement.
+An image with a truck, four cars, a tree, a sky, a road, a pavement, a wall, and a grass.
+An image with a road, a wall, a tree, four cars, a pavement, a truck, a sky, and a grass.
+An image with a sky, a road, a truck, four cars, a tree, a grass, a wall, and a pavement.
+An image with four cars, a wall, a road, a grass, a truck, a pavement, a sky, and a tree.

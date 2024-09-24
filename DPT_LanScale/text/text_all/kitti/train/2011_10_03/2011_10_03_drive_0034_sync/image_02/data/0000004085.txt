@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and parked cars.
 The image captures a serene residential street, lined with trees and parked cars, leading to a house with a garage.
 The image shows a narrow street lined with parked cars and trees, with a white sky overhead.
 A narrow, tree-lined street with parked cars and a single moving vehicle, leading to a residential area.
+An image with a road, two walls, a tree, a sky, a pavement, a door, a house, and two cars.
+An image with two cars, a tree, two walls, a door, a pavement, a house, a road, and a sky.
+An image with two cars, two walls, a tree, a door, a house, a road, a sky, and a pavement.
+An image with two cars, a pavement, a sky, a tree, two walls, a road, a door, and a house.
+An image with a pavement, a tree, two cars, two walls, a sky, a road, a door, and a house.

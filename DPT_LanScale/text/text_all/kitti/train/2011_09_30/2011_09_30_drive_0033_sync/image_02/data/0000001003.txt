@@ -8,3 +8,8 @@ A blue car parked on a street.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 A small blue car is parked on the side of a narrow street between two buildings, with a wooden fence and trees in the background.
 A narrow, tree-lined street with parked cars and a fence on the right side.
+An image with a fence, four cars, a road, a bench, a sky, a stairs, a grass, a pavement, a tree, a wall, and a house.
+An image with a grass, a sky, a house, four cars, a bench, a stairs, a pavement, a wall, a tree, a road, and a fence.
+An image with a sky, a grass, a wall, four cars, a stairs, a fence, a road, a pavement, a tree, a bench, and a house.
+An image with a wall, four cars, a stairs, a tree, a grass, a road, a fence, a sky, a pavement, a house, and a bench.
+An image with a bench, four cars, a house, a pavement, a road, a fence, a stairs, a grass, a wall, a sky, and a tree.

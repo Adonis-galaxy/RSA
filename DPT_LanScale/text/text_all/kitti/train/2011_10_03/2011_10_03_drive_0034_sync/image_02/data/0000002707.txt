@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and shaded by trees, leading to a white building with a blue sign.
 The image shows a narrow street lined with parked cars, a sidewalk, and a white wall with a green hedge. The street is shaded by trees, and there are a few parked cars on the side of the road.
 A quiet residential street with parked cars, lined by a white wall and a row of trees, leading to a cul-de-sac.
+An image with six cars, a wall, a tree, a pavement, a road, and a sky.
+An image with six cars, a pavement, a sky, a wall, a tree, and a road.
+An image with six cars, a road, a pavement, a tree, a sky, and a wall.
+An image with a wall, a tree, six cars, a sky, a road, and a pavement.
+An image with six cars, a sky, a road, a tree, a wall, and a pavement.

@@ -8,3 +8,8 @@ A car is driving through an intersection.
 A silver car is crossing a street at an intersection, with a traffic light and a pedestrian in the background, surrounded by trees and parked cars.
 A small silver car is driving through an intersection in a residential area, surrounded by trees and parked cars.
 A gray car is driving through an intersection with a red traffic light, surrounded by trees and buildings, on a sunny day.
+An image with a pavement, six cars, a grass, a road, a traffic, a truck, a tree, and a person.
+An image with a tree, six cars, a road, a traffic, a grass, a pavement, a person, and a truck.
+An image with six cars, a tree, a traffic, a person, a grass, a truck, a road, and a pavement.
+An image with six cars, a grass, a traffic, a road, a truck, a pavement, a person, and a tree.
+An image with six cars, a truck, a grass, a person, a traffic, a tree, a pavement, and a road.

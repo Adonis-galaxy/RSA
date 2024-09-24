@@ -8,3 +8,8 @@ A yellow pipe is next to a sink.
 A yellow pipe is connected to a sink, and a yellow pipe is connected to a yellow valve.
 The image shows a small sink with a green hose attached to it, located in a room with a yellow pole in the corner.
 The image shows a yellow pipe connected to a sink, with a yellow pole in the background.
+An image with a wall, a cabinet, a floor, a sink, a clock, and a counter.
+An image with a counter, a clock, a cabinet, a sink, a wall, and a floor.
+An image with a floor, a clock, a sink, a counter, a cabinet, and a wall.
+An image with a clock, a wall, a cabinet, a counter, a floor, and a sink.
+An image with a floor, a wall, a cabinet, a counter, a clock, and a sink.

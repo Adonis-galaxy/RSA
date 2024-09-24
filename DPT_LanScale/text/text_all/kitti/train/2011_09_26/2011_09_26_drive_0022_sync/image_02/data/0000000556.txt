@@ -8,3 +8,8 @@ A red car parked on the side of a road.
 The image captures a moment of tranquility in a suburban setting, with a red SUV parked on the side of a street, surrounded by lush greenery and a clear blue sky.
 A red SUV is parked on the side of a road, with a green field and trees in the background.
 A red SUV is parked on the side of a street, adjacent to a grassy area with trees, and there are signs and a street lamp nearby.
+An image with a pavement, a road, a car, a grass, a tree, and a sky.
+An image with a road, a pavement, a car, a tree, a sky, and a grass.
+An image with a grass, a pavement, a tree, a car, a road, and a sky.
+An image with a sky, a pavement, a road, a grass, a car, and a tree.
+An image with a sky, a pavement, a tree, a road, a grass, and a car.

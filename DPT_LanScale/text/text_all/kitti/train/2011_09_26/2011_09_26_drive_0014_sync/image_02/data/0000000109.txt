@@ -8,3 +8,8 @@ A train on the tracks.
 A person riding a bicycle on a street with a train passing by.
 A long train travels down a tree-lined street, with a cyclist riding on the sidewalk.
 A train travels down a tree-lined street, with a cyclist riding on the sidewalk and a car driving on the road.
+An image with a grass, a tree, six cars, a fence, a person, a bicycle, a sky, a road, and a train.
+An image with a grass, a sky, six cars, a tree, a fence, a bicycle, a person, a road, and a train.
+An image with a train, a sky, a bicycle, six cars, a road, a person, a grass, a fence, and a tree.
+An image with a bicycle, six cars, a fence, a train, a road, a sky, a person, a tree, and a grass.
+An image with six cars, a fence, a sky, a grass, a train, a road, a bicycle, a person, and a tree.

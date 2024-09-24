@@ -8,3 +8,8 @@ A stack of papers on a table.
 A cluttered desk with papers, books, and a cup.
 A cluttered desk with a stack of papers, a whiteboard, and a cup.
 A cluttered desk with a stack of papers, a whiteboard, and a cup.
+An image with a cup, three books, a table, a paper, and a wall.
+An image with three books, a wall, a paper, a cup, and a table.
+An image with a table, three books, a paper, a wall, and a cup.
+An image with a paper, three books, a cup, a table, and a wall.
+An image with a wall, three books, a table, a cup, and a paper.

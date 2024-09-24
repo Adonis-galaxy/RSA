@@ -8,3 +8,8 @@ A car is parked on the side of a street.
 A quiet residential street, lined with neatly trimmed hedges and trees, leads to a building with a balcony, where a car is parked.
 A narrow street lined with tall hedges and trees, with a car parked on the right side.
 A narrow, tree-lined street with a parked car, leading to a residential area with buildings and balconies.
+An image with two cars, a road, a house, a sky, a tree, and a pavement.
+An image with a road, a house, two cars, a pavement, a sky, and a tree.
+An image with a house, two cars, a tree, a pavement, a road, and a sky.
+An image with a sky, two cars, a road, a house, a tree, and a pavement.
+An image with a sky, a tree, a house, two cars, a road, and a pavement.

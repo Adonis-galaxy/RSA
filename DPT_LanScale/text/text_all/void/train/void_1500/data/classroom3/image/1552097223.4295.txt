@@ -8,3 +8,8 @@ The image shows a room with two black chairs and two electrical outlets on the w
 The image shows a room with two black chairs, a white wall, and two electrical outlets.
 The image shows a room with two black chairs, a white desk, and two electrical outlets on the wall.
 The image shows a room with two black chairs facing each other, positioned on either side of a white wall with two electrical outlets.
+An image with a rug, a mouse, three chairs, a table, and a wall.
+An image with three chairs, a table, a rug, a mouse, and a wall.
+An image with a mouse, three chairs, a table, a wall, and a rug.
+An image with three chairs, a mouse, a wall, a rug, and a table.
+An image with a rug, three chairs, a table, a wall, and a mouse.

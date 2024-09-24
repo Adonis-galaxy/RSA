@@ -8,3 +8,8 @@ A road with a shadow of a tree on it.
 A narrow, shaded road with a curved wall and a few trees, leading to a distant white building.
 A narrow, tree-lined road with a white wall on one side and a green wall on the other, leading to a dead-end.
 A narrow, tree-lined road curves gently to the right, with a white wall on the right side and a green hillside on the left.
+An image with a sky, a wall, a pavement, a road, a grass, and a tree.
+An image with a tree, a pavement, a grass, a sky, a road, and a wall.
+An image with a tree, a wall, a sky, a grass, a road, and a pavement.
+An image with a road, a tree, a wall, a pavement, a grass, and a sky.
+An image with a pavement, a sky, a wall, a road, a grass, and a tree.

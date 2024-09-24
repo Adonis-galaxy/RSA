@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with trees and houses, under a clear blue sky.
 The image shows a narrow, tree-lined street with a few parked cars, a white building with a black roof, and a clear blue sky.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with three cars, a wall, a house, a tree, a sky, a pavement, and a road.
+An image with a house, a road, a sky, a pavement, three cars, a wall, and a tree.
+An image with a house, a sky, three cars, a road, a pavement, a wall, and a tree.
+An image with a house, a road, a wall, three cars, a pavement, a sky, and a tree.
+An image with a tree, a house, three cars, a pavement, a sky, a wall, and a road.

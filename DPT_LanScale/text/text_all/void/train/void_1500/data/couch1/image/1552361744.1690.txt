@@ -8,3 +8,8 @@ A volleyball on a black couch.
 A volleyball sits on a black couch next to a gray sweater.
 A volleyball sits on a black leather couch, next to a gray sweater.
 A volleyball sits on a black leather couch, with a gray sweater draped over the armrest.
+An image with a wall, a sports, a paper, a couch, and a floor.
+An image with a floor, a couch, a sports, a wall, and a paper.
+An image with a paper, a wall, a floor, a sports, and a couch.
+An image with a couch, a wall, a floor, a sports, and a paper.
+An image with a paper, a sports, a couch, a floor, and a wall.

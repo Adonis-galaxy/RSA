@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white building on the right side.
 The image captures a quiet, tree-lined street in a residential area, with a clear path leading to a white building.
 The image shows a narrow street lined with trees and buildings, with a speed limit sign indicating a 30 km/h limit.
 The image depicts a narrow street lined with trees and buildings, with a speed limit of 30 indicated by white markings on the road.
+An image with a road, a wall, a tree, a car, a door, two stops, a truck, a window, and a pavement.
+An image with two stops, a tree, a truck, a road, a pavement, a door, a wall, a car, and a window.
+An image with two stops, a tree, a road, a truck, a window, a car, a wall, a door, and a pavement.
+An image with two stops, a road, a truck, a car, a tree, a wall, a window, a pavement, and a door.
+An image with a pavement, a tree, a truck, a road, a car, a door, two stops, a window, and a wall.

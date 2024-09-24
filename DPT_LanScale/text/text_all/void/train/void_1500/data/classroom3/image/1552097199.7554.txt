@@ -8,3 +8,8 @@ A black chair with the word "season" on it.
 A black chair with the word "season" on it, placed under a desk.
 A black chair with the word "season" on it, placed under a desk.
 A black chair with the word "season" on it is placed under a desk.
+An image with a rug, a table, a mouse, two chairs, a keyboard, and a wall.
+An image with a wall, a mouse, a keyboard, a rug, two chairs, and a table.
+An image with a wall, a rug, two chairs, a table, a keyboard, and a mouse.
+An image with a rug, two chairs, a table, a keyboard, a wall, and a mouse.
+An image with a wall, two chairs, a mouse, a keyboard, a rug, and a table.

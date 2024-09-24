@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quiet residential street, with parked cars lining both sides, and a lone pedestrian walking down the middle, under a clear blue sky.
 The image shows a narrow street lined with parked cars, with a person walking in the middle, and a clear sky overhead.
 A narrow, tree-lined street in a residential area, with parked cars on both sides and a pedestrian walking in the middle.
+An image with seven cars, a pavement, a sky, two bicycles, a house, a person, a grass, a road, and a tree.
+An image with seven cars, a house, a tree, two bicycles, a grass, a sky, a road, a pavement, and a person.
+An image with seven cars, two bicycles, a tree, a grass, a road, a pavement, a house, a sky, and a person.
+An image with seven cars, a grass, two bicycles, a house, a pavement, a road, a tree, a person, and a sky.
+An image with seven cars, two bicycles, a house, a grass, a person, a pavement, a tree, a sky, and a road.

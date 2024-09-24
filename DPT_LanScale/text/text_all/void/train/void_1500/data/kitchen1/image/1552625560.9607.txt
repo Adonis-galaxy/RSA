@@ -8,3 +8,8 @@ A white microwave on a counter.
 A white microwave on a countertop next to a silver appliance.
 A white microwave sits on a counter next to a silver refrigerator.
 A white microwave sits on a counter next to a silver refrigerator, with a white paper towel on the counter.
+An image with a floor, a wall, a paper, a cabinet, two microwaves, and a towel.
+An image with a wall, two microwaves, a towel, a floor, a paper, and a cabinet.
+An image with a cabinet, two microwaves, a wall, a towel, a floor, and a paper.
+An image with two microwaves, a wall, a towel, a cabinet, a paper, and a floor.
+An image with two microwaves, a paper, a floor, a wall, a towel, and a cabinet.

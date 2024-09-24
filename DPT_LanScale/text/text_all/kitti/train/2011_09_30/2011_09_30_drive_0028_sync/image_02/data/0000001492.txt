@@ -8,3 +8,8 @@ A car on a street.
 A car on a tree-lined street, with a curved path leading to a white building.
 A silver car is driving down a tree-lined street, passing under a street sign.
 A tree-lined street with a car parked on the side, leading to a residential area with houses and apartment buildings.
+An image with a house, a parking, two cars, a grass, a tree, and a road.
+An image with a house, a road, a grass, a tree, two cars, and a parking.
+An image with a grass, a parking, a house, a tree, two cars, and a road.
+An image with a grass, a road, two cars, a house, a tree, and a parking.
+An image with a road, a house, two cars, a tree, a parking, and a grass.

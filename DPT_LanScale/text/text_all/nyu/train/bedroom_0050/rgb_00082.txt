@@ -8,3 +8,8 @@ A room with a bed, a desk, a bookshelf, and a television.
 The image captures a cozy, cluttered bedroom with a large bookshelf, a desk with a television, a bed with a checkered blanket, and a globe on a table.
 The image shows a small room with a bed, a desk with a TV, a bookshelf filled with books, and a globe.
 The image shows a small, cluttered bedroom with a bed, a desk with a TV, a bookshelf filled with books, and a globe on a table.
+An image with twenty-five books, a chair, a shelf, a bed, a window, a rug, a tv, and a wall.
+An image with a bed, twenty-five books, a shelf, a rug, a tv, a window, a wall, and a chair.
+An image with a rug, twenty-five books, a bed, a window, a wall, a chair, a tv, and a shelf.
+An image with twenty-five books, a tv, a chair, a shelf, a rug, a wall, a window, and a bed.
+An image with a window, twenty-five books, a rug, a wall, a tv, a shelf, a bed, and a chair.

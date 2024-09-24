@@ -8,3 +8,8 @@ A row of garages in a residential area.
 A quiet residential street with a row of garages and parked cars, under a clear blue sky.
 A large white garage with a single door, located on a street corner, surrounded by trees and parked cars.
 A row of garages with a single open door, adjacent to a residential street with parked cars.
+An image with five cars, a building, a roof, a pavement, a road, a wall, a tree, and a sky.
+An image with five cars, a wall, a sky, a road, a roof, a building, a pavement, and a tree.
+An image with five cars, a wall, a roof, a pavement, a tree, a sky, a building, and a road.
+An image with five cars, a building, a roof, a wall, a road, a pavement, a tree, and a sky.
+An image with a tree, a sky, a building, five cars, a wall, a pavement, a road, and a roof.

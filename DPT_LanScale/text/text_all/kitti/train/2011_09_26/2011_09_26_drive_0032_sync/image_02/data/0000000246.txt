@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with cars driving along the road, passing under traffic lights, and navigating around a crosswalk.
 The image shows a wide, tree-lined road with multiple lanes, a crosswalk, and traffic lights. The road is mostly empty, with only a few cars visible. The trees are large and green, and the sky is overcast.
 The image depicts a wide, tree-lined road with multiple lanes, a crosswalk, and traffic lights, leading to a highway intersection with a clear sky.
+An image with eight cars, a grass, a road, four traffics, a sky, a pavement, a stop, and a tree.
+An image with four traffics, eight cars, a sky, a pavement, a stop, a tree, a road, and a grass.
+An image with eight cars, four traffics, a tree, a road, a pavement, a sky, a stop, and a grass.
+An image with a sky, eight cars, a grass, four traffics, a road, a stop, a tree, and a pavement.
+An image with a grass, eight cars, a road, a stop, four traffics, a sky, a pavement, and a tree.

@@ -8,3 +8,8 @@ A group of people crossing a street.
 A group of people on bicycles crossing a street at an intersection, with cars and a bus waiting at the traffic lights.
 A group of people on bicycles crossing a street at a crosswalk, with cars and traffic lights in the background.
 A group of people on bicycles and a man on a motorcycle are stopped at a traffic light on a tree-lined street.
+An image with a backpack, two bicycles, three traffics, five cars, five people, a tree, a building, a road, and a grass.
+An image with a road, five people, two bicycles, five cars, a building, a backpack, a tree, three traffics, and a grass.
+An image with a grass, five cars, three traffics, five people, a building, a tree, two bicycles, a backpack, and a road.
+An image with five cars, five people, three traffics, a grass, two bicycles, a tree, a building, a backpack, and a road.
+An image with a grass, a building, five people, five cars, two bicycles, a road, three traffics, a backpack, and a tree.

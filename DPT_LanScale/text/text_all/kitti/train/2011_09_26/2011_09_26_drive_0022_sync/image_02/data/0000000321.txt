@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white garage on the right side.
 A quiet, tree-lined street leads to a garage, with a car parked on the side.
 The image shows a narrow, tree-lined street with a white garage on the right side, a car parked on the left side, and a building with a garage door on the left side.
 A narrow, tree-lined street leads to a white garage with a single door, situated in a residential area.
+An image with a road, a tree, a car, a dirt, and a building.
+An image with a tree, a building, a car, a road, and a dirt.
+An image with a road, a building, a car, a dirt, and a tree.
+An image with a dirt, a building, a road, a tree, and a car.
+An image with a car, a dirt, a tree, a road, and a building.

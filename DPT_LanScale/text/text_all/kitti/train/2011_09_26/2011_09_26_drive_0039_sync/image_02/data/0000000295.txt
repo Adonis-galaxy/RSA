@@ -8,3 +8,8 @@ A black van parked on the side of a street.
 A black Mercedes-Benz van is parked on the side of a narrow street, with a car parked behind it and a person standing nearby.
 A large black truck is parked on the side of a narrow street between two buildings, with a smaller car parked behind it.
 A black Mercedes-Benz van is parked on the side of a narrow street between two buildings, with a car parked behind it and a person standing nearby.
+An image with a house, a person, a truck, a tree, three cars, a pavement, a sky, a fence, and a road.
+An image with a road, three cars, a house, a truck, a sky, a pavement, a tree, a person, and a fence.
+An image with a sky, a house, a person, three cars, a truck, a road, a pavement, a tree, and a fence.
+An image with a person, a road, a pavement, three cars, a house, a sky, a truck, a fence, and a tree.
+An image with a sky, three cars, a person, a pavement, a truck, a fence, a house, a tree, and a road.

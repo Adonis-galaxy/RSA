@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on one side and a car on the o
 A narrow, tree-lined road with a brick wall and a car parked on the side.
 A narrow street with a brick wall, a car, a sign, and a tree.
 A narrow, tree-lined road with a brick wall on one side and a car parked on the other, leading to a sign indicating a car-free zone.
+An image with two cars, a tree, a wall, a stop, a fence, a sky, a road, and a roof.
+An image with a roof, two cars, a stop, a tree, a fence, a sky, a wall, and a road.
+An image with a fence, a tree, a stop, a road, two cars, a wall, a sky, and a roof.
+An image with a fence, two cars, a sky, a tree, a road, a wall, a stop, and a roof.
+An image with a tree, a roof, a sky, two cars, a wall, a stop, a fence, and a road.

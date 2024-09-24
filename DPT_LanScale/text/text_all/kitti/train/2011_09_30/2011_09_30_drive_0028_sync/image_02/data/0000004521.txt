@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with a few parked cars, a person standing on the sidewalk, and a clear blue sky overhead.
 A person stands on the sidewalk, watching a car parked on the street, with a blue sign indicating a one-way street and a red sign with a white arrow pointing right.
 A narrow street with parked cars, a sidewalk, and a building on the right side, leading to a residential area.
+An image with a tree, a person, a road, a fence, two cars, a house, a pavement, a sky, and a grass.
+An image with a tree, a grass, a road, a person, a house, two cars, a pavement, a sky, and a fence.
+An image with a sky, a house, a fence, a tree, two cars, a road, a pavement, a person, and a grass.
+An image with a tree, a fence, a pavement, two cars, a sky, a grass, a road, a house, and a person.
+An image with a road, a sky, two cars, a house, a pavement, a tree, a person, a grass, and a fence.

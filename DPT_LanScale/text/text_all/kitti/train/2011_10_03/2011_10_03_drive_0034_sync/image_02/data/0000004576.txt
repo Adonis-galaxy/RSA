@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on the right side.
 A quiet residential street with a parked car and a yellow building, under a clear blue sky.
 A narrow street with parked cars, a yellow car, and a white van, lined by a brick wall and trees, under a blue sky.
 A narrow, tree-lined street with a parked car, a yellow car, and a white car, leading to a brick wall and a red and blue sign.
+An image with a sky, a stop, two cars, a pavement, a tree, a road, a grass, and a wall.
+An image with two cars, a sky, a grass, a tree, a stop, a pavement, a road, and a wall.
+An image with a tree, two cars, a grass, a road, a wall, a stop, a sky, and a pavement.
+An image with a grass, a wall, two cars, a tree, a road, a pavement, a stop, and a sky.
+An image with a road, two cars, a sky, a grass, a stop, a pavement, a tree, and a wall.

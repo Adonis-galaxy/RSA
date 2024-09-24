@@ -8,3 +8,8 @@ A whiteboard with handwritten notes and diagrams.
 A cluttered office space with a whiteboard filled with diagrams and notes, a desk with various items, and a chair with a blue jacket on it.
 A large whiteboard with blue writing and diagrams, a black chair, a desk with a laptop and papers, and a room with a door.
 A cluttered office space with a whiteboard filled with diagrams and notes, a desk with various items, a chair, and a door.
+An image with ten bottles, a cup, a backpack, a ceiling, a door, a wall, a paper, a cabinet, a laptop, a cardboard, a chair, and a cell.
+An image with a chair, a laptop, ten bottles, a ceiling, a cell, a backpack, a cabinet, a paper, a cup, a door, a wall, and a cardboard.
+An image with a backpack, a cardboard, a chair, a paper, a cabinet, a door, a laptop, ten bottles, a cup, a wall, a ceiling, and a cell.
+An image with a laptop, ten bottles, a cell, a backpack, a cabinet, a paper, a cup, a ceiling, a chair, a wall, a cardboard, and a door.
+An image with a cell, ten bottles, a chair, a wall, a door, a cardboard, a ceiling, a backpack, a paper, a cup, a cabinet, and a laptop.

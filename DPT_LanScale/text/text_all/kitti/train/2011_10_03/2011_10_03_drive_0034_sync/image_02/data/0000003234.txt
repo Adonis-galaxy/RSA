@@ -8,3 +8,8 @@ The image shows a narrow street between two brick walls with trees and bushes on
 A quiet residential street, lined with houses and trees, with a parked van on the left and a white wall on the right.
 The image shows a narrow street lined with houses and trees, with a white van parked on the side.
 A narrow, tree-lined street with parked cars and a white van, leading to a residential area with houses and a brick wall.
+An image with a tree, a roof, a car, a pavement, a road, a sky, a fence, and a wall.
+An image with a road, a sky, a car, a fence, a roof, a wall, a tree, and a pavement.
+An image with a fence, a tree, a roof, a pavement, a wall, a road, a car, and a sky.
+An image with a car, a pavement, a sky, a roof, a tree, a fence, a wall, and a road.
+An image with a sky, a wall, a road, a pavement, a roof, a tree, a car, and a fence.

@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 The image captures a quiet residential street, with a clear sky overhead and a line of trees lining the road, leading to a white building with a red roof in the distance.
 The image shows a wide, tree-lined street with a few parked vehicles, a white building in the distance, and a large construction site on the right side.
 A quiet residential street with a curved road, lined with trees and parked vehicles, leading to a white building with a red roof.
+An image with a house, a wall, a road, three trucks, a grass, a tree, a car, and a dirt.
+An image with three trucks, a dirt, a road, a car, a grass, a tree, a wall, and a house.
+An image with a house, a wall, a road, a dirt, three trucks, a car, a tree, and a grass.
+An image with three trucks, a house, a road, a wall, a car, a grass, a dirt, and a tree.
+An image with three trucks, a road, a wall, a house, a grass, a dirt, a tree, and a car.

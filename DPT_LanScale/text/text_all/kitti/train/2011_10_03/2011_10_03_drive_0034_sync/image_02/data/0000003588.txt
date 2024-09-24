@@ -8,3 +8,8 @@ A narrow street between two rows of hedges.
 A quiet, tree-lined street with a clear path leading to a distant horizon.
 A narrow, tree-lined street between two white fences, with a car parked on the right side.
 A narrow, tree-lined street with houses on both sides, leading to a distant road.
+An image with a fence, a car, a pavement, a sky, a house, a tree, a road, and a roof.
+An image with a house, a sky, a roof, a road, a tree, a car, a pavement, and a fence.
+An image with a roof, a car, a tree, a house, a pavement, a road, a sky, and a fence.
+An image with a tree, a pavement, a fence, a sky, a house, a roof, a road, and a car.
+An image with a house, a roof, a car, a tree, a road, a fence, a sky, and a pavement.

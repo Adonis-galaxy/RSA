@@ -8,3 +8,8 @@ A black and brown chair with a wooden armrest.
 A black chair with a wooden seat and backrest, placed in a room with a wooden table.
 The image shows a black chair with a wooden seat and back, placed on a beige carpeted floor.
 The image shows a black chair with a wooden seat and back, placed on a beige carpeted floor, with a wooden table in front of it.
+An image with a floor, a table, two chairs, and a wall.
+An image with a table, a floor, a wall, and two chairs.
+An image with a table, a floor, two chairs, and a wall.
+An image with a table, two chairs, a wall, and a floor.
+An image with two chairs, a floor, a wall, and a table.

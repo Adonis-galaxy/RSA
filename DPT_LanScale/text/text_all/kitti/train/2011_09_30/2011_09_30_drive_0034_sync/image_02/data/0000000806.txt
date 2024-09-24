@@ -8,3 +8,8 @@ The image shows a tree-lined street in a residential area.
 The image captures a serene residential street, lined with trees and buildings, bathed in the soft glow of a sunny day.
 The image shows a narrow street lined with trees and buildings, with a clear sky overhead.
 The image depicts a tree-lined street with a clear sky, leading to a row of buildings on the right side.
+An image with two walls, a sky, a house, a pavement, a road, a car, and a tree.
+An image with a car, a sky, a road, two walls, a pavement, a house, and a tree.
+An image with a car, two walls, a pavement, a tree, a sky, a road, and a house.
+An image with a sky, a road, a pavement, a tree, two walls, a house, and a car.
+An image with a road, a sky, a car, a tree, two walls, a pavement, and a house.

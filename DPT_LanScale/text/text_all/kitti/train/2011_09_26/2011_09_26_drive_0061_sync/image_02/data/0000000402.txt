@@ -8,3 +8,8 @@ The image shows a narrow street with cars parked on the side.
 A narrow street between two walls, with cars parked on one side and a person in the driver's seat of a car on the other side.
 A narrow street lined with trees and parked cars, with a person visible in the foreground.
 A narrow, tree-lined street with parked cars and a person in the foreground, leading to a brick building with a sloped roof in the background.
+An image with two walls, three cars, a sky, a door, a pavement, a grass, a person, a road, and a tree.
+An image with a pavement, two walls, a sky, a road, a door, three cars, a person, a tree, and a grass.
+An image with three cars, a person, a pavement, a grass, a sky, a tree, a road, a door, and two walls.
+An image with a pavement, a door, two walls, a road, three cars, a person, a grass, a tree, and a sky.
+An image with three cars, a road, a person, a grass, a door, a sky, two walls, a pavement, and a tree.

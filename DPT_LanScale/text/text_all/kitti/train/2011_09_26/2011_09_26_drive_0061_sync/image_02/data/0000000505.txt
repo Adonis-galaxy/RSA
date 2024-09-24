@@ -8,3 +8,8 @@ A narrow, tree-lined road.
 A narrow, tree-lined road leads to a quaint village, with a car parked at the end, and a brick wall and gate marking the entrance.
 A narrow, tree-lined road with a car parked at the end, leading to a brick wall and a gate.
 A narrow, tree-lined road with a brick wall and a gate on the right side, leading to a house with a red car parked in front.
+An image with a car, a road, a tree, a sky, a door, a wall, a fence, and a pavement.
+An image with a door, a road, a tree, a wall, a car, a sky, a pavement, and a fence.
+An image with a car, a tree, a sky, a pavement, a wall, a door, a road, and a fence.
+An image with a door, a sky, a pavement, a car, a wall, a tree, a road, and a fence.
+An image with a door, a wall, a car, a sky, a pavement, a road, a fence, and a tree.

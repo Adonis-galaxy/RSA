@@ -8,3 +8,8 @@ A plastic orange object on a table.
 A dirty white table with a single orange object on it.
 A dirty white folding table with a single orange object on it.
 A white plastic table with a single orange object on it, placed in a room with a blue chair and a beige wall.
+An image with a floor, two walls, a door, a stairs, a surfboard, and a chair.
+An image with a door, two walls, a stairs, a surfboard, a floor, and a chair.
+An image with two walls, a door, a chair, a floor, a stairs, and a surfboard.
+An image with two walls, a surfboard, a stairs, a floor, a door, and a chair.
+An image with a floor, two walls, a door, a chair, a surfboard, and a stairs.

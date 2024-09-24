@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape, with a focus on a building and its surroundings.
 The image shows a small model of a cityscape, including buildings and a street, displayed on a wooden shelf.
 The image shows a model of a cityscape with buildings and a street, displayed on a wooden shelf.
+An image with a sink, a building, a floor, a counter, a boat, and a spoon.
+An image with a boat, a floor, a sink, a building, a counter, and a spoon.
+An image with a boat, a floor, a sink, a building, a spoon, and a counter.
+An image with a counter, a floor, a boat, a building, a sink, and a spoon.
+An image with a boat, a spoon, a counter, a sink, a floor, and a building.

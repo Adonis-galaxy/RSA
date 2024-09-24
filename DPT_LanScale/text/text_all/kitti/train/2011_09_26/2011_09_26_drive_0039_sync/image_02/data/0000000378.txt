@@ -8,3 +8,8 @@ The image shows a street intersection with a curved road.
 The image captures a quiet residential street, with a clear view of a cul-de-sac intersection, where a few cars are parked, and a building with a sign is visible in the background.
 The image shows a narrow street with a few cars parked on the side, a brick wall, a white building, a green hedge, a blue sky, and a few signs.
 The image depicts a quiet residential street with a curved road, lined with houses and trees, and a clear blue sky overhead.
+An image with a banner, four cars, a wall, a road, a fence, a pavement, a tree, and a building.
+An image with four cars, a pavement, a tree, a fence, a building, a wall, a road, and a banner.
+An image with four cars, a banner, a fence, a road, a pavement, a wall, a tree, and a building.
+An image with a tree, a fence, four cars, a building, a road, a wall, a banner, and a pavement.
+An image with a wall, a road, four cars, a pavement, a building, a tree, a banner, and a fence.

@@ -8,3 +8,8 @@ A science lab with a computer and a microscope.
 A science lab with a computer, a lamp, and a chair.
 The image shows a small lab with a desk, a computer, a lamp, and a chair.
 The image shows a laboratory setting with a desk, a computer, a chair, and various pieces of equipment.
+An image with two windows, a floor, a cabinet, a chair, a wall, a light, a table, a keyboard, a backpack, and a cardboard.
+An image with a keyboard, a light, two windows, a wall, a table, a cardboard, a chair, a floor, a cabinet, and a backpack.
+An image with a cabinet, two windows, a cardboard, a chair, a keyboard, a backpack, a table, a wall, a light, and a floor.
+An image with a light, a wall, two windows, a cabinet, a keyboard, a backpack, a floor, a table, a cardboard, and a chair.
+An image with a backpack, two windows, a keyboard, a cardboard, a chair, a wall, a floor, a light, a table, and a cabinet.

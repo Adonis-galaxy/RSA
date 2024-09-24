@@ -8,3 +8,8 @@ The image shows a busy street scene with a red car, a large orange truck, and ot
 A red car is stopped at a traffic light on a street with a large orange truck and other vehicles, while a pedestrian waits to cross the road.
 A red car is driving on a street, passing a large orange truck and a smaller car, with a traffic light visible in the background.
 A red car is stopped at a traffic light on a street with a truck and other vehicles, surrounded by trees and buildings.
+An image with eight traffics, five cars, a sky, a tree, a road, a truck, a pavement, a grass, a building, and a mountain.
+An image with five cars, eight traffics, a tree, a mountain, a grass, a road, a sky, a truck, a pavement, and a building.
+An image with eight traffics, five cars, a grass, a pavement, a sky, a road, a truck, a mountain, a building, and a tree.
+An image with five cars, a road, eight traffics, a mountain, a grass, a building, a truck, a sky, a pavement, and a tree.
+An image with eight traffics, five cars, a road, a pavement, a tree, a mountain, a sky, a building, a grass, and a truck.

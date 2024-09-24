@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street with parked cars, a few pedestrians, and a building in the background, under a clear blue sky.
 The image shows a street scene with a large building on the right, a few cars parked along the street, and trees lining the sidewalk.
 The image captures a quiet residential street with parked cars, a sidewalk, and a building in the background, under a clear blue sky.
+An image with a building, nine cars, two people, a grass, a road, a tree, a sky, and a traffic.
+An image with a tree, two people, a building, a grass, nine cars, a road, a sky, and a traffic.
+An image with nine cars, a building, two people, a grass, a road, a sky, a tree, and a traffic.
+An image with a traffic, nine cars, a tree, a sky, a road, a building, two people, and a grass.
+An image with a tree, nine cars, two people, a sky, a grass, a building, a traffic, and a road.

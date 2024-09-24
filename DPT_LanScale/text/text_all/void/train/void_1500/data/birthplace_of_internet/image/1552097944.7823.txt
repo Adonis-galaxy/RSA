@@ -8,3 +8,8 @@ The image shows a room with a blue and white machine, a desk, a chair, and a cha
 The image shows a room with a green wall, a desk with a chair, a chalkboard, a projector, and a wooden door.
 The image shows a room with a large blue and white machine, a desk with a chair, a chalkboard, and a picture on the wall.
 The image shows a room with a green wall, a desk with a chair, a chalkboard, a projector, and a large screen.
+An image with a floor, a dining, a ceiling, four chairs, a tv, two walls, and a light.
+An image with two walls, a light, four chairs, a ceiling, a tv, a dining, and a floor.
+An image with a tv, four chairs, two walls, a floor, a ceiling, a dining, and a light.
+An image with a floor, a dining, two walls, four chairs, a tv, a light, and a ceiling.
+An image with a ceiling, four chairs, two walls, a tv, a floor, a light, and a dining.

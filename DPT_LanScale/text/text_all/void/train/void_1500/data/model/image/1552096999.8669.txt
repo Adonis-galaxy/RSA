@@ -8,3 +8,8 @@ A model of a building on display.
 The image shows a model of a building, possibly a school, with a person walking in the background.
 The image shows a model of a building, which is smaller than the actual building in the background.
 The image shows a model of a building, possibly a university or a similar institution, with a person walking in the background.
+An image with a building, a tree, a floor, two people, and a table.
+An image with a floor, two people, a table, a building, and a tree.
+An image with a tree, a table, a floor, a building, and two people.
+An image with a table, two people, a tree, a floor, and a building.
+An image with a tree, a table, a building, two people, and a floor.

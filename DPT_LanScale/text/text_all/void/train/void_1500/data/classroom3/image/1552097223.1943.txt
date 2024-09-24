@@ -8,3 +8,8 @@ The image shows a room with two black chairs and a white table.
 The image shows a room with two black chairs facing each other, positioned on a carpeted floor, with a white wall in the background and two electrical outlets mounted on the wall.
 The image shows a room with two black chairs, a white table, and a white wall. The chairs are positioned in the center of the room, and there are two electrical outlets on the wall.
 The image shows a room with two black chairs facing each other, positioned on a carpeted floor, with a white wall in the background and a power outlet on the wall.
+An image with a rug, three chairs, a wall, and a dining.
+An image with three chairs, a wall, a rug, and a dining.
+An image with three chairs, a rug, a dining, and a wall.
+An image with three chairs, a wall, a rug, and a dining.
+An image with a dining, three chairs, a rug, and a wall.

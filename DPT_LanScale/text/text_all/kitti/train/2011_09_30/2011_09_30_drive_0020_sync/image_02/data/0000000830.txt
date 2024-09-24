@@ -8,3 +8,8 @@ The image shows a street scene with a row of houses, a sidewalk, and a road.
 A quiet residential street, lined with trees and parked cars, leading to a row of white buildings under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a bicycle, and a few potted plants. The street is lined with trees and buildings, and there is a large billboard on the sidewalk.
 A quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a building under construction.
+An image with a tree, seven cars, a road, a sky, a pavement, a grass, a house, two potteds, and two bicycles.
+An image with a house, a road, seven cars, two bicycles, a sky, a grass, a pavement, a tree, and two potteds.
+An image with two bicycles, seven cars, two potteds, a road, a house, a sky, a grass, a pavement, and a tree.
+An image with seven cars, two bicycles, a house, a sky, two potteds, a road, a pavement, a grass, and a tree.
+An image with seven cars, a road, two potteds, a grass, two bicycles, a pavement, a house, a tree, and a sky.

@@ -8,3 +8,8 @@ The image shows an empty hallway with a wooden floor and white walls.
 The image captures an empty hallway with a row of doors, a central aisle, and a series of trash cans lined up along the walls.
 The image shows a long, narrow hallway with a wooden floor, white walls, and a row of doors on the right side. There are three large trash cans in the middle of the hallway.
 The image shows an empty hallway with a row of doors, a central aisle, and a series of columns supporting a ceiling with exposed ductwork.
+An image with a paper, a table, a wall, a floor, a ceiling, a door, and a window.
+An image with a paper, a floor, a door, a table, a window, a ceiling, and a wall.
+An image with a door, a ceiling, a wall, a floor, a paper, a window, and a table.
+An image with a table, a ceiling, a door, a window, a floor, a wall, and a paper.
+An image with a window, a floor, a ceiling, a door, a table, a wall, and a paper.

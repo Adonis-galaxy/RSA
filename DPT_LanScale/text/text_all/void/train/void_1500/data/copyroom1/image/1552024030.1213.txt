@@ -8,3 +8,8 @@ A blue trash can with a white liner.
 A blue trash can with a white liner next to a white printer.
 A blue trash can with a white liner sits next to a white printer on a wooden table.
 A blue trash can with a white liner is placed next to a white printer on a wooden table.
+An image with a microwave, a wall, a door, a table, and a floor.
+An image with a wall, a floor, a door, a microwave, and a table.
+An image with a microwave, a floor, a wall, a table, and a door.
+An image with a microwave, a floor, a table, a door, and a wall.
+An image with a door, a microwave, a table, a wall, and a floor.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with a mix of vehicles, trees, and buildings, showcasing the everyday life of a residential area.
 The image shows a wide, tree-lined street with a few cars and trucks, and a billboard on the right side.
 The image depicts a wide, tree-lined street with multiple lanes, a median, and a clear sky.
+An image with a tree, fifteen cars, a sky, a road, three trucks, a bus, a grass, and a building.
+An image with fifteen cars, a road, three trucks, a bus, a tree, a building, a sky, and a grass.
+An image with a tree, three trucks, fifteen cars, a bus, a sky, a grass, a road, and a building.
+An image with fifteen cars, a sky, three trucks, a building, a road, a bus, a grass, and a tree.
+An image with fifteen cars, a sky, a grass, a road, a bus, a tree, three trucks, and a building.

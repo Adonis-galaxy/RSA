@@ -8,3 +8,8 @@ A black chair with a wooden seat.
 An empty black chair with a wooden seat in a room.
 A black chair with a wooden seat.
 The image shows a single black chair with a wooden seat and back, positioned against a wall with a wooden panel and a gray baseboard.
+An image with a floor, a dining, two walls, and two chairs.
+An image with two walls, a dining, two chairs, and a floor.
+An image with two chairs, a dining, two walls, and a floor.
+An image with two walls, two chairs, a floor, and a dining.
+An image with two chairs, a dining, two walls, and a floor.

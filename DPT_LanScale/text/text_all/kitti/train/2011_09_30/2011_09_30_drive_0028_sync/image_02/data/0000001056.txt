@@ -8,3 +8,8 @@ The image shows a street with a car driving down it.
 A car on a tree-lined street, with a white line painted on the road, and a sidewalk on the left side.
 A car is driving down a tree-lined street, with a white line painted on the road.
 A tree-lined street with a car driving down it, surrounded by a sidewalk and a fence.
+An image with six cars, a grass, a wall, a road, a tree, a sky, and a pavement.
+An image with a pavement, six cars, a road, a wall, a sky, a grass, and a tree.
+An image with a sky, a pavement, a road, six cars, a wall, a grass, and a tree.
+An image with six cars, a sky, a road, a tree, a grass, a pavement, and a wall.
+An image with a pavement, a grass, six cars, a tree, a sky, a road, and a wall.

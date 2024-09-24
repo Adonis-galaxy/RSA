@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a well-lit dining room with a table set for six, featuring a blue and white tablecloth, a white table runner, and a candelabra with candles, all under a window with white curtains.
 The image shows a dining room with a large table surrounded by several chairs, a fireplace with candlesticks, and a window with curtains.
 The image shows a well-lit dining room with a table set for six, surrounded by chairs, a fireplace, and a window with curtains.
+An image with eight chairs, a cabinet, two walls, two dinings, a ceiling, a curtain, a door, and a floor.
+An image with eight chairs, a curtain, a floor, two dinings, a cabinet, a ceiling, two walls, and a door.
+An image with two dinings, eight chairs, a ceiling, two walls, a floor, a door, a cabinet, and a curtain.
+An image with two dinings, eight chairs, a cabinet, two walls, a door, a floor, a ceiling, and a curtain.
+An image with two walls, two dinings, eight chairs, a floor, a cabinet, a door, a curtain, and a ceiling.

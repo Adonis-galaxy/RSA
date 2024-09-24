@@ -8,3 +8,8 @@ A yellow container with tissues and a blue container with tissues on a counter.
 A yellow container with blue containers holding white napkins on a counter.
 A yellow and blue basket with tissues and a cup of straws on a counter.
 A yellow tray with napkins and a blue tray with straws and cups on a counter.
+An image with a paper, a cup, a wall, and a table.
+An image with a table, a cup, a paper, and a wall.
+An image with a table, a cup, a wall, and a paper.
+An image with a table, a wall, a paper, and a cup.
+An image with a cup, a paper, a wall, and a table.

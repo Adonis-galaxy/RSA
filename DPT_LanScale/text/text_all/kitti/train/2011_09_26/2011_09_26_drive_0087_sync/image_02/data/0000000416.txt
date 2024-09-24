@@ -8,3 +8,8 @@ A narrow street between two houses.
 A narrow, tree-lined street between white houses, with a car parked at the end.
 A narrow, tree-lined street between two-story houses, with a white fence and a black gate on the left, and a white fence and a black gate on the right.
 A narrow, tree-lined street between two-story houses, with a white fence and a black gate, leading to a dead-end.
+An image with two potteds, a house, a tree, a fence, two cars, a sky, a road, a pavement, and a grass.
+An image with a road, two potteds, a house, a tree, a pavement, a grass, a fence, a sky, and two cars.
+An image with two cars, a fence, a sky, a house, two potteds, a tree, a pavement, a grass, and a road.
+An image with two cars, a grass, a pavement, two potteds, a road, a fence, a tree, a house, and a sky.
+An image with two cars, a road, a house, two potteds, a fence, a grass, a pavement, a sky, and a tree.

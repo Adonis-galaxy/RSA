@@ -8,3 +8,8 @@ A gray couch with a hat on it.
 A gray couch with a hat, a bag, and a magazine on it.
 A gray couch with a black bag, a hat, and a magazine on it.
 A gray couch with a black bag on it, a hat on the armrest, and a magazine on the seat.
+An image with two backpacks, a couch, a rug, a suitcase, and a book.
+An image with a suitcase, two backpacks, a rug, a book, and a couch.
+An image with two backpacks, a rug, a couch, a suitcase, and a book.
+An image with two backpacks, a book, a suitcase, a rug, and a couch.
+An image with two backpacks, a suitcase, a book, a couch, and a rug.

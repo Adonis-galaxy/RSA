@@ -8,3 +8,8 @@ A coffee mug on a table.
 A coffee mug sits next to a box of cereal on a table, with a black coffee pot and a pair of scissors nearby.
 A coffee mug and a box of cereal on a table.
 A coffee maker, a coffee cup, and a box of cereal on a table.
+An image with a cup, a cabinet, a dining, a wall, a cardboard, a paper, a chair, and a floor.
+An image with a dining, a cup, a cardboard, a floor, a wall, a cabinet, a chair, and a paper.
+An image with a floor, a wall, a dining, a cardboard, a cup, a cabinet, a paper, and a chair.
+An image with a floor, a wall, a dining, a chair, a cabinet, a cardboard, a paper, and a cup.
+An image with a paper, a cardboard, a cabinet, a cup, a dining, a floor, a wall, and a chair.

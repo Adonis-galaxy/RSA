@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, shaded street lined with lush greenery and white buildings, creating a serene and secluded atmosphere.
 A narrow, tree-lined street between two buildings, with a sidewalk on one side and a fence on the other.
 A narrow, tree-lined street with a sidewalk, bordered by a low wall and a building on one side, and a hedge on the other.
+An image with a tree, a sky, a road, a fence, a pavement, a car, a wall, and a flower.
+An image with a sky, a fence, a car, a tree, a wall, a flower, a pavement, and a road.
+An image with a car, a sky, a tree, a road, a flower, a pavement, a fence, and a wall.
+An image with a sky, a wall, a tree, a pavement, a road, a fence, a car, and a flower.
+An image with a tree, a wall, a flower, a sky, a pavement, a fence, a road, and a car.

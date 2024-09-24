@@ -8,3 +8,8 @@ A framed picture on a wall.
 The image captures a simple, uncluttered living space with a focus on a framed photograph and a solitary glass on a table.
 The image shows a small room with a framed picture on the wall, a table with a glass on it, and a bed with a pillow.
 The image shows a room with a framed picture on the wall, a table with a glass on it, and a bed with a pillow.
+An image with a dining, a couch, a cup, and a wall.
+An image with a wall, a dining, a couch, and a cup.
+An image with a dining, a couch, a wall, and a cup.
+An image with a wall, a cup, a couch, and a dining.
+An image with a couch, a dining, a wall, and a cup.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with lush greenery and neatly maintained sidewalks, leading to a quaint white house with a charming garden.
 The image shows a narrow, tree-lined street with a sidewalk, leading to a row of houses.
 A narrow, tree-lined street with a sidewalk and a building on the right side, leading to a residential area.
+An image with three cars, a fence, a roof, a tree, a road, a pavement, a house, and a sky.
+An image with three cars, a pavement, a fence, a house, a sky, a roof, a road, and a tree.
+An image with a road, three cars, a roof, a tree, a house, a sky, a pavement, and a fence.
+An image with three cars, a pavement, a tree, a roof, a road, a sky, a house, and a fence.
+An image with three cars, a house, a sky, a tree, a roof, a pavement, a fence, and a road.

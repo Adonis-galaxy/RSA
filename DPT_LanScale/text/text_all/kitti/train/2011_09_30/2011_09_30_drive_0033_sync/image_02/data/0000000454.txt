@@ -8,3 +8,8 @@ A black car parked on a street.
 A quiet residential street, with a parked car on the sidewalk and a lone pedestrian, under a clear blue sky.
 A small car is parked on a narrow street between two houses, with a larger car parked further down the street.
 A narrow, tree-lined street in a residential area, with parked cars and a single moving vehicle, leading to a row of houses.
+An image with a road, four cars, a pavement, a roof, a potted, a house, a sky, and a tree.
+An image with a potted, four cars, a tree, a pavement, a house, a roof, a road, and a sky.
+An image with a potted, a road, a house, four cars, a roof, a tree, a pavement, and a sky.
+An image with a house, four cars, a roof, a sky, a tree, a road, a pavement, and a potted.
+An image with a roof, a tree, a house, four cars, a sky, a road, a potted, and a pavement.

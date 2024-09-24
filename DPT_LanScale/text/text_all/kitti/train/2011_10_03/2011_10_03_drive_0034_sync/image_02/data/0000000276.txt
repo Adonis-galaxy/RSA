@@ -8,3 +8,8 @@ The image shows a road sign on a pole.
 The image captures a serene, tree-lined road with a blue and red traffic sign indicating a right turn ahead.
 The image shows a narrow, winding road with a sign indicating a pedestrian crossing. The road is surrounded by lush greenery, and the sign is relatively small compared to the surrounding environment.
 A winding road with a blue and red sign on the right side, surrounded by lush greenery and trees.
+An image with a pavement, a road, a stop, a grass, and a tree.
+An image with a grass, a road, a tree, a stop, and a pavement.
+An image with a pavement, a grass, a tree, a stop, and a road.
+An image with a grass, a pavement, a tree, a road, and a stop.
+An image with a grass, a road, a pavement, a tree, and a stop.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and buildings.
 The image captures a typical urban street scene with parked cars, apartment buildings, and a clear blue sky.
 The image shows a narrow street lined with parked cars, apartment buildings, and a red and blue sign.
 A narrow street lined with parked cars and buildings, with a no-turn sign at the corner.
+An image with seven cars, a tree, two people, a grass, a building, a stop, a road, and a pavement.
+An image with a pavement, seven cars, two people, a grass, a road, a tree, a stop, and a building.
+An image with seven cars, a building, a grass, two people, a tree, a pavement, a stop, and a road.
+An image with seven cars, two people, a pavement, a road, a grass, a tree, a stop, and a building.
+An image with a building, a stop, seven cars, a tree, a pavement, a grass, two people, and a road.

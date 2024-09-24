@@ -8,3 +8,8 @@ The image shows a white wall with a door and a brown object in the corner.
 The image shows a white door with a black frame, a metal elevator button, and a brown mailbox.
 The image shows a white wall with a closed door, a brown trash can, and a whiteboard with writing on it.
 The image shows a white wall with a closed door, a metal elevator button, and a wooden bench in the corner.
+An image with a refrigerator, a chair, a floor, and a wall.
+An image with a refrigerator, a wall, a chair, and a floor.
+An image with a floor, a wall, a chair, and a refrigerator.
+An image with a refrigerator, a wall, a chair, and a floor.
+An image with a refrigerator, a floor, a wall, and a chair.

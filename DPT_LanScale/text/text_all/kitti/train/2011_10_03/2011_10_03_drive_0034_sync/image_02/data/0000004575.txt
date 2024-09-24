@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A narrow, tree-lined street with a parked car and a truck, leading to a brick wall and a red and blue sign.
 A small yellow car is parked on the side of a narrow street, with a brick wall and trees on one side, and a blue sky above.
 A narrow, tree-lined street with a parked car, a yellow vehicle, and a red and blue sign, leading to a brick wall and a residential area.
+An image with a road, a wall, two cars, a stop, a pavement, a sky, a tree, and a grass.
+An image with a wall, a grass, a tree, a stop, two cars, a sky, a road, and a pavement.
+An image with two cars, a stop, a sky, a road, a tree, a grass, a pavement, and a wall.
+An image with a wall, a stop, a tree, a pavement, two cars, a sky, a road, and a grass.
+An image with a tree, two cars, a stop, a pavement, a road, a wall, a grass, and a sky.

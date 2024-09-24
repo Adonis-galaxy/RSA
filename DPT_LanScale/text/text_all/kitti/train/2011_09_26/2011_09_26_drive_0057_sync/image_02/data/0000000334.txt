@@ -8,3 +8,8 @@ The image is a photograph of a street intersection.
 The image captures a moment of urban life, with a red car driving down a street lined with trees and buildings, under a clear blue sky.
 The image shows a wide, multi-lane road with a red car in the middle lane, surrounded by various vehicles and traffic lights, with a clear sky and greenery in the background.
 The image captures a wide, multi-lane road with a red car in the center, surrounded by a variety of vehicles and traffic lights, leading to a green field and a distant mountain range.
+An image with six traffics, thirteen cars, a house, a grass, a sky, a mountain, a tree, a road, and a fence.
+An image with six traffics, a house, thirteen cars, a grass, a road, a mountain, a sky, a tree, and a fence.
+An image with thirteen cars, six traffics, a mountain, a sky, a tree, a road, a grass, a house, and a fence.
+An image with a mountain, thirteen cars, six traffics, a road, a sky, a fence, a grass, a tree, and a house.
+An image with six traffics, a grass, a mountain, thirteen cars, a sky, a road, a tree, a fence, and a house.

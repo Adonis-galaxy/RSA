@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street lined with parked cars, flanked by white buildings, creating a sense of urban congestion.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars, with buildings on both sides, and a clear sky overhead.
+An image with seven cars, a road, a pavement, a truck, a house, a tree, and a wall.
+An image with a road, seven cars, a truck, a wall, a tree, a house, and a pavement.
+An image with seven cars, a road, a pavement, a tree, a wall, a house, and a truck.
+An image with a pavement, a tree, a road, seven cars, a truck, a house, and a wall.
+An image with seven cars, a wall, a house, a road, a tree, a pavement, and a truck.

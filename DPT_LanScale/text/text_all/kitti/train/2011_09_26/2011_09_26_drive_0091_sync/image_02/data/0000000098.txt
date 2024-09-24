@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street scene, with a white van driving down the road, a bicyclist riding alongside, pedestrians walking on the sidewalk, and a traffic light controlling the flow of vehicles and cyclists.
 A bustling city street with a white van, bicycles, pedestrians, and a traffic light.
 A bustling European city street with a tram, cyclists, pedestrians, and shops lining the cobblestone road.
+An image with a tree, a grass, a traffic, a bench, a sky, a railroad, four bicycles, eight people, two cars, a truck, a building, and a pavement.
+An image with two cars, eight people, a railroad, a pavement, a sky, a grass, a tree, four bicycles, a truck, a bench, a traffic, and a building.
+An image with eight people, a truck, two cars, a bench, a traffic, four bicycles, a railroad, a pavement, a sky, a grass, a tree, and a building.
+An image with a grass, a truck, eight people, a building, two cars, four bicycles, a traffic, a pavement, a railroad, a tree, a sky, and a bench.
+An image with eight people, a sky, a traffic, a grass, two cars, a tree, four bicycles, a pavement, a building, a truck, a bench, and a railroad.

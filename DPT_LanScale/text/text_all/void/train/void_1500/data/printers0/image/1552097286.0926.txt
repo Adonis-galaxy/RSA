@@ -8,3 +8,8 @@ Whiteboard with writing on it.
 A whiteboard with writing on it, mounted on a wall in a room with chairs.
 A whiteboard with writing on it, mounted on a wall, in a room with a blue trash can and a black chair.
 The image shows a whiteboard with writing on it, mounted on a wall in a room with a blue trash can and a black chair.
+An image with a wall, two chairs, a ceiling, and a bowl.
+An image with a wall, two chairs, a bowl, and a ceiling.
+An image with a wall, a ceiling, two chairs, and a bowl.
+An image with two chairs, a wall, a bowl, and a ceiling.
+An image with two chairs, a wall, a bowl, and a ceiling.

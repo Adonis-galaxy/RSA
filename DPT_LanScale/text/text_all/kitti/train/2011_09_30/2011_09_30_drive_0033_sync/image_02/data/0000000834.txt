@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, with a parked car on the left, a solitary tree on the right, and a tranquil sidewalk in the middle, all under a clear blue sky.
 The image shows a narrow street with parked cars, a few pedestrians, and a trash can, all set against a backdrop of residential buildings and trees.
 The image depicts a residential street with a curved layout, featuring a mix of houses, trees, and parked cars.
+An image with a house, a sky, two cars, a road, a bench, a pavement, a tree, a stairs, and a potted.
+An image with a sky, two cars, a potted, a house, a bench, a tree, a stairs, a pavement, and a road.
+An image with a potted, a sky, a pavement, a bench, a road, a tree, a house, two cars, and a stairs.
+An image with a house, a pavement, a potted, a sky, a road, two cars, a bench, a tree, and a stairs.
+An image with a tree, a house, a pavement, two cars, a stairs, a bench, a sky, a road, and a potted.

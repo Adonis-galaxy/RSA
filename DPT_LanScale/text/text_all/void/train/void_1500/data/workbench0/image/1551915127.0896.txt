@@ -8,3 +8,8 @@ A computer desk with a chair and a computer.
 A computer desk with a chair, a filing cabinet, and a pair of shoes on the floor.
 A computer desk with a chair, a filing cabinet, a computer monitor, and a pair of shoes on the floor.
 The image shows an office cubicle with a desk, chair, and a filing cabinet, with a pair of shoes placed on the floor.
+An image with a floor, a window, two tvs, two chairs, a mouse, a table, a cabinet, a wall, and a paper.
+An image with a window, a paper, a mouse, two tvs, a wall, a table, two chairs, a floor, and a cabinet.
+An image with a window, a mouse, two tvs, a wall, two chairs, a floor, a paper, a table, and a cabinet.
+An image with a cabinet, a window, a paper, a floor, a table, two chairs, two tvs, a mouse, and a wall.
+An image with a mouse, a floor, a wall, a window, a table, a paper, two tvs, two chairs, and a cabinet.

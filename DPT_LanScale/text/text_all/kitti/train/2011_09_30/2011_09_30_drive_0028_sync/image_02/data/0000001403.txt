@@ -8,3 +8,8 @@ The image shows a street with parked cars and a bicycle.
 A quiet residential street with parked cars and a bicycle, shaded by trees and buildings.
 The image shows a tree-lined street with a few cars parked on the side, a bicycle, and a truck, all under a clear blue sky.
 A tree-lined street with parked cars and a bicycle, leading to a row of buildings with balconies and windows.
+An image with three cars, a road, a tree, a truck, a grass, a house, and a sky.
+An image with a grass, three cars, a house, a sky, a road, a truck, and a tree.
+An image with a truck, three cars, a house, a grass, a road, a tree, and a sky.
+An image with a sky, three cars, a tree, a grass, a road, a truck, and a house.
+An image with a grass, a tree, a house, a sky, a road, three cars, and a truck.

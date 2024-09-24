@@ -8,3 +8,8 @@ A white truck parked on a street.
 A white truck parked on a narrow street between two-story buildings, with a construction site in the background.
 A large white truck is parked on a narrow street between two-story buildings, with a construction site visible in the background.
 A narrow street in a residential area with a white truck parked on the side, a construction site in the background, and a building under renovation.
+An image with a road, a potted, a pavement, a car, a person, a truck, a building, a tree, a window, a clock, a wall, and a door.
+An image with a pavement, a clock, a tree, a potted, a person, a window, a building, a wall, a truck, a door, a road, and a car.
+An image with a pavement, a window, a tree, a building, a door, a person, a car, a wall, a truck, a road, a potted, and a clock.
+An image with a car, a door, a road, a window, a person, a building, a wall, a potted, a tree, a truck, a clock, and a pavement.
+An image with a window, a person, a door, a wall, a potted, a road, a truck, a car, a clock, a building, a pavement, and a tree.

@@ -8,3 +8,8 @@ The image shows a white van parked on a street.
 A white van parked on a narrow street, surrounded by lush greenery and brick buildings, with a clear blue sky overhead.
 A white van is parked on the side of a narrow street lined with brick buildings and trees, with a blue sky overhead.
 A narrow, tree-lined street with parked cars and a white van, leading to a brick building with a garage door.
+An image with a sky, a wall, a tree, a door, a car, a truck, a pavement, a grass, and a road.
+An image with a pavement, a door, a tree, a sky, a car, a grass, a road, a truck, and a wall.
+An image with a wall, a road, a grass, a truck, a door, a pavement, a car, a tree, and a sky.
+An image with a truck, a door, a tree, a wall, a pavement, a grass, a sky, a car, and a road.
+An image with a door, a wall, a grass, a sky, a pavement, a tree, a car, a truck, and a road.

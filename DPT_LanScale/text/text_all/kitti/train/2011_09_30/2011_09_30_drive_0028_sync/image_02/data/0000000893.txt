@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a truck parked on the grass, under the shade of tall trees.
 The image shows a narrow street lined with parked cars and a truck, with a large building on one side and trees on the other, and the sun is shining brightly.
 A narrow street lined with parked cars and a truck, with apartment buildings on either side, and a canopy of trees overhead.
+An image with seven cars, two trucks, a tree, a house, a road, a fence, a person, a pavement, a dirt, and a sky.
+An image with a house, a dirt, seven cars, a tree, a pavement, a fence, a sky, two trucks, a person, and a road.
+An image with two trucks, seven cars, a road, a fence, a dirt, a tree, a house, a sky, a person, and a pavement.
+An image with a person, a fence, two trucks, a sky, seven cars, a tree, a road, a house, a dirt, and a pavement.
+An image with a dirt, a pavement, a house, seven cars, a road, a sky, a tree, a fence, two trucks, and a person.

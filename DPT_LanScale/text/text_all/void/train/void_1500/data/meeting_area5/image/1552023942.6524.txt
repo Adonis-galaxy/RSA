@@ -8,3 +8,8 @@ The image shows a white table in a classroom setting.
 The image shows an empty classroom with white tables and chairs.
 The image shows a white table with a chair in front of it, both in a room with other tables and chairs.
 The image shows a classroom setting with rows of desks and chairs, all in white, and the desks are arranged in a way that they face the front of the room.
+An image with six chairs, three dinings, a window, a wall, and a floor.
+An image with three dinings, six chairs, a wall, a floor, and a window.
+An image with a floor, six chairs, three dinings, a wall, and a window.
+An image with six chairs, a floor, a window, three dinings, and a wall.
+An image with six chairs, three dinings, a window, a floor, and a wall.

@@ -8,3 +8,8 @@ The image shows a highway with a few cars driving on it.
 The image captures a moment of tranquility on a highway, with a few cars gently cruising under a clear blue sky, surrounded by lush greenery.
 A car is driving on a highway with a guardrail, passing under a bridge with trees on both sides.
 A long, straight highway with a few cars, a guardrail, and trees on both sides, under a clear blue sky.
+An image with six cars, a road, a tree, a fence, and a sky.
+An image with six cars, a sky, a tree, a fence, and a road.
+An image with a sky, a fence, six cars, a tree, and a road.
+An image with a tree, six cars, a fence, a road, and a sky.
+An image with a sky, six cars, a fence, a road, and a tree.

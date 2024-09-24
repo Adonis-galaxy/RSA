@@ -8,3 +8,8 @@ A computer lab with multiple desks and chairs.
 A computer lab with multiple desks, each equipped with a monitor, keyboard, and mouse.
 A large wooden desk with two black computer monitors, two black keyboards, two black mice, and two black chairs.
 The image shows a long wooden table with multiple computer monitors, keyboards, and mice, along with several black chairs with the word "BEANET" on them.
+An image with three tvs, three mice, three chairs, three keyboards, a rug, a laptop, a wall, a cell, and a table.
+An image with three mice, a cell, three tvs, a wall, three keyboards, a rug, three chairs, a laptop, and a table.
+An image with a rug, three tvs, three mice, three keyboards, a laptop, a cell, three chairs, a wall, and a table.
+An image with a rug, three mice, three tvs, a laptop, three keyboards, three chairs, a table, a wall, and a cell.
+An image with three mice, a wall, three tvs, a table, a rug, three chairs, a cell, three keyboards, and a laptop.

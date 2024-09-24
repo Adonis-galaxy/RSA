@@ -8,3 +8,8 @@ A tree-lined road.
 A tree-lined road with a bridge overpassing it, where a car is parked on the sidewalk and pedestrians are walking on the sidewalk.
 A tree-lined road with a bridge overpassing it, cars driving on the road, and pedestrians walking on the sidewalk.
 A tree-lined road with a bridge overpassing it, leading to a clearing where cars are parked.
+An image with a fence, two people, a pavement, two cars, a tree, a road, and a wall.
+An image with a tree, two cars, two people, a fence, a road, a wall, and a pavement.
+An image with a wall, two cars, a tree, a road, a fence, a pavement, and two people.
+An image with two cars, two people, a tree, a road, a fence, a wall, and a pavement.
+An image with two cars, two people, a fence, a road, a wall, a pavement, and a tree.

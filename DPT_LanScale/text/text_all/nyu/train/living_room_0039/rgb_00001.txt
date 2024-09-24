@@ -8,3 +8,8 @@ A kitchen with a bar area.
 The image captures a modern kitchen with a bar-height counter, featuring a brick wall, a white ceiling, wooden floors, and a beige sofa.
 The image shows a room with a large brick wall, a white countertop, a white couch, and a kitchen area with a countertop and a stove.
 The image shows a modern kitchen with a bar-height counter, a brick wall, a white ceiling, wooden floors, and a couch.
+An image with three walls, a couch, a wine, a floor, a ceiling, a window, a door, and a counter.
+An image with a ceiling, a floor, three walls, a couch, a door, a window, a counter, and a wine.
+An image with a door, a wine, three walls, a ceiling, a counter, a floor, a window, and a couch.
+An image with a door, three walls, a ceiling, a window, a wine, a counter, a couch, and a floor.
+An image with a door, a wine, three walls, a counter, a window, a floor, a couch, and a ceiling.

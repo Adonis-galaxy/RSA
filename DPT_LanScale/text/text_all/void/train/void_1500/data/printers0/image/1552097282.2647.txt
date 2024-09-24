@@ -8,3 +8,8 @@ The image shows a row of three computer printers on a table.
 The image shows a row of three printers on a table, with a blue trash can next to it.
 The image shows a room with a table holding three computer printers and a blue trash can.
 The image shows a room with a table holding three printers and a blue trash can in the corner.
+An image with a paper, a wall, a floor, a table, and a tv.
+An image with a floor, a paper, a wall, a tv, and a table.
+An image with a tv, a paper, a floor, a table, and a wall.
+An image with a paper, a floor, a tv, a wall, and a table.
+An image with a table, a paper, a tv, a wall, and a floor.

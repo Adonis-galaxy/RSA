@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a quiet residential street, lined with neatly trimmed hedges and trees, leading to a row of houses under a clear sky.
 The image shows a narrow street between two-story buildings, with a curved sidewalk, a car parked on the side, and a stop sign at the intersection.
 A narrow, tree-lined street between two-story buildings, with a curved sidewalk and a stop sign at the intersection.
+An image with a road, five cars, a stop, a tree, a pavement, a sky, a house, and a truck.
+An image with five cars, a road, a pavement, a sky, a truck, a tree, a stop, and a house.
+An image with a house, five cars, a tree, a truck, a sky, a stop, a road, and a pavement.
+An image with a sky, a truck, a road, five cars, a stop, a pavement, a tree, and a house.
+An image with a pavement, a tree, a house, a truck, five cars, a stop, a road, and a sky.

@@ -8,3 +8,8 @@ A man sitting at a desk using a laptop.
 A man is sitting at a desk, working on a laptop, with a trash can nearby.
 A man is sitting at a desk using a laptop, with a trash can next to him.
 A man is sitting at a desk in an office, working on a laptop, with a trash can nearby.
+An image with a laptop, a person, a shelf, a floor, and three chairs.
+An image with a floor, a person, three chairs, a laptop, and a shelf.
+An image with three chairs, a floor, a person, a laptop, and a shelf.
+An image with three chairs, a shelf, a person, a laptop, and a floor.
+An image with three chairs, a laptop, a shelf, a person, and a floor.

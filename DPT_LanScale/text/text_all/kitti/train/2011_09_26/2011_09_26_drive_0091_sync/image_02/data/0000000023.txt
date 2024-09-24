@@ -8,3 +8,8 @@ The image shows a street scene with a train track in the middle of a city street
 The image captures a lively street scene in a European city, with a focus on the old tram tracks that run down the middle of the street, surrounded by historic buildings and lined with people walking and bicycles parked.
 The image depicts a narrow street lined with buildings, a train track, and pedestrians, with a large building on the right side.
 A narrow street with a train track running through it, lined with buildings and pedestrians, leading to a commercial area with shops and restaurants.
+An image with eight people, a bus, a building, two bicycles, a tree, a pavement, a railroad, and a sky.
+An image with a building, two bicycles, a bus, eight people, a sky, a railroad, a pavement, and a tree.
+An image with eight people, a building, two bicycles, a bus, a pavement, a sky, a tree, and a railroad.
+An image with a bus, eight people, a sky, a railroad, a pavement, a tree, two bicycles, and a building.
+An image with a railroad, eight people, two bicycles, a building, a tree, a bus, a sky, and a pavement.

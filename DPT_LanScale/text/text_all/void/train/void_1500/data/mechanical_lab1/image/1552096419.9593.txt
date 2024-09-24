@@ -8,3 +8,8 @@ The image shows a blurry scene with a blue table, a gray metal object, and a yel
 The image shows a blurry scene with a blue table, a gray metal object, and a yellow sticker on the metal object.
 The image shows a blurry scene with a blue table, a gray metal object, and a blue machine, all set against an orange background.
 The image shows a blurry view of a room with a blue table, a gray metal object, and a blue machine, with a yellow sticker on the metal object.
+An image with a dining, a remote, a floor, a wall, a mouse, a table, and a window.
+An image with a remote, a floor, a wall, a mouse, a table, a window, and a dining.
+An image with a mouse, a wall, a dining, a table, a floor, a window, and a remote.
+An image with a mouse, a window, a floor, a dining, a wall, a remote, and a table.
+An image with a mouse, a dining, a wall, a floor, a window, a table, and a remote.

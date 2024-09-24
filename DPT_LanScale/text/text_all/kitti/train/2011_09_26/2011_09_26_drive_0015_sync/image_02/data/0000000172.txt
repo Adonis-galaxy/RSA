@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a tranquil suburban street scene, with a car driving down the road, passing under power lines and a traffic light, and surrounded by lush greenery and residential buildings.
 A car is driving down a street with a train track on the side, surrounded by trees and buildings.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and a train track running parallel to the road. There are traffic lights and signs, and a few cars are visible on the road.
+An image with nine cars, a wall, three traffics, three people, a grass, a road, a tree, a stop, a house, and a fence.
+An image with a house, three traffics, nine cars, a tree, a road, a fence, three people, a grass, a stop, and a wall.
+An image with a wall, a road, a fence, nine cars, three people, three traffics, a stop, a tree, a grass, and a house.
+An image with a tree, nine cars, three people, a fence, a house, a stop, a grass, three traffics, a road, and a wall.
+An image with a fence, a grass, nine cars, three traffics, a wall, a house, three people, a road, a tree, and a stop.

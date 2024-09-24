@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a trash can, and a white struct
 The image captures a quiet residential street with parked cars, a pedestrian crossing, and a public trash bin, all under a clear blue sky.
 The image shows a street scene with a large white trash can, a few parked cars, and a white building with a blue sign.
 The image depicts a residential street with parked cars, a sidewalk, and a white public toilet situated on the corner of a street intersection.
+An image with a road, a refrigerator, seven cars, a sky, a truck, a pavement, a tree, a grass, a house, and a person.
+An image with a truck, seven cars, a refrigerator, a person, a sky, a road, a grass, a pavement, a house, and a tree.
+An image with seven cars, a grass, a person, a tree, a road, a house, a pavement, a truck, a sky, and a refrigerator.
+An image with seven cars, a tree, a sky, a road, a person, a truck, a grass, a pavement, a refrigerator, and a house.
+An image with seven cars, a pavement, a road, a house, a sky, a person, a grass, a truck, a tree, and a refrigerator.

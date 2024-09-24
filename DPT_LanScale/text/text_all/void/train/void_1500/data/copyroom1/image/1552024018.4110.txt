@@ -8,3 +8,8 @@ A blue trash can next to a printer.
 A blue trash can is placed next to a white printer.
 A blue and white printer and a blue trash can are sitting on a table.
 A blue and white printer is sitting on a table next to a blue trash can.
+An image with a floor, a door, a table, and a wall.
+An image with a wall, a door, a table, and a floor.
+An image with a door, a wall, a table, and a floor.
+An image with a door, a floor, a table, and a wall.
+An image with a door, a table, a floor, and a wall.

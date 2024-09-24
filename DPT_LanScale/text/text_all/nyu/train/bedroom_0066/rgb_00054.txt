@@ -8,3 +8,8 @@ A bed with a wooden headboard in a bedroom.
 The image captures a cozy bedroom scene with a bed, a nightstand, and a door, all set against a vibrant green wall.
 The image shows a small bedroom with a large bed, a green wall, a door, and a nightstand.
 The image shows a bedroom with a bed, a nightstand, a lamp, a door, and a green wall.
+An image with a wall, a door, a floor, a light, a table, and a bed.
+An image with a wall, a table, a light, a bed, a floor, and a door.
+An image with a floor, a door, a light, a bed, a wall, and a table.
+An image with a wall, a bed, a table, a door, a floor, and a light.
+An image with a table, a bed, a light, a door, a wall, and a floor.

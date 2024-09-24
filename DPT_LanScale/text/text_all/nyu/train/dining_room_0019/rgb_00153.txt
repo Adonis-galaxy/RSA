@@ -8,3 +8,8 @@ A view of the room.
 The image captures a well-lit, modern living room with a view of an outdoor patio through large windows, featuring a comfortable seating area and a piano.
 The image shows a room with a large window, a piano, a chair, a lamp, and a vase.
 The image shows a spacious, well-lit living room with a curved floor plan, featuring a large window, a piano, a dining table, and a comfortable seating area.
+An image with a ceiling, three chairs, two walls, a handbag, a door, a floor, a vase, and a table.
+An image with a door, a ceiling, two walls, three chairs, a vase, a table, a handbag, and a floor.
+An image with three chairs, two walls, a vase, a handbag, a table, a door, a ceiling, and a floor.
+An image with three chairs, a vase, two walls, a ceiling, a handbag, a door, a table, and a floor.
+An image with a door, a vase, a floor, a handbag, two walls, a ceiling, a table, and three chairs.

@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses on both sides.
 A quiet residential street, lined with neatly trimmed hedges and trees, leading to a row of houses under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a road, a house, five cars, a stairs, a sky, a fence, a pavement, and a tree.
+An image with five cars, a sky, a house, a tree, a road, a stairs, a pavement, and a fence.
+An image with five cars, a pavement, a tree, a fence, a stairs, a road, a house, and a sky.
+An image with a sky, a pavement, five cars, a stairs, a road, a house, a tree, and a fence.
+An image with a house, five cars, a stairs, a sky, a road, a tree, a fence, and a pavement.

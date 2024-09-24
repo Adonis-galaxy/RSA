@@ -8,3 +8,8 @@ The image is a photograph of a narrow, tree-lined street in a residential area.
 The image captures a quiet residential street, lined with houses and trees, where the sun casts long shadows and the atmosphere is serene.
 The image shows a narrow, tree-lined street between two-story houses, with parked cars and a few potted plants visible.
 A narrow, tree-lined street between two-story houses, with parked cars and a paved sidewalk.
+An image with two cars, a grass, a fence, a sky, a tree, a house, and a pavement.
+An image with a grass, two cars, a pavement, a tree, a sky, a house, and a fence.
+An image with two cars, a pavement, a grass, a tree, a sky, a house, and a fence.
+An image with a tree, a house, a grass, two cars, a fence, a pavement, and a sky.
+An image with a grass, two cars, a pavement, a sky, a fence, a house, and a tree.

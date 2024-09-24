@@ -8,3 +8,8 @@ White chairs with silver legs around a white table.
 A white table with three chairs, one of which has a sign on it.
 The image shows a white table with three chairs, each with four wheels, placed on a gray carpeted floor.
 The image shows a white table with three chairs, all on a gray carpeted floor.
+An image with three chairs, a window, a wall, a dining, a floor, and a curtain.
+An image with a floor, three chairs, a window, a wall, a curtain, and a dining.
+An image with three chairs, a dining, a floor, a curtain, a wall, and a window.
+An image with three chairs, a dining, a floor, a wall, a window, and a curtain.
+An image with a wall, a window, three chairs, a curtain, a dining, and a floor.

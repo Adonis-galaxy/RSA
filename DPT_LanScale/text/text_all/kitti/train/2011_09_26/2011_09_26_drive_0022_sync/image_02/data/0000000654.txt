@@ -8,3 +8,8 @@ A black car parked on the side of a road.
 A small black car is parked on the side of a tree-lined street, with a person walking in the background.
 A small black car is parked on the side of a narrow street, with a person walking in the background.
 A black Mini Cooper is parked on the side of a tree-lined street, with a pedestrian walking on the sidewalk.
+An image with a pavement, two cars, a tree, a building, a road, a sky, two people, a dog, and a grass.
+An image with a tree, a sky, a building, a pavement, a grass, two cars, a dog, two people, and a road.
+An image with a tree, two cars, two people, a pavement, a building, a road, a grass, a dog, and a sky.
+An image with a dog, two cars, two people, a sky, a tree, a grass, a pavement, a building, and a road.
+An image with two people, a road, a dog, a building, a tree, two cars, a grass, a pavement, and a sky.

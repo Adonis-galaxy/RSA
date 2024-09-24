@@ -8,3 +8,8 @@ A red chair in front of a desk with two computer monitors.
 A red chair in front of a desk with two computer monitors, a mouse, and a coffee cup.
 The image shows a small office space with a desk, two computer monitors, a red chair, a brick wall, and a white wall.
 A red chair is positioned in front of a desk with two computer monitors, a keyboard, and a mouse, all situated against a brick wall.
+An image with two tvs, a mouse, two walls, a table, a keyboard, a chair, a cup, and a floor.
+An image with a mouse, two tvs, a chair, a cup, a keyboard, two walls, a floor, and a table.
+An image with a cup, a mouse, a table, two walls, two tvs, a keyboard, a floor, and a chair.
+An image with two walls, two tvs, a chair, a mouse, a cup, a keyboard, a table, and a floor.
+An image with a table, a keyboard, a chair, two tvs, a cup, a mouse, a floor, and two walls.

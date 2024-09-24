@@ -8,3 +8,8 @@ A model of a building on display.
 The image shows a model of a building, possibly a school, with a person walking in the background.
 The image shows a model of a building, which is placed on a wooden stand, and it is located in a room with a tiled floor.
 The image shows a model of a university campus with buildings and a road, displayed in a glass case on a wooden stand.
+An image with a tree, a building, two people, and a floor.
+An image with a building, a floor, two people, and a tree.
+An image with two people, a floor, a tree, and a building.
+An image with a floor, a building, two people, and a tree.
+An image with a tree, a building, two people, and a floor.

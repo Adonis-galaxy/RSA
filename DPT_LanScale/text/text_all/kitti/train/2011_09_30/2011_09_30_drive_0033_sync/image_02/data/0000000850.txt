@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, with a parked car, a few pedestrians, and a bench, under a clear sky.
 The image shows a residential street with a few parked cars, a sidewalk, and a building with a white facade and a metal railing. The street is lined with trees and bushes, and the sky is clear.
 A quiet residential street with parked cars, a curved driveway, and a white building with a balcony.
+An image with four cars, a bench, a grass, a tree, a road, a wall, and a sky.
+An image with a grass, a tree, four cars, a sky, a wall, a bench, and a road.
+An image with a road, four cars, a tree, a wall, a bench, a sky, and a grass.
+An image with a sky, a bench, four cars, a road, a wall, a tree, and a grass.
+An image with a tree, four cars, a sky, a road, a grass, a bench, and a wall.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a yellow car driving 
 A narrow street in a residential area, with parked cars, a yellow car, a bicycle, and a child on a bicycle, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and a few pedestrians, including a child on a bicycle, with buildings on both sides.
 A narrow street in a residential area with parked cars, a yellow car, a bicycle, and a child on a bicycle.
+An image with ten cars, a wall, a fence, a tree, a bicycle, a house, a road, a person, and a pavement.
+An image with ten cars, a person, a house, a tree, a road, a pavement, a fence, a wall, and a bicycle.
+An image with ten cars, a road, a pavement, a bicycle, a wall, a house, a fence, a tree, and a person.
+An image with a person, ten cars, a wall, a bicycle, a fence, a house, a road, a pavement, and a tree.
+An image with ten cars, a road, a bicycle, a person, a pavement, a tree, a fence, a house, and a wall.

@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image shows a bedroom with two beds, one of which is unmade with clothes scattered on it, and a window with daylight coming in.
 The image shows a small, messy bedroom with two beds, one of which is partially visible, and a desk with a lamp and a book on it.
 The image shows a neatly made bed in a bedroom with a wooden headboard and footboard, a blue comforter, and a window with daylight coming in.
+An image with a vase, a rug, a table, a window, a bed, and a wall.
+An image with a bed, a vase, a table, a window, a wall, and a rug.
+An image with a bed, a wall, a table, a vase, a rug, and a window.
+An image with a vase, a wall, a rug, a table, a window, and a bed.
+An image with a rug, a bed, a vase, a table, a window, and a wall.

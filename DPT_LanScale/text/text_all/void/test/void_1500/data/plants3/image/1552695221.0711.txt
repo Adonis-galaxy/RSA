@@ -8,3 +8,8 @@ The image shows a wooden table with a metal frame and a black top, accompanied b
 The image shows a set of tables and chairs on a wooden deck, with a fence in the background.
 The image shows a wooden deck with two large square tables and two chairs, one of which is a wicker chair. The tables are empty and appear to be dirty.
 The image shows a wooden deck with two square tables and two chairs, one of which is a wicker chair. The tables are placed side by side, and the chairs are positioned around them.
+An image with three dinings, a floor, a wall, a chair, and a fence.
+An image with three dinings, a wall, a chair, a fence, and a floor.
+An image with three dinings, a fence, a chair, a floor, and a wall.
+An image with a wall, three dinings, a floor, a fence, and a chair.
+An image with a chair, three dinings, a fence, a wall, and a floor.

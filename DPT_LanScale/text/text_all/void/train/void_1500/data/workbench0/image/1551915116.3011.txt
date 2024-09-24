@@ -8,3 +8,8 @@ A box of cheese crackers on a table.
 A box of cereal sits on a table next to a coffee mug and a pair of scissors.
 A box of Annie's Cheese Bunnies on a table with a coffee mug, a tape dispenser, and a pair of scissors.
 A box of Annie's Cheese Bunnies sits on a wooden table next to a coffee mug and a pair of scissors.
+An image with a wall, a backpack, a rug, a cup, a paper, a cardboard, a table, and a cabinet.
+An image with a backpack, a rug, a paper, a cardboard, a wall, a cup, a cabinet, and a table.
+An image with a cardboard, a table, a cup, a paper, a backpack, a rug, a wall, and a cabinet.
+An image with a rug, a paper, a backpack, a cabinet, a cardboard, a wall, a table, and a cup.
+An image with a cardboard, a rug, a table, a paper, a cabinet, a wall, a cup, and a backpack.

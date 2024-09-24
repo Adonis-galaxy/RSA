@@ -8,3 +8,8 @@ Orange cone on a table.
 An orange cone is on a dirty table, and a blue chair is in front of it.
 A white folding table with a blue chair in a room with a tiled floor.
 A white folding table with a blue chair in a room with a tiled floor.
+An image with two walls, a stairs, a door, a chair, a surfboard, and a floor.
+An image with two walls, a chair, a surfboard, a door, a stairs, and a floor.
+An image with a stairs, a chair, two walls, a floor, a door, and a surfboard.
+An image with a door, a stairs, a floor, two walls, a surfboard, and a chair.
+An image with a stairs, a door, a floor, a chair, two walls, and a surfboard.

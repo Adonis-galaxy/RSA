@@ -8,3 +8,8 @@ A large room with a green wall, a table, a chair, a refrigerator, and a cabinet.
 The image shows a room with a large refrigerator, a table, and a chair, all set against a green wall.
 The image shows a small room with a large refrigerator, a table with chairs, and a desk with a computer. The room is painted green and has a white floor.
 The image shows a room with a large refrigerator, a table with chairs, a counter with a sink, and a blue line on the floor.
+An image with a floor, a wall, four chairs, a shelf, a dining, a person, a paper, and a refrigerator.
+An image with a floor, four chairs, a shelf, a wall, a person, a paper, a refrigerator, and a dining.
+An image with four chairs, a wall, a floor, a paper, a refrigerator, a person, a shelf, and a dining.
+An image with a dining, a refrigerator, a person, a floor, a shelf, a paper, four chairs, and a wall.
+An image with four chairs, a wall, a person, a paper, a dining, a shelf, a floor, and a refrigerator.

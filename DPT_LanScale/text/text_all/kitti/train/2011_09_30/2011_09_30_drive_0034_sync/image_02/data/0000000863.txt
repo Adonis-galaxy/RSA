@@ -8,3 +8,8 @@ The image is a photograph of a residential street scene.
 The image captures a serene residential street scene, featuring a row of white houses with greenery, a sidewalk, and a street corner.
 The image shows a residential street with two-story houses, a sidewalk, and a driveway. The houses are white with some greenery, and there are potted plants on the sidewalk. The photo is taken during the day under a clear sky.
 The image shows a residential street with two-story houses, a sidewalk, and a curb, with trees and bushes lining the street and a clear sky overhead.
+An image with a tree, a road, a grass, a pavement, a wall, a house, a fence, and a potted.
+An image with a wall, a fence, a tree, a potted, a house, a pavement, a road, and a grass.
+An image with a tree, a wall, a house, a pavement, a potted, a grass, a fence, and a road.
+An image with a fence, a potted, a wall, a road, a pavement, a tree, a grass, and a house.
+An image with a fence, a potted, a road, a house, a grass, a tree, a wall, and a pavement.

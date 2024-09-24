@@ -8,3 +8,8 @@ The image shows a street scene with houses, trees, and a sidewalk.
 The image captures a quiet residential street, with a clear view of the houses, trees, and a pathway leading to a park.
 The image shows a residential street with houses, trees, and a sidewalk, viewed from a distance.
 The image depicts a residential street with a curved layout, featuring houses, trees, and a sidewalk.
+An image with a house, two trucks, a tree, a pavement, a grass, a stop, two cars, a road, a sky, and a dirt.
+An image with a road, two cars, two trucks, a dirt, a sky, a pavement, a stop, a grass, a house, and a tree.
+An image with a stop, a dirt, two cars, two trucks, a tree, a house, a grass, a road, a sky, and a pavement.
+An image with a dirt, two cars, a road, two trucks, a pavement, a sky, a house, a stop, a grass, and a tree.
+An image with a grass, a dirt, two cars, a tree, a sky, two trucks, a road, a house, a stop, and a pavement.

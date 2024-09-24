@@ -8,3 +8,8 @@ A white table with a black chair.
 A white table with a black chair in a room with a door.
 A white table with a black chair in a room with a white wall.
 The image shows a white table with a curved front, placed on a gray carpet, with four white chairs around it, in a room with a white wall and a gray door.
+An image with two dinings, three chairs, a floor, a door, and a wall.
+An image with three chairs, two dinings, a wall, a door, and a floor.
+An image with a wall, two dinings, three chairs, a door, and a floor.
+An image with a wall, three chairs, two dinings, a floor, and a door.
+An image with a door, a wall, three chairs, two dinings, and a floor.

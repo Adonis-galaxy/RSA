@@ -8,3 +8,8 @@ The image shows a white table with a chair in a room.
 The image shows a white table with a chair in the foreground, and another chair in the background.
 The image shows a white table with a chair in the foreground, and there are other chairs and tables in the background.
 The image shows a white table with a unique design, placed on a gray floor, surrounded by white chairs with a similar design.
+An image with five chairs, a floor, a dining, and a wall.
+An image with five chairs, a floor, a dining, and a wall.
+An image with five chairs, a wall, a floor, and a dining.
+An image with a floor, five chairs, a wall, and a dining.
+An image with a dining, five chairs, a floor, and a wall.

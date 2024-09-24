@@ -8,3 +8,8 @@ A dump truck on a street.
 A large truck is parked on the side of a tree-lined street, with a car parked behind it.
 A large truck is driving down a tree-lined street, with a car parked on the side.
 A large truck is driving down a tree-lined street, with a car parked on the side and a building in the background.
+An image with a sky, a truck, a wall, a tree, three cars, a grass, a pavement, and a road.
+An image with a truck, a road, three cars, a grass, a pavement, a wall, a tree, and a sky.
+An image with a truck, a road, three cars, a grass, a wall, a sky, a pavement, and a tree.
+An image with a wall, three cars, a sky, a grass, a tree, a road, a pavement, and a truck.
+An image with a tree, three cars, a road, a wall, a truck, a grass, a pavement, and a sky.

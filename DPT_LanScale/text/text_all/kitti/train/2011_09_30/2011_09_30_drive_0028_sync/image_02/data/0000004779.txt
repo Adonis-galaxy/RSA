@@ -8,3 +8,8 @@ A white van parked on a narrow street.
 A white van parked on a narrow street between two rows of hedges, with a blue and red sign indicating a no-entry zone.
 A white van is parked on a narrow street between two rows of hedges, with apartment buildings in the background.
 A narrow street lined with hedges and parked cars, leading to a white van parked at a red and blue sign.
+An image with a stop, a tree, a building, four cars, a pavement, a truck, a sky, a traffic, and a road.
+An image with four cars, a traffic, a truck, a road, a tree, a building, a stop, a sky, and a pavement.
+An image with four cars, a truck, a stop, a pavement, a sky, a traffic, a building, a road, and a tree.
+An image with a stop, a road, a traffic, four cars, a truck, a building, a pavement, a tree, and a sky.
+An image with a traffic, four cars, a sky, a truck, a road, a building, a stop, a tree, and a pavement.

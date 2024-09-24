@@ -8,3 +8,8 @@ A printer and a copier in a room.
 The image shows a printer and a copier in a room with green walls.
 The image shows a printer and a copier on a green wall, with a yellow paper sign on the printer.
 The image shows a printer and a copier sitting on a table in a room with green walls.
+An image with a table, a cabinet, a light, a book, a wall, and a cell.
+An image with a light, a book, a cell, a table, a cabinet, and a wall.
+An image with a light, a wall, a cabinet, a cell, a table, and a book.
+An image with a cabinet, a cell, a light, a wall, a table, and a book.
+An image with a table, a wall, a light, a book, a cabinet, and a cell.

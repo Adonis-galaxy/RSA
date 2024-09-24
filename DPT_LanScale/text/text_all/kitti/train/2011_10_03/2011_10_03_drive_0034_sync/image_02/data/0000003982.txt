@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 A quiet residential street, lined with trees and houses, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars, a few pedestrians, and a clear sky.
 A quiet residential street with parked cars, lined by trees and houses, leading to a cul-de-sac.
+An image with a tree, four cars, a wall, a road, a house, and a sky.
+An image with a sky, a road, a tree, four cars, a house, and a wall.
+An image with four cars, a wall, a sky, a road, a tree, and a house.
+An image with a house, four cars, a road, a sky, a tree, and a wall.
+An image with a wall, four cars, a sky, a tree, a house, and a road.

@@ -8,3 +8,8 @@ The image shows a narrow street with a car driving down it.
 A solitary vehicle travels down a narrow, tree-lined street, with a brick wall and a gate on the left, and a stone wall and a sign on the right.
 A car is driving down a narrow, tree-lined street, which is bordered by a brick wall and a metal gate.
 A narrow, tree-lined street with a brick wall on one side and a stone wall on the other, leading to a van parked at the end.
+An image with a tree, a stop, a fence, a road, two walls, a sky, a car, and a pavement.
+An image with a fence, two walls, a stop, a pavement, a sky, a tree, a car, and a road.
+An image with a fence, a tree, a road, a car, two walls, a stop, a pavement, and a sky.
+An image with a stop, two walls, a tree, a fence, a car, a pavement, a road, and a sky.
+An image with a pavement, a fence, a car, a sky, a road, two walls, a stop, and a tree.

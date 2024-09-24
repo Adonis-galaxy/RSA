@@ -8,3 +8,8 @@ A black chair in front of a white table.
 A black chair is positioned in front of a white table in a room with a whiteboard.
 The image shows a small black chair in front of a white marble table, with a whiteboard in the background.
 The image shows a small room with a whiteboard, a table with a paper on it, and a black chair in front of the table.
+An image with a dining, a couch, a wall, a tv, a floor, a book, and a chair.
+An image with a floor, a book, a couch, a tv, a wall, a chair, and a dining.
+An image with a dining, a tv, a chair, a couch, a book, a floor, and a wall.
+An image with a wall, a chair, a couch, a tv, a floor, a dining, and a book.
+An image with a wall, a dining, a couch, a book, a floor, a tv, and a chair.

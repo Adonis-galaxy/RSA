@@ -8,3 +8,8 @@ A person walking on a sidewalk.
 A person riding a bicycle on a sunny day, passing by a street sign and a parking meter, with a clear path ahead on a tree-lined street.
 A person riding a bicycle on a sunny day, with a large building in the background and a tree-lined street.
 A person riding a bicycle on a sunny day, passing by a white building with a black roof, on a tree-lined street with a red and white sign.
+An image with a road, a person, a tree, five cars, a sky, a grass, a bicycle, a pavement, and a building.
+An image with a building, a road, five cars, a bicycle, a tree, a person, a grass, a pavement, and a sky.
+An image with five cars, a building, a sky, a person, a bicycle, a tree, a road, a pavement, and a grass.
+An image with five cars, a building, a bicycle, a road, a grass, a pavement, a sky, a person, and a tree.
+An image with a building, five cars, a sky, a bicycle, a grass, a pavement, a person, a tree, and a road.

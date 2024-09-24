@@ -8,3 +8,8 @@ A vacuum cleaner on the floor.
 A vacuum cleaner is on the floor in front of a chair, indicating that the room has been recently cleaned.
 A room with a vacuum cleaner, a red one, on the floor, surrounded by multiple chairs and a lamp.
 The image shows a living room with a vacuum cleaner on the floor, a red chair, a white door, a lamp, a table, and a window.
+An image with a door, two chairs, a light, a table, a wall, a rug, a curtain, a couch, and a window.
+An image with two chairs, a door, a window, a curtain, a couch, a wall, a rug, a light, and a table.
+An image with a light, a table, two chairs, a wall, a rug, a door, a window, a couch, and a curtain.
+An image with a rug, two chairs, a wall, a table, a light, a door, a window, a couch, and a curtain.
+An image with a door, a wall, two chairs, a rug, a light, a table, a window, a curtain, and a couch.

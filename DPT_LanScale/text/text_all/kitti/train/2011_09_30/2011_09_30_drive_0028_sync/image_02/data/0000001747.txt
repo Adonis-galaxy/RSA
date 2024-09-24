@@ -8,3 +8,8 @@ A sunny day in a residential area.
 A sunlit, tree-lined street in a residential area, with a parked car and a child on a scooter.
 A narrow street in a residential area, lined with houses, trees, and parked cars, with a child walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with a car parked on the right side and a child walking on the sidewalk.
+An image with five cars, a pavement, two people, a road, a sky, a tree, and a house.
+An image with five cars, a tree, two people, a pavement, a road, a house, and a sky.
+An image with a sky, a pavement, five cars, a road, a house, two people, and a tree.
+An image with five cars, a sky, a road, a tree, two people, a house, and a pavement.
+An image with five cars, two people, a sky, a road, a pavement, a house, and a tree.

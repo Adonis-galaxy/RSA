@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a serene residential street, lined with parked cars, lush greenery, and a clear blue sky, creating a peaceful and inviting atmosphere.
 The image depicts a narrow, tree-lined street with parked cars, a sidewalk, and a building in the background.
 A quiet residential street with parked cars, lined with trees and houses, leading to a cul-de-sac.
+An image with five cars, a house, a road, a pavement, a sky, and a tree.
+An image with five cars, a house, a pavement, a sky, a road, and a tree.
+An image with a road, five cars, a house, a pavement, a tree, and a sky.
+An image with a house, five cars, a pavement, a tree, a sky, and a road.
+An image with a tree, five cars, a house, a sky, a road, and a pavement.

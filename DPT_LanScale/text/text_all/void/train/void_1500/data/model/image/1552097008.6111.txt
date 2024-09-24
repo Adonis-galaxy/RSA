@@ -8,3 +8,8 @@ A model of a cityscape.
 A model of a cityscape with buildings and a street, displayed in a glass case.
 The image shows a model of a cityscape with buildings, including a large white building, and a person walking in the background.
 The image shows a model of a cityscape with buildings and a street, displayed behind a glass case.
+An image with a building, a ceiling, a person, a wall, and a floor.
+An image with a person, a floor, a ceiling, a building, and a wall.
+An image with a building, a wall, a person, a floor, and a ceiling.
+An image with a ceiling, a floor, a person, a wall, and a building.
+An image with a wall, a floor, a building, a person, and a ceiling.

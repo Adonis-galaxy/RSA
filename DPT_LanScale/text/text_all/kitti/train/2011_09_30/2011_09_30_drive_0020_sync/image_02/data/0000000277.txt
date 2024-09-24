@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street with a clear sky, lined with trees and houses, and a few signs indicating a commercial area nearby.
 The image shows a wide, empty street with a few trees and signs, leading to a residential area with houses and cars.
 The image shows a suburban street with a curved layout, featuring a roundabout, a white wall, a building with a red roof, trees, and a clear blue sky.
+An image with a wall, a car, a house, a grass, a stop, a road, a tree, a sky, and a banner.
+An image with a house, a stop, a grass, a banner, a tree, a wall, a car, a sky, and a road.
+An image with a car, a road, a banner, a tree, a sky, a grass, a stop, a house, and a wall.
+An image with a grass, a tree, a stop, a house, a car, a banner, a wall, a sky, and a road.
+An image with a sky, a banner, a house, a car, a grass, a stop, a road, a wall, and a tree.

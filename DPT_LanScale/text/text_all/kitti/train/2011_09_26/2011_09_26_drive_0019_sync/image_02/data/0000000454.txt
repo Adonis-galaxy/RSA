@@ -8,3 +8,8 @@ A white car driving down a tree-lined street.
 A white car with red lettering is driving down a tree-lined street, passing other vehicles.
 A white car is driving down a tree-lined street, passing other cars and a truck.
 A white car with red lettering is driving down a tree-lined street, passing other vehicles and a sidewalk.
+An image with two people, a sky, a grass, a truck, a tree, four cars, and a road.
+An image with a tree, a road, a truck, a grass, two people, a sky, and four cars.
+An image with four cars, two people, a sky, a grass, a truck, a road, and a tree.
+An image with a tree, four cars, a sky, two people, a truck, a road, and a grass.
+An image with four cars, two people, a road, a sky, a tree, a grass, and a truck.

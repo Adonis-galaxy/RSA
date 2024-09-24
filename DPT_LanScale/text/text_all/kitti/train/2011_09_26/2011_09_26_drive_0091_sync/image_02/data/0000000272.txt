@@ -8,3 +8,8 @@ The image shows a street scene with a train track running down the middle.
 The image captures a bustling city street, with a train track running down the middle, flanked by shops and pedestrians, creating a vibrant urban atmosphere.
 The image depicts a narrow street lined with shops and pedestrians, with a train track running down the middle.
 A narrow street with shops on both sides, lined with parked bicycles and a train track running down the middle.
+An image with a tree, twelve people, a building, a sky, a bicycle, a handbag, a railroad, and a pavement.
+An image with a pavement, twelve people, a handbag, a tree, a building, a sky, a railroad, and a bicycle.
+An image with a tree, a handbag, twelve people, a railroad, a pavement, a bicycle, a sky, and a building.
+An image with twelve people, a pavement, a sky, a tree, a handbag, a railroad, a bicycle, and a building.
+An image with twelve people, a pavement, a bicycle, a railroad, a tree, a sky, a building, and a handbag.

@@ -8,3 +8,8 @@ A yellow van parked on a narrow street.
 A yellow van parked on a narrow street between a stone wall and a white building, with trees and a blue sky in the background.
 A yellow van is parked on the side of a narrow street between two buildings, with a brick wall and a metal fence on the left side.
 A narrow, tree-lined street with a yellow van parked on the right side, leading to a white building with a black gate and a white wall.
+An image with a pavement, a road, a house, a window, two cars, a tree, and two walls.
+An image with two walls, a road, two cars, a tree, a window, a pavement, and a house.
+An image with two cars, a window, a pavement, a house, a tree, a road, and two walls.
+An image with a pavement, two walls, a road, two cars, a house, a window, and a tree.
+An image with a road, a window, two walls, a pavement, a house, a tree, and two cars.

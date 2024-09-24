@@ -8,3 +8,8 @@ The image shows a white van parked on a narrow street.
 A white van parked on a narrow street between buildings, with a hedge and trees lining the road.
 A white van is parked on a narrow street between two buildings, with a car parked behind it and a tree in front.
 A narrow street lined with parked cars and a white van, with buildings on either side, under a clear blue sky.
+An image with a traffic, four cars, a road, a sky, a pavement, a truck, a building, and a tree.
+An image with a sky, four cars, a traffic, a building, a pavement, a tree, a road, and a truck.
+An image with four cars, a tree, a traffic, a sky, a building, a road, a pavement, and a truck.
+An image with four cars, a tree, a pavement, a building, a truck, a traffic, a road, and a sky.
+An image with a sky, four cars, a tree, a building, a pavement, a truck, a traffic, and a road.

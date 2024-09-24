@@ -8,3 +8,8 @@ A table with a stack of papers and a book on it.
 A cluttered table with a stack of papers and a book on top.
 A table with a stack of papers and a book on top.
 A cluttered table with a stack of papers and a book on top.
+An image with two books, two chairs, a dining, and a wall.
+An image with two chairs, a dining, two books, and a wall.
+An image with a wall, two books, two chairs, and a dining.
+An image with two chairs, two books, a dining, and a wall.
+An image with two books, a dining, a wall, and two chairs.

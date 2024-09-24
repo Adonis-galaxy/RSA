@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A serene residential street, lined with trees and houses, inviting a leisurely stroll.
 A person is walking on a sidewalk next to a street with a curved road, surrounded by trees and bushes, and there is a house in the background.
 A tree-lined street with a curved bend, a pedestrian walking on the sidewalk, and a white house with a red roof in the background.
+An image with a roof, a stairs, two people, a house, a tree, a road, a sky, and a pavement.
+An image with a sky, two people, a roof, a stairs, a road, a pavement, a house, and a tree.
+An image with a road, a roof, two people, a pavement, a house, a sky, a tree, and a stairs.
+An image with a house, a stairs, a roof, two people, a road, a sky, a pavement, and a tree.
+An image with two people, a stairs, a house, a pavement, a tree, a sky, a roof, and a road.

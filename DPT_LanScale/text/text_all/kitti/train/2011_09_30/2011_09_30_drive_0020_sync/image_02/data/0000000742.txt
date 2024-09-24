@@ -8,3 +8,8 @@ The image shows a street with a row of houses on the left side and a row of tree
 A quiet residential street with a mix of houses and trees, leading to a commercial area with parked cars and bicycles.
 The image shows a long, narrow street lined with trees and buildings, with a few cars parked along the sides.
 A long, tree-lined street with apartment buildings on both sides, leading to a parking lot.
+An image with a bicycle, a tree, eight cars, a road, a pavement, a grass, a house, a roof, and a sky.
+An image with a bicycle, a road, eight cars, a pavement, a tree, a sky, a house, a grass, and a roof.
+An image with eight cars, a road, a house, a grass, a pavement, a sky, a bicycle, a roof, and a tree.
+An image with a road, a grass, eight cars, a sky, a bicycle, a roof, a house, a tree, and a pavement.
+An image with eight cars, a house, a tree, a sky, a pavement, a grass, a bicycle, a road, and a roof.

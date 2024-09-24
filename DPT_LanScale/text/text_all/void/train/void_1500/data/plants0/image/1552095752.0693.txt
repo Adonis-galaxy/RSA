@@ -8,3 +8,8 @@ The image shows a patch of dirt with grass and plants growing in it.
 The image shows a patch of dirt with grass and plants growing in it, with a tree trunk visible in the foreground.
 The image shows a close-up of a patch of dirt with small plants and a tree trunk.
 The image shows a close-up view of a patch of dirt with sparse grass and a tree trunk in the foreground.
+An image with a pavement, a tree, a road, two walls, and a dirt.
+An image with a dirt, a road, two walls, a pavement, and a tree.
+An image with a dirt, a pavement, two walls, a road, and a tree.
+An image with a road, two walls, a dirt, a tree, and a pavement.
+An image with a tree, two walls, a pavement, a road, and a dirt.

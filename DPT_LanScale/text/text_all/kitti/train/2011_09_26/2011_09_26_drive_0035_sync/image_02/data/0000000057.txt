@@ -8,3 +8,8 @@ The image shows a parking lot with various vehicles parked in front of a buildin
 The image captures a typical day in a suburban area, with a variety of vehicles parked along the street in front of residential houses, and a few businesses visible in the background.
 The image shows a parking lot with various vehicles, including cars and trucks, parked in front of a row of buildings. The buildings are white with some yellow elements, and there are trees and a blue sky in the background.
 The image shows a parking lot with various vehicles parked in front of a row of buildings, including a white house with a brown roof and a yellow building with a red awning.
+An image with a road, eleven cars, a tree, three trucks, a building, and a sky.
+An image with a tree, eleven cars, three trucks, a building, a sky, and a road.
+An image with eleven cars, a tree, a sky, a building, three trucks, and a road.
+An image with eleven cars, a sky, three trucks, a road, a building, and a tree.
+An image with a road, three trucks, a building, a sky, eleven cars, and a tree.

@@ -8,3 +8,8 @@ A quiet residential street.
 A quiet residential street, lined with trees and houses, under a clear blue sky.
 The image shows a narrow, tree-lined street with a brick wall on one side, a white building on the other, and a car parked at the end.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a wall, a sky, a tree, a pavement, a house, a fence, a car, and a road.
+An image with a road, a house, a car, a tree, a fence, a sky, a pavement, and a wall.
+An image with a wall, a road, a fence, a pavement, a sky, a house, a tree, and a car.
+An image with a wall, a sky, a house, a pavement, a car, a fence, a road, and a tree.
+An image with a pavement, a fence, a tree, a house, a car, a wall, a road, and a sky.

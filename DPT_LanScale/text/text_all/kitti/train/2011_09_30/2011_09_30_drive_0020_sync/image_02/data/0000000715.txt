@@ -8,3 +8,8 @@ The image shows a street view of a row of white buildings with orange doors and 
 The image captures a quiet residential street with a row of white buildings, each featuring a different color door, parked cars, and a few bicycles, all under a clear blue sky.
 The image shows a residential street with a row of white buildings, each with a small garden and a bicycle parked in front. The street is lined with trees and there are cars parked along the side. The buildings are of similar size, and the street appears to be quiet with no visible people.
 The image shows a residential street with a row of white buildings, each with a different number of windows, and a variety of front doors. There are parked cars, bicycles, and a few potted plants along the sidewalk. The street is lined with trees and there is a pedestrian crossing area marked with white lines.
+An image with a house, four bicycles, a tree, three cars, a road, a grass, and a pavement.
+An image with three cars, a tree, a pavement, four bicycles, a road, a grass, and a house.
+An image with three cars, a pavement, a grass, four bicycles, a road, a house, and a tree.
+An image with a grass, a pavement, three cars, a house, four bicycles, a tree, and a road.
+An image with three cars, four bicycles, a road, a pavement, a tree, a grass, and a house.

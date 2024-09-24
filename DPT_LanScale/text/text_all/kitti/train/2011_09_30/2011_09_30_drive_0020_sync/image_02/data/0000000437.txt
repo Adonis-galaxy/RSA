@@ -8,3 +8,8 @@ The image shows a street intersection with a stop sign and a traffic light.
 The image captures a quiet residential street with a clear sky, lined with parked cars and apartment buildings, leading to a crosswalk with a stop sign.
 The image shows a wide street with a crosswalk, lined with parked cars and buildings on both sides, under a clear blue sky.
 The image depicts a quiet residential street with a mix of brick and white buildings, lined with trees and parked cars, leading to a crossroads with a stop sign and a pedestrian crossing.
+An image with eight cars, a pavement, a tree, a road, a sky, a building, a truck, and a grass.
+An image with a grass, eight cars, a road, a pavement, a building, a sky, a truck, and a tree.
+An image with eight cars, a road, a building, a truck, a tree, a grass, a sky, and a pavement.
+An image with eight cars, a building, a road, a tree, a sky, a grass, a truck, and a pavement.
+An image with a sky, a pavement, a truck, a building, a tree, eight cars, a road, and a grass.

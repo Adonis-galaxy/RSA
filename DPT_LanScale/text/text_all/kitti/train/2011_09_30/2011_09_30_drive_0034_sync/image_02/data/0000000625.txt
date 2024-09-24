@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a clear view of a row of houses, a parked car, and a bicycle path, all under a bright sunny sky.
 The image shows a narrow street lined with houses, a car parked on the side, and a bicycle lane marked with white arrows.
 The image depicts a quiet residential street with a mix of houses and apartment buildings, lined with trees and a sidewalk, leading to a white building with a black roof.
+An image with a road, a wall, a fence, a pavement, a sky, a tree, and a house.
+An image with a road, a fence, a sky, a tree, a wall, a house, and a pavement.
+An image with a house, a pavement, a tree, a fence, a wall, a sky, and a road.
+An image with a pavement, a house, a tree, a fence, a sky, a road, and a wall.
+An image with a sky, a house, a tree, a wall, a pavement, a fence, and a road.

@@ -8,3 +8,8 @@ A kitchen counter with a white wall.
 The image shows a kitchen counter with a white sink, a white cabinet, and a white refrigerator.
 The image shows a small kitchen with orange cabinets, a white countertop, a white sink, and a white refrigerator.
 The image shows a kitchen counter with a white sink, a white cabinet, and a white refrigerator.
+An image with a counter, a wall, a refrigerator, a sink, a cup, and a cabinet.
+An image with a counter, a wall, a sink, a cup, a cabinet, and a refrigerator.
+An image with a cup, a counter, a cabinet, a wall, a sink, and a refrigerator.
+An image with a wall, a counter, a cabinet, a sink, a cup, and a refrigerator.
+An image with a sink, a wall, a counter, a cup, a refrigerator, and a cabinet.

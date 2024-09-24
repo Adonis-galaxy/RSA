@@ -8,3 +8,8 @@ A silver car parked on the side of a street.
 A silver car parked on a street in front of a house with a brick driveway and a sidewalk.
 A small silver car is parked on the side of a street in front of a large house with a brick driveway.
 A silver car is parked on the side of a street in front of a two-story building with a sign on a pole.
+An image with a grass, a pavement, two cars, a tree, a road, a house, and a sky.
+An image with a road, a tree, a house, a pavement, a sky, two cars, and a grass.
+An image with a sky, a house, a grass, two cars, a road, a pavement, and a tree.
+An image with two cars, a road, a tree, a sky, a house, a pavement, and a grass.
+An image with two cars, a sky, a road, a pavement, a grass, a tree, and a house.

@@ -8,3 +8,8 @@ A man in a red sweater standing in front of a whiteboard.
 A man in a red sweater is standing in an office, looking at a computer screen, with a whiteboard in the background.
 A man in a red sweater is standing in an office, looking at a laptop on a desk.
 A man in a red sweater is standing in a room with a whiteboard, a desk with a laptop, and a chair.
+An image with a cup, a floor, four chairs, two laptops, a wall, a window, a table, and a person.
+An image with a wall, a cup, a floor, a person, four chairs, a window, two laptops, and a table.
+An image with a cup, a person, four chairs, two laptops, a floor, a table, a window, and a wall.
+An image with a wall, two laptops, four chairs, a cup, a person, a window, a floor, and a table.
+An image with a window, two laptops, four chairs, a wall, a person, a table, a cup, and a floor.

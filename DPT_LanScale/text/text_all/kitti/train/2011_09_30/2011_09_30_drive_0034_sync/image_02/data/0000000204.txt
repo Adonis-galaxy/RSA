@@ -8,3 +8,8 @@ A narrow, shaded pathway between two hedges.
 A narrow, sunlit alleyway between two hedges, leading to a house with a garage.
 A narrow, sunlit alleyway between two hedges, with a brick path and a car parked at the end.
 A narrow, sunlit alleyway between two hedges, leading to a house with a garage.
+An image with a house, a pavement, a roof, a sky, a tree, two walls, and a car.
+An image with two walls, a car, a house, a sky, a tree, a roof, and a pavement.
+An image with a car, a roof, two walls, a house, a tree, a pavement, and a sky.
+An image with a tree, two walls, a house, a pavement, a car, a roof, and a sky.
+An image with two walls, a pavement, a roof, a tree, a house, a sky, and a car.

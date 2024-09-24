@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a mix of old and new buildings, lined by trees and parked cars, under a clear blue sky.
 The image shows a narrow street lined with trees and buildings, with a car parked on the side and a pedestrian crossing marked by a white triangle.
 The image depicts a narrow street lined with trees and buildings, with a sidewalk on the left side and a car parked on the right side.
+An image with a fence, three cars, a wall, a tree, a building, a sky, a road, and a pavement.
+An image with a wall, a tree, a road, a sky, a fence, a pavement, three cars, and a building.
+An image with a tree, three cars, a sky, a wall, a fence, a road, a building, and a pavement.
+An image with a building, a wall, a pavement, a road, a fence, a sky, three cars, and a tree.
+An image with three cars, a fence, a pavement, a tree, a road, a sky, a building, and a wall.

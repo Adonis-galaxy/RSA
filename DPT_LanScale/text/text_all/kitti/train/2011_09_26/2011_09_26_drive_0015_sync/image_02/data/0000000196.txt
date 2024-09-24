@@ -8,3 +8,8 @@ The image shows a street scene with cars and a bicycle.
 A busy street scene with vehicles and pedestrians, set against a backdrop of residential houses and a railway line.
 A busy street with multiple vehicles, including cars and trucks, driving on a road with a median strip and a train track running parallel.
 A busy street scene with multiple lanes of traffic, a train track, and a residential area.
+An image with seven cars, a roof, a railroad, two airplanes, a house, a bicycle, a road, a tree, a building, a sky, a person, and a grass.
+An image with seven cars, a sky, a bicycle, a road, two airplanes, a building, a railroad, a house, a tree, a grass, a person, and a roof.
+An image with a tree, a road, seven cars, a bicycle, a roof, a railroad, a building, a grass, a person, two airplanes, a sky, and a house.
+An image with a road, a grass, seven cars, a person, a bicycle, a sky, two airplanes, a house, a roof, a building, a tree, and a railroad.
+An image with a railroad, a bicycle, a road, seven cars, a house, a sky, a roof, a tree, a building, two airplanes, a grass, and a person.

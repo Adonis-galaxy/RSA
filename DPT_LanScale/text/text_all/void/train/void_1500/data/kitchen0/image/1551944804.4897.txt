@@ -8,3 +8,8 @@ A kitchen with a refrigerator and cabinets.
 A kitchen with a refrigerator and a counter.
 A small kitchen with a refrigerator and a counter.
 The image shows a kitchen with a refrigerator, cabinets, and a countertop.
+An image with a cabinet, a paper, a refrigerator, a cup, and a wall.
+An image with a paper, a cup, a wall, a cabinet, and a refrigerator.
+An image with a cup, a wall, a cabinet, a paper, and a refrigerator.
+An image with a cup, a cabinet, a paper, a wall, and a refrigerator.
+An image with a paper, a cabinet, a wall, a cup, and a refrigerator.

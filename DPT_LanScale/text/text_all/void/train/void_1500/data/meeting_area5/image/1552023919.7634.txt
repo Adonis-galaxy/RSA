@@ -8,3 +8,8 @@ A large black flat screen television mounted on a yellow wall.
 A large black flat screen television mounted on a yellow wall in a room with white tables and chairs.
 A large black flat screen television mounted on a yellow wall in a room with white tables and chairs.
 The image shows a modern office space with a large flat screen TV mounted on a yellow wall, a white table with four chairs, and a glass door leading to another room.
+An image with a door, a light, three chairs, a dining, a floor, a ceiling, a tv, and a wall.
+An image with a floor, a wall, three chairs, a dining, a light, a door, a tv, and a ceiling.
+An image with a light, a ceiling, three chairs, a wall, a floor, a dining, a tv, and a door.
+An image with a wall, a floor, a ceiling, a door, a dining, three chairs, a tv, and a light.
+An image with a tv, a floor, a dining, a door, a wall, three chairs, a ceiling, and a light.

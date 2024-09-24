@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a tree-lined street, with parked cars on both sides, and a clear blue sky overhead.
 A woman riding a bicycle on a tree-lined street with parked cars and a sidewalk.
 A woman riding a bicycle on a tree-lined street with parked cars and a sidewalk.
+An image with two people, a pavement, eight cars, a bicycle, a tree, and a road.
+An image with a pavement, a bicycle, eight cars, a tree, two people, and a road.
+An image with a pavement, two people, a bicycle, eight cars, a road, and a tree.
+An image with eight cars, a tree, a pavement, a road, two people, and a bicycle.
+An image with eight cars, a tree, two people, a road, a bicycle, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a building in the background.
 The image captures a scene of a narrow street lined with parked cars, with a white house and a building with a yellow facade in the background, under a clear blue sky.
 The image shows a narrow street with parked cars on both sides, including a Volkswagen Beetle, a white van, and a yellow car, with a white house and trees in the background.
 The image shows a narrow street with parked cars on both sides, leading to a white house with a covered porch and a garage.
+An image with eleven cars, a tree, four trucks, a road, a house, and a fence.
+An image with eleven cars, four trucks, a road, a house, a fence, and a tree.
+An image with a house, eleven cars, a tree, a fence, four trucks, and a road.
+An image with a fence, a house, four trucks, eleven cars, a tree, and a road.
+An image with a road, four trucks, a tree, eleven cars, a house, and a fence.

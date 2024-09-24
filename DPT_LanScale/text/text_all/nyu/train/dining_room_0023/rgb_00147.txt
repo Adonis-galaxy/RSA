@@ -8,3 +8,8 @@ A white table with a light shining on it.
 The image shows a table with two white tabletops, each supported by a single black chair, set against a wall with a painting. The lighting highlights the tabletops, creating a stark contrast with the darker surroundings.
 The image shows a long, narrow table with two white tabletops, flanked by four black chairs, illuminated by a bright light source.
 The image shows a dining table with four white tabletops, each supported by a black chair, arranged in a square configuration with a light source illuminating the tabletops from above.
+An image with a wall, three dinings, six chairs, and a floor.
+An image with six chairs, a floor, three dinings, and a wall.
+An image with three dinings, six chairs, a floor, and a wall.
+An image with three dinings, six chairs, a wall, and a floor.
+An image with three dinings, a floor, six chairs, and a wall.

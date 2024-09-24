@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, a sidewalk, and a row of hous
 The image captures a quiet residential street, lined with houses and trees, leading to a cul-de-sac.
 The image shows a residential street with houses, trees, and a sidewalk, viewed from a distance.
 The image depicts a residential street with a curved road, lined with houses, trees, and streetlights, leading to a cul-de-sac.
+An image with a house, two cars, two trucks, a grass, a pavement, a stop, a tree, a dirt, and a road.
+An image with a grass, a pavement, a tree, two trucks, a house, a dirt, a road, two cars, and a stop.
+An image with two trucks, a grass, a dirt, a stop, a road, two cars, a house, a pavement, and a tree.
+An image with two cars, a house, a dirt, a grass, a road, two trucks, a pavement, a tree, and a stop.
+An image with a house, a tree, two cars, a dirt, a stop, two trucks, a road, a pavement, and a grass.

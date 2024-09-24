@@ -8,3 +8,8 @@ White office chair with wheels.
 The image shows two white chairs with green accents, positioned on either side of a white table, all set against a gray carpeted floor.
 The image shows a white table with two white chairs, placed on a gray carpeted floor.
 The image shows a white table with two white chairs, positioned in a room with a gray carpet and a glass door.
+An image with a floor, a wall, two chairs, a window, a rug, and a dining.
+An image with a dining, two chairs, a rug, a floor, a window, and a wall.
+An image with a wall, a rug, a window, two chairs, a dining, and a floor.
+An image with a rug, a floor, a window, a dining, two chairs, and a wall.
+An image with a floor, a rug, two chairs, a dining, a wall, and a window.

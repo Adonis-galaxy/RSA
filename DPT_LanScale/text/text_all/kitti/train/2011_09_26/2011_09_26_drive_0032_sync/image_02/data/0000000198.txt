@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic cones.
 The image captures a moment of everyday life on a highway, with vehicles in motion and traffic control devices in place, set against a backdrop of trees and a clear sky.
 The image shows a wide, empty highway with a few cars and trucks driving on it, flanked by trees and lined with traffic cones and signs.
 The image shows a wide, multi-lane road with traffic, flanked by trees and lined with traffic signs and barriers.
+An image with seven cars, a grass, a pavement, a tree, four traffics, a road, and a sky.
+An image with a grass, seven cars, a tree, a sky, four traffics, a pavement, and a road.
+An image with four traffics, a pavement, a tree, seven cars, a road, a sky, and a grass.
+An image with seven cars, four traffics, a grass, a tree, a sky, a road, and a pavement.
+An image with seven cars, a grass, four traffics, a road, a pavement, a sky, and a tree.

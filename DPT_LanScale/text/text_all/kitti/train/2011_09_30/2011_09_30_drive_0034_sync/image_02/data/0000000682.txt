@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a clear view of a tree-lined road, a sidewalk, and a few houses, all under a bright sunny sky.
 The image shows a narrow street lined with houses and trees, with a clear sky overhead.
 The image depicts a quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a wall, a sky, a pavement, a tree, a road, a house, and a fence.
+An image with a fence, a wall, a road, a tree, a house, a pavement, and a sky.
+An image with a road, a tree, a wall, a sky, a fence, a pavement, and a house.
+An image with a house, a pavement, a tree, a fence, a sky, a road, and a wall.
+An image with a pavement, a sky, a road, a tree, a wall, a house, and a fence.

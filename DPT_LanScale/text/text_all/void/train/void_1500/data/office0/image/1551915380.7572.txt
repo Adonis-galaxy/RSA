@@ -8,3 +8,8 @@ A stack of books on a table.
 A stack of books on a table with a whiteboard in the background.
 A stack of books on a table with a whiteboard in the background.
 A cluttered desk with a stack of books, papers, and a coffee mug.
+An image with three books, a tv, a wall, a cup, and a paper.
+An image with a cup, a tv, three books, a wall, and a paper.
+An image with a cup, three books, a tv, a wall, and a paper.
+An image with a paper, three books, a wall, a cup, and a tv.
+An image with a wall, a cup, a paper, three books, and a tv.

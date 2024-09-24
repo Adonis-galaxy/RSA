@@ -8,3 +8,8 @@ A coffee maker on a counter.
 A coffee maker is sitting on a counter next to a window.
 A silver and black coffee maker is sitting on a small orange counter.
 A silver coffee maker is sitting on a wooden counter in a room with orange walls.
+An image with a wall, a window, a floor, and a table.
+An image with a wall, a floor, a window, and a table.
+An image with a window, a table, a floor, and a wall.
+An image with a table, a wall, a floor, and a window.
+An image with a floor, a wall, a window, and a table.

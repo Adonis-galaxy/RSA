@@ -8,3 +8,8 @@ The image shows a room with two chairs and a decorative pillow.
 The image captures a cozy room with two chairs, a purple pillow with an elephant design, and a wall decorated with masks and a heart-shaped object.
 The image shows a room with two chairs, a purple pillow with an elephant design, and two masks hanging on the wall.
 The image shows a room with two chairs, a patterned pillow, and decorative masks on the wall.
+An image with a rug, a couch, a curtain, a floor, a chair, and a wall.
+An image with a rug, a floor, a curtain, a chair, a wall, and a couch.
+An image with a chair, a floor, a couch, a wall, a rug, and a curtain.
+An image with a chair, a curtain, a rug, a couch, a wall, and a floor.
+An image with a couch, a wall, a curtain, a chair, a rug, and a floor.

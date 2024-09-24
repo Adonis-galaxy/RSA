@@ -8,3 +8,8 @@ A room with a bookshelf and a green wall.
 The image shows a room with a bookshelf, a desk, and a green wall with posters.
 The image shows a room with a green wall, a bookshelf, a desk, and a large window.
 The image shows a room with a green wall, a bookshelf, a desk, and a large window.
+An image with eighteen books, a floor, a shelf, a refrigerator, a wall, a light, a chair, and a ceiling.
+An image with eighteen books, a light, a shelf, a wall, a ceiling, a refrigerator, a floor, and a chair.
+An image with eighteen books, a chair, a wall, a refrigerator, a shelf, a floor, a light, and a ceiling.
+An image with eighteen books, a wall, a floor, a chair, a ceiling, a light, a shelf, and a refrigerator.
+An image with eighteen books, a refrigerator, a ceiling, a wall, a floor, a light, a chair, and a shelf.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow, tree-lined street with parked cars, leading to a white building with a black gate.
 The image shows a narrow street lined with parked cars, a white building, and a fence, with trees and bushes on both sides.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with five cars, a fence, a road, a building, a parking, two walls, a sky, and a tree.
+An image with five cars, two walls, a fence, a sky, a tree, a building, a road, and a parking.
+An image with a parking, a road, five cars, a fence, a tree, a building, a sky, and two walls.
+An image with a road, five cars, a parking, a tree, two walls, a sky, a building, and a fence.
+An image with a fence, two walls, five cars, a building, a sky, a parking, a road, and a tree.

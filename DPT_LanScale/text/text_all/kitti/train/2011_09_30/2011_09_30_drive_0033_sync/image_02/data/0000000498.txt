@@ -8,3 +8,8 @@ The image shows a residential street with parked cars.
 The image captures a quiet residential street with parked cars, a clear sky, and a mix of houses and trees, evoking a sense of tranquility and community.
 The image shows a narrow street lined with parked cars, a few trees, and houses, with a clear sky overhead.
 A narrow residential street with parked cars, a curved sidewalk, and houses on both sides.
+An image with six cars, a stop, a house, a tree, a roof, a road, a pavement, a sky, and a wall.
+An image with a house, a tree, a pavement, six cars, a road, a roof, a sky, a wall, and a stop.
+An image with six cars, a pavement, a roof, a wall, a house, a sky, a tree, a road, and a stop.
+An image with a roof, a wall, six cars, a pavement, a sky, a stop, a tree, a road, and a house.
+An image with six cars, a roof, a stop, a tree, a pavement, a wall, a house, a road, and a sky.

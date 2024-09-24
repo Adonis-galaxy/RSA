@@ -8,3 +8,8 @@ The image shows a blurry view of a room with a table and chairs in the foregroun
 The image shows a blurry view of a room with a table and chairs in the foreground, a television on the wall, and a glass door in the background.
 The image shows a blurry view of a room with a large black television mounted on a yellow wall, a white table with four chairs, and a glass door.
 The image shows a blurry view of a room with a table and chairs, a television on the wall, and a glass door.
+An image with two chairs, a floor, a door, a wall, a ceiling, a sink, a light, and a tv.
+An image with a light, two chairs, a wall, a tv, a ceiling, a floor, a sink, and a door.
+An image with a light, two chairs, a tv, a sink, a wall, a floor, a ceiling, and a door.
+An image with two chairs, a door, a wall, a ceiling, a sink, a light, a tv, and a floor.
+An image with a wall, a light, a ceiling, a sink, two chairs, a door, a tv, and a floor.

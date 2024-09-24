@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with lush greenery and parked cars, leading to a white building with a balcony, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a white building with greenery, and a sidewalk with a fence.
 A narrow street lined with parked cars, white buildings, and lush greenery.
+An image with five cars, a pavement, a road, a house, a sky, a wall, a fence, and a tree.
+An image with a tree, five cars, a wall, a fence, a house, a pavement, a sky, and a road.
+An image with a road, a fence, five cars, a sky, a house, a pavement, a wall, and a tree.
+An image with a fence, a pavement, five cars, a sky, a tree, a wall, a road, and a house.
+An image with a fence, five cars, a house, a pavement, a tree, a wall, a sky, and a road.

@@ -8,3 +8,8 @@ A black jeep parked on a street.
 A black SUV parked on a narrow street, surrounded by trees and a stone wall, with a house visible in the background.
 A black SUV parked on a narrow street between two stone walls, with trees and a house in the background.
 A black SUV parked on a narrow street, with a stone wall on one side and trees on the other, leading to a residential area.
+An image with a wall, a truck, a tree, a pavement, a sky, a fence, and a road.
+An image with a wall, a pavement, a sky, a road, a tree, a truck, and a fence.
+An image with a pavement, a wall, a tree, a truck, a road, a fence, and a sky.
+An image with a fence, a wall, a tree, a truck, a sky, a pavement, and a road.
+An image with a truck, a sky, a pavement, a road, a tree, a fence, and a wall.

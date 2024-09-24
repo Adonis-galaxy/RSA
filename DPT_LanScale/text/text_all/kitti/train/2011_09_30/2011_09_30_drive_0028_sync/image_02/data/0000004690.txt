@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a typical urban street scene with parked cars lining the sidewalk, a clear sky overhead, and a mix of residential and commercial buildings in the background.
 A narrow street lined with parked cars and buildings, with a satellite dish visible on the side of a building.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a building, a truck, seven cars, a road, a wall, a sky, a tree, and a pavement.
+An image with a building, a truck, seven cars, a pavement, a wall, a tree, a road, and a sky.
+An image with a truck, a building, seven cars, a sky, a wall, a pavement, a road, and a tree.
+An image with a pavement, a sky, a truck, a tree, a building, seven cars, a wall, and a road.
+An image with a tree, seven cars, a sky, a wall, a pavement, a truck, a building, and a road.

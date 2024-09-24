@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and mouse.
 A computer desk with a monitor, keyboard, and mouse, with a chair in front of it.
 A computer desk with a monitor, keyboard, and mouse, with a black chair in front of it.
 The image shows a computer desk with a monitor, keyboard, and mouse, along with a chair, in a room with a window and blinds.
+An image with three mice, two tvs, a rug, two chairs, a keyboard, a window, a paper, a wall, and a table.
+An image with three mice, a window, a paper, two chairs, a rug, two tvs, a wall, a keyboard, and a table.
+An image with a rug, a table, a keyboard, a paper, three mice, two chairs, two tvs, a window, and a wall.
+An image with two chairs, a rug, a wall, two tvs, three mice, a window, a table, a keyboard, and a paper.
+An image with two tvs, a keyboard, a rug, a paper, a window, a table, three mice, two chairs, and a wall.

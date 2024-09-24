@@ -8,3 +8,8 @@ A blue truck is parked on the side of a road.
 A blue truck is parked on the side of a narrow street, with a car parked in front of it and a white house behind it.
 A large blue truck is driving down a narrow street between two houses, with a smaller car parked on the side.
 A narrow street with parked cars and a large truck driving down it, flanked by houses and trees.
+An image with a sky, a wall, two cars, a person, a pavement, a grass, a dirt, a tree, a house, and a truck.
+An image with a truck, a house, a dirt, a person, two cars, a wall, a sky, a tree, a pavement, and a grass.
+An image with a house, a person, a pavement, a grass, a wall, two cars, a sky, a dirt, a truck, and a tree.
+An image with a dirt, a sky, a house, a person, a tree, a truck, two cars, a wall, a pavement, and a grass.
+An image with a person, a wall, a truck, a grass, two cars, a pavement, a dirt, a sky, a house, and a tree.

@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue desk with a yellow paper on it, a black wire, and a silver metal chair.
 A blue table with a yellow paper on it, a black wire, and a silver device.
 The image shows a blue desk with a white top, a yellow piece of paper on the left side, a black power strip with cords on the right side, and a blue chair with a silver frame.
+An image with a floor, a table, a paper, and a chair.
+An image with a chair, a table, a paper, and a floor.
+An image with a table, a chair, a paper, and a floor.
+An image with a paper, a table, a floor, and a chair.
+An image with a table, a chair, a paper, and a floor.

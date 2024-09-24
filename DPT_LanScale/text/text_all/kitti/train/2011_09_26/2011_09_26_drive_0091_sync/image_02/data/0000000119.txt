@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a white van parked on the side, a person walking on the sidewalk, a bicycle rider passing by, and a variety of shops and buildings lining the street, creating a lively urban atmosphere.
 A large white van is parked on a narrow street between two buildings, with a person walking on the sidewalk and a bicycle rider passing by.
 A narrow, cobblestone street with a white van parked on the left, a person walking in the middle, and a bicycle on the right, flanked by buildings and lined with flowers and plants.
+An image with six potteds, a road, a stop, a bicycle, three people, a building, a pavement, a railroad, a sky, and a truck.
+An image with a pavement, three people, a building, six potteds, a sky, a railroad, a road, a bicycle, a truck, and a stop.
+An image with a pavement, six potteds, a road, a railroad, a truck, three people, a building, a bicycle, a sky, and a stop.
+An image with six potteds, a road, a building, a bicycle, a stop, three people, a railroad, a sky, a pavement, and a truck.
+An image with six potteds, a stop, a pavement, a building, a railroad, three people, a truck, a bicycle, a road, and a sky.

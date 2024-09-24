@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with lush greenery, quaint houses, and a clear blue sky.
 The image shows a narrow street lined with trees and buildings, with a few cars parked along the side.
 A quiet residential street with a mix of trees, shrubs, and buildings, leading to a white apartment building with a balcony and a fenced courtyard.
+An image with a road, a house, a roof, three cars, a tree, a pavement, a sky, a fence, and a grass.
+An image with a sky, a tree, three cars, a road, a house, a roof, a pavement, a fence, and a grass.
+An image with a grass, a road, a tree, three cars, a pavement, a fence, a house, a roof, and a sky.
+An image with three cars, a road, a tree, a pavement, a roof, a grass, a house, a fence, and a sky.
+An image with a house, a fence, a tree, a pavement, a roof, a road, three cars, a sky, and a grass.

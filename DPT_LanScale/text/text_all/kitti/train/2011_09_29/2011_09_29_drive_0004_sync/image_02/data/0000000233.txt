@@ -8,3 +8,8 @@ A car on a road.
 A busy highway with multiple lanes of traffic, surrounded by a lush green forest.
 A long line of cars driving down a tree-lined road.
 A busy highway with multiple lanes filled with cars, surrounded by a lush green forest.
+An image with a tree, a pavement, six cars, a grass, a road, and a sky.
+An image with six cars, a road, a pavement, a tree, a sky, and a grass.
+An image with six cars, a pavement, a grass, a tree, a sky, and a road.
+An image with six cars, a pavement, a grass, a tree, a road, and a sky.
+An image with six cars, a sky, a tree, a road, a grass, and a pavement.

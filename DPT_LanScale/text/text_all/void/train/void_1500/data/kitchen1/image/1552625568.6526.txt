@@ -8,3 +8,8 @@ Two white cups on a counter.
 A coffee maker sits on a counter next to two cups.
 A coffee maker is sitting on a counter next to two cups.
 A coffee machine is placed on a counter next to a wall, with two cups on the counter.
+An image with two cups, a wall, a window, a floor, a sink, and a cabinet.
+An image with a cabinet, a wall, two cups, a floor, a sink, and a window.
+An image with a floor, a window, a wall, two cups, a sink, and a cabinet.
+An image with a cabinet, two cups, a sink, a window, a floor, and a wall.
+An image with a cabinet, a floor, a wall, a sink, two cups, and a window.

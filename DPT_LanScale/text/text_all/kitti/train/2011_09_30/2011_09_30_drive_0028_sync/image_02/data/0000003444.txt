@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with cars parked on the s
 The image captures a narrow street in a residential area, with parked cars on both sides, a few vehicles in motion, and a clear sky overhead.
 The image shows a narrow street between two-story buildings, with parked cars on both sides, and a few vehicles in motion.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a sky, two people, five cars, a wall, a roof, a bus, a road, a stop, a pavement, a house, a tree, and a grass.
+An image with a grass, a house, two people, a pavement, five cars, a sky, a stop, a wall, a road, a bus, a tree, and a roof.
+An image with five cars, a bus, a grass, a road, two people, a house, a tree, a pavement, a sky, a wall, a stop, and a roof.
+An image with two people, a grass, a bus, a house, five cars, a stop, a roof, a sky, a tree, a wall, a road, and a pavement.
+An image with two people, a roof, a house, a stop, a bus, a tree, five cars, a sky, a grass, a road, a wall, and a pavement.

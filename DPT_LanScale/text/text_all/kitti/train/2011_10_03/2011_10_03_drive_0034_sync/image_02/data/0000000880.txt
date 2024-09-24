@@ -8,3 +8,8 @@ A blue police car parked on the side of a road.
 A blue police car parked on a tree-lined street, with a person riding a bicycle in the background.
 A blue police car is parked on the side of a tree-lined street, with a person riding a bicycle in the distance.
 A tree-lined street with a blue police car parked on the side, a person riding a bicycle, and a pedestrian walking on the sidewalk.
+An image with a grass, a person, a wall, a tree, a road, and a car.
+An image with a grass, a car, a tree, a wall, a road, and a person.
+An image with a grass, a person, a wall, a road, a car, and a tree.
+An image with a tree, a wall, a grass, a car, a road, and a person.
+An image with a tree, a person, a car, a road, a wall, and a grass.

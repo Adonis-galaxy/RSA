@@ -8,3 +8,8 @@ A room with boxes and bags.
 A room in transition, with boxes and bags indicating a move or reorganization.
 A room with a door, a pile of boxes, a bag, a bookshelf, and a cat hanging from a door handle.
 A room with a door, a pile of boxes, a shelf, and a bag.
+An image with a door, a shelf, two books, a rug, a wall, a cardboard, a chair, and a handbag.
+An image with a door, a handbag, two books, a chair, a rug, a cardboard, a wall, and a shelf.
+An image with a wall, two books, a cardboard, a rug, a handbag, a shelf, a chair, and a door.
+An image with a wall, a cardboard, two books, a handbag, a door, a chair, a shelf, and a rug.
+An image with two books, a chair, a door, a handbag, a cardboard, a rug, a shelf, and a wall.

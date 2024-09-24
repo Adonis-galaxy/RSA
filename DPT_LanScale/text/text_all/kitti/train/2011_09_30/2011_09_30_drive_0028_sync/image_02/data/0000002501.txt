@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street, with a few parked cars and bicycles, lined by houses and trees, under a clear blue sky.
 The image shows a residential street with a few cars parked on the side, a bicycle leaning against a house, and a stop sign. The street is lined with trees and houses, and the sky is clear.
 A quiet residential street with a few parked cars, a bicycle, and a pedestrian, lined with trees and houses, under a clear blue sky.
+An image with a stop, a pavement, four cars, a road, a house, a grass, a tree, a sky, and a bicycle.
+An image with a sky, a grass, a pavement, a bicycle, four cars, a tree, a road, a stop, and a house.
+An image with a stop, a grass, four cars, a bicycle, a road, a pavement, a tree, a sky, and a house.
+An image with a stop, four cars, a grass, a bicycle, a house, a road, a tree, a pavement, and a sky.
+An image with four cars, a bicycle, a house, a road, a sky, a tree, a pavement, a grass, and a stop.

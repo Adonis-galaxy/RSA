@@ -8,3 +8,8 @@ The image shows a tree-lined street with a sidewalk and a curb.
 A quiet, tree-lined street with a clear path leading to a park.
 The image shows a narrow street lined with trees and bushes, with a sidewalk on the right side. The street is bordered by a low wall on the right side.
 A tree-lined street with a curved sidewalk, a brick road, and a stone wall.
+An image with a grass, a wall, a pavement, a sky, a road, and a tree.
+An image with a sky, a wall, a grass, a pavement, a road, and a tree.
+An image with a pavement, a road, a sky, a grass, a wall, and a tree.
+An image with a sky, a wall, a grass, a road, a pavement, and a tree.
+An image with a road, a tree, a grass, a pavement, a wall, and a sky.

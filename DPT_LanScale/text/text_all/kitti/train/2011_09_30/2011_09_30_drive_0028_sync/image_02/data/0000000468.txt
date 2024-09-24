@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area.
 A quiet residential street, lined with parked cars and a fence, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a blue dumpster, and a white fence. The street is shaded by trees, and there are houses on both sides.
 A narrow, tree-lined street in a residential area, with parked cars and a fence on the right side.
+An image with a wall, a fence, two cars, a house, a pavement, a sky, a tree, and a road.
+An image with two cars, a tree, a sky, a road, a wall, a pavement, a house, and a fence.
+An image with a road, two cars, a sky, a fence, a wall, a pavement, a house, and a tree.
+An image with a tree, a sky, a pavement, a road, a wall, a fence, two cars, and a house.
+An image with a sky, a house, two cars, a tree, a wall, a fence, a pavement, and a road.

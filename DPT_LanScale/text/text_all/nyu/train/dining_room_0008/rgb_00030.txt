@@ -8,3 +8,8 @@ A red chair in a room.
 The image captures a well-lit room with a red chair positioned in front of a wall-mounted artwork, which is flanked by a silver china cabinet and a doorway leading to another room.
 The image shows a room with a large red chair, a silver china cabinet, a framed picture on the wall, and a glass table.
 The image shows a room with a red chair, a silver china cabinet, a framed artwork on the wall, and a glass door leading to another room.
+An image with a shelf, a wall, a floor, a couch, a potted, and two chairs.
+An image with a floor, a potted, a couch, a wall, two chairs, and a shelf.
+An image with a couch, two chairs, a wall, a shelf, a floor, and a potted.
+An image with a wall, two chairs, a couch, a potted, a floor, and a shelf.
+An image with two chairs, a couch, a shelf, a floor, a wall, and a potted.

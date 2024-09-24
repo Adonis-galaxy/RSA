@@ -8,3 +8,8 @@ A blurry image of a chair and a table in an office setting.
 A chair is positioned in front of a large poster on a wall, and a small wooden chair is placed next to a desk.
 A small wooden chair is next to a large poster on a beige wall in an office setting.
 The image shows an office space with a desk, chair, and a large poster on the wall.
+An image with two chairs, a wall, a paper, a table, a floor, and a book.
+An image with a paper, a wall, two chairs, a table, a book, and a floor.
+An image with two chairs, a paper, a book, a wall, a floor, and a table.
+An image with a wall, two chairs, a book, a paper, a floor, and a table.
+An image with a table, two chairs, a paper, a floor, a book, and a wall.

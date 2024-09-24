@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 The image captures a quiet residential street scene with parked cars and a few vehicles on the road, under a canopy of trees.
 The image shows a street with several cars parked on the side, a building in the background, and trees lining the road.
 A row of parked cars on a tree-lined street, with a white SUV parked on the right side of the road.
+An image with six cars, a grass, a tree, a road, a pavement, and a building.
+An image with six cars, a grass, a building, a pavement, a road, and a tree.
+An image with a road, six cars, a tree, a building, a pavement, and a grass.
+An image with six cars, a tree, a road, a grass, a building, and a pavement.
+An image with six cars, a building, a grass, a road, a tree, and a pavement.

@@ -8,3 +8,8 @@ A quiet residential street.
 A quiet residential street, lined with houses and trees, with a car parked at the end.
 A narrow street lined with houses and trees, with a car parked on the side.
 A quiet residential street with houses, trees, and a parked car.
+An image with three cars, a roof, a pavement, a road, a house, and a tree.
+An image with a roof, a tree, a house, three cars, a pavement, and a road.
+An image with three cars, a tree, a pavement, a road, a roof, and a house.
+An image with a roof, three cars, a road, a house, a pavement, and a tree.
+An image with a tree, a road, a roof, three cars, a house, and a pavement.

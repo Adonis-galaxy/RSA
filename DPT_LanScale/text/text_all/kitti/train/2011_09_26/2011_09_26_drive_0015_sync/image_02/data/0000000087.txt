@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 A car on a road, with a train track and trees in the background, under a clear blue sky.
 A large black car is driving down a tree-lined street with a train track running parallel to it.
 A tree-lined street with a train track running parallel to a road, where a car is driving on the right side of the road.
+An image with six cars, a grass, a railroad, a airplane, a house, a road, a tree, and a traffic.
+An image with a airplane, six cars, a railroad, a house, a grass, a tree, a road, and a traffic.
+An image with six cars, a house, a grass, a airplane, a railroad, a traffic, a road, and a tree.
+An image with a traffic, a grass, six cars, a road, a airplane, a house, a tree, and a railroad.
+An image with a road, a airplane, a railroad, a tree, six cars, a traffic, a grass, and a house.

@@ -8,3 +8,8 @@ A city street scene with a bus and cars.
 A city street scene with a bus, traffic lights, and pedestrians, captured during the day under a clear blue sky.
 A large white bus is driving down a street with a crosswalk, passing under a traffic light, and surrounded by trees and buildings.
 A city street scene with a white bus, traffic lights, and a pedestrian crossing.
+An image with five cars, two buses, a stop, a road, three traffics, a grass, a tree, and a person.
+An image with two buses, a grass, a stop, five cars, three traffics, a person, a road, and a tree.
+An image with five cars, a person, two buses, a road, a grass, a stop, three traffics, and a tree.
+An image with three traffics, a stop, a person, five cars, a road, a grass, a tree, and two buses.
+An image with two buses, three traffics, a person, five cars, a road, a grass, a stop, and a tree.

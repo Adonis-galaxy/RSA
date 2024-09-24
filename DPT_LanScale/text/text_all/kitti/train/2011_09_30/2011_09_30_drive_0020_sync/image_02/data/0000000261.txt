@@ -8,3 +8,8 @@ The image shows a street scene with a building, a fence, a sign, a stop sign, a 
 The image captures a quiet, empty street with a construction site in the background, marked by a fence and a sign.
 The image shows a street scene with a large building, a fenced construction area, a stop sign, a street sign, a tree, a sidewalk, and a car.
 The image shows a street scene with a building on the right, a fenced area in the foreground, and a sign indicating a construction zone.
+An image with a window, a banner, a road, two stops, a house, a grass, a fence, a tree, a pavement, and a car.
+An image with a car, a banner, a fence, two stops, a tree, a grass, a house, a window, a pavement, and a road.
+An image with a tree, a banner, a grass, a car, a house, a fence, two stops, a road, a window, and a pavement.
+An image with a pavement, a fence, two stops, a window, a house, a tree, a road, a banner, a car, and a grass.
+An image with a car, two stops, a fence, a tree, a road, a grass, a window, a pavement, a banner, and a house.

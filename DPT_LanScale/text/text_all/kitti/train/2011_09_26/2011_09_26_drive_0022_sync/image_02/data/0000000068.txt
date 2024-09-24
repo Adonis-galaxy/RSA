@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a residential street scene with parked cars, a paved road, and houses, showcasing a typical day in a suburban neighborhood.
 The image shows a narrow street lined with parked cars, including a prominent red car, and a few larger vehicles, with houses visible in the background.
 A narrow street lined with parked cars and houses, with a mix of small and large vehicles, and a clear sky overhead.
+An image with a road, seven cars, a sky, a truck, a pavement, a tree, a grass, and a house.
+An image with a sky, seven cars, a grass, a truck, a tree, a pavement, a road, and a house.
+An image with seven cars, a road, a sky, a pavement, a tree, a house, a truck, and a grass.
+An image with a pavement, seven cars, a tree, a grass, a road, a sky, a house, and a truck.
+An image with a grass, seven cars, a house, a road, a pavement, a sky, a tree, and a truck.

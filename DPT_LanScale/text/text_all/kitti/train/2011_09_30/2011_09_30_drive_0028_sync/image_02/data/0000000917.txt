@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and buildings.
 The image captures a quiet residential street, with parked cars and a few pedestrians, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and buildings, with a large van parked on the right side.
 The image captures a sunlit street scene with parked cars, apartment buildings, and a clear sky.
+An image with a roof, seven cars, a house, a pavement, a tree, a road, and a sky.
+An image with a tree, a road, seven cars, a roof, a house, a sky, and a pavement.
+An image with a roof, a house, a sky, a pavement, seven cars, a tree, and a road.
+An image with seven cars, a pavement, a tree, a sky, a road, a house, and a roof.
+An image with seven cars, a pavement, a road, a sky, a house, a roof, and a tree.

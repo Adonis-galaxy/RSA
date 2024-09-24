@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a cozy dining room scene with a table set for four, featuring a white tablecloth, a blue and white striped chair, a white robe casually draped over the back of the chair, and a chandelier casting a warm glow.
 The image shows a dining room with a large table, several chairs, and a lamp.
 The image shows a dining room with a table, chairs, and a lamp, with a view of the outdoors through the windows.
+An image with five chairs, a floor, a tv, a wall, a dining, a fence, a tree, and a curtain.
+An image with a floor, five chairs, a wall, a fence, a dining, a tree, a curtain, and a tv.
+An image with five chairs, a floor, a fence, a dining, a curtain, a wall, a tree, and a tv.
+An image with five chairs, a floor, a tv, a wall, a curtain, a fence, a dining, and a tree.
+An image with a fence, five chairs, a tv, a curtain, a floor, a dining, a wall, and a tree.

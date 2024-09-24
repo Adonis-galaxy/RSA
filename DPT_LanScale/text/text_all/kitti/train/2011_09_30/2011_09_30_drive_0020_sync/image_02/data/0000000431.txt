@@ -8,3 +8,8 @@ The image shows a street scene with a building, cars, and trees.
 The image captures a quiet residential street, with a clear view of a building, a parked car, a traffic sign, and a tree, all under a blue sky.
 The image shows a street scene with a large building on the left, a smaller building in the center, a few cars parked on the right, and a sidewalk with a tree and a sign on the left.
 The image depicts a quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a crosswalk and a pedestrian island.
+An image with seven cars, a tree, a stop, a pavement, a sky, a grass, a road, and a building.
+An image with a building, seven cars, a grass, a sky, a pavement, a stop, a road, and a tree.
+An image with a sky, a grass, a pavement, a building, seven cars, a road, a stop, and a tree.
+An image with seven cars, a building, a road, a pavement, a grass, a tree, a sky, and a stop.
+An image with a building, a road, seven cars, a pavement, a sky, a grass, a tree, and a stop.

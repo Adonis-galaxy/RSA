@@ -8,3 +8,8 @@ The image shows a road with a line of traffic cones and a car driving on it.
 The image captures a scene of a road with a series of traffic cones, a car, and a pedestrian, all set against a backdrop of trees and a clear sky.
 The image shows a wide, empty highway with a few cars and trucks, flanked by trees and a grassy area, with a clear sky and sunlight.
 The image shows a road with a median strip, lined with trees and a grassy area, with a clear sky and a few vehicles on the road.
+An image with a road, four cars, a fence, five people, a tree, a grass, a pavement, and a sky.
+An image with five people, a fence, four cars, a road, a grass, a sky, a pavement, and a tree.
+An image with five people, a tree, four cars, a road, a fence, a sky, a grass, and a pavement.
+An image with a tree, five people, four cars, a grass, a fence, a sky, a pavement, and a road.
+An image with a pavement, a tree, five people, four cars, a fence, a grass, a sky, and a road.

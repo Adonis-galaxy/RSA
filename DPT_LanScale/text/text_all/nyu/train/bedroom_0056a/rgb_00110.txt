@@ -8,3 +8,8 @@ A bedroom with a bed and two doors.
 The image captures a cozy bedroom with a checkered bedspread, a lamp, a nightstand, and two doors, all under a warm light.
 The image shows a bedroom with a large bed, a nightstand with a lamp, a doorway to another room, and a ceiling light.
 The image shows a bedroom with a bed, a nightstand, a lamp, a door, and a ceiling light.
+An image with a wall, a door, a rug, a book, a bed, a ceiling, and a light.
+An image with a wall, a light, a rug, a ceiling, a book, a door, and a bed.
+An image with a light, a door, a wall, a rug, a book, a ceiling, and a bed.
+An image with a door, a book, a rug, a light, a bed, a wall, and a ceiling.
+An image with a rug, a door, a ceiling, a light, a bed, a book, and a wall.

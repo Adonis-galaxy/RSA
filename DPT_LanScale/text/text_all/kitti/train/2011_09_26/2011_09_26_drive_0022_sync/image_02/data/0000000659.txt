@@ -8,3 +8,8 @@ A black car parked on a street.
 A black car parked on a tree-lined street, with a person walking on the sidewalk and a bicycle leaning against a pole.
 A black car is parked on the side of a road with white lines, and there is a person walking in the background.
 A black car is parked on the side of a tree-lined street, with a pedestrian walking on the sidewalk and a bicycle leaning against a pole.
+An image with two cars, a building, a person, a tree, a road, a sky, and a grass.
+An image with two cars, a sky, a person, a tree, a road, a building, and a grass.
+An image with a road, a building, a tree, two cars, a grass, a sky, and a person.
+An image with a road, two cars, a person, a grass, a building, a tree, and a sky.
+An image with a building, a sky, a person, a grass, a road, a tree, and two cars.

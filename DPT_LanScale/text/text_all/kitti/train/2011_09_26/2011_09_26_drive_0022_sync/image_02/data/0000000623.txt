@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet suburban street, lined with trees and parked cars, under a clear sky.
 The image shows a tree-lined street with a car parked on the side, a pedestrian crossing sign, and a car driving down the road.
 A tree-lined street with a pedestrian crossing sign, a car, and a truck, leading to a park.
+An image with three cars, a tree, a pavement, a sky, a person, a grass, and a road.
+An image with three cars, a grass, a person, a road, a sky, a tree, and a pavement.
+An image with three cars, a person, a pavement, a road, a grass, a tree, and a sky.
+An image with a pavement, a sky, a person, a grass, three cars, a road, and a tree.
+An image with a road, a pavement, a grass, a person, three cars, a sky, and a tree.

@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 The image captures a quiet residential street, with a parked car on the side of the road, surrounded by trees and a clear sky.
 A small brown car is parked on the side of a tree-lined street.
 A narrow, tree-lined street with parked cars and a few pedestrians, leading to a clearing with a sign and a parked car.
+An image with nine cars, a tree, a road, a sky, a gravel, a grass, and a person.
+An image with a gravel, nine cars, a sky, a road, a tree, a grass, and a person.
+An image with nine cars, a person, a gravel, a road, a grass, a sky, and a tree.
+An image with a tree, nine cars, a road, a person, a grass, a sky, and a gravel.
+An image with nine cars, a person, a road, a tree, a gravel, a grass, and a sky.

@@ -8,3 +8,8 @@ A black car parked on the side of a tree-lined street.
 A parked black car on a tree-lined street, with a clear sky overhead and a residential area in the background.
 A small black car is parked on the side of a tree-lined street.
 A quiet suburban street with a parked car, lined with trees and houses, leading to a cul-de-sac.
+An image with a tree, a sky, a car, a pavement, a potted, a building, a grass, and a road.
+An image with a pavement, a sky, a car, a building, a grass, a potted, a road, and a tree.
+An image with a car, a tree, a road, a grass, a pavement, a building, a sky, and a potted.
+An image with a car, a tree, a pavement, a building, a road, a sky, a potted, and a grass.
+An image with a car, a grass, a building, a potted, a pavement, a road, a tree, and a sky.

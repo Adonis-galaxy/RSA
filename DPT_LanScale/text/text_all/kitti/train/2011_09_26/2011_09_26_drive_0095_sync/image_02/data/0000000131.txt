@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a sunlit street, with parked cars and apartment buildings in the background.
 A woman riding a bicycle on a narrow street between tall buildings, with a few cars parked along the sides.
 A woman rides her bicycle down a narrow, tree-lined street in a European city, with parked cars and pedestrians on the sidewalk.
+An image with four people, three bicycles, a pavement, a sky, six cars, a building, a tree, and a road.
+An image with three bicycles, six cars, a pavement, a sky, a building, four people, a road, and a tree.
+An image with six cars, four people, a building, three bicycles, a road, a sky, a pavement, and a tree.
+An image with a road, six cars, three bicycles, a building, a sky, four people, a tree, and a pavement.
+An image with four people, six cars, a road, a tree, three bicycles, a pavement, a sky, and a building.

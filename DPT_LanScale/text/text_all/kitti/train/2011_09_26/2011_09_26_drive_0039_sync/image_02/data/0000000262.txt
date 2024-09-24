@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a typical day on a narrow residential street, with parked cars lining the sides and a few vehicles moving along the road.
 The image shows a narrow street lined with parked cars, including a red Volkswagen and a silver car, with apartment buildings on either side.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a sky, five cars, a pavement, a wall, a tree, a fence, a road, a truck, and a roof.
+An image with a roof, five cars, a pavement, a fence, a tree, a wall, a sky, a road, and a truck.
+An image with a pavement, a sky, five cars, a truck, a wall, a roof, a tree, a fence, and a road.
+An image with five cars, a tree, a road, a truck, a fence, a roof, a sky, a pavement, and a wall.
+An image with a pavement, five cars, a wall, a roof, a sky, a road, a tree, a fence, and a truck.

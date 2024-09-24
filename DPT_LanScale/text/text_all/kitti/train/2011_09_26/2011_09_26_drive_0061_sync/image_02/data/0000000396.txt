@@ -8,3 +8,8 @@ A car parked on the side of a street.
 The image captures a quiet, tree-lined street with a parked car, a few pedestrians, and a building on the right side.
 A small white car is parked on a narrow street between two brick walls, with a few trees and bushes lining the road.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with four cars, a road, a tree, a sky, a pavement, and two walls.
+An image with four cars, a road, a tree, two walls, a pavement, and a sky.
+An image with two walls, four cars, a road, a sky, a pavement, and a tree.
+An image with two walls, a sky, a road, four cars, a pavement, and a tree.
+An image with a road, two walls, four cars, a pavement, a tree, and a sky.

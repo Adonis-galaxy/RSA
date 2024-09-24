@@ -8,3 +8,8 @@ The image shows a tree in a yard.
 A vibrant street scene with a lush green bush in the foreground, a white building in the background, and a tree-lined street in the middle.
 The image shows a narrow street lined with trees and bushes, with a large bush in the foreground and a white building with windows in the background.
 A tree-lined street with a white building on the right, a sidewalk, and a car parked on the left.
+An image with a tree, a pavement, a sky, a grass, a road, and a house.
+An image with a pavement, a road, a tree, a sky, a house, and a grass.
+An image with a grass, a pavement, a tree, a house, a road, and a sky.
+An image with a tree, a grass, a road, a pavement, a sky, and a house.
+An image with a tree, a sky, a road, a pavement, a house, and a grass.

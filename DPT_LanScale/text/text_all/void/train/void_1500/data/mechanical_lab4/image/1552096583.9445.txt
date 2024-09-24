@@ -8,3 +8,8 @@ A yellow pipe with a sign on it.
 The image shows a sink with a hose attached to it, and a yellow pipe running up the wall.
 The image shows a yellow pipe attached to a sink with a green hose, a blue box with a red cross on the wall, and a yellow sign with a black figure on it.
 The image shows a yellow pipe connected to a sink with a green hose, and there are signs and a blue box on the wall.
+An image with a wall, a floor, a cabinet, and a sink.
+An image with a wall, a sink, a cabinet, and a floor.
+An image with a wall, a sink, a floor, and a cabinet.
+An image with a cabinet, a wall, a sink, and a floor.
+An image with a sink, a cabinet, a floor, and a wall.

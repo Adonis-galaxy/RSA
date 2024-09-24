@@ -8,3 +8,8 @@ A woman walking down a street.
 The image captures a bustling city street, with a woman walking down the sidewalk, passing by a storefront, and the street itself is lined with buildings and a train track, creating a lively urban atmosphere.
 A woman walks down a narrow street between two buildings, with a train track running down the middle.
 A narrow, cobblestone street with a train track running down the middle, lined with shops and pedestrians.
+An image with fifteen people, a bicycle, a handbag, a tree, a pavement, a railroad, and a building.
+An image with fifteen people, a handbag, a bicycle, a tree, a railroad, a building, and a pavement.
+An image with a building, fifteen people, a pavement, a tree, a bicycle, a railroad, and a handbag.
+An image with fifteen people, a handbag, a bicycle, a railroad, a tree, a pavement, and a building.
+An image with a railroad, fifteen people, a bicycle, a pavement, a building, a handbag, and a tree.

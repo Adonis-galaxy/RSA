@@ -8,3 +8,8 @@ The image shows a street scene with cars and houses.
 The image captures a moment of everyday life in a residential area, with cars parked along a tree-lined street, and a person walking on the sidewalk.
 A red car is driving down a narrow street between two white houses, with a green car parked on the side.
 A narrow street in a residential area with parked cars and a curved road.
+An image with a tree, two trucks, four cars, a pavement, a sky, a house, and a road.
+An image with four cars, a house, two trucks, a pavement, a road, a tree, and a sky.
+An image with four cars, a house, two trucks, a road, a sky, a pavement, and a tree.
+An image with four cars, a tree, a road, two trucks, a house, a sky, and a pavement.
+An image with four cars, two trucks, a tree, a house, a sky, a pavement, and a road.

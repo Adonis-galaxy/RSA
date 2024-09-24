@@ -8,3 +8,8 @@ A quiet residential street.
 A quiet residential street with parked cars, lined by lush greenery and a clear blue sky.
 The image shows a narrow street lined with parked cars, a sidewalk, and houses on both sides, with a clear blue sky overhead.
 A quiet residential street with parked cars, a curved driveway, and a clear blue sky.
+An image with a sky, a road, three cars, a house, a tree, a pavement, a grass, and a wall.
+An image with a tree, a house, three cars, a sky, a grass, a road, a wall, and a pavement.
+An image with a house, a sky, a tree, a wall, a road, three cars, a grass, and a pavement.
+An image with a grass, a wall, a tree, a road, three cars, a pavement, a house, and a sky.
+An image with a road, three cars, a grass, a pavement, a wall, a tree, a house, and a sky.

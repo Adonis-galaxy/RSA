@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a person riding a bicycle.
 A narrow street in a residential area, with parked cars and a person riding a bicycle.
 A narrow street lined with parked cars and a person riding a bicycle.
 A narrow street in a residential area with parked cars and a person riding a bicycle.
+An image with nine cars, a road, a sky, a bicycle, a house, a person, a tree, and a flower.
+An image with nine cars, a house, a road, a tree, a sky, a flower, a person, and a bicycle.
+An image with a flower, nine cars, a road, a house, a tree, a sky, a person, and a bicycle.
+An image with a person, a road, nine cars, a flower, a bicycle, a sky, a house, and a tree.
+An image with a house, nine cars, a road, a tree, a person, a flower, a bicycle, and a sky.

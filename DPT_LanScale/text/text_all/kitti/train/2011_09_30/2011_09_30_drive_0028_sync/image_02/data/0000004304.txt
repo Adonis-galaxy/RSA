@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 The image captures a serene suburban street scene, with a row of parked cars lining the sidewalk, under the shade of tall trees, leading to a residential area.
 A narrow street lined with parked cars and trees, with a white building visible in the background.
 A tree-lined street with parked cars and a sidewalk.
+An image with a fence, six cars, a tree, a sky, a grass, a pavement, a wall, a house, and a road.
+An image with a pavement, six cars, a road, a fence, a house, a sky, a wall, a tree, and a grass.
+An image with a pavement, six cars, a fence, a sky, a road, a grass, a wall, a house, and a tree.
+An image with six cars, a wall, a sky, a house, a fence, a pavement, a tree, a road, and a grass.
+An image with six cars, a grass, a fence, a tree, a wall, a pavement, a house, a sky, and a road.

@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 The image captures a quiet, narrow street in a European city, with a mix of old and new buildings, a few pedestrians, and a cyclist, all under a clear sky.
 A narrow street between buildings, with a traffic light, a pedestrian crossing, a bicycle, a potted plant, and a person walking.
 A narrow, cobblestone street with buildings on both sides, a traffic light, and a bicycle rider.
+An image with a pavement, eight people, a sky, three bicycles, a railroad, a building, and a traffic.
+An image with a railroad, a pavement, eight people, a building, three bicycles, a traffic, and a sky.
+An image with eight people, a building, three bicycles, a traffic, a sky, a railroad, and a pavement.
+An image with eight people, a sky, a railroad, three bicycles, a building, a traffic, and a pavement.
+An image with eight people, a sky, a building, a pavement, a traffic, a railroad, and three bicycles.

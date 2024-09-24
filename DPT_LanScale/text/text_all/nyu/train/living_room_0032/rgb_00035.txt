@@ -8,3 +8,8 @@ A living room with a couch and a window.
 The image shows a living room with a large window, a gray couch, a dog on the couch, and a black speaker on the floor.
 The image shows a living room with a large couch, a dog on the couch, a laptop on the floor, and a window with blinds.
 The image shows a living room with a large window, a gray couch, a black speaker, and a dog sitting on the couch.
+An image with a couch, a wall, a tv, a window, and a rug.
+An image with a wall, a tv, a window, a rug, and a couch.
+An image with a window, a wall, a couch, a tv, and a rug.
+An image with a window, a couch, a tv, a rug, and a wall.
+An image with a rug, a wall, a tv, a couch, and a window.

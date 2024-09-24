@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A person walking on a sidewalk, with a staircase leading up to a house and trees lining the street.
 A person is walking down a tree-lined street, which is lined with parked cars and has a curved road leading to a white building.
 A narrow, tree-lined street with a curved path leading to a white building with a red roof, surrounded by lush greenery.
+An image with four people, a roof, a house, a pavement, a tree, a sky, a stairs, and a road.
+An image with a sky, a house, four people, a road, a stairs, a roof, a tree, and a pavement.
+An image with a tree, a house, a road, a pavement, four people, a roof, a sky, and a stairs.
+An image with a sky, four people, a house, a tree, a stairs, a road, a roof, and a pavement.
+An image with a stairs, a tree, four people, a pavement, a house, a sky, a road, and a roof.

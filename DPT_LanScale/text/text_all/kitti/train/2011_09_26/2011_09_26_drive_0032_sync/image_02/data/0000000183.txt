@@ -8,3 +8,8 @@ The image shows a road with traffic cones and signs, indicating a construction z
 The image captures a scene of a road under construction, with traffic flowing around the work zone, marked by cones and signs, and a clear sky overhead.
 The image shows a wide, empty highway with a few cars and trucks driving on it, flanked by trees and lined with traffic cones and signs.
 The image shows a highway with multiple lanes, a median, and a side road, with traffic flowing in both directions.
+An image with seven cars, three traffics, a tree, a pavement, a truck, a road, and a grass.
+An image with three traffics, seven cars, a pavement, a truck, a road, a grass, and a tree.
+An image with three traffics, a road, seven cars, a pavement, a tree, a truck, and a grass.
+An image with seven cars, a pavement, a truck, a tree, a road, three traffics, and a grass.
+An image with a grass, three traffics, a tree, seven cars, a truck, a road, and a pavement.

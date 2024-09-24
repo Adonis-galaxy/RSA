@@ -8,3 +8,8 @@ A piano in a room.
 The image captures a serene and cozy room with a piano, a window, and a comfortable seating area.
 The image shows a room with a large window, a piano, a bench, and a curtain.
 The image shows a room with a piano, a window with curtains, and a blue pillow on a bench.
+An image with a window, a book, a bench, a wall, a curtain, a pillow, and a floor.
+An image with a floor, a window, a book, a wall, a pillow, a curtain, and a bench.
+An image with a window, a pillow, a bench, a curtain, a book, a floor, and a wall.
+An image with a book, a wall, a floor, a curtain, a window, a bench, and a pillow.
+An image with a bench, a pillow, a floor, a window, a curtain, a wall, and a book.

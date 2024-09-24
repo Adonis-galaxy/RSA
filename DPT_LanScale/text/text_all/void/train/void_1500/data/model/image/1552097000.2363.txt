@@ -8,3 +8,8 @@ A model of a building on a table.
 A model of a building on a table.
 A small model of a building on a table.
 The image shows a model of a building, possibly a school or a similar institution, with a parking lot and a street in front of it, placed on a wooden stand.
+An image with a building, a floor, a wall, and a tree.
+An image with a building, a tree, a floor, and a wall.
+An image with a tree, a building, a wall, and a floor.
+An image with a building, a floor, a wall, and a tree.
+An image with a floor, a tree, a building, and a wall.

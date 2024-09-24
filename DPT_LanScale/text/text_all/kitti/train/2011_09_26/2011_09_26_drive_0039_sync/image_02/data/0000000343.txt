@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street, with parked cars and a clear sky, reflecting a peaceful suburban setting.
 A narrow street in a residential area with parked cars and a truck, a traffic light, and a pedestrian crossing.
 A quiet residential street with parked cars and a clear sky.
+An image with three cars, a pavement, a wall, a roof, a fence, a sky, a house, a road, and a tree.
+An image with three cars, a roof, a tree, a pavement, a fence, a house, a wall, a sky, and a road.
+An image with a road, a fence, three cars, a roof, a pavement, a wall, a tree, a sky, and a house.
+An image with three cars, a pavement, a house, a fence, a roof, a tree, a sky, a wall, and a road.
+An image with a roof, three cars, a pavement, a wall, a road, a tree, a sky, a fence, and a house.

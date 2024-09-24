@@ -8,3 +8,8 @@ A yellow utility truck parked on the side of a road.
 A yellow utility truck parked on the side of a winding road, with a person standing on the grassy shoulder and a sign indicating a curve ahead.
 A yellow utility truck is parked on the side of a curvy road, with a person standing near it, and a sign indicating a speed limit of 60 km/h.
 A winding road with a yellow utility vehicle parked on the side, surrounded by trees and a clear sky.
+An image with a truck, a tree, a grass, a sky, a person, a parking, and a road.
+An image with a person, a tree, a road, a grass, a sky, a truck, and a parking.
+An image with a person, a grass, a parking, a truck, a road, a tree, and a sky.
+An image with a truck, a road, a grass, a sky, a person, a tree, and a parking.
+An image with a grass, a person, a sky, a truck, a road, a tree, and a parking.

@@ -8,3 +8,8 @@ The image shows a street view of a white building with orange doors and windows,
 The image captures a residential street scene with a white building on the left, a parked car on the right, and a child's toy in the foreground.
 The image shows a street view of a residential area with a large white building on the left, a smaller white building in the center, and a few cars parked on the right.
 The image shows a residential street with a row of white houses, a sidewalk, and a road, with parked cars and a few trees.
+An image with six cars, a road, a tree, a wall, a grass, a sky, and a pavement.
+An image with a road, six cars, a grass, a pavement, a tree, a wall, and a sky.
+An image with a sky, six cars, a road, a wall, a pavement, a tree, and a grass.
+An image with six cars, a road, a tree, a wall, a pavement, a grass, and a sky.
+An image with a tree, six cars, a sky, a wall, a pavement, a road, and a grass.

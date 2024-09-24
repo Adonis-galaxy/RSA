@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a European city.
 The image captures a quiet residential street, with parked cars lining the sidewalk and brick buildings forming a backdrop, under a clear sky.
 The image shows a narrow street lined with parked cars and tall buildings, with a person walking on the sidewalk.
 The image depicts a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a sky, eight cars, a person, a stop, a tree, a pavement, a road, and a window.
+An image with eight cars, a stop, a person, a pavement, a road, a window, a sky, and a tree.
+An image with a window, eight cars, a road, a tree, a stop, a pavement, a person, and a sky.
+An image with a sky, eight cars, a stop, a person, a road, a pavement, a window, and a tree.
+An image with eight cars, a tree, a sky, a person, a stop, a pavement, a road, and a window.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with a mix of vehicles, including cars and a truck, parked along the side of the road, and a pedestrian crossing in the foreground, all under a clear blue sky.
 The image shows a busy street with a mix of vehicles, including cars and a truck, parked along the side. The road is lined with trees, and there are billboards visible in the background. The photo appears to be taken during the day under bright sunlight.
 A busy street scene with a mix of vehicles, including cars and a van, parked along the side of the road, and a pedestrian crossing in the distance.
+An image with twenty cars, a building, a tree, a road, two trucks, a sky, and a grass.
+An image with two trucks, a building, twenty cars, a grass, a sky, a tree, and a road.
+An image with twenty cars, a road, two trucks, a building, a grass, a tree, and a sky.
+An image with twenty cars, a grass, a road, a tree, two trucks, a sky, and a building.
+An image with twenty cars, a grass, a building, two trucks, a road, a sky, and a tree.

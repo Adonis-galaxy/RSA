@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a truck parked in front of a building, suggesting a moment of calm before the day begins.
 The image shows a narrow street lined with parked cars and buildings, with a truck parked in the middle of the street.
 A narrow street lined with parked cars and buildings, with a truck parked in the middle.
+An image with ten cars, a truck, a road, a house, a pavement, a tree, a fence, and a wall.
+An image with a truck, ten cars, a road, a tree, a fence, a pavement, a wall, and a house.
+An image with ten cars, a road, a fence, a tree, a pavement, a wall, a house, and a truck.
+An image with a truck, ten cars, a tree, a house, a pavement, a fence, a wall, and a road.
+An image with ten cars, a pavement, a road, a house, a wall, a fence, a truck, and a tree.

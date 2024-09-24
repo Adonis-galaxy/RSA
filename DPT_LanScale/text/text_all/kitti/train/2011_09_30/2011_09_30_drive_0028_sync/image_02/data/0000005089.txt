@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a trash can, and a white struct
 The image captures a quiet residential street with parked cars, a pedestrian crossing, and a public phone booth, all under a clear blue sky.
 The image shows a street scene with a large white trash can on the sidewalk, a few cars parked along the road, and a blue sky.
 The image depicts a quiet residential street with parked cars, a curved road, and a few pedestrians, all under a clear blue sky.
+An image with nine cars, a grass, a truck, a tree, a house, a person, a sky, a road, and a pavement.
+An image with nine cars, a truck, a tree, a house, a pavement, a grass, a sky, a road, and a person.
+An image with a road, nine cars, a sky, a person, a pavement, a grass, a truck, a tree, and a house.
+An image with nine cars, a house, a truck, a road, a grass, a sky, a tree, a pavement, and a person.
+An image with nine cars, a tree, a pavement, a grass, a road, a house, a person, a truck, and a sky.

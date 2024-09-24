@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a narrow street between houses, with orange flowers on the right side.
 A white van is parked on a narrow street between two walls with orange flowers.
 A white van is parked on a narrow street lined with orange flowers and green hedges, with houses visible in the background.
+An image with a sky, a road, a wall, a truck, a car, a pavement, a tree, and a grass.
+An image with a sky, a car, a grass, a wall, a pavement, a truck, a road, and a tree.
+An image with a road, a wall, a grass, a truck, a pavement, a sky, a car, and a tree.
+An image with a truck, a wall, a tree, a pavement, a grass, a road, a sky, and a car.
+An image with a grass, a tree, a wall, a truck, a road, a pavement, a car, and a sky.

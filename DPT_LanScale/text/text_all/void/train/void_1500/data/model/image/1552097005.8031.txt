@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a red roof, placed on a wooden shelf in a room with a person standing in the background.
 The image shows a model of a building, which is placed on a wooden shelf.
 The image shows a model of a building with a glass display case, placed on a wooden table, with a person standing in the background.
+An image with a floor, a building, a person, and a cabinet.
+An image with a floor, a cabinet, a building, and a person.
+An image with a floor, a person, a cabinet, and a building.
+An image with a building, a floor, a person, and a cabinet.
+An image with a floor, a cabinet, a person, and a building.

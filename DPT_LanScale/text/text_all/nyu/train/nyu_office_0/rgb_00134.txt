@@ -8,3 +8,8 @@ The image shows a dark hallway with a greenish tint.
 The image captures a narrow hallway with a series of doors on the right side, leading to a room with green walls and a white floor.
 The image shows a narrow hallway with a large, green, glass door on the right side, leading to a room with a white ceiling.
 The image shows a narrow hallway with a series of dark green doors on the right side, leading to a room with a greenish glow.
+An image with a floor, a window, a wall, a door, and a light.
+An image with a floor, a door, a wall, a light, and a window.
+An image with a light, a window, a door, a floor, and a wall.
+An image with a light, a window, a wall, a door, and a floor.
+An image with a door, a wall, a window, a light, and a floor.

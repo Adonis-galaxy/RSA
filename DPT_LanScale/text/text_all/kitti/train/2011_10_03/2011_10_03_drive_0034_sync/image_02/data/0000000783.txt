@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a sidewalk.
 A quiet residential street, lined with neatly trimmed hedges and parked cars, under a clear blue sky.
 The image shows a narrow street lined with parked cars and tall hedges, with a clear sky overhead.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a row of houses.
+An image with a road, five cars, a sky, a wall, a tree, a house, a grass, and a pavement.
+An image with a house, five cars, a road, a tree, a sky, a grass, a pavement, and a wall.
+An image with a house, five cars, a grass, a pavement, a road, a sky, a tree, and a wall.
+An image with five cars, a wall, a road, a sky, a tree, a house, a pavement, and a grass.
+An image with five cars, a sky, a tree, a house, a wall, a pavement, a road, and a grass.

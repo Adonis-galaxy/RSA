@@ -8,3 +8,8 @@ The image shows a white table with a black base.
 The image shows a white table with a green edge, placed on a carpeted floor, with other tables and chairs in the background.
 The image shows a white table with a black base, placed in a room with other white tables.
 The image shows a white table with a curved edge, placed on a dark floor, with other similar tables in the background.
+An image with a dining, a floor, and a chair.
+An image with a chair, a floor, and a dining.
+An image with a floor, a dining, and a chair.
+An image with a chair, a dining, and a floor.
+An image with a floor, a dining, and a chair.

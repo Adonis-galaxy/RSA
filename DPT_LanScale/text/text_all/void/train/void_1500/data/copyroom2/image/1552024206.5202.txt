@@ -8,3 +8,8 @@ The image shows a white printer in a room with green walls.
 The image shows a small room with a white printer and a cardboard box on the floor.
 The image shows a small room with a white printer and a pink cardboard box.
 The image shows a room with a green wall, a white printer, and a cardboard box on a table.
+An image with a ceiling, a light, a paper, a wall, a floor, and a cardboard.
+An image with a light, a ceiling, a paper, a cardboard, a floor, and a wall.
+An image with a ceiling, a paper, a light, a wall, a floor, and a cardboard.
+An image with a wall, a cardboard, a floor, a ceiling, a paper, and a light.
+An image with a paper, a light, a wall, a ceiling, a cardboard, and a floor.

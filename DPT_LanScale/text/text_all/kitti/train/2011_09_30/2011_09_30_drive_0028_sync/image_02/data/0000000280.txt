@@ -8,3 +8,8 @@ The image shows a street scene with parked cars.
 The image captures a quiet residential street with parked cars, a clear sky, and a row of houses.
 The image shows a street scene with parked cars, apartment buildings, and a clear sky.
 The image shows a residential street with parked cars, apartment buildings, and a clear sky.
+An image with six cars, a road, a pavement, a tree, a house, a truck, and a sky.
+An image with six cars, a house, a truck, a tree, a pavement, a sky, and a road.
+An image with six cars, a truck, a tree, a pavement, a sky, a road, and a house.
+An image with a road, six cars, a tree, a sky, a truck, a house, and a pavement.
+An image with six cars, a road, a truck, a house, a tree, a pavement, and a sky.

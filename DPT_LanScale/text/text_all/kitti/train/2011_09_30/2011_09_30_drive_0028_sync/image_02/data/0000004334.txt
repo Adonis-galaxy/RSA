@@ -8,3 +8,8 @@ The image shows a street with cars and a person.
 The image captures a bustling city street, with a mix of vehicles and pedestrians, set against a backdrop of lush greenery.
 A narrow street lined with parked cars and trees, with a few vehicles driving down it.
 A narrow street lined with parked cars and trees, leading to a residential area.
+An image with ten cars, a tree, a sky, a person, a wall, a road, and a pavement.
+An image with ten cars, a person, a tree, a wall, a sky, a pavement, and a road.
+An image with a road, ten cars, a pavement, a sky, a tree, a person, and a wall.
+An image with ten cars, a tree, a pavement, a person, a sky, a wall, and a road.
+An image with ten cars, a sky, a road, a wall, a person, a pavement, and a tree.

@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 A quiet suburban street, lined with trees and a parked car, leads to a serene park with a bench and a small building.
 The image shows a tree-lined street with a large, grassy hill in the background, a sidewalk, a bench, a trash can, and a lamp post.
 A quiet suburban street with a curved road, lined with trees and a parked car, leading to a cul-de-sac with a bench and a small building.
+An image with a road, a wall, a grass, a car, a sky, a mountain, a pavement, and a tree.
+An image with a pavement, a grass, a mountain, a car, a tree, a sky, a wall, and a road.
+An image with a road, a grass, a car, a sky, a mountain, a tree, a wall, and a pavement.
+An image with a tree, a grass, a pavement, a wall, a car, a sky, a mountain, and a road.
+An image with a tree, a mountain, a wall, a grass, a road, a pavement, a sky, and a car.

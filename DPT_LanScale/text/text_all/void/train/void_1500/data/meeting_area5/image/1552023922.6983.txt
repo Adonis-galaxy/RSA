@@ -8,3 +8,8 @@ White chairs with black wheels around a white table.
 The image shows two white chairs with black wheels and a white table with a black edge, all placed on a gray carpeted floor.
 The image shows two white chairs with black wheels and a white table with a black frame, all placed on a gray carpeted floor.
 The image shows a white table with two chairs, placed in a room with other furniture.
+An image with five chairs, a floor, a dining, and a wall.
+An image with five chairs, a dining, a floor, and a wall.
+An image with five chairs, a wall, a dining, and a floor.
+An image with a dining, a floor, five chairs, and a wall.
+An image with a dining, five chairs, a wall, and a floor.

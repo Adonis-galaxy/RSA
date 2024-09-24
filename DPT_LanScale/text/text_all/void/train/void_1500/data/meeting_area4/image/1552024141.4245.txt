@@ -8,3 +8,8 @@ A row of white chairs around a white table.
 A row of white chairs around a white table in a room.
 A long white table with several white chairs around it, all on wheels, in a room with a white wall.
 A long white table with white chairs on wheels, set up in a room with a white wall.
+An image with nine chairs, four dinings, a door, two walls, and a floor.
+An image with a floor, two walls, four dinings, nine chairs, and a door.
+An image with a floor, four dinings, nine chairs, two walls, and a door.
+An image with nine chairs, a door, two walls, four dinings, and a floor.
+An image with four dinings, two walls, nine chairs, a door, and a floor.

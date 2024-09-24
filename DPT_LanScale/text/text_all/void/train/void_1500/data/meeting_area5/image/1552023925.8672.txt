@@ -8,3 +8,8 @@ A row of white chairs around a white table.
 A row of white chairs with black armrests around a long white table in a room with a yellow wall.
 A long white table with six white chairs, set up in a room with a yellow wall.
 A long white table with white chairs on a gray floor in a room with a yellow wall.
+An image with a tv, five chairs, two dinings, a door, a wall, and a floor.
+An image with a floor, a wall, a tv, five chairs, a door, and two dinings.
+An image with five chairs, a door, two dinings, a wall, a tv, and a floor.
+An image with a tv, a wall, two dinings, five chairs, a door, and a floor.
+An image with five chairs, two dinings, a floor, a tv, a door, and a wall.

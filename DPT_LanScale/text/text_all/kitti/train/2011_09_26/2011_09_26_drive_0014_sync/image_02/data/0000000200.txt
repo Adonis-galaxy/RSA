@@ -8,3 +8,8 @@ A black car on a street.
 A black car is stopped at a traffic light, with a bicyclist and pedestrians waiting to cross the street.
 A black car is driving down a tree-lined street, passing a group of people on bicycles and a traffic light.
 A black car is driving down a tree-lined street with a crosswalk, while a bicyclist and pedestrians wait at a traffic light.
+An image with five people, a backpack, four cars, four traffics, two bicycles, a grass, a building, a sky, and a tree.
+An image with a sky, a tree, five people, two bicycles, four traffics, a grass, four cars, a building, and a backpack.
+An image with two bicycles, a backpack, a grass, five people, four cars, four traffics, a sky, a building, and a tree.
+An image with four cars, five people, a sky, four traffics, two bicycles, a tree, a building, a backpack, and a grass.
+An image with five people, a backpack, four cars, four traffics, a grass, a building, two bicycles, a tree, and a sky.

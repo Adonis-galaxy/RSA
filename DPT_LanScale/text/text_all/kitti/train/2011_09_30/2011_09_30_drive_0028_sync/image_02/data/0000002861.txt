@@ -8,3 +8,8 @@ A blue van parked on a street.
 A blue van parked on a tree-lined street, with a person walking on the sidewalk and a bicycle rider in the distance.
 A blue van is parked on the side of a tree-lined street, with a person riding a bicycle in the distance.
 A blue van is parked on the side of a tree-lined street, with a person riding a bicycle in the distance.
+An image with a sky, a building, a pavement, two cars, a road, a grass, a tree, and a person.
+An image with two cars, a pavement, a building, a grass, a sky, a tree, a person, and a road.
+An image with two cars, a grass, a road, a person, a pavement, a tree, a sky, and a building.
+An image with a pavement, a grass, a tree, two cars, a building, a road, a sky, and a person.
+An image with a grass, two cars, a sky, a person, a building, a road, a pavement, and a tree.

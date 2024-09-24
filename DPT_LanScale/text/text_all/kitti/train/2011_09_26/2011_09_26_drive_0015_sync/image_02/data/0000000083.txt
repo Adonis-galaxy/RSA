@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 A solitary car on a quiet street, with a clear sky overhead and a line of trees on the right.
 A car is driving down a road with trees on both sides, and there are power lines overhead.
 The image depicts a wide, tree-lined road with a train track running parallel to it, flanked by parked cars and a few moving vehicles, including a car with a trailer.
+An image with six cars, a airplane, a road, a railroad, a tree, a house, a grass, and a traffic.
+An image with six cars, a house, a traffic, a grass, a airplane, a road, a tree, and a railroad.
+An image with a tree, six cars, a traffic, a road, a airplane, a railroad, a grass, and a house.
+An image with a house, a tree, a road, a airplane, a grass, six cars, a railroad, and a traffic.
+An image with six cars, a grass, a traffic, a road, a railroad, a house, a tree, and a airplane.

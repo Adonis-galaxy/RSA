@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 A quiet residential street with parked cars and a bicycle, under a clear sky.
 The image shows a narrow street lined with parked cars and a truck, with a large white house on the right side.
 A narrow street lined with parked cars and a white truck, with a blue van parked in front of a white house.
+An image with five cars, two trucks, a road, a house, a sky, a roof, a tree, a fence, and a bicycle.
+An image with a house, a roof, a tree, five cars, two trucks, a bicycle, a sky, a road, and a fence.
+An image with a fence, a bicycle, a road, a sky, five cars, two trucks, a tree, a house, and a roof.
+An image with five cars, a sky, a roof, two trucks, a tree, a fence, a house, a road, and a bicycle.
+An image with a road, five cars, a fence, a roof, two trucks, a house, a bicycle, a sky, and a tree.

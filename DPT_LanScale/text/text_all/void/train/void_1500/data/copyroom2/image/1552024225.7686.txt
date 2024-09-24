@@ -8,3 +8,8 @@ The image shows a green cabinet with papers and a pink paper on the wall.
 The image shows a green cabinet with papers and a pink folder on the wall.
 The image shows a green cabinet with several open shelves, each containing various items such as papers, books, and folders.
 The image shows a green cabinet with multiple shelves, each containing various items such as papers, books, and folders.
+An image with five books, a cabinet, a paper, and a wall.
+An image with five books, a paper, a wall, and a cabinet.
+An image with a paper, five books, a wall, and a cabinet.
+An image with five books, a cabinet, a wall, and a paper.
+An image with a wall, five books, a cabinet, and a paper.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a tranquil residential street, lined with parked cars, apartment buildings, and a lush green lawn, all under a clear blue sky.
 The image shows a long, narrow street lined with parked cars and lush green trees, with apartment buildings on both sides.
 A quiet residential street with a mix of houses and apartments, lined with trees and parked cars, leading to a white building with a red roof.
+An image with nine cars, a road, a house, a roof, a grass, a pavement, and a tree.
+An image with nine cars, a house, a road, a tree, a pavement, a grass, and a roof.
+An image with a road, nine cars, a roof, a house, a grass, a pavement, and a tree.
+An image with nine cars, a house, a grass, a tree, a roof, a road, and a pavement.
+An image with nine cars, a road, a tree, a pavement, a house, a roof, and a grass.

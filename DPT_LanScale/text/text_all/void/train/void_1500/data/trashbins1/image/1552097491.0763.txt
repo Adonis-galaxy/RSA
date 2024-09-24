@@ -8,3 +8,8 @@ A trash can with a white plastic bag.
 A trash can with a white plastic bag and green trash bag.
 A large trash can with a clear plastic bag and a green plastic bag.
 A trash can with a white plastic bag and green trash bag.
+An image with a towel, a floor, a handbag, a door, and a wall.
+An image with a floor, a door, a wall, a towel, and a handbag.
+An image with a towel, a floor, a door, a handbag, and a wall.
+An image with a handbag, a floor, a door, a towel, and a wall.
+An image with a handbag, a wall, a door, a floor, and a towel.

@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 A quiet, tree-lined street with a clear path for vehicles, marked by a single white line.
 The image shows a narrow, tree-lined street with a brick wall on the left side, a yellow sign on a pole, and a white line on the road.
 The image depicts a tree-lined street with a curved road, a sidewalk, and a brick wall, with a sign indicating a one-way street and a pedestrian crossing.
+An image with a grass, a road, a pavement, a wall, and a tree.
+An image with a road, a wall, a tree, a grass, and a pavement.
+An image with a tree, a grass, a wall, a road, and a pavement.
+An image with a road, a pavement, a grass, a tree, and a wall.
+An image with a pavement, a tree, a road, a wall, and a grass.

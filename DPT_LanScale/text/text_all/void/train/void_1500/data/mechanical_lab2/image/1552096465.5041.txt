@@ -8,3 +8,8 @@ The image shows a classroom setting with two blue chairs and a pink cabinet.
 The image shows a classroom setting with two blue chairs and a pink cabinet.
 The image shows a classroom with two blue chairs and a pink cabinet.
 The image shows a classroom setting with two blue chairs and a pink cabinet, all placed on a white tiled floor.
+An image with a cabinet, two chairs, a floor, and a counter.
+An image with two chairs, a floor, a cabinet, and a counter.
+An image with a floor, a cabinet, two chairs, and a counter.
+An image with a floor, two chairs, a cabinet, and a counter.
+An image with a counter, two chairs, a cabinet, and a floor.

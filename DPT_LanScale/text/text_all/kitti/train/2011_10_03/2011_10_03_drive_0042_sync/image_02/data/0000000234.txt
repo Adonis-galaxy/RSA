@@ -8,3 +8,8 @@ The image shows a highway with a clear blue sky above.
 The image captures a clear, sunny day with a long, empty highway stretching into the distance, flanked by lush greenery and a few scattered vehicles, all under a vast, blue sky.
 The image shows a wide, empty highway with a few cars, a bridge in the distance, and a clear blue sky.
 The image shows a wide, multi-lane highway with a clear sky, a few cars, and a bridge in the background.
+An image with a pavement, three cars, a fence, a building, a road, and a tree.
+An image with a road, three cars, a pavement, a fence, a building, and a tree.
+An image with three cars, a building, a road, a fence, a pavement, and a tree.
+An image with three cars, a road, a building, a tree, a pavement, and a fence.
+An image with a building, three cars, a fence, a tree, a road, and a pavement.

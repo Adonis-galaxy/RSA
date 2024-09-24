@@ -8,3 +8,8 @@ The image shows a street scene with houses, trees, and a sidewalk.
 The image captures a quiet residential street, with a clear sky overhead and a well-maintained sidewalk lined with lush greenery and neatly trimmed hedges.
 The image shows a narrow street lined with houses, trees, and a sidewalk, with a car parked on the side of the road and a blue sign on a pole.
 The image depicts a quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a sky, a tree, a road, a traffic, a window, a wall, a house, and a pavement.
+An image with a window, a house, a wall, a tree, a traffic, a sky, a pavement, and a road.
+An image with a road, a wall, a traffic, a pavement, a sky, a window, a tree, and a house.
+An image with a pavement, a traffic, a road, a window, a house, a sky, a tree, and a wall.
+An image with a house, a road, a traffic, a pavement, a wall, a sky, a window, and a tree.

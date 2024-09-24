@@ -8,3 +8,8 @@ A roll of paper leaning against a wall.
 A roll of paper leaning against a wall next to a checkered board and a box.
 A roll of paper leaning against a white wall next to a checkered board and a cardboard box.
 A room with a white wall, a door, a black and white checkered board, and a box with a roll of paper.
+An image with a door, a wall, a cardboard, and a paper.
+An image with a paper, a wall, a cardboard, and a door.
+An image with a door, a paper, a wall, and a cardboard.
+An image with a wall, a paper, a cardboard, and a door.
+An image with a door, a wall, a cardboard, and a paper.

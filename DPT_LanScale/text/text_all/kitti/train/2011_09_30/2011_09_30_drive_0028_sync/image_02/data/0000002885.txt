@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A quiet, tree-lined street with a single pedestrian, a cyclist, and a parked car, under a clear sky.
 A person riding a bicycle on a sunny day, with a red and white yield sign in the background, and a white building with a black roof in the distance.
 A quiet, tree-lined street with a single pedestrian, a red yield sign, and a white building in the background.
+An image with a person, five cars, a bicycle, a building, a grass, a tree, a pavement, a road, and a sky.
+An image with a bicycle, a pavement, five cars, a road, a sky, a building, a tree, a person, and a grass.
+An image with a bicycle, five cars, a person, a sky, a road, a tree, a building, a grass, and a pavement.
+An image with a sky, five cars, a person, a grass, a building, a road, a tree, a pavement, and a bicycle.
+An image with a tree, a pavement, five cars, a sky, a grass, a road, a building, a bicycle, and a person.

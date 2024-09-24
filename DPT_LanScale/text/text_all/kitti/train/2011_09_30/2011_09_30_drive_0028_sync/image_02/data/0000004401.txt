@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and trees, leading to a white building.
 The image shows a narrow street lined with parked cars, trees, and a sidewalk, with a red car parked on the side of the road.
 A tree-lined street with parked cars and a sidewalk, leading to a white building with a balcony.
+An image with five cars, a road, a building, a pavement, a wall, a fence, and a tree.
+An image with a wall, a building, five cars, a fence, a pavement, a tree, and a road.
+An image with five cars, a fence, a pavement, a building, a road, a tree, and a wall.
+An image with five cars, a pavement, a road, a fence, a building, a tree, and a wall.
+An image with a road, a tree, five cars, a wall, a pavement, a fence, and a building.

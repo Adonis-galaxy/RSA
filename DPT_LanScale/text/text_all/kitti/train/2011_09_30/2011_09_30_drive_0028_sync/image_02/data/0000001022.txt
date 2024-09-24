@@ -8,3 +8,8 @@ A tree-lined street with cars.
 A tree-lined road with a car driving under a clear sky.
 A narrow, tree-lined road with a few cars and pedestrians, leading to a bridge.
 A tree-lined road with a sidewalk, cars, and pedestrians, leading to a bridge.
+An image with a tree, a road, two people, two cars, a wall, a pavement, and a fence.
+An image with two cars, two people, a fence, a pavement, a tree, a wall, and a road.
+An image with two people, two cars, a wall, a fence, a road, a tree, and a pavement.
+An image with two people, a fence, a wall, two cars, a pavement, a road, and a tree.
+An image with two people, a tree, a pavement, a road, two cars, a wall, and a fence.

@@ -8,3 +8,8 @@ A man is sitting in a chair.
 A man is sitting in a chair, and there is a desk with a computer monitor and keyboard in the foreground.
 A man is sitting in a chair in a blurry office setting.
 A man is sitting in a chair in a room with a desk and a door.
+An image with a floor, a wall, a refrigerator, a counter, a door, and a person.
+An image with a counter, a floor, a door, a person, a refrigerator, and a wall.
+An image with a refrigerator, a person, a floor, a door, a wall, and a counter.
+An image with a door, a refrigerator, a person, a wall, a counter, and a floor.
+An image with a door, a wall, a person, a refrigerator, a floor, and a counter.

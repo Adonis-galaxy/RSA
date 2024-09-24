@@ -8,3 +8,8 @@ A bedroom with a bed and a picture on the wall.
 The image shows an empty room with a bed, a door, and a window, with a few framed pictures on the wall.
 The image shows a dimly lit bedroom with a large bed, a doorway, a picture on the wall, and a ceiling light.
 The image shows a bedroom with a bed, a doorway, a window, and framed artwork on the wall.
+An image with a ceiling, a window, a bed, a door, a wall, and a rug.
+An image with a wall, a bed, a door, a window, a rug, and a ceiling.
+An image with a rug, a bed, a door, a window, a wall, and a ceiling.
+An image with a bed, a door, a rug, a wall, a ceiling, and a window.
+An image with a ceiling, a rug, a wall, a door, a window, and a bed.

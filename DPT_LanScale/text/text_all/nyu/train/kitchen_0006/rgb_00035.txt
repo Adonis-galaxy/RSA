@@ -8,3 +8,8 @@ A kitchen with white appliances and a white counter.
 The image captures a small, somewhat cluttered kitchen with a focus on the stove and oven, which are positioned next to each other and appear to be in use.
 The image shows a small kitchen with a white stove, a white oven, a white dishwasher, and white cabinets. The stove is relatively large compared to the other appliances and the cabinets.
 The image shows a small, somewhat cluttered kitchen with white appliances and a white countertop.
+An image with a sink, a cabinet, three bottles, two ovens, a wall, a counter, and a towel.
+An image with two ovens, a sink, a cabinet, three bottles, a counter, a towel, and a wall.
+An image with a wall, a counter, two ovens, three bottles, a sink, a towel, and a cabinet.
+An image with a wall, a sink, two ovens, a counter, a cabinet, a towel, and three bottles.
+An image with a towel, two ovens, three bottles, a cabinet, a wall, a sink, and a counter.

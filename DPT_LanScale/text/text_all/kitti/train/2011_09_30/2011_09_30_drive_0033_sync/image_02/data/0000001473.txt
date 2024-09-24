@@ -8,3 +8,8 @@ The image shows a street sign with an arrow pointing to the right.
 The image captures a serene, tree-lined road with a blue sign indicating an upcoming right turn, a car parked on the side, and a white fence on the right side, all under a clear blue sky.
 The image shows a street sign with an arrow pointing to the right, a car parked on the side of the road, a white fence, and a forest in the background.
 A narrow, tree-lined road with a blue sign indicating an upcoming left turn, a white fence, and a car parked on the right side.
+An image with a car, a grass, a sky, a tree, a fence, a road, and a pavement.
+An image with a sky, a pavement, a tree, a fence, a car, a road, and a grass.
+An image with a grass, a sky, a road, a tree, a pavement, a car, and a fence.
+An image with a road, a tree, a grass, a fence, a pavement, a car, and a sky.
+An image with a sky, a tree, a car, a fence, a pavement, a grass, and a road.

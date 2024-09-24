@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building with garages.
 A quiet residential street with parked cars and a truck, leading to a row of garages.
 The image shows a residential street with parked cars, a truck, and a trailer, with a large white building on the left and a line of trees on the right.
 A quiet residential street with parked cars and a white garage.
+An image with a sky, a roof, five cars, a road, a grass, a wall, a truck, a tree, a pavement, and a building.
+An image with five cars, a building, a grass, a road, a truck, a tree, a roof, a pavement, a sky, and a wall.
+An image with a wall, five cars, a tree, a building, a road, a truck, a pavement, a roof, a sky, and a grass.
+An image with a roof, five cars, a building, a grass, a sky, a truck, a wall, a road, a pavement, and a tree.
+An image with five cars, a building, a truck, a road, a pavement, a sky, a roof, a wall, a grass, and a tree.

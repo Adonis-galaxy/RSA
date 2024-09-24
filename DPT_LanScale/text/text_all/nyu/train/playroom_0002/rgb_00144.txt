@@ -8,3 +8,8 @@ The room is messy.
 The image captures a room in a state of disarray, with various items scattered around, including a bed, a table, and a window with blinds.
 The room is filled with various items, including a large bed, a table, a chair, a shelf, and a window with blinds.
 The room is cluttered with various items, including a bed, a table, and a shelf, all situated under two windows with blinds.
+An image with a cabinet, a bed, a table, a ceiling, a window, a rug, and a wall.
+An image with a ceiling, a table, a wall, a window, a bed, a cabinet, and a rug.
+An image with a cabinet, a bed, a ceiling, a wall, a rug, a window, and a table.
+An image with a bed, a ceiling, a table, a cabinet, a window, a rug, and a wall.
+An image with a rug, a ceiling, a table, a window, a wall, a cabinet, and a bed.

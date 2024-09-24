@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a serene, tree-lined road with a few cars in motion, under a bright, sunny sky.
 The image shows a wide, empty highway with a few cars driving on it, and a sidewalk on the right side.
 The image shows a wide, empty highway with a clear sky, lined with trees and a grassy median, with a few cars driving on the road.
+An image with a pavement, seven cars, a road, a tree, a grass, a sky, a truck, and a person.
+An image with a road, seven cars, a sky, a tree, a truck, a person, a pavement, and a grass.
+An image with seven cars, a tree, a grass, a truck, a person, a road, a sky, and a pavement.
+An image with seven cars, a person, a pavement, a grass, a road, a truck, a tree, and a sky.
+An image with seven cars, a truck, a pavement, a grass, a tree, a sky, a person, and a road.

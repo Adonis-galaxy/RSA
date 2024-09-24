@@ -8,3 +8,8 @@ The image shows a street with a number 30 painted on it.
 The image captures a quiet residential street, with a numbered road leading to a white building, surrounded by lush greenery and a few parked vehicles.
 The image shows a narrow street with a number 30 painted on it, lined by tall trees and buildings, with a truck parked on the right side.
 The image depicts a narrow street lined with trees and buildings, with a numbered speed limit sign indicating a 30 km/h limit.
+An image with a pavement, a bus, a road, a car, a wall, a house, a tree, and a window.
+An image with a tree, a bus, a wall, a road, a house, a car, a pavement, and a window.
+An image with a house, a window, a pavement, a car, a road, a tree, a bus, and a wall.
+An image with a pavement, a wall, a car, a house, a tree, a road, a bus, and a window.
+An image with a house, a wall, a tree, a road, a window, a car, a bus, and a pavement.

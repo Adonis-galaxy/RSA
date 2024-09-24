@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and parked cars.
 A narrow, shaded street lined with parked cars and a blue fence, leading to a white building.
 A narrow street lined with parked cars and a blue fence, with a red car parked on the side.
 A narrow, tree-lined street with parked cars and a blue fence on the right side.
+An image with a grass, a fence, a sky, a pavement, four cars, a road, and a tree.
+An image with a road, a fence, a grass, four cars, a tree, a sky, and a pavement.
+An image with a fence, a road, four cars, a tree, a grass, a sky, and a pavement.
+An image with a grass, a road, a sky, a pavement, four cars, a tree, and a fence.
+An image with four cars, a grass, a tree, a fence, a road, a sky, and a pavement.

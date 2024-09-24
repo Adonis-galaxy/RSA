@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 The image captures a narrow alleyway between two buildings, lined with parked cars and lush greenery, creating a sense of urban tranquility.
 The image shows a narrow street lined with parked cars and tall buildings, with a clear sky overhead.
 A narrow, tree-lined street between two buildings, with parked cars and a sidewalk.
+An image with two cars, a road, a sky, a stop, a pavement, a building, a wall, and a tree.
+An image with a tree, two cars, a stop, a sky, a pavement, a road, a building, and a wall.
+An image with two cars, a wall, a pavement, a tree, a stop, a road, a building, and a sky.
+An image with a sky, two cars, a road, a building, a wall, a pavement, a tree, and a stop.
+An image with a wall, a sky, two cars, a tree, a road, a pavement, a stop, and a building.

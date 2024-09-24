@@ -8,3 +8,8 @@ A tall, dark, metal pole.
 The image captures a scene of a room with a large, dark column, a door with a wire mesh, and a kitchen area with a counter and shelves.
 The image shows a large, dark column in a room with a whiteboard, a desk with a computer, and a shelf with books and other items, all viewed through a wire mesh door.
 The image shows a room with a large, dark column, a doorway leading to another room with a counter and shelves, and a view of a kitchen area with a stove and cabinets.
+An image with a fence, a floor, a refrigerator, a cabinet, a ceiling, and a bird.
+An image with a fence, a bird, a ceiling, a refrigerator, a cabinet, and a floor.
+An image with a cabinet, a refrigerator, a ceiling, a bird, a floor, and a fence.
+An image with a bird, a ceiling, a fence, a cabinet, a floor, and a refrigerator.
+An image with a cabinet, a refrigerator, a floor, a bird, a ceiling, and a fence.

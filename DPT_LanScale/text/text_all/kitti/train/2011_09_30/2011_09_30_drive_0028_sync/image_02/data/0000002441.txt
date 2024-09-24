@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a narrow street lined with parked cars and lush greenery, with a few birds visible in the foreground.
 A quiet residential street with parked cars and a lone bird.
+An image with a sky, a pavement, six cars, a door, a roof, a tree, a road, a house, a grass, and a bird.
+An image with a roof, six cars, a tree, a house, a door, a road, a bird, a grass, a pavement, and a sky.
+An image with six cars, a tree, a pavement, a house, a roof, a sky, a grass, a road, a bird, and a door.
+An image with a house, a door, a grass, a pavement, six cars, a roof, a tree, a sky, a road, and a bird.
+An image with a road, a roof, a door, a tree, six cars, a pavement, a sky, a house, a grass, and a bird.

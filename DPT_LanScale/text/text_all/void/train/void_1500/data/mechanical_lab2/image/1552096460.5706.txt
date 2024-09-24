@@ -8,3 +8,8 @@ A blurry image of a computer lab with a desk and a chair.
 The image shows a workspace with a desk, a computer, a chair, and a trash can.
 The image shows a small, cluttered workspace with a desk, a computer monitor, a keyboard, a mouse, a chair, and a trash can.
 The image shows a workspace with a desk, a computer monitor, a keyboard, a mouse, a chair, and a trash can.
+An image with a table, a cabinet, a tv, a chair, a shelf, a light, a wall, a keyboard, and a floor.
+An image with a chair, a keyboard, a shelf, a tv, a light, a cabinet, a table, a floor, and a wall.
+An image with a keyboard, a shelf, a light, a wall, a chair, a cabinet, a tv, a table, and a floor.
+An image with a light, a keyboard, a table, a chair, a floor, a tv, a cabinet, a wall, and a shelf.
+An image with a table, a light, a shelf, a tv, a wall, a floor, a keyboard, a cabinet, and a chair.

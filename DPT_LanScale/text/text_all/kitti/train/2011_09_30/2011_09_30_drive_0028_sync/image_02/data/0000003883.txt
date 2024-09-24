@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side and a sidewalk.
 A quiet residential street, lined with parked cars and trees, leading to apartment buildings.
 A narrow street lined with parked cars and trees, leading to apartment buildings.
 A narrow street lined with parked cars and trees, leading to apartment buildings.
+An image with a motorcycle, a bus, a grass, six cars, a building, a road, a tree, a sky, and a person.
+An image with six cars, a person, a grass, a building, a tree, a road, a bus, a sky, and a motorcycle.
+An image with six cars, a building, a person, a tree, a motorcycle, a bus, a road, a grass, and a sky.
+An image with a building, a person, a tree, a bus, a grass, six cars, a motorcycle, a sky, and a road.
+An image with a bus, a person, a building, six cars, a motorcycle, a road, a grass, a sky, and a tree.

@@ -8,3 +8,8 @@ A white table with a blue chair and a black device on it.
 A white table with a blue chair, a black box with wires, and a yellow paper on a blue shelf.
 The image shows a white table with a blue chair, a black box with wires, and a yellow object in the background.
 The image shows a white table with a blue chair, a black device with cords, and a yellow object on the table.
+An image with a paper, a chair, a table, and a floor.
+An image with a table, a paper, a floor, and a chair.
+An image with a table, a paper, a chair, and a floor.
+An image with a table, a chair, a paper, and a floor.
+An image with a floor, a table, a chair, and a paper.

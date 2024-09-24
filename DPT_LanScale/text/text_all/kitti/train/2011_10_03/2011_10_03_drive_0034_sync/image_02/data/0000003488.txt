@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A parked silver SUV on a tree-lined street, with a white building and a black car in the background.
 A silver car is parked on the side of a narrow street, with a white building and trees in the background.
 A quiet residential street with a parked car, a garage, and a driveway leading to a house.
+An image with a sky, a road, two cars, a building, a wall, a tree, and a pavement.
+An image with two cars, a road, a wall, a sky, a pavement, a building, and a tree.
+An image with a tree, two cars, a wall, a pavement, a sky, a road, and a building.
+An image with a tree, a building, a sky, two cars, a pavement, a wall, and a road.
+An image with a wall, a road, a tree, a pavement, two cars, a building, and a sky.

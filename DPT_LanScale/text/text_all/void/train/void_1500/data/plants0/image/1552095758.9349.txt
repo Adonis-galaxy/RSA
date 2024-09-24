@@ -8,3 +8,8 @@ A concrete planter with a variety of plants.
 The image shows a concrete pathway with a raised planter filled with various plants and grasses, creating a natural border between the path and the surrounding area.
 The image shows a long, narrow, concrete planter filled with various plants and grasses, with a brick-patterned walkway on the left side.
 The image shows a concrete sidewalk with a raised planter filled with sand and plants, creating a separation between the sidewalk and the surrounding area.
+An image with a floor, a sand, two walls, and a tree.
+An image with two walls, a sand, a floor, and a tree.
+An image with two walls, a sand, a tree, and a floor.
+An image with a tree, a floor, two walls, and a sand.
+An image with a tree, a sand, two walls, and a floor.

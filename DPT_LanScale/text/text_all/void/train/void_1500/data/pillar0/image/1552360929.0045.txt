@@ -8,3 +8,8 @@ A black bag with a red stripe on a blue carpet.
 A black bag with a red stripe is leaning against a white column, next to a blue bucket.
 A black bag with a red stripe is sitting on the floor next to a blue bucket and a white column.
 A black bag with a red stripe is sitting on the floor next to a blue bucket and a white column.
+An image with a suitcase, a wall, a door, and a rug.
+An image with a wall, a suitcase, a rug, and a door.
+An image with a door, a rug, a wall, and a suitcase.
+An image with a door, a wall, a suitcase, and a rug.
+An image with a door, a rug, a suitcase, and a wall.

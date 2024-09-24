@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a stop sign.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 A quiet residential street with parked cars, a few pedestrians, and a clear sky.
+An image with a sky, five cars, a road, a roof, a pavement, a tree, and a flower.
+An image with a road, five cars, a pavement, a tree, a roof, a flower, and a sky.
+An image with five cars, a road, a sky, a pavement, a roof, a tree, and a flower.
+An image with five cars, a tree, a road, a pavement, a flower, a sky, and a roof.
+An image with five cars, a flower, a pavement, a sky, a road, a tree, and a roof.

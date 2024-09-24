@@ -8,3 +8,8 @@ A narrow street between two houses.
 A narrow, tree-lined street between two houses, with a parked car on the right side.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with a house, two cars, a roof, a sky, a fence, a pavement, a tree, and a road.
+An image with a house, a tree, a roof, a sky, two cars, a road, a pavement, and a fence.
+An image with a road, a house, a fence, a sky, a tree, a pavement, a roof, and two cars.
+An image with two cars, a sky, a tree, a fence, a house, a pavement, a roof, and a road.
+An image with a house, a roof, a tree, a pavement, a road, a fence, a sky, and two cars.

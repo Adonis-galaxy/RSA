@@ -8,3 +8,8 @@ A blue bicycle leaning against a glass door.
 A blue bicycle parked inside a building, leaning against a glass door.
 A blue bicycle is parked inside a large room with a glass door, next to a red chair.
 A blue bicycle is parked inside a modern building with a glass door and a brick wall, leaning against a wall with a window.
+An image with two walls, a floor, a door, a chair, a light, and a bicycle.
+An image with a door, two walls, a bicycle, a chair, a light, and a floor.
+An image with two walls, a door, a chair, a floor, a light, and a bicycle.
+An image with a floor, a bicycle, two walls, a door, a light, and a chair.
+An image with a floor, a light, a door, two walls, a bicycle, and a chair.

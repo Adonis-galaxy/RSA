@@ -8,3 +8,8 @@ The image shows a busy street with cars driving on it.
 A busy street scene with cars, trees, and a clear blue sky.
 The image shows a busy street with multiple cars, a fence, trees, and power lines.
 A busy street scene with multiple lanes of traffic, a sidewalk, and a green fence.
+An image with a tree, a road, eight cars, a grass, and a person.
+An image with eight cars, a road, a grass, a tree, and a person.
+An image with eight cars, a grass, a person, a road, and a tree.
+An image with a tree, eight cars, a person, a road, and a grass.
+An image with eight cars, a person, a tree, a grass, and a road.

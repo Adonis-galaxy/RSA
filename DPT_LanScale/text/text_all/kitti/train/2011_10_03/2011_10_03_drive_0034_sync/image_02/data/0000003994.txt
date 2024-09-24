@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and lush greenery, under a bright sunny sky.
 The image depicts a narrow, tree-lined street with parked cars, a sidewalk, and a building with a balcony.
 A quiet residential street with parked cars, a paved sidewalk, and a row of houses with greenery.
+An image with a fence, a road, five cars, a tree, a flower, a pavement, a sky, and a house.
+An image with a tree, a sky, a road, five cars, a pavement, a house, a flower, and a fence.
+An image with five cars, a road, a pavement, a sky, a house, a flower, a fence, and a tree.
+An image with a house, a pavement, five cars, a fence, a flower, a road, a tree, and a sky.
+An image with a road, a house, a flower, five cars, a pavement, a tree, a fence, and a sky.

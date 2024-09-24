@@ -8,3 +8,8 @@ The image shows a road with parked cars.
 A sunlit road with parked cars, trees, and a bridge in the distance.
 A long, empty road with parked cars on the side and a tunnel ahead.
 A long, empty road with parked cars on the side, leading to a bridge in the distance.
+An image with eight cars, a sky, a dirt, a road, and a tree.
+An image with a road, eight cars, a dirt, a sky, and a tree.
+An image with a tree, eight cars, a dirt, a sky, and a road.
+An image with eight cars, a road, a dirt, a sky, and a tree.
+An image with eight cars, a tree, a road, a sky, and a dirt.

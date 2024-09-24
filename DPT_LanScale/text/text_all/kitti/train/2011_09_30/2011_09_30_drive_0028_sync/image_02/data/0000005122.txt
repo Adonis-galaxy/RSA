@@ -8,3 +8,8 @@ A silver car on a street.
 A silver car is driving down a street, passing a white utility box and a blue sign, with trees and other vehicles in the background.
 A silver car is driving down a street with a white box on top of it.
 A silver car is driving down a street with parked cars, a sidewalk, and a grassy area with trees.
+An image with seven cars, a road, a grass, a sky, a tree, a pavement, a person, and a fire.
+An image with a pavement, seven cars, a fire, a person, a grass, a road, a tree, and a sky.
+An image with seven cars, a person, a pavement, a tree, a fire, a road, a grass, and a sky.
+An image with seven cars, a tree, a fire, a sky, a person, a grass, a pavement, and a road.
+An image with a grass, seven cars, a road, a person, a sky, a pavement, a fire, and a tree.

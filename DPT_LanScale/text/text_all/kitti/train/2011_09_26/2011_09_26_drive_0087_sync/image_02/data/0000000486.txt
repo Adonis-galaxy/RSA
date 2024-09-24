@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A quiet, narrow alleyway between two-story houses, with a blue tarp covering a white cart parked on the right side.
 The image shows a narrow alleyway between two buildings, with a garage on the left, a blue tarp on a cart in the middle, and a car parked on the right.
 The image depicts a narrow, tree-lined street with a mix of residential buildings, garages, and parked vehicles, leading to a dead-end.
+An image with a tree, two cars, a door, a road, a sky, a pavement, a roof, and a wall.
+An image with a sky, a pavement, a wall, two cars, a road, a tree, a door, and a roof.
+An image with a door, a roof, a road, a wall, a tree, a pavement, a sky, and two cars.
+An image with a sky, a tree, a roof, a road, a door, a pavement, a wall, and two cars.
+An image with a road, a roof, a pavement, two cars, a door, a wall, a sky, and a tree.

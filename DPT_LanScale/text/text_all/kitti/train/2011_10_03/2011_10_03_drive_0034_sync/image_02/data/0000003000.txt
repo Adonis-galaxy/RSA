@@ -8,3 +8,8 @@ A narrow street in a residential area.
 A quiet residential street, lined with parked cars and a white wall, under a clear blue sky.
 A narrow street lined with parked cars and a white wall on the right side.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a white wall and a building.
+An image with two walls, four cars, a pavement, a tree, a road, a fence, and a sky.
+An image with two walls, a fence, a tree, four cars, a pavement, a sky, and a road.
+An image with four cars, a road, a sky, a tree, a fence, a pavement, and two walls.
+An image with two walls, a road, a sky, a tree, a fence, a pavement, and four cars.
+An image with two walls, a road, a fence, four cars, a tree, a pavement, and a sky.

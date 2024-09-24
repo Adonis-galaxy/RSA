@@ -8,3 +8,8 @@ A toy car on a desk.
 A toy car is placed on a desk, next to a blue cushioned stool, in an office setting.
 A small toy car is placed on top of a wooden desk, next to a blue cushioned stool and a white office chair.
 A blurry image of a small office space with a desk, chair, and a toy car on a shelf.
+An image with a rug, two tvs, a bench, a wall, three chairs, a window, a table, and a car.
+An image with a rug, a bench, two tvs, a car, a wall, three chairs, a table, and a window.
+An image with two tvs, three chairs, a car, a wall, a bench, a rug, a window, and a table.
+An image with two tvs, a window, a car, three chairs, a bench, a table, a rug, and a wall.
+An image with two tvs, a window, a bench, three chairs, a wall, a car, a table, and a rug.

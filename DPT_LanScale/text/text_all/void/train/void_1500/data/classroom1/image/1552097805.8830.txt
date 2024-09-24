@@ -8,3 +8,8 @@ A blue plastic chair.
 A blue plastic chair is sitting in front of a white table in a room with a wooden door.
 A blue plastic chair is sitting on a white tile floor.
 A blue plastic chair is sitting on a white tile floor in a room with a table and a door.
+An image with a dining, a floor, a stairs, a paper, two walls, and a chair.
+An image with a stairs, a dining, two walls, a paper, a floor, and a chair.
+An image with two walls, a chair, a stairs, a floor, a paper, and a dining.
+An image with two walls, a floor, a paper, a chair, a dining, and a stairs.
+An image with a dining, two walls, a paper, a chair, a floor, and a stairs.

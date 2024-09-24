@@ -8,3 +8,8 @@ A blue chair in a classroom.
 A blue chair is tucked under a desk in a computer lab.
 A blue chair is tucked under a desk with a computer tower on top.
 The image shows a computer lab with a desk containing a computer tower, keyboard, and mouse, and a blue chair in front of the desk.
+An image with a keyboard, a counter, three tvs, a floor, a cabinet, a wall, and a chair.
+An image with three tvs, a wall, a chair, a cabinet, a floor, a keyboard, and a counter.
+An image with a floor, a cabinet, a chair, a wall, three tvs, a counter, and a keyboard.
+An image with three tvs, a cabinet, a floor, a chair, a keyboard, a counter, and a wall.
+An image with a cabinet, a floor, three tvs, a chair, a wall, a keyboard, and a counter.

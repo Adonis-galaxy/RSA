@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sign.
 The image captures a typical day in a suburban neighborhood, with cars parked along the street and trees lining the road, creating a sense of community and everyday life.
 The image shows a narrow street lined with parked cars and trees, with a few cars driving down the road and a red and blue sign on the right side.
 A narrow street lined with parked cars and trees, leading to a white building with a blue sign.
+An image with a road, seven cars, a stop, a tree, a sky, a house, two people, a bicycle, and a motorcycle.
+An image with a house, two people, seven cars, a bicycle, a motorcycle, a stop, a sky, a tree, and a road.
+An image with a stop, seven cars, a sky, a tree, a motorcycle, two people, a bicycle, a road, and a house.
+An image with seven cars, a sky, two people, a motorcycle, a house, a tree, a bicycle, a stop, and a road.
+An image with seven cars, a house, a stop, two people, a tree, a road, a bicycle, a sky, and a motorcycle.

@@ -8,3 +8,8 @@ The image shows a narrow road between two brick walls with trees on both sides.
 The image captures a narrow, tree-lined street that appears to be a dead-end, with a brick wall on one side and a fence on the other, leading to a white structure at the end.
 The image shows a narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a white building with a door at the end.
 The image depicts a narrow, tree-lined street with a brick wall on one side and a fence on the other, leading to a dead-end.
+An image with a tree, two walls, a door, a pavement, a road, and a sky.
+An image with a door, two walls, a pavement, a sky, a road, and a tree.
+An image with a door, a road, a tree, a sky, a pavement, and two walls.
+An image with a sky, two walls, a tree, a door, a road, and a pavement.
+An image with a sky, a door, a pavement, two walls, a road, and a tree.

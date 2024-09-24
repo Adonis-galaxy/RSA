@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a quiet residential street, with a clear view of a building, a parked car, a pedestrian crossing, and a solitary tree, all under a bright blue sky.
 The image shows a street scene with a large building on the left, a smaller building in the center, a street sign, a crosswalk, and a few cars parked on the right.
 The image depicts a quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a crossroads with a pedestrian crossing.
+An image with a pavement, seven cars, a tree, a road, a grass, a building, a sky, and a stop.
+An image with a tree, seven cars, a building, a sky, a road, a pavement, a stop, and a grass.
+An image with a pavement, seven cars, a road, a building, a stop, a tree, a grass, and a sky.
+An image with seven cars, a pavement, a sky, a stop, a tree, a road, a building, and a grass.
+An image with a grass, a building, seven cars, a tree, a road, a sky, a stop, and a pavement.

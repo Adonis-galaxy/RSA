@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars.
 A quiet suburban street, lined with parked cars and trees, under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a curved road, and trees lining the sides.
 A quiet suburban street with parked cars, lined by trees and a sidewalk, leading to a cul-de-sac.
+An image with six cars, a road, a dirt, a pavement, a sky, a grass, and a tree.
+An image with a pavement, a dirt, six cars, a tree, a grass, a sky, and a road.
+An image with a pavement, a dirt, a grass, a tree, six cars, a sky, and a road.
+An image with six cars, a dirt, a grass, a tree, a pavement, a sky, and a road.
+An image with six cars, a dirt, a tree, a sky, a grass, a road, and a pavement.

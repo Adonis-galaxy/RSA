@@ -8,3 +8,8 @@ The image shows a narrow street between two walls, with trees and bushes lining 
 The image captures a serene residential street, where the sun casts a warm glow on the lush greenery and the tranquil atmosphere is enhanced by the shadows of the trees on the pavement.
 The image shows a narrow street between two walls, with a house on the left, a tree on the right, and a pole in the foreground.
 A narrow, tree-lined street leads to a house with a white wall and a brown door, surrounded by a hedge and a stone wall.
+An image with a pavement, a wall, a sky, a tree, a road, and a house.
+An image with a pavement, a tree, a sky, a house, a road, and a wall.
+An image with a pavement, a road, a sky, a wall, a house, and a tree.
+An image with a house, a pavement, a sky, a tree, a wall, and a road.
+An image with a sky, a pavement, a house, a wall, a road, and a tree.

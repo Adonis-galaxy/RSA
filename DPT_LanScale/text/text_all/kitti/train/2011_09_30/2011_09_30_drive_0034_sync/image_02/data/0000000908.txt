@@ -8,3 +8,8 @@ The image is a photograph of a narrow street between buildings.
 The image captures a serene, narrow alleyway between two brick buildings, with a lush green wall on the right and a clear sky overhead.
 The image shows a narrow alleyway between two brick walls, with a tree-lined street leading to a white building in the distance.
 The image depicts a narrow, tree-lined street between brick buildings, with a clear sky overhead.
+An image with a tree, a sky, a wall, a fire, a pavement, and a house.
+An image with a wall, a sky, a pavement, a fire, a house, and a tree.
+An image with a pavement, a house, a fire, a wall, a tree, and a sky.
+An image with a tree, a wall, a pavement, a house, a fire, and a sky.
+An image with a fire, a wall, a tree, a pavement, a house, and a sky.

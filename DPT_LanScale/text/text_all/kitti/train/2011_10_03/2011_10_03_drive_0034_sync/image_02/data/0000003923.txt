@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined residential street, with a clear path leading to a building in the distance.
 The image depicts a narrow, tree-lined street between two buildings, with a few cars parked along the sides.
 A narrow, tree-lined street with apartment buildings on either side, leading to a clear sky.
+An image with a sky, a wall, a building, a dirt, three cars, a tree, a pavement, and a road.
+An image with a road, a tree, a dirt, a wall, a building, a pavement, three cars, and a sky.
+An image with a road, three cars, a pavement, a building, a tree, a wall, a sky, and a dirt.
+An image with three cars, a dirt, a pavement, a building, a sky, a wall, a tree, and a road.
+An image with a wall, three cars, a building, a dirt, a pavement, a sky, a tree, and a road.

@@ -8,3 +8,8 @@ A row of empty seats in a classroom.
 A row of empty seats in a classroom.
 A row of empty brown chairs in a classroom with a green cabinet and a black object on the floor.
 The image shows a row of empty seats in a classroom or lecture hall, with a green podium at the front and a black object on the floor.
+An image with a tv, seven chairs, a cabinet, two walls, and a floor.
+An image with two walls, a floor, seven chairs, a cabinet, and a tv.
+An image with two walls, seven chairs, a tv, a cabinet, and a floor.
+An image with seven chairs, two walls, a floor, a cabinet, and a tv.
+An image with a floor, seven chairs, a cabinet, a tv, and two walls.

@@ -8,3 +8,8 @@ The image shows a narrow street between two white buildings with green trees and
 A narrow alleyway between two white buildings, bordered by a fence and lined with trees and bushes, leads to a garage on the right.
 The image shows a narrow alleyway between two white buildings, with a black car parked on the right side and a green bush on the left side.
 A narrow, tree-lined street with houses on both sides, leading to a white building with a garage.
+An image with a light, a pavement, a door, a wall, a house, a tree, a car, and a sky.
+An image with a tree, a door, a car, a sky, a pavement, a wall, a light, and a house.
+An image with a car, a tree, a light, a sky, a pavement, a wall, a door, and a house.
+An image with a tree, a light, a car, a wall, a house, a pavement, a door, and a sky.
+An image with a wall, a door, a house, a pavement, a light, a sky, a car, and a tree.

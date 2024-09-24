@@ -8,3 +8,8 @@ The image shows a row of white chairs and tables in a room.
 The image shows a long white table with four chairs, positioned in a room with a yellow wall and a white door.
 The image shows a long white table with four chairs, positioned in a room with a yellow wall and a white door.
 The image shows a long white table with four chairs on either side, positioned in a room with a yellow wall and a white door.
+An image with six chairs, a tv, a floor, a dining, a door, and a wall.
+An image with a door, six chairs, a floor, a tv, a dining, and a wall.
+An image with a wall, a dining, six chairs, a floor, a door, and a tv.
+An image with a door, a floor, six chairs, a wall, a dining, and a tv.
+An image with a door, six chairs, a wall, a floor, a tv, and a dining.

@@ -8,3 +8,8 @@ A blurry image of a kitchen with a refrigerator and microwave.
 A blurry image of a kitchen with a microwave and a refrigerator.
 A silver refrigerator in a kitchen with a white microwave on a counter.
 The image shows a kitchen with a white countertop, a silver refrigerator, and a white microwave.
+An image with a wall, a microwave, a cabinet, a refrigerator, and a floor.
+An image with a microwave, a wall, a floor, a refrigerator, and a cabinet.
+An image with a floor, a refrigerator, a microwave, a wall, and a cabinet.
+An image with a wall, a floor, a refrigerator, a cabinet, and a microwave.
+An image with a floor, a wall, a cabinet, a microwave, and a refrigerator.

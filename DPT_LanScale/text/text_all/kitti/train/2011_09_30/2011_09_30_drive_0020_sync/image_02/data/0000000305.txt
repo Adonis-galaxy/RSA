@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 The image captures a quiet residential street scene with two cars parked side by side, one silver and one black, in front of a row of houses with varying architectural styles.
 The image shows a street scene with two cars parked on the side of the road, one larger and one smaller, in front of a row of houses with varying architectural styles.
 The image shows a street scene with two cars parked on the side of the road, in front of a row of houses with varying architectural styles, and a clear sky overhead.
+An image with a road, a roof, four cars, a tree, a pavement, a sky, and a house.
+An image with four cars, a roof, a pavement, a sky, a road, a tree, and a house.
+An image with four cars, a road, a sky, a pavement, a roof, a house, and a tree.
+An image with a roof, four cars, a house, a tree, a road, a pavement, and a sky.
+An image with a roof, a tree, four cars, a house, a sky, a road, and a pavement.

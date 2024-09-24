@@ -8,3 +8,8 @@ The image shows a long, straight road with a few cars on it.
 The image captures a serene, empty highway with a few cars, surrounded by lush greenery and a clear blue sky.
 The image shows a wide, empty highway with a few cars, a large expanse of trees, and a clear blue sky.
 The image shows a long, straight, multi-lane highway with a clear sky, trees, and a few cars, with a wide median and guardrails on both sides.
+An image with five cars, a road, a fence, a building, a grass, a pavement, and a tree.
+An image with five cars, a fence, a grass, a road, a tree, a building, and a pavement.
+An image with a fence, a road, five cars, a grass, a pavement, a building, and a tree.
+An image with a grass, a fence, a road, a building, five cars, a pavement, and a tree.
+An image with a grass, five cars, a road, a fence, a tree, a building, and a pavement.

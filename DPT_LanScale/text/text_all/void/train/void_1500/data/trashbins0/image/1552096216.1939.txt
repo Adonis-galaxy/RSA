@@ -8,3 +8,8 @@ A brown chair is leaning against a wall.
 A brown chair is placed against a white wall, next to an elevator.
 A brown chair is tucked into a corner next to a blue trash can.
 The image shows a brown chair against a white wall, with a blue trash can to the right and a beige refrigerator to the left.
+An image with a refrigerator, a chair, a floor, and a wall.
+An image with a chair, a refrigerator, a wall, and a floor.
+An image with a chair, a wall, a refrigerator, and a floor.
+An image with a floor, a wall, a chair, and a refrigerator.
+An image with a wall, a refrigerator, a chair, and a floor.

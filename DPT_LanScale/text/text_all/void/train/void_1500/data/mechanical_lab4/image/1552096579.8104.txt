@@ -8,3 +8,8 @@ A yellow pipe with a yellow shower head.
 The image shows a yellow pipe with a yellow shower head, a blue box with a red cross, and a white sign with a black arrow.
 The image shows a yellow pipe with a yellow shower head attached to it, mounted on a white wall, with a blue box and a white sign with a yellow border and a red cross on it.
 The image shows a yellow pipe with a yellow shower head attached to it, mounted on a white wall, with a blue box and a white sign with a yellow border and a red cross on it, and a green hose connected to a silver faucet.
+An image with a wall, a sink, a paper, and a light.
+An image with a sink, a light, a paper, and a wall.
+An image with a light, a sink, a wall, and a paper.
+An image with a sink, a paper, a wall, and a light.
+An image with a sink, a wall, a light, and a paper.

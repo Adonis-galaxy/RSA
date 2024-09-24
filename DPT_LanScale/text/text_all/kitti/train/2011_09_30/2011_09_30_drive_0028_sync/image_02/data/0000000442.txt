@@ -8,3 +8,8 @@ A white truck parked on the side of a street.
 A white truck parked on a residential street, with a building and trees in the background.
 A large white truck is parked on a narrow street in a residential area, with a building and trees in the background.
 A white truck is parked on a street in a residential area, with a building and trees in the background.
+An image with a potted, a truck, a car, a sky, a tree, a house, a road, and a pavement.
+An image with a sky, a road, a potted, a house, a tree, a car, a pavement, and a truck.
+An image with a tree, a road, a truck, a car, a sky, a potted, a house, and a pavement.
+An image with a pavement, a tree, a sky, a truck, a potted, a car, a road, and a house.
+An image with a road, a house, a truck, a sky, a car, a tree, a pavement, and a potted.

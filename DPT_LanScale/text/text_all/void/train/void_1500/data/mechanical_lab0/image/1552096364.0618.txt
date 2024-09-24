@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is positioned under a white table, with a black cord running along the floor.
 A blue chair is sitting under a white table.
 A blue chair is tucked under a white table, which is situated on a white tiled floor.
+An image with a table, a tv, a person, a dining, a chair, and a floor.
+An image with a table, a chair, a person, a dining, a tv, and a floor.
+An image with a tv, a person, a chair, a floor, a dining, and a table.
+An image with a tv, a dining, a floor, a person, a table, and a chair.
+An image with a table, a tv, a dining, a floor, a chair, and a person.

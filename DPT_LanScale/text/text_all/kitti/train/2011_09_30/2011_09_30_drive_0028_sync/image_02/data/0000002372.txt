@@ -8,3 +8,8 @@ A man riding a bicycle down a quiet street.
 A man riding a bicycle on a quiet residential street, with parked cars and houses lining the road.
 A man rides a bicycle down a narrow street between two rows of houses, with a car parked on the side and a potted plant on the corner.
 A quiet residential street with a man riding a bicycle, parked cars, and a few potted plants.
+An image with seven cars, a pavement, two potteds, a bicycle, a grass, a house, a person, a sky, a road, a tree, a wall, and a roof.
+An image with seven cars, a house, a tree, a grass, two potteds, a road, a wall, a roof, a pavement, a bicycle, a person, and a sky.
+An image with seven cars, a grass, a tree, a road, two potteds, a house, a sky, a roof, a pavement, a bicycle, a wall, and a person.
+An image with a road, a sky, seven cars, two potteds, a wall, a grass, a person, a tree, a bicycle, a pavement, a roof, and a house.
+An image with seven cars, a tree, two potteds, a sky, a grass, a pavement, a roof, a bicycle, a wall, a road, a house, and a person.

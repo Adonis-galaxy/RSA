@@ -8,3 +8,8 @@ The image shows a street scene with a car, a truck, a building, a tree, a sign, 
 The image captures a quiet residential street scene, with a few parked cars, a pedestrian couple walking on the sidewalk, and a red and white sign indicating a one-way street.
 A narrow street with parked cars, a red and white sign, a white building, a man and woman walking on the sidewalk, and a construction area with orange and white barriers.
 A narrow street in a residential area, with parked cars, a pedestrian walkway, and a construction zone.
+An image with a stop, a sky, a pavement, a truck, a house, a road, three people, a grass, a wall, a tree, two cars, a window, and a handbag.
+An image with a pavement, a truck, a sky, a house, three people, two cars, a window, a stop, a grass, a wall, a handbag, a road, and a tree.
+An image with two cars, a house, a sky, a road, three people, a tree, a stop, a wall, a pavement, a truck, a grass, a window, and a handbag.
+An image with two cars, a stop, a grass, a road, a handbag, three people, a wall, a sky, a house, a truck, a window, a pavement, and a tree.
+An image with three people, two cars, a tree, a pavement, a window, a road, a sky, a grass, a house, a handbag, a truck, a wall, and a stop.

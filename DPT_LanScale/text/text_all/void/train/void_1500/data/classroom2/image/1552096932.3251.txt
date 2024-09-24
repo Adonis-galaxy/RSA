@@ -8,3 +8,8 @@ A blurry image of a desk and chair in a room.
 An orange desk with a black chair in a room with a green trash can.
 A small orange desk with a black chair in a room with a green trash can.
 The image shows a blurry scene of a room with a desk and chair, a trash can, and a door.
+An image with two walls, a floor, a door, two chairs, and a dining.
+An image with two walls, a door, a dining, a floor, and two chairs.
+An image with two chairs, two walls, a floor, a dining, and a door.
+An image with two walls, a floor, a dining, a door, and two chairs.
+An image with a dining, a floor, two walls, two chairs, and a door.

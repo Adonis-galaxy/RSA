@@ -8,3 +8,8 @@ A city bus is driving down a street.
 A city bus is stopped at a traffic light, with a pedestrian waiting to cross the street.
 A large bus is driving down a street with a crosswalk, surrounded by trees and traffic lights.
 A city street scene with a bus, traffic lights, and pedestrians.
+An image with a person, four cars, two buses, three traffics, a tree, a grass, a building, and a road.
+An image with a tree, two buses, a person, a road, four cars, a grass, a building, and three traffics.
+An image with a building, two buses, four cars, three traffics, a tree, a person, a grass, and a road.
+An image with two buses, a grass, four cars, a tree, three traffics, a person, a road, and a building.
+An image with a building, three traffics, four cars, two buses, a tree, a grass, a road, and a person.

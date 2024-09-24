@@ -8,3 +8,8 @@ A yellow pipe with a light fixture hanging from it.
 The image shows a yellow pipe with a yellow light attached to it, hanging from a green metal pipe, and a blue box with a red cross on it attached to the pipe.
 The image shows a yellow pipe with a yellow light attached to it, hanging from a green metal pipe, and a blue box with a red cross on it attached to the wall.
 The image shows a yellow pipe with a yellow light attached to it, hanging from a green metal pipe, with a blue box and a red button on the wall, and a white sign with a black figure on it.
+An image with a light, a cabinet, a floor, a sink, a paper, and a wall.
+An image with a paper, a sink, a cabinet, a wall, a floor, and a light.
+An image with a light, a cabinet, a paper, a floor, a wall, and a sink.
+An image with a light, a floor, a paper, a sink, a wall, and a cabinet.
+An image with a sink, a cabinet, a floor, a wall, a light, and a paper.

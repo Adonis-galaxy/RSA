@@ -8,3 +8,8 @@ A desk with various items on it.
 The image shows a cluttered office desk with various items on it, including a roll of tape, a pair of scissors, and a black bag.
 The image shows a cluttered office desk with various items, including a roll of tape, a pair of scissors, a black bag, a black laptop, a black camera, and a black monitor.
 The image shows a cluttered office desk with various items on it, including a roll of tape, a pair of scissors, a ruler, and a black bag.
+An image with three books, a laptop, a rug, a table, a tv, a door, a chair, a cardboard, a clock, and a wall.
+An image with a laptop, a tv, a clock, a rug, a chair, three books, a wall, a table, a door, and a cardboard.
+An image with three books, a rug, a chair, a cardboard, a clock, a table, a laptop, a door, a wall, and a tv.
+An image with a rug, a clock, a tv, a wall, a cardboard, three books, a laptop, a chair, a table, and a door.
+An image with a tv, a door, a cardboard, a laptop, three books, a chair, a rug, a table, a wall, and a clock.

@@ -8,3 +8,8 @@ A white table with four chairs.
 A white table with four chairs, all on wheels, in an office setting.
 A white table with four chairs, each with a black wheel, set on a gray carpeted floor.
 The image shows a white table with four chairs, all of which are on wheels, positioned in a room with a carpeted floor.
+An image with three chairs, a floor, a window, a dining, and a wall.
+An image with a floor, three chairs, a wall, a dining, and a window.
+An image with a floor, three chairs, a dining, a wall, and a window.
+An image with three chairs, a wall, a floor, a dining, and a window.
+An image with three chairs, a wall, a dining, a window, and a floor.

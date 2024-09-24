@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, with a mix of parked cars and trees lining the road, leading to a quaint white house with a black fence.
 The image shows a narrow street lined with parked cars and trees, with a white fence on the right side.
 The image depicts a narrow, tree-lined street with parked cars, a sidewalk, and a fence, leading to a residential area with houses and a garden.
+An image with four cars, a tree, a fence, a road, a building, a wall, and a sky.
+An image with four cars, a wall, a tree, a sky, a road, a building, and a fence.
+An image with a tree, four cars, a fence, a sky, a building, a road, and a wall.
+An image with a road, four cars, a fence, a tree, a wall, a sky, and a building.
+An image with a tree, four cars, a building, a road, a sky, a fence, and a wall.

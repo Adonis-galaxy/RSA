@@ -8,3 +8,8 @@ A wooden boardwalk with plants growing on the side.
 A wooden boardwalk with plants growing on the side.
 A wooden boardwalk with a metal pole, surrounded by plants and trees.
 A wooden boardwalk with a metal pole, surrounded by plants and trees.
+An image with a floor, two walls, a dirt, a pavement, and a tree.
+An image with a pavement, two walls, a floor, a dirt, and a tree.
+An image with a pavement, two walls, a tree, a dirt, and a floor.
+An image with a dirt, two walls, a pavement, a floor, and a tree.
+An image with a floor, a dirt, two walls, a tree, and a pavement.

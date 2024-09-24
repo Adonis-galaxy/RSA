@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A quiet, narrow alleyway between two-story houses, with a paved path and a white garage door on the right.
 The image shows a narrow alleyway between two buildings, with a paved path, a white wall on the right, a wooden fence on the left, and a few small objects like a potted plant and a trash can.
 A narrow, tree-lined alleyway between two-story houses, with a paved path and a white garage door on the right.
+An image with a window, a roof, a pavement, a potted, a door, a wall, a tree, a car, and a road.
+An image with a window, a door, a car, a roof, a pavement, a tree, a road, a wall, and a potted.
+An image with a roof, a wall, a road, a tree, a door, a potted, a window, a car, and a pavement.
+An image with a roof, a car, a door, a potted, a wall, a window, a pavement, a road, and a tree.
+An image with a pavement, a door, a window, a tree, a car, a road, a potted, a roof, and a wall.

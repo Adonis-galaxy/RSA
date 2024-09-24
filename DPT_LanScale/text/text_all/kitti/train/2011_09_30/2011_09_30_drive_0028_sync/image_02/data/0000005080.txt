@@ -8,3 +8,8 @@ A gray car driving on a street.
 A gray car is driving on a street, passing a white trash can and a white public phone booth, with a blue sky overhead and trees lining the road.
 A gray car is driving on a street with a white crosswalk, passing a white trash can and a white box on the sidewalk.
 A gray car is driving on a street with a curved intersection, surrounded by parked cars and trees, under a clear blue sky.
+An image with ten cars, a wall, a pavement, a road, a grass, a sky, a person, and a tree.
+An image with ten cars, a road, a tree, a person, a grass, a pavement, a wall, and a sky.
+An image with a sky, a road, ten cars, a wall, a grass, a person, a tree, and a pavement.
+An image with ten cars, a pavement, a person, a sky, a tree, a wall, a road, and a grass.
+An image with ten cars, a wall, a pavement, a tree, a sky, a person, a grass, and a road.

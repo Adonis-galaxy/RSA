@@ -8,3 +8,8 @@ The image shows a room with a carpeted floor and several chairs.
 The image shows a room with a carpeted floor, featuring a black chair and a white wall.
 The image shows a blurry view of a room with a carpeted floor, featuring several black chairs with white trim and a dark-colored bench.
 The image shows a room with a carpeted floor, a black chair, and a white wall.
+An image with a rug, two chairs, a floor, and a window.
+An image with a window, two chairs, a rug, and a floor.
+An image with two chairs, a window, a rug, and a floor.
+An image with a rug, a window, two chairs, and a floor.
+An image with a rug, two chairs, a floor, and a window.

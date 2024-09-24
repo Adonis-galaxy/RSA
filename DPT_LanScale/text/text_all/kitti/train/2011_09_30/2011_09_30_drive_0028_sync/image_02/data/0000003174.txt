@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a pedestrian crossing sign.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a triangular warning sign mounted on a pole, indicating caution for children playing in the area.
 The image shows a narrow street lined with parked cars, a sidewalk, and a yellow sign with a red triangle and cartoon characters.
 A narrow street lined with parked cars and a yellow sign with cartoon characters.
+An image with a house, three cars, a truck, a tree, a grass, a window, and a road.
+An image with a house, a window, a truck, a grass, three cars, a tree, and a road.
+An image with a tree, a house, three cars, a grass, a window, a truck, and a road.
+An image with a truck, a grass, three cars, a house, a window, a tree, and a road.
+An image with a truck, a road, a grass, three cars, a tree, a house, and a window.

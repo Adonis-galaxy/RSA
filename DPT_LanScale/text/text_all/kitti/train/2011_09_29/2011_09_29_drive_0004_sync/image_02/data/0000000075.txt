@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes of traffic.
 A long, tree-lined road with multiple lanes of traffic, including cars and a truck, under a clear sky.
 A long, tree-lined road with multiple lanes of traffic, including cars and trucks, and a few signs.
 A long, tree-lined road with multiple lanes of traffic, including a right turn lane, and a speed limit sign.
+An image with a tree, seven cars, a road, a pavement, a sky, and a grass.
+An image with seven cars, a sky, a road, a tree, a pavement, and a grass.
+An image with seven cars, a tree, a grass, a road, a pavement, and a sky.
+An image with seven cars, a grass, a sky, a road, a pavement, and a tree.
+An image with seven cars, a grass, a sky, a tree, a pavement, and a road.

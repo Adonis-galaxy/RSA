@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street with parked cars, a few moving vehicles, and a clear sky, evoking a sense of calm and solitude.
 The image depicts a wide, tree-lined street with a few parked cars, a truck, and a bus, leading to a large building with a sign.
 The image depicts a tree-lined street with parked cars, a paved road with white lines, and a clear sky.
+An image with seventeen cars, a road, three trucks, a tree, a bus, a grass, a building, and a sky.
+An image with seventeen cars, a building, three trucks, a bus, a sky, a grass, a tree, and a road.
+An image with a tree, a road, seventeen cars, three trucks, a building, a sky, a bus, and a grass.
+An image with a tree, seventeen cars, three trucks, a road, a sky, a grass, a building, and a bus.
+An image with seventeen cars, a grass, three trucks, a tree, a road, a sky, a bus, and a building.

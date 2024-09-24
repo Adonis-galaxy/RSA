@@ -8,3 +8,8 @@ A black backpack is sitting on a gray bench.
 A backpack sits on a bench next to a newspaper, a hat, and a cup.
 A black backpack is sitting on a gray couch next to a newspaper and a straw hat.
 A black backpack with a green logo is sitting on a gray bench next to a newspaper and a straw hat.
+An image with two walls, a backpack, a couch, a book, and a chair.
+An image with a couch, two walls, a chair, a book, and a backpack.
+An image with two walls, a chair, a couch, a book, and a backpack.
+An image with a book, a backpack, a couch, two walls, and a chair.
+An image with two walls, a book, a couch, a backpack, and a chair.

@@ -8,3 +8,8 @@ A kitchen with a countertop.
 The image captures a well-lit kitchen with a marble countertop, featuring a stainless steel oven, a microwave, a sink, and various kitchen items, including a bag of flour, a container of sugar, and a bowl.
 The image shows a kitchen with a large center island, a stove, a refrigerator, and a microwave. On the island, there are two large bags and a couple of smaller containers.
 The image shows a well-lit kitchen with a granite countertop, wooden cabinets, stainless steel appliances, and a window with blinds.
+An image with a cell, a window, a chair, a ceiling, two ovens, a floor, a dining, a door, a wall, a cabinet, and a sink.
+An image with a chair, a dining, two ovens, a wall, a floor, a window, a cell, a ceiling, a sink, a cabinet, and a door.
+An image with a cabinet, two ovens, a cell, a door, a dining, a window, a floor, a chair, a ceiling, a wall, and a sink.
+An image with a door, a window, two ovens, a cell, a chair, a floor, a ceiling, a wall, a dining, a sink, and a cabinet.
+An image with a cabinet, a wall, a sink, a door, a floor, a chair, a window, a cell, a ceiling, two ovens, and a dining.

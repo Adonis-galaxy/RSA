@@ -8,3 +8,8 @@ The image shows a street scene with a red and blue sign on a pole.
 The image captures a quiet residential street, with a clear view of a sign indicating a no-entry zone, a building with balconies, and a well-maintained hedge along the sidewalk.
 The image shows a street scene with a large building, a street sign, a tree, and a sidewalk.
 The image shows a residential street with apartment buildings, a sidewalk, a road, and a sign indicating a no-entry zone.
+An image with a bench, a tree, a stop, a pavement, a building, and a road.
+An image with a pavement, a tree, a stop, a bench, a building, and a road.
+An image with a building, a stop, a pavement, a bench, a road, and a tree.
+An image with a tree, a building, a bench, a pavement, a road, and a stop.
+An image with a road, a building, a pavement, a stop, a bench, and a tree.

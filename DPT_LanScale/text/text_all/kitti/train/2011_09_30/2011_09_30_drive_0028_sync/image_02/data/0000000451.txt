@@ -8,3 +8,8 @@ A narrow street between two houses.
 A quiet residential street, lined with houses and trees, leading to a cul-de-sac.
 A narrow, tree-lined street between two-story buildings, with a car parked on the right side.
 A narrow, tree-lined street between two-story houses, with a sidewalk and a fence on the right side.
+An image with a door, a sky, a road, a window, a tree, a pavement, a fence, a house, and a car.
+An image with a window, a tree, a house, a fence, a door, a pavement, a car, a road, and a sky.
+An image with a car, a tree, a window, a road, a pavement, a house, a fence, a door, and a sky.
+An image with a house, a window, a tree, a pavement, a door, a sky, a fence, a road, and a car.
+An image with a window, a sky, a door, a house, a tree, a road, a car, a pavement, and a fence.

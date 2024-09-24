@@ -8,3 +8,8 @@ A white table with a blue chair in a room.
 The image shows a room with two tables, one chair, and a staircase.
 The image shows a room with two tables, one of which is a folding table, and a blue chair. The room has a tiled floor and a staircase.
 The image shows a room with two tables, one chair, and a staircase.
+An image with two dinings, two walls, a refrigerator, a floor, a stairs, and a chair.
+An image with a refrigerator, a chair, a floor, two walls, a stairs, and two dinings.
+An image with a stairs, a floor, a chair, a refrigerator, two walls, and two dinings.
+An image with a floor, a stairs, two dinings, a refrigerator, two walls, and a chair.
+An image with a stairs, a floor, a refrigerator, two dinings, two walls, and a chair.

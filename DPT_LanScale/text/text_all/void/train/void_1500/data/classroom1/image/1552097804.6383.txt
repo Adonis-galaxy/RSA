@@ -8,3 +8,8 @@ A blue chair is next to a table.
 A blue chair is placed in front of a white table in a room with a staircase.
 A blue chair is placed under a white table in a room with a staircase and a cabinet.
 A blue chair is placed in front of a white table in a room with a staircase and a cabinet.
+An image with a refrigerator, a floor, two walls, a stairs, two dinings, a chair, and a rug.
+An image with a floor, two dinings, a rug, a stairs, a refrigerator, a chair, and two walls.
+An image with a refrigerator, a chair, a stairs, two dinings, two walls, a rug, and a floor.
+An image with a floor, a stairs, two walls, a refrigerator, two dinings, a rug, and a chair.
+An image with two walls, two dinings, a rug, a chair, a stairs, a floor, and a refrigerator.

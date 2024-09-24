@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a serene, tree-lined street where a few cars are parked, and the sunlight filters through the leaves, creating a peaceful atmosphere.
 The image shows a narrow street lined with parked cars and trees, with a sidewalk on the right side.
 A tree-lined street with parked cars and a sidewalk.
+An image with a sky, six cars, a fence, a wall, a pavement, a tree, a grass, two traffics, and a road.
+An image with six cars, a tree, a grass, two traffics, a road, a wall, a pavement, a sky, and a fence.
+An image with a sky, a tree, six cars, a grass, two traffics, a pavement, a wall, a fence, and a road.
+An image with a wall, two traffics, six cars, a sky, a tree, a grass, a fence, a pavement, and a road.
+An image with a road, a sky, a grass, a fence, a wall, six cars, a tree, a pavement, and two traffics.

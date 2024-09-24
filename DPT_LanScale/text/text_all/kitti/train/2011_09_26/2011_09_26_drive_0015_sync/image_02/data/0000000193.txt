@@ -8,3 +8,8 @@ The image shows a street scene with cars and a bicycle.
 A busy street scene with a mix of vehicles and pedestrians, set against a backdrop of residential buildings and a clear blue sky.
 A long, empty road with a few cars and a bicycle, flanked by trees and houses.
 A busy street with multiple lanes of traffic, a train track, and a row of houses on the side.
+An image with a person, a house, a tree, ten cars, a grass, a railroad, a road, a airplane, and a bicycle.
+An image with a tree, ten cars, a person, a bicycle, a airplane, a grass, a house, a railroad, and a road.
+An image with ten cars, a railroad, a bicycle, a person, a airplane, a house, a road, a grass, and a tree.
+An image with a railroad, a house, ten cars, a airplane, a grass, a tree, a person, a road, and a bicycle.
+An image with a person, a road, ten cars, a railroad, a tree, a airplane, a grass, a house, and a bicycle.

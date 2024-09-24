@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 A quiet residential street, with a yellow car parked at the end, under the shade of trees, and a blue garage on the right.
 A small yellow car is parked on a narrow street between two buildings, with a green sign on the right side.
 A quiet residential street with a parked car, a yellow truck, and a green sign on the right side.
+An image with a tree, a grass, a sky, a road, a house, a car, a wall, and a pavement.
+An image with a road, a sky, a wall, a pavement, a car, a grass, a tree, and a house.
+An image with a sky, a road, a wall, a grass, a pavement, a house, a tree, and a car.
+An image with a house, a sky, a pavement, a tree, a car, a grass, a road, and a wall.
+An image with a road, a car, a pavement, a wall, a grass, a tree, a house, and a sky.

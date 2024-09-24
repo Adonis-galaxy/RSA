@@ -8,3 +8,8 @@ A narrow, shaded pathway between two walls of lush greenery.
 A narrow, sunlit alleyway between two walls of lush greenery, with a solitary street lamp casting a long shadow.
 A narrow, sunlit alleyway between two walls of lush greenery, with a small tree and a street lamp.
 A narrow, shaded pathway between two walls of lush greenery, with a solitary street lamp casting a long shadow.
+An image with a house, a tree, a wall, a pavement, a sky, and a car.
+An image with a car, a sky, a house, a wall, a tree, and a pavement.
+An image with a wall, a tree, a sky, a pavement, a car, and a house.
+An image with a tree, a wall, a pavement, a sky, a house, and a car.
+An image with a wall, a tree, a sky, a house, a car, and a pavement.

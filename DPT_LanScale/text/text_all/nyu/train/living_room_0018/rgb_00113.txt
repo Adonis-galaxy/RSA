@@ -8,3 +8,8 @@ A woman sitting at a desk in a kitchen.
 A person is sitting at a cluttered desk in a kitchen, working on a laptop with a stack of papers nearby.
 A person is sitting at a cluttered desk in a kitchen, using a laptop.
 A person is sitting at a cluttered desk in a kitchen, working on a laptop.
+An image with eight wines, sixteen books, a wall, a table, a person, a shelf, a laptop, a paper, and a cabinet.
+An image with a person, eight wines, sixteen books, a cabinet, a laptop, a table, a wall, a shelf, and a paper.
+An image with sixteen books, eight wines, a cabinet, a table, a person, a paper, a shelf, a laptop, and a wall.
+An image with sixteen books, a person, eight wines, a table, a wall, a paper, a shelf, a laptop, and a cabinet.
+An image with sixteen books, eight wines, a cabinet, a shelf, a laptop, a wall, a table, a person, and a paper.

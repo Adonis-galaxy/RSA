@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a bustling city street, with parked cars lining the sides and a mix of residential and commercial buildings in the background, creating a vibrant urban atmosphere.
 The image shows a narrow street lined with parked cars and buildings, with a few cars driving down the road.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a pavement, a tree, thirteen cars, a grass, a road, a roof, a wall, a building, and a sky.
+An image with a wall, thirteen cars, a tree, a building, a sky, a grass, a roof, a pavement, and a road.
+An image with a sky, thirteen cars, a wall, a tree, a road, a roof, a grass, a building, and a pavement.
+An image with a tree, a building, thirteen cars, a road, a roof, a sky, a pavement, a grass, and a wall.
+An image with thirteen cars, a wall, a pavement, a building, a sky, a tree, a roof, a grass, and a road.

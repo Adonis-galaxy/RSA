@@ -8,3 +8,8 @@ A narrow, sunlit alleyway between two hedges.
 A narrow, sunlit pathway between two hedges, leading to a white house with a car parked in front.
 A narrow, sunlit alleyway between two hedges, with a street lamp and parked cars.
 A narrow, sunlit alleyway between two hedges, with a street lamp and parked cars on the right, leading to a white house with a brown roof.
+An image with two cars, a tree, a sky, a pavement, a wall, and a house.
+An image with a sky, two cars, a wall, a tree, a house, and a pavement.
+An image with two cars, a pavement, a sky, a wall, a house, and a tree.
+An image with a tree, a pavement, a house, a sky, a wall, and two cars.
+An image with a sky, a pavement, a wall, two cars, a tree, and a house.

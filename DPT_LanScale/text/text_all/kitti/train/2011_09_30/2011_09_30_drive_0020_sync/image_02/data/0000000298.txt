@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 The image captures a quiet residential street with two-story houses, parked cars, and a clear sky.
 The image shows a street scene with two houses, one larger and one smaller, parked cars, and a stop sign.
 The image shows a residential street with two-story houses, parked cars, and a clear sky.
+An image with three cars, a roof, a pavement, a stop, a road, a sky, a grass, a house, and a tree.
+An image with a stop, three cars, a grass, a pavement, a house, a sky, a roof, a road, and a tree.
+An image with a sky, a road, three cars, a pavement, a grass, a roof, a tree, a stop, and a house.
+An image with a tree, a road, a roof, a house, three cars, a sky, a stop, a pavement, and a grass.
+An image with three cars, a stop, a grass, a sky, a tree, a pavement, a roof, a house, and a road.

@@ -8,3 +8,8 @@ A blue and white cart parked on a street.
 A blue cart parked on a narrow street between two houses, with a motorcycle parked on the sidewalk and a car parked in front of a garage.
 A large blue tarp is covering a small trailer parked on a narrow street between two houses.
 A narrow street lined with houses, a blue cart parked on the side, and a motorcycle parked in front of a garage.
+An image with a fence, a tree, a roof, a pavement, a wall, a truck, a road, two cars, and a sky.
+An image with a wall, a truck, a roof, a sky, two cars, a pavement, a tree, a road, and a fence.
+An image with a sky, two cars, a pavement, a road, a tree, a wall, a fence, a truck, and a roof.
+An image with a roof, a pavement, two cars, a tree, a truck, a road, a wall, a sky, and a fence.
+An image with a truck, a wall, two cars, a tree, a road, a roof, a fence, a pavement, and a sky.

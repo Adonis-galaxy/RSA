@@ -8,3 +8,8 @@ A kitchen with a black couch in the foreground.
 The image captures a cozy kitchen scene, with a black couch in the foreground, a white wall, a wooden cabinet, a stainless steel oven, a white countertop, and a white tile floor. The essence of the image is the warmth and homeliness of a well-used kitchen space.
 The image shows a small, dimly lit kitchen with wooden cabinets, a stainless steel refrigerator, a black countertop, and a black chair.
 The image shows a kitchen with a counter, cabinets, a sink, a stove, and a refrigerator, all in a compact layout.
+An image with a wall, two floors, a cabinet, a oven, two sinks, a ceiling, a couch, a light, a chair, and a microwave.
+An image with a couch, two floors, a wall, a oven, a light, a cabinet, two sinks, a ceiling, a chair, and a microwave.
+An image with a wall, two floors, a oven, two sinks, a microwave, a cabinet, a light, a ceiling, a chair, and a couch.
+An image with a light, a ceiling, two sinks, a oven, a couch, a chair, a microwave, two floors, a wall, and a cabinet.
+An image with a ceiling, two floors, a wall, a microwave, a light, two sinks, a couch, a chair, a cabinet, and a oven.

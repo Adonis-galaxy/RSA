@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and apartment buildings.
 The image captures a quiet residential street, lined with parked cars and neatly trimmed hedges, leading to a row of apartment buildings under a clear sky.
 The image shows a residential street with parked cars, apartment buildings, and a sidewalk.
 The image depicts a residential street with parked cars, a sidewalk, and apartment buildings with greenery and a mix of architectural styles.
+An image with a road, a pavement, five cars, a house, a sky, a grass, and a tree.
+An image with a pavement, five cars, a grass, a house, a sky, a tree, and a road.
+An image with a pavement, a tree, five cars, a house, a road, a grass, and a sky.
+An image with a pavement, a sky, five cars, a house, a road, a tree, and a grass.
+An image with a sky, a grass, a road, five cars, a house, a pavement, and a tree.

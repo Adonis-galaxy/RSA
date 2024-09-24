@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person standing on the sid
 The image captures a quiet residential street, with parked cars and a few pedestrians, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and buildings, with a person standing near a red car.
 A narrow street in a residential area with parked cars and a person standing on the sidewalk.
+An image with eight cars, a grass, a sky, a tree, a road, a person, a building, a bicycle, a pavement, and a roof.
+An image with a bicycle, a grass, eight cars, a tree, a roof, a building, a road, a sky, a pavement, and a person.
+An image with a pavement, a person, eight cars, a grass, a roof, a road, a tree, a sky, a bicycle, and a building.
+An image with a pavement, eight cars, a roof, a road, a tree, a sky, a bicycle, a building, a grass, and a person.
+An image with eight cars, a building, a sky, a person, a bicycle, a roof, a road, a tree, a grass, and a pavement.

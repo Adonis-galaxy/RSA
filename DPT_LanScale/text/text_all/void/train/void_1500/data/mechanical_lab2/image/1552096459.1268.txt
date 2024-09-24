@@ -8,3 +8,8 @@ A laboratory with a desk, computer, and various equipment.
 A cluttered lab bench with various equipment and supplies.
 The image shows a small lab with a desk, a computer, a blue cart with white pipes, and a blue vacuum cleaner.
 The image shows a laboratory setting with a workbench, a blue cart with pipes, and a computer on a desk.
+An image with a light, a window, a floor, a table, a cabinet, a chair, a wall, a keyboard, and a tv.
+An image with a chair, a tv, a wall, a light, a window, a cabinet, a keyboard, a table, and a floor.
+An image with a light, a tv, a floor, a wall, a table, a keyboard, a cabinet, a window, and a chair.
+An image with a window, a light, a table, a floor, a keyboard, a cabinet, a chair, a tv, and a wall.
+An image with a wall, a tv, a floor, a keyboard, a cabinet, a table, a window, a chair, and a light.

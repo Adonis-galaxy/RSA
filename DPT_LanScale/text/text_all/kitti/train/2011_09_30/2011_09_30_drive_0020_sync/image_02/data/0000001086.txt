@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, empty street with a few parked cars, a clear blue sky, and a sense of solitude.
 The image shows a large parking lot with a few cars, a stop sign, and a construction area with orange barriers.
 The image depicts a quiet, tree-lined street with a few parked cars, a clear sky, and a construction site visible in the background.
+An image with a fence, three cars, a person, a tree, a road, a grass, a wall, and a stop.
+An image with three cars, a grass, a stop, a road, a person, a wall, a fence, and a tree.
+An image with a stop, three cars, a person, a fence, a tree, a grass, a road, and a wall.
+An image with a road, a grass, a tree, a stop, three cars, a wall, a person, and a fence.
+An image with three cars, a grass, a stop, a fence, a road, a tree, a person, and a wall.

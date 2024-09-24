@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A quiet residential street, with parked cars and a bicycle, under the shade of trees, leading to apartment buildings.
 The image shows a narrow street lined with trees and buildings, with a few cars parked on the side, and a bicycle leaning against a pole.
 A quiet residential street with parked cars, a bicycle, and a trash can, lined by trees and buildings.
+An image with two people, a pavement, a bicycle, two cars, a sky, a road, a building, a tree, and a grass.
+An image with two cars, two people, a tree, a sky, a pavement, a road, a grass, a building, and a bicycle.
+An image with two people, a bicycle, a tree, two cars, a grass, a building, a sky, a pavement, and a road.
+An image with a grass, two cars, a building, a bicycle, two people, a pavement, a sky, a road, and a tree.
+An image with a bicycle, a sky, two cars, two people, a pavement, a grass, a road, a building, and a tree.

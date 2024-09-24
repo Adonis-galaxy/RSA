@@ -8,3 +8,8 @@ A chair with a pillow on it.
 The image shows a living room with a chair, a backpack, and a lamp, all positioned in front of a wall with a power outlet.
 A large, patterned chair with a red pillow is positioned in front of a wall with a power outlet and a lamp.
 The image shows a living room with a chair, a backpack, and a lamp, all positioned in front of a wall with a power outlet.
+An image with a table, a backpack, a light, a chair, a wall, a floor, and a cell.
+An image with a wall, a backpack, a light, a cell, a table, a chair, and a floor.
+An image with a wall, a cell, a floor, a chair, a light, a table, and a backpack.
+An image with a light, a table, a wall, a backpack, a cell, a floor, and a chair.
+An image with a floor, a chair, a table, a backpack, a wall, a cell, and a light.

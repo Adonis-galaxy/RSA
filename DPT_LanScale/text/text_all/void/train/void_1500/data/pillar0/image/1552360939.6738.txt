@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue trash can is placed next to a black bag and a white column in an office setting.
 A blue trash can is next to a black bag and a white column in an office setting.
 A blue trash can is placed next to a black bag and a white column in an office setting.
+An image with a rug, a wall, a tv, a refrigerator, a cabinet, a suitcase, and a cardboard.
+An image with a wall, a suitcase, a cabinet, a tv, a rug, a refrigerator, and a cardboard.
+An image with a tv, a suitcase, a rug, a cardboard, a refrigerator, a cabinet, and a wall.
+An image with a tv, a cabinet, a wall, a rug, a cardboard, a refrigerator, and a suitcase.
+An image with a cardboard, a cabinet, a tv, a rug, a refrigerator, a suitcase, and a wall.

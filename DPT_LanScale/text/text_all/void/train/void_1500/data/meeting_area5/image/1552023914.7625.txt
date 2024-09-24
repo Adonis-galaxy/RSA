@@ -8,3 +8,8 @@ A row of white chairs and tables.
 The image shows a row of white chairs and tables in a room, with the chairs facing the tables.
 The image shows a row of white chairs and tables, with the chairs being larger than the tables.
 The image shows a row of white chairs and tables, with the chairs facing the tables, creating a classroom-like setting.
+An image with six chairs, four dinings, a floor, a wall, and a door.
+An image with four dinings, a wall, six chairs, a door, and a floor.
+An image with six chairs, a door, four dinings, a floor, and a wall.
+An image with six chairs, four dinings, a wall, a floor, and a door.
+An image with six chairs, a floor, four dinings, a door, and a wall.

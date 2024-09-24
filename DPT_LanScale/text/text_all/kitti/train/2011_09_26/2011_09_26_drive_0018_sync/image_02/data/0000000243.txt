@@ -8,3 +8,8 @@ The image shows a street with multiple traffic signs and signals.
 The image captures a scene of a wide, empty road with multiple traffic signs and signals, including a crosswalk, a yield sign, and a stop sign, all set against a backdrop of trees and a clear blue sky.
 The image shows a wide, empty road with multiple traffic signs and signals, including a large red and white yield sign, a smaller red and white stop sign, and a red and white crosswalk sign. The road is lined with trees and there is a bus in the distance.
 The image shows a wide, empty road with multiple traffic signs and signals, including a crosswalk, a yield sign, and a stop sign, all positioned along the sides of the road.
+An image with six traffics, a sky, a tree, a grass, a bus, a road, and a pavement.
+An image with six traffics, a pavement, a road, a sky, a tree, a grass, and a bus.
+An image with six traffics, a pavement, a bus, a sky, a tree, a road, and a grass.
+An image with a sky, six traffics, a road, a grass, a bus, a tree, and a pavement.
+An image with a pavement, six traffics, a grass, a sky, a road, a bus, and a tree.

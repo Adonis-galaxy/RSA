@@ -8,3 +8,8 @@ A room with a green wall and a refrigerator.
 The image shows a room with a green wall, a refrigerator, a table, and a chair.
 The image shows a room with green walls, a large refrigerator, a small table, a chair, and a picture on the wall.
 The image shows a room with a green wall, a refrigerator, a table, and a sink, all under fluorescent lighting.
+An image with a refrigerator, a tv, three chairs, a shelf, a person, a light, a floor, a wall, a ceiling, and a dining.
+An image with a tv, a person, a floor, three chairs, a ceiling, a light, a refrigerator, a shelf, a dining, and a wall.
+An image with a refrigerator, three chairs, a tv, a floor, a person, a light, a wall, a dining, a ceiling, and a shelf.
+An image with a wall, three chairs, a dining, a tv, a floor, a person, a light, a shelf, a refrigerator, and a ceiling.
+An image with a dining, a shelf, a ceiling, a wall, a refrigerator, a person, three chairs, a tv, a floor, and a light.

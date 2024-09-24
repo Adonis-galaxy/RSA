@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 The image captures a scene of a narrow street lined with parked cars, with a mix of old and new models, and a hint of a residential area with a white building and trees in the background.
 The image shows a narrow street lined with parked cars, including a red Volkswagen Beetle, a silver Volkswagen Golf, and a black car, with a white building visible in the background.
 A narrow street lined with parked cars and trees, leading to a white building.
+An image with eight cars, a road, a fence, a wall, a tree, and a house.
+An image with eight cars, a house, a road, a wall, a fence, and a tree.
+An image with eight cars, a fence, a wall, a road, a tree, and a house.
+An image with a house, eight cars, a wall, a tree, a fence, and a road.
+An image with a house, a road, eight cars, a fence, a tree, and a wall.

@@ -8,3 +8,8 @@ A black leather couch in a living room.
 A dark brown leather sofa sits in a dimly lit room, positioned in front of a staircase with a black metal railing.
 A large, dark brown leather couch is situated in a living room, next to a staircase with a black metal railing.
 A dark brown leather sofa sits in a living room, positioned in front of a staircase with a black metal railing.
+An image with a rug, a fence, a floor, a couch, a wall, and a window.
+An image with a rug, a wall, a couch, a window, a floor, and a fence.
+An image with a fence, a rug, a floor, a couch, a window, and a wall.
+An image with a fence, a wall, a floor, a window, a rug, and a couch.
+An image with a fence, a window, a floor, a wall, a rug, and a couch.

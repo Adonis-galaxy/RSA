@@ -8,3 +8,8 @@ A room with a whiteboard, a hat, and boxes.
 A room with a whiteboard, a hat on a table, and boxes in the corner.
 The image shows a room with a whiteboard, a hat on a table, a cardboard box, and a chair.
 The image shows a room with a whiteboard, a blue chair, a cardboard box, and a straw hat on a table.
+An image with a floor, a refrigerator, a cardboard, a wall, a tv, and a cabinet.
+An image with a wall, a refrigerator, a tv, a cardboard, a cabinet, and a floor.
+An image with a refrigerator, a tv, a floor, a cardboard, a wall, and a cabinet.
+An image with a floor, a cabinet, a cardboard, a wall, a tv, and a refrigerator.
+An image with a floor, a cabinet, a tv, a cardboard, a refrigerator, and a wall.

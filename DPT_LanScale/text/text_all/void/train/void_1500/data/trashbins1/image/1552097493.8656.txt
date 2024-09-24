@@ -8,3 +8,8 @@ A trash can with a white liner and green bags.
 A trash can with a white liner and two green bags, placed next to a door.
 A large black trash can with a white liner and two green bags, placed next to a brown door.
 A trash can with a white liner and two green bags is placed next to a wooden door.
+An image with a floor, a wall, and a door.
+An image with a floor, a door, and a wall.
+An image with a wall, a floor, and a door.
+An image with a door, a floor, and a wall.
+An image with a door, a floor, and a wall.

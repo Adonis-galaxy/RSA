@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings with parked cars.
 The image captures a quiet residential street, with parked cars and apartment buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars, apartment buildings, and trees, with a person walking on the sidewalk.
 A narrow street between two buildings, lined with parked cars and a row of garages, with a man walking on the sidewalk.
+An image with a dirt, a sky, eight cars, a building, a tree, a road, and a person.
+An image with a building, eight cars, a tree, a road, a dirt, a sky, and a person.
+An image with a dirt, eight cars, a road, a building, a tree, a person, and a sky.
+An image with a building, a dirt, eight cars, a road, a tree, a person, and a sky.
+An image with eight cars, a road, a dirt, a building, a person, a tree, and a sky.

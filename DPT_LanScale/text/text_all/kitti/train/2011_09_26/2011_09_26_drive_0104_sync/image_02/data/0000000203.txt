@@ -8,3 +8,8 @@ The image shows a busy city street with cars, trucks, and motorcycles.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
 The image depicts a narrow city street lined with parked cars, tall buildings, and trees, with a mix of vehicles and pedestrians, and a sign indicating a nearby business.
 A narrow city street with parked cars, a mix of vehicles, and pedestrians, flanked by buildings and lined with trees.
+An image with eleven cars, a road, a truck, three motorcycles, a stop, a sky, a tree, a pavement, and a building.
+An image with eleven cars, three motorcycles, a stop, a sky, a pavement, a building, a road, a truck, and a tree.
+An image with a stop, three motorcycles, eleven cars, a road, a pavement, a tree, a sky, a building, and a truck.
+An image with three motorcycles, a building, eleven cars, a road, a sky, a pavement, a truck, a tree, and a stop.
+An image with a tree, a road, eleven cars, a building, a stop, three motorcycles, a pavement, a sky, and a truck.

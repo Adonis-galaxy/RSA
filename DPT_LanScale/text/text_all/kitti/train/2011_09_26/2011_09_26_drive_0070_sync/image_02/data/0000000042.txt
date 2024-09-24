@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a tranquil suburban street scene, with a clear sky overhead, a lush green lawn on the right, a tree-lined road, and a few vehicles, including a white van, driving down the street.
 The image shows a wide, tree-lined street with a few cars, a large red and blue sign, and a smaller white sign.
 A quiet suburban street with a clear view of a blue sky, lined with trees and houses, and a single vehicle in motion.
+An image with a stop, two cars, a roof, a road, a tree, a pavement, a sky, a wall, and a grass.
+An image with a stop, two cars, a road, a roof, a grass, a sky, a pavement, a wall, and a tree.
+An image with a tree, a sky, a road, two cars, a pavement, a wall, a stop, a roof, and a grass.
+An image with a grass, a wall, a pavement, a sky, a tree, two cars, a roof, a stop, and a road.
+An image with a sky, two cars, a pavement, a tree, a road, a stop, a grass, a roof, and a wall.

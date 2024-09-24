@@ -8,3 +8,8 @@ The image shows a street with a blue car parked on the side.
 A quiet residential street with a blue car parked on the side, lined with houses and trees, under a clear blue sky.
 The image shows a long, narrow street lined with houses and trees, with a blue car parked on the right side.
 A long, tree-lined street with apartment buildings on both sides, leading to a parking lot.
+An image with seven cars, a house, a tree, a grass, a road, a pavement, and a wall.
+An image with a pavement, a house, seven cars, a tree, a wall, a road, and a grass.
+An image with a grass, a wall, a house, seven cars, a tree, a road, and a pavement.
+An image with a pavement, seven cars, a house, a tree, a road, a grass, and a wall.
+An image with seven cars, a wall, a tree, a road, a house, a grass, and a pavement.

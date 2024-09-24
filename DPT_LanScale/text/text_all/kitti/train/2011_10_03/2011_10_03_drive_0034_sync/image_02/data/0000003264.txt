@@ -8,3 +8,8 @@ A tree-lined street.
 A tree-lined street with a brick wall, a gate, and a path leading to a park.
 A tree-lined street with a brick wall, a small gate, a sidewalk, and a path leading to a park.
 A narrow, tree-lined street with a brick wall, a gate, and a path leading to a park.
+An image with a road, two walls, a tree, a pavement, and a grass.
+An image with a grass, a road, a pavement, a tree, and two walls.
+An image with two walls, a tree, a road, a grass, and a pavement.
+An image with two walls, a grass, a pavement, a tree, and a road.
+An image with a tree, a pavement, two walls, a road, and a grass.

@@ -8,3 +8,8 @@ A black and orange van driving down a narrow street.
 A delivery van is parked on a narrow street between two-story houses, with a fence and a bench nearby.
 A large orange and black van is driving down a narrow street between two white houses, with a wooden fence and a brick wall on the right side.
 A delivery truck is parked on a narrow street between two-story houses, with a fence and a bench on the sidewalk.
+An image with a bus, a wall, a pavement, a grass, a fence, a tree, a house, a sky, and a road.
+An image with a grass, a sky, a tree, a fence, a house, a wall, a bus, a pavement, and a road.
+An image with a pavement, a house, a grass, a tree, a bus, a wall, a sky, a fence, and a road.
+An image with a bus, a house, a tree, a wall, a fence, a pavement, a road, a grass, and a sky.
+An image with a grass, a fence, a sky, a house, a bus, a road, a wall, a tree, and a pavement.

@@ -8,3 +8,8 @@ The image shows a classroom with desks and chairs.
 The image captures a classroom setting with a focus on the arrangement of furniture and the presence of educational materials.
 The image shows a classroom with a large table, several chairs, a bookshelf, a computer desk with a monitor, and a door.
 The image shows a classroom with a long table, chairs, desks, and shelves filled with books and supplies.
+An image with sixteen books, thirteen chairs, three tvs, two keyboards, a mouse, a floor, a light, a table, a shelf, a wall, a door, and a rug.
+An image with sixteen books, two keyboards, a mouse, a floor, thirteen chairs, three tvs, a shelf, a light, a door, a table, a rug, and a wall.
+An image with sixteen books, three tvs, two keyboards, a rug, a mouse, thirteen chairs, a wall, a shelf, a door, a table, a floor, and a light.
+An image with thirteen chairs, sixteen books, a shelf, a floor, a door, a rug, a table, three tvs, a light, a wall, a mouse, and two keyboards.
+An image with thirteen chairs, sixteen books, three tvs, a door, a table, two keyboards, a wall, a rug, a light, a floor, a mouse, and a shelf.

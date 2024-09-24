@@ -8,3 +8,8 @@ The image shows a street with parked cars and buildings.
 The image captures a typical day in a residential area, with parked cars lining the street and a few vehicles in motion, creating a sense of everyday life.
 The image shows a narrow street lined with parked cars and buildings, with a few cars driving down the road.
 A narrow street in a residential area with parked cars and a few moving vehicles, lined with buildings and trees.
+An image with eight cars, a tree, a road, a wall, a potted, a pavement, a fence, and a house.
+An image with a house, a potted, a road, a wall, a fence, a tree, eight cars, and a pavement.
+An image with a road, a tree, eight cars, a pavement, a potted, a wall, a fence, and a house.
+An image with a pavement, a wall, a road, eight cars, a house, a fence, a tree, and a potted.
+An image with eight cars, a road, a fence, a tree, a potted, a house, a wall, and a pavement.

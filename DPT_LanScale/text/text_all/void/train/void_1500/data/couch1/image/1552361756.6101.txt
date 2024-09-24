@@ -8,3 +8,8 @@ A black couch with a soccer ball on it.
 A black couch with a soccer ball and a pile of papers on it.
 A black couch with a white ball and a pile of papers on it.
 A black couch with a white ball and papers on it, positioned in front of a television.
+An image with four books, a wall, a table, a tv, a sports, and a couch.
+An image with a table, four books, a sports, a tv, a couch, and a wall.
+An image with a table, a sports, a wall, a couch, four books, and a tv.
+An image with four books, a tv, a sports, a wall, a couch, and a table.
+An image with four books, a sports, a wall, a table, a tv, and a couch.

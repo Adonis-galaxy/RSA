@@ -8,3 +8,8 @@ A room with a bookshelf and a table.
 The image shows a room with a bookshelf, a table, and a refrigerator, with a green wall and a row of pictures hanging on it.
 The image shows a room with a large bookshelf, a small table with papers, a large whiteboard, and a green wall with posters.
 The image shows a room with a green wall, a bookshelf, a table with papers, and a large white object on the left.
+An image with a refrigerator, eighteen books, a ceiling, a shelf, a chair, a light, a floor, a table, and a wall.
+An image with eighteen books, a ceiling, a light, a refrigerator, a wall, a floor, a shelf, a table, and a chair.
+An image with a ceiling, eighteen books, a refrigerator, a floor, a light, a chair, a shelf, a wall, and a table.
+An image with eighteen books, a refrigerator, a shelf, a light, a chair, a ceiling, a floor, a wall, and a table.
+An image with eighteen books, a wall, a light, a table, a chair, a shelf, a ceiling, a refrigerator, and a floor.

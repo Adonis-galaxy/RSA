@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a street and sidewalk in front of it, placed on a wooden stand.
 The image shows a small model of a building, which is placed on top of a wooden box.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden board.
+An image with a rug, a floor, a building, and a wall.
+An image with a building, a rug, a wall, and a floor.
+An image with a floor, a building, a rug, and a wall.
+An image with a wall, a rug, a building, and a floor.
+An image with a rug, a floor, a wall, and a building.

@@ -8,3 +8,8 @@ A silver car parked on the side of a street.
 The image captures a quiet residential street, with a silver car parked on the side of the road, adjacent to a white building with a red fence and a tree-lined sidewalk.
 A silver car is parked on the side of a narrow street between two buildings, with a red fence and a white wall in the background.
 A narrow street with parked cars, a sidewalk, and buildings on both sides.
+An image with eight cars, a tree, a stairs, a sky, a pavement, a window, a roof, a road, a wall, and a potted.
+An image with a pavement, a roof, eight cars, a stairs, a wall, a road, a sky, a window, a potted, and a tree.
+An image with a road, a wall, a roof, eight cars, a potted, a window, a pavement, a stairs, a sky, and a tree.
+An image with a potted, a stairs, a window, eight cars, a road, a pavement, a sky, a wall, a roof, and a tree.
+An image with eight cars, a sky, a roof, a stairs, a potted, a pavement, a wall, a road, a tree, and a window.

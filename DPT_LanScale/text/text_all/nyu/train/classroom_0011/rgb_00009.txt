@@ -8,3 +8,8 @@ A classroom with students sitting at desks.
 The image captures a classroom scene with students engaged in learning activities, surrounded by educational materials and furniture.
 A classroom with students seated at desks, a teacher standing at the front, a bulletin board with papers and pictures, a clock on the wall, and a whiteboard with writing.
 A classroom scene with students seated at desks, engaged in learning activities, and a teacher observing.
+An image with eleven chairs, three books, four people, a rug, a backpack, a light, a ceiling, a clock, a wall, and a paper.
+An image with a rug, three books, a wall, eleven chairs, four people, a paper, a light, a ceiling, a clock, and a backpack.
+An image with eleven chairs, a clock, four people, a light, a ceiling, a wall, three books, a rug, a paper, and a backpack.
+An image with a clock, eleven chairs, a wall, four people, a ceiling, three books, a backpack, a light, a rug, and a paper.
+An image with eleven chairs, four people, three books, a backpack, a paper, a rug, a light, a ceiling, a clock, and a wall.

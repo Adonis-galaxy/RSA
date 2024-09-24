@@ -8,3 +8,8 @@ A car is parked on the side of a road.
 A car is parked on the side of a road, near a building, with a fence and trees in the background.
 A small silver car is parked on a narrow street between two buildings, with a fence and trees in the background.
 A narrow street with a white building on the right, a car parked in front of it, and a fence on the left.
+An image with two stops, four cars, a window, a road, a fence, a grass, a house, and a tree.
+An image with two stops, a window, a road, a house, four cars, a tree, a fence, and a grass.
+An image with a window, a house, four cars, two stops, a road, a tree, a fence, and a grass.
+An image with four cars, two stops, a tree, a road, a grass, a window, a house, and a fence.
+An image with a grass, two stops, a window, a road, a house, four cars, a fence, and a tree.

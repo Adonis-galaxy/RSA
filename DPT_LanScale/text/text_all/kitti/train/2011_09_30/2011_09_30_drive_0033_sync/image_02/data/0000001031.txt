@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a serene residential street, with a black SUV parked on the side of the road, surrounded by lush greenery and quaint houses, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a large black SUV parked on the right side.
 A narrow, tree-lined street with parked cars and a white building on the left side.
+An image with a house, four cars, a road, a grass, a pavement, a wall, a sky, and a tree.
+An image with four cars, a house, a tree, a grass, a sky, a road, a wall, and a pavement.
+An image with a grass, a tree, a road, four cars, a sky, a house, a wall, and a pavement.
+An image with four cars, a sky, a pavement, a grass, a house, a road, a wall, and a tree.
+An image with a road, a grass, four cars, a tree, a house, a pavement, a wall, and a sky.

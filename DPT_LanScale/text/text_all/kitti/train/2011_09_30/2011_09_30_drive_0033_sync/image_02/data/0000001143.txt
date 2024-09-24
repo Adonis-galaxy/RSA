@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quaint European town street, with a pedestrian crossing, parked cars, and a man in a red shirt standing on the sidewalk.
 The image shows a street scene with a crosswalk, a man standing on the sidewalk, a building with a red roof, a tree, a car, a bus stop, and a blue sign.
 The image depicts a European town street with a crosswalk, parked cars, and a pedestrian waiting at a bus stop.
+An image with six cars, a bench, a road, a tree, a pavement, two people, a house, a wall, and a sky.
+An image with a bench, six cars, two people, a sky, a pavement, a wall, a road, a house, and a tree.
+An image with a wall, a house, a sky, a pavement, six cars, two people, a tree, a road, and a bench.
+An image with a road, six cars, a house, a sky, a bench, a tree, two people, a wall, and a pavement.
+An image with six cars, a wall, a bench, a tree, two people, a sky, a house, a pavement, and a road.

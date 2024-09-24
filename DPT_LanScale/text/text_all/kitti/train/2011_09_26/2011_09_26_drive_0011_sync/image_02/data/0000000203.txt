@@ -8,3 +8,8 @@ The image shows a city street with a bus and cars, a traffic light, and a pedest
 The image captures a bustling city street scene with a white bus at a traffic light, a pedestrian waiting to cross, and a variety of vehicles and street infrastructure.
 A large white bus is stopped at a traffic light on a wide street with multiple lanes, surrounded by trees and buildings.
 A city street scene with a white bus, traffic lights, a pedestrian crossing, and a crosswalk.
+An image with five cars, a tree, three traffics, two buses, a road, a grass, and a person.
+An image with five cars, a tree, a road, three traffics, two buses, a person, and a grass.
+An image with three traffics, two buses, five cars, a road, a tree, a grass, and a person.
+An image with five cars, a grass, three traffics, a tree, two buses, a road, and a person.
+An image with five cars, a grass, three traffics, two buses, a person, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a typical day in a residential area, with parked cars lining the street in front of apartment buildings, and a stop sign indicating the intersection.
 The image shows a narrow street lined with parked cars, including a large silver car, a smaller black car, and a red car, with apartment buildings visible in the background.
 The image shows a narrow street with parked cars on both sides, leading to a row of buildings with a mix of residential and commercial architecture.
+An image with twelve cars, a sky, a stop, a road, a house, a bench, a dirt, and a tree.
+An image with twelve cars, a stop, a house, a tree, a bench, a dirt, a sky, and a road.
+An image with a house, twelve cars, a road, a sky, a dirt, a bench, a stop, and a tree.
+An image with twelve cars, a road, a sky, a bench, a stop, a tree, a dirt, and a house.
+An image with a dirt, twelve cars, a stop, a tree, a house, a bench, a road, and a sky.

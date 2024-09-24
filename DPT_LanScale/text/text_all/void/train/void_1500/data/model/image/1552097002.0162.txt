@@ -8,3 +8,8 @@ A model of a building and street.
 The image shows a model of a building with a street and sidewalk, placed on a wooden shelf.
 The image shows a model of a building with a street and trees, placed on a wooden shelf.
 The image shows a model of a city street with buildings and a road, displayed on a table.
+An image with a building, a tree, a door, and a floor.
+An image with a door, a floor, a tree, and a building.
+An image with a building, a floor, a door, and a tree.
+An image with a tree, a floor, a door, and a building.
+An image with a tree, a building, a floor, and a door.

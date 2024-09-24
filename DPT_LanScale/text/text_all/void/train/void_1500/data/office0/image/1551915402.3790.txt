@@ -8,3 +8,8 @@ A black couch in a room.
 The image shows a dark room with a black couch, a black chair, and a white table.
 The image shows a small room with a black couch, a black chair, a white table, and a large television mounted on the wall.
 The image shows a small room with a black couch, a table, and a television mounted on the wall.
+An image with a wall, a chair, a dining, a tv, and a couch.
+An image with a wall, a tv, a chair, a couch, and a dining.
+An image with a tv, a couch, a dining, a chair, and a wall.
+An image with a chair, a couch, a dining, a wall, and a tv.
+An image with a wall, a tv, a dining, a chair, and a couch.

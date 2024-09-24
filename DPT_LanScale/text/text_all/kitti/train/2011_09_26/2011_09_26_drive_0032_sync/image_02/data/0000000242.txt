@@ -8,3 +8,8 @@ The image is a photograph of a road with traffic.
 The image captures a wide, tree-lined road with multiple lanes, a clear sky, and a few cars driving in the daytime.
 The image shows a wide, empty road with a few cars, a traffic light, and a sign indicating a direction. The road is lined with trees and there are no pedestrians visible.
 The image depicts a wide, tree-lined road with multiple lanes, a clear sky, and traffic lights at intersections.
+An image with seven cars, four traffics, a parking, a grass, a tree, and a road.
+An image with four traffics, a road, a parking, seven cars, a tree, and a grass.
+An image with seven cars, a road, a tree, four traffics, a parking, and a grass.
+An image with a tree, four traffics, seven cars, a grass, a parking, and a road.
+An image with a parking, seven cars, a tree, a road, four traffics, and a grass.

@@ -8,3 +8,8 @@ A yellow car parked on a street.
 A quiet residential street, with a yellow car parked at the end, under the shade of trees, and flanked by brick walls and buildings.
 A small yellow car is parked on a narrow street between two buildings, with a large tree casting a shadow on the road.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a building with a blue door.
+An image with a house, a fence, two walls, a road, a car, a tree, a sky, and a pavement.
+An image with a sky, a pavement, a fence, two walls, a car, a house, a tree, and a road.
+An image with a sky, two walls, a pavement, a car, a tree, a road, a fence, and a house.
+An image with a road, a sky, a car, two walls, a fence, a tree, a house, and a pavement.
+An image with two walls, a fence, a car, a sky, a road, a tree, a house, and a pavement.

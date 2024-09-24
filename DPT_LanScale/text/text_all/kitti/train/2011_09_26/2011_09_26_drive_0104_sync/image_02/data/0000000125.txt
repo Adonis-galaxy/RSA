@@ -8,3 +8,8 @@ The image is a photograph of a busy city street.
 The image captures a bustling city street, with parked cars lining the sidewalk, a mix of commercial and residential buildings, and a lively atmosphere with people and vehicles navigating the urban landscape.
 The image depicts a busy city street with tall buildings, parked cars, and a mix of commercial and residential structures.
 A busy city street with parked cars, apartment buildings, and a mix of commercial and residential structures.
+An image with a sky, a pavement, fourteen cars, four people, a building, a road, a bus, a tree, a truck, and a bicycle.
+An image with fourteen cars, four people, a bicycle, a sky, a truck, a bus, a building, a pavement, a tree, and a road.
+An image with a sky, fourteen cars, a pavement, four people, a road, a tree, a truck, a building, a bicycle, and a bus.
+An image with fourteen cars, a pavement, four people, a truck, a building, a bus, a sky, a tree, a road, and a bicycle.
+An image with a road, fourteen cars, four people, a truck, a tree, a sky, a building, a bicycle, a pavement, and a bus.

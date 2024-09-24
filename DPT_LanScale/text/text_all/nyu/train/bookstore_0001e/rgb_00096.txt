@@ -8,3 +8,8 @@ A store with a display of sweatshirts.
 The image captures a well-organized bookstore with a variety of books and clothing items displayed on shelves, showcasing a diverse selection of reading materials and apparel.
 A large display of various hoodies and sweatshirts is prominently featured in the middle of a spacious bookstore.
 The image shows a store with a variety of clothing items displayed on a rack, surrounded by books and other merchandise, with a focus on the central rack of clothing.
+An image with sixteen books, a floor, a shelf, a ceiling, a wall, and a paper.
+An image with sixteen books, a ceiling, a wall, a shelf, a floor, and a paper.
+An image with sixteen books, a floor, a ceiling, a paper, a wall, and a shelf.
+An image with a ceiling, sixteen books, a floor, a wall, a paper, and a shelf.
+An image with sixteen books, a wall, a shelf, a ceiling, a floor, and a paper.

@@ -8,3 +8,8 @@ A wooden bench with plants growing around it.
 A wooden bench with a metal pole, surrounded by plants and trees.
 A wooden bench with a metal pole, surrounded by plants and trees, on a sidewalk.
 A wooden bench with a metal pole, surrounded by plants and trees, on a sidewalk.
+An image with a tree, a dirt, a floor, two walls, a bench, a potted, and a pavement.
+An image with two walls, a dirt, a bench, a potted, a floor, a tree, and a pavement.
+An image with a floor, a bench, a dirt, a pavement, two walls, a potted, and a tree.
+An image with two walls, a floor, a pavement, a potted, a dirt, a bench, and a tree.
+An image with a pavement, a floor, a potted, a dirt, two walls, a bench, and a tree.

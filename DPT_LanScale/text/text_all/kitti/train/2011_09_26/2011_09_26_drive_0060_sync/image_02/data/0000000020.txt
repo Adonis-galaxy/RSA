@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist navigates a quiet residential street, with parked bicycles and cars, under the watchful eyes of traffic lights.
 A cyclist rides a bicycle across a quiet street in a residential area, with a few cars parked along the sidewalk and a traffic light visible in the distance.
 A quiet residential street with a cyclist crossing the intersection.
+An image with a tree, two bicycles, two cars, two people, a window, a house, a sky, four traffics, a pavement, a grass, and a road.
+An image with four traffics, a road, two cars, two bicycles, a pavement, two people, a sky, a tree, a window, a house, and a grass.
+An image with four traffics, two people, two bicycles, a pavement, a road, a house, two cars, a sky, a grass, a window, and a tree.
+An image with two cars, two people, four traffics, a window, a pavement, a sky, two bicycles, a road, a house, a tree, and a grass.
+An image with two bicycles, four traffics, two cars, two people, a window, a pavement, a tree, a road, a sky, a house, and a grass.

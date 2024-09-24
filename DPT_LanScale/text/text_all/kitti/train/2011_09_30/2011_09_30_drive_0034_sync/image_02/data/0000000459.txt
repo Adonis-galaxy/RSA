@@ -8,3 +8,8 @@ A narrow street lined with houses and flowers.
 A quiet residential street, lined with houses and gardens, under a clear sky.
 The image shows a narrow street lined with houses, a sidewalk, and a fence with flowers on both sides.
 A narrow, tree-lined street with houses on both sides, leading to a cul-de-sac.
+An image with a door, a potted, a sky, a house, a fence, a tree, a pavement, and a road.
+An image with a door, a tree, a sky, a road, a fence, a pavement, a house, and a potted.
+An image with a sky, a fence, a pavement, a potted, a tree, a door, a house, and a road.
+An image with a house, a tree, a sky, a pavement, a potted, a road, a door, and a fence.
+An image with a sky, a road, a potted, a tree, a pavement, a door, a fence, and a house.

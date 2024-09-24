@@ -8,3 +8,8 @@ A model of a building on a table.
 The image shows a model of a cityscape, with a focus on a large building, displayed on a wooden stand.
 The image shows a model of a cityscape, with a focus on a large building, displayed on a wooden stand.
 The image shows a model of a cityscape with buildings and a street, displayed on a wooden stand.
+An image with a rug, a floor, and a building.
+An image with a rug, a building, and a floor.
+An image with a building, a floor, and a rug.
+An image with a rug, a building, and a floor.
+An image with a floor, a rug, and a building.

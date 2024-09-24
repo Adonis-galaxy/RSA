@@ -8,3 +8,8 @@ A woman walking on a sidewalk.
 A woman walks down a quiet street, passing by apartment buildings, with a clear sky overhead and a few scattered leaves on the ground.
 A woman is walking on a sidewalk in front of apartment buildings, with a roundabout and a street sign visible in the background.
 A woman walks down a tree-lined street between two buildings, with a roundabout and a sign indicating a one-way street.
+An image with a stop, a person, a building, a sky, a road, a pavement, and a tree.
+An image with a sky, a building, a tree, a stop, a pavement, a person, and a road.
+An image with a tree, a sky, a building, a pavement, a stop, a person, and a road.
+An image with a tree, a building, a person, a pavement, a stop, a sky, and a road.
+An image with a building, a pavement, a road, a tree, a person, a stop, and a sky.

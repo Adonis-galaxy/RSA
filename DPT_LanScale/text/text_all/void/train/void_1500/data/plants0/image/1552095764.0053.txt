@@ -8,3 +8,8 @@ A small brown bird is walking on the ground.
 The image shows a small bird standing on a patch of dirt near a concrete ledge, with a variety of plants and trees in the background.
 A small brown bird is standing on a patch of dirt near a concrete ledge with a red brick pattern.
 The image shows a concrete pathway with a red brick border, a small tree, and a green shrub.
+An image with a dirt, a tree, a wall, and a pavement.
+An image with a pavement, a dirt, a wall, and a tree.
+An image with a dirt, a tree, a pavement, and a wall.
+An image with a pavement, a dirt, a tree, and a wall.
+An image with a tree, a wall, a pavement, and a dirt.

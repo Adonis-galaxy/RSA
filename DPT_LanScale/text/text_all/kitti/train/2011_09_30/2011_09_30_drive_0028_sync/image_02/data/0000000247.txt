@@ -8,3 +8,8 @@ The image shows a street scene with several cars parked along the side of the ro
 The image captures a typical day in a European city, with cars parked along the street in front of apartment buildings, and a traffic sign indicating a one-way street.
 The image shows a narrow street with parked cars on both sides, including a silver car, a red car, and a black car, with a large building in the background.
 The image shows a narrow street with parked cars on both sides, leading to a multi-story building with a curved corner.
+An image with ten cars, a traffic, a tree, two walls, a road, a person, a house, a sky, and a stop.
+An image with a person, a stop, ten cars, a road, a traffic, a sky, a tree, two walls, and a house.
+An image with ten cars, a road, a sky, a person, a stop, two walls, a house, a tree, and a traffic.
+An image with a traffic, a house, a stop, ten cars, a tree, a person, a sky, two walls, and a road.
+An image with ten cars, a tree, a road, a stop, two walls, a traffic, a person, a sky, and a house.

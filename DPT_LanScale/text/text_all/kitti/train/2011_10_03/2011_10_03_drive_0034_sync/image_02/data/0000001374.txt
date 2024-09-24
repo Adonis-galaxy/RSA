@@ -8,3 +8,8 @@ A white van parked on a curvy street.
 A white van parked on a narrow, tree-lined street, with a white wall and a metal pole on the right side.
 A white van is parked on a narrow street between two walls, with trees and bushes lining the road.
 A white van is parked on a narrow, curving street lined with trees and a white wall.
+An image with a wall, a sky, a truck, a pavement, a tree, and a road.
+An image with a tree, a truck, a wall, a sky, a road, and a pavement.
+An image with a sky, a pavement, a road, a tree, a truck, and a wall.
+An image with a tree, a pavement, a truck, a road, a sky, and a wall.
+An image with a road, a sky, a truck, a tree, a wall, and a pavement.

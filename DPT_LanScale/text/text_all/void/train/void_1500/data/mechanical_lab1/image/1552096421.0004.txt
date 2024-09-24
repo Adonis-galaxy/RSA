@@ -8,3 +8,8 @@ The image shows a black and silver computer monitor on a wooden desk.
 The image shows a blue chair with a black cord running from it to a black object on a wooden table.
 The image shows a small blue table with a black object on top of it, and a black cord running along the floor.
 The image shows a blue chair, a black cord, and a black metal object on a white tiled floor.
+An image with a chair, a remote, a floor, a tv, a wall, and a table.
+An image with a wall, a floor, a tv, a chair, a table, and a remote.
+An image with a floor, a table, a tv, a chair, a wall, and a remote.
+An image with a chair, a tv, a wall, a remote, a table, and a floor.
+An image with a wall, a remote, a tv, a table, a floor, and a chair.

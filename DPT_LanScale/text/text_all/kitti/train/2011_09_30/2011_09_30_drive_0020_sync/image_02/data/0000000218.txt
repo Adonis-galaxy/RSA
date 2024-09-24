@@ -8,3 +8,8 @@ A white van parked on the side of a road.
 A white delivery truck is parked on the side of a road, with a blue and yellow sign on its back, and a tree with yellow leaves in the foreground.
 A large white truck is parked on the side of a road, with a blue and yellow sign on its back, and a tree with yellow leaves in the foreground.
 A white van is parked on the side of a road, with a blue and yellow advertisement on its back, and a green lawn in front of a white building with a red roof.
+An image with five cars, a tree, a grass, a road, a house, a building, a truck, and a sky.
+An image with a house, five cars, a grass, a sky, a road, a truck, a tree, and a building.
+An image with a building, a sky, a tree, five cars, a truck, a house, a grass, and a road.
+An image with five cars, a tree, a building, a sky, a truck, a house, a road, and a grass.
+An image with a house, a tree, a road, five cars, a building, a grass, a truck, and a sky.

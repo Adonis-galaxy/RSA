@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with parked cars and bicycles, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and bicycles, with apartment buildings on either side, and a person walking a dog on the sidewalk.
 A narrow, tree-lined street with parked cars, bicycles, and apartment buildings.
+An image with a tree, four cars, two bicycles, two people, a dog, a house, a pavement, a sky, a road, and a stop.
+An image with a tree, a stop, two bicycles, four cars, a sky, a pavement, two people, a house, a road, and a dog.
+An image with four cars, a pavement, two bicycles, a dog, a stop, two people, a sky, a road, a tree, and a house.
+An image with a dog, two people, two bicycles, a sky, a pavement, a house, four cars, a tree, a stop, and a road.
+An image with four cars, two people, two bicycles, a tree, a road, a dog, a stop, a pavement, a sky, and a house.

@@ -8,3 +8,8 @@ A classroom with desks and chairs.
 The image captures a classroom setting with a focus on the arrangement of desks and chairs, highlighting the organization of the learning environment.
 The image shows a classroom with a large window, a desk with a chair, a bookshelf, and a bulletin board.
 The image shows a classroom with a row of desks and chairs, a teacher's desk, a bookshelf, and a window with blinds.
+An image with six chairs, eight books, three dinings, a window, a shelf, a rug, and a wall.
+An image with a window, eight books, three dinings, six chairs, a shelf, a rug, and a wall.
+An image with a window, six chairs, eight books, a wall, three dinings, a rug, and a shelf.
+An image with eight books, three dinings, a shelf, a window, a rug, six chairs, and a wall.
+An image with eight books, six chairs, a window, three dinings, a shelf, a wall, and a rug.

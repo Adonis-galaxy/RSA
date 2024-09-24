@@ -8,3 +8,8 @@ A tree-lined road.
 A serene, tree-lined road curves gently to the right, with a clear sky overhead and a fence on the left.
 A narrow, tree-lined road curves gently to the right, with a white wall on the right side and a fence on the left.
 A winding road with a curved wall on the right side, surrounded by trees and bushes, leading to a clearing at the end.
+An image with a tree, a pavement, a road, a fence, a dirt, and a sky.
+An image with a sky, a tree, a pavement, a fence, a road, and a dirt.
+An image with a tree, a road, a fence, a pavement, a sky, and a dirt.
+An image with a tree, a sky, a dirt, a fence, a pavement, and a road.
+An image with a dirt, a pavement, a tree, a fence, a road, and a sky.

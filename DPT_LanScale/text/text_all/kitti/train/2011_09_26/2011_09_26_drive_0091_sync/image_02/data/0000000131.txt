@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a woman standing on the sidewalk, a bicycle parked nearby, and a train track running through the middle of the street, creating a vibrant urban scene.
 A woman stands on a cobblestone street, looking at a bicycle, with a train track running through the middle of the street, surrounded by buildings and potted plants.
 The image captures a bustling city street, with a mix of pedestrians, cyclists, and vehicles, all navigating the narrow, cobblestone road that runs parallel to a set of train tracks.
+An image with a pavement, four people, a building, four potteds, a sky, a railroad, a umbrella, a bicycle, and a stop.
+An image with four potteds, a stop, a railroad, a pavement, a umbrella, a bicycle, a building, four people, and a sky.
+An image with a stop, four potteds, four people, a umbrella, a railroad, a sky, a pavement, a building, and a bicycle.
+An image with a sky, four people, a pavement, four potteds, a railroad, a umbrella, a building, a stop, and a bicycle.
+An image with a railroad, four people, a bicycle, a building, a umbrella, a stop, a pavement, four potteds, and a sky.

@@ -8,3 +8,8 @@ A kitchen counter with a microwave and a sink.
 A compact kitchenette with a microwave and toaster oven on a countertop.
 A small kitchenette with a microwave, toaster oven, and sink.
 A compact kitchenette with a sink, microwave, and toaster oven, all neatly arranged on a countertop.
+An image with a counter, a cabinet, two microwaves, a wall, a sink, a bottle, a paper, and a rug.
+An image with a sink, a paper, a rug, a counter, two microwaves, a cabinet, a bottle, and a wall.
+An image with a bottle, two microwaves, a paper, a wall, a rug, a sink, a cabinet, and a counter.
+An image with a bottle, two microwaves, a cabinet, a rug, a paper, a sink, a counter, and a wall.
+An image with a rug, a sink, a bottle, a wall, two microwaves, a counter, a paper, and a cabinet.

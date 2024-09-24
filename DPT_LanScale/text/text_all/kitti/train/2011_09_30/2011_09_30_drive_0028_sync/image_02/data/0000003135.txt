@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 A quiet residential street, lined with parked cars and a lush garden, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars, a sidewalk, and a building on one side. The street is lined with bushes and flowers, and there are white lines painted on the pavement.
 A narrow, tree-lined street with parked cars and a fence on the right side.
+An image with six cars, a pavement, a tree, a grass, a sky, a house, and a fence.
+An image with six cars, a pavement, a sky, a fence, a grass, a house, and a tree.
+An image with a fence, a pavement, a grass, six cars, a house, a tree, and a sky.
+An image with six cars, a sky, a fence, a house, a grass, a tree, and a pavement.
+An image with six cars, a fence, a grass, a sky, a pavement, a tree, and a house.

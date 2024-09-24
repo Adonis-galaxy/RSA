@@ -8,3 +8,8 @@ A person is sitting in a chair.
 A person is sitting in a chair, leaning back, with their eyes closed, in a room with a desk and a door.
 A person is sitting in a chair with their head down, in front of a desk with papers and a computer monitor.
 A person is sitting in a chair in an office setting, with a desk and a door in the background.
+An image with a person, a floor, a chair, a wall, a cabinet, and a door.
+An image with a person, a cabinet, a wall, a floor, a door, and a chair.
+An image with a person, a floor, a door, a cabinet, a chair, and a wall.
+An image with a cabinet, a wall, a person, a chair, a door, and a floor.
+An image with a wall, a chair, a door, a person, a cabinet, and a floor.

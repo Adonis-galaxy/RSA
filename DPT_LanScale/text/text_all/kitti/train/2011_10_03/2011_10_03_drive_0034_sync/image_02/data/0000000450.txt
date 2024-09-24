@@ -8,3 +8,8 @@ The image shows a tree-lined street with a clear view of the road ahead.
 A quiet, tree-lined street with a few parked cars, under a bright sun.
 The image shows a tree-lined street with a clear view of the road ahead, a few parked cars, and a red stop sign on the right side.
 A tree-lined street with a clear view of parked cars and a red sign on the right side.
+An image with five cars, a tree, a pavement, a road, a sky, and a grass.
+An image with a sky, a pavement, five cars, a grass, a road, and a tree.
+An image with five cars, a sky, a tree, a grass, a road, and a pavement.
+An image with five cars, a tree, a road, a grass, a sky, and a pavement.
+An image with five cars, a pavement, a sky, a grass, a tree, and a road.

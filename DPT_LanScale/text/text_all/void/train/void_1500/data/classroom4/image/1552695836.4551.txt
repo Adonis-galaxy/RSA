@@ -8,3 +8,8 @@ A blurry image of a computer desk with two black chairs.
 A computer desk with two black keyboards and two black mice.
 A blurry image of a wooden desk with two computer monitors, two keyboards, and two mice.
 The image shows a wooden desk with two computer monitors, two keyboards, and two mice, with two black chairs in front of the desk.
+An image with a wall, two keyboards, a laptop, two chairs, a tv, two mice, a table, a paper, and a floor.
+An image with two chairs, a wall, two mice, a tv, a table, two keyboards, a laptop, a paper, and a floor.
+An image with two mice, a floor, a wall, a table, a laptop, a paper, two chairs, a tv, and two keyboards.
+An image with two keyboards, a wall, two mice, a table, a tv, a floor, a paper, a laptop, and two chairs.
+An image with a tv, two chairs, two mice, two keyboards, a paper, a laptop, a wall, a table, and a floor.

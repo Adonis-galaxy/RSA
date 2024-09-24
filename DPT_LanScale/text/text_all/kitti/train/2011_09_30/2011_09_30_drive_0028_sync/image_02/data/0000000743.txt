@@ -8,3 +8,8 @@ The image shows a curved road with trees on both sides.
 The image captures a serene, tree-lined street with a gentle curve, where the sunlight filters through the canopy, casting a warm glow on the asphalt and the parked cars.
 The image shows a narrow, tree-lined road with a few cars parked on the side, a traffic light, and a bench.
 A curving, tree-lined road with parked cars, a bench, and a traffic sign.
+An image with four cars, a pavement, a road, a grass, a fence, a fire, and a tree.
+An image with four cars, a fire, a pavement, a grass, a tree, a road, and a fence.
+An image with a pavement, a fire, four cars, a grass, a tree, a road, and a fence.
+An image with a fire, a grass, a pavement, a fence, four cars, a tree, and a road.
+An image with a fence, four cars, a tree, a pavement, a grass, a fire, and a road.

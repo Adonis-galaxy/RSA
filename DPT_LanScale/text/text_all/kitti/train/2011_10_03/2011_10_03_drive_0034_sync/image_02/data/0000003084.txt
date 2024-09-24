@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a sidewalk.
 The image captures a serene residential street, lined with lush greenery and parked cars, leading to a quaint house with a garage.
 The image shows a narrow street lined with parked cars and tall trees, with a clear sky overhead.
 A narrow street with parked cars, lined by a stone wall and lush greenery, leading to a residential area with garages and a clear sky.
+An image with five cars, a door, a tree, a road, a wall, a sky, and a pavement.
+An image with a wall, a sky, a tree, five cars, a road, a door, and a pavement.
+An image with five cars, a tree, a road, a door, a pavement, a wall, and a sky.
+An image with five cars, a wall, a road, a sky, a pavement, a tree, and a door.
+An image with five cars, a sky, a tree, a door, a pavement, a wall, and a road.

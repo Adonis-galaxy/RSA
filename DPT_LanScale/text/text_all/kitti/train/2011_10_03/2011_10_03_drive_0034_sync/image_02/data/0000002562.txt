@@ -8,3 +8,8 @@ The image shows a street scene with a street sign, a parking garage, a house, an
 The image captures a quiet residential street, with a street sign indicating the name of the street, a parked car, a bench, and a lamppost, all set against a backdrop of houses and trees.
 The image shows a residential street scene with a large house, a garage, a street sign, a sidewalk, a tree, a bush, a lamp post, and a car parked on the street.
 The image depicts a residential street scene with a mix of houses, a garage, a sidewalk, a street sign, and a tree-lined sidewalk.
+An image with a pavement, a tree, a wall, a building, a sky, and a road.
+An image with a road, a pavement, a sky, a building, a wall, and a tree.
+An image with a pavement, a sky, a wall, a building, a road, and a tree.
+An image with a pavement, a road, a building, a sky, a wall, and a tree.
+An image with a tree, a road, a wall, a sky, a pavement, and a building.

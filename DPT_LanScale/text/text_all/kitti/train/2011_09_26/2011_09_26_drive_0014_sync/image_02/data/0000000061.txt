@@ -8,3 +8,8 @@ The image shows a street scene with cars driving on a road.
 The image captures a quiet, tree-lined street with a few cars driving down it, under a clear blue sky.
 The image shows a wide street with a few cars, lined by trees and buildings, and there are signs and traffic lights at the sides.
 The image depicts a tree-lined street with a clear sky, a few cars, and a yellow sign on a pole.
+An image with a tree, four cars, a grass, a building, a pavement, a bus, a road, and a wall.
+An image with a bus, a tree, four cars, a wall, a building, a pavement, a road, and a grass.
+An image with four cars, a pavement, a bus, a road, a building, a wall, a tree, and a grass.
+An image with four cars, a wall, a bus, a grass, a road, a building, a tree, and a pavement.
+An image with a building, a wall, a grass, four cars, a pavement, a tree, a bus, and a road.

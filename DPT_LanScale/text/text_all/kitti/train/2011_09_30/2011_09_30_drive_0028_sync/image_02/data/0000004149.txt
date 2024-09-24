@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 The image captures a serene residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a tree-lined street with parked cars on the side, a stop sign, and a clear blue sky.
 A tree-lined street with parked cars and a clear sky.
+An image with seven cars, a sky, a tree, a stop, a grass, a road, and a house.
+An image with a tree, seven cars, a road, a stop, a grass, a sky, and a house.
+An image with a tree, a road, seven cars, a house, a stop, a grass, and a sky.
+An image with a sky, a house, seven cars, a stop, a grass, a tree, and a road.
+An image with seven cars, a house, a sky, a road, a stop, a tree, and a grass.

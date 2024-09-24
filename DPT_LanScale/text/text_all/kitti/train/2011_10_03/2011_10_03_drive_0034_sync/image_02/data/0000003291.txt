@@ -8,3 +8,8 @@ The image shows a street sign on a road.
 A quiet, tree-lined street with a yield sign at the end, inviting drivers to slow down and be cautious.
 The image shows a narrow, tree-lined street with a red and white yield sign on the right side, a white utility box on the left, and a red and white yield sign on the left side.
 The image depicts a tree-lined street with a triangular sign on the right side, a white object on the left, and a red and white sign on the left side of the road.
+An image with a road, a grass, a pavement, a wall, and a tree.
+An image with a road, a wall, a grass, a pavement, and a tree.
+An image with a wall, a grass, a road, a pavement, and a tree.
+An image with a wall, a pavement, a grass, a road, and a tree.
+An image with a pavement, a grass, a road, a tree, and a wall.

@@ -8,3 +8,8 @@ A person standing in a bedroom.
 A person standing in a bedroom with a bookshelf, a bed, and a door.
 A person is standing in a bedroom with a large bed, a bookshelf with many books, and a door with a small window.
 A person stands in a bedroom with a bed, a bookshelf, and a door.
+An image with a shelf, ten books, a wall, a floor, a door, a remote, a person, and a bed.
+An image with a person, ten books, a floor, a shelf, a bed, a door, a remote, and a wall.
+An image with a shelf, a door, ten books, a wall, a floor, a bed, a person, and a remote.
+An image with a bed, ten books, a floor, a shelf, a wall, a door, a person, and a remote.
+An image with a floor, ten books, a remote, a door, a wall, a shelf, a person, and a bed.

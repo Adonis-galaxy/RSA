@@ -8,3 +8,8 @@ The image shows a street scene with a car, a trash can, and a building.
 A quiet residential street, with parked cars and a garbage truck, under a clear sky.
 The image shows a narrow street lined with trees and parked cars, with a large building on the left and a smaller building on the right.
 A narrow, tree-lined street with parked cars and a garbage truck, leading to a building with stairs.
+An image with a sky, two cars, a stairs, a road, a tree, and a pavement.
+An image with a sky, a road, a pavement, a tree, a stairs, and two cars.
+An image with a road, a stairs, two cars, a tree, a pavement, and a sky.
+An image with a stairs, a pavement, two cars, a road, a tree, and a sky.
+An image with a road, a sky, two cars, a tree, a stairs, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street scene, with a blue car parked in front of a white building, surrounded by trees and other parked cars, under a clear blue sky.
 The image shows a narrow street with parked cars, a blue car in the foreground, a white car in the middle, and a black car in the background, all in front of apartment buildings.
 The image shows a street scene with parked cars, apartment buildings, and trees, captured during the day under a clear sky.
+An image with a building, five cars, a stop, a tree, a road, and a grass.
+An image with a road, five cars, a grass, a stop, a building, and a tree.
+An image with five cars, a road, a grass, a tree, a building, and a stop.
+An image with a stop, five cars, a road, a building, a grass, and a tree.
+An image with a stop, five cars, a grass, a road, a building, and a tree.

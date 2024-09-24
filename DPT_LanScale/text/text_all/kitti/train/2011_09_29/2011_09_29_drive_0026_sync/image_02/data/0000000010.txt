@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a focus on the interaction between vehicles and traffic infrastructure.
 The image shows a busy city street with tall buildings, a train, cars, and a traffic light. The street is lined with trees and there is a crosswalk.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban infrastructure, all under a clear blue sky.
+An image with a sky, a road, four traffics, seven cars, a tree, a building, a fence, a light, a pavement, and a person.
+An image with four traffics, a person, a light, seven cars, a tree, a road, a fence, a sky, a pavement, and a building.
+An image with a road, four traffics, seven cars, a light, a pavement, a fence, a tree, a building, a sky, and a person.
+An image with four traffics, seven cars, a sky, a fence, a tree, a building, a person, a pavement, a light, and a road.
+An image with seven cars, a light, a sky, four traffics, a pavement, a fence, a person, a road, a tree, and a building.

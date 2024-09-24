@@ -8,3 +8,8 @@ The image shows a street with two cars parked on the side.
 The image captures a serene suburban street scene, with a black car parked on the side of the road, surrounded by lush greenery and a clear blue sky.
 The image shows a narrow street lined with trees and parked cars, with a sidewalk on the right side.
 A tree-lined street with two cars parked on the side, leading to a residential area.
+An image with five cars, a road, a wall, a tree, a pavement, a flower, and a sky.
+An image with a wall, a sky, five cars, a pavement, a tree, a road, and a flower.
+An image with a sky, a flower, five cars, a tree, a wall, a pavement, and a road.
+An image with a tree, a road, a wall, a pavement, five cars, a flower, and a sky.
+An image with a wall, a flower, five cars, a pavement, a sky, a road, and a tree.

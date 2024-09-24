@@ -8,3 +8,8 @@ The image shows a brick-paved area with a tree and a concrete curb.
 The image shows a brick-paved area with a tree and a concrete curb.
 The image shows a brick-paved area with a concrete curb, a sandy area with grass and trees, and a blurry background.
 The image shows a brick-paved area with a concrete curb, a sandy area with grass and trees, and a blurred background.
+An image with a pavement, a tree, a grass, a dirt, two walls, and a floor.
+An image with a tree, a dirt, a floor, two walls, a grass, and a pavement.
+An image with a floor, a grass, a pavement, two walls, a tree, and a dirt.
+An image with a floor, a grass, two walls, a dirt, a pavement, and a tree.
+An image with two walls, a dirt, a pavement, a tree, a grass, and a floor.

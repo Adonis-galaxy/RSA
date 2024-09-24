@@ -8,3 +8,8 @@ The image shows a model of a building.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden shelf.
 The image shows a small model of a building, which is placed on a table.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden table.
+An image with a toothbrush, a cabinet, a building, and a floor.
+An image with a building, a floor, a toothbrush, and a cabinet.
+An image with a floor, a cabinet, a toothbrush, and a building.
+An image with a cabinet, a floor, a building, and a toothbrush.
+An image with a toothbrush, a floor, a cabinet, and a building.

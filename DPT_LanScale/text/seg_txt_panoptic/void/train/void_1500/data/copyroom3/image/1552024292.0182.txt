@@ -1,0 +1,3 @@
+microwave 0.03459635416666667
+cabinet 0.0420703125
+refrigerator 0.28359375

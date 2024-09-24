@@ -8,3 +8,8 @@ A blue trash can is next to a desk.
 A blue trash can is placed next to a desk with a printer and papers.
 A blue trash can is placed next to a desk with a computer and printer.
 A blue trash can is placed next to a desk with a computer and papers on it.
+An image with a rug, a paper, a table, a cup, and a wall.
+An image with a table, a cup, a rug, a paper, and a wall.
+An image with a table, a rug, a paper, a wall, and a cup.
+An image with a cup, a table, a wall, a rug, and a paper.
+An image with a paper, a cup, a table, a rug, and a wall.

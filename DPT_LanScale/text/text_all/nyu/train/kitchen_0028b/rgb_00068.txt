@@ -8,3 +8,8 @@ A white round table with blue chairs.
 A modern dining table with four chairs, set for a casual meal, with a colorful abstract painting on the wall and a bookshelf in the background.
 A small white table with red and blue chairs, surrounded by a colorful geometric pattern on the wall, and a floor with a colorful striped rug.
 A modern dining area with a white table, blue chairs, and a colorful geometric design on the wall.
+An image with five chairs, a dining, a floor, a wall, a door, a shelf, and a bottle.
+An image with a shelf, five chairs, a dining, a floor, a door, a bottle, and a wall.
+An image with a shelf, a door, five chairs, a wall, a floor, a dining, and a bottle.
+An image with a floor, five chairs, a shelf, a wall, a door, a bottle, and a dining.
+An image with five chairs, a dining, a shelf, a floor, a wall, a bottle, and a door.

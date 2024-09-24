@@ -8,3 +8,8 @@ The image shows a white printer in a room with green walls.
 The image shows a room with a green wall, a white printer, and a brown couch.
 The image shows a small room with a green wall, a white printer, and a brown couch.
 The image shows a room with a green wall, a white printer, and a brown couch.
+An image with a cabinet, a wall, a couch, a light, a ceiling, a paper, and a floor.
+An image with a floor, a paper, a light, a wall, a couch, a cabinet, and a ceiling.
+An image with a paper, a ceiling, a cabinet, a couch, a light, a floor, and a wall.
+An image with a couch, a cabinet, a wall, a light, a ceiling, a floor, and a paper.
+An image with a floor, a cabinet, a wall, a couch, a paper, a ceiling, and a light.

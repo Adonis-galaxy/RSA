@@ -8,3 +8,8 @@ The image shows a street scene with cars parked along the side of the road.
 The image captures a quiet residential street scene, with parked cars and apartment buildings, under a clear blue sky.
 The image shows a street scene with a blue car parked in front of a white building, a white van parked next to it, and a green box on the sidewalk.
 The image shows a street scene with parked cars, apartment buildings, and trees, captured in a fisheye lens effect.
+An image with five cars, a tree, a building, and a grass.
+An image with five cars, a building, a tree, and a grass.
+An image with a grass, five cars, a tree, and a building.
+An image with five cars, a tree, a grass, and a building.
+An image with five cars, a grass, a building, and a tree.

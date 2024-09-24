@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a courtyard and a tree, placed on a wooden stand.
 The image shows a small model of a cityscape, including buildings and a courtyard, displayed behind a glass case.
 The image shows a model of a cityscape with buildings and a courtyard, displayed in a glass case.
+An image with a floor, a wall, a cabinet, a building, and a ceiling.
+An image with a ceiling, a wall, a floor, a cabinet, and a building.
+An image with a building, a floor, a wall, a ceiling, and a cabinet.
+An image with a wall, a cabinet, a building, a ceiling, and a floor.
+An image with a floor, a wall, a ceiling, a cabinet, and a building.

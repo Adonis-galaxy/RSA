@@ -8,3 +8,8 @@ The image shows a tree-lined street in a residential area.
 The image captures a serene residential street, lined with trees and parked cars, leading to a row of white buildings with green roofs, under a clear blue sky.
 The image shows a long, narrow street lined with trees and parked cars, leading to a row of white buildings with balconies.
 A tree-lined street in a residential area, with apartment buildings on both sides, leading to a paved pathway.
+An image with six cars, a tree, a grass, a pavement, a truck, a sky, a road, and a house.
+An image with a house, six cars, a sky, a pavement, a tree, a road, a grass, and a truck.
+An image with a road, a tree, six cars, a truck, a grass, a sky, a house, and a pavement.
+An image with a truck, a grass, a house, six cars, a tree, a road, a sky, and a pavement.
+An image with a sky, six cars, a pavement, a grass, a road, a tree, a house, and a truck.

@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a quiet street, with a clear blue sky overhead and a row of houses in the background.
 A woman riding a bicycle on a quiet street, with a stop sign in the background and a construction site nearby.
 A woman rides her bicycle down a quiet, tree-lined street, passing by a construction site and a parked car.
+An image with a tree, a dirt, a pavement, a grass, two cars, a person, a road, a handbag, two stops, a wall, a truck, a house, and a bicycle.
+An image with a pavement, a grass, a tree, a person, a wall, a road, two stops, a house, two cars, a bicycle, a handbag, a truck, and a dirt.
+An image with a pavement, a dirt, a road, a bicycle, a wall, a handbag, two stops, a tree, a grass, two cars, a truck, a person, and a house.
+An image with a dirt, a bicycle, a truck, a person, two cars, a handbag, a house, two stops, a wall, a grass, a road, a tree, and a pavement.
+An image with a handbag, a dirt, a pavement, a bicycle, a tree, two cars, a wall, a person, a grass, a truck, a house, two stops, and a road.

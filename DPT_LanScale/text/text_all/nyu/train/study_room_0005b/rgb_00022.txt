@@ -8,3 +8,8 @@ The image shows an office space with rows of desks and chairs.
 The image depicts an office space with a large open area featuring multiple rows of desks and chairs, some of which are currently unoccupied.
 The image shows an office space with a large open area featuring multiple tables and chairs, some of which are empty.
 The image shows an office space with a large open area featuring multiple rows of desks and chairs, a central island with a counter, and a high ceiling with recessed lighting.
+An image with a dining, a window, nine chairs, a rug, a door, a tv, a wall, a ceiling, and a table.
+An image with a window, nine chairs, a table, a tv, a wall, a ceiling, a door, a rug, and a dining.
+An image with a table, a wall, a ceiling, nine chairs, a tv, a window, a rug, a door, and a dining.
+An image with a dining, nine chairs, a door, a window, a tv, a wall, a table, a rug, and a ceiling.
+An image with nine chairs, a wall, a door, a dining, a tv, a rug, a window, a ceiling, and a table.

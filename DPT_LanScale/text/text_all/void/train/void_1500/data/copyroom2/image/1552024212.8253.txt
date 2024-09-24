@@ -8,3 +8,8 @@ A cardboard box with a blue label.
 A cardboard box with a blue label and a yellow handle is placed in a green room.
 A cardboard box with a blue label and a white logo is sitting on top of a stack of boxes.
 A cardboard box with a blue label and a white logo is placed against a green wall.
+An image with a wall, a light, a table, a paper, a cardboard, and a cabinet.
+An image with a cabinet, a paper, a wall, a table, a light, and a cardboard.
+An image with a cabinet, a cardboard, a wall, a paper, a table, and a light.
+An image with a light, a cardboard, a wall, a table, a cabinet, and a paper.
+An image with a paper, a light, a cardboard, a table, a wall, and a cabinet.

@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the sides of the road, and a white van parked in front of a house, suggesting a peaceful neighborhood scene.
 The image shows a narrow street lined with parked cars, including a large white van and a small black car, with trees and buildings in the background.
 A narrow street lined with parked cars and buildings, with a white van parked on the right side.
+An image with nine cars, a road, a wall, a house, a roof, a sky, a truck, a pavement, a tree, and a fence.
+An image with nine cars, a fence, a house, a pavement, a tree, a sky, a roof, a road, a truck, and a wall.
+An image with nine cars, a fence, a pavement, a roof, a wall, a sky, a tree, a road, a house, and a truck.
+An image with a wall, a tree, a road, nine cars, a truck, a pavement, a fence, a sky, a roof, and a house.
+An image with a pavement, a tree, nine cars, a sky, a road, a fence, a house, a truck, a roof, and a wall.

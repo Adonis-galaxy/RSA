@@ -8,3 +8,8 @@ A computer desk with a keyboard, mouse, monitor, and a penguin figurine.
 A computer desk with a keyboard, mouse, monitor, and a penguin figurine.
 A computer desk with a keyboard, mouse, monitor, and a penguin figurine.
 A computer desk with a keyboard, mouse, monitor, and a penguin figurine.
+An image with a wall, a mouse, a chair, a tv, a keyboard, a floor, a table, and a cardboard.
+An image with a cardboard, a wall, a chair, a mouse, a tv, a floor, a keyboard, and a table.
+An image with a chair, a table, a cardboard, a keyboard, a tv, a mouse, a wall, and a floor.
+An image with a table, a tv, a cardboard, a keyboard, a mouse, a wall, a chair, and a floor.
+An image with a chair, a tv, a cardboard, a keyboard, a mouse, a wall, a floor, and a table.

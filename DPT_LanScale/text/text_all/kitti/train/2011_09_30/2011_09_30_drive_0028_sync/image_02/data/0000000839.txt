@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few trees providing shade.
 The image shows a narrow street lined with parked cars and trees, with a large building on the left and a clear sky above.
 A narrow street lined with parked cars and trees, leading to a residential area with houses and apartment buildings.
+An image with five cars, a tree, a house, a pavement, a motorcycle, a sky, a fence, and a road.
+An image with five cars, a motorcycle, a road, a fence, a tree, a pavement, a house, and a sky.
+An image with five cars, a pavement, a motorcycle, a house, a road, a tree, a fence, and a sky.
+An image with a motorcycle, a road, a house, five cars, a fence, a tree, a pavement, and a sky.
+An image with a motorcycle, a pavement, a road, five cars, a tree, a fence, a sky, and a house.

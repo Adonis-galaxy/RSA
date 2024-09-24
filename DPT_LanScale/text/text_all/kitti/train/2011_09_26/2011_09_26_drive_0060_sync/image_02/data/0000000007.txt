@@ -8,3 +8,8 @@ A person riding a bicycle across a street.
 A cyclist rides through a quiet residential street, with parked cars and bicycles on the sidewalk, under a clear blue sky.
 A person riding a bicycle across a street in a residential area, with a car parked on the side of the road and a traffic light visible.
 A quiet residential street with a cyclist crossing the intersection.
+An image with four cars, four traffics, a road, two bicycles, a pavement, a tree, a person, a house, a grass, and a window.
+An image with a grass, four traffics, four cars, a pavement, two bicycles, a person, a road, a tree, a house, and a window.
+An image with four traffics, two bicycles, four cars, a house, a person, a road, a tree, a window, a pavement, and a grass.
+An image with a pavement, four cars, four traffics, two bicycles, a house, a grass, a road, a tree, a window, and a person.
+An image with four cars, a road, a person, a grass, four traffics, a window, two bicycles, a pavement, a house, and a tree.

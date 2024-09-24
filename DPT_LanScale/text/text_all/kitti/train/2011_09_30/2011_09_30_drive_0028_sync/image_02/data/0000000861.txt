@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a sunny day in a residential area, with parked cars lining a tree-lined street, and a red car driving down the road.
 The image shows a narrow street lined with parked cars and trees, with a row of buildings on one side.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a road, five cars, a house, a tree, and a sky.
+An image with a tree, a road, five cars, a sky, and a house.
+An image with a tree, five cars, a road, a house, and a sky.
+An image with a sky, a road, a house, five cars, and a tree.
+An image with five cars, a tree, a house, a sky, and a road.

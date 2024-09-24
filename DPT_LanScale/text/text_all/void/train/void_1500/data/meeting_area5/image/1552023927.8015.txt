@@ -8,3 +8,8 @@ A row of white chairs around a white table.
 A long white table with six white chairs, set up in a conference room.
 A long white table with six white chairs, placed on a gray carpet, in front of a yellow wall.
 A long white table with six white chairs, placed on a gray carpet, in front of a yellow wall with a blackboard.
+An image with a paper, four chairs, a door, a tv, two dinings, and a wall.
+An image with two dinings, a tv, four chairs, a paper, a door, and a wall.
+An image with a tv, two dinings, a door, a wall, four chairs, and a paper.
+An image with four chairs, a paper, two dinings, a tv, a wall, and a door.
+An image with a paper, four chairs, two dinings, a wall, a door, and a tv.

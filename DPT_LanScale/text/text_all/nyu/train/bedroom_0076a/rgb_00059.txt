@@ -8,3 +8,8 @@ The image shows a room with two bunk beds.
 The image shows a room with two bunk beds, a wooden dresser, and a framed picture on the wall.
 The image shows a room with two bunk beds, a wooden dresser, and a framed picture on the wall.
 The image shows a room with two bunk beds, a wooden dresser, and a wooden floor.
+An image with a wall, a window, a floor, a bed, and a cabinet.
+An image with a cabinet, a bed, a window, a floor, and a wall.
+An image with a floor, a wall, a bed, a window, and a cabinet.
+An image with a cabinet, a floor, a bed, a window, and a wall.
+An image with a wall, a window, a bed, a cabinet, and a floor.

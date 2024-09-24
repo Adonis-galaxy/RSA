@@ -8,3 +8,8 @@ A trash can with a green bag.
 A trash can with a green bag on it, sitting in a hallway.
 A large trash can with a green bag on it, sitting in a hallway.
 A trash can with a green bag on it is placed next to a door in a room.
+An image with a floor, a door, and a wall.
+An image with a door, a wall, and a floor.
+An image with a door, a wall, and a floor.
+An image with a wall, a door, and a floor.
+An image with a wall, a floor, and a door.

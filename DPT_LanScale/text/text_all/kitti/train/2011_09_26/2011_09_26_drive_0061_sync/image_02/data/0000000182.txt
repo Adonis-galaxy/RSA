@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, a no parking sign, and a 
 A narrow street lined with parked cars and a truck, with a red and blue sign indicating no parking.
 The image shows a narrow street lined with parked cars and a truck, with a red and blue sign indicating no parking.
 A narrow street lined with parked cars, a truck, and a red and blue sign.
+An image with five cars, a pavement, a sky, a tree, a road, a fence, a house, a roof, and a stop.
+An image with five cars, a roof, a fence, a road, a stop, a pavement, a tree, a sky, and a house.
+An image with a tree, five cars, a sky, a road, a stop, a house, a pavement, a roof, and a fence.
+An image with five cars, a roof, a road, a sky, a house, a stop, a fence, a pavement, and a tree.
+An image with a house, a road, five cars, a sky, a stop, a fence, a tree, a pavement, and a roof.

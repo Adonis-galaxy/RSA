@@ -8,3 +8,8 @@ Man sitting at desk in front of computer.
 A man in a dark room, sitting at a desk with a computer, surrounded by books and a rug.
 A man is sitting at a desk in a room with a large bookshelf, a rug, and a chair.
 A man is sitting at a desk in a room with a wooden floor, surrounded by bookshelves and a rug.
+An image with twenty books, a cabinet, a table, a floor, a laptop, a shelf, a person, a chair, and a rug.
+An image with twenty books, a floor, a person, a table, a chair, a laptop, a cabinet, a shelf, and a rug.
+An image with a rug, twenty books, a floor, a laptop, a cabinet, a person, a shelf, a table, and a chair.
+An image with a laptop, twenty books, a floor, a chair, a rug, a person, a cabinet, a table, and a shelf.
+An image with twenty books, a floor, a rug, a table, a laptop, a shelf, a person, a chair, and a cabinet.

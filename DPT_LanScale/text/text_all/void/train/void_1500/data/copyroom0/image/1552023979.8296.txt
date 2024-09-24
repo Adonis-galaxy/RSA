@@ -8,3 +8,8 @@ A blurry image of a printer on a table.
 The image shows a workspace with a printer, a desk, and a trash can.
 The image shows a small office space with a desk, a printer, and a trash can.
 The image shows a workspace with a printer, a desk, and a trash can.
+An image with a cabinet, a wall, a scissors, a cardboard, a paper, a door, a table, and a floor.
+An image with a cabinet, a table, a door, a cardboard, a floor, a paper, a scissors, and a wall.
+An image with a scissors, a wall, a door, a paper, a table, a cardboard, a cabinet, and a floor.
+An image with a scissors, a floor, a wall, a cardboard, a paper, a door, a cabinet, and a table.
+An image with a cardboard, a door, a table, a cabinet, a floor, a scissors, a wall, and a paper.

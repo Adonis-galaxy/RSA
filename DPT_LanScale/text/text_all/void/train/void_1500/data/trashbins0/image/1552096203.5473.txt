@@ -8,3 +8,8 @@ The image shows three blue trash cans lined up against a wall.
 The image shows a blue trash can next to a white trash can, both placed against a white wall.
 The image shows three blue trash cans lined up against a wall, with a brown chair in the foreground.
 The image shows a row of blue trash cans lined up against a wall, with a single chair visible in the foreground.
+An image with a floor, a chair, three cups, and a wall.
+An image with three cups, a floor, a wall, and a chair.
+An image with a wall, a floor, a chair, and three cups.
+An image with three cups, a floor, a wall, and a chair.
+An image with a chair, a wall, three cups, and a floor.

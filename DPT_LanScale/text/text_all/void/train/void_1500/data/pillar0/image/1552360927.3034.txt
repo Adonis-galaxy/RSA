@@ -8,3 +8,8 @@ A black duffel bag on a blue carpet.
 A black duffel bag with a red stripe sits next to a blue bucket on a blue carpeted floor.
 A black duffel bag with a red stripe sits next to a blue bucket on a blue carpeted floor.
 A black duffel bag with a red stripe sits on a blue carpet next to a white cylinder and a blue bucket.
+An image with a rug, a refrigerator, a chair, a handbag, a wall, and a door.
+An image with a refrigerator, a wall, a door, a rug, a handbag, and a chair.
+An image with a wall, a handbag, a door, a chair, a rug, and a refrigerator.
+An image with a refrigerator, a handbag, a rug, a chair, a wall, and a door.
+An image with a refrigerator, a handbag, a door, a wall, a rug, and a chair.

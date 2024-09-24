@@ -8,3 +8,8 @@ A dog is walking down a tree-lined street.
 A person riding a motorcycle on a shaded street, with a dog walking ahead, and a clear blue sky overhead.
 A person riding a motorcycle on a tree-lined street.
 A quiet suburban street with a motorcycle parked on the sidewalk, a dog walking on the sidewalk, and a person riding a bicycle on the road.
+An image with a tree, a dirt, a pavement, a wall, a motorcycle, a sky, two people, and a road.
+An image with a tree, a dirt, a motorcycle, a road, two people, a pavement, a sky, and a wall.
+An image with a tree, a sky, a motorcycle, a dirt, a wall, two people, a pavement, and a road.
+An image with a sky, a wall, a tree, a road, a pavement, two people, a dirt, and a motorcycle.
+An image with a motorcycle, a tree, a wall, a pavement, a dirt, two people, a sky, and a road.

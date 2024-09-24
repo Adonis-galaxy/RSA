@@ -8,3 +8,8 @@ The image shows a patch of dirt with some plants growing in it.
 The image shows a patch of dirt with some plants and grass, surrounded by a concrete slab.
 The image shows a small patch of dirt with a few plants growing in it, located next to a concrete slab.
 The image shows a patch of dirt with some plants and grass, surrounded by a concrete area.
+An image with two walls, a pavement, a grass, a tree, and a gravel.
+An image with two walls, a tree, a gravel, a grass, and a pavement.
+An image with a gravel, a pavement, a grass, two walls, and a tree.
+An image with a gravel, two walls, a tree, a grass, and a pavement.
+An image with a grass, two walls, a gravel, a pavement, and a tree.

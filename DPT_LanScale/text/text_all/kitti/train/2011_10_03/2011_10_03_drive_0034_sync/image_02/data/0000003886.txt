@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white line painted on the road.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear sky overhead.
 The image shows a narrow street with parked cars on the side, a line of trees, and a white wall with a fence. The street is lined with parked cars, and there are trees on both sides. The white wall and fence are on the left side of the street.
 A quiet residential street with parked cars, a paved road, and a line of trees and bushes along the sidewalk.
+An image with five cars, a pavement, a tree, a wall, a road, a sky, and a roof.
+An image with five cars, a road, a wall, a sky, a pavement, a tree, and a roof.
+An image with a pavement, five cars, a tree, a sky, a roof, a wall, and a road.
+An image with a pavement, a tree, a wall, five cars, a roof, a sky, and a road.
+An image with five cars, a wall, a tree, a sky, a road, a pavement, and a roof.

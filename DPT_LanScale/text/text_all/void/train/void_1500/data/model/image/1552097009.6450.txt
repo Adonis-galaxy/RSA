@@ -8,3 +8,8 @@ A model of a building on a table.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden display case.
 The image shows a small model of a cityscape, including a building with a red facade and a white roof, placed on a wooden shelf.
 The image shows a model of a cityscape with buildings and a street, displayed on a wooden shelf.
+An image with a cabinet, a building, a sink, and a floor.
+An image with a sink, a building, a cabinet, and a floor.
+An image with a cabinet, a building, a floor, and a sink.
+An image with a building, a floor, a sink, and a cabinet.
+An image with a floor, a building, a cabinet, and a sink.

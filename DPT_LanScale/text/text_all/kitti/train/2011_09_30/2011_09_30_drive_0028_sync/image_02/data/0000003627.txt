@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a truck.
 The image captures a typical urban scene with parked cars on a street, a white building in the background, and a clear sky overhead.
 The image shows a narrow street lined with parked cars, with a large white building on the left and a white truck on the right.
 The image shows a street scene with parked cars, a truck, and a bus, with buildings and trees in the background.
+An image with a sky, twelve cars, a truck, a road, a dirt, a tree, a building, and a fence.
+An image with a road, twelve cars, a truck, a sky, a fence, a dirt, a building, and a tree.
+An image with twelve cars, a building, a road, a dirt, a truck, a fence, a sky, and a tree.
+An image with twelve cars, a road, a tree, a truck, a dirt, a fence, a building, and a sky.
+An image with twelve cars, a tree, a truck, a sky, a fence, a road, a building, and a dirt.

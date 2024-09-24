@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white building.
 The image captures a quiet residential street, with parked cars and a bus, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a brick building on the right side.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with a road, a tree, two walls, a grass, six cars, a pavement, a sky, a truck, and a flower.
+An image with a tree, six cars, two walls, a pavement, a flower, a sky, a road, a truck, and a grass.
+An image with a flower, a truck, a tree, six cars, a road, a sky, a pavement, two walls, and a grass.
+An image with six cars, a grass, a road, a sky, a tree, a flower, a truck, a pavement, and two walls.
+An image with six cars, a pavement, a tree, two walls, a road, a sky, a grass, a truck, and a flower.

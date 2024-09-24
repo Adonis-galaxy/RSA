@@ -8,3 +8,8 @@ A kitchen with white cabinets and a counter.
 The image captures a well-lit kitchen with a white countertop, featuring a refrigerator, a microwave, and various items on the countertop, including a bottle and a bowl.
 The image shows a small kitchen with white cabinets, a white countertop, and a white tile floor. On the countertop, there is a bottle of water and a few other items. The kitchen appears to be well-lit and clean.
 The image shows a kitchen with a white countertop, white cabinets, a white refrigerator, a white microwave, a white stove, a white sink, and a white tile floor.
+An image with a wall, a refrigerator, a counter, four bottles, a floor, a cabinet, a microwave, a window, and a door.
+An image with a floor, four bottles, a refrigerator, a microwave, a counter, a wall, a window, a cabinet, and a door.
+An image with a floor, a window, a counter, a refrigerator, a wall, a door, four bottles, a cabinet, and a microwave.
+An image with a window, four bottles, a wall, a microwave, a cabinet, a counter, a door, a refrigerator, and a floor.
+An image with a window, four bottles, a microwave, a door, a cabinet, a counter, a floor, a refrigerator, and a wall.

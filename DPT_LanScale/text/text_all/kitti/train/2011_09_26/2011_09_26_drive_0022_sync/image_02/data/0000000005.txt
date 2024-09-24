@@ -8,3 +8,8 @@ A white car on a road.
 A white car is driving down a tree-lined street, passing under a street sign and a traffic light.
 A white car is driving down a tree-lined road, passing under a street sign.
 A white car is driving down a tree-lined street, passing under a street sign and rounding a bend.
+An image with two people, a fence, a road, a tree, a grass, and a car.
+An image with a road, a fence, two people, a tree, a grass, and a car.
+An image with two people, a grass, a fence, a road, a car, and a tree.
+An image with two people, a fence, a car, a road, a grass, and a tree.
+An image with a tree, two people, a car, a road, a fence, and a grass.

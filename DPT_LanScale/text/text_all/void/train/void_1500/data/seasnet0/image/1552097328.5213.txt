@@ -8,3 +8,8 @@ A computer lab with black desks and chairs.
 A computer lab with multiple desks, each equipped with a monitor, keyboard, and mouse.
 The image shows a computer lab with multiple desks, each equipped with a desktop computer, a keyboard, and a mouse.
 The image shows a computer lab with multiple desks, each equipped with a desktop computer, a keyboard, and a mouse, and black chairs with the word "Seashell" on them.
+An image with three keyboards, a table, four mice, three chairs, three tvs, and a rug.
+An image with four mice, three chairs, a table, three keyboards, three tvs, and a rug.
+An image with three tvs, four mice, three keyboards, a rug, three chairs, and a table.
+An image with three chairs, four mice, a rug, three tvs, three keyboards, and a table.
+An image with three tvs, three chairs, three keyboards, four mice, a table, and a rug.

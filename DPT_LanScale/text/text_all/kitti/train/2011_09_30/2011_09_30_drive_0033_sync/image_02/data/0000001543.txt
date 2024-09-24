@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet suburban street, lined with lush greenery and a few parked vehicles, leads to a white house with a porch, under a clear blue sky.
 A narrow, tree-lined street with a sidewalk, a car parked on the side, and a house on the right.
 A narrow, tree-lined street leads to a residential area with a white house and a yellow vehicle parked in the driveway.
+An image with a grass, a house, a road, a pavement, a sky, a tree, a fire, and a car.
+An image with a grass, a fire, a sky, a car, a tree, a house, a road, and a pavement.
+An image with a road, a fire, a pavement, a house, a grass, a sky, a car, and a tree.
+An image with a car, a sky, a road, a grass, a pavement, a fire, a tree, and a house.
+An image with a house, a car, a sky, a tree, a pavement, a grass, a road, and a fire.

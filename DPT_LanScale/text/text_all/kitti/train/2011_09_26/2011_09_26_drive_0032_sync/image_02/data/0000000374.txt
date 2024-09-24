@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes and traffic.
 The image captures a bustling highway scene with a mix of vehicles, traffic lights, and a clear sky.
 The image shows a wide, multi-lane road with several cars and trucks, a traffic light, and a railroad crossing. The road is lined with grass and trees, and the sky is clear.
 The image depicts a busy highway with multiple lanes, a mix of vehicles, traffic lights, and railroad crossings, all under a bright, sunny sky.
+An image with two traffics, a sky, two trucks, four cars, a grass, a road, a tree, and a pavement.
+An image with two traffics, a road, four cars, two trucks, a pavement, a sky, a tree, and a grass.
+An image with two traffics, four cars, two trucks, a road, a pavement, a tree, a sky, and a grass.
+An image with a sky, a tree, a grass, a road, two traffics, two trucks, four cars, and a pavement.
+An image with four cars, a pavement, a sky, two traffics, two trucks, a road, a tree, and a grass.

@@ -8,3 +8,8 @@ The image shows a row of empty seats in a room.
 The image shows a row of empty seats in a room with a green cabinet and a checkered floor.
 The image shows a row of empty seats in a room with a green cabinet and a checkered floor.
 The image shows a row of empty seats in a movie theater, with a green object in the background.
+An image with six chairs, a wall, a door, a refrigerator, and a floor.
+An image with a door, six chairs, a refrigerator, a floor, and a wall.
+An image with a refrigerator, six chairs, a door, a floor, and a wall.
+An image with a wall, six chairs, a refrigerator, a door, and a floor.
+An image with a floor, a wall, six chairs, a door, and a refrigerator.

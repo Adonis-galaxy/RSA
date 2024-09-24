@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white house.
 The image captures a quiet residential street, with parked cars and a paved driveway leading to a house, under a clear sky.
 The image shows a narrow street with two parked cars and two vans, one of which is larger than the other, and there are houses on both sides.
 A narrow, tree-lined street with parked cars and a white house on the right.
+An image with a pavement, a sky, a tree, a wall, a roof, a window, a truck, a grass, a fence, and a car.
+An image with a wall, a truck, a window, a grass, a tree, a car, a roof, a sky, a pavement, and a fence.
+An image with a grass, a car, a tree, a sky, a wall, a window, a roof, a pavement, a fence, and a truck.
+An image with a wall, a truck, a pavement, a window, a sky, a car, a grass, a roof, a fence, and a tree.
+An image with a fence, a pavement, a grass, a window, a car, a truck, a sky, a wall, a roof, and a tree.

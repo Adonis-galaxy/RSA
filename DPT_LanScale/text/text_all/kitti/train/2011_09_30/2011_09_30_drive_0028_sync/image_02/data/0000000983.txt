@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road and trees on the side.
 A car is driving down a tree-lined street, passing a pedestrian on the sidewalk.
 A car is driving down a tree-lined street, passing a blue sign with a white arrow pointing to the right.
 A car is driving down a tree-lined street with a sidewalk, a blue sign with a white arrow, and a red and blue sign on a pole.
+An image with a grass, a road, a pavement, a wall, a person, a tree, and a car.
+An image with a grass, a wall, a car, a pavement, a tree, a person, and a road.
+An image with a wall, a pavement, a car, a road, a person, a tree, and a grass.
+An image with a tree, a road, a wall, a grass, a car, a pavement, and a person.
+An image with a car, a grass, a pavement, a road, a wall, a tree, and a person.

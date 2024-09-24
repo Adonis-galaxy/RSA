@@ -8,3 +8,8 @@ A black jeep is driving down a narrow street.
 A black SUV is parked on the side of a narrow street, adjacent to a white house with a brick wall and a hedge, under a clear blue sky.
 A black SUV is driving down a narrow, tree-lined street, with a white house and a brick wall on the left side.
 A black SUV is parked on the side of a narrow street lined with white fences and brick walls, with trees and a house in the background.
+An image with a house, a pavement, a sky, two walls, a tree, a truck, a road, and a fence.
+An image with a house, two walls, a fence, a truck, a pavement, a tree, a sky, and a road.
+An image with a house, a fence, a truck, a pavement, a sky, a tree, two walls, and a road.
+An image with a truck, two walls, a sky, a fence, a tree, a house, a pavement, and a road.
+An image with a house, a truck, a fence, two walls, a pavement, a sky, a road, and a tree.

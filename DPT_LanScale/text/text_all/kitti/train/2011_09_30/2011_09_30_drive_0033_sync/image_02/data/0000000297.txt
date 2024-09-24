@@ -8,3 +8,8 @@ The image shows a residential street with houses on the sides.
 The image captures a quiet residential street, with a curved road leading to a row of houses, where the number 30 is prominently displayed on the road.
 The image shows a residential street with houses, trees, and a curved road.
 A quiet residential street with houses, trees, and a curved road.
+An image with a car, a fence, a sky, a grass, a house, a pavement, a tree, and a road.
+An image with a house, a grass, a sky, a fence, a tree, a car, a road, and a pavement.
+An image with a fence, a sky, a grass, a road, a house, a car, a tree, and a pavement.
+An image with a sky, a tree, a house, a grass, a fence, a car, a road, and a pavement.
+An image with a sky, a pavement, a grass, a car, a house, a fence, a tree, and a road.

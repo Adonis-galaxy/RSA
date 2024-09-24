@@ -8,3 +8,8 @@ The image is blurry and shows a sidewalk with a patch of grass and a building in
 The image captures a blurry scene of a sidewalk with a blurry background of plants and a building.
 The image is blurry and shows a sidewalk with a patch of grass and a pole.
 The image shows a blurry view of a sidewalk with a patch of grass and a building in the background.
+An image with a pavement, a tree, a wall, and a grass.
+An image with a pavement, a grass, a wall, and a tree.
+An image with a tree, a pavement, a wall, and a grass.
+An image with a wall, a pavement, a tree, and a grass.
+An image with a pavement, a grass, a wall, and a tree.

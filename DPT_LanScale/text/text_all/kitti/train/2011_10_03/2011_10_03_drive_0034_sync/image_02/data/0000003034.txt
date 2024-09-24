@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with houses and trees, with a car parked on the side.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 A narrow, tree-lined street with parked cars, leading to a white building with a brown roof, and a brick wall on the right side.
+An image with a wall, three potteds, a road, four cars, a house, a fence, a tree, a pavement, and a sky.
+An image with three potteds, four cars, a fence, a tree, a road, a pavement, a sky, a wall, and a house.
+An image with four cars, a pavement, a fence, a tree, three potteds, a road, a house, a wall, and a sky.
+An image with a wall, three potteds, a house, four cars, a road, a sky, a fence, a tree, and a pavement.
+An image with a sky, three potteds, a wall, four cars, a fence, a pavement, a road, a house, and a tree.

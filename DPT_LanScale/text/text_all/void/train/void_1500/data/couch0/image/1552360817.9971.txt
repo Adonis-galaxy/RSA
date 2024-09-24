@@ -8,3 +8,8 @@ A black backpack on a gray couch.
 A black backpack is sitting on a gray couch next to a black suitcase.
 A black backpack is sitting on a gray couch, next to a black suitcase.
 A black backpack is sitting on a gray couch next to a black suitcase.
+An image with two walls, a handbag, a book, a cabinet, a suitcase, a backpack, a couch, and a rug.
+An image with two walls, a couch, a cabinet, a handbag, a book, a rug, a backpack, and a suitcase.
+An image with a backpack, a handbag, two walls, a cabinet, a rug, a book, a couch, and a suitcase.
+An image with a backpack, a suitcase, a handbag, a couch, a book, a cabinet, two walls, and a rug.
+An image with a backpack, a suitcase, a cabinet, a couch, two walls, a book, a rug, and a handbag.

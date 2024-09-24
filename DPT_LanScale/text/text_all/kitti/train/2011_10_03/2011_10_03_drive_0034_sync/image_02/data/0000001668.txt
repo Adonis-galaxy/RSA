@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and a white house.
 The image captures a serene residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and lush greenery, with a white house and a blue car visible.
 A quiet residential street with parked cars, a white house, and a sidewalk.
+An image with a building, three cars, a pavement, a wall, a tree, a road, a mountain, a sky, a grass, and a roof.
+An image with a tree, three cars, a pavement, a roof, a building, a grass, a sky, a wall, a mountain, and a road.
+An image with three cars, a tree, a road, a wall, a sky, a grass, a roof, a building, a pavement, and a mountain.
+An image with a tree, three cars, a grass, a sky, a pavement, a road, a roof, a mountain, a building, and a wall.
+An image with a building, a grass, three cars, a roof, a wall, a sky, a road, a tree, a pavement, and a mountain.

@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A quiet residential street, with a mix of old and new, leading to a row of houses.
 The image shows a narrow alleyway between two buildings, with a blue tarp on a cart, a car parked on the right, and a trash can on the left.
 A narrow, tree-lined street with houses on one side and garages on the other, leading to a dead-end.
+An image with a pavement, a road, two cars, a sky, a truck, a window, a roof, a wall, a tree, and a door.
+An image with two cars, a pavement, a sky, a roof, a tree, a wall, a truck, a door, a road, and a window.
+An image with a sky, two cars, a pavement, a roof, a door, a truck, a window, a road, a wall, and a tree.
+An image with a pavement, a truck, a door, two cars, a sky, a roof, a road, a window, a wall, and a tree.
+An image with a road, a tree, two cars, a pavement, a sky, a window, a roof, a truck, a wall, and a door.

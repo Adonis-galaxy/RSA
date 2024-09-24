@@ -8,3 +8,8 @@ The image shows a street lined with parked cars and buildings.
 The image captures a typical urban street scene with parked cars, a bicycle, and apartment buildings, showcasing the everyday life of a city.
 The image shows a narrow street lined with parked cars and buildings, with a few cars driving down the road.
 A narrow street lined with parked cars and buildings, with a mix of red and blue vehicles, and a clear sky overhead.
+An image with a tree, eleven cars, a sky, a pavement, a road, a building, a motorcycle, and a grass.
+An image with a grass, eleven cars, a sky, a pavement, a road, a tree, a motorcycle, and a building.
+An image with a motorcycle, a grass, a sky, eleven cars, a pavement, a tree, a building, and a road.
+An image with eleven cars, a pavement, a road, a grass, a sky, a motorcycle, a building, and a tree.
+An image with a pavement, eleven cars, a tree, a grass, a building, a road, a sky, and a motorcycle.

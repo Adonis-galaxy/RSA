@@ -8,3 +8,8 @@ The image shows a black car on a street.
 A black car is parked on the side of a street, with a white truck and a red trailer in the background, under a clear blue sky.
 A black car is driving down a tree-lined street, passing a large white truck and a red trailer.
 A quiet suburban street with a few parked cars and a truck, lined with trees and houses, under a clear blue sky.
+An image with a sky, a pavement, a grass, a road, two cars, three trucks, a house, a building, and a tree.
+An image with a road, a sky, three trucks, a pavement, a grass, two cars, a house, a tree, and a building.
+An image with a building, a tree, a house, a road, a grass, three trucks, a sky, a pavement, and two cars.
+An image with a house, a pavement, three trucks, a grass, two cars, a tree, a building, a road, and a sky.
+An image with three trucks, a building, a pavement, a tree, two cars, a grass, a sky, a road, and a house.

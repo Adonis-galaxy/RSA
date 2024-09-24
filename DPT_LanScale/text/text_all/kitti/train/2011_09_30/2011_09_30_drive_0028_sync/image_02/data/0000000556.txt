@@ -8,3 +8,8 @@ The image shows a tree-lined street with a sidewalk and a fence.
 A narrow, tree-lined street between buildings, with a car parked on the right side.
 The image shows a narrow, tree-lined street between two buildings, with a car parked on the right side.
 A narrow, tree-lined street between two buildings, with a car parked on the right side.
+An image with a road, a sky, a tree, a fence, and a car.
+An image with a car, a road, a tree, a fence, and a sky.
+An image with a car, a sky, a fence, a road, and a tree.
+An image with a tree, a road, a sky, a fence, and a car.
+An image with a fence, a road, a car, a sky, and a tree.

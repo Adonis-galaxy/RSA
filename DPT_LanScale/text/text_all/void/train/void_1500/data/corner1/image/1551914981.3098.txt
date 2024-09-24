@@ -8,3 +8,8 @@ The image is blurry and shows a collection of items, including a box, a book, an
 The image shows a cluttered office space with various items on a desk, including a box of tissues, a black case, and a white sign.
 The image is blurry and shows a cluttered room with various items, including a large black object, a small blue box, and a white sign.
 The image shows a blurry scene of a cluttered room with various objects, including a table with a blue box on it, a black suitcase, and a white sign.
+An image with a tv, a cardboard, a wall, a table, and a paper.
+An image with a paper, a cardboard, a wall, a tv, and a table.
+An image with a wall, a cardboard, a paper, a tv, and a table.
+An image with a cardboard, a paper, a wall, a tv, and a table.
+An image with a tv, a wall, a cardboard, a table, and a paper.

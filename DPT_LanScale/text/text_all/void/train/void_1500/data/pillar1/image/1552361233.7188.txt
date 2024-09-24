@@ -8,3 +8,8 @@ A roll of paper and a checkerboard leaning against a wall.
 A roll of paper leaning against a checkered box.
 A roll of paper leaning against a white wall next to a checkered box.
 A roll of paper and a checkerboard-patterned object leaning against a white wall.
+An image with two walls, a paper, a cardboard, and a door.
+An image with two walls, a cardboard, a door, and a paper.
+An image with a cardboard, two walls, a door, and a paper.
+An image with a cardboard, a door, a paper, and two walls.
+An image with a paper, a door, a cardboard, and two walls.

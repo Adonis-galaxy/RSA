@@ -8,3 +8,8 @@ The image shows a black car parked on a street.
 The image captures a serene suburban street scene, with a black car parked on the side of the road, surrounded by lush greenery and a clear blue sky.
 The image shows a narrow street with a black car parked on the side, a white wall on the left, a white building on the right, and a tree-lined road in the background.
 A narrow, tree-lined street leads to a building, with a car parked on the sidewalk and a street sign visible in the distance.
+An image with a road, a pavement, a sky, a tree, a car, and a wall.
+An image with a pavement, a road, a car, a wall, a tree, and a sky.
+An image with a car, a wall, a pavement, a road, a tree, and a sky.
+An image with a road, a car, a sky, a pavement, a wall, and a tree.
+An image with a pavement, a sky, a car, a wall, a road, and a tree.

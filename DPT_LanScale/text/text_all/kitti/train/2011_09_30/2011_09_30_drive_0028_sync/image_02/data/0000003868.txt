@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a typical day in a narrow city street, where parked cars line both sides, and the sun casts a warm glow on the scene.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a few trees providing shade.
 A narrow street lined with parked cars and buildings, with a mix of red and black vehicles, and a clear sky overhead.
+An image with ten cars, a road, a building, a tree, a wall, and a sky.
+An image with a building, a tree, ten cars, a road, a sky, and a wall.
+An image with a sky, ten cars, a building, a road, a tree, and a wall.
+An image with a building, ten cars, a wall, a sky, a tree, and a road.
+An image with ten cars, a wall, a road, a building, a tree, and a sky.

@@ -8,3 +8,8 @@ The image shows a quiet residential street with a few parked cars.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a person walking, and trees lining the road.
 A quiet residential street with a curved layout, lined with trees and parked cars.
+An image with a road, four cars, a pavement, a sky, a tree, a grass, and a house.
+An image with a grass, four cars, a road, a tree, a sky, a house, and a pavement.
+An image with a house, a tree, a grass, a road, four cars, a pavement, and a sky.
+An image with a house, a road, four cars, a grass, a pavement, a tree, and a sky.
+An image with a grass, four cars, a sky, a pavement, a house, a tree, and a road.

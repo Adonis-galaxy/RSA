@@ -8,3 +8,8 @@ A white van parked on the side of a road.
 A white van parked on the side of a street, with a building and trees in the background, and a sign indicating a pedestrian crossing.
 A large white van is parked on the side of a narrow street next to a building, with a red and white sign on the side of the road.
 A white van parked on the side of a street, with a building and trees in the background, and a sign indicating a construction zone.
+An image with a grass, a tree, five cars, a house, a road, a truck, a building, and a fence.
+An image with a road, five cars, a truck, a tree, a grass, a fence, a house, and a building.
+An image with a house, five cars, a grass, a truck, a fence, a road, a building, and a tree.
+An image with a tree, five cars, a building, a road, a truck, a house, a fence, and a grass.
+An image with a building, five cars, a road, a house, a grass, a fence, a truck, and a tree.

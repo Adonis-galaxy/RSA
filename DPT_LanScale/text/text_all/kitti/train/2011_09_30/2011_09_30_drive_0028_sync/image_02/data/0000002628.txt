@@ -8,3 +8,8 @@ A silver car parked on a street.
 A silver BMW car parked on a tree-lined street, with a white building and a clear sky in the background.
 A silver car is parked on the side of a narrow street, with a house and trees in the background.
 A silver BMW car is parked on the side of a tree-lined street, with a white house and a white building in the background, and the sun is shining brightly.
+An image with a pavement, a sky, a tree, a house, a roof, a car, a road, and a grass.
+An image with a sky, a car, a roof, a house, a tree, a grass, a pavement, and a road.
+An image with a car, a pavement, a house, a roof, a road, a tree, a grass, and a sky.
+An image with a road, a pavement, a car, a roof, a tree, a grass, a sky, and a house.
+An image with a house, a tree, a roof, a car, a pavement, a road, a grass, and a sky.

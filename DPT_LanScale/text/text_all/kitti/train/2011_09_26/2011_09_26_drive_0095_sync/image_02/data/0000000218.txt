@@ -8,3 +8,8 @@ The image shows a narrow street lined with tall buildings and parked cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a lone cyclist riding down the middle of the road, under the shade of trees.
 The image shows a narrow street lined with parked cars and tall buildings, with a person riding a bicycle on the sidewalk.
 A narrow street lined with parked cars and buildings, with a person walking on the sidewalk.
+An image with a bicycle, a pavement, ten cars, a truck, a tree, a sky, a person, a wall, and a road.
+An image with ten cars, a pavement, a wall, a tree, a sky, a person, a bicycle, a truck, and a road.
+An image with a person, ten cars, a road, a truck, a tree, a wall, a sky, a bicycle, and a pavement.
+An image with a truck, ten cars, a sky, a road, a tree, a bicycle, a pavement, a person, and a wall.
+An image with ten cars, a pavement, a truck, a bicycle, a wall, a road, a person, a sky, and a tree.

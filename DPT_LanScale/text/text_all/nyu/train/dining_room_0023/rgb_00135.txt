@@ -8,3 +8,8 @@ A white table with two black chairs in a room.
 The image captures a simple, uncluttered dining area with a white table and two black chairs, set against a beige wall with a single electrical outlet.
 The image shows a room with a white table and two black chairs, a door, and a wooden floor.
 The image shows a room with a white table and two black chairs, positioned in front of a door and a wall with a painting.
+An image with four chairs, a wall, a dining, a floor, and a door.
+An image with a wall, four chairs, a dining, a floor, and a door.
+An image with four chairs, a door, a dining, a floor, and a wall.
+An image with a dining, a wall, four chairs, a floor, and a door.
+An image with four chairs, a door, a wall, a floor, and a dining.

@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a tree-lined street with parked cars on both sides.
 A narrow street lined with parked cars and a person riding a bicycle.
 A narrow street lined with parked cars and a bicyclist, with a dense canopy of trees overhead.
+An image with eleven cars, a pavement, a road, a tree, a handbag, a bicycle, and a person.
+An image with a road, eleven cars, a pavement, a person, a tree, a bicycle, and a handbag.
+An image with eleven cars, a pavement, a tree, a handbag, a bicycle, a person, and a road.
+An image with a handbag, eleven cars, a bicycle, a tree, a pavement, a person, and a road.
+An image with a handbag, a person, eleven cars, a road, a bicycle, a pavement, and a tree.

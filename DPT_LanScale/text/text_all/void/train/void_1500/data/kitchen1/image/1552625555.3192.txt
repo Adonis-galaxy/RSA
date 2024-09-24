@@ -8,3 +8,8 @@ A metal railing is leaning against a wall.
 The image shows a counter with a blue and yellow container on it, next to a metal railing and a door.
 The image shows a small orange counter with a blue and yellow basket on it, a silver railing, and a white door in the background.
 The image shows a small, narrow room with an orange counter, a metal railing, and a white door.
+An image with a floor, a refrigerator, a cup, a spoon, a cabinet, a paper, and a wall.
+An image with a cup, a cabinet, a floor, a paper, a wall, a spoon, and a refrigerator.
+An image with a cabinet, a refrigerator, a wall, a spoon, a cup, a floor, and a paper.
+An image with a cup, a refrigerator, a cabinet, a paper, a wall, a floor, and a spoon.
+An image with a cabinet, a wall, a paper, a floor, a spoon, a cup, and a refrigerator.

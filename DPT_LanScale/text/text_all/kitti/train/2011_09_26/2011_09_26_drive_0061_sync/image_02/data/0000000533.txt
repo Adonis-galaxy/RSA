@@ -8,3 +8,8 @@ The image shows a narrow street with two cars driving on it.
 A red car is parked on the side of a narrow street, with a white wall and green hedges on either side, and a blue car is driving down the road.
 A red car is driving down a narrow, tree-lined street between two larger vehicles.
 A narrow, tree-lined street with two cars parked on the side.
+An image with a tree, a pavement, a wall, two cars, and a road.
+An image with a road, a tree, a pavement, two cars, and a wall.
+An image with two cars, a wall, a pavement, a tree, and a road.
+An image with a road, a pavement, two cars, a tree, and a wall.
+An image with a wall, a pavement, a tree, two cars, and a road.

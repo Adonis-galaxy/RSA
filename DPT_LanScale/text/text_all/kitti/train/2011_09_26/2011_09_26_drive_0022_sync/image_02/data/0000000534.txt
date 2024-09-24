@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 A narrow road in a wooded area, with parked cars and a vehicle in motion, surrounded by lush greenery.
 A narrow road with three cars parked on the side, surrounded by trees and a fence.
 A narrow road with parked cars and a red vehicle driving down it, surrounded by trees and a white fence.
+An image with a tree, three cars, a road, a grass, a stop, a sky, and a fence.
+An image with a grass, three cars, a stop, a tree, a sky, a fence, and a road.
+An image with three cars, a grass, a sky, a tree, a stop, a fence, and a road.
+An image with a tree, three cars, a grass, a road, a stop, a fence, and a sky.
+An image with three cars, a fence, a sky, a road, a grass, a tree, and a stop.

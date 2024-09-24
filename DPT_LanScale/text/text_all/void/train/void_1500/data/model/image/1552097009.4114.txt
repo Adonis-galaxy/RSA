@@ -8,3 +8,8 @@ A model of a cityscape with buildings and a street.
 The image shows a model of a cityscape, with a focus on a building and its surroundings.
 The image shows a small model of a cityscape, featuring a building with a red brick facade and a white roof, placed on a wooden display stand.
 The image shows a model of a cityscape with buildings and a street, displayed on a wooden stand.
+An image with a counter, a building, a floor, and a toothbrush.
+An image with a building, a counter, a floor, and a toothbrush.
+An image with a counter, a floor, a building, and a toothbrush.
+An image with a building, a toothbrush, a counter, and a floor.
+An image with a toothbrush, a counter, a building, and a floor.

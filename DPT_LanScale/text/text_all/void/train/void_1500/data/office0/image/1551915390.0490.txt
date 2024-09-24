@@ -8,3 +8,8 @@ A black leather couch in a room.
 A black leather couch in a room with a white wall.
 A black leather couch with a flat screen television mounted on the wall above it.
 A black leather couch is positioned against a white wall, with a television mounted above it, and a table with a marble top is situated to the right.
+An image with a couch, a wall, a table, a chair, and a dining.
+An image with a chair, a wall, a couch, a table, and a dining.
+An image with a table, a wall, a dining, a couch, and a chair.
+An image with a couch, a table, a dining, a chair, and a wall.
+An image with a chair, a wall, a dining, a couch, and a table.

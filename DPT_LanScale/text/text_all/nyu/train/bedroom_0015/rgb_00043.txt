@@ -8,3 +8,8 @@ A messy room with a pile of clothes on a shelf.
 A cluttered room with a messy desk, a pile of clothes, a teddy bear, and a window with a curtain.
 A small, cluttered room with a teddy bear, a bookshelf with books, a window with a curtain, and a small heater.
 A cluttered room with a messy desk, a bookshelf, a window with a curtain, and a heater.
+An image with a teddy, a shelf, five books, a laptop, a wall, and a curtain.
+An image with five books, a laptop, a wall, a curtain, a shelf, and a teddy.
+An image with a wall, five books, a shelf, a curtain, a laptop, and a teddy.
+An image with a curtain, a wall, a laptop, five books, a teddy, and a shelf.
+An image with a curtain, five books, a wall, a teddy, a shelf, and a laptop.

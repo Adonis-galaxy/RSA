@@ -8,3 +8,8 @@ The image shows a small yellow car on a road with multiple traffic lights.
 A small yellow car is stopped at a red traffic light on a wide, empty road with multiple traffic lights and signs.
 A small yellow car is driving down a wide, empty road with multiple traffic lights and signs.
 A small yellow car is driving down a wide, empty road with multiple traffic lights and signs, and a clear blue sky overhead.
+An image with three traffics, a person, a pavement, a road, a tree, and a car.
+An image with a pavement, a tree, a road, three traffics, a car, and a person.
+An image with a road, a person, three traffics, a tree, a pavement, and a car.
+An image with a pavement, a person, three traffics, a tree, a road, and a car.
+An image with three traffics, a tree, a pavement, a person, a road, and a car.

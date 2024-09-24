@@ -8,3 +8,8 @@ The image shows a room with a wooden floor and a white table.
 The image captures a cozy dining area with a wooden floor, a white table, and two chairs, all set against a beige wall.
 The image shows a room with a wooden floor, a white table, two chairs, and a doorway leading to another room.
 The image shows a room with a wooden floor, a white table, two chairs, and a doorway leading to another room.
+An image with a wall, three chairs, a cabinet, a door, a floor, and a dining.
+An image with a floor, a wall, a door, a cabinet, three chairs, and a dining.
+An image with a floor, a dining, a wall, a cabinet, a door, and three chairs.
+An image with three chairs, a door, a wall, a cabinet, a floor, and a dining.
+An image with a dining, three chairs, a floor, a cabinet, a door, and a wall.

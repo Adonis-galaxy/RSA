@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 A row of parked cars on a tree-lined street, with a building in the background.
 A row of parked cars on a tree-lined street.
 A row of parked cars on a tree-lined street, with a building in the background.
+An image with six cars, a wall, a grass, a pavement, a road, a tree, and a building.
+An image with a wall, a tree, a pavement, six cars, a grass, a building, and a road.
+An image with a road, six cars, a wall, a tree, a grass, a pavement, and a building.
+An image with a building, six cars, a pavement, a road, a tree, a grass, and a wall.
+An image with six cars, a pavement, a building, a tree, a wall, a road, and a grass.

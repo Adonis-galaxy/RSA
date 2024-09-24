@@ -8,3 +8,8 @@ The image shows a street scene with a sign, a tree, a building, and a sidewalk.
 The image captures a quiet residential street, with a clear view of a sign indicating a one-way street, a tree-lined sidewalk, and a building in the background.
 The image shows a street scene with a large building on the right, a tree on the left, a sign on a pole, and a sidewalk.
 The image depicts a residential street scene with apartment buildings, a tree-lined sidewalk, a roundabout, and a sign indicating a one-way street.
+An image with a stop, a tree, a pavement, a road, a sky, and a building.
+An image with a sky, a stop, a tree, a pavement, a building, and a road.
+An image with a road, a building, a tree, a stop, a pavement, and a sky.
+An image with a stop, a sky, a pavement, a tree, a road, and a building.
+An image with a pavement, a sky, a building, a stop, a road, and a tree.

@@ -8,3 +8,8 @@ A room with a table and chairs.
 The image captures a cozy, lived-in space with a focus on the relationship between the dining table and the hanging picture.
 The image shows a dimly lit room with a table, chairs, a lamp, a framed picture, a potted plant, and clothes hanging on the back of a chair.
 The image shows a dimly lit room with a dining table, chairs, a lamp, a picture on the wall, and a potted plant.
+An image with a floor, a person, a wall, three chairs, a potted, a vase, and a dining.
+An image with a floor, a dining, three chairs, a potted, a person, a vase, and a wall.
+An image with a dining, a potted, a wall, three chairs, a vase, a person, and a floor.
+An image with three chairs, a dining, a vase, a potted, a wall, a floor, and a person.
+An image with three chairs, a potted, a vase, a wall, a person, a floor, and a dining.

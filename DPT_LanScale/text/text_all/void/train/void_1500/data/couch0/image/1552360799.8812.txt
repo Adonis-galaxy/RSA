@@ -8,3 +8,8 @@ A backpack is sitting on a bench.
 A backpack, newspaper, and sombrero are placed on a bench.
 A black backpack is sitting on a gray bench next to a newspaper and a sombrero.
 A backpack, a newspaper, and a sombrero are placed on a gray bench.
+An image with a chair, a couch, a person, two walls, and a backpack.
+An image with a backpack, a couch, two walls, a chair, and a person.
+An image with a chair, two walls, a person, a couch, and a backpack.
+An image with a couch, a person, a chair, two walls, and a backpack.
+An image with a couch, a backpack, a person, two walls, and a chair.

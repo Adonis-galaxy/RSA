@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and mouse.
 A computer desk with a computer, keyboard, and mouse.
 A small desk with a computer, keyboard, and mouse, and a blue chair.
 A computer desk with a monitor, keyboard, and mouse, along with a blue chair, in a room with a blue door.
+An image with a keyboard, a tv, a table, a window, a wall, a chair, a mouse, and a floor.
+An image with a mouse, a chair, a keyboard, a floor, a tv, a window, a wall, and a table.
+An image with a keyboard, a tv, a chair, a table, a floor, a window, a mouse, and a wall.
+An image with a tv, a table, a window, a mouse, a wall, a chair, a keyboard, and a floor.
+An image with a chair, a window, a mouse, a table, a keyboard, a wall, a floor, and a tv.

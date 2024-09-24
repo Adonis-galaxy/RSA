@@ -8,3 +8,8 @@ A black bag with orange trim is sitting next to a white cylinder.
 A black bag with orange trim is placed next to a blue bucket and a white cylinder.
 A blue bucket is next to a black bag and a white cylinder.
 A black duffel bag with orange trim is placed next to a white cylindrical object, and a blue bucket is also present in the scene.
+An image with a suitcase, a wall, a floor, a refrigerator, a cardboard, and a cabinet.
+An image with a refrigerator, a cardboard, a floor, a cabinet, a wall, and a suitcase.
+An image with a refrigerator, a cabinet, a cardboard, a wall, a suitcase, and a floor.
+An image with a wall, a floor, a cardboard, a refrigerator, a suitcase, and a cabinet.
+An image with a floor, a cardboard, a cabinet, a suitcase, a wall, and a refrigerator.

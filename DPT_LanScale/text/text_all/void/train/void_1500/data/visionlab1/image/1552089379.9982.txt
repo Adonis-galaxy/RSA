@@ -8,3 +8,8 @@ A blurry office cubicle with a blue wall and a trash can.
 The image shows a blurry office environment with a trash can, chairs, and desks.
 The image shows a blurry office environment with a blue wall, a desk with a laptop, a trash can, and a chair.
 The image shows a blurry office environment with desks, chairs, and a trash can, suggesting a busy workspace.
+An image with a floor, two chairs, a laptop, a tv, a table, and a window.
+An image with two chairs, a floor, a window, a table, a tv, and a laptop.
+An image with two chairs, a tv, a table, a laptop, a window, and a floor.
+An image with a floor, a table, a laptop, a window, two chairs, and a tv.
+An image with a tv, a table, a floor, a window, a laptop, and two chairs.

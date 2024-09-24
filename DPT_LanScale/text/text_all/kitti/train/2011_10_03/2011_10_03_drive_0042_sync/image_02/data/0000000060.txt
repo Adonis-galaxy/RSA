@@ -8,3 +8,8 @@ The image shows a highway with a bridge in the background.
 The image captures a serene, tree-lined highway with a bridge in the distance, under a clear blue sky.
 The image shows a wide, empty highway with a bridge in the distance, surrounded by trees and a few cars on the side.
 The image shows a two-lane highway with a bridge in the background, surrounded by trees and a grassy median.
+An image with seven cars, a bridge, a tree, a road, a sky, and a grass.
+An image with a road, seven cars, a sky, a grass, a bridge, and a tree.
+An image with a grass, seven cars, a sky, a bridge, a tree, and a road.
+An image with a tree, a road, a grass, seven cars, a bridge, and a sky.
+An image with a road, a sky, seven cars, a tree, a grass, and a bridge.

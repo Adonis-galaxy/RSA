@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a brick wall.
 A quiet residential street with parked cars and a brick wall.
 The image shows a narrow street with parked cars, a brick wall, and a utility box.
 A quiet residential street with parked cars, a brick wall, and a narrow road leading to a cul-de-sac.
+An image with a wall, a tree, a truck, a road, a car, a grass, a pavement, and a sky.
+An image with a road, a wall, a grass, a sky, a truck, a pavement, a tree, and a car.
+An image with a tree, a pavement, a grass, a road, a wall, a sky, a truck, and a car.
+An image with a wall, a road, a tree, a truck, a pavement, a grass, a car, and a sky.
+An image with a road, a grass, a car, a pavement, a wall, a tree, a sky, and a truck.

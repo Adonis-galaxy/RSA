@@ -8,3 +8,8 @@ The image shows a street scene with a car and a pedestrian.
 The image captures a serene suburban street scene, with a car driving down the road, a sidewalk adjacent to a grassy hill, and a house nestled among trees, all under a clear blue sky.
 The image shows a narrow road with a few cars, a sidewalk, and a house on the right side. The road is lined with trees and signs, and the sky is clear.
 A tree-lined street with a car driving on the right side, a sidewalk on the left, and a house on the right.
+An image with a road, two cars, a roof, a tree, a fence, a sky, a pavement, and a grass.
+An image with a sky, a roof, a tree, a fence, two cars, a grass, a road, and a pavement.
+An image with two cars, a roof, a road, a grass, a tree, a fence, a sky, and a pavement.
+An image with a grass, a road, two cars, a tree, a roof, a sky, a pavement, and a fence.
+An image with a fence, a road, two cars, a roof, a tree, a sky, a pavement, and a grass.

@@ -8,3 +8,8 @@ A gray office chair.
 A gray office chair is positioned in front of a desk with a computer monitor and a large poster board.
 A gray office chair with a black seat and backrest, positioned in front of a large white poster board.
 A modern office chair with a high back and armrests, positioned in front of a desk with a computer monitor and keyboard, and a large poster board with various images and text.
+An image with a cabinet, a floor, two chairs, a book, a table, and a wall.
+An image with a floor, a book, a cabinet, two chairs, a wall, and a table.
+An image with two chairs, a wall, a book, a cabinet, a table, and a floor.
+An image with a cabinet, a wall, two chairs, a floor, a table, and a book.
+An image with two chairs, a wall, a floor, a book, a cabinet, and a table.

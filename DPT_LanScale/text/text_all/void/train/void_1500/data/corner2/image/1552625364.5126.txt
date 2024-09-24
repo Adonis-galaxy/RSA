@@ -8,3 +8,8 @@ A blurry image of an office chair.
 A blurry office chair in front of a desk with a computer monitor.
 The image shows a small office space with a desk, chair, and a large poster on the wall.
 The image shows a blurry office space with a desk, chair, and a large poster on the wall.
+An image with a wall, a paper, a book, a cabinet, a mouse, a keyboard, a table, a chair, and a rug.
+An image with a table, a mouse, a wall, a paper, a chair, a keyboard, a cabinet, a rug, and a book.
+An image with a book, a mouse, a keyboard, a rug, a wall, a cabinet, a chair, a paper, and a table.
+An image with a keyboard, a table, a book, a wall, a chair, a rug, a paper, a cabinet, and a mouse.
+An image with a keyboard, a wall, a mouse, a rug, a book, a paper, a cabinet, a chair, and a table.

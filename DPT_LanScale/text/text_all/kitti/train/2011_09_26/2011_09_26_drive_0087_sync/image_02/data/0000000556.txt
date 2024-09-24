@@ -8,3 +8,8 @@ The image shows a narrow street between two white buildings with black garages.
 The image captures a serene residential street, lined with houses, trees, and a paved path, leading to a white garage with a black door.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 The image shows a narrow street lined with houses and trees, leading to a white building with a black gate.
+An image with a tree, two walls, a fence, a sky, a pavement, a car, and a house.
+An image with a fence, a house, a car, a tree, a sky, a pavement, and two walls.
+An image with two walls, a pavement, a sky, a fence, a house, a car, and a tree.
+An image with a house, two walls, a fence, a sky, a car, a tree, and a pavement.
+An image with two walls, a sky, a car, a house, a fence, a tree, and a pavement.

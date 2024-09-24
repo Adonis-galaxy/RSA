@@ -8,3 +8,8 @@ A red car driving down a narrow road between hedges.
 A red car is driving down a narrow, tree-lined street, with a sidewalk on the left and a stone wall on the right.
 A red car is driving down a narrow, tree-lined street, with a larger vehicle following behind.
 A narrow, tree-lined road with a red car driving down it.
+An image with a pavement, a tree, two cars, a sky, a road, and a wall.
+An image with a wall, two cars, a sky, a pavement, a road, and a tree.
+An image with a pavement, a road, two cars, a tree, a wall, and a sky.
+An image with a wall, two cars, a tree, a pavement, a sky, and a road.
+An image with a tree, two cars, a pavement, a road, a wall, and a sky.

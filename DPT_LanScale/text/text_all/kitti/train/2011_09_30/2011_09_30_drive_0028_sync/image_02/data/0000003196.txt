@@ -8,3 +8,8 @@ A narrow, tree-lined street.
 A narrow, sunlit alleyway between lushly hedged properties, with a parked car and a truck on the right side.
 A narrow, tree-lined street between two hedges, with a parked car and a truck on the right side.
 A narrow, tree-lined street between two parallel walls of hedges, with parked cars and a truck on the right side.
+An image with a house, a truck, a bench, a car, a pavement, a sky, and a tree.
+An image with a tree, a car, a house, a truck, a bench, a pavement, and a sky.
+An image with a sky, a pavement, a car, a house, a truck, a tree, and a bench.
+An image with a sky, a tree, a car, a pavement, a bench, a truck, and a house.
+An image with a truck, a pavement, a bench, a tree, a house, a car, and a sky.

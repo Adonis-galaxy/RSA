@@ -8,3 +8,8 @@ A gray office chair.
 A gray office chair with a straw hat on a desk.
 A gray office chair with a blue hat on a desk.
 A modern office cubicle with a desk, chair, keyboard, mouse, and a straw hat on the desk.
+An image with a mouse, a keyboard, a book, a chair, a rug, a cabinet, a table, a wall, a window, a tv, a floor, and a cardboard.
+An image with a table, a tv, a chair, a rug, a window, a mouse, a cardboard, a cabinet, a keyboard, a floor, a book, and a wall.
+An image with a table, a window, a floor, a chair, a keyboard, a mouse, a book, a tv, a rug, a cabinet, a cardboard, and a wall.
+An image with a cabinet, a wall, a cardboard, a chair, a mouse, a tv, a window, a book, a rug, a floor, a table, and a keyboard.
+An image with a window, a table, a book, a keyboard, a tv, a floor, a chair, a wall, a mouse, a cardboard, a cabinet, and a rug.

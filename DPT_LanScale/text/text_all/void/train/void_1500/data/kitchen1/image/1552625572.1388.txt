@@ -8,3 +8,8 @@ An orange box on a counter.
 An empty orange box on a countertop with two white containers nearby.
 The image shows a small orange box on a counter, with two white containers to the right.
 The image shows a small orange box on a countertop, with two white containers to the right.
+An image with a paper, two bowls, a wall, a table, and a oven.
+An image with a oven, a wall, a paper, a table, and two bowls.
+An image with a table, two bowls, a paper, a wall, and a oven.
+An image with a wall, two bowls, a paper, a table, and a oven.
+An image with a oven, two bowls, a wall, a table, and a paper.

@@ -8,3 +8,8 @@ A classroom with empty seats and a podium.
 A classroom with rows of empty chairs and a black cart in the corner.
 The image shows a classroom with rows of empty chairs and a black cart in the corner.
 The image shows an empty classroom with rows of chairs and a podium at the front.
+An image with a floor, fifteen chairs, a dining, a wall, and a tv.
+An image with fifteen chairs, a wall, a tv, a dining, and a floor.
+An image with fifteen chairs, a wall, a tv, a floor, and a dining.
+An image with a floor, a dining, fifteen chairs, a tv, and a wall.
+An image with fifteen chairs, a tv, a floor, a wall, and a dining.

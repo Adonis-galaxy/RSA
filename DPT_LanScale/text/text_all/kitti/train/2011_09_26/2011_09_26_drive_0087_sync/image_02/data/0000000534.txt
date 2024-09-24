@@ -8,3 +8,8 @@ A black car parked on the side of a road.
 A narrow, tree-lined street in a residential area, with a parked car and a truck on the side, and a building with a white door and a red roof in the background.
 A narrow street between two white buildings, with a parked car on the right side and a truck on the left side.
 A narrow, tree-lined street with a parked car, a white building with a red roof, and a fence on the left side.
+An image with a wall, a fence, a tree, two cars, a road, a sky, a pavement, and a house.
+An image with a road, a wall, a pavement, a sky, a house, a tree, two cars, and a fence.
+An image with a pavement, a sky, two cars, a house, a road, a wall, a tree, and a fence.
+An image with a wall, a road, a fence, a tree, two cars, a sky, a house, and a pavement.
+An image with two cars, a wall, a tree, a pavement, a road, a fence, a sky, and a house.

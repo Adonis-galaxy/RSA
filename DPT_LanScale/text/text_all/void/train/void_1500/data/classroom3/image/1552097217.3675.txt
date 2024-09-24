@@ -8,3 +8,8 @@ A row of computer monitors on a table.
 The image shows a computer setup with three monitors and a keyboard on a desk.
 The image shows a computer desk with four computer monitors, each with a black stand, and two keyboards, one in front of each monitor.
 The image shows a computer lab with four desktop computers arranged in a row on a table, with a keyboard and mouse in front of each computer, and a chair in front of the first computer.
+An image with a mouse, four tvs, two keyboards, two chairs, a rug, a wall, and a table.
+An image with two chairs, four tvs, two keyboards, a rug, a table, a mouse, and a wall.
+An image with a rug, a wall, two chairs, four tvs, two keyboards, a mouse, and a table.
+An image with two keyboards, two chairs, a table, four tvs, a wall, a mouse, and a rug.
+An image with two chairs, a table, four tvs, two keyboards, a wall, a mouse, and a rug.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few pedestrians walking along the sidewalk, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street lined with parked cars, with a few people walking on the sidewalk, and buildings on both sides.
 A narrow street lined with parked cars and buildings, with a few pedestrians and a clear sky overhead.
+An image with two people, eleven cars, a pavement, a tree, a truck, a sky, a fence, a house, and a road.
+An image with eleven cars, two people, a fence, a truck, a road, a pavement, a sky, a house, and a tree.
+An image with eleven cars, a pavement, a fence, a house, a tree, a road, a sky, two people, and a truck.
+An image with eleven cars, a pavement, two people, a truck, a fence, a house, a sky, a tree, and a road.
+An image with a pavement, a tree, eleven cars, a fence, a sky, two people, a road, a house, and a truck.

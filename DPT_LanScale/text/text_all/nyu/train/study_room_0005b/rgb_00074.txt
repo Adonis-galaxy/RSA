@@ -8,3 +8,8 @@ An office with a long row of desks and chairs.
 The image captures an empty office space with rows of desks and chairs, a staircase, and a hallway leading to a door.
 The image shows an empty room with a long row of desks and chairs, a staircase, and a counter with a red light.
 The image shows an empty room with a long counter, several chairs, and a staircase, all under a high ceiling with recessed lighting.
+An image with a door, twelve chairs, a window, a ceiling, a rug, a wall, a stairs, and a dining.
+An image with a rug, a ceiling, twelve chairs, a wall, a window, a stairs, a door, and a dining.
+An image with twelve chairs, a ceiling, a dining, a window, a wall, a stairs, a door, and a rug.
+An image with a rug, a window, a door, a dining, twelve chairs, a stairs, a ceiling, and a wall.
+An image with a dining, twelve chairs, a rug, a ceiling, a window, a stairs, a door, and a wall.

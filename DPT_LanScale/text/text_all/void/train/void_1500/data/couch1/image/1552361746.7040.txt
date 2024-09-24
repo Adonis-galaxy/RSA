@@ -8,3 +8,8 @@ A black couch with a white ball and papers on it.
 A black couch with a white volleyball and a pile of papers on it.
 A black couch with a white volleyball and a pile of papers on it.
 A black couch with a white ball and papers on it, positioned in front of a television.
+An image with a tv, four books, a wall, a couch, and a sports.
+An image with four books, a sports, a tv, a couch, and a wall.
+An image with four books, a couch, a tv, a wall, and a sports.
+An image with four books, a sports, a wall, a tv, and a couch.
+An image with four books, a sports, a couch, a wall, and a tv.

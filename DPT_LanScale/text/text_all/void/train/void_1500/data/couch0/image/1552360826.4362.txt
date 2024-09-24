@@ -8,3 +8,8 @@ A black backpack on a gray couch.
 A backpack, a hat, and a newspaper on a couch.
 A black backpack is sitting on a gray couch, next to a sombrero and a newspaper.
 A black backpack with a green logo is placed on a gray couch, next to a sombrero and a newspaper.
+An image with a rug, a suitcase, two walls, a book, two backpacks, a couch, and a cabinet.
+An image with a suitcase, two walls, a couch, two backpacks, a book, a rug, and a cabinet.
+An image with two walls, two backpacks, a cabinet, a book, a suitcase, a rug, and a couch.
+An image with two walls, a book, a suitcase, a rug, a cabinet, a couch, and two backpacks.
+An image with two walls, a rug, a couch, a suitcase, a cabinet, two backpacks, and a book.

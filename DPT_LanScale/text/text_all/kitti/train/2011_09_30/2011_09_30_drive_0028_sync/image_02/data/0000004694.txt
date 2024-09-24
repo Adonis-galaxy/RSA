@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a residential street scene with parked cars, a sidewalk, and a building, showcasing a typical urban setting.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building on the left side. The street is shaded by trees and has a brick pathway.
 A narrow street lined with parked cars and buildings, with a satellite dish visible on the left side.
+An image with six cars, a building, a truck, a fence, a wall, a tree, a road, and a pavement.
+An image with a road, a building, a pavement, a fence, six cars, a wall, a truck, and a tree.
+An image with a fence, a pavement, six cars, a building, a truck, a wall, a road, and a tree.
+An image with a truck, six cars, a fence, a building, a tree, a pavement, a road, and a wall.
+An image with a road, a pavement, six cars, a tree, a fence, a truck, a wall, and a building.

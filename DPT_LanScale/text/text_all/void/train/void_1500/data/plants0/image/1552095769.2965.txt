@@ -8,3 +8,8 @@ The image shows a concrete curb with a sandy area behind it, featuring small pla
 The image shows a concrete curb with a sandy area behind it, featuring a few plants and a piece of wood.
 The image shows a small concrete curb with a few plants growing in the sandy area behind it.
 The image shows a concrete curb with a sandy area behind it, featuring a few plants and a piece of wood.
+An image with a sand, a wall, a pavement, and a tree.
+An image with a sand, a tree, a pavement, and a wall.
+An image with a sand, a wall, a tree, and a pavement.
+An image with a pavement, a tree, a sand, and a wall.
+An image with a pavement, a wall, a sand, and a tree.

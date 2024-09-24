@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A narrow, tree-lined street in a residential area, with a parked car and a person walking on the sidewalk.
 The image shows a narrow, tree-lined street with a few parked cars, a person walking, and a bench on the sidewalk.
 A narrow, tree-lined street in a residential area, with parked cars and a pedestrian path.
+An image with four cars, a road, a tree, two walls, a sky, and a fence.
+An image with four cars, two walls, a fence, a road, a sky, and a tree.
+An image with a road, a tree, two walls, four cars, a sky, and a fence.
+An image with a sky, two walls, a tree, a fence, a road, and four cars.
+An image with a sky, a road, four cars, a fence, a tree, and two walls.

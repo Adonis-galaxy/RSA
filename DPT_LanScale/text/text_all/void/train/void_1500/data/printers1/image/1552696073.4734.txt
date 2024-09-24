@@ -8,3 +8,8 @@ A blue trash can is next to a desk.
 A blue trash can is next to a desk with a black computer monitor.
 A blue trash can is next to a black desk with a computer monitor on it.
 The image shows a computer desk with a monitor, keyboard, and mouse on it, positioned next to a blue trash can and a white wall with a light switch.
+An image with a rug, a door, a table, a keyboard, a tv, and a wall.
+An image with a table, a rug, a door, a tv, a wall, and a keyboard.
+An image with a table, a rug, a wall, a keyboard, a door, and a tv.
+An image with a rug, a wall, a keyboard, a table, a door, and a tv.
+An image with a door, a rug, a keyboard, a wall, a tv, and a table.

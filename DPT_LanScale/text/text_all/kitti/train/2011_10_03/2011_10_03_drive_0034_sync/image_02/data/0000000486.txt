@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street on a sunny day, with parked cars lining the side of the road and a clear view of the houses and trees in the background.
 The image shows a street scene with a mix of parked and moving vehicles, including cars and a truck, under a bright sunny sky.
 A tree-lined street with parked cars and a clear sky.
+An image with a sky, a stop, eight cars, a pavement, a truck, a road, a house, a tree, and a dirt.
+An image with eight cars, a pavement, a sky, a stop, a house, a truck, a tree, a road, and a dirt.
+An image with eight cars, a stop, a tree, a sky, a road, a truck, a dirt, a house, and a pavement.
+An image with eight cars, a sky, a house, a road, a dirt, a stop, a pavement, a tree, and a truck.
+An image with eight cars, a stop, a sky, a road, a house, a pavement, a truck, a dirt, and a tree.

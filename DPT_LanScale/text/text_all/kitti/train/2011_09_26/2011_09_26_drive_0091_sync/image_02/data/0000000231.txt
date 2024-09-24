@@ -8,3 +8,8 @@ The image shows a street scene with a group of people walking and riding bicycle
 The image captures a bustling city street scene, with a focus on the interaction between pedestrians, cyclists, and the urban environment.
 A narrow street with a sidewalk, a building under construction, a bike lane, and people walking and riding bikes.
 A narrow street with a curved path, lined with buildings, shops, and people walking or riding bicycles.
+An image with thirteen people, three bicycles, a pavement, a sky, a building, a tree, and a railroad.
+An image with thirteen people, a tree, three bicycles, a pavement, a railroad, a sky, and a building.
+An image with thirteen people, a building, a pavement, a tree, a railroad, three bicycles, and a sky.
+An image with a tree, thirteen people, three bicycles, a railroad, a sky, a pavement, and a building.
+An image with thirteen people, a tree, a railroad, a sky, three bicycles, a pavement, and a building.

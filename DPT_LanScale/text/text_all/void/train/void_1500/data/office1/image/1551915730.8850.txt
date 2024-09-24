@@ -8,3 +8,8 @@ A chair is next to a table.
 A black chair is positioned next to a table with a marble top, and a small gray cabinet is situated in the corner of the room.
 The image shows a small, dark-colored ottoman next to a black chair, with a marble table in the foreground.
 The image shows a small room with a table, a chair, and a bench.
+An image with a rug, a wall, a book, a chair, a dining, a window, a cabinet, and a table.
+An image with a table, a window, a rug, a book, a chair, a dining, a cabinet, and a wall.
+An image with a dining, a chair, a book, a wall, a window, a table, a cabinet, and a rug.
+An image with a rug, a book, a table, a window, a cabinet, a dining, a chair, and a wall.
+An image with a chair, a table, a cabinet, a window, a wall, a rug, a dining, and a book.

@@ -8,3 +8,8 @@ The image shows a city street with parked cars and a person riding a bicycle.
 The image captures a bustling city street, with a mix of pedestrians, cyclists, and vehicles, all navigating the narrow road between tall buildings under a bright sun.
 The image depicts a narrow, sunlit street lined with parked cars and buildings, with a person riding a bicycle in the foreground.
 A narrow, sunlit street in a European city, lined with parked cars and pedestrians, with a mix of old and new buildings.
+An image with eleven cars, five people, a pavement, a tree, a parking, a bicycle, a building, and a road.
+An image with eleven cars, a pavement, a bicycle, five people, a road, a parking, a building, and a tree.
+An image with eleven cars, five people, a tree, a parking, a pavement, a building, a bicycle, and a road.
+An image with eleven cars, a road, a bicycle, five people, a pavement, a parking, a tree, and a building.
+An image with eleven cars, five people, a building, a road, a tree, a pavement, a parking, and a bicycle.

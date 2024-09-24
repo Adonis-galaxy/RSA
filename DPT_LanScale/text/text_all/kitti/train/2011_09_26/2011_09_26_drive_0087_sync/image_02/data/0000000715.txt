@@ -8,3 +8,8 @@ A yellow car parked on a street.
 A yellow car parked on a narrow street between buildings, with a brick wall and a white pole in the foreground.
 A yellow car is parked on the side of a narrow street between two buildings, with a brick wall and a white fence in the background.
 A narrow street with a yellow car parked on the side, lined by a white building and trees, leading to a white gate.
+An image with a tree, a sky, a house, two walls, a road, a car, and a pavement.
+An image with a road, a house, a sky, two walls, a pavement, a tree, and a car.
+An image with a road, two walls, a pavement, a car, a sky, a tree, and a house.
+An image with a house, a sky, two walls, a car, a pavement, a tree, and a road.
+An image with a sky, a tree, a road, a car, a house, two walls, and a pavement.

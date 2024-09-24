@@ -8,3 +8,8 @@ A room with four computers on desks.
 The image shows a room with four desks, each equipped with a computer and a chair, arranged in a square pattern, creating a symmetrical workspace.
 The image shows a room with four desktop computers, each on a small table, and two chairs, one red and one black, positioned in front of the computers.
 The image shows a room with four desks, each equipped with a computer and a chair, arranged in a square pattern with a clock on the wall.
+An image with three tvs, a rug, three chairs, a cell, a wall, three keyboards, a table, three mice, and a clock.
+An image with a clock, a cell, three chairs, three mice, three tvs, a rug, three keyboards, a wall, and a table.
+An image with a cell, three keyboards, three tvs, three chairs, three mice, a clock, a rug, a wall, and a table.
+An image with three keyboards, a wall, three mice, three chairs, a table, three tvs, a cell, a rug, and a clock.
+An image with three mice, a wall, three chairs, three keyboards, three tvs, a clock, a table, a rug, and a cell.

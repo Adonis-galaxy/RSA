@@ -8,3 +8,8 @@ A white refrigerator in a kitchen.
 A bag sits on a table next to a chair, with a refrigerator in the background.
 A small table with a handbag, a cell phone, and a white paper on it, next to a large white refrigerator.
 A small, simple kitchenette with a white refrigerator, a table with a bag and a phone on it, and a black chair.
+An image with a handbag, a wall, a cell, a chair, a refrigerator, a floor, and a dining.
+An image with a floor, a cell, a wall, a dining, a handbag, a chair, and a refrigerator.
+An image with a wall, a cell, a dining, a refrigerator, a chair, a floor, and a handbag.
+An image with a dining, a cell, a refrigerator, a wall, a floor, a handbag, and a chair.
+An image with a dining, a refrigerator, a handbag, a floor, a wall, a chair, and a cell.

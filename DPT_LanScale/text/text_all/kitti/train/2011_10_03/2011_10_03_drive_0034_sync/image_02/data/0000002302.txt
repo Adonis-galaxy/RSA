@@ -8,3 +8,8 @@ A tree shadows a street.
 A quiet residential street, lined with trees and houses, under a bright sunny sky.
 A tree shadows a narrow street between two rows of houses, with a car parked on the left side.
 A tree-lined street with parked cars, a sidewalk, and a fence, leading to a residential area with houses and a clear sky.
+An image with a sky, a road, a wall, a grass, a pavement, a car, a tree, and a house.
+An image with a road, a sky, a wall, a house, a car, a grass, a tree, and a pavement.
+An image with a house, a wall, a sky, a pavement, a tree, a car, a grass, and a road.
+An image with a wall, a car, a house, a pavement, a grass, a road, a sky, and a tree.
+An image with a pavement, a grass, a wall, a sky, a house, a car, a road, and a tree.

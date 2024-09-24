@@ -8,3 +8,8 @@ The image shows a row of apartment buildings with green hedges in front of them.
 The image captures a residential street scene with a row of apartment buildings, neatly trimmed hedges, and a car parked on the side of the road.
 The image shows a row of apartment buildings with balconies, green bushes in front of them, and a street with a red car parked on the side.
 The image shows a row of apartment buildings with balconies, neatly arranged along a tree-lined street, with a car parked on the side.
+An image with a building, a tree, a car, a pavement, a road, and a fire.
+An image with a fire, a pavement, a road, a car, a tree, and a building.
+An image with a building, a fire, a road, a car, a tree, and a pavement.
+An image with a tree, a car, a pavement, a building, a fire, and a road.
+An image with a pavement, a building, a fire, a car, a road, and a tree.

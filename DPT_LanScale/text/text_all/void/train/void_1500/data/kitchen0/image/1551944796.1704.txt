@@ -8,3 +8,8 @@ The image shows a blurry kitchen counter with a white box on it.
 The image shows a blurry kitchen counter with a white box on it, a sink, and a cabinet.
 The image shows a blurry kitchen counter with a white box on it, a sink, and a cabinet.
 The image shows a blurry view of a kitchen counter with a sink, a white box, and various items on it.
+An image with five cups, a table, a ceiling, a cabinet, a toothbrush, a sink, a wall, and a paper.
+An image with five cups, a wall, a ceiling, a toothbrush, a sink, a table, a paper, and a cabinet.
+An image with a paper, five cups, a toothbrush, a cabinet, a ceiling, a table, a wall, and a sink.
+An image with a cabinet, five cups, a wall, a table, a paper, a sink, a toothbrush, and a ceiling.
+An image with a paper, a cabinet, a ceiling, a table, five cups, a wall, a toothbrush, and a sink.

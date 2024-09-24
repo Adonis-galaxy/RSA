@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, and houses on both sides.
 A quiet residential street, lined with parked cars and a parked truck, under a clear sky.
 The image shows a narrow street lined with parked cars, a truck, and a building with a white facade and a red door. The street is shaded by trees and has a cobblestone sidewalk.
 A quiet residential street with parked cars, a paved path, and a white picket fence.
+An image with seven cars, a fence, a house, a sky, a road, a truck, a pavement, a wall, and a tree.
+An image with a sky, seven cars, a wall, a road, a pavement, a fence, a house, a truck, and a tree.
+An image with a sky, a pavement, a wall, seven cars, a house, a truck, a road, a fence, and a tree.
+An image with a house, a fence, a tree, seven cars, a pavement, a wall, a truck, a road, and a sky.
+An image with a pavement, seven cars, a house, a tree, a road, a wall, a fence, a truck, and a sky.

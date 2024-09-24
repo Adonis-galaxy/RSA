@@ -8,3 +8,8 @@ The image shows a street scene with a row of white buildings, a car parked on th
 The image captures a quiet residential street, with a row of white buildings, each featuring a different color door, and a few parked cars and bicycles, all under a clear blue sky.
 The image shows a residential street with a row of white buildings, a parked blue car, a parked white car, a parked bicycle, a parked tricycle, a sidewalk, a street, a tree, a pole, a sign, a car, a tricycle, a bicycle, a car, a pole, a sign, a tree, a pole, a sign, a tree, a pole, a sign, a tree, a
 The image shows a residential street with a row of white buildings, each with a different number of windows, and a variety of front doors. The street is lined with trees and plants, and there are parked cars and bicycles on the sidewalk.
+An image with three cars, a roof, a house, a road, a tree, four bicycles, a pavement, a flower, and a grass.
+An image with a house, four bicycles, a tree, three cars, a road, a grass, a pavement, a roof, and a flower.
+An image with a house, a pavement, a flower, four bicycles, a road, a roof, three cars, a tree, and a grass.
+An image with four bicycles, a house, three cars, a tree, a road, a pavement, a flower, a grass, and a roof.
+An image with a tree, a house, four bicycles, a grass, a roof, three cars, a road, a pavement, and a flower.

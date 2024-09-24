@@ -8,3 +8,8 @@ The image shows a narrow road with trees on both sides.
 A narrow, tree-lined road with a triangular sign on the right side.
 The image shows a narrow, tree-lined road with a few parked cars, a speed limit sign, and a pedestrian crossing sign.
 A narrow, tree-lined road with a curved bend, leading to a triangular street sign.
+An image with a sky, a tree, a fence, a road, a car, and a grass.
+An image with a tree, a fence, a grass, a car, a sky, and a road.
+An image with a tree, a road, a car, a sky, a fence, and a grass.
+An image with a road, a tree, a sky, a grass, a fence, and a car.
+An image with a car, a sky, a tree, a road, a fence, and a grass.

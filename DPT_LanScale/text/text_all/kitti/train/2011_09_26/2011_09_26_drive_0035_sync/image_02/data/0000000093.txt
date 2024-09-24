@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a typical day in a residential area, with parked cars, a building with a clock tower, and a street corner with a sign.
 The image shows a street scene with a large white house, several parked cars, a truck, a clock tower, and a sign.
 The image shows a street scene with parked cars, a building with a clock tower, and a sign indicating a business.
+An image with a sky, six cars, six trucks, a house, a road, and a tree.
+An image with six cars, a sky, six trucks, a road, a house, and a tree.
+An image with six cars, a sky, six trucks, a tree, a road, and a house.
+An image with a sky, six trucks, a road, six cars, a tree, and a house.
+An image with six trucks, a house, six cars, a sky, a road, and a tree.

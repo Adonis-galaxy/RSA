@@ -8,3 +8,8 @@ A large white mattress leaning against a wall.
 A large, unmade mattress leaning against a doorway in a room.
 A large, white, unmade mattress leaning against a doorway.
 A large, unmade, white mattress is leaning against a white door in a room with a window and a desk.
+An image with a floor, a bed, a table, a wall, a window, and a door.
+An image with a door, a floor, a wall, a window, a table, and a bed.
+An image with a door, a bed, a window, a table, a wall, and a floor.
+An image with a bed, a floor, a window, a door, a table, and a wall.
+An image with a table, a floor, a wall, a window, a bed, and a door.

@@ -8,3 +8,8 @@ A computer desk with a keyboard and monitor.
 A computer desk with a keyboard, mouse, and two chairs.
 A computer desk with a monitor, keyboard, and two chairs.
 The image shows a computer workstation with a monitor, keyboard, and mouse on a white desk, with two black chairs positioned in front of the desk.
+An image with three chairs, four tvs, a rug, a wall, two keyboards, a mouse, and a table.
+An image with two keyboards, a wall, three chairs, a mouse, four tvs, a rug, and a table.
+An image with two keyboards, four tvs, three chairs, a mouse, a rug, a table, and a wall.
+An image with two keyboards, four tvs, a table, a wall, three chairs, a rug, and a mouse.
+An image with two keyboards, a rug, four tvs, a table, a mouse, three chairs, and a wall.

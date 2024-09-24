@@ -8,3 +8,8 @@ A white van driving down a street.
 A white van parked on the side of a tree-lined street, with a clear blue sky overhead.
 A large white van is driving down a narrow street lined with trees and buildings.
 A white van is parked on the side of a tree-lined street, with a building and a clear blue sky in the background.
+An image with a pavement, a house, a truck, a car, a grass, a road, a sky, a wall, and a tree.
+An image with a house, a wall, a tree, a truck, a car, a sky, a pavement, a grass, and a road.
+An image with a car, a truck, a grass, a wall, a pavement, a sky, a house, a road, and a tree.
+An image with a house, a tree, a sky, a pavement, a wall, a road, a grass, a car, and a truck.
+An image with a pavement, a wall, a house, a truck, a car, a road, a tree, a sky, and a grass.

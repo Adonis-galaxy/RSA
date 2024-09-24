@@ -8,3 +8,8 @@ The image shows a door with a glass window, through which a red object is visibl
 The image shows a doorway with a glass panel, leading to a room with a red object, and the room is adjacent to a blue trash can.
 The image shows a narrow hallway with a glass door, a blue trash can, and a yellow cabinet.
 The image shows a narrow hallway with a door on the right, a trash can on the left, and a cabinet on the right.
+An image with a cabinet, a door, a shelf, a floor, and a wall.
+An image with a door, a cabinet, a shelf, a floor, and a wall.
+An image with a floor, a cabinet, a door, a shelf, and a wall.
+An image with a shelf, a wall, a cabinet, a floor, and a door.
+An image with a wall, a cabinet, a door, a floor, and a shelf.

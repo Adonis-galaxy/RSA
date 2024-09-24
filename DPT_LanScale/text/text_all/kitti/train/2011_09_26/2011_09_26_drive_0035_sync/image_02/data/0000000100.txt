@@ -8,3 +8,8 @@ The image shows a parking lot with several cars and a truck parked in front of a
 The image captures a typical day in a residential area, with parked cars lining the street in front of a row of houses, and a clock tower standing as a central landmark.
 The image shows a street scene with a large white house, several parked cars, a truck, and a clock tower.
 The image shows a street scene with parked cars in front of a row of buildings, including a white house with a brown roof and a yellow building with a white roof.
+An image with eight cars, four trucks, a tree, a sky, a road, and a building.
+An image with eight cars, a sky, four trucks, a tree, a building, and a road.
+An image with four trucks, eight cars, a building, a tree, a road, and a sky.
+An image with a sky, eight cars, a building, four trucks, a road, and a tree.
+An image with a tree, eight cars, four trucks, a building, a road, and a sky.

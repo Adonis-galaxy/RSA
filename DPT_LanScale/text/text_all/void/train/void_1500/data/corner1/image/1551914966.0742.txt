@@ -8,3 +8,8 @@ A person is walking through a room with a desk and a computer.
 A person is walking past a table with a sign that says "RESERVED" and a blue box of tissues.
 The image shows a person walking past a table with a computer monitor, a printer, and a sign that says "RESERVED" in a room with a large window.
 The image shows a person walking past a desk with a computer monitor, a printer, and a sign that says "RESERVED" with a date and time.
+An image with a person, a table, a wall, a cardboard, a paper, and a chair.
+An image with a wall, a table, a cardboard, a person, a chair, and a paper.
+An image with a cardboard, a table, a person, a wall, a chair, and a paper.
+An image with a paper, a cardboard, a person, a wall, a chair, and a table.
+An image with a chair, a cardboard, a wall, a person, a paper, and a table.

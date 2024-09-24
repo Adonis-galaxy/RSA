@@ -8,3 +8,8 @@ A black and gray printer on a table.
 The image shows a small, black, metal table with a printer on top of it, placed in a corner of a room with a white wall and a step ladder.
 The image shows a small, black, metal cart with a printer on top of it, placed in a corner of a room with a white wall and a gray floor.
 The image shows a small room with a metal table and a printer on top of it, with a step ladder to the left and a chair to the right.
+An image with a wall, a chair, a floor, a counter, a table, and a tv.
+An image with a floor, a chair, a table, a wall, a tv, and a counter.
+An image with a counter, a table, a wall, a chair, a tv, and a floor.
+An image with a counter, a table, a tv, a chair, a floor, and a wall.
+An image with a table, a chair, a floor, a wall, a counter, and a tv.

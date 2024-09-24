@@ -8,3 +8,8 @@ A white truck parked on a street.
 A white van parked on a quiet residential street, with a clear view of a house and a tree.
 A white truck is parked on a narrow street between two-story houses, with a side view of the truck showing its cargo area.
 A white truck is parked on a narrow street between two-story houses, with a clear sky overhead.
+An image with a house, a car, a truck, a sky, a road, a wall, a pavement, a tree, and a potted.
+An image with a truck, a tree, a wall, a car, a pavement, a road, a potted, a sky, and a house.
+An image with a potted, a pavement, a wall, a road, a tree, a sky, a truck, a car, and a house.
+An image with a sky, a car, a potted, a tree, a house, a wall, a truck, a road, and a pavement.
+An image with a house, a truck, a road, a car, a tree, a wall, a sky, a pavement, and a potted.

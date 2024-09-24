@@ -8,3 +8,8 @@ A black keyboard on a desk.
 A black keyboard on a desk with a pair of scissors and a yellow paper.
 A black keyboard is on a wooden desk, next to a pair of scissors and a yellow piece of paper.
 A black keyboard is placed on a wooden desk, with a pair of scissors and a yellow piece of paper nearby.
+An image with a cardboard, a chair, a tv, a floor, a keyboard, a paper, a table, a wall, and a scissors.
+An image with a cardboard, a chair, a scissors, a keyboard, a table, a wall, a paper, a tv, and a floor.
+An image with a table, a cardboard, a floor, a paper, a chair, a keyboard, a wall, a tv, and a scissors.
+An image with a table, a keyboard, a floor, a cardboard, a tv, a chair, a paper, a wall, and a scissors.
+An image with a wall, a keyboard, a floor, a scissors, a paper, a cardboard, a table, a chair, and a tv.

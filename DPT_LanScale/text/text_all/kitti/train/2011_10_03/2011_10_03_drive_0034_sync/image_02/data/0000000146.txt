@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 A quiet, tree-lined street with parked cars, suggesting a peaceful residential area.
 The image shows a narrow road lined with trees, with several cars parked on the side and a few more parked further down the road.
 A tree-lined street with parked cars and a curved road.
+An image with four cars, a road, a grass, a pavement, a dirt, and a tree.
+An image with a road, a grass, a pavement, four cars, a dirt, and a tree.
+An image with four cars, a grass, a road, a tree, a dirt, and a pavement.
+An image with a tree, four cars, a dirt, a pavement, a road, and a grass.
+An image with a dirt, a tree, four cars, a pavement, a grass, and a road.

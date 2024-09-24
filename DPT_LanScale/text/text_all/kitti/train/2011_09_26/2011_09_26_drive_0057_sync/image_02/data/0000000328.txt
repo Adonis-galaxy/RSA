@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street with a mix of vehicles, traffic lights, and pedestrian crossings, all under a clear blue sky.
 The image shows a busy street with multiple lanes of traffic, a red car in the foreground, and various traffic lights and signs. The street is lined with trees and buildings, and there is a clear sky above.
 The image depicts a busy street intersection with multiple lanes, traffic lights, and a mix of vehicles and pedestrians, all under a clear blue sky.
+An image with eight traffics, a mountain, a building, a fence, eleven cars, a road, a grass, and a tree.
+An image with a tree, a road, eleven cars, a mountain, eight traffics, a fence, a building, and a grass.
+An image with eleven cars, a road, eight traffics, a grass, a building, a mountain, a fence, and a tree.
+An image with a fence, eleven cars, eight traffics, a grass, a mountain, a road, a building, and a tree.
+An image with eleven cars, a road, eight traffics, a tree, a grass, a building, a mountain, and a fence.

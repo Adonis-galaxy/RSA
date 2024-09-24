@@ -8,3 +8,8 @@ A room with a bookshelf and a large white machine.
 The image shows a room with a bookshelf, a desk, and a large whiteboard.
 The image shows a room with a large bookshelf, a small table with papers, a large gray machine, and a green wall with posters.
 The image shows a room with a bookshelf, a desk, and a large whiteboard on the wall.
+An image with eighteen books, a ceiling, a shelf, a table, a wall, a light, a chair, a paper, a refrigerator, and a floor.
+An image with a light, a shelf, eighteen books, a wall, a ceiling, a chair, a paper, a table, a refrigerator, and a floor.
+An image with a refrigerator, eighteen books, a ceiling, a light, a table, a wall, a paper, a floor, a chair, and a shelf.
+An image with eighteen books, a chair, a refrigerator, a ceiling, a floor, a wall, a light, a shelf, a table, and a paper.
+An image with eighteen books, a chair, a table, a paper, a floor, a ceiling, a wall, a light, a refrigerator, and a shelf.

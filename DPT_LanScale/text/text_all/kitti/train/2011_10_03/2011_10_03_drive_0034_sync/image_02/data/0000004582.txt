@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a red and blue sign.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street with parked cars, a yellow car, a white van, a blue sign, and a brick wall.
 A narrow, tree-lined street with parked cars, a yellow car, and a blue sign.
+An image with a wall, two cars, a road, a sky, a pavement, a tree, a stop, and a grass.
+An image with two cars, a tree, a pavement, a sky, a wall, a grass, a stop, and a road.
+An image with a pavement, a wall, a stop, two cars, a road, a grass, a tree, and a sky.
+An image with a tree, a road, two cars, a wall, a grass, a sky, a stop, and a pavement.
+An image with a grass, a tree, a road, a stop, two cars, a pavement, a wall, and a sky.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a typical day in a narrow European city street, with parked cars lining the sides and pedestrians walking along the sidewalk.
 The image shows a narrow street lined with parked cars and buildings, with a few people visible at the entrance of a building.
 A narrow street in a residential area with parked cars and buildings on both sides.
+An image with eleven cars, a sky, two people, a fence, a road, a house, a tree, a pavement, and a truck.
+An image with a fence, eleven cars, a tree, a pavement, two people, a sky, a truck, a road, and a house.
+An image with a road, eleven cars, a pavement, a house, a sky, a fence, a truck, two people, and a tree.
+An image with eleven cars, two people, a road, a pavement, a sky, a house, a truck, a tree, and a fence.
+An image with eleven cars, a road, a sky, two people, a tree, a fence, a truck, a house, and a pavement.

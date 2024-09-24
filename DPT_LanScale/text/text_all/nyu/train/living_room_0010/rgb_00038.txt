@@ -8,3 +8,8 @@ A television is turned on in a living room.
 The image captures a cozy living room scene with a television set, a couch, a chair, a lamp, and a window, all arranged in a comfortable and inviting layout.
 The image shows a small living room with a television, a couch, a lamp, and a window with closed blinds.
 The image shows a small, cluttered living room with a television, a couch, a chair, a lamp, and a window with blinds.
+An image with nine books, a remote, a window, a couch, a wall, a light, a paper, a tv, and a ceiling.
+An image with nine books, a couch, a wall, a light, a ceiling, a tv, a window, a paper, and a remote.
+An image with nine books, a paper, a light, a tv, a remote, a wall, a couch, a window, and a ceiling.
+An image with a paper, a window, nine books, a ceiling, a wall, a remote, a light, a tv, and a couch.
+An image with a paper, nine books, a tv, a couch, a remote, a light, a window, a wall, and a ceiling.

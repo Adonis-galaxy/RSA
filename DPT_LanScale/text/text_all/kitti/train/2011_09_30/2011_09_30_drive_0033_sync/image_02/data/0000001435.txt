@@ -8,3 +8,8 @@ The image shows a street with cars driving on it.
 A quiet suburban street, lined with trees and parked cars, under a clear sky.
 The image shows a narrow road lined with trees and a fence, with several cars driving down it.
 A narrow, tree-lined road with parked cars and a fence on the right side.
+An image with a road, a pavement, a tree, a stop, three cars, a sky, a grass, and a fence.
+An image with a pavement, a fence, three cars, a grass, a road, a stop, a sky, and a tree.
+An image with a road, a fence, a pavement, a tree, three cars, a grass, a sky, and a stop.
+An image with three cars, a grass, a stop, a road, a fence, a sky, a pavement, and a tree.
+An image with a pavement, three cars, a grass, a stop, a fence, a sky, a tree, and a road.

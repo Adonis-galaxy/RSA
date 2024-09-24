@@ -8,3 +8,8 @@ A red car on a street.
 A red SUV is parked on the side of a road, with a clear view of the surrounding greenery and a street sign in the background.
 A red car is parked on the side of a road, with a green field and trees in the background.
 A red SUV is parked on the side of a road, with a green field and trees in the background.
+An image with a road, a sky, a tree, a grass, two cars, and a pavement.
+An image with two cars, a road, a tree, a grass, a sky, and a pavement.
+An image with two cars, a pavement, a sky, a tree, a road, and a grass.
+An image with two cars, a road, a pavement, a sky, a grass, and a tree.
+An image with two cars, a grass, a pavement, a tree, a road, and a sky.

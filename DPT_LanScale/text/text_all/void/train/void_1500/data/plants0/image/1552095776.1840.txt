@@ -8,3 +8,8 @@ A wooden bench on a deck.
 A wooden bench on a wooden deck.
 A long wooden bench on a wooden deck.
 A wooden bench on a wooden deck.
+An image with two floors, a tree, a fence, a dirt, a wall, and a bench.
+An image with a tree, a dirt, a bench, a wall, two floors, and a fence.
+An image with a bench, a wall, a dirt, a tree, two floors, and a fence.
+An image with a wall, two floors, a bench, a fence, a dirt, and a tree.
+An image with a bench, a dirt, two floors, a tree, a wall, and a fence.

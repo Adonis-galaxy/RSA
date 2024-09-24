@@ -8,3 +8,8 @@ The image shows a street with cars and a fence.
 The image captures a serene suburban street scene, with a white car driving away from a line of parked cars, under a clear blue sky.
 The image shows a tree-lined road with several cars driving down it, with the largest car being the first one and the smallest car being the last one.
 A tree-lined road with a few cars driving down it.
+An image with four cars, a sky, a road, a tree, a grass, and a wall.
+An image with four cars, a sky, a wall, a road, a tree, and a grass.
+An image with four cars, a wall, a road, a sky, a tree, and a grass.
+An image with a tree, a grass, four cars, a road, a sky, and a wall.
+An image with four cars, a tree, a road, a grass, a wall, and a sky.

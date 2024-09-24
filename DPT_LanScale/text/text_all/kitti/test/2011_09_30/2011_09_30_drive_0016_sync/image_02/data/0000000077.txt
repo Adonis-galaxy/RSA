@@ -8,3 +8,8 @@ A white van driving down a street.
 A white van is driving down a tree-lined street, passing a red brick wall and a white building with a blue sign.
 A white van is driving down a tree-lined street, passing a red brick wall and a white house with a red roof.
 A white van is driving down a tree-lined street with a crosswalk, passing a red brick wall and a white house with a red roof.
+An image with a sky, a tree, a wall, two cars, a house, a fire, a grass, a road, and a pavement.
+An image with a tree, a grass, a pavement, a wall, two cars, a sky, a road, a fire, and a house.
+An image with a wall, a grass, a sky, two cars, a tree, a road, a pavement, a fire, and a house.
+An image with a road, a grass, a house, two cars, a pavement, a fire, a sky, a wall, and a tree.
+An image with a house, a sky, two cars, a grass, a fire, a wall, a pavement, a road, and a tree.

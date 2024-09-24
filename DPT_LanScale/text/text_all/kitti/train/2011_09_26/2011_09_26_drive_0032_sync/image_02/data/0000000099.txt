@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes and a median strip.
 The image captures a scene of a busy highway with multiple lanes of traffic, a clear sky, and a sign indicating the direction of a nearby town.
 The image shows a wide, multi-lane highway with a yellow sign on the right side, a few cars driving on the road, and a green field on the left side.
 The image shows a highway with multiple lanes, a median strip, and a sign indicating a toll booth ahead.
+An image with a grass, a pavement, seven cars, two people, a sky, a tree, and a road.
+An image with two people, seven cars, a road, a tree, a sky, a pavement, and a grass.
+An image with a tree, a grass, a road, two people, seven cars, a sky, and a pavement.
+An image with seven cars, a grass, two people, a pavement, a sky, a tree, and a road.
+An image with seven cars, a sky, a tree, two people, a pavement, a road, and a grass.

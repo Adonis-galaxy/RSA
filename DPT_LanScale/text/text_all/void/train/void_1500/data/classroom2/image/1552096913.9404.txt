@@ -8,3 +8,8 @@ The image shows a row of black chairs with wooden tops.
 The image shows a row of black chairs with wooden desks, all facing the same direction.
 The image shows a row of black chairs with wooden tops, arranged in a classroom setting on a tiled floor.
 The image shows a row of black chairs with wooden desks, arranged in a classroom setting.
+An image with a floor, four chairs, a wall, and a dining.
+An image with a dining, four chairs, a floor, and a wall.
+An image with four chairs, a wall, a floor, and a dining.
+An image with a wall, four chairs, a floor, and a dining.
+An image with four chairs, a dining, a floor, and a wall.

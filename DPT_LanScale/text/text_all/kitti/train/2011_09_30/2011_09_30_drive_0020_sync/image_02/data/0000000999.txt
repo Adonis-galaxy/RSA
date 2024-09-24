@@ -8,3 +8,8 @@ The image shows a street with parked cars and a row of trees.
 The image captures a quiet residential street with parked cars, lined by trees and buildings, under a clear blue sky.
 The image shows a street lined with parked cars and trucks, with apartment buildings on either side, and a clear blue sky overhead.
 A quiet residential street with parked cars and a row of trees, leading to apartment buildings.
+An image with three trucks, a person, five cars, a grass, a roof, a tree, a house, a building, a pavement, and a road.
+An image with five cars, three trucks, a person, a roof, a grass, a building, a house, a pavement, a road, and a tree.
+An image with five cars, three trucks, a roof, a pavement, a road, a house, a grass, a person, a tree, and a building.
+An image with three trucks, a grass, a road, a tree, a building, a person, a roof, five cars, a house, and a pavement.
+An image with five cars, a road, a tree, three trucks, a house, a person, a building, a roof, a pavement, and a grass.

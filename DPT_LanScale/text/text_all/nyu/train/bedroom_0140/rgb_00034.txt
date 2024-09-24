@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a bedroom scene with a neatly made bed, a lamp, a nightstand, and a wooden floor.
 The image shows a small, messy bedroom with a large bed, a nightstand, and a lamp.
 The image shows a bedroom with a neatly made bed, a nightstand, a lamp, and a wooden floor.
+An image with a floor, a bottle, a curtain, a wall, a cabinet, and a bed.
+An image with a bottle, a wall, a bed, a floor, a curtain, and a cabinet.
+An image with a cabinet, a floor, a bed, a bottle, a curtain, and a wall.
+An image with a floor, a bed, a cabinet, a bottle, a wall, and a curtain.
+An image with a cabinet, a bottle, a floor, a bed, a curtain, and a wall.

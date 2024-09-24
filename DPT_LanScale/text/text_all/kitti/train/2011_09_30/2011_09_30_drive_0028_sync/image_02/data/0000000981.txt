@@ -8,3 +8,8 @@ A car on a street.
 A car is driving down a tree-lined street, passing a pedestrian crossing and a street sign.
 A car is driving down a tree-lined street, passing a blue sign and a red and white sign.
 A car is driving down a tree-lined street with a sidewalk, a sign, and a traffic sign.
+An image with a wall, a pavement, a car, a grass, a sky, a stop, a tree, and a road.
+An image with a car, a stop, a pavement, a road, a sky, a grass, a tree, and a wall.
+An image with a tree, a pavement, a road, a wall, a grass, a sky, a car, and a stop.
+An image with a grass, a road, a wall, a sky, a tree, a pavement, a car, and a stop.
+An image with a stop, a wall, a tree, a car, a grass, a road, a sky, and a pavement.

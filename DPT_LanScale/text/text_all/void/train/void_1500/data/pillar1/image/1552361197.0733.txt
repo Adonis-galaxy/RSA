@@ -8,3 +8,8 @@ A large roll of paper leaning against a cardboard box.
 A large roll of paper leaning against a cardboard box with a caution sign on it.
 A large roll of paper leaning against a cardboard box with an orange label on it, both sitting on the floor next to a door.
 A large roll of paper leaning against a cardboard box with a caution label on it, both sitting on the floor next to a door.
+An image with a cardboard, a wall, a tv, a door, a paper, and a floor.
+An image with a tv, a door, a paper, a wall, a cardboard, and a floor.
+An image with a tv, a door, a wall, a cardboard, a floor, and a paper.
+An image with a wall, a tv, a paper, a door, a floor, and a cardboard.
+An image with a paper, a wall, a floor, a tv, a door, and a cardboard.

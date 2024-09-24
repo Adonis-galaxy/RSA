@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a serene residential street, lined with parked cars and trees, under a bright sunny day.
 The image shows a tree-lined street with parked cars, a sidewalk, and a fire hydrant.
 A tree-lined street with parked cars, a sidewalk, and a park.
+An image with six cars, a road, a sky, a fire, a house, a fence, a grass, a tree, and a pavement.
+An image with a tree, six cars, a grass, a house, a fire, a pavement, a sky, a fence, and a road.
+An image with six cars, a fence, a grass, a road, a sky, a pavement, a house, a tree, and a fire.
+An image with a sky, six cars, a fence, a fire, a grass, a tree, a pavement, a house, and a road.
+An image with six cars, a fire, a pavement, a house, a grass, a tree, a road, a fence, and a sky.

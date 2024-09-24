@@ -8,3 +8,8 @@ A red truck on a street.
 A red truck is parked on the side of a street, adjacent to a grassy area and a row of houses.
 A large red truck is driving down a residential street, passing by a row of houses and trees.
 A red truck is parked on the side of a street in a residential area, with a clear sky and greenery in the background.
+An image with two trucks, a grass, a fence, a road, a building, a tree, a car, a sky, and a house.
+An image with a grass, a road, a fence, a house, a car, a building, two trucks, a sky, and a tree.
+An image with a road, a building, two trucks, a house, a tree, a grass, a sky, a car, and a fence.
+An image with a road, a building, a house, two trucks, a grass, a tree, a fence, a car, and a sky.
+An image with two trucks, a building, a car, a sky, a grass, a road, a fence, a house, and a tree.

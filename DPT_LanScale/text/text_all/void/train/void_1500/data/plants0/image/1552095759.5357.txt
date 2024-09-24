@@ -8,3 +8,8 @@ The image shows a concrete curb with a brick pattern on the ground next to it.
 The image shows a concrete curb next to a patch of dirt with sparse vegetation, and a brick walkway.
 The image shows a concrete curb with a brick pattern on the ground, a tree trunk, and a small patch of dirt with sparse vegetation.
 The image shows a concrete curb next to a garden area with plants and a brick pathway.
+An image with a pavement, a sand, two walls, and a fence.
+An image with a fence, a sand, two walls, and a pavement.
+An image with a sand, two walls, a fence, and a pavement.
+An image with a pavement, a fence, two walls, and a sand.
+An image with a pavement, two walls, a sand, and a fence.

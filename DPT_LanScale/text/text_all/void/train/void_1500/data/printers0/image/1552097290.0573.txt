@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it.
 The image shows a whiteboard with writing on it, a blue trash can, and two white printers on a wall with posters.
 The image shows a white wall with three posters, two white printers, and a blue trash can.
 The image shows a wall with posters and a whiteboard, with two printers on a table below.
+An image with a paper, a toaster, and a wall.
+An image with a toaster, a paper, and a wall.
+An image with a paper, a wall, and a toaster.
+An image with a wall, a paper, and a toaster.
+An image with a toaster, a wall, and a paper.

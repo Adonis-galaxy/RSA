@@ -8,3 +8,8 @@ The image shows a narrow street with a blue jeep parked on the side.
 A narrow street between two white buildings, with a parked blue SUV and a yellow car on the right side.
 A narrow street between two white buildings, with a blue SUV parked on the right side.
 A narrow street with parked cars and a stone wall on one side, leading to a white house with a red roof.
+An image with a house, a pavement, a road, a tree, a wall, a fence, two cars, a window, and a sky.
+An image with a wall, a pavement, two cars, a house, a sky, a fence, a window, a road, and a tree.
+An image with a wall, two cars, a window, a road, a tree, a sky, a pavement, a fence, and a house.
+An image with two cars, a fence, a window, a pavement, a sky, a wall, a house, a road, and a tree.
+An image with a house, two cars, a wall, a tree, a fence, a pavement, a sky, a window, and a road.

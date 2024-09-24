@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a brick wall and a white door, leading to a park-like area.
 The image shows a narrow, tree-lined street with a brick wall on the left, a white line painted on the road, and a person walking on the right side.
 A narrow, tree-lined street with a brick wall on one side and a white line painted on the road.
+An image with a fire, a road, a door, a tree, a grass, a car, a pavement, and a wall.
+An image with a door, a tree, a pavement, a road, a grass, a wall, a car, and a fire.
+An image with a car, a door, a fire, a grass, a tree, a wall, a road, and a pavement.
+An image with a wall, a road, a grass, a car, a tree, a door, a pavement, and a fire.
+An image with a tree, a grass, a car, a fire, a door, a pavement, a wall, and a road.

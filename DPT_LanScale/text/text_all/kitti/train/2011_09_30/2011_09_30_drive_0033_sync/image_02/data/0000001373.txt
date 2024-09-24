@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A person walking on a sidewalk, passing by a parked red car, with a clear view of the street ahead, where a few cars are parked and a person is walking, all under the shade of trees and a blue sky.
 A man is walking on a sidewalk next to a red car, while a group of people are walking on a sidewalk next to a brick wall.
 A narrow, tree-lined street with parked cars, pedestrians, and a stone wall.
+An image with a road, a tree, a grass, a backpack, a fence, a sky, six cars, a house, a person, a wall, and a pavement.
+An image with a sky, a grass, six cars, a backpack, a tree, a person, a road, a house, a fence, a wall, and a pavement.
+An image with a pavement, six cars, a person, a tree, a fence, a grass, a backpack, a road, a wall, a house, and a sky.
+An image with a wall, a pavement, a house, six cars, a tree, a fence, a person, a sky, a backpack, a road, and a grass.
+An image with six cars, a backpack, a tree, a grass, a pavement, a road, a fence, a person, a wall, a house, and a sky.

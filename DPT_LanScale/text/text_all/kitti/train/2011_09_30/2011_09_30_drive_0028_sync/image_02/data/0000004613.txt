@@ -8,3 +8,8 @@ The image shows a row of parked cars on a narrow street.
 The image captures a narrow street lined with parked cars, flanked by buildings and lush greenery, creating a sense of a quiet, residential area.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear sky overhead.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a sky, eight cars, a house, a wall, a truck, a tree, a road, and a pavement.
+An image with a wall, eight cars, a pavement, a truck, a sky, a house, a tree, and a road.
+An image with a truck, eight cars, a sky, a tree, a pavement, a road, a house, and a wall.
+An image with a truck, a house, eight cars, a pavement, a wall, a sky, a road, and a tree.
+An image with a truck, a tree, eight cars, a wall, a pavement, a road, a house, and a sky.

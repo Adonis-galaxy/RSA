@@ -8,3 +8,8 @@ A white table in a room.
 The image shows a white table with chairs in a room with a yellow wall and a door.
 The image shows a large white table with several chairs around it, placed in a room with a yellow wall and a glass door.
 The image shows a long white table with several white chairs on either side, set up in a room with a yellow wall and a glass door.
+An image with five chairs, a wall, four dinings, a tv, a cabinet, a floor, a door, and a paper.
+An image with a tv, five chairs, a floor, four dinings, a wall, a cabinet, a door, and a paper.
+An image with a floor, four dinings, a paper, five chairs, a door, a cabinet, a wall, and a tv.
+An image with five chairs, a cabinet, a wall, four dinings, a paper, a door, a floor, and a tv.
+An image with five chairs, a floor, a cabinet, a tv, a wall, four dinings, a paper, and a door.

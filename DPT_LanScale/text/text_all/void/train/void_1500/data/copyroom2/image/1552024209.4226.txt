@@ -8,3 +8,8 @@ A white printer on a green wall.
 A white printer is sitting on a green counter.
 A white printer is sitting on a green counter.
 The image shows a white printer on a green wall, next to a green counter with a white top.
+An image with a floor, two walls, a paper, a oven, and a cabinet.
+An image with two walls, a floor, a oven, a cabinet, and a paper.
+An image with a cabinet, a paper, a floor, two walls, and a oven.
+An image with a oven, two walls, a paper, a floor, and a cabinet.
+An image with a cabinet, two walls, a floor, a oven, and a paper.

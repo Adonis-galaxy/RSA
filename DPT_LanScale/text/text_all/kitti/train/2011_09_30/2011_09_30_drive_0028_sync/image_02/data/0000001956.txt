@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a typical urban street scene with parked cars, apartment buildings, and a clear sky.
 The image shows a narrow street lined with parked cars, including a white van, a silver car, and a black SUV, with apartment buildings on either side.
 A narrow street lined with parked cars and buildings, leading to a cul-de-sac.
+An image with a tree, a sky, ten cars, a road, a pavement, and a house.
+An image with ten cars, a road, a tree, a sky, a pavement, and a house.
+An image with a house, ten cars, a pavement, a sky, a tree, and a road.
+An image with a sky, ten cars, a house, a tree, a pavement, and a road.
+An image with a house, ten cars, a road, a sky, a pavement, and a tree.

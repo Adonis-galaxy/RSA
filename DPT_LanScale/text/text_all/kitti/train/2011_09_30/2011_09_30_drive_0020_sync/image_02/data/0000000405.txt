@@ -8,3 +8,8 @@ A white truck driving down a street.
 A white delivery truck on a residential street, with a clear sky and trees in the background.
 A large white truck is driving down a residential street, passing by a row of houses and trees.
 A white truck is driving down a tree-lined street, passing by a row of houses and a commercial building.
+An image with a parking, a tree, three cars, a pavement, a house, a truck, a sky, a building, a grass, and a road.
+An image with a pavement, three cars, a tree, a road, a grass, a building, a house, a sky, a parking, and a truck.
+An image with a parking, three cars, a house, a road, a tree, a sky, a truck, a pavement, a building, and a grass.
+An image with a building, a grass, a tree, a parking, a house, three cars, a sky, a truck, a road, and a pavement.
+An image with a house, a truck, three cars, a building, a pavement, a grass, a sky, a tree, a road, and a parking.

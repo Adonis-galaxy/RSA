@@ -8,3 +8,8 @@ The image shows a silver car parked on the side of a street.
 The image captures a quiet residential street with parked cars, a large building, and a clear sky.
 A silver car is parked on the side of a street next to a large building with many windows.
 A narrow street with parked cars in front of a two-story building with a white facade and blue shutters.
+An image with a house, six cars, a tree, a rock, a road, a sky, a grass, and a pavement.
+An image with six cars, a tree, a rock, a grass, a sky, a pavement, a road, and a house.
+An image with six cars, a sky, a tree, a house, a rock, a grass, a road, and a pavement.
+An image with a grass, six cars, a house, a tree, a road, a rock, a pavement, and a sky.
+An image with a grass, six cars, a road, a sky, a house, a tree, a pavement, and a rock.

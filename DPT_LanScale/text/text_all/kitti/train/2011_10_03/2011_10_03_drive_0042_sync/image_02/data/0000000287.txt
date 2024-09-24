@@ -8,3 +8,8 @@ The image shows a long, straight road with a bridge on the left side.
 The image captures a long, straight road with a clear horizon, flanked by a bridge and a forest, under a blue sky with a few clouds.
 The image shows a long, straight road with a bridge on the left side, a clear blue sky above, and a few trees and buildings in the distance.
 The image shows a long, straight, empty highway with a clear sky, a few trees, and a bridge in the distance.
+An image with a truck, a sky, a wall, a fence, a grass, a road, a tree, and a stop.
+An image with a stop, a sky, a fence, a road, a tree, a grass, a wall, and a truck.
+An image with a grass, a stop, a wall, a sky, a truck, a road, a fence, and a tree.
+An image with a sky, a fence, a stop, a tree, a wall, a road, a truck, and a grass.
+An image with a sky, a grass, a wall, a stop, a tree, a truck, a road, and a fence.

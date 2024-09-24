@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with houses and trees, under a clear sky.
 The image depicts a narrow, tree-lined street lined with white houses and cars, with a large tree in the foreground and a smaller tree in the background.
 A narrow, tree-lined street in a residential area, with houses on both sides, leading to a car parked at the end.
+An image with a potted, two cars, a house, a roof, a pavement, a tree, a road, and a sky.
+An image with a sky, a potted, a tree, two cars, a road, a roof, a house, and a pavement.
+An image with a road, a sky, two cars, a tree, a roof, a potted, a pavement, and a house.
+An image with two cars, a road, a potted, a sky, a roof, a house, a tree, and a pavement.
+An image with a house, a sky, a potted, a tree, a pavement, two cars, a roof, and a road.

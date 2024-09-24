@@ -8,3 +8,8 @@ The image shows a green shelf with various items on it.
 The image shows a green shelf with various items on it, including books, papers, and possibly a cup.
 The image shows a green shelf with various items on it, including books, papers, and a cup.
 The image shows a green shelf with various items on it, including books, papers, and possibly office supplies.
+An image with a paper, a wall, a shelf, and a floor.
+An image with a wall, a floor, a shelf, and a paper.
+An image with a floor, a shelf, a wall, and a paper.
+An image with a wall, a paper, a shelf, and a floor.
+An image with a floor, a wall, a shelf, and a paper.

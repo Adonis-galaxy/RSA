@@ -8,3 +8,8 @@ The image shows a city street intersection with a traffic sign and a stop sign.
 The image captures a quiet, residential street corner with a clear view of a large building in the background, a few parked cars, and a stop sign at the intersection.
 The image shows a wide street with a large building on the left, a smaller building on the right, and a few parked cars in the middle. The street is marked with white lines and has a sign on the left side.
 The image depicts a quiet, residential street with a curved intersection, lined with parked cars and apartment buildings, under a clear blue sky.
+An image with a stop, eight cars, a sky, a pavement, a truck, a building, a grass, a road, and a tree.
+An image with eight cars, a building, a grass, a road, a truck, a tree, a pavement, a stop, and a sky.
+An image with eight cars, a sky, a building, a truck, a road, a grass, a pavement, a tree, and a stop.
+An image with a tree, a sky, eight cars, a grass, a pavement, a stop, a truck, a road, and a building.
+An image with a tree, a pavement, eight cars, a road, a truck, a building, a stop, a grass, and a sky.

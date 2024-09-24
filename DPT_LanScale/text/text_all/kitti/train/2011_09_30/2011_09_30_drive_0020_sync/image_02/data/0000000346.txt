@@ -8,3 +8,8 @@ The image shows a street with parked cars and trucks.
 A quiet residential street with parked cars and a clear sky.
 The image shows a street scene with a large white truck parked on the side of the road, a few cars and trucks in the background, and a clear blue sky overhead.
 A quiet residential street with parked cars, lined by trees and houses, under a clear blue sky.
+An image with a road, seven cars, two trucks, a house, a roof, a tree, a grass, a pavement, and a fence.
+An image with seven cars, a tree, a road, a grass, two trucks, a roof, a house, a fence, and a pavement.
+An image with a grass, a road, seven cars, a pavement, a tree, a roof, a house, a fence, and two trucks.
+An image with a tree, a pavement, seven cars, a fence, a grass, a roof, two trucks, a road, and a house.
+An image with seven cars, two trucks, a roof, a grass, a house, a fence, a pavement, a tree, and a road.

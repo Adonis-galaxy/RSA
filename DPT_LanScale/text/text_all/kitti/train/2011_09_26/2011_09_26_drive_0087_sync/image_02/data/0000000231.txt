@@ -8,3 +8,8 @@ A narrow pathway between two fences.
 A narrow pathway between two fences, leading to a building with a white wall and a red roof, under a clear sky.
 A narrow pathway between two rows of tall, lush green hedges, with a white building on the left and a fence on the right.
 A narrow, sunlit pathway between two parallel fences, leading to a white building with a red roof.
+An image with a pavement, a house, a tree, a fence, and a sky.
+An image with a tree, a sky, a house, a fence, and a pavement.
+An image with a tree, a fence, a house, a pavement, and a sky.
+An image with a pavement, a fence, a house, a sky, and a tree.
+An image with a sky, a tree, a fence, a pavement, and a house.

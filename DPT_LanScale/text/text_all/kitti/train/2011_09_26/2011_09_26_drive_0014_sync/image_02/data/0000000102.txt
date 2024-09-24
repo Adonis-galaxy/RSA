@@ -8,3 +8,8 @@ A train traveling down a street.
 A train travels down a tree-lined street, with a car and a cyclist following behind.
 A train is traveling down a tree-lined street, with a person riding a bicycle in the distance.
 A train travels down a tree-lined street, with a car and a cyclist following behind.
+An image with a fence, four cars, a road, a tree, a bicycle, a person, a grass, a train, and a wall.
+An image with a tree, four cars, a train, a person, a fence, a bicycle, a wall, a grass, and a road.
+An image with a person, a grass, four cars, a train, a road, a bicycle, a fence, a tree, and a wall.
+An image with a person, a bicycle, a grass, a tree, four cars, a road, a train, a wall, and a fence.
+An image with a road, four cars, a grass, a person, a tree, a wall, a bicycle, a train, and a fence.

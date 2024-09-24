@@ -8,3 +8,8 @@ The image shows a highway with a clear view of the road ahead.
 The image captures a long, empty highway with a clear sky, a few cars, and a bridge in the distance, all under the bright sunlight.
 The image shows a wide, empty highway with a few cars, a bridge, and a clear sky.
 The image depicts a long, straight road with multiple lanes, flanked by guardrails and lined with trees, leading to a distant horizon where the sky meets the landscape.
+An image with a road, six cars, a fence, a sky, a tree, a mountain, a grass, and a truck.
+An image with six cars, a truck, a fence, a road, a grass, a tree, a mountain, and a sky.
+An image with a road, a sky, six cars, a tree, a mountain, a fence, a grass, and a truck.
+An image with a grass, six cars, a road, a fence, a sky, a tree, a truck, and a mountain.
+An image with six cars, a mountain, a grass, a fence, a truck, a sky, a tree, and a road.

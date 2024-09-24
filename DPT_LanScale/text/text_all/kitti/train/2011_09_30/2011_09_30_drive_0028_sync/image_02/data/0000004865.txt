@@ -8,3 +8,8 @@ The image shows a street view with a row of houses, green bushes, and parked car
 The image captures a serene residential street, lined with neatly trimmed hedges and trees, leading to a row of apartment buildings, where the sun casts a warm glow on the sidewalk and the street.
 The image shows a residential street with parked cars, apartment buildings, and a sidewalk lined with small bushes and a trash can.
 The image depicts a residential street with a row of houses, neatly trimmed hedges, and parked cars, all under a clear sky.
+An image with a road, four cars, a house, a tree, a wall, a sky, and a pavement.
+An image with four cars, a tree, a pavement, a road, a wall, a sky, and a house.
+An image with a house, a wall, a tree, four cars, a pavement, a sky, and a road.
+An image with a sky, four cars, a house, a tree, a road, a wall, and a pavement.
+An image with a tree, a pavement, four cars, a sky, a house, a wall, and a road.

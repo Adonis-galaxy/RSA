@@ -8,3 +8,8 @@ A bedroom with a bed, a desk, a window, and a ceiling fan.
 The image captures a cozy bedroom scene with a neatly made bed, a desk with a chair, a window with blinds, and a ceiling fan. The room is well-lit and inviting, with a sense of tranquility.
 The image shows a small bedroom with a large bed, a desk with a chair, a window with blinds, and a ceiling fan.
 The image shows a bedroom with a large bed, a desk, a chair, a window with blinds, and a ceiling fan.
+An image with a wall, a floor, a table, a chair, a ceiling, a window, and a bed.
+An image with a wall, a floor, a ceiling, a table, a window, a bed, and a chair.
+An image with a floor, a chair, a window, a bed, a wall, a ceiling, and a table.
+An image with a chair, a window, a floor, a wall, a table, a ceiling, and a bed.
+An image with a bed, a chair, a floor, a ceiling, a table, a wall, and a window.

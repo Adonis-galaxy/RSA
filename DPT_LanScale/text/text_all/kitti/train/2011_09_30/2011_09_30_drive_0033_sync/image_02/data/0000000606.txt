@@ -8,3 +8,8 @@ A white scooter parked on the side of a street.
 A quiet residential street, lined with parked cars and a white scooter, under a clear blue sky.
 A narrow, tree-lined street with parked cars, a motor scooter, and a trash can.
 A quiet residential street with parked cars, a motor scooter, and a few pedestrians, lined with trees and hedges, leading to a row of houses.
+An image with three cars, a house, a sky, a pavement, a motorcycle, a truck, a road, and a tree.
+An image with three cars, a pavement, a motorcycle, a tree, a house, a road, a truck, and a sky.
+An image with a road, three cars, a house, a tree, a motorcycle, a pavement, a sky, and a truck.
+An image with a road, three cars, a house, a sky, a pavement, a tree, a motorcycle, and a truck.
+An image with a pavement, three cars, a truck, a motorcycle, a house, a tree, a sky, and a road.

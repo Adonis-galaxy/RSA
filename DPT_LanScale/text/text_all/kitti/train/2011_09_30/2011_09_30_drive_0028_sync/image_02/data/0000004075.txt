@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 A narrow street lined with parked cars, trees, and a truck, with a bridge in the background.
 The image shows a narrow street lined with parked cars, a truck, and a couch, with trees on both sides and a bridge in the background.
 A narrow street lined with parked cars and trees, leading to a bridge.
+An image with a pavement, six cars, a bridge, a tree, a road, a sky, a grass, and a truck.
+An image with a tree, six cars, a grass, a pavement, a sky, a road, a bridge, and a truck.
+An image with six cars, a pavement, a bridge, a road, a grass, a sky, a truck, and a tree.
+An image with a truck, a bridge, six cars, a grass, a tree, a pavement, a sky, and a road.
+An image with six cars, a bridge, a pavement, a road, a grass, a tree, a truck, and a sky.

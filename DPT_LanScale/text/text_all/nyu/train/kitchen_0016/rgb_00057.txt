@@ -8,3 +8,8 @@ A view of door.
 The image captures a cozy, narrow apartment with a kitchenette and a bedroom, separated by a white door.
 The image shows a narrow hallway with a doorway leading to a bedroom, a kitchen, and a bathroom. The hallway is dimly lit and features a white door, a white wall, and a white floor. The bedroom is visible through the doorway, with a bed and a window. The kitchen has a counter with various utensils, and the bathroom has a shower.
 The image shows a narrow hallway with a doorway leading to a bedroom, a kitchen, and a bathroom, all connected in a compact layout.
+An image with a counter, a ceiling, a floor, a rug, a oven, a bed, a wall, a cabinet, a window, and a door.
+An image with a door, a bed, a cabinet, a rug, a wall, a floor, a oven, a ceiling, a window, and a counter.
+An image with a rug, a cabinet, a counter, a bed, a ceiling, a floor, a window, a door, a wall, and a oven.
+An image with a wall, a window, a rug, a cabinet, a door, a oven, a floor, a ceiling, a counter, and a bed.
+An image with a ceiling, a cabinet, a oven, a door, a counter, a rug, a floor, a bed, a wall, and a window.

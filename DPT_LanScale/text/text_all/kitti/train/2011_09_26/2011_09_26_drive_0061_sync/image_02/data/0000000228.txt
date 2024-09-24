@@ -8,3 +8,8 @@ The image is a photograph of a narrow street lined with parked cars and houses.
 The image captures a serene residential street, lined with parked cars and lush greenery, leading to a quaint village with a church and a cobblestone street.
 The image shows a narrow street lined with parked cars and houses, with a brick building on the right side.
 A narrow, tree-lined street in a residential area, with parked cars and a building on the right side.
+An image with five cars, a road, a wall, a sky, a toilet, a umbrella, a tree, a house, and a fence.
+An image with a road, a umbrella, five cars, a tree, a house, a toilet, a fence, a sky, and a wall.
+An image with a road, a toilet, five cars, a wall, a sky, a umbrella, a fence, a house, and a tree.
+An image with a tree, five cars, a road, a umbrella, a wall, a fence, a sky, a house, and a toilet.
+An image with a wall, a road, a umbrella, a fence, five cars, a sky, a house, a tree, and a toilet.

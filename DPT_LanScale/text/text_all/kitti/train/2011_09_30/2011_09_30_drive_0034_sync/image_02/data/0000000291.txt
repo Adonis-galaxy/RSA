@@ -8,3 +8,8 @@ The image shows a narrow street between two houses, with a brick sidewalk and a 
 A narrow, tree-lined street in a residential area, with parked cars and a motorcycle on the sidewalk.
 The image depicts a narrow, tree-lined street between two-story houses, with a car parked on the right side.
 A narrow, tree-lined street in a residential area, with houses on both sides, leads to a car parked at the end.
+An image with two cars, a pavement, a tree, a wall, a roof, a house, and a sky.
+An image with two cars, a sky, a pavement, a roof, a wall, a house, and a tree.
+An image with two cars, a house, a tree, a wall, a roof, a pavement, and a sky.
+An image with a pavement, a wall, a tree, two cars, a house, a roof, and a sky.
+An image with a sky, a tree, a roof, a wall, a pavement, two cars, and a house.

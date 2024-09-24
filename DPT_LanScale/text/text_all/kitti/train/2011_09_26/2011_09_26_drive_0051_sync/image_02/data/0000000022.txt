@@ -8,3 +8,8 @@ The image shows a city street with a red car driving on it.
 The image captures a bustling city street with a mix of vehicles, pedestrians, and urban infrastructure, all under a clear blue sky.
 A large red car is driving down a street with white lines, passing by a sidewalk and a train track.
 A city street with a red car, white lines, trees, and a train track.
+An image with a person, two traffics, eight cars, a grass, a pavement, a road, a tree, a fence, a building, and a railroad.
+An image with two traffics, a grass, eight cars, a pavement, a tree, a person, a railroad, a fence, a building, and a road.
+An image with eight cars, a pavement, a building, a railroad, a tree, a person, two traffics, a road, a fence, and a grass.
+An image with a person, eight cars, a tree, two traffics, a railroad, a road, a pavement, a grass, a building, and a fence.
+An image with eight cars, a railroad, a road, two traffics, a fence, a tree, a building, a pavement, a person, and a grass.

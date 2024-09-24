@@ -8,3 +8,8 @@ A kitchen counter with various items on it.
 The image captures a cluttered kitchen counter with various objects, including a red bucket, a toaster, a glass, and a book, all seemingly in a state of disarray.
 The image shows a small kitchen with a white countertop, wooden cabinets, and a red bucket.
 The image shows a kitchen with a cluttered countertop, featuring wooden cabinets, a white toaster, a red bucket with white polka dots, and various items scattered across the counter.
+An image with a toaster, a wall, a knife, a counter, a door, a cabinet, a floor, and a cup.
+An image with a counter, a toaster, a knife, a door, a cabinet, a floor, a wall, and a cup.
+An image with a knife, a toaster, a cabinet, a door, a floor, a counter, a cup, and a wall.
+An image with a toaster, a door, a counter, a wall, a floor, a knife, a cup, and a cabinet.
+An image with a counter, a door, a cup, a knife, a toaster, a wall, a cabinet, and a floor.

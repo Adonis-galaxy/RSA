@@ -8,3 +8,8 @@ The image shows a street sign with an arrow pointing downward.
 The image captures a serene suburban street scene, with a blue sign indicating an upcoming right turn, a car parked on the side of the road, and a white fence lining the street, all set against a backdrop of lush greenery and a clear blue sky.
 The image shows a street scene with a large blue sign indicating an upcoming left turn, a car parked on the side of the road, a white fence, and a green lawn.
 The image depicts a tree-lined street with a blue sign indicating an upcoming left turn, a white fence on the right side, and a car parked on the side of the road.
+An image with a fence, a grass, a pavement, a tree, a car, a sky, and a road.
+An image with a fence, a grass, a road, a car, a tree, a sky, and a pavement.
+An image with a car, a road, a fence, a grass, a sky, a pavement, and a tree.
+An image with a road, a fence, a sky, a car, a grass, a pavement, and a tree.
+An image with a car, a sky, a grass, a road, a fence, a tree, and a pavement.

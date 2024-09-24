@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with houses and trees, with a red car parked on the side.
 A narrow, tree-lined street in a residential area, with a red car parked on the right side and a person walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with a red car parked on the right side.
+An image with three cars, a bird, a road, a person, a house, a sky, a pavement, and a tree.
+An image with a tree, three cars, a bird, a sky, a pavement, a person, a road, and a house.
+An image with a house, three cars, a bird, a tree, a road, a person, a sky, and a pavement.
+An image with three cars, a road, a bird, a pavement, a sky, a house, a tree, and a person.
+An image with three cars, a pavement, a tree, a house, a bird, a road, a person, and a sky.

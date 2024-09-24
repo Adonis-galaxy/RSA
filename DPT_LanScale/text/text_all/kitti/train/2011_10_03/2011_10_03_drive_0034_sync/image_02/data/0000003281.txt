@@ -8,3 +8,8 @@ The image shows a tree-lined street with a sidewalk.
 A quiet, tree-lined street with a clear path leading to a brick building.
 The image shows a narrow, shaded street with a sidewalk, lined by trees and bushes, leading to a brick building at the end.
 A tree-lined street with a sidewalk, a stop sign, and a red fire hydrant.
+An image with a grass, a wall, a dirt, a road, and a tree.
+An image with a wall, a tree, a road, a grass, and a dirt.
+An image with a road, a tree, a wall, a grass, and a dirt.
+An image with a dirt, a road, a tree, a grass, and a wall.
+An image with a tree, a wall, a grass, a road, and a dirt.

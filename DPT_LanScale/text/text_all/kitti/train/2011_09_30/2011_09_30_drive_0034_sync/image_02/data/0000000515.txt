@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a car parked on th
 A narrow, shaded alleyway between two buildings, with a parked car and a traffic light at the end.
 A narrow alleyway between two buildings, with a car parked on the right side and a red sign on the left.
 A narrow, tree-lined street leads to a white building with a car parked in front of it.
+An image with a tree, a house, a pavement, a wall, a road, a car, and a sky.
+An image with a wall, a sky, a car, a house, a tree, a road, and a pavement.
+An image with a sky, a road, a pavement, a tree, a wall, a house, and a car.
+An image with a sky, a pavement, a house, a road, a tree, a car, and a wall.
+An image with a pavement, a wall, a house, a tree, a road, a car, and a sky.

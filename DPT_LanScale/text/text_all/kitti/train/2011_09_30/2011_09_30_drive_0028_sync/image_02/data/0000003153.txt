@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 A narrow street lined with parked cars and lush greenery, leading to a white building with a red roof.
 The image shows a narrow street lined with parked cars and lush greenery, with a large orange car parked in the foreground.
 A narrow, tree-lined street with parked cars and a red-topped car driving down it.
+An image with a sky, five cars, a grass, a pavement, a house, and a tree.
+An image with five cars, a pavement, a tree, a sky, a grass, and a house.
+An image with a sky, a tree, five cars, a grass, a house, and a pavement.
+An image with five cars, a pavement, a grass, a sky, a house, and a tree.
+An image with a house, five cars, a tree, a sky, a pavement, and a grass.

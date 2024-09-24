@@ -8,3 +8,8 @@ A row of white office chairs.
 A row of white chairs with black wheels around a white table.
 A long white table with five chairs, placed on a gray carpeted floor.
 The image shows a row of white chairs with black wheels, positioned in front of a long white table, which is situated on a gray carpeted floor.
+An image with a floor, six chairs, a wall, a window, and a dining.
+An image with a floor, six chairs, a dining, a window, and a wall.
+An image with a floor, six chairs, a wall, a dining, and a window.
+An image with six chairs, a wall, a window, a floor, and a dining.
+An image with six chairs, a window, a floor, a dining, and a wall.

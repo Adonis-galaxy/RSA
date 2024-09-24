@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a white house featuring a balcony and a door, surrounded by lush greenery and trees, leading to a clear blue sky.
 A person is walking on a sidewalk in front of a large white house with multiple windows and a black roof.
 A quiet residential street with a white house, greenery, and a person walking on the sidewalk.
+An image with a road, a tree, two cars, a truck, a sky, a pavement, a house, and a person.
+An image with two cars, a house, a person, a tree, a road, a truck, a sky, and a pavement.
+An image with a pavement, two cars, a truck, a person, a house, a sky, a tree, and a road.
+An image with two cars, a person, a tree, a truck, a house, a pavement, a road, and a sky.
+An image with a house, a tree, two cars, a pavement, a truck, a person, a road, and a sky.

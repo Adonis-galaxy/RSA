@@ -8,3 +8,8 @@ A white printer on a desk.
 The image shows a workspace with a printer, a computer monitor, and a desk.
 The image shows a small office space with a white desk, a printer, and a computer monitor.
 The image shows a workspace with a printer, a computer monitor, and a keyboard, all placed on a desk.
+An image with a table, a floor, a wall, a paper, and a light.
+An image with a floor, a paper, a wall, a light, and a table.
+An image with a table, a wall, a paper, a light, and a floor.
+An image with a light, a table, a wall, a floor, and a paper.
+An image with a paper, a light, a wall, a table, and a floor.

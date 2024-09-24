@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a brick wall on th
 The image captures a narrow alleyway between two buildings, with a tree-lined street leading to a brick wall on the right.
 The image shows a narrow alleyway between two buildings, with a brick wall on the right side, a tree on the left, and a street sign in the middle.
 The image captures a narrow alleyway between two brick walls, with a tree-lined street leading to a white building in the distance.
+An image with a pavement, a tree, a sky, a wall, and a house.
+An image with a sky, a tree, a house, a wall, and a pavement.
+An image with a sky, a tree, a wall, a pavement, and a house.
+An image with a tree, a pavement, a wall, a sky, and a house.
+An image with a sky, a house, a wall, a pavement, and a tree.

@@ -8,3 +8,8 @@ A room with a balloon on the wall.
 The image captures a cozy living room with a warm and inviting atmosphere, featuring a variety of furniture and decorative elements that create a comfortable and welcoming space.
 The image shows a room with a large table, several chairs, a balloon, and a painting on the wall.
 The image shows a well-lit, spacious living room with a balanced layout featuring a dining table, chairs, a couch, and a decorative heart-shaped balloon.
+An image with seven chairs, a ceiling, a window, a table, a wall, a floor, a dining, and a couch.
+An image with a window, a couch, seven chairs, a floor, a table, a ceiling, a dining, and a wall.
+An image with seven chairs, a couch, a ceiling, a dining, a floor, a wall, a window, and a table.
+An image with a ceiling, seven chairs, a dining, a window, a table, a floor, a wall, and a couch.
+An image with a window, seven chairs, a dining, a ceiling, a table, a wall, a floor, and a couch.

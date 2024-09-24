@@ -8,3 +8,8 @@ The image shows a row of empty seats in a theater.
 The image shows an empty auditorium with rows of seats and a stage.
 The image shows an empty room with rows of beige chairs and aisles between them.
 The image shows an empty auditorium with rows of seats on either side of a central aisle.
+An image with thirteen chairs, a tv, a wall, a floor, and a dining.
+An image with a tv, thirteen chairs, a floor, a dining, and a wall.
+An image with thirteen chairs, a floor, a dining, a tv, and a wall.
+An image with thirteen chairs, a wall, a dining, a floor, and a tv.
+An image with thirteen chairs, a dining, a floor, a wall, and a tv.

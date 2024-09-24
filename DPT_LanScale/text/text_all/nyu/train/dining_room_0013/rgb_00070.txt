@@ -8,3 +8,8 @@ A black ball on the floor.
 A black ball rests on a wooden floor next to a window with closed blinds, and a chair with a bag on it sits in front of the window.
 A small black ball is on the floor next to a chair with a large picture frame on the wall.
 The image shows a room with a wooden floor, a chair, a table, a window with blinds, a framed picture on the wall, and a black ball on the floor.
+An image with a cardboard, a handbag, a vase, a book, a wall, a window, a chair, and a floor.
+An image with a wall, a handbag, a window, a vase, a cardboard, a floor, a chair, and a book.
+An image with a window, a book, a wall, a chair, a handbag, a vase, a floor, and a cardboard.
+An image with a wall, a cardboard, a book, a chair, a vase, a floor, a window, and a handbag.
+An image with a chair, a window, a book, a handbag, a floor, a cardboard, a vase, and a wall.

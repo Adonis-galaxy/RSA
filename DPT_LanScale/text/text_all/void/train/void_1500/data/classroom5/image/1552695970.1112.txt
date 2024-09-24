@@ -8,3 +8,8 @@ The image shows a row of four black office chairs on a carpeted floor.
 The image shows a room with a desk and four chairs, with a focus on the floor and the chairs.
 The image shows a room with a desk and four chairs, with a focus on the floor, which is carpeted.
 The image shows a room with a desk and four chairs, with a carpeted floor and a white wall.
+An image with a wall, a window, a keyboard, three chairs, a rug, a laptop, a tv, and a table.
+An image with a laptop, three chairs, a tv, a rug, a table, a keyboard, a window, and a wall.
+An image with three chairs, a keyboard, a laptop, a tv, a wall, a rug, a table, and a window.
+An image with a wall, a table, a tv, a keyboard, three chairs, a rug, a window, and a laptop.
+An image with three chairs, a rug, a table, a wall, a window, a laptop, a keyboard, and a tv.

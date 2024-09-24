@@ -8,3 +8,8 @@ The image shows a blurry office environment with various items, including a fish
 The image shows a cluttered office space with various items, including a fish tank, a desk, and a sign that reads "beer."
 The image shows a blurry room with a large black object, a small orange object, and a white sign with blue lettering.
 The image shows a blurry view of a room with a desk, a chair, and various items on it, including a sign that says "BEER TAPS".
+An image with a table, a tv, a wall, a door, a paper, and a microwave.
+An image with a table, a wall, a tv, a microwave, a paper, and a door.
+An image with a tv, a wall, a table, a microwave, a door, and a paper.
+An image with a door, a tv, a paper, a table, a microwave, and a wall.
+An image with a table, a microwave, a door, a wall, a tv, and a paper.

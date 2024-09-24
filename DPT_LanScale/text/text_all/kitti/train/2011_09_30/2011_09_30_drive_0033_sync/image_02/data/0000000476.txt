@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with houses and trees, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars, a few pedestrians, and a large, dark shadow cast by a street lamp.
 A quiet residential street with houses, trees, and a clear sky.
+An image with a tree, three cars, a pavement, a house, and a road.
+An image with a house, a road, a tree, a pavement, and three cars.
+An image with a road, three cars, a tree, a pavement, and a house.
+An image with a tree, three cars, a road, a pavement, and a house.
+An image with three cars, a house, a road, a pavement, and a tree.

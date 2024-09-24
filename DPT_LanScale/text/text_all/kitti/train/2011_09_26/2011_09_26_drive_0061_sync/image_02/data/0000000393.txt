@@ -8,3 +8,8 @@ A car parked on the side of a road.
 The image captures a quiet, tree-lined street with a parked car, a solitary pedestrian, and a building with a white door, all under a bright, sunny sky.
 A small white car is parked on the side of a narrow street lined with trees and buildings.
 A narrow street with parked cars, lined by trees and buildings, leading to a dead-end.
+An image with a road, four cars, a tree, a sky, two walls, and a pavement.
+An image with four cars, two walls, a pavement, a tree, a road, and a sky.
+An image with a tree, two walls, four cars, a pavement, a road, and a sky.
+An image with two walls, a sky, four cars, a road, a pavement, and a tree.
+An image with a tree, two walls, four cars, a sky, a road, and a pavement.

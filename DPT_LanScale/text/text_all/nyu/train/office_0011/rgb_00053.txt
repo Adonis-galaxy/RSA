@@ -8,3 +8,8 @@ A room with a metal fence.
 The image captures a room with a large, open metal mesh door, leading to a space with a desk, shelves, and a chair, suggesting a connection between the interior and exterior spaces.
 The image shows a room with a large metal mesh screen, a desk with a computer monitor and keyboard, a chair, and a bookshelf with books.
 The image shows an office space with a partitioned area, a desk with a computer, a chair, and a bookshelf.
+An image with ten books, a floor, a fence, a light, a wall, a dining, and a chair.
+An image with a dining, ten books, a chair, a fence, a light, a wall, and a floor.
+An image with a floor, a light, ten books, a wall, a chair, a fence, and a dining.
+An image with a fence, a dining, a wall, ten books, a light, a chair, and a floor.
+An image with a dining, ten books, a wall, a chair, a floor, a fence, and a light.

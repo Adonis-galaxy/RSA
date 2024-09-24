@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a bus.
 The image captures a lively street scene with parked cars, a moving truck, and a bicycle, all under the shade of tall trees.
 The image shows a narrow street lined with parked cars and a large truck, with a person visible on the sidewalk.
 A narrow street lined with parked cars and a bus, with a mix of residential and commercial buildings on either side, leading to a hillside.
+An image with nine cars, a pavement, a sky, a grass, a wall, a road, a tree, and a bus.
+An image with nine cars, a sky, a bus, a grass, a tree, a road, a pavement, and a wall.
+An image with nine cars, a grass, a wall, a tree, a sky, a bus, a pavement, and a road.
+An image with a bus, nine cars, a road, a grass, a pavement, a sky, a wall, and a tree.
+An image with nine cars, a bus, a pavement, a sky, a grass, a road, a wall, and a tree.

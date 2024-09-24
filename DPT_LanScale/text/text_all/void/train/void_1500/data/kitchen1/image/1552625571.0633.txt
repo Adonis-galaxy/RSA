@@ -8,3 +8,8 @@ A coffee maker on a counter.
 A coffee maker on a counter with two cups of coffee.
 A coffee maker is on a counter next to two cups.
 A coffee maker is sitting on a counter next to two cups.
+An image with two cups, a table, and a wall.
+An image with a wall, two cups, and a table.
+An image with two cups, a wall, and a table.
+An image with a table, a wall, and two cups.
+An image with two cups, a table, and a wall.

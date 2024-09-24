@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a tranquil suburban street scene, with a car driving away from a residential area, under a clear blue sky.
 The image shows a wide, tree-lined street with a few cars, a train track, and a traffic light.
 The image depicts a wide, tree-lined street with a train track running parallel to it, flanked by buildings and lined with streetlights and signs.
+An image with nine cars, three people, a road, three traffics, a railroad, a fence, a house, a tree, and a grass.
+An image with nine cars, a tree, a grass, a fence, three traffics, a railroad, a house, three people, and a road.
+An image with nine cars, a railroad, a tree, three people, a road, a house, a fence, a grass, and three traffics.
+An image with a house, a fence, three traffics, a grass, nine cars, a road, a tree, three people, and a railroad.
+An image with a tree, nine cars, a house, three people, three traffics, a road, a railroad, a fence, and a grass.

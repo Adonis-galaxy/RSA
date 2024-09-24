@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 The image captures a serene residential street, lined with lush greenery and parked cars, leading to a quaint white house with a charming garden.
 The image shows a narrow street lined with parked cars and lush greenery, with a white building on the left and a row of houses on the right.
 A narrow, tree-lined street with parked cars and a motorcycle, leading to a row of houses.
+An image with a tree, six cars, a wall, a motorcycle, a pavement, a road, a grass, a sky, and a house.
+An image with six cars, a pavement, a sky, a grass, a house, a tree, a motorcycle, a wall, and a road.
+An image with a grass, six cars, a wall, a pavement, a tree, a sky, a road, a house, and a motorcycle.
+An image with a pavement, a grass, a wall, six cars, a motorcycle, a house, a sky, a tree, and a road.
+An image with six cars, a motorcycle, a tree, a road, a house, a wall, a sky, a pavement, and a grass.

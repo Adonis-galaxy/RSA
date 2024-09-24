@@ -8,3 +8,8 @@ The image shows a busy city street with cars, bicycles, and pedestrians.
 The image captures a bustling city intersection with a mix of vehicles and pedestrians, under a clear blue sky.
 A busy city intersection with multiple lanes of traffic, pedestrians, and cyclists, under a clear blue sky.
 A busy city intersection with multiple lanes, traffic lights, and pedestrians, all under a clear blue sky.
+An image with three traffics, a building, six cars, a grass, a truck, two people, a road, a tree, and a bicycle.
+An image with a building, six cars, three traffics, two people, a bicycle, a truck, a road, a tree, and a grass.
+An image with a road, two people, a truck, a tree, six cars, a building, three traffics, a grass, and a bicycle.
+An image with two people, a road, six cars, three traffics, a tree, a bicycle, a building, a grass, and a truck.
+An image with six cars, two people, a grass, a tree, a building, a bicycle, three traffics, a road, and a truck.

@@ -8,3 +8,8 @@ The image shows a street scene with a large truck parked on the side of the road
 A large truck parked on a narrow street, surrounded by smaller vehicles and residential buildings.
 A large truck is parked on the side of a narrow street, with a smaller car parked in front of it.
 A narrow street in a residential area with parked cars, a large truck, and a Mercedes-Benz vehicle.
+An image with a house, a door, seven cars, a sky, a tree, a road, a dirt, two trucks, and a pavement.
+An image with a sky, seven cars, two trucks, a house, a tree, a road, a pavement, a door, and a dirt.
+An image with a house, two trucks, a sky, seven cars, a pavement, a tree, a door, a dirt, and a road.
+An image with seven cars, a dirt, two trucks, a house, a door, a sky, a tree, a pavement, and a road.
+An image with a road, two trucks, seven cars, a sky, a pavement, a tree, a door, a dirt, and a house.

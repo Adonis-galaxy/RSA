@@ -8,3 +8,8 @@ A wooden bench on a sidewalk.
 A wooden bench is situated on a sidewalk next to a planter filled with plants.
 A wooden bench is situated on a sidewalk next to a planter filled with green plants.
 A wooden bench is situated on a sidewalk next to a planter filled with plants.
+An image with a bench, a pavement, a grass, two walls, a tree, a floor, a potted, a dirt, and a fence.
+An image with a grass, a potted, a fence, a bench, a pavement, two walls, a tree, a dirt, and a floor.
+An image with a floor, two walls, a fence, a dirt, a grass, a potted, a tree, a pavement, and a bench.
+An image with a pavement, a bench, a floor, a potted, a fence, two walls, a dirt, a grass, and a tree.
+An image with two walls, a potted, a pavement, a floor, a bench, a fence, a tree, a grass, and a dirt.

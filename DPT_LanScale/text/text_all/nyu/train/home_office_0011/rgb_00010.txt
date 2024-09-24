@@ -8,3 +8,8 @@ The image shows a room with a doorway leading to another room.
 The image captures a cluttered room with a doorway leading to a brightly lit hallway, featuring a desk with papers, a chair with a blanket, and a bookshelf filled with books.
 The image shows a room with a large bookshelf, a desk with papers, a chair, a doorway leading to a hallway, and a large stuffed animal.
 The image shows a room with a doorway leading to a hallway, a desk with papers and a book, a chair with a blanket, a couch with a stuffed animal, and a bookshelf filled with books.
+An image with sixteen books, a couch, a wall, a door, a shelf, a floor, a table, a paper, and a rug.
+An image with a door, a table, sixteen books, a wall, a shelf, a couch, a floor, a paper, and a rug.
+An image with sixteen books, a rug, a couch, a door, a floor, a table, a shelf, a wall, and a paper.
+An image with sixteen books, a wall, a rug, a shelf, a door, a paper, a couch, a table, and a floor.
+An image with a shelf, sixteen books, a wall, a paper, a door, a couch, a floor, a table, and a rug.

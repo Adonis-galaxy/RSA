@@ -8,3 +8,8 @@ A computer monitor on a desk.
 The image shows a computer monitor, a keyboard, and a whiteboard with a blue frame, all placed in a room.
 The image shows a computer monitor, a keyboard, a mouse, a whiteboard with papers, and a piece of equipment with tubes and valves.
 The image shows a computer monitor, a keyboard, and a large piece of equipment with various knobs and tubes, all set against a wall with a bulletin board.
+An image with a table, a tv, a wall, a keyboard, and a paper.
+An image with a tv, a table, a wall, a paper, and a keyboard.
+An image with a table, a paper, a tv, a keyboard, and a wall.
+An image with a tv, a wall, a table, a keyboard, and a paper.
+An image with a wall, a tv, a keyboard, a paper, and a table.

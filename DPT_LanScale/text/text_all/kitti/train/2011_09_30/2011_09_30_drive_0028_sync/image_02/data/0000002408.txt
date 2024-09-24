@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a quiet residential street, with parked cars and houses in the background.
 A person is riding a bicycle on a street between two houses, with a car parked on the side of the road.
 A person riding a bicycle on a quiet residential street, with houses and trees lining the road.
+An image with six cars, a road, a pavement, a tree, a house, a truck, a person, a bicycle, and a sky.
+An image with a house, a sky, six cars, a truck, a pavement, a person, a bicycle, a road, and a tree.
+An image with a house, a sky, six cars, a tree, a bicycle, a road, a truck, a person, and a pavement.
+An image with six cars, a tree, a person, a truck, a house, a road, a bicycle, a sky, and a pavement.
+An image with a sky, a house, six cars, a road, a truck, a tree, a bicycle, a person, and a pavement.

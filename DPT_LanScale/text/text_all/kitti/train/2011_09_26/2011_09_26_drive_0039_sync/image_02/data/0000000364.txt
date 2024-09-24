@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a street with a numbered parking spot, surrounded by residential buildings and greenery.
 A white van is parked on a narrow street, with a house and trees in the background.
 A white van is parked on a narrow street with a numbered parking spot, adjacent to a building with a green hedge and a white wall.
+An image with a fence, a window, a pavement, a parking, a house, two walls, three cars, a tree, a road, and a banner.
+An image with a pavement, a road, two walls, three cars, a banner, a fence, a house, a window, a parking, and a tree.
+An image with three cars, two walls, a tree, a window, a parking, a road, a banner, a fence, a house, and a pavement.
+An image with a pavement, three cars, a fence, two walls, a house, a road, a window, a banner, a tree, and a parking.
+An image with three cars, two walls, a pavement, a road, a house, a parking, a banner, a tree, a fence, and a window.

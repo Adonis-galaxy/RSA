@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars.
 The image captures a serene residential street, lined with parked cars and trees, under a bright sunny day.
 The image shows a tree-lined street with parked cars, a sidewalk, and a bench, all under a bright sunlight.
 A tree-lined street with parked cars, benches, and a sidewalk.
+An image with five cars, a tree, a fence, a pavement, a sky, a grass, a bench, and a road.
+An image with a tree, five cars, a pavement, a grass, a road, a bench, a fence, and a sky.
+An image with a bench, five cars, a road, a tree, a grass, a sky, a pavement, and a fence.
+An image with five cars, a road, a pavement, a bench, a sky, a grass, a tree, and a fence.
+An image with a bench, a sky, five cars, a tree, a fence, a road, a pavement, and a grass.

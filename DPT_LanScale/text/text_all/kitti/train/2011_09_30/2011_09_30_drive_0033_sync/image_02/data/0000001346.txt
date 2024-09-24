@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a bus, and a truck.
 The image captures a typical day in a suburban neighborhood, with parked cars, a white van, and a bus on the street, surrounded by trees and brick buildings.
 The image shows a narrow street lined with parked cars and a large white bus, with trees and buildings on either side.
 A narrow street with parked cars, a bus, and a truck, lined by brick buildings and trees, leading to a parked yellow car on the sidewalk.
+An image with nine cars, a sky, a grass, a window, a bus, two walls, a tree, and a road.
+An image with nine cars, a grass, two walls, a bus, a sky, a window, a road, and a tree.
+An image with a window, nine cars, a tree, a sky, a bus, two walls, a road, and a grass.
+An image with nine cars, a bus, a window, two walls, a sky, a tree, a grass, and a road.
+An image with nine cars, a road, a sky, a grass, two walls, a tree, a bus, and a window.

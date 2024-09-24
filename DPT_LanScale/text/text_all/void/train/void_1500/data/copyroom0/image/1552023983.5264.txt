@@ -8,3 +8,8 @@ A printer on a counter.
 A printer with a paper tray on a counter.
 A large printer with a yellow label on top of a small printer on a beige counter.
 A printer and a paper tray are placed on a counter.
+An image with a cabinet, a paper, a counter, and a wall.
+An image with a counter, a wall, a cabinet, and a paper.
+An image with a cabinet, a wall, a paper, and a counter.
+An image with a paper, a cabinet, a wall, and a counter.
+An image with a paper, a wall, a counter, and a cabinet.

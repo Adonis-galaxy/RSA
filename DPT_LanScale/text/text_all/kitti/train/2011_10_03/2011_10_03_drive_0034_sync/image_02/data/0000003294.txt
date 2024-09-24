@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a serene suburban street scene, with a clear view of a road, sidewalk, and trees, highlighting the tranquility of a quiet neighborhood.
 The image shows a narrow, tree-lined street with a red and white yield sign on the right side, a street sign on the left, and a brick wall on the right side. The street appears to be in a residential area.
 The image depicts a tree-lined street with a curved road, a sidewalk, a red and white yield sign, and a brick wall.
+An image with a pavement, a tree, two walls, a fire, a road, and a grass.
+An image with a tree, two walls, a road, a pavement, a fire, and a grass.
+An image with two walls, a road, a grass, a fire, a pavement, and a tree.
+An image with two walls, a road, a fire, a tree, a grass, and a pavement.
+An image with two walls, a tree, a pavement, a fire, a grass, and a road.

@@ -8,3 +8,8 @@ A person walking on a sidewalk.
 A person walking on a sidewalk, with a car driving on a tree-lined road, and a bicycle parked nearby.
 A person is walking on a sidewalk next to a road with cars and a bicycle, while the road is lined with trees and a fence.
 A person walks on a sidewalk alongside a tree-lined street with parked cars, while a bicycle is parked on the sidewalk.
+An image with a handbag, a person, a road, a bicycle, two cars, a pavement, a tree, and a wall.
+An image with a wall, two cars, a road, a handbag, a person, a pavement, a bicycle, and a tree.
+An image with a road, a bicycle, a person, two cars, a wall, a handbag, a tree, and a pavement.
+An image with two cars, a handbag, a person, a pavement, a tree, a wall, a bicycle, and a road.
+An image with two cars, a person, a bicycle, a pavement, a tree, a handbag, a wall, and a road.

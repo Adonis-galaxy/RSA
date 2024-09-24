@@ -8,3 +8,8 @@ A printer is sitting in a corner.
 A printer is sitting on a desk in a room with green walls.
 A large white printer is sitting in a corner of a room with green walls.
 The image shows a white and black printer sitting on a green counter in a room with a green wall.
+An image with a floor, a table, a oven, a wall, and a door.
+An image with a oven, a wall, a table, a door, and a floor.
+An image with a floor, a table, a door, a wall, and a oven.
+An image with a table, a door, a floor, a wall, and a oven.
+An image with a wall, a oven, a door, a floor, and a table.

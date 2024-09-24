@@ -8,3 +8,8 @@ The image shows a street view with a white building on the right side and a fenc
 The image captures a quiet, empty street with a white building on the right, a fence blocking the view, and a few trees and signs in the background.
 The image shows a street view with a large building on the right, a fence blocking the entrance, and a tree on the left.
 The image shows a street view with a white building on the right, a fenced area in the foreground, and a tree-lined road leading to the building.
+An image with a building, a fence, three cars, a house, a road, two stops, a grass, a window, a sky, and a tree.
+An image with two stops, a sky, a tree, three cars, a window, a building, a road, a grass, a house, and a fence.
+An image with three cars, a house, a tree, a grass, a fence, two stops, a window, a building, a road, and a sky.
+An image with a road, two stops, a building, a window, a sky, three cars, a house, a grass, a tree, and a fence.
+An image with two stops, a sky, a fence, a road, a building, a house, three cars, a tree, a grass, and a window.

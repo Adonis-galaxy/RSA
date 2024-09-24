@@ -8,3 +8,8 @@ The image shows a staircase with green carpeting.
 The image shows a staircase with green carpeting and a white handrail.
 The image shows a staircase with green carpeting and white walls, with a handrail on the right side.
 The image shows a staircase with green carpeting and white walls, leading to a door at the top.
+An image with a wall, a train, and a floor.
+An image with a train, a floor, and a wall.
+An image with a floor, a wall, and a train.
+An image with a train, a wall, and a floor.
+An image with a train, a wall, and a floor.

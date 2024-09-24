@@ -8,3 +8,8 @@ The image is blurry and features a collection of office equipment and supplies.
 The image is blurry, but it appears to be a room with various objects, including a desk, a chair, and a computer monitor.
 The image is blurry and shows a room with a large black object, a white sign, and various other items.
 The image is blurry, but it appears to be a room with various objects, including a desk with a nameplate and a printer.
+An image with two walls, a table, a floor, a oven, a microwave, and a tv.
+An image with a oven, a table, a microwave, a floor, two walls, and a tv.
+An image with a floor, a tv, a microwave, a oven, two walls, and a table.
+An image with a floor, a tv, two walls, a microwave, a oven, and a table.
+An image with a floor, a microwave, two walls, a oven, a tv, and a table.

@@ -8,3 +8,8 @@ A sunny day in a residential neighborhood.
 A quiet residential street, lined with houses and trees, under a clear blue sky.
 A narrow, tree-lined street in a residential area, with a person walking on the sidewalk.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a truck, a road, a person, a pavement, two cars, a tree, a stop, a grass, a house, and a sky.
+An image with a pavement, a truck, a house, a stop, a road, a grass, a tree, two cars, a person, and a sky.
+An image with a stop, two cars, a tree, a sky, a grass, a truck, a road, a person, a pavement, and a house.
+An image with a road, a house, a person, a truck, a tree, a sky, a stop, a pavement, two cars, and a grass.
+An image with a sky, a road, a stop, a house, two cars, a grass, a person, a tree, a truck, and a pavement.

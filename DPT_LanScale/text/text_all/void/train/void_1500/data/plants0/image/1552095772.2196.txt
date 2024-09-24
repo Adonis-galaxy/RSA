@@ -8,3 +8,8 @@ The image shows a concrete curb with a red brick pattern on the ground.
 The image shows a concrete curb next to a patch of dirt with sparse vegetation.
 The image shows a small patch of dirt with a few plants and a tree trunk, surrounded by a concrete border with a red brick pattern.
 The image shows a concrete sidewalk with a red brick border, a tree trunk, and a patch of dirt with sparse vegetation.
+An image with a dirt, a grass, a tree, a wall, and a floor.
+An image with a wall, a floor, a grass, a tree, and a dirt.
+An image with a floor, a dirt, a wall, a grass, and a tree.
+An image with a dirt, a wall, a floor, a tree, and a grass.
+An image with a dirt, a tree, a grass, a floor, and a wall.

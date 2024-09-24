@@ -8,3 +8,8 @@ The image shows a narrow street with a white fence on the left side and a gray w
 A quiet residential street, with a parked car and a white fence, leading to a house with a red roof.
 The image shows a narrow street with a white fence on the left, a black car parked on the right, a white wall on the left, and a white fence on the right. The street is lined with trees and houses in the background.
 A quiet residential street with a white picket fence, a paved road, a few parked cars, and a line of trees along the sidewalk.
+An image with a wall, three cars, a sky, a roof, a tree, a road, and a house.
+An image with three cars, a sky, a wall, a road, a roof, a house, and a tree.
+An image with three cars, a wall, a sky, a road, a roof, a house, and a tree.
+An image with three cars, a house, a wall, a road, a roof, a tree, and a sky.
+An image with three cars, a road, a tree, a sky, a house, a wall, and a roof.

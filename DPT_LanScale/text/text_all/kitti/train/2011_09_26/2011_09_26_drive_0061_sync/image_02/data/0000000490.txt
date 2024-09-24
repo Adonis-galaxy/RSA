@@ -8,3 +8,8 @@ A black car on a narrow street.
 A black car is parked on a narrow, tree-lined street, with a brick wall and a lamp post on the left side, and a house with a green roof on the right.
 A black car is parked on a narrow, tree-lined street, with a brick wall on the right side and a lamp post on the left.
 A black Mercedes-Benz car is parked on a narrow, tree-lined street, adjacent to a brick wall and a stone fence, with a clear sky overhead.
+An image with a fence, a sky, a tree, a road, a car, a wall, and a pavement.
+An image with a tree, a pavement, a road, a car, a fence, a wall, and a sky.
+An image with a fence, a tree, a road, a sky, a pavement, a car, and a wall.
+An image with a car, a road, a sky, a fence, a pavement, a wall, and a tree.
+An image with a fence, a tree, a sky, a wall, a pavement, a road, and a car.

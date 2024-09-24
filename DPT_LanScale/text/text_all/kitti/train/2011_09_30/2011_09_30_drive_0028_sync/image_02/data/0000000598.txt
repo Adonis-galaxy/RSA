@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 A narrow, tree-lined street in a residential area, with a car parked on the right side.
 The image shows a narrow, tree-lined street with a car parked on the right side, a mailbox on the left, and a house with a white facade and a black door on the right.
 A narrow, tree-lined street with a car parked at the end, leading to a white building with a black door.
+An image with a pavement, a road, a house, a tree, a car, and a wall.
+An image with a car, a wall, a tree, a road, a house, and a pavement.
+An image with a pavement, a road, a car, a tree, a house, and a wall.
+An image with a pavement, a wall, a road, a car, a tree, and a house.
+An image with a road, a wall, a tree, a house, a pavement, and a car.

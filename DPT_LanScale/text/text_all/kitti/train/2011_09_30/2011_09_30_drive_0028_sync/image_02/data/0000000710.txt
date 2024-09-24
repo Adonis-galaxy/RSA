@@ -8,3 +8,8 @@ A white car parked on the side of a road.
 A quiet residential street, lined with trees and houses, with a single car parked on the side.
 A small white car is parked on the side of a narrow street lined with trees and buildings.
 A quiet residential street with a parked car, a sidewalk, and a fence, lined with trees and houses.
+An image with a pavement, a car, a sky, a road, a tree, a house, a grass, and a fence.
+An image with a sky, a tree, a fence, a road, a house, a car, a pavement, and a grass.
+An image with a sky, a house, a grass, a tree, a pavement, a road, a fence, and a car.
+An image with a house, a car, a grass, a pavement, a tree, a fence, a road, and a sky.
+An image with a tree, a house, a fence, a grass, a sky, a car, a pavement, and a road.

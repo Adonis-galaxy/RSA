@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building with a red roof. The street is shaded by trees, and there is a sign indicating no parking.
 A narrow street lined with parked cars and houses, with a clear sky overhead.
+An image with a road, five cars, a tree, a roof, a pavement, a stop, a fence, and a sky.
+An image with five cars, a road, a tree, a fence, a roof, a pavement, a sky, and a stop.
+An image with a road, a roof, five cars, a tree, a stop, a pavement, a fence, and a sky.
+An image with five cars, a fence, a road, a stop, a roof, a tree, a sky, and a pavement.
+An image with a road, a sky, five cars, a fence, a stop, a tree, a pavement, and a roof.

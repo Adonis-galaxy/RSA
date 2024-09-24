@@ -8,3 +8,8 @@ The image shows a tree-lined street with cars parked on the side.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 The image shows a narrow, tree-lined street with a few parked cars, leading to a white building with a balcony.
 A tree-lined street with parked cars, leading to a residential area with houses and a fence.
+An image with a dirt, three cars, a house, a road, a sky, a fence, a tree, and a pavement.
+An image with a tree, three cars, a pavement, a dirt, a fence, a house, a sky, and a road.
+An image with a tree, a road, three cars, a house, a pavement, a fence, a sky, and a dirt.
+An image with three cars, a fence, a house, a dirt, a road, a sky, a pavement, and a tree.
+An image with a sky, a house, a tree, a dirt, three cars, a pavement, a road, and a fence.

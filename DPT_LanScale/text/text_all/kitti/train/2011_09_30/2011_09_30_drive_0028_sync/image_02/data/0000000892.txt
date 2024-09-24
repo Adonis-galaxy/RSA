@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 The image captures a quiet residential street, with parked cars and a truck, under a bright sunlight, creating a serene atmosphere.
 The image shows a narrow street lined with parked cars and trees, with a large white building on the left and a smaller white building on the right.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with eight cars, a fence, a road, a pavement, two trucks, a sky, a tree, a house, and a dirt.
+An image with a dirt, two trucks, eight cars, a tree, a pavement, a road, a fence, a house, and a sky.
+An image with eight cars, two trucks, a pavement, a road, a fence, a house, a tree, a dirt, and a sky.
+An image with a fence, a dirt, two trucks, a tree, eight cars, a pavement, a house, a road, and a sky.
+An image with two trucks, a road, a sky, eight cars, a tree, a dirt, a pavement, a fence, and a house.

@@ -8,3 +8,8 @@ The image shows an empty hallway with a doorway leading to another room.
 The image captures a dimly lit hallway leading to an office area, with a red chair and a desk visible in the background.
 The image shows a narrow hallway with a doorway leading to a room with a desk and a chair. The hallway is illuminated by a single light source, and the doorway is framed by black metal.
 The image shows an interior hallway with a doorway leading to a room with a desk and a person sitting at it.
+An image with a chair, a wall, a ceiling, a door, a tv, a floor, and a dining.
+An image with a ceiling, a wall, a door, a tv, a floor, a chair, and a dining.
+An image with a ceiling, a door, a floor, a dining, a tv, a wall, and a chair.
+An image with a dining, a ceiling, a tv, a wall, a chair, a door, and a floor.
+An image with a dining, a ceiling, a door, a floor, a wall, a chair, and a tv.

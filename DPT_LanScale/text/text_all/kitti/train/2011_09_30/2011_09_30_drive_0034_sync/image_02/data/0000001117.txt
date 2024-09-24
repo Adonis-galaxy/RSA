@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a blue truck parked 
 A narrow residential street with parked cars and a delivery truck, flanked by houses and trees.
 A narrow street between two houses, with a large truck parked on the right side and a smaller car parked on the left side.
 A narrow, tree-lined street with parked cars, a truck, and a pedestrian, leading to a residential area with houses and a balcony.
+An image with a person, a wall, a sky, a pavement, a tree, a truck, a house, and three cars.
+An image with three cars, a tree, a truck, a house, a sky, a pavement, a person, and a wall.
+An image with three cars, a sky, a truck, a house, a person, a wall, a pavement, and a tree.
+An image with a person, a house, a pavement, a wall, three cars, a tree, a truck, and a sky.
+An image with three cars, a truck, a pavement, a sky, a person, a house, a tree, and a wall.

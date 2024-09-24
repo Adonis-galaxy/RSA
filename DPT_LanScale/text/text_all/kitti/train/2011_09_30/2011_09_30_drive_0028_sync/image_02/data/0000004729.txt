@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush green hedges.
 The image captures a quiet residential street, lined with parked cars and lush green hedges, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a sidewalk, and a row of hedges.
 A narrow street lined with parked cars and apartment buildings, with a sunlit sidewalk and a shaded sidewalk.
+An image with a tree, a road, six cars, a building, a pavement, a truck, a sky, and a wall.
+An image with a building, six cars, a sky, a wall, a pavement, a road, a tree, and a truck.
+An image with a wall, a pavement, six cars, a truck, a sky, a building, a tree, and a road.
+An image with six cars, a road, a truck, a sky, a wall, a tree, a building, and a pavement.
+An image with a pavement, a wall, six cars, a tree, a truck, a sky, a building, and a road.

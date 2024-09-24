@@ -8,3 +8,8 @@ The image shows an empty room with a long white wall, a row of closed doors, and
 The image captures an empty room with a long hallway leading to a series of classrooms, each furnished with desks and chairs, and a central table.
 The image shows a long, narrow room with a row of whiteboards on the left wall, a hallway leading to other rooms, and a row of tables and chairs on the right side.
 The image shows an empty room with a long corridor, multiple chairs and tables, and a series of whiteboards on the walls.
+An image with four dinings, ten chairs, a door, a window, a light, a ceiling, a floor, and a wall.
+An image with four dinings, ten chairs, a light, a wall, a window, a floor, a ceiling, and a door.
+An image with a door, four dinings, a floor, a window, ten chairs, a wall, a ceiling, and a light.
+An image with four dinings, ten chairs, a window, a ceiling, a floor, a light, a wall, and a door.
+An image with a floor, ten chairs, four dinings, a ceiling, a light, a door, a window, and a wall.

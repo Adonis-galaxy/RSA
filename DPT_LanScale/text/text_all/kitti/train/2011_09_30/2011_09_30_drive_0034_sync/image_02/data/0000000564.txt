@@ -8,3 +8,8 @@ The image shows a narrow street with a car parked on the side.
 A narrow street between buildings, with a parked car and a person on the sidewalk.
 A small white car is parked on a narrow street between two buildings, with a person visible in the background.
 A narrow street with parked cars, lined by buildings and trees, leading to a white house.
+An image with a wall, a tree, a fence, a car, a road, a dirt, a house, and a person.
+An image with a car, a person, a wall, a tree, a dirt, a fence, a house, and a road.
+An image with a car, a dirt, a fence, a tree, a wall, a person, a house, and a road.
+An image with a fence, a wall, a tree, a person, a road, a house, a dirt, and a car.
+An image with a road, a dirt, a tree, a wall, a person, a car, a house, and a fence.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with a motorcyclist riding down the middle, flanked by parked cars and lined with trees and a fence.
 A person riding a motorcycle on a narrow street between parked cars and houses.
 A quiet residential street with a motorcyclist, parked cars, and a pedestrian, lined with trees and a fence.
+An image with a motorcycle, a road, a tree, two cars, a person, a house, a fence, a sky, and a pavement.
+An image with a fence, a person, two cars, a motorcycle, a tree, a house, a road, a sky, and a pavement.
+An image with two cars, a sky, a fence, a motorcycle, a house, a person, a tree, a pavement, and a road.
+An image with a tree, two cars, a motorcycle, a fence, a road, a sky, a person, a pavement, and a house.
+An image with a house, a road, a fence, a sky, two cars, a pavement, a motorcycle, a tree, and a person.

@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 A quiet suburban street with a few cars, trees, and signs, under a clear blue sky.
 The image shows a wide, tree-lined street with a few cars, a red and blue sign, and a white sign with a black arrow. The trees are large and green, and the street is mostly empty.
 A quiet suburban street with a few parked cars, lined by trees and a stone wall, leading to a residential area.
+An image with a road, two walls, a grass, a tree, a bus, a sky, a roof, a pavement, and a car.
+An image with a sky, a bus, a pavement, a road, two walls, a grass, a tree, a car, and a roof.
+An image with a car, a sky, a pavement, a tree, two walls, a roof, a road, a grass, and a bus.
+An image with a road, a car, a bus, a sky, two walls, a roof, a grass, a pavement, and a tree.
+An image with a car, a road, a pavement, two walls, a sky, a bus, a grass, a roof, and a tree.

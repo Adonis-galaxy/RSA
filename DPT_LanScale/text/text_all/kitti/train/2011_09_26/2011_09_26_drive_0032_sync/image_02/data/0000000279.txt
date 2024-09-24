@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a tranquil, tree-lined road with a few cars in motion, under a bright, cloudy sky.
 The image shows a wide, empty road with a few cars, a traffic light, and trees in the background.
 The image depicts a wide, empty highway with a clear view of the road ahead, flanked by trees and a few traffic lights.
+An image with four traffics, a tree, three cars, a sky, a road, and a grass.
+An image with four traffics, three cars, a road, a sky, a tree, and a grass.
+An image with a road, four traffics, three cars, a sky, a grass, and a tree.
+An image with four traffics, a road, three cars, a grass, a tree, and a sky.
+An image with four traffics, a sky, a tree, three cars, a grass, and a road.

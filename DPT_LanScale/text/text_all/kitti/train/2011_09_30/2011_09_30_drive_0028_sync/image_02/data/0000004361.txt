@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 The image captures a moment of urban life, featuring a narrow street lined with parked cars and a white wall, with a hint of nature provided by the trees on either side.
 A black car is driving down a narrow street between two white houses, with a white fence and trees in the background.
 A narrow street with parked cars and a white wall on the right side.
+An image with a building, five cars, a sky, a road, a pavement, a wall, a house, and a tree.
+An image with a sky, five cars, a tree, a pavement, a wall, a road, a building, and a house.
+An image with five cars, a road, a house, a wall, a tree, a sky, a pavement, and a building.
+An image with five cars, a tree, a house, a building, a wall, a pavement, a road, and a sky.
+An image with five cars, a pavement, a sky, a tree, a road, a wall, a house, and a building.

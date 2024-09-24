@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, a yellow car parked on the si
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a blue garage door, and a white building with a black sign, all under the shade of trees.
 The image shows a narrow street with a curved road, lined with houses and trees, and a yellow car parked on the side.
 The image depicts a quiet residential street with a curved road, lined with houses, trees, and a parked car.
+An image with a house, a car, a pavement, a road, a tree, a sky, two walls, and a door.
+An image with a door, a house, a road, two walls, a tree, a sky, a pavement, and a car.
+An image with a road, a house, two walls, a car, a tree, a pavement, a sky, and a door.
+An image with a car, two walls, a house, a sky, a pavement, a door, a road, and a tree.
+An image with two walls, a door, a tree, a pavement, a car, a road, a house, and a sky.

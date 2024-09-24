@@ -8,3 +8,8 @@ The image shows an office with a whiteboard, a desk, a trash can, and a chair.
 The image shows an office space with a whiteboard, a desk with a chair, a trash can, and a door.
 The image shows a blurry office space with a whiteboard, a desk with a chair, a trash can, and a cardboard box.
 The image shows an office space with a whiteboard, a desk with a chair, a trash can, and a door leading to another room.
+An image with two chairs, a dining, a window, a door, a wall, a paper, a counter, a light, a cardboard, and a floor.
+An image with two chairs, a light, a counter, a floor, a wall, a dining, a window, a cardboard, a door, and a paper.
+An image with a counter, two chairs, a paper, a dining, a wall, a window, a cardboard, a light, a door, and a floor.
+An image with a floor, a paper, a dining, a cardboard, a counter, two chairs, a wall, a light, a door, and a window.
+An image with a cardboard, two chairs, a dining, a wall, a light, a counter, a door, a floor, a window, and a paper.

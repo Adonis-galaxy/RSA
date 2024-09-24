@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a sink.
 The image shows a kitchen counter with a sink, a cabinet, and a paper towel dispenser.
 The image shows a small, orange kitchen counter with a sink and a few items on it.
 The image shows a kitchen counter with a sink, a cabinet, and a paper towel dispenser.
+An image with a wall, a paper, three bottles, a floor, a cabinet, and a sink.
+An image with a floor, three bottles, a cabinet, a paper, a sink, and a wall.
+An image with a floor, a paper, three bottles, a wall, a cabinet, and a sink.
+An image with a paper, three bottles, a cabinet, a sink, a wall, and a floor.
+An image with three bottles, a cabinet, a wall, a sink, a paper, and a floor.

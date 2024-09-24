@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape with buildings and a courtyard, placed on a wooden shelf.
 The image shows a small model of a cityscape, featuring a large white building and several other buildings in various colors.
 The image shows a model of a cityscape with various buildings, including a large white building with a courtyard, and a wooden display case.
+An image with a ceiling, a cabinet, a building, and a floor.
+An image with a building, a ceiling, a floor, and a cabinet.
+An image with a floor, a building, a cabinet, and a ceiling.
+An image with a ceiling, a floor, a cabinet, and a building.
+An image with a building, a floor, a ceiling, and a cabinet.

@@ -8,3 +8,8 @@ A blue bucket is on the floor.
 A blue bucket is placed next to a large white cylinder, which is situated in a corner of a room with a wooden cabinet.
 A blue bucket is placed next to a large white cylinder, which is situated in a corner of a room with a wooden cabinet.
 The image shows a small room with a wooden cabinet, a white cylindrical object, and a blue bucket on the floor.
+An image with a floor, a wall, a cardboard, and a cabinet.
+An image with a floor, a wall, a cabinet, and a cardboard.
+An image with a cardboard, a cabinet, a wall, and a floor.
+An image with a wall, a floor, a cabinet, and a cardboard.
+An image with a wall, a cabinet, a floor, and a cardboard.

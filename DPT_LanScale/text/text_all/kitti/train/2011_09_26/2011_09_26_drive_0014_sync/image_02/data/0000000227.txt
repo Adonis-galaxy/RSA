@@ -8,3 +8,8 @@ A tree-lined street with a car driving down it.
 A tree-lined road with a few pedestrians and vehicles, under a clear blue sky.
 A tree-lined street with a few cars and pedestrians, and a clear blue sky overhead.
 A tree-lined road with a clear sky overhead, a few cars and pedestrians, and a sidewalk on the right.
+An image with a road, a grass, a handbag, five cars, a traffic, a bus, two people, a tree, a pavement, and a building.
+An image with five cars, two people, a grass, a building, a pavement, a road, a traffic, a bus, a handbag, and a tree.
+An image with a handbag, five cars, a pavement, two people, a grass, a building, a bus, a road, a tree, and a traffic.
+An image with five cars, a pavement, two people, a road, a handbag, a traffic, a grass, a tree, a bus, and a building.
+An image with five cars, a handbag, a traffic, a building, a grass, a tree, two people, a pavement, a bus, and a road.

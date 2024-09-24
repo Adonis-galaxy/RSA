@@ -8,3 +8,8 @@ A kitchen with a countertop.
 The image captures a well-lit, modern kitchen with a clean and organized layout, featuring wooden cabinets, a white countertop, a stainless steel stove, and a refrigerator.
 The image shows a kitchen with a large island countertop, wooden cabinets, a stainless steel refrigerator, a sink, a stove, and a window.
 The image shows a well-lit kitchen with a clean countertop, white cabinets, a stove, a sink, a refrigerator, and a window above the sink.
+An image with two walls, a light, two windows, a refrigerator, a floor, a counter, a oven, a cabinet, two chairs, and a sink.
+An image with two walls, two windows, a counter, two chairs, a light, a cabinet, a refrigerator, a oven, a sink, and a floor.
+An image with a floor, two windows, a light, a refrigerator, two chairs, a oven, a cabinet, two walls, a sink, and a counter.
+An image with two windows, a sink, a cabinet, two chairs, a floor, a refrigerator, a light, a oven, two walls, and a counter.
+An image with two chairs, two windows, a counter, a cabinet, a oven, a light, a refrigerator, a sink, two walls, and a floor.

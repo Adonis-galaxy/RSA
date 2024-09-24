@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is placed under a white table in a room with a tiled floor.
 A blue chair is placed under a white table in a room with a tiled floor.
 The image shows a room with a table and a chair, with a staircase in the background.
+An image with a floor, a refrigerator, a chair, a wall, two dinings, a door, and a stairs.
+An image with a wall, a chair, a door, a refrigerator, two dinings, a floor, and a stairs.
+An image with a wall, a refrigerator, a chair, a door, a stairs, a floor, and two dinings.
+An image with a chair, a wall, two dinings, a door, a refrigerator, a floor, and a stairs.
+An image with a refrigerator, a door, a wall, a floor, two dinings, a stairs, and a chair.

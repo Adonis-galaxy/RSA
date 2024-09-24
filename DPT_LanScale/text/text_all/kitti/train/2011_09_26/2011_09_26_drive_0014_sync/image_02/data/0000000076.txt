@@ -8,3 +8,8 @@ The image shows a street with a car on it.
 The image captures a quiet, tree-lined street with a few cars, a pedestrian crossing, and a yellow sign indicating a school zone.
 The image shows a wide, tree-lined street with a few cars, a yellow sign on a pole, and a brick wall on the left side.
 The image shows a tree-lined street with a clear sky, a few cars, and a yellow sign with white text.
+An image with a wall, three cars, a bus, a road, a tree, a grass, a building, and a railroad.
+An image with a road, a bus, a railroad, three cars, a grass, a tree, a building, and a wall.
+An image with a road, a tree, a grass, a building, three cars, a bus, a railroad, and a wall.
+An image with a railroad, a wall, a building, a bus, three cars, a grass, a road, and a tree.
+An image with a railroad, three cars, a building, a road, a wall, a tree, a bus, and a grass.

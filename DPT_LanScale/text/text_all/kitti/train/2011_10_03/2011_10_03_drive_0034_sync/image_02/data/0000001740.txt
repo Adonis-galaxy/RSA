@@ -8,3 +8,8 @@ The image shows a street with a red and white sign on the right side.
 A quiet, tree-lined street with a clear path ahead, marked by a single signpost.
 The image shows a narrow, tree-lined street with a red and white yield sign on the right side.
 A narrow, tree-lined street with a curved bend, bordered by a low stone wall and a red and white yield sign.
+An image with a sky, a road, a fence, a tree, and a pavement.
+An image with a fence, a sky, a tree, a pavement, and a road.
+An image with a sky, a tree, a road, a pavement, and a fence.
+An image with a road, a sky, a fence, a tree, and a pavement.
+An image with a sky, a road, a fence, a pavement, and a tree.

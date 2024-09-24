@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and parked cars.
 The image captures a quiet residential street, lined with parked cars and trees, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and trees, with a single motorcycle parked on the side.
 The image depicts a narrow, tree-lined street with parked cars, a motorcycle, and a building on the left side.
+An image with two cars, a sky, a pavement, two walls, a house, a road, a tree, a door, and a grass.
+An image with two cars, a tree, a sky, a road, a house, a grass, two walls, a pavement, and a door.
+An image with a sky, a grass, a tree, two cars, two walls, a road, a pavement, a door, and a house.
+An image with a grass, a sky, a road, a tree, two cars, two walls, a door, a house, and a pavement.
+An image with a pavement, a grass, two walls, a tree, two cars, a road, a house, a sky, and a door.

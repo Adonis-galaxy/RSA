@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings with parked cars and a blu
 The image captures a quiet residential street, with a blue and white toilet situated in the foreground, parked next to a tree, and a row of parked cars lining the street, leading to apartment buildings in the background.
 The image shows a narrow street between two-story buildings, with a blue and white toilet on the left, a car parked in the middle, and a car parked on the right.
 The image shows a narrow street between two-story buildings, with parked cars, a blue and white toilet, and a tree on the left side.
+An image with a grass, five cars, a sky, a tree, a building, and a road.
+An image with a grass, a sky, five cars, a tree, a road, and a building.
+An image with a building, five cars, a grass, a tree, a sky, and a road.
+An image with a building, five cars, a sky, a grass, a road, and a tree.
+An image with five cars, a road, a tree, a building, a sky, and a grass.

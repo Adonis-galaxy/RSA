@@ -8,3 +8,8 @@ The image shows a street with parked cars and a building.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a building with a white facade and a black roof in the background.
 A narrow street with parked cars, lined by trees and buildings, leading to a white garage door.
 A narrow street with parked cars and a building on the right side.
+An image with a road, three cars, a tree, a sky, two walls, and a pavement.
+An image with three cars, two walls, a road, a pavement, a tree, and a sky.
+An image with a pavement, a sky, two walls, three cars, a road, and a tree.
+An image with two walls, a road, a sky, three cars, a pavement, and a tree.
+An image with a tree, three cars, two walls, a sky, a road, and a pavement.

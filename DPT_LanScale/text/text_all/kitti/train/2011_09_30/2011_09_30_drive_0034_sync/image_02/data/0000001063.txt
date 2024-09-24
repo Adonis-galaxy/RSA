@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a serene residential street, lined with quaint houses and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a car parked on the left side and a truck parked on the right side.
 A narrow, tree-lined street with houses on both sides, leading to a cul-de-sac.
+An image with a stairs, a fence, a tree, a house, a road, three cars, a truck, a sky, a bench, and a pavement.
+An image with a house, a stairs, a pavement, a bench, a truck, a tree, a road, three cars, a fence, and a sky.
+An image with a sky, a pavement, three cars, a tree, a bench, a fence, a road, a truck, a stairs, and a house.
+An image with a road, a tree, a fence, a stairs, three cars, a sky, a truck, a bench, a house, and a pavement.
+An image with a fence, a house, three cars, a sky, a bench, a tree, a truck, a pavement, a road, and a stairs.

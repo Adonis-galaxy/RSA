@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a cityscape with buildings and a street, displayed on a wooden stand.
 The image shows a model of a cityscape, with a focus on a large white building and a smaller red building, both situated on a gray base.
 The image shows a model of a cityscape with buildings and a street, displayed on a clear glass stand.
+An image with a floor, a train, and a table.
+An image with a table, a floor, and a train.
+An image with a train, a table, and a floor.
+An image with a train, a table, and a floor.
+An image with a floor, a table, and a train.

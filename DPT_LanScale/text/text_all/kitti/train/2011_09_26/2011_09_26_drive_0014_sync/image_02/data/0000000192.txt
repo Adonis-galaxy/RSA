@@ -8,3 +8,8 @@ The image shows a street scene with a car, a bicycle, and pedestrians.
 A quiet suburban street with a few cars and pedestrians, lined with trees and buildings, under a clear sky.
 The image shows a wide street with a few cars, a bicycle, and pedestrians, with trees lining the sides and a clear sky overhead.
 A tree-lined street with a mix of vehicles, pedestrians, and cyclists, leading to a parked car on the side of the road.
+An image with three cars, five people, a building, a road, a pavement, a bicycle, a tree, a grass, a sky, and two traffics.
+An image with five people, three cars, a road, a pavement, two traffics, a bicycle, a building, a grass, a sky, and a tree.
+An image with a pavement, five people, a road, two traffics, a sky, a tree, a building, a grass, three cars, and a bicycle.
+An image with a bicycle, five people, a building, two traffics, three cars, a grass, a pavement, a tree, a sky, and a road.
+An image with a bicycle, five people, a road, a grass, a tree, two traffics, three cars, a sky, a building, and a pavement.

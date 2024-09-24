@@ -8,3 +8,8 @@ A man sitting at a desk in a room with two windows.
 A man sits at a desk in a room with two windows, one of which is open, and a couch with a red pillow.
 A man is sitting at a desk in a room with two large windows, a couch, and a shelf.
 A man is sitting at a desk in a room with two windows, a couch, and a shelf.
+An image with a shelf, a window, a table, a curtain, two books, two chairs, a person, a tv, a wall, a floor, and a couch.
+An image with two books, a floor, two chairs, a table, a person, a tv, a shelf, a window, a wall, a curtain, and a couch.
+An image with a curtain, a tv, a wall, two books, a floor, a couch, a person, a window, two chairs, a shelf, and a table.
+An image with a wall, two books, a curtain, a shelf, a person, a floor, a table, a window, two chairs, a tv, and a couch.
+An image with two chairs, two books, a tv, a couch, a window, a wall, a table, a shelf, a person, a floor, and a curtain.

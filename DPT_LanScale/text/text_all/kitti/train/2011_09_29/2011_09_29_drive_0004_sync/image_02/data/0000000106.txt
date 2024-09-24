@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars driving on it.
 A busy highway with a mix of vehicles, surrounded by lush greenery and a clear sky.
 A long, tree-lined road with multiple cars driving in both directions.
 A long, tree-lined road with multiple lanes of traffic, including cars and trucks, moving in both directions.
+An image with a tree, six cars, a pavement, a grass, a road, and a sky.
+An image with a tree, a pavement, a grass, six cars, a sky, and a road.
+An image with six cars, a tree, a road, a sky, a grass, and a pavement.
+An image with six cars, a tree, a sky, a grass, a pavement, and a road.
+An image with six cars, a grass, a tree, a pavement, a road, and a sky.

@@ -8,3 +8,8 @@ The image shows a street scene with a silver car driving on the road.
 A silver car is driving on a street, passing a parked white car and a green trash can, with a blue sky overhead and trees lining the road.
 A silver car is driving down a street with a large white trash can on the sidewalk.
 A silver car is driving on a street with a sidewalk, a parked white car, a parking meter, and a tree-lined street.
+An image with eight cars, a grass, a fire, a pavement, a road, a tree, and a sky.
+An image with eight cars, a tree, a fire, a pavement, a grass, a road, and a sky.
+An image with eight cars, a road, a sky, a grass, a pavement, a tree, and a fire.
+An image with eight cars, a road, a grass, a tree, a pavement, a fire, and a sky.
+An image with eight cars, a pavement, a grass, a fire, a road, a sky, and a tree.

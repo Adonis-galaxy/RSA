@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A tree-lined street with a car parked on the side, a pedestrian crossing sign, and a parked car on the opposite side.
 The image shows a tree-lined street with a car parked on the side, a pedestrian crossing sign, and a sidewalk.
 The image depicts a tree-lined street with a car parked on the side, a pedestrian crossing sign, and a sidewalk.
+An image with a person, a tree, two cars, a sky, a grass, a pavement, and a road.
+An image with a person, a sky, a grass, a road, a pavement, a tree, and two cars.
+An image with a sky, a grass, two cars, a tree, a person, a pavement, and a road.
+An image with two cars, a person, a sky, a road, a tree, a pavement, and a grass.
+An image with two cars, a person, a pavement, a road, a grass, a tree, and a sky.

@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a sidewalk, a bicycle, a c
 A bustling street scene with a mix of urban life, including a food stand, parked cars, pedestrians, and a bicycle.
 A large white building with a green roof stands on a street corner, with a small white building and a green awning in front of it.
 A bustling city street with a mix of pedestrians, cyclists, parked cars, and vendors, all under a clear blue sky.
+An image with eight cars, two bicycles, a pavement, a traffic, four people, a building, a road, a umbrella, a roof, and a tree.
+An image with a umbrella, eight cars, two bicycles, four people, a road, a pavement, a tree, a traffic, a roof, and a building.
+An image with eight cars, a building, four people, a umbrella, two bicycles, a tree, a pavement, a traffic, a roof, and a road.
+An image with eight cars, four people, a tree, a road, two bicycles, a building, a traffic, a umbrella, a roof, and a pavement.
+An image with a traffic, a pavement, four people, eight cars, a umbrella, a tree, a building, two bicycles, a road, and a roof.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars.
 The image captures a quiet residential street scene with parked cars, a sidewalk, and buildings, under a bright sunny day.
 The image shows a street scene with three parked cars, two of which are larger and one smaller, in front of a row of houses.
 The image shows a row of parked cars on a residential street, with buildings on both sides, and a clear sky overhead.
+An image with four cars, a road, a house, a pavement, and a sky.
+An image with a pavement, four cars, a sky, a road, and a house.
+An image with four cars, a sky, a house, a pavement, and a road.
+An image with a pavement, a road, four cars, a house, and a sky.
+An image with a pavement, a house, a sky, four cars, and a road.

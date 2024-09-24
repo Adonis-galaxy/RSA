@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 The image captures a quiet residential street, with a yellow car parked on the side of the road, in front of a white house with a black gate, and a stone wall.
 The image shows a narrow street lined with houses, a yellow car parked on the side, and a large trash can on the sidewalk.
 A narrow street with a yellow car parked on the side, lined by brick walls and white houses with green trees.
+An image with a house, a pavement, a tree, a wall, a fence, a car, a sky, and a road.
+An image with a road, a wall, a fence, a sky, a pavement, a house, a tree, and a car.
+An image with a wall, a road, a sky, a car, a tree, a fence, a house, and a pavement.
+An image with a tree, a sky, a pavement, a car, a house, a fence, a wall, and a road.
+An image with a sky, a wall, a tree, a road, a fence, a car, a pavement, and a house.

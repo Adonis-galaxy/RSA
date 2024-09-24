@@ -8,3 +8,8 @@ The image shows a room with two beds.
 The image shows a room with two beds, each with a polka dot comforter, and a window with blinds.
 The image shows a small room with two twin beds, each covered with a patterned blanket, and a window with blinds.
 The image shows a room with two beds, each covered with a polka dot blanket, placed side by side against a wall with a window.
+An image with a floor, a wall, two beds, and a window.
+An image with two beds, a window, a wall, and a floor.
+An image with a floor, two beds, a wall, and a window.
+An image with a floor, a window, two beds, and a wall.
+An image with a window, two beds, a wall, and a floor.

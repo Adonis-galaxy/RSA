@@ -8,3 +8,8 @@ A blurry image of a kitchen with a blue counter and a white refrigerator.
 The image shows a blurry view of a kitchen with a refrigerator, a counter, and a shower stall.
 The image shows a blurry view of a kitchen with a blue counter, a white refrigerator, and a glass shower door.
 The image shows a blurry view of a kitchen with a blue countertop, a white refrigerator, and a white shower stall.
+An image with a wall, a refrigerator, a light, a cabinet, and a floor.
+An image with a cabinet, a light, a wall, a refrigerator, and a floor.
+An image with a light, a floor, a wall, a cabinet, and a refrigerator.
+An image with a wall, a refrigerator, a light, a cabinet, and a floor.
+An image with a floor, a cabinet, a refrigerator, a wall, and a light.

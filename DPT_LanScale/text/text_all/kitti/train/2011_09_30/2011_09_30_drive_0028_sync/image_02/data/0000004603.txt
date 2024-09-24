@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 A narrow, tree-lined street with parked cars on both sides, leading to a white building.
 A narrow street lined with parked cars, trees, and buildings.
 A narrow, tree-lined street with parked cars on both sides, leading to a white building.
+An image with a building, eight cars, a pavement, a sky, a tree, a road, and a wall.
+An image with eight cars, a sky, a building, a pavement, a tree, a wall, and a road.
+An image with eight cars, a building, a tree, a road, a sky, a wall, and a pavement.
+An image with eight cars, a pavement, a wall, a road, a sky, a building, and a tree.
+An image with eight cars, a building, a wall, a tree, a pavement, a sky, and a road.

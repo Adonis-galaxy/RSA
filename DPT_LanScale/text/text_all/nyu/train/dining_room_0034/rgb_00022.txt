@@ -8,3 +8,8 @@ A room with a dining table and chairs.
 The image captures a well-lit, modern dining room with a large glass table surrounded by black chairs, a window that lets in natural light, and a decorative arrangement of vases and a clock on the wall.
 The image shows a spacious room with a large dining table surrounded by multiple chairs, a vase with flowers on the table, a window with a view of the street, and a clock on the wall.
 The image shows a well-lit, modern dining room with a large glass table surrounded by black chairs, a window with a view of a garden, and a decorative wall clock.
+An image with nine chairs, a potted, a wall, a floor, a cabinet, a ceiling, a window, a dining, and a vase.
+An image with a ceiling, nine chairs, a window, a floor, a cabinet, a potted, a wall, a dining, and a vase.
+An image with a potted, nine chairs, a floor, a cabinet, a window, a dining, a wall, a vase, and a ceiling.
+An image with a dining, nine chairs, a floor, a ceiling, a wall, a cabinet, a window, a vase, and a potted.
+An image with a vase, nine chairs, a potted, a floor, a cabinet, a dining, a window, a wall, and a ceiling.

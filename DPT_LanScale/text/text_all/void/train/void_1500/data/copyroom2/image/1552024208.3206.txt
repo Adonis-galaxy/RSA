@@ -8,3 +8,8 @@ A white printer on a green desk.
 The image shows a white printer on a green desk, with a stack of papers and a white machine in the background.
 The image shows a white printer on a green desk, with a yellow paper sticking out of it.
 The image shows a green office desk with a white printer and a white fax machine on it.
+An image with a wall, a oven, a table, a light, and a paper.
+An image with a table, a wall, a light, a paper, and a oven.
+An image with a table, a oven, a wall, a paper, and a light.
+An image with a oven, a light, a paper, a wall, and a table.
+An image with a light, a wall, a paper, a oven, and a table.

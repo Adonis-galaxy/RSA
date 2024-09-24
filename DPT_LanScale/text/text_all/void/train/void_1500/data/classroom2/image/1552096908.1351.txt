@@ -8,3 +8,8 @@ The image shows a row of desks and chairs in a classroom setting.
 The image shows a row of desks and chairs in a classroom setting.
 The image shows a row of desks and chairs in a classroom setting, with the desks and chairs being of a standard size.
 The image shows a row of desks with chairs in a classroom setting.
+An image with two walls, eight chairs, a floor, and a table.
+An image with eight chairs, a floor, two walls, and a table.
+An image with two walls, eight chairs, a table, and a floor.
+An image with eight chairs, two walls, a floor, and a table.
+An image with a table, eight chairs, a floor, and two walls.

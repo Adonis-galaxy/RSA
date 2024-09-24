@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white truck parked on the side.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 A narrow, tree-lined street with a few parked cars and a truck, leading to a row of houses.
 A tree-lined street with parked cars and a white truck, leading to a row of houses.
+An image with a grass, a house, a tree, a pavement, a truck, three cars, a sky, and a road.
+An image with three cars, a road, a sky, a grass, a tree, a house, a truck, and a pavement.
+An image with three cars, a road, a house, a truck, a tree, a pavement, a grass, and a sky.
+An image with a sky, three cars, a tree, a truck, a house, a road, a pavement, and a grass.
+An image with a pavement, a road, a grass, a truck, three cars, a house, a sky, and a tree.

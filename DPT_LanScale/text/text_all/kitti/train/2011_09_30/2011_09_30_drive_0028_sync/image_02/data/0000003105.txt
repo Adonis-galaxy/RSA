@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A sunlit, tree-lined street in a residential area, with neatly trimmed hedges and a variety of vehicles parked along the curb.
 The image shows a narrow, tree-lined street between two-story buildings, with parked cars on the right side and a few potted plants on the left.
 A narrow, tree-lined street between two-story buildings, with parked cars and a sidewalk.
+An image with a road, three cars, a tree, a sky, a grass, a house, and a pavement.
+An image with three cars, a pavement, a tree, a sky, a house, a grass, and a road.
+An image with a sky, a grass, three cars, a pavement, a tree, a road, and a house.
+An image with a pavement, a house, a tree, three cars, a grass, a sky, and a road.
+An image with three cars, a pavement, a tree, a road, a grass, a sky, and a house.

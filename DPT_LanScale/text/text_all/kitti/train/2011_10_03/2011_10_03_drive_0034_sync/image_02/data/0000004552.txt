@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a hint of urban life.
 The image shows a narrow, tree-lined street with a car parked on the side, a truck parked further down the road, and a white building with a green roof on the right side. The street is shaded by the trees, and the sky is visible in the background.
 A narrow, tree-lined street with a parked car and a white building on the left side, leading to a dead-end with a fence on the right.
+An image with a grass, a tree, a car, a wall, a road, and a sky.
+An image with a grass, a road, a sky, a tree, a car, and a wall.
+An image with a sky, a grass, a tree, a car, a wall, and a road.
+An image with a road, a sky, a tree, a wall, a car, and a grass.
+An image with a car, a road, a sky, a grass, a wall, and a tree.

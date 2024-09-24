@@ -8,3 +8,8 @@ The image shows a brick-paved area with a tree stump and a concrete curb.
 The image shows a brick-paved area with a tree stump and a concrete curb.
 The image shows a brick-paved area with a tree stump and a small patch of grass.
 The image shows a brick-paved area with a tree stump and a sandy area with grass and plants.
+An image with two walls, a dirt, a pavement, and a tree.
+An image with a dirt, a tree, two walls, and a pavement.
+An image with two walls, a dirt, a tree, and a pavement.
+An image with a tree, a pavement, two walls, and a dirt.
+An image with a dirt, two walls, a tree, and a pavement.

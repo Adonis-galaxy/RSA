@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a red and blue sign 
 The image captures a quaint, narrow street in a European town, with a red and blue sign indicating a pedestrian crossing, a brick wall, a white house with a red roof, a car parked on the side, and a lush garden with pink flowers.
 The image shows a narrow alleyway between two buildings, with a street sign on the left side, a brick wall on the right, and a car parked on the right side.
 The image captures a narrow, tree-lined street in a residential area, with a blue and red sign indicating a no-entry zone, a white building with a red roof, and a car parked on the right side.
+An image with a sky, a stop, a flower, three cars, a fence, a pavement, a wall, a house, and a tree.
+An image with a fence, a pavement, a flower, a tree, a stop, three cars, a house, a sky, and a wall.
+An image with a tree, a flower, a stop, a pavement, a sky, three cars, a house, a fence, and a wall.
+An image with a stop, three cars, a wall, a flower, a house, a pavement, a sky, a fence, and a tree.
+An image with three cars, a tree, a sky, a wall, a house, a pavement, a stop, a flower, and a fence.

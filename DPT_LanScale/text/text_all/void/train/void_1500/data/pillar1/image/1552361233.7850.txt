@@ -8,3 +8,8 @@ A roll of paper and a checkerboard on the floor.
 A roll of paper leaning against a checkered box.
 A roll of paper, a checkered box, and a white cylinder are leaning against a wall.
 A roll of paper and a checkered box are leaning against a white column in a room with a glass door.
+An image with a wall, a cardboard, a door, and a paper.
+An image with a cardboard, a paper, a door, and a wall.
+An image with a wall, a door, a cardboard, and a paper.
+An image with a wall, a door, a paper, and a cardboard.
+An image with a cardboard, a paper, a door, and a wall.

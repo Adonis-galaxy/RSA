@@ -8,3 +8,8 @@ The image shows a tree-lined street with a row of white buildings.
 A quiet residential street with a row of houses, lined with trees and parked cars, leading to a building with a covered entrance.
 The image shows a long, narrow street lined with trees and parked cars, leading to a row of white buildings with balconies.
 A tree-lined street with parked cars, leading to a row of buildings, under a clear blue sky.
+An image with ten cars, a grass, a road, a house, a sky, a tree, a roof, and a bicycle.
+An image with a house, a road, ten cars, a sky, a roof, a bicycle, a grass, and a tree.
+An image with a bicycle, ten cars, a house, a road, a sky, a tree, a roof, and a grass.
+An image with ten cars, a house, a grass, a tree, a roof, a road, a sky, and a bicycle.
+An image with a road, ten cars, a bicycle, a house, a tree, a grass, a sky, and a roof.

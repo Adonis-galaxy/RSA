@@ -8,3 +8,8 @@ The image shows a living room with a couch, a window, and a black appliance.
 The image shows an empty room with a couch, a window with blinds, and a small appliance on the floor.
 The image shows a room with a large window, a black couch, a small black appliance, and a white wall.
 The image shows a living room with a couch, a window with blinds, and a small appliance in the corner.
+An image with a sink, a couch, a cabinet, a wall, a rug, and a window.
+An image with a sink, a cabinet, a window, a rug, a wall, and a couch.
+An image with a cabinet, a sink, a window, a wall, a couch, and a rug.
+An image with a rug, a couch, a sink, a window, a wall, and a cabinet.
+An image with a sink, a cabinet, a couch, a window, a rug, and a wall.

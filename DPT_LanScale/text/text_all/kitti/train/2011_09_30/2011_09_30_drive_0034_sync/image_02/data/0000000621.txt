@@ -8,3 +8,8 @@ The image shows a street with houses on the side.
 The image captures a quiet residential street, with a clear view of a row of houses, a parked car, and a pedestrian crossing marked by white lines on the asphalt.
 The image shows a narrow street lined with houses, a car parked on the side, and a traffic light. The houses are small and white, and the street is marked with white lines.
 The image depicts a quiet residential street with a mix of houses and trees, a clear sky, and a sunny day.
+An image with a sky, a wall, a road, a window, a traffic, a fence, a house, a pavement, and a tree.
+An image with a road, a fence, a traffic, a house, a window, a tree, a wall, a pavement, and a sky.
+An image with a wall, a fence, a pavement, a window, a road, a house, a traffic, a tree, and a sky.
+An image with a fence, a road, a sky, a tree, a traffic, a house, a pavement, a window, and a wall.
+An image with a road, a sky, a wall, a pavement, a window, a tree, a house, a fence, and a traffic.

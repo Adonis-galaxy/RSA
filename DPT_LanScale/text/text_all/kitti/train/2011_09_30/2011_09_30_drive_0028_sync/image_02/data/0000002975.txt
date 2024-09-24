@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street with parked cars, a pedestrian, and a clear sky, leading to a white building with a blue sign.
 The image shows a narrow street with parked cars on both sides, a pedestrian crossing, and a white building with a blue sign.
 The image captures a narrow street in a European town, with parked cars on both sides, a pedestrian crossing, and a building with a distinctive archway.
+An image with ten cars, two people, a building, a road, a grass, a roof, a tree, and a pavement.
+An image with ten cars, two people, a grass, a road, a roof, a pavement, a building, and a tree.
+An image with ten cars, a roof, two people, a grass, a road, a building, a tree, and a pavement.
+An image with a tree, two people, a grass, ten cars, a pavement, a building, a roof, and a road.
+An image with two people, a grass, a building, a roof, ten cars, a pavement, a tree, and a road.

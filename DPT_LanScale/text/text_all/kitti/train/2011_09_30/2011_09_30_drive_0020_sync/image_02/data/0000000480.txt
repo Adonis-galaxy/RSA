@@ -8,3 +8,8 @@ The image shows a street with a number 30 painted on it.
 The image captures a quiet residential street, with a clear view of the numbered road, parked cars, and a building under construction, all under a clear blue sky.
 The image shows a wide street with a number 30 painted on it, lined with parked cars and buildings on both sides, with a clear blue sky overhead.
 The image depicts a street scene with a numbered road, parked cars, a building under construction, and a Volkswagen sign.
+An image with a tree, seven cars, three trucks, a grass, a pavement, a building, a fence, and a road.
+An image with a grass, a tree, a pavement, a road, three trucks, a building, a fence, and seven cars.
+An image with a grass, a road, seven cars, three trucks, a tree, a building, a pavement, and a fence.
+An image with a road, three trucks, seven cars, a tree, a pavement, a fence, a building, and a grass.
+An image with seven cars, a tree, three trucks, a road, a building, a grass, a fence, and a pavement.

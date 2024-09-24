@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a mix of parked and moving vehicles, lined by trees and buildings, under a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a few vehicles on the road and a fence on the right side.
 A narrow, tree-lined street with parked cars, apartment buildings, and a fence on the right side.
+An image with four cars, a house, a fence, a wall, a pavement, a road, and a tree.
+An image with a road, four cars, a tree, a pavement, a house, a wall, and a fence.
+An image with a wall, four cars, a fence, a tree, a house, a road, and a pavement.
+An image with a house, a pavement, four cars, a fence, a tree, a road, and a wall.
+An image with a house, four cars, a tree, a pavement, a wall, a fence, and a road.

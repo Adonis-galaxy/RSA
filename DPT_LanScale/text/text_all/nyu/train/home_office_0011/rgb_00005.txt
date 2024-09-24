@@ -8,3 +8,8 @@ The image is a photograph of a room with a doorway leading to another room.
 The image captures a dimly lit room with a doorway leading to a hallway, featuring a chair with a blanket, a desk with papers, and a framed certificate on the wall.
 The image shows a dimly lit room with a large, dark-colored chair in the foreground, a doorway leading to a brightly lit hallway, and framed certificates hanging on the wall.
 The image shows a dimly lit room with a doorway leading to a hallway, a desk with a computer monitor and a chair, and a wall with framed certificates.
+An image with a wall, a floor, a laptop, a table, a couch, a door, and a rug.
+An image with a floor, a couch, a rug, a laptop, a door, a table, and a wall.
+An image with a rug, a door, a table, a floor, a wall, a laptop, and a couch.
+An image with a floor, a laptop, a rug, a couch, a wall, a table, and a door.
+An image with a couch, a laptop, a wall, a rug, a door, a floor, and a table.

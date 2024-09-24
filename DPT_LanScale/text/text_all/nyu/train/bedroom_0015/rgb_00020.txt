@@ -8,3 +8,8 @@ A window with a white curtain.
 The image captures a cluttered room with a focus on a window with a partially drawn curtain, a dresser with various items on it, and a small, dark-colored speaker on the window sill.
 The image shows a small, cluttered room with a window covered by a white curtain, a wooden dresser, and various items scattered on the dresser.
 The image shows a room with a window covered by a white curtain, a wooden dresser with various items on top, and a white radiator.
+An image with a wall, a curtain, a cabinet, two books, a clock, and a bottle.
+An image with a clock, a cabinet, a curtain, two books, a wall, and a bottle.
+An image with a wall, a cabinet, a clock, two books, a bottle, and a curtain.
+An image with a clock, a wall, two books, a curtain, a bottle, and a cabinet.
+An image with a cabinet, two books, a wall, a bottle, a curtain, and a clock.

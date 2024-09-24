@@ -8,3 +8,8 @@ A blue trash can next to a black bag.
 A blue trash can sits next to a black bag on the floor.
 A blue trash can is next to a black bag with a red stripe, both are on the floor in front of a whiteboard.
 A blue trash can is placed next to a black bag and a whiteboard in an office setting.
+An image with a cabinet, a wall, a suitcase, a rug, a cardboard, a curtain, and a refrigerator.
+An image with a suitcase, a cardboard, a rug, a wall, a curtain, a refrigerator, and a cabinet.
+An image with a cabinet, a wall, a refrigerator, a suitcase, a cardboard, a rug, and a curtain.
+An image with a curtain, a suitcase, a rug, a cardboard, a cabinet, a wall, and a refrigerator.
+An image with a wall, a refrigerator, a rug, a curtain, a cabinet, a cardboard, and a suitcase.

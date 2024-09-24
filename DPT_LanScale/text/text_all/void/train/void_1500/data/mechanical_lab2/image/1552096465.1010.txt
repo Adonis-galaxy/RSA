@@ -8,3 +8,8 @@ A blue chair in front of a desk.
 A blue chair sits in front of a pink cabinet in a lab setting.
 A blue chair is sitting in front of a pink cabinet in a room with a white counter.
 The image shows a computer lab with a desk, a chair, and a computer monitor.
+An image with a wall, a chair, a table, a counter, two tvs, a keyboard, two books, a floor, and a door.
+An image with two tvs, a floor, two books, a chair, a door, a table, a counter, a wall, and a keyboard.
+An image with a wall, a chair, two tvs, two books, a door, a keyboard, a table, a counter, and a floor.
+An image with two tvs, two books, a floor, a chair, a wall, a counter, a keyboard, a table, and a door.
+An image with a wall, a keyboard, two tvs, a counter, a door, a floor, two books, a table, and a chair.

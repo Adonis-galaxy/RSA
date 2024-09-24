@@ -8,3 +8,8 @@ The image shows a street with a number 30 painted on it.
 The image captures a quiet residential street with a clear sky, lined with parked cars and apartment buildings, leading to a Volkswagen service center.
 The image shows a wide street with a large number 30 painted on it, lined with parked cars and buildings, and a Volkswagen sign in the background.
 The image depicts a street scene with a numbered road, parked cars, a sidewalk, a building, and a Volkswagen sign.
+An image with eight cars, a road, a sky, a grass, a wall, a tree, a truck, and a building.
+An image with a building, eight cars, a sky, a wall, a tree, a truck, a grass, and a road.
+An image with eight cars, a sky, a grass, a road, a wall, a tree, a building, and a truck.
+An image with eight cars, a sky, a building, a truck, a grass, a road, a tree, and a wall.
+An image with eight cars, a truck, a road, a sky, a grass, a building, a tree, and a wall.

@@ -8,3 +8,8 @@ The image shows a street with a curve, trees on the sides, and a road sign.
 The image captures a serene, tree-lined road with a clear sky overhead, where a car is seen approaching a bend in the road, with a traffic sign and a street lamp visible on the side of the road.
 The image shows a winding road with a few cars, surrounded by trees and a clear sky.
 The image depicts a winding road with a curved sidewalk, lined by trees and streetlights, leading to a roundabout with a traffic sign.
+An image with a stop, a car, a pavement, a dirt, a tree, and a road.
+An image with a pavement, a road, a tree, a car, a dirt, and a stop.
+An image with a pavement, a stop, a road, a tree, a car, and a dirt.
+An image with a road, a stop, a car, a tree, a dirt, and a pavement.
+An image with a car, a tree, a stop, a road, a dirt, and a pavement.

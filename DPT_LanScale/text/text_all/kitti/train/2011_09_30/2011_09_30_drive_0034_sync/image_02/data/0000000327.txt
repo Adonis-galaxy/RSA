@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and cars.
 A quiet residential street, with a mix of parked cars and a delivery van, leading to a house with a garage door closed.
 The image shows a narrow, tree-lined street with parked cars, a truck, and a house with a garage door.
 A narrow, tree-lined street with parked cars, a brick sidewalk, and a white house with a garage door.
+An image with two cars, a door, a roof, a truck, a fence, a tree, a sky, a house, and a pavement.
+An image with a truck, two cars, a tree, a roof, a sky, a door, a pavement, a fence, and a house.
+An image with two cars, a roof, a tree, a house, a sky, a pavement, a truck, a fence, and a door.
+An image with a door, a house, a sky, two cars, a tree, a pavement, a fence, a truck, and a roof.
+An image with a roof, a house, a tree, a truck, a pavement, a fence, a sky, two cars, and a door.

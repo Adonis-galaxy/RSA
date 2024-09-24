@@ -8,3 +8,8 @@ A black chair in a living room.
 The image shows a room with a dark wooden floor, a black leather sofa, a black ottoman, and a blue wall. The ottoman is positioned in front of the sofa, and there is a white wall outlet next to the ottoman.
 The image shows a small, dark-colored ottoman in a room with a blue wall, a white wall, a window, and a black leather couch.
 The image shows a room with a dark blue wall, a wooden floor, a black leather couch, a black ottoman, a white wall outlet, and a window with curtains.
+An image with a chair, a window, a couch, a curtain, a floor, and a wall.
+An image with a window, a wall, a curtain, a floor, a chair, and a couch.
+An image with a window, a couch, a floor, a curtain, a chair, and a wall.
+An image with a wall, a curtain, a couch, a floor, a chair, and a window.
+An image with a floor, a chair, a wall, a window, a curtain, and a couch.

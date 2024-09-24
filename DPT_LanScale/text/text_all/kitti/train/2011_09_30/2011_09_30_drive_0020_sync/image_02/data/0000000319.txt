@@ -8,3 +8,8 @@ The image shows a street with parked cars and houses.
 The image captures a quiet residential street with parked cars, a few pedestrians, and a mix of architectural styles, reflecting a diverse neighborhood.
 The image shows a residential street with parked cars, a building with a garage, and a clear sky.
 The image shows a residential street with parked cars, a sidewalk, and houses with garages.
+An image with a grass, six cars, a road, a tree, a pavement, a roof, a fire, a sky, a door, and a truck.
+An image with six cars, a pavement, a grass, a fire, a roof, a tree, a sky, a door, a truck, and a road.
+An image with a truck, a roof, a pavement, six cars, a door, a tree, a sky, a fire, a grass, and a road.
+An image with a roof, six cars, a pavement, a door, a fire, a sky, a truck, a tree, a road, and a grass.
+An image with a pavement, a fire, six cars, a road, a truck, a sky, a door, a grass, a tree, and a roof.

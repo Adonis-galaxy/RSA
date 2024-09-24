@@ -8,3 +8,8 @@ The image shows a white car on a street with other cars and trees.
 A white car with a red logo is driving down a tree-lined street, passing other vehicles, with a clear sky overhead.
 A white car is driving down a narrow street between parked cars and a row of trees.
 A white car with red lettering is driving down a tree-lined street, passing other vehicles, with a clear sky overhead.
+An image with seven cars, a bus, a road, a grass, a sky, and a tree.
+An image with seven cars, a road, a sky, a grass, a tree, and a bus.
+An image with a road, seven cars, a grass, a sky, a bus, and a tree.
+An image with a tree, seven cars, a bus, a sky, a grass, and a road.
+An image with seven cars, a tree, a road, a grass, a sky, and a bus.

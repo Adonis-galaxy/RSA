@@ -8,3 +8,8 @@ A concrete curb with a red brick pattern.
 The image shows a garden area with a concrete border, a tree, and a pathway.
 The image shows a concrete curb with a red brick pattern, a tree trunk, and a garden area with various plants and a wooden sign.
 The image shows a garden area with a concrete border, a tree, and a pathway.
+An image with a tree, a stairs, two walls, a fence, and a dirt.
+An image with two walls, a tree, a stairs, a fence, and a dirt.
+An image with two walls, a stairs, a tree, a dirt, and a fence.
+An image with two walls, a fence, a dirt, a stairs, and a tree.
+An image with two walls, a dirt, a fence, a stairs, and a tree.

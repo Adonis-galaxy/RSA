@@ -8,3 +8,8 @@ The image shows a street scene with a car, a trash can, and a parking meter.
 The image captures a moment on a street corner where a silver car is passing by a white trash can, which is situated next to a tree and a building.
 The image shows a street scene with a car, a trash can, and a parking meter. The trash can is large, the parking meter is medium-sized, and the car is small.
 The image depicts a street scene with a car driving on the road, a car parked on the side, a pedestrian crossing, a parking meter, and a tree-lined sidewalk.
+An image with seven cars, a road, a grass, a pavement, a sky, a tree, a fire, and a refrigerator.
+An image with a road, a refrigerator, seven cars, a sky, a tree, a pavement, a fire, and a grass.
+An image with a tree, a refrigerator, seven cars, a sky, a road, a pavement, a fire, and a grass.
+An image with a grass, seven cars, a tree, a road, a fire, a refrigerator, a pavement, and a sky.
+An image with a tree, a pavement, seven cars, a grass, a fire, a road, a refrigerator, and a sky.

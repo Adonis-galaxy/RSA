@@ -8,3 +8,8 @@ A coffee mug on a table.
 A coffee mug sits on a table next to a coffee pot and a box of cereal.
 A coffee mug sits on a wooden table next to a coffee pot and a box of cereal.
 A coffee mug sits on a wooden table next to a French press and a box of Annie's Cheddar Bunnies.
+An image with a dining, a wall, a floor, a paper, a cup, a cabinet, and a cardboard.
+An image with a dining, a floor, a wall, a cup, a cabinet, a paper, and a cardboard.
+An image with a cardboard, a floor, a wall, a dining, a cup, a paper, and a cabinet.
+An image with a wall, a dining, a floor, a cardboard, a cabinet, a paper, and a cup.
+An image with a cabinet, a cardboard, a paper, a cup, a wall, a dining, and a floor.

@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a serene suburban street scene, with a row of parked cars on the right side, a lush green lawn on the left, and a clear blue sky overhead.
 The image shows a street with a few cars parked on the side, a sign indicating a one-way street, and a clear sky.
 The image shows a street with a row of parked cars, a signpost, and a clear sky.
+An image with a road, three cars, a tree, and a bicycle.
+An image with a tree, a bicycle, three cars, and a road.
+An image with a road, three cars, a tree, and a bicycle.
+An image with three cars, a road, a tree, and a bicycle.
+An image with three cars, a bicycle, a road, and a tree.

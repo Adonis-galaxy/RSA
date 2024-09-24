@@ -8,3 +8,8 @@ The image shows a row of black chairs with wooden armrests.
 The image shows a row of black chairs with wooden armrests, arranged in a classroom setting with a shiny floor.
 The image shows a row of black chairs with wooden armrests and backs, arranged in a classroom setting on a tiled floor.
 The image shows a row of black chairs with wooden armrests and backs, arranged in a classroom setting with desks in front of them, on a tiled floor.
+An image with a floor, sixteen chairs, two dinings, a wall, and a bench.
+An image with sixteen chairs, two dinings, a bench, a wall, and a floor.
+An image with sixteen chairs, two dinings, a bench, a floor, and a wall.
+An image with sixteen chairs, a floor, a wall, two dinings, and a bench.
+An image with two dinings, sixteen chairs, a bench, a floor, and a wall.

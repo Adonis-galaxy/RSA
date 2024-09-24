@@ -8,3 +8,8 @@ A row of mailboxes on a counter.
 A row of empty mailboxes on a counter, with a printer and a blue handle on the right.
 A row of empty mailboxes on a counter, with a white printer and a blue handle on the right.
 The image shows a row of beige mailboxes with labels on the front, and a white printer is placed on top of the counter.
+An image with a counter, a door, a wall, a cabinet, a shelf, and a floor.
+An image with a counter, a door, a cabinet, a shelf, a wall, and a floor.
+An image with a wall, a counter, a door, a cabinet, a floor, and a shelf.
+An image with a door, a wall, a floor, a counter, a shelf, and a cabinet.
+An image with a wall, a shelf, a cabinet, a floor, a door, and a counter.

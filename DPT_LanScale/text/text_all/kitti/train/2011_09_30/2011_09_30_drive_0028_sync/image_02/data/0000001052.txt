@@ -8,3 +8,8 @@ A car driving down a tree-lined street.
 A narrow, tree-lined road with a single car driving away, flanked by a white wall and a fence.
 A car is driving down a tree-lined street, with a truck visible in the distance.
 A tree-lined road with a car driving down it, flanked by a sidewalk and a fence.
+An image with a wall, a tree, six cars, a road, a grass, a sky, and a pavement.
+An image with six cars, a pavement, a tree, a sky, a wall, a road, and a grass.
+An image with six cars, a pavement, a road, a sky, a wall, a tree, and a grass.
+An image with a grass, a wall, a tree, six cars, a pavement, a road, and a sky.
+An image with six cars, a road, a wall, a pavement, a sky, a grass, and a tree.

@@ -8,3 +8,8 @@ The image shows a street with a car and a motorcycle parked on the side.
 A quiet, tree-lined street with a few parked cars and a motorcycle, under a clear blue sky.
 A narrow road with a few cars, surrounded by tall trees and a stone wall.
 A narrow, tree-lined street with parked cars and a sidewalk, leading to a white building with a red roof.
+An image with three cars, a pavement, a sky, a road, a wall, and a tree.
+An image with three cars, a sky, a tree, a pavement, a wall, and a road.
+An image with a sky, a tree, a wall, three cars, a pavement, and a road.
+An image with a sky, three cars, a wall, a pavement, a tree, and a road.
+An image with a tree, a road, a sky, three cars, a wall, and a pavement.

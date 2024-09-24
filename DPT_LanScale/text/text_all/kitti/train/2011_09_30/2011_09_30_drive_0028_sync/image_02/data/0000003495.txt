@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white building.
 A narrow street between two white walls, with a white van parked on the right side and a red and white striped barrier on the left.
 A narrow street with parked cars, a white wall, a red and white striped barrier, and a large white building.
 A narrow street with parked cars and a white building on the left, leading to a white wall on the right, with a red and white striped barrier and a yellow traffic light.
+An image with a pavement, a building, two trucks, a road, a house, a wall, a traffic, a sky, and a tree.
+An image with a pavement, a wall, a road, a sky, a building, a house, a tree, two trucks, and a traffic.
+An image with a house, two trucks, a road, a wall, a traffic, a sky, a building, a tree, and a pavement.
+An image with two trucks, a pavement, a traffic, a house, a wall, a tree, a sky, a building, and a road.
+An image with a sky, a building, a traffic, a road, a house, a wall, a tree, two trucks, and a pavement.

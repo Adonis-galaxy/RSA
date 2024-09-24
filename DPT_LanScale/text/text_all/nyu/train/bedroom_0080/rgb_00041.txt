@@ -8,3 +8,8 @@ A large painting leaning against a wall.
 The image captures a room with a large painting leaning against a wall, a mirror reflecting the painting, and a box with papers on a table.
 A large painting leaning against a wall, reflected in a mirror, with a box and a bed in the background.
 The image shows a room with a large painting leaning against a wall, a mirror reflecting the painting, and a wooden box with papers on a table.
+An image with a person, a table, a book, a bed, a wall, a cabinet, a paper, and a cardboard.
+An image with a person, a cabinet, a paper, a table, a cardboard, a wall, a bed, and a book.
+An image with a table, a wall, a person, a cardboard, a cabinet, a paper, a bed, and a book.
+An image with a bed, a wall, a cardboard, a table, a paper, a book, a person, and a cabinet.
+An image with a book, a table, a paper, a cardboard, a bed, a wall, a cabinet, and a person.

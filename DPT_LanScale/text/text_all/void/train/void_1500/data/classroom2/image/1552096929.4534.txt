@@ -8,3 +8,8 @@ The image shows a black chair with a wooden armrest.
 The image shows a black chair with a wooden armrest, positioned in front of a closed wooden door, with a gray trash can to the left.
 The image shows a black chair with a wooden armrest, taken from a low angle, in a room with a wooden door and a gray carpet.
 The image shows a black chair with a wooden armrest, positioned in front of a closed wooden door, with a gray carpeted floor and a gray trash can in the corner.
+An image with a wall, a rug, a chair, a floor, and a door.
+An image with a rug, a wall, a door, a floor, and a chair.
+An image with a rug, a chair, a wall, a floor, and a door.
+An image with a chair, a wall, a door, a floor, and a rug.
+An image with a door, a rug, a chair, a floor, and a wall.

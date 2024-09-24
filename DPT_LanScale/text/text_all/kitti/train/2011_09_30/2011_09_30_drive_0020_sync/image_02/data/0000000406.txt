@@ -8,3 +8,8 @@ A white truck on a street.
 A white truck with a blue logo driving down a tree-lined street, passing by a row of houses and a parked car.
 A large white truck is driving down a narrow street between houses, with trees and a sidewalk on either side.
 A white truck with a blue logo is parked on the side of a street, adjacent to a sidewalk and a grassy area, with a building and trees in the background.
+An image with three cars, a truck, a person, a road, a building, a house, a grass, a sky, a tree, and a pavement.
+An image with a road, three cars, a tree, a house, a sky, a truck, a grass, a pavement, a person, and a building.
+An image with a house, a tree, three cars, a building, a person, a road, a pavement, a truck, a sky, and a grass.
+An image with a sky, three cars, a building, a road, a truck, a house, a pavement, a person, a grass, and a tree.
+An image with a pavement, three cars, a house, a tree, a building, a person, a grass, a truck, a sky, and a road.

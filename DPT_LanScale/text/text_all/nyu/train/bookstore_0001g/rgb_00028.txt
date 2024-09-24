@@ -8,3 +8,8 @@ The image shows a bookstore with a variety of books on shelves.
 The image captures a well-organized bookstore with a variety of books on shelves, a counter with a cash register, and a sign indicating the location of the course book lists.
 The image shows a bookstore with a large bookshelf filled with books, a counter with a cash register, and a sign indicating the location of the course book lists.
 The image shows an interior view of a bookstore with a variety of books on shelves, a counter with a cash register, and a sign indicating the location of the course book lists.
+An image with a wall, seven books, a table, a floor, a ceiling, a cabinet, a shelf, and a paper.
+An image with a paper, a cabinet, a table, a floor, seven books, a wall, a shelf, and a ceiling.
+An image with a shelf, a cabinet, a floor, seven books, a ceiling, a wall, a paper, and a table.
+An image with a paper, seven books, a floor, a shelf, a cabinet, a wall, a ceiling, and a table.
+An image with a table, a wall, seven books, a paper, a ceiling, a cabinet, a shelf, and a floor.

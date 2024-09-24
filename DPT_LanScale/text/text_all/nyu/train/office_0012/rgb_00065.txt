@@ -8,3 +8,8 @@ A whiteboard with red writing on it.
 The image captures a classroom setting with a whiteboard displaying a diagram and notes, a projector screen, a desk with chairs, and a window with blinds.
 The image shows a classroom with a whiteboard containing a diagram, a projector screen, a desk with chairs, and a window with blinds.
 The image shows a classroom with a whiteboard displaying mathematical equations and diagrams, a wooden desk with chairs, a blackboard with writing, and a window with blinds.
+An image with a bottle, a dining, a tv, four chairs, a ceiling, a wall, a light, a window, and a remote.
+An image with a dining, four chairs, a window, a wall, a tv, a light, a remote, a ceiling, and a bottle.
+An image with four chairs, a wall, a window, a dining, a bottle, a ceiling, a remote, a light, and a tv.
+An image with a remote, four chairs, a window, a wall, a tv, a bottle, a dining, a light, and a ceiling.
+An image with a tv, a light, four chairs, a remote, a window, a wall, a dining, a bottle, and a ceiling.

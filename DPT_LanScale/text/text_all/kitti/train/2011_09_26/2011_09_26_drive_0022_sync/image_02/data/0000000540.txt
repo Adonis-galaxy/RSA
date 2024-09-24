@@ -8,3 +8,8 @@ The image shows a street scene with two cars and a truck.
 The image captures a moment of two cars, one red and one silver, driving down a tree-lined street, with a sidewalk and a fence visible, and a blue sky overhead.
 Two cars are driving down a narrow road in a wooded area, with one car being larger than the other.
 A red car is driving down a tree-lined street, passing a parked red car and a white gate, with a blue sign on a pole visible in the background.
+An image with three cars, a tree, a road, a grass, a pavement, and a stop.
+An image with three cars, a pavement, a road, a stop, a grass, and a tree.
+An image with a pavement, three cars, a road, a tree, a grass, and a stop.
+An image with a tree, a road, a stop, a pavement, a grass, and three cars.
+An image with a road, three cars, a pavement, a grass, a tree, and a stop.

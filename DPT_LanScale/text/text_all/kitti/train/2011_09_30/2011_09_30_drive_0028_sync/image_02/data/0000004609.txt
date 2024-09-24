@@ -8,3 +8,8 @@ A row of parked cars on a narrow street.
 A narrow, tree-lined street with parked cars on the right side, leading to a row of buildings.
 A long, narrow street lined with parked cars and lush greenery, with apartment buildings on either side.
 A narrow, tree-lined street with parked cars on both sides, leading to a row of buildings.
+An image with a road, a wall, a house, a sky, seven cars, a pavement, and a tree.
+An image with seven cars, a road, a sky, a pavement, a house, a wall, and a tree.
+An image with seven cars, a wall, a tree, a sky, a road, a pavement, and a house.
+An image with a house, seven cars, a tree, a road, a wall, a pavement, and a sky.
+An image with seven cars, a road, a sky, a wall, a house, a tree, and a pavement.

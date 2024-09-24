@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a focus on the corner building and its immediate surroundings.
 The image shows a narrow street lined with buildings, a sidewalk, and a few cars. There is a person walking on the sidewalk, and a bicycle is parked on the sidewalk. The buildings are of various sizes, with one being particularly large. There is a traffic sign on the corner of the street.
 The image depicts a quiet residential street with a mix of old and new buildings, a few parked cars, a pedestrian, and a bicycle.
+An image with a stairs, a bicycle, a pavement, five cars, a road, a person, a house, and a tree.
+An image with five cars, a house, a tree, a pavement, a person, a road, a bicycle, and a stairs.
+An image with a person, five cars, a house, a bicycle, a pavement, a road, a stairs, and a tree.
+An image with a tree, a person, a road, a stairs, a bicycle, five cars, a house, and a pavement.
+An image with a house, a bicycle, a person, a road, five cars, a pavement, a stairs, and a tree.

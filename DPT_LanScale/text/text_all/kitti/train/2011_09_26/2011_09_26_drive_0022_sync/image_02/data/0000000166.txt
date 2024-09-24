@@ -8,3 +8,8 @@ The image shows a street scene with a person riding a bicycle, parked cars, and 
 A person on a bicycle, with parked cars and a truck, on a tree-lined street, in a residential area.
 A person riding a bicycle on a narrow street between parked cars and a white building.
 A quiet residential street with parked cars, a bicycle, and a pedestrian, lined with houses and trees.
+An image with two trucks, a fence, five cars, a road, a sky, a person, a house, a pavement, a tree, two bicycles, a roof, and a wall.
+An image with five cars, a tree, two bicycles, a sky, a house, a wall, a pavement, two trucks, a roof, a person, a fence, and a road.
+An image with a house, a person, five cars, two bicycles, a sky, a roof, a fence, a wall, a tree, a road, two trucks, and a pavement.
+An image with a pavement, a fence, a roof, a house, two trucks, five cars, a sky, two bicycles, a wall, a tree, a person, and a road.
+An image with two bicycles, five cars, a pavement, two trucks, a wall, a tree, a road, a roof, a person, a sky, a house, and a fence.

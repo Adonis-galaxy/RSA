@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A quiet suburban street, lined with parked cars and a bicyclist, under the shade of leafy trees.
 A person riding a bicycle on a tree-lined street with parked cars and trash cans.
 A tree-lined street with parked cars, a bicyclist, and green trash cans.
+An image with a person, a truck, a bicycle, three cars, a wall, a sky, a tree, a grass, and a road.
+An image with three cars, a bicycle, a sky, a truck, a person, a grass, a road, a tree, and a wall.
+An image with a grass, a road, a tree, a sky, a wall, three cars, a person, a bicycle, and a truck.
+An image with a sky, three cars, a grass, a tree, a person, a bicycle, a wall, a truck, and a road.
+An image with three cars, a wall, a road, a sky, a truck, a bicycle, a person, a grass, and a tree.

@@ -8,3 +8,8 @@ A yellow car on a narrow street.
 A yellow car drives down a narrow, tree-lined street, passing a brick wall and a white building with a black awning.
 A yellow car is driving down a narrow, tree-lined street between two buildings.
 A narrow, tree-lined street with a yellow car driving down it, flanked by buildings and a stone wall.
+An image with a house, a pavement, a road, a tree, a wall, a sky, and two cars.
+An image with a house, two cars, a road, a pavement, a tree, a wall, and a sky.
+An image with a sky, a house, two cars, a pavement, a tree, a road, and a wall.
+An image with a sky, a road, two cars, a wall, a tree, a house, and a pavement.
+An image with two cars, a road, a house, a pavement, a wall, a tree, and a sky.

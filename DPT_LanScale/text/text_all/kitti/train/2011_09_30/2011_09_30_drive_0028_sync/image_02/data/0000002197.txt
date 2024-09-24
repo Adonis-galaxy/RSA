@@ -8,3 +8,8 @@ The image is a black and white photograph of a narrow street in a residential ar
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few pedestrians, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A narrow, tree-lined street in a residential area, with parked cars and a few pedestrians, under a bright sun.
+An image with a sky, ten cars, a wall, a person, a pavement, a road, and a tree.
+An image with a sky, a tree, a pavement, ten cars, a person, a road, and a wall.
+An image with a tree, a person, ten cars, a wall, a sky, a road, and a pavement.
+An image with ten cars, a pavement, a person, a tree, a road, a wall, and a sky.
+An image with ten cars, a pavement, a sky, a person, a wall, a tree, and a road.

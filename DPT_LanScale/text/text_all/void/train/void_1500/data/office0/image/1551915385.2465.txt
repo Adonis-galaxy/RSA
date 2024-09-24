@@ -8,3 +8,8 @@ A black leather couch with two armchairs in a room.
 A black leather couch with two armchairs in a room with a white marble table.
 A black leather couch with two armchairs in a room with a white marble table.
 A black leather couch with two armchairs in a room with a white marble table.
+An image with a wall, a dining, a rug, a couch, and a chair.
+An image with a dining, a rug, a wall, a chair, and a couch.
+An image with a dining, a couch, a rug, a wall, and a chair.
+An image with a chair, a dining, a couch, a wall, and a rug.
+An image with a couch, a dining, a chair, a rug, and a wall.

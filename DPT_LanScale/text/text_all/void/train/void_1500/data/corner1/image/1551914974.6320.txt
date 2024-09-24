@@ -8,3 +8,8 @@ The image is blurry and shows a cluttered office space with various electronic e
 The image shows a cluttered office space with various items on a desk, including a computer monitor, a printer, and a phone.
 The image shows a blurry view of a cluttered office space with various items, including a computer monitor, a printer, and a desk with a phone and a blue box.
 The image shows a cluttered office space with various items on a desk, including a laptop, a phone, and a box of tissues.
+An image with a book, a laptop, a cardboard, a wall, a tv, a paper, and a table.
+An image with a laptop, a cardboard, a book, a table, a tv, a paper, and a wall.
+An image with a laptop, a paper, a wall, a tv, a cardboard, a book, and a table.
+An image with a tv, a cardboard, a book, a table, a paper, a wall, and a laptop.
+An image with a laptop, a paper, a cardboard, a table, a tv, a book, and a wall.

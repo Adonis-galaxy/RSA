@@ -8,3 +8,8 @@ A room with four computers on desks.
 The image shows an office setting with four computers on desks, two chairs, a clock on the wall, and a storage cabinet.
 The image shows a room with four desktop computers, each on a small table, and two chairs, one red and one black, positioned in front of the computers.
 The image shows a room with four desks, each equipped with a computer and a chair, arranged in a square pattern with a clock on the wall.
+An image with three tvs, three mice, three chairs, three keyboards, a table, a rug, a wall, and a clock.
+An image with three tvs, a wall, three mice, a rug, a clock, three keyboards, three chairs, and a table.
+An image with a rug, three tvs, three mice, three chairs, a clock, a wall, a table, and three keyboards.
+An image with a rug, three tvs, three keyboards, a table, a clock, a wall, three mice, and three chairs.
+An image with three chairs, a rug, a wall, a clock, three tvs, a table, three mice, and three keyboards.

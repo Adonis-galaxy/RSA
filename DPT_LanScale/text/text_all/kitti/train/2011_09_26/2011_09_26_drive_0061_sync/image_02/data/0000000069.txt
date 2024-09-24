@@ -8,3 +8,8 @@ The image shows a street scene with a truck parked on the side of the road.
 The image captures a serene residential street, lined with trees and parked cars, under a clear blue sky.
 The image shows a tree-lined street with parked cars, a sidewalk, and a building in the background, all under a clear sky.
 The image depicts a residential street with a mix of houses, trees, and parked cars, leading to a cul-de-sac.
+An image with a tree, seven cars, a truck, a grass, a sky, and a road.
+An image with a tree, seven cars, a road, a sky, a truck, and a grass.
+An image with a sky, a road, seven cars, a grass, a truck, and a tree.
+An image with a grass, seven cars, a truck, a tree, a road, and a sky.
+An image with seven cars, a sky, a truck, a road, a grass, and a tree.

@@ -8,3 +8,8 @@ A classroom with a blue and white board and a table.
 The image shows a room with a blue and white machine, a table with a picture on it, and a desk with a chair.
 The image shows a room with a large blue and white machine, a table with a picture on it, and a desk with a chair. The room has a green wall and a long light fixture.
 The image shows a room with a blue and white machine, a table with a picture on it, and a chalkboard with a picture on it. The room has a green wall and a wooden door.
+An image with two walls, two people, a light, three chairs, a floor, a dining, and a ceiling.
+An image with a light, two walls, three chairs, a dining, two people, a floor, and a ceiling.
+An image with three chairs, two people, a ceiling, a light, a dining, two walls, and a floor.
+An image with a dining, two walls, two people, three chairs, a light, a floor, and a ceiling.
+An image with two people, three chairs, two walls, a floor, a light, a ceiling, and a dining.

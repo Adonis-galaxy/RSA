@@ -8,3 +8,8 @@ A black car driving on a road.
 A solitary car travels down a quiet, tree-lined street, with a clear blue sky overhead and a train track running parallel to the road.
 A car is driving down a street lined with trees and houses, with a train track running parallel to the road.
 A quiet, tree-lined street with a single car driving away from a train station.
+An image with six cars, a sky, a grass, a airplane, a tree, a house, a road, and a railroad.
+An image with a sky, six cars, a railroad, a grass, a road, a house, a tree, and a airplane.
+An image with six cars, a airplane, a house, a sky, a road, a railroad, a grass, and a tree.
+An image with a tree, a airplane, six cars, a sky, a railroad, a house, a road, and a grass.
+An image with a railroad, a airplane, a grass, a tree, six cars, a house, a sky, and a road.

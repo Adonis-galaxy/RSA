@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars driving in both directions.
 A busy highway scene with a mix of vehicles, including cars and a truck, driving on a tree-lined road under a clear sky.
 A long line of cars driving down a tree-lined road.
 A busy highway with multiple lanes of traffic, surrounded by a lush green forest.
+An image with six cars, a pavement, a road, a grass, a tree, and a sky.
+An image with a tree, six cars, a pavement, a grass, a road, and a sky.
+An image with a sky, six cars, a tree, a grass, a pavement, and a road.
+An image with a grass, a pavement, six cars, a sky, a road, and a tree.
+An image with a sky, six cars, a grass, a road, a pavement, and a tree.

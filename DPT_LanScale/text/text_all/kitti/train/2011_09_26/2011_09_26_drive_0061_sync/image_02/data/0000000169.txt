@@ -8,3 +8,8 @@ The image shows a street with parked cars and a red van driving down the road.
 The image captures a vibrant street scene with a mix of parked and moving vehicles, lush greenery, and a clear blue sky.
 A red van is parked on the side of a narrow street lined with trees and buildings, with other vehicles parked along the street.
 A narrow street in a European town, lined with parked cars and buildings, under a clear blue sky.
+An image with a roof, six cars, a sky, a flower, a wall, a pavement, a road, and a tree.
+An image with a wall, a pavement, a sky, six cars, a road, a tree, a flower, and a roof.
+An image with a sky, a roof, a wall, six cars, a tree, a flower, a pavement, and a road.
+An image with a tree, six cars, a wall, a flower, a roof, a road, a sky, and a pavement.
+An image with a wall, a sky, six cars, a tree, a roof, a pavement, a flower, and a road.

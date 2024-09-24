@@ -8,3 +8,8 @@ The image shows a street with parked cars and a building in the background.
 The image captures a typical day in a residential area, with parked cars lining the street, a red and blue traffic sign indicating a no-turn restriction, and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars, a building on the left, a red and blue sign on the right, and a clear blue sky overhead.
 A narrow street lined with parked cars and buildings, with a red and blue sign indicating no parking.
+An image with a road, eight cars, two people, a pavement, a door, a building, a wall, a tree, and a stop.
+An image with a pavement, eight cars, two people, a door, a wall, a stop, a building, a tree, and a road.
+An image with a road, eight cars, two people, a tree, a building, a pavement, a stop, a wall, and a door.
+An image with eight cars, two people, a pavement, a door, a road, a building, a tree, a stop, and a wall.
+An image with two people, eight cars, a door, a wall, a road, a building, a tree, a stop, and a pavement.

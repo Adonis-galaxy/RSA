@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, with a street and sidewalk in front of it, placed on a wooden display board.
 The image shows a small model of a building, which is placed on a wooden board.
 The image shows a model of a building, possibly a school, with a playground in the foreground, and the model is placed on a wooden board.
+An image with a floor, a building, and a person.
+An image with a building, a person, and a floor.
+An image with a person, a building, and a floor.
+An image with a floor, a building, and a person.
+An image with a person, a building, and a floor.

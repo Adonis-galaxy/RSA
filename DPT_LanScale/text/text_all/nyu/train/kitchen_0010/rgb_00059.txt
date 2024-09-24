@@ -8,3 +8,8 @@ A kitchen counter with various items on it.
 The image captures a domestic kitchen scene with a focus on the countertop, featuring a toaster oven, coffee maker, and various kitchen items, including a bowl and a bottle, arranged in a somewhat cluttered manner.
 The image shows a small kitchen with a toaster oven, a coffee maker, a microwave, and various kitchen items on the counter.
 The image shows a kitchen counter with various appliances and items, including a toaster oven, a coffee maker, a blender, a bowl, and a bottle, all arranged in a somewhat cluttered manner.
+An image with three bottles, a wall, a cabinet, a counter, a microwave, a bowl, and a oven.
+An image with three bottles, a bowl, a oven, a wall, a counter, a microwave, and a cabinet.
+An image with a wall, three bottles, a bowl, a microwave, a oven, a counter, and a cabinet.
+An image with a oven, a counter, a cabinet, three bottles, a microwave, a wall, and a bowl.
+An image with a microwave, a cabinet, three bottles, a bowl, a oven, a wall, and a counter.

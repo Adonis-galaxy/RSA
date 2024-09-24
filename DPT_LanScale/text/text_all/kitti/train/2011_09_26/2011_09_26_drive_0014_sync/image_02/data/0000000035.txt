@@ -8,3 +8,8 @@ The image shows a street scene with cars and a truck driving on a road.
 The image captures a bustling city street, with a mix of vehicles and pedestrians, set against a backdrop of lush greenery and clear blue skies.
 The image shows a wide street with a mix of vehicles, including cars and a truck, driving on the road. The street is lined with trees and buildings, and there are traffic lights and signs visible. The sky is clear and blue, suggesting a sunny day.
 A busy street with multiple lanes of traffic, lined with trees and buildings, under a clear blue sky.
+An image with seven cars, a pavement, a road, a grass, a house, a sky, a tree, and a wall.
+An image with seven cars, a road, a pavement, a wall, a tree, a sky, a grass, and a house.
+An image with a pavement, a tree, seven cars, a road, a sky, a grass, a house, and a wall.
+An image with seven cars, a road, a grass, a sky, a wall, a pavement, a tree, and a house.
+An image with a house, seven cars, a tree, a grass, a road, a pavement, a sky, and a wall.

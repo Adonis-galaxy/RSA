@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a quiet, tree-lined street with a car driving away, a pedestrian crossing sign, and a street sign indicating the direction of the nearest town.
 The image shows a wide, tree-lined street with a car driving on the right side, a sign indicating a direction, and a fence on the left side.
 The image shows a tree-lined street with a car driving on the right side, a pedestrian crossing sign on the right, and a street sign indicating "Bundesverfassung - Gerichtshäuser" on the left.
+An image with a tree, a grass, a road, a car, a bus, a traffic, a pavement, and a sky.
+An image with a road, a grass, a tree, a traffic, a pavement, a sky, a bus, and a car.
+An image with a car, a bus, a sky, a traffic, a pavement, a tree, a grass, and a road.
+An image with a sky, a bus, a car, a pavement, a road, a tree, a traffic, and a grass.
+An image with a pavement, a car, a tree, a traffic, a grass, a bus, a road, and a sky.

@@ -8,3 +8,8 @@ The image shows a street with a bike lane marked on it.
 The image captures a quiet, tree-lined street with a clear path for bicycles, marked by white arrows on the asphalt.
 The image shows a narrow, tree-lined street with a bike lane marked by white arrows on the asphalt.
 The image depicts a tree-lined street with a clear path for vehicles, marked by white lines on the asphalt, and bordered by a sidewalk on the left and a fence on the right.
+An image with a tree, a sky, a pavement, a roof, a dirt, a wall, and a road.
+An image with a dirt, a tree, a pavement, a sky, a road, a roof, and a wall.
+An image with a tree, a road, a sky, a roof, a wall, a pavement, and a dirt.
+An image with a wall, a dirt, a sky, a road, a tree, a roof, and a pavement.
+An image with a wall, a dirt, a pavement, a road, a roof, a sky, and a tree.

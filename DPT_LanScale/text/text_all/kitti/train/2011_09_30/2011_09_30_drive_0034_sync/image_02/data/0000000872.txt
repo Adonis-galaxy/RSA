@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a row of houses featuring balconies and potted plants, leading to a cul-de-sac where a car is parked, and a solitary tree stands in the foreground.
 The image depicts a narrow street between two-story buildings, with a small garden in front of the larger building, a potted plant on the balcony of the smaller building, and a yellow door on the larger building.
 The image depicts a narrow street between two-story buildings, with a curved driveway leading to a garage door, a potted plant on the balcony, and a yellow door on the right side.
+An image with a sky, a road, a potted, a tree, a house, a grass, and a pavement.
+An image with a pavement, a grass, a potted, a sky, a tree, a road, and a house.
+An image with a tree, a sky, a pavement, a road, a grass, a house, and a potted.
+An image with a house, a grass, a road, a tree, a sky, a potted, and a pavement.
+An image with a house, a road, a sky, a grass, a potted, a pavement, and a tree.

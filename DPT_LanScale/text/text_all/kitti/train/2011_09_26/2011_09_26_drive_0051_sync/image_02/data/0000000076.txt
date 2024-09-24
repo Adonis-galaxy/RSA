@@ -8,3 +8,8 @@ The image shows a street with a construction zone, marked by cones and arrows.
 The image captures a scene of a road construction area with a clear view of the street, marked with arrows, and a construction vehicle in the process of clearing the road.
 A large construction vehicle is parked on the side of a road, surrounded by orange and white traffic cones, with a white arrow pointing to the right.
 A street scene with a construction area, traffic cones, and a parked car, all under a clear sky.
+An image with a building, a truck, six cars, a traffic, a tree, a road, a grass, and a bus.
+An image with a tree, six cars, a traffic, a bus, a grass, a building, a road, and a truck.
+An image with a building, six cars, a traffic, a road, a bus, a grass, a truck, and a tree.
+An image with six cars, a tree, a bus, a road, a grass, a building, a truck, and a traffic.
+An image with six cars, a road, a traffic, a tree, a bus, a building, a grass, and a truck.

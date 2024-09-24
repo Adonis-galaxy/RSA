@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with trees and houses, where a car is parked at the corner of a cul-de-sac, and a pedestrian is seen walking on the sidewalk.
 The image shows a residential street with houses on both sides, a car parked on the side of the road, and a few trees lining the street.
 The image depicts a residential street with a curved layout, featuring houses, trees, and a clear sky.
+An image with six cars, a grass, a sky, a roof, a house, a tree, a stop, a road, and a pavement.
+An image with a stop, six cars, a roof, a road, a house, a pavement, a grass, a tree, and a sky.
+An image with a tree, a grass, six cars, a house, a roof, a pavement, a sky, a stop, and a road.
+An image with six cars, a pavement, a tree, a sky, a stop, a grass, a house, a roof, and a road.
+An image with six cars, a roof, a house, a pavement, a stop, a grass, a tree, a road, and a sky.

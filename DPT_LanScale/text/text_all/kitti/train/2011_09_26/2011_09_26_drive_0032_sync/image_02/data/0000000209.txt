@@ -8,3 +8,8 @@ The image shows a road with cars and traffic lights.
 The image captures a scene of a clear, sunny day on a wide, multi-lane road with a few cars in motion, flanked by trees and lined with traffic cones and barriers, suggesting a controlled or temporary traffic situation.
 The image shows a wide, empty road with a few cars and trucks driving on it, flanked by trees and lined with traffic cones and barriers.
 The image depicts a wide, multi-lane road with traffic, flanked by trees and lined with streetlights, under a clear sky.
+An image with ten cars, a pavement, two traffics, a grass, a tree, a road, and a sky.
+An image with a road, ten cars, two traffics, a pavement, a tree, a sky, and a grass.
+An image with ten cars, a sky, a pavement, a tree, two traffics, a grass, and a road.
+An image with a grass, a tree, ten cars, two traffics, a sky, a pavement, and a road.
+An image with a sky, ten cars, a road, two traffics, a pavement, a grass, and a tree.

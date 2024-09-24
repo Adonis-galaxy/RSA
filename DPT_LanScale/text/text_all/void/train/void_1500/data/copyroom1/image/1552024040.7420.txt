@@ -8,3 +8,8 @@ The image shows a desk with various items on it.
 The image shows a desk with various items on it, including a printer, a phone, and a remote control.
 The image shows a small table with a printer, a phone, and a remote control on it.
 The image shows a desk with a printer, a phone, and a computer mouse on it.
+An image with a tv, a paper, a book, a table, and a wall.
+An image with a paper, a tv, a book, a wall, and a table.
+An image with a wall, a tv, a paper, a book, and a table.
+An image with a wall, a paper, a table, a book, and a tv.
+An image with a book, a table, a tv, a paper, and a wall.

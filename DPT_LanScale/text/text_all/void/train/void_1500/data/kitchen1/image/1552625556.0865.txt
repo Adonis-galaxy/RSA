@@ -8,3 +8,8 @@ The image shows a bathroom with orange walls and a white floor.
 The image shows a narrow hallway with an orange cabinet on the left and a white door on the right.
 The image shows a narrow hallway with orange walls and a gray counter, featuring a door with a silver handle.
 The image shows a narrow hallway with an orange wall, a white door, and a gray counter.
+An image with a wall, a bottle, a window, a floor, a cabinet, and a refrigerator.
+An image with a floor, a bottle, a wall, a cabinet, a window, and a refrigerator.
+An image with a cabinet, a floor, a refrigerator, a bottle, a wall, and a window.
+An image with a cabinet, a floor, a wall, a window, a bottle, and a refrigerator.
+An image with a bottle, a window, a floor, a refrigerator, a cabinet, and a wall.

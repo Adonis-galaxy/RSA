@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a typical urban street scene with parked cars lining the sidewalk, apartment buildings in the background, and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars, with apartment buildings on both sides, and a clear blue sky overhead.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a road, eight cars, a sky, a building, a pavement, a tree, and a grass.
+An image with a sky, a road, eight cars, a building, a grass, a tree, and a pavement.
+An image with a building, eight cars, a grass, a sky, a tree, a pavement, and a road.
+An image with eight cars, a sky, a road, a pavement, a tree, a building, and a grass.
+An image with eight cars, a building, a grass, a pavement, a tree, a road, and a sky.

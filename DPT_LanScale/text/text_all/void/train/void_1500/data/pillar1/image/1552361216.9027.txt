@@ -8,3 +8,8 @@ A cardboard box with a red sign on it.
 A cardboard box with a red sign on it is leaning against a white wall next to a roll of paper and a checkerboard.
 A cardboard box with a red sign on it, leaning against a white wall, next to a roll of paper and a checkerboard.
 A cardboard box with a red sign on it is leaning against a white wall next to a roll of paper and a checkerboard-patterned object.
+An image with a cardboard, two walls, a door, and a floor.
+An image with a floor, a cardboard, two walls, and a door.
+An image with two walls, a cardboard, a floor, and a door.
+An image with two walls, a door, a floor, and a cardboard.
+An image with two walls, a floor, a cardboard, and a door.

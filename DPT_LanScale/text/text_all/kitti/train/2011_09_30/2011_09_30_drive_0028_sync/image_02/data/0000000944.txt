@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 The image captures a quiet residential street, with a silver car driving down the road, passing by a row of houses and trees, under a clear blue sky.
 A small silver car is driving down a tree-lined street in a residential area.
 A car is driving down a tree-lined street in a residential area with buildings and a park in the background.
+An image with five cars, a pavement, a sky, a bus, a tree, a grass, a fire, a house, and a road.
+An image with a fire, a sky, five cars, a grass, a tree, a road, a bus, a pavement, and a house.
+An image with a house, a road, a grass, a tree, a sky, a pavement, five cars, a fire, and a bus.
+An image with a sky, a pavement, five cars, a fire, a grass, a bus, a house, a tree, and a road.
+An image with a pavement, a road, a bus, five cars, a grass, a tree, a house, a fire, and a sky.

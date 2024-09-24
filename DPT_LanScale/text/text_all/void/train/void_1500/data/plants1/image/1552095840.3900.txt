@@ -8,3 +8,8 @@ The image shows a patch of dirt with weeds and a brick wall in the background.
 The image shows a patch of dirt with sparse vegetation, including a few small plants and a large green plant growing on a brick wall.
 The image shows a small patch of dirt with sparse vegetation, including a few small plants and a larger green plant growing on a brick wall.
 The image shows a small patch of dirt with sparse vegetation, surrounded by a brick wall and a concrete ledge.
+An image with a pavement, a dirt, and two walls.
+An image with two walls, a pavement, and a dirt.
+An image with a pavement, two walls, and a dirt.
+An image with two walls, a pavement, and a dirt.
+An image with two walls, a dirt, and a pavement.

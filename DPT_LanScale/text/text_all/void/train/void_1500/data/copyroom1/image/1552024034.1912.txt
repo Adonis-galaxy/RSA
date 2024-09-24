@@ -8,3 +8,8 @@ A computer printer on a desk.
 The image shows a computer desk with a printer, a scanner, and a monitor.
 The image shows a small office space with a desk, a printer, and a computer monitor.
 The image shows a workspace with a desk, a printer, and a computer monitor.
+An image with a light, a table, a paper, a wall, a scissors, and a floor.
+An image with a scissors, a wall, a light, a floor, a paper, and a table.
+An image with a wall, a scissors, a floor, a table, a paper, and a light.
+An image with a table, a wall, a paper, a scissors, a floor, and a light.
+An image with a wall, a paper, a floor, a table, a light, and a scissors.

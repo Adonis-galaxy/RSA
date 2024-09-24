@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic signs.
 The image captures a tranquil rural highway, with a clear sky overhead and lush greenery on both sides, featuring a few vehicles in motion and a few stationary objects, including a traffic sign and a roadside barrier.
 The image shows a wide, empty highway with a few cars and trucks, a grassy median, and trees on both sides.
 The image depicts a wide, empty highway with a clear sky, lined by trees and a grassy median, with a few vehicles and traffic signs visible.
+An image with a tree, six cars, a road, a truck, a grass, a pavement, and a fence.
+An image with a pavement, six cars, a fence, a grass, a tree, a truck, and a road.
+An image with six cars, a grass, a tree, a truck, a fence, a pavement, and a road.
+An image with a pavement, six cars, a road, a truck, a tree, a fence, and a grass.
+An image with a fence, six cars, a pavement, a grass, a truck, a road, and a tree.

@@ -8,3 +8,8 @@ A man and a woman are playing a video game in a living room.
 A man and a woman are playing a video game together in a living room, with the man sitting on a couch and the woman standing with a remote in her hand.
 A man and a woman are standing in a living room, with the woman holding a large stick.
 A man and a woman are standing in a living room, with the man holding a remote control and the woman holding a pole.
+An image with a floor, a cabinet, a remote, a ceiling, a door, a wall, two people, a couch, a chair, a book, and a laptop.
+An image with a cabinet, two people, a chair, a wall, a floor, a door, a couch, a laptop, a remote, a ceiling, and a book.
+An image with two people, a laptop, a book, a floor, a chair, a remote, a wall, a couch, a ceiling, a door, and a cabinet.
+An image with a book, a chair, two people, a floor, a remote, a ceiling, a laptop, a door, a wall, a couch, and a cabinet.
+An image with a chair, a wall, a floor, two people, a remote, a laptop, a book, a ceiling, a couch, a cabinet, and a door.

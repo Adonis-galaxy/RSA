@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street with parked cars, a few moving vehicles, and a clear sky, creating a serene atmosphere.
 The image shows a wide, tree-lined street with a few cars parked on the side, a few cars driving on the road, and a large billboard on the right side.
 The image depicts a wide, tree-lined street with multiple lanes, a median, and a clear sky.
+An image with a road, fifteen cars, two trucks, a bus, a sky, a grass, a building, and a tree.
+An image with two trucks, fifteen cars, a grass, a road, a sky, a building, a bus, and a tree.
+An image with fifteen cars, a road, a sky, a tree, two trucks, a building, a grass, and a bus.
+An image with a sky, a tree, fifteen cars, two trucks, a building, a road, a grass, and a bus.
+An image with fifteen cars, a building, two trucks, a tree, a grass, a sky, a road, and a bus.

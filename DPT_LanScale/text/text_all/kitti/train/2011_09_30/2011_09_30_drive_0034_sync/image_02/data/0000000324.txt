@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and cars.
 A quiet residential street, with a mix of vehicles and household items, under a clear sky.
 The image shows a narrow, tree-lined street with parked cars, a truck, and a house with a garage door.
 A narrow, tree-lined street with parked cars, a truck, and a house with a garage door.
+An image with a pavement, a fence, a car, a house, a sky, a tree, a truck, a roof, and a dining.
+An image with a tree, a sky, a truck, a house, a fence, a dining, a pavement, a roof, and a car.
+An image with a roof, a fence, a pavement, a tree, a house, a truck, a dining, a sky, and a car.
+An image with a fence, a sky, a truck, a tree, a pavement, a car, a roof, a dining, and a house.
+An image with a fence, a car, a pavement, a truck, a house, a dining, a roof, a sky, and a tree.

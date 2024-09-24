@@ -8,3 +8,8 @@ A dog sitting on a couch.
 The image captures a cozy living room scene with a dog comfortably resting on a couch, surrounded by a cluttered space that includes a bar area, a refrigerator, and a doorway leading to another room.
 The image shows a living room with a large, messy couch and a dog sitting on it.
 The image shows a living room with a dog on a couch, a messy countertop, and a kitchen area with a refrigerator and a stove.
+An image with a door, a refrigerator, a window, two walls, a counter, a dog, a couch, a floor, and a ceiling.
+An image with a floor, two walls, a couch, a dog, a counter, a ceiling, a refrigerator, a door, and a window.
+An image with a couch, a window, a floor, a door, two walls, a refrigerator, a dog, a counter, and a ceiling.
+An image with a refrigerator, two walls, a counter, a dog, a window, a floor, a couch, a door, and a ceiling.
+An image with a refrigerator, a dog, a ceiling, a window, a counter, two walls, a floor, a couch, and a door.

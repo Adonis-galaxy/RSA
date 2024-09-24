@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars, including a red Volkswagen van, a silver car, and a black car, with a white building on the right side.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with five cars, a road, a tree, a window, a sky, a pavement, a fence, a truck, and a building.
+An image with a tree, five cars, a truck, a road, a pavement, a sky, a window, a building, and a fence.
+An image with five cars, a building, a truck, a sky, a road, a pavement, a fence, a tree, and a window.
+An image with a building, five cars, a truck, a window, a sky, a pavement, a road, a tree, and a fence.
+An image with five cars, a road, a truck, a sky, a fence, a tree, a pavement, a building, and a window.

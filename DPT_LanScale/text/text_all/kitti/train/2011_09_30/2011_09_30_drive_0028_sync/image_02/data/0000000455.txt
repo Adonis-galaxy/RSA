@@ -8,3 +8,8 @@ A narrow street between two houses.
 A quiet residential street, lined with houses and trees, under a clear blue sky.
 The image shows a narrow street lined with houses and trees, with a blue trash can on the sidewalk and a car parked on the street.
 A narrow, tree-lined street between two-story buildings, with a sidewalk and a fence on the right side.
+An image with a pavement, a fence, a tree, two cars, a wall, a house, a roof, a sky, and a road.
+An image with a road, a fence, a wall, a sky, a roof, two cars, a pavement, a house, and a tree.
+An image with two cars, a road, a house, a pavement, a fence, a sky, a wall, a tree, and a roof.
+An image with a fence, a house, a road, a roof, a tree, two cars, a sky, a wall, and a pavement.
+An image with a wall, a sky, two cars, a road, a fence, a house, a roof, a tree, and a pavement.

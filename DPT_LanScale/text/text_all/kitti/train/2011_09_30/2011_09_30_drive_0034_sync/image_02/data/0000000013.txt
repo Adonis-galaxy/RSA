@@ -8,3 +8,8 @@ The image shows a street with a grassy area on the side.
 A serene suburban street, bordered by lush greenery and residential homes, under a clear blue sky.
 The image shows a large, grassy area with a road running through it, bordered by a row of houses on one side and a line of trees on the other.
 A serene suburban street, bordered by lush greenery and a row of houses, leads to a cul-de-sac, where a solitary figure stands, overlooking the verdant landscape.
+An image with a house, a grass, a sky, a tree, a road, and a fire.
+An image with a road, a grass, a house, a tree, a fire, and a sky.
+An image with a house, a tree, a fire, a sky, a road, and a grass.
+An image with a tree, a grass, a road, a fire, a house, and a sky.
+An image with a fire, a grass, a house, a road, a tree, and a sky.

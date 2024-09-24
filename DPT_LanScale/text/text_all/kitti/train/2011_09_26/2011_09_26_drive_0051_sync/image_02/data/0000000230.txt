@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street with a mix of vehicles, including cars, trucks, and buses, moving along a tree-lined road under a clear sky.
 The image depicts a busy street scene with a mix of vehicles, including cars, trucks, and a bus, driving on a road lined with trees and buildings.
 A busy street scene with multiple lanes of traffic, parked cars, and a mix of commercial and residential buildings.
+An image with eighteen cars, three trucks, a sky, a road, a grass, a building, and a tree.
+An image with a tree, eighteen cars, three trucks, a sky, a building, a grass, and a road.
+An image with eighteen cars, three trucks, a sky, a grass, a road, a tree, and a building.
+An image with a tree, eighteen cars, a building, three trucks, a sky, a road, and a grass.
+An image with a grass, eighteen cars, three trucks, a sky, a building, a road, and a tree.

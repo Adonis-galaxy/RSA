@@ -8,3 +8,8 @@ The image shows a hallway with two doors.
 The image shows a hallway with two doors, one leading to a room with a tiled floor and the other to a room with a carpeted floor.
 The image shows a narrow hallway with two closed doors, one on each end, and a tiled floor.
 The image shows a hallway with two doors, one leading to a room with a tiled floor and the other to a room with a blue wall.
+An image with a wall, a door, and a floor.
+An image with a wall, a door, and a floor.
+An image with a door, a floor, and a wall.
+An image with a wall, a door, and a floor.
+An image with a floor, a door, and a wall.

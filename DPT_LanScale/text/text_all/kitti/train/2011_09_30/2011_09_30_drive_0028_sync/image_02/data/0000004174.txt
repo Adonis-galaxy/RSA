@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet residential street, lined with parked cars and trees, where a few people are enjoying a leisurely bike ride.
 A narrow street lined with parked cars and trees, with a few people walking on the sidewalk.
 A tree-lined street with parked cars, a bicycle, and pedestrians, leading to a white building with a red sign.
+An image with two people, three bicycles, six cars, a house, a pavement, a tree, a road, a grass, and a fire.
+An image with six cars, a fire, a house, a road, a pavement, three bicycles, two people, a tree, and a grass.
+An image with six cars, a house, a fire, two people, three bicycles, a tree, a grass, a road, and a pavement.
+An image with two people, a house, six cars, three bicycles, a tree, a road, a grass, a fire, and a pavement.
+An image with six cars, a fire, a pavement, a grass, a tree, a house, two people, three bicycles, and a road.

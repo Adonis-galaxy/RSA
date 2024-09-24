@@ -8,3 +8,8 @@ A man and a woman in a living room.
 A man and a woman are in a living room, with the man sitting on a couch and the woman standing with a golf club.
 A man is sitting on a couch, holding a tablet, while a woman stands in the background holding a golf club.
 A man is sitting on a couch, holding a tablet, while a woman stands in the background holding a golf club.
+An image with a book, a cabinet, a couch, two people, a door, a remote, a chair, a wall, a floor, and a ceiling.
+An image with a ceiling, a couch, a floor, two people, a book, a door, a remote, a chair, a wall, and a cabinet.
+An image with a book, a couch, a ceiling, a remote, a wall, two people, a floor, a cabinet, a door, and a chair.
+An image with a book, a door, a ceiling, a wall, a remote, two people, a chair, a cabinet, a couch, and a floor.
+An image with a cabinet, a couch, a chair, two people, a remote, a floor, a wall, a door, a book, and a ceiling.

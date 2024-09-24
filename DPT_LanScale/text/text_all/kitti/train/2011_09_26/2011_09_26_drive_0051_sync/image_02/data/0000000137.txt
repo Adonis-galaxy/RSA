@@ -8,3 +8,8 @@ The image shows a street scene with a paved road, a sidewalk, and a grassy area.
 A quiet suburban street, lined with parked cars and a pedestrian, under a clear sky.
 The image shows a street scene with a large, green, tree-lined road, a sidewalk, a few cars, a pedestrian crossing, and a person walking on the sidewalk.
 A tree-lined street with a sidewalk, a bike path, and a road with parked cars, leading to a residential area with buildings and a parking lot.
+An image with three people, thirteen cars, a road, a sky, a building, a pavement, a clock, a grass, and a tree.
+An image with thirteen cars, a pavement, three people, a sky, a tree, a road, a building, a grass, and a clock.
+An image with thirteen cars, a sky, three people, a tree, a grass, a pavement, a building, a clock, and a road.
+An image with a grass, three people, a road, thirteen cars, a tree, a pavement, a sky, a clock, and a building.
+An image with a tree, a grass, thirteen cars, three people, a building, a road, a sky, a pavement, and a clock.

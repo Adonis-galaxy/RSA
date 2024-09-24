@@ -8,3 +8,8 @@ The image shows a narrow city street with parked cars on both sides.
 The image captures a bustling city street, with a multitude of cars parked along the sides, creating a sense of organized chaos typical of urban life.
 The image depicts a narrow city street lined with parked cars, with a few cars driving down the road, and tall buildings on either side.
 A narrow city street with parked cars on both sides, lined with buildings and trees, under a bright sunny sky.
+An image with sixteen cars, a road, a person, a bus, a sky, a tree, and a building.
+An image with sixteen cars, a road, a tree, a person, a sky, a building, and a bus.
+An image with sixteen cars, a person, a road, a bus, a tree, a sky, and a building.
+An image with sixteen cars, a tree, a person, a sky, a building, a bus, and a road.
+An image with sixteen cars, a sky, a bus, a person, a building, a road, and a tree.

@@ -8,3 +8,8 @@ A blue trash can next to a black bag.
 A blue trash can sits next to a black bag with a red stripe, both leaning against a white wall.
 A blue trash can is next to a black bag with a red stripe, and a white cylinder is leaning against a wooden cabinet.
 A blue trash can is placed next to a black bag and a white cylinder, all sitting on a carpeted floor.
+An image with a rug, a cabinet, a wall, and a handbag.
+An image with a cabinet, a wall, a handbag, and a rug.
+An image with a wall, a cabinet, a rug, and a handbag.
+An image with a rug, a cabinet, a handbag, and a wall.
+An image with a handbag, a cabinet, a wall, and a rug.

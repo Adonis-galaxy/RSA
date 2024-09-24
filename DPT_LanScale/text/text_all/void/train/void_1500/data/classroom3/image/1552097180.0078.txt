@@ -8,3 +8,8 @@ A computer desk with two monitors, a printer, and a keyboard.
 A computer workstation with a printer, two monitors, and a keyboard.
 The image shows a computer desk with a printer, two monitors, a keyboard, and a mouse.
 The image shows a computer workstation with a printer, two monitors, a keyboard, and a mouse on a desk.
+An image with a cell, two keyboards, two tvs, a paper, a table, and a wall.
+An image with two tvs, two keyboards, a table, a cell, a paper, and a wall.
+An image with two keyboards, a table, a paper, two tvs, a wall, and a cell.
+An image with two tvs, a cell, two keyboards, a wall, a paper, and a table.
+An image with two tvs, two keyboards, a paper, a table, a wall, and a cell.

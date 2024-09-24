@@ -8,3 +8,8 @@ The image shows a white wall with a black door frame and a brown door handle.
 The image shows a white wall with a black door frame, and a brown door is partially visible on the right side.
 The image shows a white wall with a black door frame and a small black object in the corner.
 The image shows a white wall with a black door frame, a white door, and a brown trash can.
+An image with a chair, a refrigerator, a wall, and a floor.
+An image with a refrigerator, a wall, a floor, and a chair.
+An image with a chair, a floor, a refrigerator, and a wall.
+An image with a wall, a refrigerator, a floor, and a chair.
+An image with a wall, a chair, a floor, and a refrigerator.

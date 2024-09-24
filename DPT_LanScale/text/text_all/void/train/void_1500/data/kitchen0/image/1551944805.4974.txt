@@ -8,3 +8,8 @@ A silver refrigerator with a note on the door.
 A refrigerator with a note on it in a kitchen.
 A silver refrigerator with a note on the door in a kitchen.
 A silver refrigerator with a note on the door in a kitchen with orange walls.
+An image with a wall, a cabinet, a refrigerator, a floor, a door, and a window.
+An image with a door, a refrigerator, a cabinet, a wall, a floor, and a window.
+An image with a refrigerator, a window, a floor, a door, a cabinet, and a wall.
+An image with a wall, a window, a door, a floor, a cabinet, and a refrigerator.
+An image with a refrigerator, a wall, a cabinet, a floor, a window, and a door.

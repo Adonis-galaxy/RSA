@@ -8,3 +8,8 @@ The image shows a street scene with a person walking on the sidewalk.
 A quiet, tree-lined street with a few pedestrians and parked cars, leading to a white building with a distinctive black tower.
 A person is walking down a tree-lined street, with a car parked on the side, and a red and white sign on a pole.
 A quiet, tree-lined street with a few pedestrians and parked cars, leading to a white building with a red sign.
+An image with a person, a bicycle, two refrigerators, three cars, a building, a pavement, a tree, a road, a sky, and a grass.
+An image with a tree, three cars, a grass, a building, two refrigerators, a person, a pavement, a bicycle, a road, and a sky.
+An image with two refrigerators, a bicycle, a person, a road, a pavement, a building, three cars, a sky, a grass, and a tree.
+An image with three cars, a tree, a bicycle, a grass, a building, a road, two refrigerators, a person, a pavement, and a sky.
+An image with three cars, a grass, a building, a tree, a bicycle, two refrigerators, a sky, a person, a road, and a pavement.

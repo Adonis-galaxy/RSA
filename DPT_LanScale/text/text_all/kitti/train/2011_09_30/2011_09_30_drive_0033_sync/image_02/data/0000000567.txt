@@ -8,3 +8,8 @@ The image shows a street with parked cars and buses.
 A quiet residential street with parked cars and a few vehicles, including a bus, on the road.
 The image shows a narrow street lined with parked cars and trucks, with a few larger vehicles and a white building in the background.
 A narrow street lined with parked cars and vehicles, leading to a residential area with houses and trees.
+An image with a sky, a road, a pavement, three cars, a bus, a truck, a tree, and a house.
+An image with a bus, three cars, a road, a truck, a pavement, a house, a tree, and a sky.
+An image with a sky, three cars, a tree, a road, a house, a truck, a pavement, and a bus.
+An image with a truck, a tree, a sky, a pavement, three cars, a road, a bus, and a house.
+An image with three cars, a house, a tree, a truck, a sky, a road, a bus, and a pavement.

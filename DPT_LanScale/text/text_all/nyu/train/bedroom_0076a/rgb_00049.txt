@@ -8,3 +8,8 @@ The image shows a room with two bunk beds.
 The image shows a room with two bunk beds, each with a plaid bedspread, a wooden dresser, a chair, and a window with blinds.
 The image shows a small room with two bunk beds, a chair, and a dresser.
 The image shows a room with two bunk beds, a chair, and a dresser, all situated on a wooden floor.
+An image with a wall, a cabinet, two beds, a window, a chair, and a floor.
+An image with a chair, a cabinet, a wall, two beds, a floor, and a window.
+An image with two beds, a cabinet, a chair, a wall, a floor, and a window.
+An image with a wall, a cabinet, two beds, a window, a floor, and a chair.
+An image with a window, two beds, a floor, a chair, a cabinet, and a wall.

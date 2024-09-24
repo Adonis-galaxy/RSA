@@ -8,3 +8,8 @@ A narrow road between two brick walls.
 The image captures a narrow, tree-lined street that appears to be a dead-end, with a single car parked at the end, and a person walking on the sidewalk, adding a sense of scale and life to the otherwise still and quiet scene.
 The image shows a narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a tunnel.
 A narrow, tree-lined road with a brick wall on one side and a stone wall on the other, leading to a tunnel.
+An image with a road, a car, a sky, a pavement, a tree, a stop, and a wall.
+An image with a tree, a sky, a wall, a pavement, a stop, a road, and a car.
+An image with a tree, a pavement, a road, a wall, a car, a stop, and a sky.
+An image with a sky, a road, a wall, a car, a pavement, a stop, and a tree.
+An image with a road, a wall, a sky, a stop, a car, a tree, and a pavement.

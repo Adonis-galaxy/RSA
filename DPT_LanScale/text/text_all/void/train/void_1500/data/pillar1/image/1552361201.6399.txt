@@ -8,3 +8,8 @@ A box and a checkerboard leaning against a wall.
 A box of paper and a checkered board leaning against a wall.
 A cardboard box with a red warning label and a roll of paper and a checkered board leaning against a white wall.
 A cardboard box with a red warning label sits next to a black and white checkered board leaning against a white wall.
+An image with a wall, a paper, a floor, a door, and a cardboard.
+An image with a cardboard, a wall, a floor, a door, and a paper.
+An image with a door, a cardboard, a wall, a paper, and a floor.
+An image with a door, a wall, a paper, a floor, and a cardboard.
+An image with a floor, a wall, a cardboard, a door, and a paper.

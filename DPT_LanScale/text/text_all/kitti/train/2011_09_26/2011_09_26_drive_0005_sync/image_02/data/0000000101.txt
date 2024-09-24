@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street scene, with a focus on a newspaper stand, a pedestrian, a cyclist, and a parked orange truck, all sharing the urban space under a sunny sky.
 A large orange truck is parked on the side of a busy street, with a yellow umbrella and a newspaper stand nearby.
 A bustling city street scene with a mix of pedestrians, vehicles, and a small kiosk under a yellow umbrella.
+An image with ten cars, two people, a building, two potteds, a umbrella, a pavement, a truck, a tree, a bicycle, and a road.
+An image with two potteds, a tree, ten cars, a pavement, a truck, a building, a road, a umbrella, a bicycle, and two people.
+An image with ten cars, a road, a truck, a building, two people, two potteds, a bicycle, a pavement, a umbrella, and a tree.
+An image with two people, a bicycle, a pavement, two potteds, a road, ten cars, a umbrella, a truck, a building, and a tree.
+An image with a umbrella, ten cars, a pavement, two potteds, a bicycle, a road, two people, a truck, a tree, and a building.

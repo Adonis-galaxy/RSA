@@ -8,3 +8,8 @@ A black chair in front of a window.
 A black chair sits in front of a desk with a phone and a book on it, next to a window with a checkered pattern.
 The image shows a small room with a window, a desk with a chair, a black box, a phone, and a book.
 The image shows a small room with a window, a desk with a chair, a box with a checkered top, and a book on the desk.
+An image with a cup, two books, a rug, a wall, a dining, a window, and a chair.
+An image with two books, a dining, a wall, a cup, a chair, a window, and a rug.
+An image with a wall, a cup, a rug, a window, two books, a dining, and a chair.
+An image with a dining, a rug, a window, a cup, a chair, two books, and a wall.
+An image with a rug, a dining, two books, a window, a cup, a chair, and a wall.

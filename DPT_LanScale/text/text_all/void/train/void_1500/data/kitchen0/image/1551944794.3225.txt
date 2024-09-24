@@ -8,3 +8,8 @@ A blurry image of a kitchen sink.
 The image shows a small, cluttered kitchenette with a sink, a counter, and various items on the counter.
 The image shows a small, orange kitchenette with a sink, a cabinet, and a counter.
 The image shows a small, cluttered kitchenette with a sink, a counter, and a cabinet.
+An image with a paper, a sink, two bottles, a counter, a wall, and a cabinet.
+An image with two bottles, a sink, a wall, a counter, a paper, and a cabinet.
+An image with two bottles, a wall, a counter, a paper, a sink, and a cabinet.
+An image with a wall, a sink, a cabinet, a paper, two bottles, and a counter.
+An image with two bottles, a paper, a wall, a counter, a cabinet, and a sink.

@@ -8,3 +8,8 @@ A gray office chair.
 A gray office chair sits in front of a desk with a hat on it.
 A gray office chair with a black seat and a black hat on a desk.
 A modern office chair with a woven hat on a desk.
+An image with a tv, a table, a keyboard, a rug, a cabinet, a chair, a wall, and a paper.
+An image with a keyboard, a rug, a wall, a table, a cabinet, a paper, a tv, and a chair.
+An image with a keyboard, a wall, a rug, a paper, a chair, a cabinet, a table, and a tv.
+An image with a tv, a rug, a chair, a wall, a paper, a table, a keyboard, and a cabinet.
+An image with a tv, a cabinet, a table, a rug, a keyboard, a wall, a paper, and a chair.

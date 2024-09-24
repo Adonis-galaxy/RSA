@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a stop sign.
 A quiet residential street with parked cars and a clear sky.
 The image shows a street scene with a large silver car driving down the road, parked cars on the side, a red and blue traffic sign, and a house with a black roof.
 A narrow street lined with parked cars and houses, with a red and blue sign on the right side.
+An image with seven cars, a suitcase, a tree, a sky, a pavement, a stop, a bus, a house, a roof, and a road.
+An image with seven cars, a sky, a roof, a road, a pavement, a house, a suitcase, a bus, a tree, and a stop.
+An image with a tree, a sky, a pavement, a roof, seven cars, a stop, a suitcase, a road, a bus, and a house.
+An image with seven cars, a tree, a house, a stop, a bus, a suitcase, a road, a sky, a roof, and a pavement.
+An image with seven cars, a house, a tree, a roof, a bus, a sky, a stop, a suitcase, a road, and a pavement.

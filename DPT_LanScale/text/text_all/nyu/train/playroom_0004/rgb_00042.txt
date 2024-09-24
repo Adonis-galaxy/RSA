@@ -8,3 +8,8 @@ A black flat screen television.
 A room with a television, a chair, a ball, and a window.
 The image shows a small room with a large flat-screen TV, a chair, a ball, and a cabinet.
 The image shows a living room with a television, a chair, a ball, and a cabinet.
+An image with a rug, a sports, a chair, a window, a wall, a cabinet, and a tv.
+An image with a wall, a tv, a cabinet, a window, a chair, a sports, and a rug.
+An image with a wall, a chair, a window, a tv, a sports, a cabinet, and a rug.
+An image with a sports, a cabinet, a window, a chair, a tv, a rug, and a wall.
+An image with a window, a rug, a tv, a wall, a sports, a chair, and a cabinet.

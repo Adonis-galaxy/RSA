@@ -8,3 +8,8 @@ A black piano in a room.
 A black grand piano with a stool, situated in a room with a blue wall and a framed picture, next to a red and black wheelchair.
 A large black piano with a bench in a room with a blue wall and a framed picture on the wall.
 A black grand piano with a stool is situated in a room with a blue wall, a framed picture, and a red wheelchair.
+An image with a floor, a chair, and a wall.
+An image with a chair, a wall, and a floor.
+An image with a wall, a floor, and a chair.
+An image with a wall, a floor, and a chair.
+An image with a wall, a chair, and a floor.

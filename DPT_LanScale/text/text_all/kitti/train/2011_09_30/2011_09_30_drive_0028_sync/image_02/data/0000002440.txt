@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a lone bird.
 The image shows a residential street with parked cars, a sidewalk, and a grassy area.
 A quiet residential street with parked cars and a clear sky.
+An image with a sky, a door, five cars, a pavement, a roof, a bird, a truck, a tree, a building, a road, and a grass.
+An image with a truck, five cars, a tree, a building, a sky, a grass, a pavement, a roof, a bird, a road, and a door.
+An image with a building, five cars, a grass, a road, a door, a tree, a roof, a bird, a pavement, a truck, and a sky.
+An image with a pavement, a truck, a road, a building, a bird, five cars, a grass, a sky, a door, a tree, and a roof.
+An image with five cars, a tree, a roof, a building, a truck, a sky, a grass, a door, a bird, a road, and a pavement.

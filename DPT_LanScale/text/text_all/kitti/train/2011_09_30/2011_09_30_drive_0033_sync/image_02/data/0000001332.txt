@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a bus.
 The image captures a quiet residential street, lined with trees and parked cars, leading to a white building with a red roof.
 The image shows a narrow street lined with trees and buildings, with a few parked cars and a bus parked on the side.
 The image depicts a narrow, tree-lined street with parked cars, a bus, and a truck, leading to a white building with a red roof.
+An image with five cars, a tree, two walls, a sky, a pavement, a flower, a house, a truck, and a road.
+An image with five cars, two walls, a house, a pavement, a tree, a truck, a sky, a road, and a flower.
+An image with a pavement, a house, five cars, a tree, two walls, a truck, a sky, a flower, and a road.
+An image with a house, five cars, a road, a sky, two walls, a pavement, a truck, a flower, and a tree.
+An image with two walls, a house, five cars, a truck, a flower, a pavement, a tree, a sky, and a road.

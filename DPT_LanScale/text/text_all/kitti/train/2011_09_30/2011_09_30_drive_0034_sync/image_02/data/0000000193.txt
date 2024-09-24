@@ -8,3 +8,8 @@ A narrow alleyway between two walls of hedges.
 A narrow, sunlit alleyway between two walls of lush greenery, with a solitary street lamp casting a long shadow.
 The image shows a narrow, sunlit alleyway between two walls of lush greenery, with a small, dark-colored object on the right side.
 A narrow, sunlit alleyway between two walls of lush greenery, with a solitary street lamp casting a long shadow.
+An image with a tree, a sky, a pavement, a wall, a house, and a car.
+An image with a pavement, a wall, a tree, a sky, a house, and a car.
+An image with a pavement, a sky, a wall, a tree, a car, and a house.
+An image with a wall, a pavement, a sky, a car, a tree, and a house.
+An image with a sky, a wall, a car, a pavement, a tree, and a house.

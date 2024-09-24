@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined street in a residential area, with a few parked cars and a person walking, under a bright sunny sky.
 A narrow, tree-lined street with parked cars and a single vehicle driving down it.
 A narrow, tree-lined street in a residential area, with parked cars and a van, leading to a white house with a black roof.
+An image with a house, a road, a tree, a wall, four cars, and a sky.
+An image with a road, four cars, a house, a wall, a tree, and a sky.
+An image with a sky, a house, a road, four cars, a tree, and a wall.
+An image with a road, a tree, four cars, a house, a sky, and a wall.
+An image with four cars, a wall, a road, a sky, a tree, and a house.

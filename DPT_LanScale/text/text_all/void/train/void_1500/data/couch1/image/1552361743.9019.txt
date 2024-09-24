@@ -8,3 +8,8 @@ A soccer ball on a black couch.
 A white soccer ball sitting on a black couch next to a gray jacket.
 A white soccer ball sitting on a black leather couch.
 A white soccer ball sitting on a black leather couch, with a gray jacket hanging on the armrest.
+An image with a sports, a floor, a wall, a backpack, and a couch.
+An image with a backpack, a wall, a couch, a floor, and a sports.
+An image with a wall, a floor, a couch, a sports, and a backpack.
+An image with a backpack, a couch, a wall, a sports, and a floor.
+An image with a wall, a sports, a backpack, a couch, and a floor.

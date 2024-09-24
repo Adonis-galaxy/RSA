@@ -8,3 +8,8 @@ A blurry image of a computer monitor on a desk.
 A blurry image of a computer monitor on a desk with a blue chair and a yellow sign.
 The image shows a blurry view of a computer monitor on a wooden desk, with a blue chair and a blue cart in the background.
 The image shows a computer monitor on a wooden desk, with a blue chair and a white table in the background.
+An image with a floor, a chair, a tv, and a table.
+An image with a tv, a table, a chair, and a floor.
+An image with a table, a floor, a tv, and a chair.
+An image with a floor, a chair, a table, and a tv.
+An image with a table, a chair, a tv, and a floor.

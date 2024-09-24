@@ -8,3 +8,8 @@ A stack of white boxes on a table.
 A stack of white boxes on a table next to a blue box and a trash can.
 The image shows a small room with a black cabinet, a white printer, a blue box, and a trash can.
 The image shows a small room with a black cabinet, a white printer, and a blue box on a table.
+An image with a paper, a wall, a cabinet, a cardboard, and a table.
+An image with a cabinet, a wall, a table, a paper, and a cardboard.
+An image with a paper, a wall, a cabinet, a table, and a cardboard.
+An image with a table, a wall, a paper, a cardboard, and a cabinet.
+An image with a cardboard, a cabinet, a wall, a table, and a paper.

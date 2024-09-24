@@ -8,3 +8,8 @@ The image shows a street scene with a car, bicyclists, and pedestrians.
 The image captures a tranquil day on a tree-lined street, with a few cyclists and pedestrians enjoying the shade under the clear blue sky.
 A large, empty road with a few cars and bicycles, surrounded by trees and buildings.
 A quiet, tree-lined street with a few pedestrians and cyclists, leading to a crosswalk and a train station.
+An image with a road, six traffics, a car, three people, a pavement, a bicycle, a grass, a tree, a truck, and a building.
+An image with a road, three people, a pavement, six traffics, a car, a truck, a bicycle, a tree, a building, and a grass.
+An image with a truck, a pavement, a car, six traffics, a building, a bicycle, three people, a grass, a tree, and a road.
+An image with six traffics, three people, a grass, a pavement, a bicycle, a tree, a car, a truck, a building, and a road.
+An image with a building, six traffics, a tree, a road, three people, a truck, a car, a bicycle, a pavement, and a grass.

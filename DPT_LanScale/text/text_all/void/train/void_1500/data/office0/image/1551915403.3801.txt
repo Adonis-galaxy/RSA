@@ -8,3 +8,8 @@ The image shows a whiteboard with a black marker on it, sitting on a table with 
 The image shows a whiteboard with a black marker on a wall, a black chair in front of a white marble table, and a stack of papers on the table.
 The image shows a whiteboard with a black marker on a wall, a black chair in the foreground, and a white marble table with papers on it.
 The image shows a classroom setting with a whiteboard, a table with papers on it, and a black chair.
+An image with two chairs, a tv, a book, a wall, and a dining.
+An image with a tv, two chairs, a wall, a book, and a dining.
+An image with two chairs, a book, a dining, a wall, and a tv.
+An image with a dining, two chairs, a tv, a wall, and a book.
+An image with a wall, a book, a tv, two chairs, and a dining.

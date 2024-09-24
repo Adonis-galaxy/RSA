@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a building.
 The image captures a quiet residential street scene with parked cars in front of apartment buildings, under a clear sky.
 The image shows a street scene with several cars parked along the side of a road, a building with multiple windows, and a tree.
 The image shows a street scene with parked cars in front of a row of buildings, with a clear sky and sunlight casting shadows on the ground.
+An image with a tree, five cars, a house, a pavement, and a road.
+An image with a road, a house, five cars, a pavement, and a tree.
+An image with a road, five cars, a house, a pavement, and a tree.
+An image with a tree, a house, five cars, a road, and a pavement.
+An image with five cars, a tree, a pavement, a house, and a road.

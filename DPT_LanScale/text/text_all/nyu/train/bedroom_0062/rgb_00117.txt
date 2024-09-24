@@ -8,3 +8,8 @@ The image shows a dark room with a door and a piece of artwork on the wall.
 The image captures a dimly lit room with a door partially open, revealing a dark interior. On the right side of the frame, there is a small, square object with a circular design, possibly a decorative piece or a box, placed on a surface. The overall atmosphere is quiet and somewhat mysterious due to the low lighting and the obscured view of the room's interior.
 The image shows a dark room with a large doorway, a small table with a box on it, and a wall decorated with circular patterns.
 The image shows a dark hallway with a door on the left, a wall-mounted light switch, a closed door on the right, and a piece of artwork with circular patterns on the wall above a wooden table.
+An image with a door, a chair, a wall, a table, a floor, and a cell.
+An image with a cell, a door, a wall, a chair, a floor, and a table.
+An image with a table, a wall, a floor, a cell, a door, and a chair.
+An image with a table, a cell, a door, a chair, a wall, and a floor.
+An image with a wall, a chair, a door, a floor, a table, and a cell.

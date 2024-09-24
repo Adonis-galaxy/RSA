@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a typical day in a narrow European street, where parked cars line the sides, and a delivery truck is making its way down the road, with a building and trees in the background.
 A narrow street lined with parked cars and buildings, with a truck driving down the middle.
 A narrow street lined with parked cars and buildings, with a truck driving down the middle.
+An image with a road, twelve cars, a sky, a truck, a gravel, a house, a wall, a pavement, a fence, and a tree.
+An image with twelve cars, a sky, a road, a tree, a truck, a gravel, a fence, a wall, a house, and a pavement.
+An image with twelve cars, a truck, a fence, a sky, a house, a pavement, a wall, a road, a tree, and a gravel.
+An image with a gravel, a road, twelve cars, a sky, a house, a pavement, a tree, a wall, a fence, and a truck.
+An image with twelve cars, a road, a sky, a gravel, a fence, a pavement, a truck, a tree, a house, and a wall.

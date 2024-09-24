@@ -8,3 +8,8 @@ A tree-lined street with parked cars.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars on both sides, leading to a row of houses in the distance.
 A tree-lined street with parked cars on the side, leading to a residential area.
+An image with eight cars, a fence, a flower, a sky, a house, a road, a tree, and a pavement.
+An image with eight cars, a tree, a flower, a house, a pavement, a sky, a fence, and a road.
+An image with eight cars, a road, a fence, a tree, a house, a pavement, a sky, and a flower.
+An image with eight cars, a road, a house, a flower, a tree, a pavement, a sky, and a fence.
+An image with a fence, eight cars, a house, a road, a flower, a sky, a tree, and a pavement.

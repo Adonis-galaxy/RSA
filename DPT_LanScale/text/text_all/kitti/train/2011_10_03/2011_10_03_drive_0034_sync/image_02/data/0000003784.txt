@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a mix of architectural styles, lush greenery, and a clear blue sky.
 The image shows a residential street with houses, trees, and a sidewalk.
 The image depicts a residential street with a mix of architectural styles, featuring a two-story house with a flat roof, a white house with a sloped roof, and a brick house with a pitched roof, all lined with trees and bushes, and a sidewalk leading to a street corner with a lamp post.
+An image with a car, a sky, a fence, a tree, a door, a pavement, a wall, a road, a potted, and a stairs.
+An image with a pavement, a stairs, a wall, a tree, a potted, a car, a fence, a road, a door, and a sky.
+An image with a pavement, a wall, a stairs, a car, a door, a sky, a potted, a road, a fence, and a tree.
+An image with a stairs, a door, a road, a sky, a pavement, a car, a tree, a fence, a potted, and a wall.
+An image with a door, a car, a tree, a road, a sky, a potted, a pavement, a wall, a stairs, and a fence.

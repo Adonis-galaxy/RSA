@@ -8,3 +8,8 @@ A black couch with a television mounted on the wall.
 A black couch with a television mounted on the wall above it.
 A black couch with a flat screen television mounted on the wall above it.
 A black couch with a television mounted on the wall above it.
+An image with a chair, a wall, a tv, a curtain, a table, and a couch.
+An image with a chair, a curtain, a table, a wall, a tv, and a couch.
+An image with a wall, a tv, a curtain, a couch, a table, and a chair.
+An image with a chair, a table, a tv, a wall, a curtain, and a couch.
+An image with a table, a wall, a chair, a couch, a tv, and a curtain.

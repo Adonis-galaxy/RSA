@@ -8,3 +8,8 @@ The image shows a narrow street with a white van parked on the side.
 A quiet, tree-lined street with a parked van and a solitary trash can, under a clear sky.
 A narrow street lined with trees and stone walls, with a white van parked on the side and a white trash can on the sidewalk.
 A narrow, tree-lined street with parked cars, a trash can, and a brick wall.
+An image with a grass, a sky, a pavement, a door, a wall, a road, a truck, and a tree.
+An image with a wall, a road, a door, a sky, a truck, a pavement, a grass, and a tree.
+An image with a tree, a pavement, a grass, a wall, a sky, a road, a truck, and a door.
+An image with a truck, a door, a road, a wall, a sky, a tree, a pavement, and a grass.
+An image with a truck, a door, a wall, a pavement, a grass, a road, a sky, and a tree.

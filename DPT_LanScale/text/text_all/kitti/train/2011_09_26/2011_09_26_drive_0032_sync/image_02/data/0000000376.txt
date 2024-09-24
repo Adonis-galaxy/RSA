@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes and vehicles.
 The image captures a bustling city street with a mix of vehicles, including cars and trucks, navigating through an intersection under a clear sky.
 The image shows a busy road with multiple vehicles, including cars and trucks, driving in both directions. The road is lined with trees and there are traffic lights and signs visible. The sky is overcast, and the overall scene suggests a typical day in a suburban or rural area.
 The image depicts a busy road with multiple lanes, a crosswalk, and traffic lights, all under a bright, sunny sky.
+An image with four cars, a truck, four traffics, a road, a pavement, a grass, and a tree.
+An image with a truck, four traffics, a road, a tree, a pavement, a grass, and four cars.
+An image with four traffics, a grass, a tree, a truck, a pavement, a road, and four cars.
+An image with a road, four cars, a tree, four traffics, a pavement, a grass, and a truck.
+An image with a grass, four traffics, a tree, a road, four cars, a pavement, and a truck.

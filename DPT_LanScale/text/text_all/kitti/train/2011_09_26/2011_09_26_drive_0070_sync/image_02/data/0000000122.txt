@@ -8,3 +8,8 @@ The image shows a road with a white line in the middle.
 The image captures a serene, tree-lined road with a single vehicle in motion, set against a backdrop of a clear sky and lush greenery.
 The image shows a wide, tree-lined road with a car driving on it, and a white line on the right side of the road.
 The image depicts a rural road with a clear view of the surrounding landscape, including trees and a hill, with a single vehicle in motion.
+An image with a pavement, a road, a grass, a sky, a tree, and a car.
+An image with a grass, a road, a pavement, a tree, a car, and a sky.
+An image with a grass, a road, a tree, a sky, a car, and a pavement.
+An image with a car, a road, a tree, a sky, a pavement, and a grass.
+An image with a sky, a car, a tree, a road, a pavement, and a grass.

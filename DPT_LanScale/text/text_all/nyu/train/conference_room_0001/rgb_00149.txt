@@ -8,3 +8,8 @@ The image shows a conference table with four chairs.
 The image shows an empty conference room with a long table and four chairs, each with a potted plant on the table, and a power outlet on the wall.
 The image shows a long, narrow conference table with four black chairs, two of which are occupied by small items, and a whiteboard with a single word written on it.
 The image shows a modern conference room with a long table, four black chairs, and a marble tabletop.
+An image with a wall, a dining, three chairs, two potteds, a light, and a floor.
+An image with a wall, three chairs, a dining, a light, two potteds, and a floor.
+An image with a floor, three chairs, a dining, a wall, two potteds, and a light.
+An image with two potteds, three chairs, a floor, a light, a wall, and a dining.
+An image with three chairs, two potteds, a wall, a dining, a floor, and a light.

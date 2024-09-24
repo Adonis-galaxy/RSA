@@ -8,3 +8,8 @@ A yellow pipe attached to a sink.
 A yellow pipe is attached to a sink in a room with a white tiled floor.
 A yellow pipe is attached to a sink in a room with a white tiled floor.
 The image shows a yellow pipe attached to a sink, with a red cabinet underneath, all set against a white wall.
+An image with a sink, a cabinet, a floor, and a wall.
+An image with a sink, a floor, a cabinet, and a wall.
+An image with a sink, a wall, a floor, and a cabinet.
+An image with a cabinet, a sink, a floor, and a wall.
+An image with a wall, a sink, a cabinet, and a floor.

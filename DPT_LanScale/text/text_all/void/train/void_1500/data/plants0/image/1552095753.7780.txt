@@ -8,3 +8,8 @@ The image shows a garden area with a variety of plants and trees, and a wooden b
 The image shows a small garden area with a few trees, a concrete curb, and some plants growing in the sandy soil.
 The image shows a small garden area with a few trees, a concrete curb, and some plants.
 The image shows a small garden area with a few trees, a concrete curb, and a wooden deck.
+An image with a floor, a dirt, a tree, two walls, a pavement, and a paper.
+An image with a dirt, two walls, a paper, a floor, a pavement, and a tree.
+An image with two walls, a dirt, a pavement, a tree, a floor, and a paper.
+An image with two walls, a tree, a floor, a dirt, a pavement, and a paper.
+An image with two walls, a dirt, a paper, a floor, a pavement, and a tree.

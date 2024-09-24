@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, with a parked car on the sidewalk and a solitary figure walking on the sidewalk, under a clear blue sky.
 A narrow street with parked cars, lined by houses and trees, and a sidewalk with a staircase.
 A quiet residential street with parked cars, a sidewalk, and a tree-lined road.
+An image with a house, a grass, three cars, a pavement, a stairs, a road, a tree, a sky, and a wall.
+An image with a stairs, a house, three cars, a wall, a pavement, a tree, a sky, a road, and a grass.
+An image with a grass, three cars, a house, a sky, a tree, a road, a stairs, a wall, and a pavement.
+An image with three cars, a sky, a wall, a stairs, a grass, a tree, a road, a pavement, and a house.
+An image with a sky, a wall, a tree, a stairs, three cars, a grass, a house, a road, and a pavement.

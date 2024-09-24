@@ -8,3 +8,8 @@ A classroom with empty seats and a projector.
 A classroom with empty seats and a projector.
 The image shows a classroom with rows of empty seats, a projector on a cart, and a podium.
 The image shows an empty classroom with rows of chairs and a projector on a cart.
+An image with a floor, eight chairs, and a wall.
+An image with eight chairs, a floor, and a wall.
+An image with a wall, a floor, and eight chairs.
+An image with eight chairs, a wall, and a floor.
+An image with a wall, eight chairs, and a floor.

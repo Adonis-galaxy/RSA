@@ -8,3 +8,8 @@ A row of garage doors.
 A row of closed garage doors, each with a single open door, forming a curved driveway leading to a car parked on the street.
 A large, white, multi-door garage with a curved driveway.
 A row of garage doors on a building, with a curved driveway leading to it.
+An image with a road, a car, a grass, a building, a tree, and a pavement.
+An image with a road, a tree, a pavement, a building, a grass, and a car.
+An image with a pavement, a road, a tree, a car, a grass, and a building.
+An image with a road, a pavement, a grass, a car, a tree, and a building.
+An image with a car, a road, a building, a tree, a pavement, and a grass.

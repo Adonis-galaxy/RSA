@@ -8,3 +8,8 @@ A computer mouse on a desk.
 A computer mouse on a desk next to a keyboard.
 A computer desk with a black keyboard, mouse, and two black chairs.
 A computer desk with a keyboard, mouse, and two chairs.
+An image with three chairs, a wall, two tvs, a mouse, a rug, two keyboards, and a table.
+An image with a mouse, a wall, two keyboards, a rug, a table, three chairs, and two tvs.
+An image with three chairs, a mouse, a wall, a table, a rug, two tvs, and two keyboards.
+An image with a wall, two tvs, a table, a rug, three chairs, a mouse, and two keyboards.
+An image with two tvs, three chairs, two keyboards, a table, a wall, a mouse, and a rug.

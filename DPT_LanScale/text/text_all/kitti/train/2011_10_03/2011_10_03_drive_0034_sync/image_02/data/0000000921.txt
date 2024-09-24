@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a tree-lined street, with a fence and a sidewalk on the right side.
 A person riding a motorcycle down a tree-lined street.
 A person riding a motorcycle down a tree-lined street with a fence on the right side.
+An image with a motorcycle, a person, a road, a sky, a tree, a pavement, a grass, and a wall.
+An image with a tree, a road, a grass, a motorcycle, a sky, a pavement, a wall, and a person.
+An image with a grass, a person, a road, a motorcycle, a tree, a wall, a sky, and a pavement.
+An image with a motorcycle, a tree, a road, a wall, a sky, a grass, a person, and a pavement.
+An image with a wall, a sky, a grass, a tree, a pavement, a motorcycle, a road, and a person.

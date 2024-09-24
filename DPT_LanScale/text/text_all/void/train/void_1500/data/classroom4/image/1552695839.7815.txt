@@ -8,3 +8,8 @@ A blurry image of a desk with a computer, papers, and a chair.
 A blurry image of a desk with a computer, papers, and a chair.
 A blurry image of a desk with a computer, keyboard, mouse, and papers.
 The image shows a blurry computer desk with a keyboard, mouse, and papers on it, with a chair in the foreground.
+An image with two tvs, two keyboards, a mouse, a paper, a chair, a table, a wall, and a book.
+An image with a chair, two tvs, two keyboards, a book, a table, a wall, a mouse, and a paper.
+An image with two tvs, a chair, two keyboards, a wall, a mouse, a book, a table, and a paper.
+An image with two keyboards, a wall, two tvs, a table, a mouse, a paper, a chair, and a book.
+An image with two keyboards, a paper, a mouse, two tvs, a table, a book, a chair, and a wall.

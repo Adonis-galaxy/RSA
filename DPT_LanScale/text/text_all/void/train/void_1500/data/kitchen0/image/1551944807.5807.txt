@@ -8,3 +8,8 @@ The image shows a kitchen counter with a white box on it.
 The image shows a kitchen counter with a white box on it, and the counter is next to a sink.
 The image shows a blurry kitchen counter with an orange wall, a white box, a sink, and a cabinet.
 The image shows a kitchen with orange cabinets, a white countertop, a sink, and a white box on the counter.
+An image with a wall, a paper, a sink, a cabinet, and a counter.
+An image with a sink, a paper, a counter, a wall, and a cabinet.
+An image with a paper, a sink, a cabinet, a wall, and a counter.
+An image with a counter, a sink, a wall, a cabinet, and a paper.
+An image with a sink, a cabinet, a wall, a counter, and a paper.

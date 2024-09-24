@@ -8,3 +8,8 @@ A kitchen counter with a white box on it.
 The image shows a kitchen counter with a white box, a blue container, and a yellow container on it, with a white refrigerator in the background.
 The image shows a kitchen counter with a white box, a black bottle, and three blue containers on it, with a white refrigerator to the right.
 The image shows a kitchen with orange cabinets, a white countertop, a white refrigerator, and a white sink.
+An image with a sink, a cabinet, a counter, a refrigerator, and a wall.
+An image with a refrigerator, a counter, a sink, a cabinet, and a wall.
+An image with a sink, a refrigerator, a cabinet, a wall, and a counter.
+An image with a sink, a wall, a counter, a cabinet, and a refrigerator.
+An image with a counter, a sink, a cabinet, a refrigerator, and a wall.

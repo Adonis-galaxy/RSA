@@ -8,3 +8,8 @@ The image shows a street scene with a roundabout, a red and blue sign, and a tre
 The image captures a quiet residential street, with a mix of modern and traditional architecture, lined by trees and a sidewalk, leading to a building with a blue sign.
 The image shows a street scene with a large building on the right, a tree on the left, a roundabout in the foreground, and a blue sign with a red circle in the background.
 The image depicts a residential street scene with a mix of modern and traditional architecture, featuring apartment buildings, a tree-lined sidewalk, and a roundabout.
+An image with a stop, a pavement, a tree, a road, a sky, and a building.
+An image with a building, a tree, a pavement, a stop, a sky, and a road.
+An image with a stop, a tree, a pavement, a building, a road, and a sky.
+An image with a building, a sky, a stop, a road, a pavement, and a tree.
+An image with a sky, a tree, a building, a pavement, a road, and a stop.

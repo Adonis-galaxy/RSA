@@ -8,3 +8,8 @@ A white couch in a living room.
 A white couch with two pillows, positioned in front of a window, in a room with a bookshelf.
 A large, white, three-seater sofa with two cushions and a wooden frame, positioned in front of a window with white curtains, on a carpeted floor.
 A white couch with two pillows is positioned in front of a window with a view of a bookshelf.
+An image with four books, a window, a couch, a wall, and a rug.
+An image with four books, a wall, a couch, a rug, and a window.
+An image with four books, a couch, a wall, a rug, and a window.
+An image with four books, a rug, a couch, a wall, and a window.
+An image with a wall, four books, a window, a rug, and a couch.

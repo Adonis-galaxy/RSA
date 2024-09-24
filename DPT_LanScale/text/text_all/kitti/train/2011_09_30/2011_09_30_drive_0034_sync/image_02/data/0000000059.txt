@@ -8,3 +8,8 @@ A road in a rural area.
 A serene, tree-lined road leads to a quaint, white house nestled in a lush, green field, under a clear, sunny sky.
 A narrow road runs between two grassy areas, with a white house on the right side and a street lamp on the left side.
 A narrow, tree-lined road leads to a white house with a green lawn, situated on a hillside.
+An image with a sky, a fence, a tree, a house, a road, and a grass.
+An image with a sky, a tree, a fence, a grass, a house, and a road.
+An image with a house, a fence, a grass, a sky, a road, and a tree.
+An image with a house, a sky, a tree, a grass, a road, and a fence.
+An image with a road, a sky, a tree, a fence, a grass, and a house.

@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a road, a sidewalk, trees,
 The image captures a quiet residential street, with a clear view of a white building, a road with a sidewalk, a few parked cars, and a construction area with a sign indicating a pedestrian crossing.
 The image shows a street scene with a large white building on the right, a road with a small car parked on the left, a construction area with a yellow sign in the middle, and a red and white sign on the right.
 The image shows a street scene with a white building on the right, a road with a sidewalk on the left, and a construction area with a sign indicating a pedestrian crossing.
+An image with a grass, a house, a sky, four cars, a building, a fence, a tree, and a road.
+An image with a grass, a fence, a road, a tree, a house, four cars, a sky, and a building.
+An image with four cars, a house, a sky, a grass, a tree, a building, a road, and a fence.
+An image with four cars, a house, a tree, a building, a fence, a sky, a road, and a grass.
+An image with four cars, a road, a fence, a grass, a building, a house, a tree, and a sky.

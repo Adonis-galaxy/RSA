@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street with parked cars and a pedestrian, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a person standing next to a parked car.
 A narrow street in a residential area with parked cars, a person standing by a car, and a blue mailbox.
+An image with a wall, a pavement, a airplane, a road, a house, a fence, a person, three cars, a truck, a sky, and a tree.
+An image with three cars, a sky, a fence, a tree, a airplane, a person, a road, a house, a pavement, a wall, and a truck.
+An image with a truck, three cars, a road, a person, a sky, a house, a tree, a wall, a fence, a pavement, and a airplane.
+An image with a wall, three cars, a tree, a pavement, a truck, a sky, a airplane, a person, a house, a road, and a fence.
+An image with a fence, a pavement, a tree, a airplane, a person, a sky, a wall, three cars, a truck, a house, and a road.

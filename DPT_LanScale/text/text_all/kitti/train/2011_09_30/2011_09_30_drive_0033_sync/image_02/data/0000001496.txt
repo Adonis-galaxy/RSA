@@ -8,3 +8,8 @@ The image is a photograph of a street corner with a roundabout, trees, and stree
 The image captures a serene, tree-lined road with a clear sky overhead, where a car is seen approaching a roundabout with a traffic sign and a street lamp.
 The image shows a street scene with a large, curved road, a few trees, a car, a roundabout, a pedestrian crossing, and a sign.
 The image depicts a rural road with a curved layout, featuring a roundabout, a street sign, a traffic light, and a car on the road.
+An image with a car, a road, a pavement, a tree, and a dirt.
+An image with a tree, a road, a pavement, a dirt, and a car.
+An image with a tree, a car, a road, a dirt, and a pavement.
+An image with a road, a tree, a dirt, a pavement, and a car.
+An image with a pavement, a car, a road, a tree, and a dirt.

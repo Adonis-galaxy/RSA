@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A parked silver car on a tree-lined street, with a person walking in the background.
 A car is parked on the side of a road, and another car is driving down the road.
 A car is parked on the side of a road with a sidewalk, trees, and a person walking in the background.
+An image with three cars, a tree, a sky, two people, a pavement, a road, a grass, and a building.
+An image with three cars, a building, two people, a sky, a pavement, a tree, a road, and a grass.
+An image with a pavement, a grass, a road, a building, two people, a tree, three cars, and a sky.
+An image with a grass, two people, a tree, three cars, a road, a sky, a pavement, and a building.
+An image with two people, three cars, a building, a sky, a tree, a grass, a pavement, and a road.

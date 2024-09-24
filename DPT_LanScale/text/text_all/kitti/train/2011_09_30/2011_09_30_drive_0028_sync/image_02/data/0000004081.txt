@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 A narrow street lined with parked cars, trees, and a truck, with a clear sky overhead.
 A long, narrow street lined with parked cars and trees, with a large truck parked at the end.
 A narrow street lined with parked cars and trees, leading to a clearing where a truck is parked.
+An image with a wall, five cars, a tree, a bridge, a truck, a road, a sky, and a person.
+An image with a tree, a sky, five cars, a road, a wall, a bridge, a person, and a truck.
+An image with a bridge, a tree, a person, a wall, five cars, a sky, a road, and a truck.
+An image with a sky, a tree, a wall, a bridge, five cars, a truck, a person, and a road.
+An image with a sky, five cars, a tree, a wall, a bridge, a person, a road, and a truck.

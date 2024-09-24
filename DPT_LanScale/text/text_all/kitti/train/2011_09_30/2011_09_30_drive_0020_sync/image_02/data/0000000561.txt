@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a serene residential street, lined with houses and parked cars, under a clear blue sky.
 The image shows a residential street with houses on both sides, a paved road, and a few parked cars. The sky is clear and blue, indicating a sunny day.
 A quiet residential street with parked cars, lined by houses and trees, under a clear blue sky.
+An image with eight cars, a truck, a grass, a pavement, a tree, a road, and a house.
+An image with eight cars, a road, a house, a tree, a truck, a grass, and a pavement.
+An image with eight cars, a grass, a road, a house, a truck, a pavement, and a tree.
+An image with a road, a pavement, eight cars, a tree, a house, a truck, and a grass.
+An image with a grass, eight cars, a truck, a pavement, a house, a road, and a tree.

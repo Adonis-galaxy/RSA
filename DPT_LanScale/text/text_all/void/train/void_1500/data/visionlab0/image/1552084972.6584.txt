@@ -8,3 +8,8 @@ A blue backpack sitting on a blue chair.
 A blue backpack is sitting on a blue chair in an office setting.
 A blue backpack is sitting on a blue chair in an office setting.
 A blue backpack is sitting on a blue chair in an office setting.
+An image with a wall, a chair, a car, a bed, a backpack, a table, and a floor.
+An image with a table, a car, a wall, a chair, a backpack, a bed, and a floor.
+An image with a wall, a car, a table, a backpack, a floor, a bed, and a chair.
+An image with a chair, a wall, a table, a floor, a bed, a car, and a backpack.
+An image with a chair, a car, a floor, a bed, a backpack, a wall, and a table.

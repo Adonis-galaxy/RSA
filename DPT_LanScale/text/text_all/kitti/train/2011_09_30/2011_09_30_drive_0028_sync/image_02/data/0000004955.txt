@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street with parked cars, lined by buildings and trees, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 The image depicts a quiet residential street with parked cars, a clear sky, and a mix of modern and traditional architecture.
+An image with seven cars, a sky, a stop, a tree, a road, a building, a person, and a pavement.
+An image with seven cars, a pavement, a building, a tree, a person, a stop, a sky, and a road.
+An image with a stop, seven cars, a building, a pavement, a person, a sky, a road, and a tree.
+An image with seven cars, a sky, a building, a stop, a tree, a road, a pavement, and a person.
+An image with a road, seven cars, a person, a pavement, a stop, a tree, a sky, and a building.

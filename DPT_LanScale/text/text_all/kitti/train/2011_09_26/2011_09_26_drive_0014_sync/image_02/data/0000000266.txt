@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car driving down it.
 The image captures a tranquil suburban street, lined with trees and a clear sky, with a car driving away from the viewer, creating a sense of depth and perspective.
 The image shows a wide, tree-lined road with a car in the distance, a clear sky, and a sign on the right side.
 The image shows a tree-lined street with a clear sky, a car in the distance, and a sign indicating a no-entry zone.
+An image with three traffics, a truck, a tree, a stop, a grass, a car, and a road.
+An image with a stop, a road, three traffics, a car, a truck, a grass, and a tree.
+An image with a tree, three traffics, a truck, a road, a grass, a car, and a stop.
+An image with a tree, three traffics, a grass, a car, a truck, a road, and a stop.
+An image with a road, a grass, a car, three traffics, a tree, a truck, and a stop.

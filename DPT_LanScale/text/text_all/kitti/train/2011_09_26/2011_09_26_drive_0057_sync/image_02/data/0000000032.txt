@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and is surrounded by a suburban environment with trees and buildings.
 A red car is driving down a street with multiple traffic lights and signs, and the road curves to the right.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and surrounded by a suburban landscape with trees and buildings.
+An image with a sky, a pavement, nine cars, nine traffics, a grass, a tree, a mountain, a house, and a road.
+An image with a house, nine traffics, nine cars, a mountain, a road, a tree, a grass, a sky, and a pavement.
+An image with nine cars, a mountain, a pavement, nine traffics, a tree, a house, a grass, a road, and a sky.
+An image with a pavement, nine cars, nine traffics, a tree, a mountain, a road, a house, a sky, and a grass.
+An image with a grass, nine traffics, a road, nine cars, a mountain, a house, a tree, a sky, and a pavement.

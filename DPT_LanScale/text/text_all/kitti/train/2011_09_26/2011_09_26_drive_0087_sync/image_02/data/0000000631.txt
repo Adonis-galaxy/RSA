@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a yellow car parked on the side of the road, under the shade of a tree, and in front of a blue garage door.
 The image shows a narrow street with a curved road, lined with houses and trees, and a yellow car parked on the side.
 The image depicts a narrow, tree-lined street with a curved bend, leading to a residential area with houses and a garage.
+An image with a wall, a tree, a house, a pavement, a sky, a door, a car, a road, and a grass.
+An image with a tree, a road, a house, a pavement, a wall, a car, a door, a grass, and a sky.
+An image with a wall, a pavement, a door, a grass, a car, a house, a road, a sky, and a tree.
+An image with a door, a pavement, a grass, a car, a house, a road, a sky, a wall, and a tree.
+An image with a pavement, a sky, a door, a tree, a road, a house, a car, a grass, and a wall.

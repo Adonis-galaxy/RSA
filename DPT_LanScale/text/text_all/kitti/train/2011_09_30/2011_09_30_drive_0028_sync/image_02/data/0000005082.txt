@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on a road.
 The image captures a moment of urban life, with a silver car driving down a tree-lined street, passing by parked cars and a gas station, under a clear blue sky.
 A gray car is driving down a street with parked cars, a white building, and trees in the background.
 A gray car is driving on a street with parked cars, a sidewalk, and a roundabout, under a clear blue sky.
+An image with eight cars, a road, a grass, a truck, a tree, a sky, a pavement, a bench, a wall, and a person.
+An image with a truck, eight cars, a person, a road, a bench, a sky, a tree, a wall, a pavement, and a grass.
+An image with a truck, a wall, a road, a grass, a pavement, eight cars, a bench, a sky, a tree, and a person.
+An image with eight cars, a person, a tree, a truck, a road, a pavement, a grass, a bench, a sky, and a wall.
+An image with a road, a person, eight cars, a sky, a tree, a grass, a pavement, a bench, a truck, and a wall.

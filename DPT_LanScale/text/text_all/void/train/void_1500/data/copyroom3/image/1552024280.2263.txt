@@ -8,3 +8,8 @@ The image shows a blurry view of a kitchen with a refrigerator, cabinets, and a 
 The image shows a blurry view of a kitchen with a refrigerator, a counter, and a door.
 The image shows a blurry view of a kitchen with a refrigerator, a counter, and a door.
 The image shows a blurry view of a kitchen with a refrigerator, a counter, and a doorway leading to another room.
+An image with a wall, a cabinet, a floor, a refrigerator, a door, and a light.
+An image with a light, a refrigerator, a wall, a cabinet, a door, and a floor.
+An image with a light, a cabinet, a refrigerator, a wall, a floor, and a door.
+An image with a light, a cabinet, a refrigerator, a door, a wall, and a floor.
+An image with a floor, a door, a wall, a light, a refrigerator, and a cabinet.

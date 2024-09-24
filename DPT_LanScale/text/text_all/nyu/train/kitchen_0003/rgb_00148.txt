@@ -8,3 +8,8 @@ A bottle of wine on a bar.
 A bottle of wine stands on a bar counter, next to a basket and a laptop, suggesting a casual, relaxed atmosphere.
 A bottle of wine is sitting on a small wooden shelf next to a window.
 A bottle of wine is placed on a wooden shelf in a room with a doorway leading to another room.
+An image with a bottle, a wall, a fence, a ceiling, a laptop, a table, and a window.
+An image with a wall, a ceiling, a laptop, a window, a bottle, a fence, and a table.
+An image with a bottle, a window, a fence, a laptop, a ceiling, a table, and a wall.
+An image with a ceiling, a window, a laptop, a wall, a table, a fence, and a bottle.
+An image with a bottle, a wall, a window, a fence, a table, a ceiling, and a laptop.

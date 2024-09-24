@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A serene suburban street, lined with lush greenery and a clear blue sky, inviting a leisurely stroll.
 A narrow, tree-lined street with a sidewalk, leading to a house with a white roof and a car parked in front of it.
 A tree-lined street with a sidewalk, bordered by a hedge and a building, leading to a clear sky.
+An image with a sky, a road, three cars, a tree, a wall, and a pavement.
+An image with a sky, a road, a tree, three cars, a pavement, and a wall.
+An image with a road, a sky, a tree, a wall, three cars, and a pavement.
+An image with three cars, a road, a tree, a wall, a pavement, and a sky.
+An image with a sky, three cars, a wall, a pavement, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a laboratory setting with various pieces of equipment, including
 The image shows a laboratory setting with various pieces of equipment, including a microscope, a sink, and a computer.
 The image shows a laboratory setting with a large blue shelf, a smaller white shelf, a black computer monitor, a silver lamp, a black computer keyboard, a black computer mouse, a black computer tower, a blue trash can, and a white countertop.
 The image shows a laboratory setting with various pieces of equipment, including a large blue shelf, a white countertop, and a black computer monitor.
+An image with a floor, a wall, two windows, a backpack, a cabinet, a counter, a tv, and a light.
+An image with a backpack, a tv, two windows, a wall, a cabinet, a light, a counter, and a floor.
+An image with a floor, two windows, a tv, a cabinet, a counter, a backpack, a light, and a wall.
+An image with a tv, a backpack, a counter, a floor, two windows, a cabinet, a wall, and a light.
+An image with two windows, a counter, a cabinet, a light, a wall, a backpack, a tv, and a floor.

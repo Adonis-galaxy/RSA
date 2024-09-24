@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a clear view of a speed limit sign indicating a 30 zone, and a pedestrian crossing, suggesting a safe and orderly neighborhood.
 The image shows a residential street with houses, a speed limit sign, and a tree-lined sidewalk.
 The image depicts a quiet residential street with a curved road, lined with trees and houses, and a speed limit sign indicating a 30 zone.
+An image with a car, a house, a pavement, a tree, a road, and a grass.
+An image with a house, a road, a tree, a grass, a pavement, and a car.
+An image with a grass, a tree, a pavement, a road, a car, and a house.
+An image with a tree, a house, a pavement, a road, a car, and a grass.
+An image with a road, a car, a tree, a grass, a house, and a pavement.

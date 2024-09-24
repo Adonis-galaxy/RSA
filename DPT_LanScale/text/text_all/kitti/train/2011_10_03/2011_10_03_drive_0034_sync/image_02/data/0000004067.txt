@@ -8,3 +8,8 @@ The image shows a residential street with houses and trees.
 The image captures a serene residential street, with a row of houses nestled amidst lush greenery, under a clear blue sky.
 The image shows a residential street with houses, trees, and a sidewalk.
 The image shows a residential street with a row of houses, a sidewalk, and a brick wall, with trees and bushes lining the street and a clear sky overhead.
+An image with a window, two walls, a sky, a pavement, a road, a roof, and a tree.
+An image with two walls, a pavement, a sky, a window, a road, a tree, and a roof.
+An image with two walls, a tree, a roof, a sky, a window, a road, and a pavement.
+An image with two walls, a window, a sky, a pavement, a road, a tree, and a roof.
+An image with a sky, two walls, a pavement, a roof, a window, a road, and a tree.

@@ -8,3 +8,8 @@ A black office chair.
 A black office chair is tucked under a white desk.
 A black chair with a silver base is positioned next to a white desk with a black keyboard and mouse.
 A black office chair is tucked under a white desk, with a keyboard and mouse on the desk.
+An image with two chairs, two keyboards, a table, a wall, two mice, and a rug.
+An image with two mice, two chairs, two keyboards, a rug, a table, and a wall.
+An image with a wall, two keyboards, two chairs, two mice, a table, and a rug.
+An image with two chairs, a wall, two keyboards, a rug, two mice, and a table.
+An image with two chairs, two mice, a wall, two keyboards, a rug, and a table.

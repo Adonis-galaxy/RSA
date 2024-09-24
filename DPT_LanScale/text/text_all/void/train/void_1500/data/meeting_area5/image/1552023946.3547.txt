@@ -8,3 +8,8 @@ The image shows a white table with chairs in a room.
 The image shows a white table with chairs in a room, with a focus on the table and chairs.
 The image shows a white table with four chairs, two of which are in the foreground and two in the background.
 The image shows a room with a white table and chairs, and a white countertop.
+An image with six chairs, a window, two dinings, two walls, and a floor.
+An image with a floor, a window, six chairs, two walls, and two dinings.
+An image with six chairs, two walls, two dinings, a window, and a floor.
+An image with six chairs, two walls, two dinings, a floor, and a window.
+An image with six chairs, two dinings, two walls, a window, and a floor.

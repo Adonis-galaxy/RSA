@@ -8,3 +8,8 @@ A blue car parked on the side of a road.
 A narrow, tree-lined street with a blue car parked on the side, leading to a white house with a black gate.
 A narrow, tree-lined street with a blue car parked on the side.
 A narrow, tree-lined street with a blue car parked on the right side, leading to a white house with a gray roof.
+An image with a roof, a pavement, a car, a fence, a road, a sky, and a tree.
+An image with a roof, a pavement, a sky, a road, a fence, a tree, and a car.
+An image with a road, a sky, a fence, a pavement, a tree, a car, and a roof.
+An image with a roof, a fence, a road, a car, a sky, a tree, and a pavement.
+An image with a car, a roof, a tree, a sky, a fence, a pavement, and a road.

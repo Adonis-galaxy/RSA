@@ -8,3 +8,8 @@ A blue trash can next to a gray office chair.
 A blue trash can sits next to a black chair with a backpack on top of it.
 A gray office chair with a blue trash can next to it on a gray carpeted floor.
 A gray office chair with a blue trash can next to it, sitting on a gray carpeted floor.
+An image with a table, a chair, a wall, a backpack, a cabinet, a rug, a mouse, and a tv.
+An image with a chair, a mouse, a table, a backpack, a cabinet, a rug, a tv, and a wall.
+An image with a tv, a mouse, a table, a backpack, a rug, a chair, a cabinet, and a wall.
+An image with a mouse, a tv, a rug, a table, a wall, a chair, a cabinet, and a backpack.
+An image with a backpack, a wall, a cabinet, a chair, a table, a mouse, a rug, and a tv.

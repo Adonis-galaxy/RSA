@@ -8,3 +8,8 @@ A black and orange bag leaning against a white cylinder.
 A black bag with orange trim is leaning against a white cylinder, and a blue bucket is next to the bag.
 A blue bucket, a black bag, and a white cylinder are leaning against a wall.
 A blue bucket, a black bag, and a white cylinder are leaning against a wall in a room.
+An image with a wall, a cardboard, a rug, a suitcase, a refrigerator, and a cabinet.
+An image with a refrigerator, a cardboard, a rug, a suitcase, a wall, and a cabinet.
+An image with a cabinet, a rug, a refrigerator, a cardboard, a wall, and a suitcase.
+An image with a cardboard, a suitcase, a cabinet, a rug, a refrigerator, and a wall.
+An image with a rug, a wall, a cabinet, a cardboard, a suitcase, and a refrigerator.

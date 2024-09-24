@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a serene suburban scene with a mix of parked cars and a solitary pedestrian, all under the shade of tall trees.
 The image shows a narrow street lined with parked cars, including a red car, a black car, and a white car, with a white building on the right side.
 The image shows a row of parked cars on a tree-lined street, with a red car parked in front of a white building.
+An image with six cars, a grass, a fence, a road, a pavement, a sky, a wall, a tree, and a bench.
+An image with a grass, six cars, a road, a bench, a wall, a fence, a tree, a pavement, and a sky.
+An image with a tree, a bench, a fence, a grass, six cars, a road, a sky, a pavement, and a wall.
+An image with a bench, a pavement, six cars, a tree, a grass, a sky, a wall, a fence, and a road.
+An image with six cars, a wall, a pavement, a tree, a grass, a fence, a sky, a road, and a bench.

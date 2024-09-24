@@ -8,3 +8,8 @@ The image shows a street with two trucks parked on the side.
 A quiet residential street, with parked vehicles and a clear pathway, under a bright sunny sky.
 The image shows a narrow street with two large vehicles parked on the side, a building in the background, and a clear sky overhead.
 A quiet residential street with parked vehicles and a clear sky.
+An image with a sky, a tree, three trucks, a grass, a car, a pavement, a road, and a house.
+An image with a grass, a tree, three trucks, a pavement, a sky, a car, a house, and a road.
+An image with a house, a pavement, a grass, three trucks, a road, a tree, a car, and a sky.
+An image with a car, a grass, a pavement, three trucks, a road, a tree, a sky, and a house.
+An image with a tree, a house, three trucks, a car, a road, a grass, a pavement, and a sky.

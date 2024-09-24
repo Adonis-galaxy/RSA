@@ -8,3 +8,8 @@ The image shows a classroom with rows of empty seats and a black cart in the cor
 The image shows an empty classroom with rows of chairs and a podium at the front.
 The image shows a large room with rows of empty seats and a black podium in the corner.
 The image shows an empty classroom with rows of chairs and a podium at the front.
+An image with twenty chairs, a wall, and a floor.
+An image with a floor, twenty chairs, and a wall.
+An image with a wall, twenty chairs, and a floor.
+An image with twenty chairs, a floor, and a wall.
+An image with twenty chairs, a wall, and a floor.

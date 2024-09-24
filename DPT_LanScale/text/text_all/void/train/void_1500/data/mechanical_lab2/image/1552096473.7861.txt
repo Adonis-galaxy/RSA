@@ -8,3 +8,8 @@ A classroom with a computer and a blue chair.
 A science lab with a computer, a lamp, and a blue chair.
 The image shows a science lab with a large computer monitor, a blue chair, a blue cart, and a large blue vacuum cleaner.
 The image shows a science classroom with a desk, a computer, a chair, and a blue cart with white pipes.
+An image with a cabinet, a floor, a tv, a keyboard, a window, a wall, a light, and a chair.
+An image with a chair, a tv, a light, a wall, a keyboard, a window, a floor, and a cabinet.
+An image with a cabinet, a keyboard, a window, a floor, a chair, a light, a tv, and a wall.
+An image with a floor, a keyboard, a chair, a tv, a wall, a light, a window, and a cabinet.
+An image with a wall, a floor, a tv, a light, a keyboard, a window, a chair, and a cabinet.

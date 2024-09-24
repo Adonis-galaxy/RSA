@@ -8,3 +8,8 @@ A brown blanket on a bed.
 A brown blanket is casually draped over a white bed, with a doorway leading to a room with a box on the floor.
 A large brown blanket is casually draped over a bed in a room with white walls and doors.
 The image shows a bedroom with a bed, a door, and a box on the floor.
+An image with a floor, a bed, a wall, a door, a window, and a cardboard.
+An image with a door, a cardboard, a wall, a bed, a window, and a floor.
+An image with a wall, a door, a cardboard, a bed, a window, and a floor.
+An image with a bed, a door, a window, a floor, a cardboard, and a wall.
+An image with a floor, a bed, a window, a door, a cardboard, and a wall.

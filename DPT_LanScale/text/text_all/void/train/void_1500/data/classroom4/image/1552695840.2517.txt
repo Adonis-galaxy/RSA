@@ -8,3 +8,8 @@ A blurry image of a desk with a chair and a backpack.
 A blurry image of a desk with a chair, a mouse, and a backpack.
 A blurry image of a desk with a chair, a mouse, and a backpack.
 The image shows a blurry office setting with a desk, chair, and a backpack.
+An image with a wall, a rug, a paper, a backpack, two chairs, two keyboards, a mouse, and a table.
+An image with two chairs, a wall, two keyboards, a mouse, a paper, a rug, a table, and a backpack.
+An image with two chairs, a mouse, a backpack, a table, a paper, a rug, a wall, and two keyboards.
+An image with two keyboards, a backpack, two chairs, a table, a mouse, a rug, a wall, and a paper.
+An image with two chairs, a mouse, a wall, a backpack, a table, two keyboards, a rug, and a paper.

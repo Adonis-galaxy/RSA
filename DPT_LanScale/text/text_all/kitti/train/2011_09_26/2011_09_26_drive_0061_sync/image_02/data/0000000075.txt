@@ -8,3 +8,8 @@ The image shows a street scene with trees, buildings, and parked cars.
 The image captures a quiet residential street, lined with trees and parked cars, leading to a building with a red roof.
 The image shows a residential street with houses, trees, and parked cars, with a clear sky overhead.
 The image depicts a residential street with a curved layout, featuring a mix of houses, trees, and parked cars.
+An image with eight cars, a road, a grass, a tree, a pavement, and a sky.
+An image with eight cars, a grass, a pavement, a sky, a tree, and a road.
+An image with eight cars, a grass, a tree, a road, a sky, and a pavement.
+An image with a pavement, a sky, a road, eight cars, a tree, and a grass.
+An image with a pavement, a road, eight cars, a sky, a grass, and a tree.

@@ -8,3 +8,8 @@ A room with a desk, shelves, and a large machine.
 The image shows an office with a desk, a filing cabinet, and a bookshelf.
 The image shows a small office with a desk, a filing cabinet, a bookshelf, a refrigerator, and a chair.
 The image shows an office space with a desk, filing cabinet, and a large machine in the corner.
+An image with twenty books, a paper, a ceiling, a table, three chairs, a refrigerator, a floor, a shelf, a person, a wall, a dining, a light, and a tv.
+An image with a tv, twenty books, three chairs, a shelf, a paper, a light, a person, a refrigerator, a wall, a ceiling, a table, a dining, and a floor.
+An image with a shelf, twenty books, a tv, a refrigerator, a table, a wall, a person, three chairs, a ceiling, a floor, a dining, a paper, and a light.
+An image with twenty books, three chairs, a floor, a tv, a wall, a shelf, a ceiling, a paper, a table, a refrigerator, a person, a light, and a dining.
+An image with twenty books, a paper, a tv, a shelf, a wall, a floor, a table, a dining, a person, a ceiling, a light, three chairs, and a refrigerator.

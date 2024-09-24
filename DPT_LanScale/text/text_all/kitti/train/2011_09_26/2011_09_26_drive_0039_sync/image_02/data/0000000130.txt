@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a narrow street lined with parked cars, flanked by buildings on both sides, creating a sense of a quaint, urban alleyway.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A narrow street lined with parked cars and buildings, leading to a dead end.
+An image with nine cars, a road, a house, a fence, a door, a pavement, a tree, a person, and a sky.
+An image with a door, nine cars, a road, a fence, a house, a sky, a pavement, a tree, and a person.
+An image with nine cars, a fence, a pavement, a tree, a road, a sky, a person, a house, and a door.
+An image with a door, a house, nine cars, a sky, a person, a tree, a fence, a road, and a pavement.
+An image with nine cars, a sky, a pavement, a house, a person, a road, a fence, a tree, and a door.

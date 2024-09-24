@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and buildings.
 A quiet residential street, lined with lush greenery and white buildings, under a bright sunny sky.
 The image shows a narrow, tree-lined street between two buildings, with a sidewalk on the left side and a fence on the right.
 A narrow, tree-lined street between two buildings, with a sidewalk and a fence on the right side.
+An image with a road, a pavement, a door, a car, a sky, a house, a tree, a flower, and a fence.
+An image with a road, a pavement, a fence, a house, a car, a flower, a door, a tree, and a sky.
+An image with a road, a sky, a car, a house, a door, a flower, a tree, a pavement, and a fence.
+An image with a tree, a car, a house, a fence, a road, a door, a flower, a pavement, and a sky.
+An image with a sky, a flower, a pavement, a house, a tree, a road, a fence, a car, and a door.

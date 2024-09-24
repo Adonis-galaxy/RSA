@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 A quiet suburban street, lined with trees and parked vehicles, under a clear blue sky.
 The image shows a tree-lined street with a sidewalk, a few parked vehicles, and a building in the background.
 A quiet suburban street with a sidewalk, grassy median, and parked vehicles.
+An image with three trucks, a tree, a pavement, a road, a grass, a house, a building, a dirt, a rock, and three cars.
+An image with a tree, three trucks, a building, three cars, a rock, a dirt, a road, a house, a pavement, and a grass.
+An image with three cars, three trucks, a tree, a grass, a house, a pavement, a building, a dirt, a rock, and a road.
+An image with a house, three cars, a grass, three trucks, a pavement, a dirt, a rock, a building, a tree, and a road.
+An image with three cars, a house, a tree, a building, a dirt, a grass, three trucks, a rock, a road, and a pavement.

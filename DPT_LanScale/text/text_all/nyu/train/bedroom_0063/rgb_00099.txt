@@ -8,3 +8,8 @@ The image shows a bedroom with two beds and a chair.
 The image shows a room with two beds, a chair, a door, and a framed picture on the wall.
 The image shows a small room with two beds, a chair, a doorway, and a framed picture on the wall.
 The image shows a room with two beds, a chair, a doorway, and a framed picture on the wall.
+An image with a chair, a wall, two beds, a door, and a rug.
+An image with two beds, a rug, a chair, a wall, and a door.
+An image with two beds, a wall, a door, a chair, and a rug.
+An image with two beds, a rug, a door, a wall, and a chair.
+An image with two beds, a rug, a chair, a door, and a wall.

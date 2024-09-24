@@ -8,3 +8,8 @@ A small kitchen with orange cabinets.
 The image shows a small, orange kitchenette with a sink, a paper towel dispenser, and a few other items on the counter.
 The image shows a small, orange kitchen with a sink, a cabinet, and a counter.
 The image shows a small, orange-colored kitchenette with a sink, a paper towel dispenser, and a few items on the counter.
+An image with a cup, two bottles, a wall, a sink, a cabinet, and a counter.
+An image with a cup, a wall, two bottles, a sink, a cabinet, and a counter.
+An image with a sink, a cabinet, two bottles, a cup, a wall, and a counter.
+An image with a cabinet, a cup, a sink, a counter, a wall, and two bottles.
+An image with a wall, two bottles, a counter, a cabinet, a sink, and a cup.

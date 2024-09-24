@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a clear sky.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear sky overhead.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 A quiet residential street with parked cars, a clear sky, and a mix of trees and houses.
+An image with a road, a pavement, a stop, seven cars, a sky, a tree, a bus, a house, and a roof.
+An image with seven cars, a stop, a sky, a tree, a pavement, a road, a house, a roof, and a bus.
+An image with seven cars, a house, a road, a roof, a pavement, a stop, a bus, a sky, and a tree.
+An image with seven cars, a pavement, a stop, a tree, a house, a bus, a sky, a road, and a roof.
+An image with a roof, seven cars, a bus, a sky, a tree, a house, a pavement, a road, and a stop.

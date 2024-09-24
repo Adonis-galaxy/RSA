@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a clear view of a row of houses, a parked car, and a pedestrian crossing, all under a bright sunny sky.
 The image shows a street scene with a large house on the right, a smaller house on the left, and a car parked on the street.
 The image depicts a quiet residential street with a mix of houses and apartment buildings, lined with trees and hedges, and featuring a clear sky and sunlight.
+An image with a fence, a sky, a tree, a house, a pavement, a wall, and a road.
+An image with a wall, a tree, a fence, a pavement, a road, a sky, and a house.
+An image with a house, a tree, a wall, a road, a pavement, a fence, and a sky.
+An image with a road, a wall, a pavement, a fence, a tree, a sky, and a house.
+An image with a tree, a road, a house, a fence, a wall, a pavement, and a sky.

@@ -8,3 +8,8 @@ The image shows a long row of parked cars on a narrow street.
 A long, narrow street lined with parked cars and lush greenery, creating a serene and secluded atmosphere.
 The image shows a narrow street lined with parked cars, with a row of tall, leafy trees on the left side, and a white building on the right. The street is shaded by the trees, and the sky is visible in the background.
 A long, narrow street lined with parked cars and lush greenery, leading to a white building with a flat roof.
+An image with a building, eight cars, a pavement, a tree, a sky, and a road.
+An image with eight cars, a tree, a sky, a building, a road, and a pavement.
+An image with a road, a building, eight cars, a tree, a sky, and a pavement.
+An image with eight cars, a pavement, a road, a building, a sky, and a tree.
+An image with a building, eight cars, a road, a sky, a pavement, and a tree.

@@ -8,3 +8,8 @@ A car on a street.
 A white car parked on the side of a shaded street, with a blue fence and a white wall in the background.
 A small white car is parked on the side of a narrow street lined with trees and houses.
 A narrow, tree-lined street with parked cars and a white wall on the right side.
+An image with a tree, a wall, a fence, three cars, a pavement, a road, and a sky.
+An image with a tree, a road, a sky, a pavement, a wall, three cars, and a fence.
+An image with a wall, a sky, a pavement, a fence, three cars, a road, and a tree.
+An image with a wall, three cars, a sky, a pavement, a tree, a road, and a fence.
+An image with a road, three cars, a sky, a pavement, a tree, a wall, and a fence.

@@ -8,3 +8,8 @@ A tree-lined road.
 A winding road through a lush green forest, with a clear sky overhead.
 A winding road through a forested area, with a clear view of the sky and trees on both sides.
 A winding road through a forested area, with a clear sky overhead and sunlight casting shadows on the road.
+An image with a grass, a road, a pavement, a sky, and a tree.
+An image with a road, a tree, a grass, a sky, and a pavement.
+An image with a sky, a road, a pavement, a tree, and a grass.
+An image with a road, a grass, a pavement, a tree, and a sky.
+An image with a tree, a pavement, a road, a sky, and a grass.

@@ -8,3 +8,8 @@ The image shows a classroom with multiple desks and chairs.
 The image depicts an empty classroom with rows of desks and chairs, a teacher's desk, and a whiteboard, all arranged in a way that suggests a space designed for learning and instruction.
 The image shows a classroom with multiple desks and chairs, a teacher's desk, a whiteboard, and a window with blinds.
 The image shows a classroom with multiple rows of desks, a teacher's desk, and a whiteboard, all arranged in a neat and organized manner.
+An image with eleven chairs, a rug, a window, a tv, a cabinet, a table, a wall, a mouse, and a potted.
+An image with eleven chairs, a rug, a wall, a window, a table, a potted, a tv, a cabinet, and a mouse.
+An image with a cabinet, eleven chairs, a potted, a window, a tv, a wall, a table, a mouse, and a rug.
+An image with a table, eleven chairs, a cabinet, a mouse, a window, a potted, a tv, a rug, and a wall.
+An image with a mouse, a window, eleven chairs, a table, a potted, a wall, a cabinet, a tv, and a rug.

@@ -8,3 +8,8 @@ A room with a bed, a lamp, a painting, and a potted plant.
 The image captures a cozy, lived-in space with a focus on the relationship between the bed, the table, and the lamp.
 The image shows a small, cluttered room with a bed, a table, a lamp, a painting, a framed picture, a plant, and a coat.
 The image shows a cluttered room with a bed, a table, a lamp, a painting, and a framed drawing.
+An image with two people, a wall, a potted, a chair, and a dining.
+An image with two people, a potted, a chair, a wall, and a dining.
+An image with two people, a chair, a potted, a dining, and a wall.
+An image with two people, a potted, a wall, a chair, and a dining.
+An image with a dining, a potted, a chair, two people, and a wall.

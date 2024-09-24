@@ -8,3 +8,8 @@ A large truck is driving down a narrow street.
 A narrow street in a residential area, with parked cars, a truck, and a pedestrian, under a clear blue sky.
 A large truck is driving down a narrow street between two houses, with a smaller car parked on the side.
 A narrow street with parked cars, a truck, and a building on the right side.
+An image with a sky, a pavement, two cars, a tree, a person, a wall, a truck, and a house.
+An image with a pavement, two cars, a truck, a tree, a sky, a person, a wall, and a house.
+An image with a wall, a pavement, a house, two cars, a sky, a tree, a person, and a truck.
+An image with a truck, a pavement, a wall, a person, two cars, a sky, a tree, and a house.
+An image with a house, a pavement, two cars, a wall, a sky, a person, a tree, and a truck.

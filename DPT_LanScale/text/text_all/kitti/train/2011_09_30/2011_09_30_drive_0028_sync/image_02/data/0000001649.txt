@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow, tree-lined street in a residential area, with parked cars on both sides, creating a sense of a quiet, sunny day in a suburban neighborhood.
 The image shows a narrow street lined with parked cars, with a few larger vehicles and a prominent red car in the foreground.
 A narrow street in a residential area, lined with parked cars and lush greenery, under a bright sunny sky.
+An image with eight cars, a pavement, two buses, a road, a grass, a house, a sky, and a tree.
+An image with eight cars, a sky, a pavement, a house, a road, a tree, two buses, and a grass.
+An image with a sky, eight cars, a house, a pavement, two buses, a tree, a grass, and a road.
+An image with a grass, a sky, eight cars, two buses, a road, a pavement, a house, and a tree.
+An image with a road, eight cars, a sky, a tree, two buses, a grass, a pavement, and a house.

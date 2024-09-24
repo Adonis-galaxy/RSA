@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a stone wall lining the sidewalk, and a white house with a brown roof and a black sign on the corner.
 The image shows a narrow street lined with houses, a parked yellow car, and a tree on the right side.
 A narrow street with a curved corner, lined by brick walls and houses, leads to a yellow car parked on the side.
+An image with a fence, a wall, a road, a car, a house, a pavement, a sky, and a tree.
+An image with a car, a wall, a fence, a pavement, a house, a tree, a road, and a sky.
+An image with a road, a sky, a wall, a house, a car, a fence, a pavement, and a tree.
+An image with a road, a car, a wall, a pavement, a sky, a house, a tree, and a fence.
+An image with a sky, a road, a pavement, a fence, a wall, a car, a house, and a tree.

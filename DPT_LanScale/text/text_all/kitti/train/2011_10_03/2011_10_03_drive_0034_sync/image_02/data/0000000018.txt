@@ -8,3 +8,8 @@ The image shows a road with white lines and trees on the side.
 The image captures a serene, tree-lined road with a clear sky overhead, where a few cars are parked or moving along the street, and the sun casts shadows on the pavement.
 The image shows a wide, empty road with white lines, a few cars parked on the side, and trees lining the sides.
 The image depicts a tree-lined road with a clear sky, a few cars, and a pedestrian crossing.
+An image with a grass, three cars, a road, a tree, and a sky.
+An image with a grass, a road, three cars, a tree, and a sky.
+An image with a road, a tree, a sky, three cars, and a grass.
+An image with a sky, a tree, three cars, a road, and a grass.
+An image with a tree, a sky, a grass, three cars, and a road.

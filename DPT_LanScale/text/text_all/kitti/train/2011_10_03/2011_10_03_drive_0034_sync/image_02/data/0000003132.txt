@@ -8,3 +8,8 @@ A black car parked on the side of a street.
 A black car parked on a narrow street between two white fences, with a clear blue sky overhead.
 A small black car is parked on the side of a narrow street lined with hedges and houses.
 A black car is parked on the side of a narrow street lined with hedges and houses, with a clear sky overhead.
+An image with two walls, a fence, a sky, a tree, a car, a road, and a pavement.
+An image with a fence, two walls, a sky, a tree, a road, a car, and a pavement.
+An image with a road, a tree, two walls, a pavement, a sky, a fence, and a car.
+An image with two walls, a tree, a sky, a fence, a pavement, a car, and a road.
+An image with a car, two walls, a pavement, a sky, a tree, a fence, and a road.

@@ -8,3 +8,8 @@ A black chair with the word "beacon" on it.
 A computer desk with two black chairs and two computer monitors.
 A black chair with the word "beacon" on it, sitting in front of a computer desk with two monitors.
 The image shows a computer lab with two desks, each equipped with a desktop computer, a keyboard, and a mouse.
+An image with a wall, a tv, a mouse, a laptop, two keyboards, a rug, two chairs, and a table.
+An image with a laptop, a wall, two keyboards, a tv, two chairs, a mouse, a rug, and a table.
+An image with a rug, a wall, a tv, two chairs, a table, two keyboards, a laptop, and a mouse.
+An image with a wall, a mouse, a laptop, a rug, two keyboards, two chairs, a table, and a tv.
+An image with two chairs, two keyboards, a laptop, a mouse, a table, a tv, a rug, and a wall.

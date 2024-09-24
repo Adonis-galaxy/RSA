@@ -8,3 +8,8 @@ The image shows a residential street with houses on a hill.
 A quiet residential street, lined with houses and trees, leading up to a cul-de-sac.
 The image shows a residential street with houses on both sides, a paved road, and a sidewalk. The houses are of various sizes, and the street is lined with trees and bushes.
 The image depicts a residential street with houses on a hill, a paved road, and a brick sidewalk, with trees and shrubs lining the street.
+An image with a road, a grass, a sky, a fence, a pavement, a tree, and a house.
+An image with a road, a grass, a sky, a tree, a house, a fence, and a pavement.
+An image with a pavement, a sky, a road, a fence, a house, a grass, and a tree.
+An image with a tree, a sky, a grass, a pavement, a fence, a house, and a road.
+An image with a pavement, a fence, a grass, a house, a tree, a sky, and a road.

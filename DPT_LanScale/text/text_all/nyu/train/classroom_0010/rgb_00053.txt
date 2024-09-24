@@ -8,3 +8,8 @@ A classroom with students sitting at desks.
 A classroom scene with students seated at desks, engaged in learning activities, under the supervision of a teacher who is assisting them.
 A classroom scene with students seated at desks, a teacher at the front, a whiteboard with writing, and a window with blinds.
 A classroom scene with students seated at desks, a teacher at the front, and a whiteboard with writing on it.
+An image with five people, five chairs, a light, a rug, a ceiling, a bed, a wall, a cabinet, a paper, two bottles, two windows, a table, and a laptop.
+An image with five people, five chairs, two bottles, a paper, a table, a laptop, a rug, a light, a bed, two windows, a wall, a ceiling, and a cabinet.
+An image with two windows, two bottles, a laptop, a light, a rug, a table, five people, a cabinet, a wall, five chairs, a paper, a bed, and a ceiling.
+An image with two windows, a bed, five people, a ceiling, five chairs, a cabinet, a laptop, a table, two bottles, a paper, a light, a rug, and a wall.
+An image with five chairs, two windows, two bottles, a cabinet, a laptop, a wall, five people, a rug, a ceiling, a table, a paper, a light, and a bed.

@@ -8,3 +8,8 @@ The image shows a street with houses on the side, a clear sky, and a street sign
 The image captures a quiet residential street, with a clear view of the road ahead, flanked by houses and trees, and a construction site on the right side.
 The image shows a wide, empty street with a few parked cars, lined by houses and trees, and a clear blue sky overhead.
 The image depicts a quiet residential street with a clear sky, lined with houses and trees, and a single car parked at the end of the road.
+An image with a road, a dirt, a house, a grass, a pavement, a tree, a sky, a stop, and a wall.
+An image with a sky, a grass, a stop, a wall, a dirt, a pavement, a house, a tree, and a road.
+An image with a house, a grass, a sky, a tree, a pavement, a wall, a road, a dirt, and a stop.
+An image with a house, a pavement, a road, a grass, a dirt, a sky, a wall, a stop, and a tree.
+An image with a stop, a dirt, a house, a sky, a wall, a road, a tree, a grass, and a pavement.

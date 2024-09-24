@@ -8,3 +8,8 @@ A long table with multiple computer monitors and keyboards.
 A long table with multiple computer monitors and keyboards, and several chairs.
 A long wooden table with multiple computer monitors, keyboards, and mice.
 The image shows a long table with multiple computer monitors, keyboards, and mice, arranged in a row, with chairs on either side.
+An image with four keyboards, six tvs, three chairs, three mice, a wall, a table, and a rug.
+An image with four keyboards, six tvs, three mice, three chairs, a table, a rug, and a wall.
+An image with three mice, four keyboards, six tvs, three chairs, a table, a wall, and a rug.
+An image with three mice, six tvs, a wall, four keyboards, a table, three chairs, and a rug.
+An image with six tvs, a wall, three mice, a table, three chairs, four keyboards, and a rug.

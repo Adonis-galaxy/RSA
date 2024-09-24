@@ -8,3 +8,8 @@ The image shows a street scene with various vehicles, including cars, a truck, a
 A narrow street in a residential area, with parked cars and a delivery van, under a clear sky.
 The image shows a narrow street lined with parked cars and a large white van driving down the road.
 A narrow street in a residential area with parked cars, a white van, and a red car.
+An image with nine cars, a tree, a road, a fence, a truck, a window, a pavement, a house, a sky, and a wall.
+An image with a pavement, nine cars, a road, a sky, a wall, a tree, a truck, a fence, a window, and a house.
+An image with a tree, a window, nine cars, a truck, a sky, a house, a fence, a pavement, a wall, and a road.
+An image with nine cars, a window, a tree, a fence, a sky, a pavement, a road, a truck, a house, and a wall.
+An image with nine cars, a tree, a road, a pavement, a window, a house, a fence, a sky, a wall, and a truck.

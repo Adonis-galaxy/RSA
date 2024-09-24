@@ -8,3 +8,8 @@ A car parked on a street.
 A quiet residential street, lined with garages and a parked car, under a clear blue sky.
 A narrow street lined with garages and a car parked on the side.
 A narrow, tree-lined street with garages on one side and a car parked on the other.
+An image with a car, a tree, a road, a pavement, a building, a sky, and a wall.
+An image with a tree, a pavement, a road, a car, a wall, a building, and a sky.
+An image with a road, a sky, a building, a pavement, a tree, a car, and a wall.
+An image with a road, a building, a tree, a sky, a pavement, a car, and a wall.
+An image with a car, a tree, a road, a pavement, a building, a wall, and a sky.

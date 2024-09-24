@@ -8,3 +8,8 @@ The image shows a street with a car and a truck driving down it.
 A quiet residential street, lined with houses and trees, with a single car driving down the road.
 The image shows a narrow street lined with houses and trees, with a few cars parked along the side.
 A narrow, tree-lined street with parked cars, apartment buildings, and a fence on the right side.
+An image with a tree, a pavement, four cars, a wall, a house, a potted, a fence, and a road.
+An image with a road, a fence, four cars, a pavement, a house, a tree, a potted, and a wall.
+An image with four cars, a tree, a road, a fence, a pavement, a wall, a potted, and a house.
+An image with a tree, a wall, a potted, four cars, a house, a pavement, a fence, and a road.
+An image with a house, four cars, a fence, a road, a wall, a tree, a potted, and a pavement.

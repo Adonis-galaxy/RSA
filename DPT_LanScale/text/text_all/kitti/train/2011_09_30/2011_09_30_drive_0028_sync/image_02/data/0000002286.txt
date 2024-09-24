@@ -8,3 +8,8 @@ The image is a photograph of a narrow street in a residential area.
 The image captures a typical urban scene with parked cars on a narrow street, a person riding a bicycle, and a clear sky overhead.
 The image shows a narrow street lined with parked cars and a person riding a bicycle.
 A narrow street in a residential area with parked cars and a person riding a bicycle.
+An image with a bicycle, nine cars, a pavement, a sky, a tree, a person, and a road.
+An image with nine cars, a pavement, a bicycle, a person, a tree, a sky, and a road.
+An image with nine cars, a bicycle, a sky, a pavement, a tree, a road, and a person.
+An image with nine cars, a tree, a pavement, a road, a person, a bicycle, and a sky.
+An image with nine cars, a pavement, a tree, a road, a sky, a person, and a bicycle.

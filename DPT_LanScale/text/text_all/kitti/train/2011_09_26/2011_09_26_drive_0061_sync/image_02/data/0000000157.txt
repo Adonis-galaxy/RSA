@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 A narrow street in a residential area, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a few trees, and buildings, with a blue car parked in the foreground and a red car parked in the background.
 A narrow street lined with parked cars and buildings, with a red car parked in front of a black car.
+An image with six cars, a roof, a house, a sky, a pavement, a potted, a tree, a road, and a wall.
+An image with six cars, a roof, a wall, a tree, a house, a road, a pavement, a potted, and a sky.
+An image with six cars, a road, a sky, a potted, a roof, a pavement, a wall, a house, and a tree.
+An image with six cars, a house, a potted, a roof, a pavement, a sky, a wall, a tree, and a road.
+An image with a pavement, six cars, a sky, a roof, a potted, a house, a tree, a wall, and a road.

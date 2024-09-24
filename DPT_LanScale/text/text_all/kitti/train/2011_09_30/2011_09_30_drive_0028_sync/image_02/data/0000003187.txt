@@ -8,3 +8,8 @@ A white car parked on a street.
 A narrow, tree-lined street in a residential area, with parked cars and a white car driving down it.
 A narrow, tree-lined street with parked cars and a white car driving down it.
 A narrow, tree-lined street with parked cars and a white car driving down it.
+An image with a tree, a car, a sky, a window, a road, and a truck.
+An image with a window, a tree, a sky, a road, a car, and a truck.
+An image with a window, a truck, a road, a tree, a sky, and a car.
+An image with a road, a sky, a truck, a tree, a window, and a car.
+An image with a window, a tree, a road, a sky, a car, and a truck.

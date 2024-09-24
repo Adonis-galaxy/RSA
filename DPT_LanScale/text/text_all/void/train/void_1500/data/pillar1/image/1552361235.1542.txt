@@ -8,3 +8,8 @@ The image shows a white cylindrical object, a black and white checkered object, 
 The image shows a white cylindrical object, possibly a pipe or a column, standing next to a black object, which appears to be a metal pole or a piece of equipment, and a white roll of paper or a tube.
 The image shows a white cylindrical object, a black and white checkered object, and a white tube, all in a room with a white wall.
 The image shows a white cylindrical object, a black and white checkered object, and a white tube, all placed in a room with a white wall and a door.
+An image with a window, a wall, a paper, and a floor.
+An image with a paper, a wall, a window, and a floor.
+An image with a wall, a paper, a window, and a floor.
+An image with a floor, a paper, a window, and a wall.
+An image with a wall, a floor, a window, and a paper.

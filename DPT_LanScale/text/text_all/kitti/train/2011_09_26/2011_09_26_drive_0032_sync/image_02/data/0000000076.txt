@@ -8,3 +8,8 @@ The image shows a highway with a median strip and a guardrail.
 The image captures a serene highway scene, with a clear sky overhead, a lush green field on the right, and a line of trees on the left, all under a bright sunlight.
 The image shows a wide, empty highway with a few cars in the distance, a yellow sign on the right side, and a green field on the left side.
 The image shows a wide, empty highway with a clear sky, lined by trees and a grassy area, with a few cars in the distance.
+An image with a sky, seven cars, a person, a road, a tree, and a grass.
+An image with seven cars, a road, a tree, a sky, a person, and a grass.
+An image with a sky, a person, seven cars, a grass, a road, and a tree.
+An image with a grass, seven cars, a road, a sky, a tree, and a person.
+An image with seven cars, a tree, a road, a person, a sky, and a grass.

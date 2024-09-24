@@ -8,3 +8,8 @@ A large projection screen is hanging from the ceiling.
 The image captures a conference room setting with a large projection screen, a wooden table with chairs, and a whiteboard, all under a window with blinds.
 The image shows an office conference room with a large projection screen, a wooden table with chairs, a whiteboard, and a window with blinds.
 The image shows an office meeting room with a large projection screen, a wooden table, chairs, and a whiteboard.
+An image with five chairs, a window, a wall, a ceiling, a tv, two cups, a dining, a bottle, and a remote.
+An image with a bottle, five chairs, a ceiling, two cups, a tv, a wall, a remote, a window, and a dining.
+An image with five chairs, a bottle, a dining, a window, a wall, two cups, a ceiling, a tv, and a remote.
+An image with five chairs, a window, two cups, a ceiling, a bottle, a dining, a wall, a remote, and a tv.
+An image with a tv, a window, two cups, a bottle, five chairs, a ceiling, a dining, a remote, and a wall.

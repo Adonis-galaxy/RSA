@@ -8,3 +8,8 @@ A view of room.
 The image captures a cluttered laundry room with a washing machine, a folding table, a chair, and various items scattered around, suggesting a space that is used for multiple purposes beyond its primary function.
 The image shows a small, cluttered room with a washing machine, a chair, a table, and a red jacket.
 The image shows a small, cluttered room with a washing machine, a chair, a table, and various items scattered around.
+An image with two walls, three chairs, a bottle, a surfboard, a cabinet, a shelf, a floor, a dining, and a ceiling.
+An image with a dining, two walls, three chairs, a floor, a cabinet, a surfboard, a bottle, a ceiling, and a shelf.
+An image with a bottle, three chairs, a shelf, a cabinet, a surfboard, two walls, a ceiling, a floor, and a dining.
+An image with a bottle, a cabinet, a surfboard, a ceiling, two walls, a floor, three chairs, a dining, and a shelf.
+An image with a bottle, three chairs, a shelf, two walls, a surfboard, a floor, a ceiling, a cabinet, and a dining.

@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes and vehicles.
 The image captures a moment of everyday life on a suburban street, with cars in motion and a clear sky overhead.
 The image shows a wide, tree-lined road with multiple lanes, a few cars, and a traffic light. The road appears to be in a rural or suburban area.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and a clear sky.
+An image with a truck, four traffics, eight cars, a tree, a road, a pavement, and a grass.
+An image with eight cars, a tree, four traffics, a truck, a pavement, a grass, and a road.
+An image with four traffics, eight cars, a road, a truck, a pavement, a grass, and a tree.
+An image with four traffics, eight cars, a truck, a road, a grass, a pavement, and a tree.
+An image with eight cars, four traffics, a pavement, a grass, a tree, a road, and a truck.

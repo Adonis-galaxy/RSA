@@ -8,3 +8,8 @@ A wall clock is hanging on a wall.
 A television set is placed on a stand in a room with a clock on the wall.
 A small television is sitting on a stand in a room with a white wall and a clock on it.
 A small television is placed on a stand in a room with a white wall and a clock on it.
+An image with two books, a wall, a chair, a tv, a floor, and a clock.
+An image with two books, a tv, a floor, a wall, a clock, and a chair.
+An image with a floor, a clock, a chair, a wall, a tv, and two books.
+An image with a wall, a clock, a tv, two books, a chair, and a floor.
+An image with a clock, a tv, a wall, two books, a chair, and a floor.

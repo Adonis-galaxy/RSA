@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with cars parked on the s
 The image captures a quiet residential street, with two cars parked on the side of the road, one in front of the other, and a lone pedestrian walking down the sidewalk, all under the shade of the trees lining the street.
 The image shows a narrow street between two buildings, with two cars parked on the side, one larger and one smaller, and a tree in the middle of the street.
 The image depicts a narrow street between two buildings, with parked cars on the sides and a clear sky overhead.
+An image with a pavement, a sky, three cars, a tree, a house, and a road.
+An image with a sky, three cars, a pavement, a house, a tree, and a road.
+An image with a tree, three cars, a house, a sky, a road, and a pavement.
+An image with a house, a tree, a road, three cars, a pavement, and a sky.
+An image with a house, a road, a sky, three cars, a tree, and a pavement.

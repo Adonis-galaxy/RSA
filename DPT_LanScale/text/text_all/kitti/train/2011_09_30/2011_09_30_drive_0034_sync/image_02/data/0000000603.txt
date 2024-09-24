@@ -8,3 +8,8 @@ The image shows a street scene with a brick sidewalk, a metal fence, a tree, a b
 The image captures a quiet residential street, with a clear pathway leading to a bus stop, where a few people are waiting, and a parked car nearby.
 The image shows a narrow street lined with houses, trees, and a bus stop. The street is paved with bricks and has a few pedestrians.
 The image depicts a narrow, tree-lined street with a brick sidewalk, a paved road, and a few pedestrians, leading to a row of houses with a mix of architectural styles.
+An image with three people, a flower, a house, a sky, a fence, a pavement, and a tree.
+An image with a flower, three people, a fence, a sky, a house, a pavement, and a tree.
+An image with a flower, a fence, a tree, three people, a sky, a pavement, and a house.
+An image with a sky, a house, a flower, three people, a pavement, a fence, and a tree.
+An image with a sky, three people, a tree, a fence, a pavement, a house, and a flower.

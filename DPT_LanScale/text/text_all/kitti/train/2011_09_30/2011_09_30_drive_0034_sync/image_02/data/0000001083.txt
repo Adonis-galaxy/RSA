@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac, where a black trash can sits on a brick wall next to a white fence.
 The image shows a narrow street lined with houses, trees, and bushes, with a large truck parked on the side.
 A narrow, tree-lined street in a residential area, with a brick wall on one side and houses on the other, leading to a dead-end.
+An image with a sky, two walls, a bus, a tree, a fire, two cars, a pavement, a house, and a window.
+An image with a sky, a pavement, two cars, a tree, two walls, a house, a bus, a window, and a fire.
+An image with two cars, a tree, two walls, a window, a pavement, a house, a sky, a fire, and a bus.
+An image with two cars, a sky, two walls, a fire, a tree, a window, a bus, a pavement, and a house.
+An image with a fire, a pavement, a window, two walls, two cars, a tree, a sky, a house, and a bus.

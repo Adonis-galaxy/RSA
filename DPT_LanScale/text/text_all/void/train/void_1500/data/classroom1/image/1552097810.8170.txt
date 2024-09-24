@@ -8,3 +8,8 @@ Orange cone on a dirty table.
 An orange cone is sitting on a dirty table.
 A small orange cone is on a dirty white table.
 A white table with a single orange cone on it, sitting on a white tiled floor.
+An image with a wall, a floor, a surfboard, and a door.
+An image with a wall, a door, a floor, and a surfboard.
+An image with a door, a surfboard, a wall, and a floor.
+An image with a wall, a surfboard, a door, and a floor.
+An image with a surfboard, a floor, a wall, and a door.

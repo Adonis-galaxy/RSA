@@ -8,3 +8,8 @@ The image shows a street scene with cars, traffic lights, and a train track.
 The image captures a typical day on a suburban street, with cars driving on the road, a train passing overhead, and traffic lights controlling the flow of vehicles.
 The image shows a wide, tree-lined street with multiple lanes of traffic, a few pedestrians, and a mix of vehicles, including cars and a truck, with traffic lights and signs.
 A wide, tree-lined street with multiple lanes, traffic lights, and a train track, leading to a residential area with houses and cars.
+An image with eleven cars, four traffics, a grass, a house, a railroad, a building, two airplanes, a road, a roof, and a tree.
+An image with four traffics, eleven cars, a tree, a roof, two airplanes, a grass, a railroad, a house, a building, and a road.
+An image with eleven cars, two airplanes, a house, four traffics, a building, a road, a grass, a tree, a roof, and a railroad.
+An image with a road, eleven cars, a house, four traffics, two airplanes, a tree, a roof, a railroad, a building, and a grass.
+An image with two airplanes, eleven cars, a road, four traffics, a tree, a roof, a building, a railroad, a house, and a grass.

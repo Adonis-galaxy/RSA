@@ -8,3 +8,8 @@ The image shows a red car parked on a street.
 A red car parked on a tree-lined street, with a sidewalk and a building in the background.
 A red car is parked on a narrow street lined with trees and bushes.
 A red car is parked on a tree-lined street, with a sidewalk and a building in the background.
+An image with three cars, a sky, a pavement, a road, and a tree.
+An image with a tree, a road, three cars, a sky, and a pavement.
+An image with a tree, a sky, a road, three cars, and a pavement.
+An image with three cars, a road, a sky, a pavement, and a tree.
+An image with three cars, a road, a tree, a pavement, and a sky.

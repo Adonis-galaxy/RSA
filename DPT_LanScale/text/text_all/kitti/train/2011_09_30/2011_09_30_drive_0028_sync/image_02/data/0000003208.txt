@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and parked cars.
 A narrow, sunlit alleyway between two-story houses, lined with parked cars and a truck, with a clear sky overhead.
 A narrow alleyway between two rows of houses, with a large truck parked on the right side.
 A narrow, tree-lined street with parked cars and a truck, leading to a white house.
+An image with a sky, a car, a truck, a pavement, a wall, a motorcycle, and a tree.
+An image with a truck, a tree, a sky, a pavement, a motorcycle, a car, and a wall.
+An image with a truck, a pavement, a car, a tree, a motorcycle, a wall, and a sky.
+An image with a car, a motorcycle, a tree, a sky, a wall, a pavement, and a truck.
+An image with a motorcycle, a car, a truck, a sky, a pavement, a wall, and a tree.

@@ -8,3 +8,8 @@ A black chair with a wooden armrest.
 A black chair with a wooden armrest in a room with a white wall.
 A black chair with a wooden armrest, placed on a carpeted floor.
 The image shows a black chair with a wooden armrest, placed on a carpeted floor in a room with a white wall.
+An image with two chairs, a table, a floor, and a wall.
+An image with two chairs, a table, a wall, and a floor.
+An image with two chairs, a wall, a floor, and a table.
+An image with a floor, two chairs, a table, and a wall.
+An image with a floor, a wall, two chairs, and a table.

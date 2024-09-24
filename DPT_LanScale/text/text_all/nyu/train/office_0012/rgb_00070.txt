@@ -8,3 +8,8 @@ A whiteboard with red writing on it.
 The image captures a conference room setting with a whiteboard, a projection screen, a table with chairs, and a window.
 The image shows an office meeting room with a whiteboard, a projection screen, a table with chairs, and a window.
 The image shows an office meeting room with a whiteboard on the wall, a large screen on the right, a table with chairs, and a window with blinds.
+An image with a window, a tv, two cups, a bottle, a floor, four chairs, a wall, a ceiling, and a dining.
+An image with a floor, two cups, four chairs, a bottle, a window, a ceiling, a dining, a wall, and a tv.
+An image with a floor, four chairs, a bottle, a ceiling, a dining, a wall, a window, two cups, and a tv.
+An image with four chairs, a ceiling, a window, a dining, two cups, a tv, a wall, a bottle, and a floor.
+An image with a floor, a tv, a ceiling, four chairs, two cups, a window, a dining, a wall, and a bottle.

@@ -8,3 +8,8 @@ The image shows a city street with cars and a bicycle lane.
 The image captures a bustling city street, with a mix of vehicles and pedestrians, set against a backdrop of urban architecture and construction.
 A busy city street with tall buildings, cars, and a bicycle lane.
 A busy city street with traffic, pedestrians, and construction, viewed from a pedestrian crossing.
+An image with a road, a tree, two traffics, four cars, a pavement, a sky, a person, and a building.
+An image with two traffics, four cars, a pavement, a tree, a person, a sky, a building, and a road.
+An image with two traffics, four cars, a building, a sky, a pavement, a person, a road, and a tree.
+An image with a sky, four cars, two traffics, a person, a building, a tree, a pavement, and a road.
+An image with a building, a sky, four cars, a person, two traffics, a tree, a pavement, and a road.

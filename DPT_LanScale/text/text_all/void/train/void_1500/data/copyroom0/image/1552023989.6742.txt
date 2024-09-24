@@ -8,3 +8,8 @@ A row of mailboxes on a counter.
 A row of empty mailboxes on a counter, with a printer and a blue handle on the right.
 The image shows a beige filing cabinet with a white printer on top, and a blue and white stapler on the side.
 The image shows a beige filing cabinet with a white drawer on top, containing a white keyboard and a blue pen, and a white drawer below, with a white keyboard and a blue pen.
+An image with a door, a floor, a shelf, a cabinet, a book, a wall, and a counter.
+An image with a shelf, a book, a door, a counter, a floor, a wall, and a cabinet.
+An image with a cabinet, a door, a floor, a book, a wall, a shelf, and a counter.
+An image with a wall, a shelf, a cabinet, a door, a floor, a counter, and a book.
+An image with a book, a cabinet, a shelf, a wall, a counter, a floor, and a door.

@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a serene residential street, lined with trees and houses, where the sun casts a warm glow on the wet asphalt, highlighting the tranquility of the neighborhood.
 The image depicts a tree-lined street with a few cars, a bus, and a truck, leading to a row of houses and buildings.
 The image captures a serene residential street, lined with trees and houses, leading to a cul-de-sac.
+An image with a tree, two cars, a bus, a road, a house, a pavement, and a sky.
+An image with two cars, a road, a house, a bus, a pavement, a sky, and a tree.
+An image with a bus, two cars, a road, a sky, a house, a pavement, and a tree.
+An image with a road, two cars, a house, a sky, a pavement, a bus, and a tree.
+An image with a pavement, a house, a sky, two cars, a road, a bus, and a tree.

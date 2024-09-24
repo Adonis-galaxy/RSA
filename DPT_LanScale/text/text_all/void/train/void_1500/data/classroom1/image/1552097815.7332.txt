@@ -8,3 +8,8 @@ The image shows a beige wall with a metal railing and a wooden door.
 The image shows a room with a metal railing, a wooden wall, and a beige cabinet.
 The image shows a small room with a metal railing, a wooden wall, and a large white object.
 The image shows a room with a whiteboard, a metal railing, and a wooden partition.
+An image with a ceiling, a paper, a bed, a wall, a door, and a floor.
+An image with a paper, a door, a ceiling, a floor, a bed, and a wall.
+An image with a paper, a wall, a floor, a door, a bed, and a ceiling.
+An image with a ceiling, a floor, a paper, a door, a wall, and a bed.
+An image with a wall, a ceiling, a floor, a bed, a paper, and a door.

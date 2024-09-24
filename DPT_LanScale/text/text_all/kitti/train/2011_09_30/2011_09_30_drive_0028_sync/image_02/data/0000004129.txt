@@ -8,3 +8,8 @@ The image shows a car parked on a street.
 The image captures a quiet, tree-lined street with a few parked cars, where the sunlight filters through the leaves, creating a serene atmosphere.
 A small red car is parked on the side of a tree-lined street, with a few other cars visible in the distance.
 A narrow, tree-lined street with parked cars and a few pedestrians, leading to a roundabout.
+An image with nine cars, a grass, a sky, a road, a person, a tree, and a pavement.
+An image with a pavement, nine cars, a tree, a road, a person, a grass, and a sky.
+An image with nine cars, a pavement, a person, a sky, a grass, a tree, and a road.
+An image with nine cars, a tree, a pavement, a road, a person, a grass, and a sky.
+An image with a person, a grass, nine cars, a tree, a pavement, a sky, and a road.

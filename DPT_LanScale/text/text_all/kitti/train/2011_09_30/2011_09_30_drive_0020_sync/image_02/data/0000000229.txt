@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a road, a sidewalk, trees,
 The image captures a quiet residential street, with a clear view of a white building, a sidewalk, a road, a few parked cars, and a construction area with a triangular sign indicating caution.
 The image shows a street scene with a large white building on the right, a sidewalk with a few trees and signs, and a construction area with a fence and a triangular sign.
 The image shows a street scene with a white building, a sidewalk, a road, a construction area, a pedestrian crossing sign, and a tree.
+An image with a house, a grass, four cars, a building, a fence, a tree, and a road.
+An image with a tree, a building, four cars, a house, a road, a fence, and a grass.
+An image with four cars, a grass, a tree, a road, a building, a fence, and a house.
+An image with a fence, four cars, a building, a house, a tree, a grass, and a road.
+An image with a house, four cars, a road, a grass, a building, a tree, and a fence.

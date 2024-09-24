@@ -8,3 +8,8 @@ The image shows a street scene with a silver car parked on the side of the road.
 A silver car is parked on the side of a tree-lined street, with a person walking on the sidewalk and another person riding a bicycle.
 A silver car is parked on the side of a tree-lined street, with a person walking on the sidewalk and a bicycle rider in the distance.
 A narrow, tree-lined street with parked cars, pedestrians, and a parked silver car.
+An image with six cars, a tree, three people, a pavement, two bicycles, a road, and a house.
+An image with two bicycles, a tree, six cars, three people, a pavement, a house, and a road.
+An image with three people, six cars, two bicycles, a tree, a house, a pavement, and a road.
+An image with six cars, two bicycles, a road, three people, a house, a tree, and a pavement.
+An image with a tree, three people, two bicycles, six cars, a road, a pavement, and a house.

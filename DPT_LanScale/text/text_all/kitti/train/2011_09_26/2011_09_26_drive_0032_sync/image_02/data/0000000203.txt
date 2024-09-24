@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes and a median strip.
 The image captures a scene of a busy highway with multiple lanes of traffic, marked by clear lane markings and traffic signs, all under a bright sunny sky.
 The image shows a wide, multi-lane road with traffic, flanked by trees and lined with street signs.
 The image depicts a busy highway with multiple lanes, traffic lights, and a clear sky, with a sign indicating the direction of the nearest town.
+An image with ten cars, a tree, a pavement, five traffics, a road, and a grass.
+An image with ten cars, five traffics, a tree, a road, a grass, and a pavement.
+An image with a road, a grass, ten cars, a tree, five traffics, and a pavement.
+An image with ten cars, five traffics, a road, a pavement, a tree, and a grass.
+An image with five traffics, ten cars, a tree, a grass, a road, and a pavement.

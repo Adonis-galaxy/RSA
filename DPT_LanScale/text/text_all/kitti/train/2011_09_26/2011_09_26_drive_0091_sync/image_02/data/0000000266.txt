@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a focus on the unique perspective of the curved road and the people walking along it.
 A narrow street with a train track running down the middle, lined with shops and pedestrians.
 A narrow street with a curved layout, lined with shops and pedestrians, leading to a building with a covered entrance.
+An image with a sky, two handbags, a pavement, fourteen people, a bicycle, a railroad, a tree, a building, and a backpack.
+An image with fourteen people, a bicycle, a sky, two handbags, a building, a railroad, a backpack, a tree, and a pavement.
+An image with a railroad, fourteen people, a building, a bicycle, a tree, two handbags, a pavement, a sky, and a backpack.
+An image with fourteen people, two handbags, a railroad, a building, a pavement, a bicycle, a tree, a sky, and a backpack.
+An image with fourteen people, a pavement, a building, a backpack, a railroad, a tree, a bicycle, a sky, and two handbags.

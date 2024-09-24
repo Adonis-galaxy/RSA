@@ -8,3 +8,8 @@ A black leather couch with a green pillow.
 The image captures a cozy living room scene with a black leather sofa, a green throw pillow, a black exercise machine, and a red area rug.
 The image shows a small living room with a black leather couch, a black exercise machine, a red and gold rug, and a framed artwork on the wall.
 The image shows a living room with a black leather couch, a wooden chair, a treadmill, and a rug.
+An image with a floor, a wall, a couch, a rug, and a chair.
+An image with a wall, a rug, a floor, a couch, and a chair.
+An image with a couch, a wall, a rug, a chair, and a floor.
+An image with a rug, a floor, a chair, a couch, and a wall.
+An image with a wall, a chair, a rug, a couch, and a floor.

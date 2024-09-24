@@ -8,3 +8,8 @@ The image shows a residential street with apartment buildings, parked cars, and 
 The image captures a quiet residential street, with a mix of parked cars, neatly trimmed hedges, and apartment buildings, all under a clear blue sky.
 The image shows a residential street with a large white building on the right, a blue car parked in front of it, a sidewalk with a street sign, a tree, and a small green bush.
 The image shows a residential street with apartment buildings, parked cars, and a sidewalk.
+An image with a sky, five cars, a building, a tree, a road, a pavement, and a truck.
+An image with five cars, a building, a road, a sky, a tree, a pavement, and a truck.
+An image with a truck, a pavement, a sky, five cars, a building, a road, and a tree.
+An image with five cars, a truck, a tree, a building, a sky, a pavement, and a road.
+An image with five cars, a tree, a pavement, a building, a road, a sky, and a truck.

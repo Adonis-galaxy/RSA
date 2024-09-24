@@ -8,3 +8,8 @@ A blurry image of a computer monitor on a desk.
 The image shows a blurry view of a room with a blue chair, a black computer monitor, and a black keyboard on a wooden desk.
 The image shows a blurry view of a room with a blue chair, a black computer monitor, and a black keyboard on a wooden desk.
 The image shows a blurry view of a room with a blue chair, a wooden table, and a black object on the table.
+An image with two remotes, a wall, a floor, a chair, and a cabinet.
+An image with a cabinet, two remotes, a wall, a floor, and a chair.
+An image with a chair, a wall, two remotes, a floor, and a cabinet.
+An image with a floor, two remotes, a wall, a chair, and a cabinet.
+An image with a chair, a floor, a cabinet, a wall, and two remotes.

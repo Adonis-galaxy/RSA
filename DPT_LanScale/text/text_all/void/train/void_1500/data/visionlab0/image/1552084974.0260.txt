@@ -8,3 +8,8 @@ The image shows a room with a whiteboard, a blue jacket, a green trash can, and 
 The image shows a room with a whiteboard, a blue jacket, a green trash can, and a red umbrella.
 The image shows a room with a whiteboard, a blue jacket, a green trash can, a red umbrella, and a hat on a blue surface.
 The image shows a room with a whiteboard, a blue jacket, a green trash can, a red umbrella, and a hat on a blue surface.
+An image with a floor, a paper, a wall, a chair, a cardboard, a towel, and a umbrella.
+An image with a chair, a paper, a cardboard, a towel, a umbrella, a floor, and a wall.
+An image with a towel, a floor, a wall, a chair, a umbrella, a paper, and a cardboard.
+An image with a towel, a cardboard, a paper, a umbrella, a floor, a wall, and a chair.
+An image with a umbrella, a wall, a floor, a towel, a cardboard, a chair, and a paper.

@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street with a few parked cars, a sidewalk, and a building under construction.
 A small black car is parked on the side of a narrow street lined with trees and buildings.
 A quiet residential street with a few parked cars, a sidewalk, and a row of trees lining the road.
+An image with a tree, seven cars, a pavement, a grass, a house, a sky, a road, and a person.
+An image with a tree, seven cars, a sky, a person, a house, a pavement, a road, and a grass.
+An image with a pavement, a house, seven cars, a road, a person, a grass, a sky, and a tree.
+An image with seven cars, a tree, a grass, a house, a sky, a road, a person, and a pavement.
+An image with seven cars, a tree, a pavement, a house, a sky, a road, a person, and a grass.

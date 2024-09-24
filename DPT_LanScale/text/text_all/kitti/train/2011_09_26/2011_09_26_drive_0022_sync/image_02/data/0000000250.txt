@@ -8,3 +8,8 @@ A white garage with a door and two windows.
 A single-story building with a curved driveway and a car parked on the side.
 A large white building with multiple garage doors, situated in a wooded area.
 A white garage with a curved driveway and a car parked in front of it.
+An image with a road, a car, a tree, a building, a grass, and a pavement.
+An image with a tree, a car, a grass, a building, a pavement, and a road.
+An image with a grass, a building, a road, a car, a tree, and a pavement.
+An image with a tree, a grass, a car, a building, a road, and a pavement.
+An image with a pavement, a grass, a road, a building, a car, and a tree.

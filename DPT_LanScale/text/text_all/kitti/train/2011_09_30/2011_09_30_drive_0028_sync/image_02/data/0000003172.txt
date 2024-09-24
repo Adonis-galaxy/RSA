@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a sidewalk, a street sign, and 
 The image captures a quiet residential street, with parked cars lining the sidewalk and a triangular warning sign mounted on a pole, indicating caution for pedestrians and drivers alike.
 The image shows a narrow street lined with parked cars, a sidewalk, and a yellow triangular sign on a pole.
 A narrow street lined with parked cars and a yellow triangular sign on a pole.
+An image with a pavement, a bench, three cars, a tree, a truck, a sky, and a house.
+An image with a sky, three cars, a bench, a house, a truck, a tree, and a pavement.
+An image with three cars, a pavement, a house, a truck, a tree, a bench, and a sky.
+An image with three cars, a pavement, a tree, a truck, a bench, a sky, and a house.
+An image with a house, three cars, a tree, a bench, a sky, a truck, and a pavement.

@@ -8,3 +8,8 @@ A blue trash can with a white bag.
 A blue trash can with a white bag, sitting next to a white filing cabinet.
 A blue trash can with a white bag inside, sitting next to a white filing cabinet.
 A blue trash can with a white bag is placed next to a white filing cabinet in a room with a yellow wall.
+An image with a floor, a counter, a paper, a wall, and a cabinet.
+An image with a paper, a counter, a floor, a wall, and a cabinet.
+An image with a wall, a floor, a cabinet, a counter, and a paper.
+An image with a paper, a floor, a counter, a wall, and a cabinet.
+An image with a counter, a floor, a paper, a wall, and a cabinet.

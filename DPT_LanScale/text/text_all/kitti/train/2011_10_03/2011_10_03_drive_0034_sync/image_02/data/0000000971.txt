@@ -8,3 +8,8 @@ A person riding a motorcycle on a tree-lined street.
 A person riding a motorcycle on a shaded street, with a clear sky overhead.
 A person riding a motorcycle on a tree-lined street.
 A quiet suburban street with a motorcycle parked at the end, lined by lush greenery and a sidewalk.
+An image with a sky, a motorcycle, a person, a wall, a road, a tree, a pavement, and a grass.
+An image with a wall, a tree, a grass, a road, a sky, a motorcycle, a person, and a pavement.
+An image with a wall, a motorcycle, a person, a sky, a road, a grass, a pavement, and a tree.
+An image with a tree, a sky, a pavement, a wall, a motorcycle, a road, a grass, and a person.
+An image with a wall, a tree, a person, a motorcycle, a sky, a pavement, a grass, and a road.

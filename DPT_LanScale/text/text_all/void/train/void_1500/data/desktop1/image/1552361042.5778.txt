@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer desk with a monitor, keyboard, and a box of cheese puffs.
 A computer desk with a monitor, keyboard, and a box of annie's cheddar bunnies.
 A computer desk with a monitor, keyboard, and a box of Annie's cheddar bunnies.
+An image with a laptop, a cat, a table, a cardboard, a tv, a keyboard, and a wall.
+An image with a laptop, a table, a wall, a tv, a cat, a keyboard, and a cardboard.
+An image with a tv, a table, a keyboard, a laptop, a cat, a cardboard, and a wall.
+An image with a laptop, a cardboard, a tv, a keyboard, a wall, a table, and a cat.
+An image with a tv, a wall, a cardboard, a table, a cat, a keyboard, and a laptop.

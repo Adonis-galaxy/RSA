@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 The image captures a serene residential street, where parked cars line the sidewalk, and the sun casts a warm glow on the asphalt, creating a peaceful atmosphere.
 The image shows a narrow street lined with parked cars, with a few cars driving down the road, and apartment buildings on either side.
 A narrow, tree-lined street with parked cars and apartment buildings.
+An image with twelve cars, a building, a grass, a tree, a road, a pavement, and a sky.
+An image with a tree, twelve cars, a sky, a road, a pavement, a building, and a grass.
+An image with a grass, a sky, twelve cars, a building, a road, a tree, and a pavement.
+An image with twelve cars, a tree, a road, a pavement, a building, a grass, and a sky.
+An image with a road, twelve cars, a grass, a sky, a building, a pavement, and a tree.

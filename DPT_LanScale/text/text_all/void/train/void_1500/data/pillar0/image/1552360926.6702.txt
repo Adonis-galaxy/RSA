@@ -8,3 +8,8 @@ A black bag with red trim on the floor.
 A black bag with red trim is leaning against a white cylinder, and there are several black tripods in the background.
 A black duffel bag with red trim is sitting on the floor next to a blue bucket and a white cylinder.
 A black duffel bag with red trim is sitting on the floor next to a blue bucket and leaning against a white cylinder.
+An image with a rug, a suitcase, a chair, a door, a wall, and a refrigerator.
+An image with a refrigerator, a suitcase, a door, a rug, a chair, and a wall.
+An image with a refrigerator, a door, a wall, a suitcase, a rug, and a chair.
+An image with a rug, a door, a chair, a refrigerator, a wall, and a suitcase.
+An image with a rug, a refrigerator, a wall, a chair, a door, and a suitcase.

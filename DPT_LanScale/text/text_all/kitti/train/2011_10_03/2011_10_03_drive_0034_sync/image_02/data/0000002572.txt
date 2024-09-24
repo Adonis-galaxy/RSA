@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car parked on the side.
 A quiet residential street, lined with lush greenery and a few parked cars, under a clear blue sky.
 The image shows a narrow street lined with tall hedges, a few parked cars, and a bench on the sidewalk.
 A quiet residential street with a mix of houses, trees, and a parked car.
+An image with a road, a bench, a tree, a building, a pavement, a sky, a grass, and a car.
+An image with a tree, a pavement, a sky, a building, a bench, a car, a grass, and a road.
+An image with a sky, a bench, a road, a car, a tree, a building, a grass, and a pavement.
+An image with a road, a pavement, a car, a tree, a bench, a grass, a building, and a sky.
+An image with a car, a bench, a tree, a pavement, a sky, a building, a road, and a grass.

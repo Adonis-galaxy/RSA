@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow, tree-lined street in a residential area, with parked cars on both sides and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A narrow street between two-story buildings, lined with parked cars and a fence, under a clear blue sky.
+An image with ten cars, a road, a house, a tree, a pavement, a sky, and a fence.
+An image with a fence, ten cars, a road, a house, a tree, a sky, and a pavement.
+An image with a house, ten cars, a pavement, a fence, a sky, a tree, and a road.
+An image with ten cars, a road, a fence, a tree, a pavement, a sky, and a house.
+An image with a fence, ten cars, a road, a house, a sky, a pavement, and a tree.

@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two brick walls, with a paved path and
 The image captures a narrow, shaded alleyway between two brick walls, with a paved path leading to a white building on the right, and a white wall on the left.
 The image shows a narrow, tree-lined alleyway between two brick walls, with a white pathway and a few small bushes and plants on the ground.
 The image captures a narrow, tree-lined alleyway between two brick walls, with a clear path leading to a distant white building.
+An image with a sky, a wall, a car, a tree, a truck, and a pavement.
+An image with a pavement, a tree, a car, a wall, a sky, and a truck.
+An image with a sky, a truck, a wall, a car, a tree, and a pavement.
+An image with a car, a pavement, a truck, a wall, a sky, and a tree.
+An image with a tree, a car, a pavement, a wall, a truck, and a sky.

@@ -8,3 +8,8 @@ A row of white chairs around a white table.
 The image shows a row of white chairs and tables in a room, with the chairs facing the tables.
 The image shows a row of white chairs and tables in a room.
 The image shows a row of white chairs and tables in a room, with the chairs facing the tables and the tables lined up against a wall.
+An image with three dinings, five chairs, a door, a wall, and a floor.
+An image with five chairs, a floor, a door, three dinings, and a wall.
+An image with three dinings, five chairs, a wall, a door, and a floor.
+An image with five chairs, three dinings, a door, a wall, and a floor.
+An image with a wall, five chairs, a door, three dinings, and a floor.

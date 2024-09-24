@@ -8,3 +8,8 @@ The image shows a narrow street with houses on both sides.
 A quiet, tree-lined street in a residential area, with a clear view of the road ahead.
 The image shows a narrow, tree-lined street with a curved bend, leading to a residential area with houses and a parked car.
 A narrow, tree-lined street with a curved bend, leading to a residential area with houses and a parked car.
+An image with a house, a road, a tree, a fence, a sky, and a pavement.
+An image with a fence, a sky, a tree, a pavement, a road, and a house.
+An image with a tree, a road, a pavement, a house, a fence, and a sky.
+An image with a sky, a house, a tree, a road, a pavement, and a fence.
+An image with a road, a sky, a house, a pavement, a fence, and a tree.

@@ -8,3 +8,8 @@ The image shows a paved road with a sidewalk, lined with trees and buildings.
 A quiet suburban street, lined with trees and parked vehicles, under a clear blue sky.
 A long, empty, tree-lined road with a few parked vehicles and a truck driving down it.
 A tree-lined street with a paved pathway, parked vehicles, and a clear blue sky.
+An image with a dirt, three trucks, a grass, three cars, a road, a pavement, a tree, a sky, and a building.
+An image with three trucks, a sky, three cars, a tree, a building, a road, a grass, a dirt, and a pavement.
+An image with three cars, a sky, three trucks, a road, a building, a pavement, a dirt, a grass, and a tree.
+An image with three cars, a sky, three trucks, a building, a grass, a dirt, a road, a pavement, and a tree.
+An image with a grass, three trucks, a building, a road, a dirt, three cars, a pavement, a tree, and a sky.

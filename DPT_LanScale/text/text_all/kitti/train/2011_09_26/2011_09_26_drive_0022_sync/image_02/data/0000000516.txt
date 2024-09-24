@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 A narrow road flanked by parked cars and a fence, with a red car leading the way.
 A narrow road lined with parked cars, a red car, a white fence, and trees.
 A row of parked cars on a tree-lined street, with a red car in the foreground and a white fence in the background.
+An image with six cars, a road, a pavement, a grass, a fence, and a tree.
+An image with a tree, six cars, a road, a grass, a fence, and a pavement.
+An image with six cars, a tree, a grass, a fence, a pavement, and a road.
+An image with six cars, a tree, a road, a fence, a grass, and a pavement.
+An image with six cars, a tree, a pavement, a grass, a road, and a fence.

@@ -8,3 +8,8 @@ A blue chair in a room.
 A blue chair is positioned next to a desk in a room with white tiled flooring.
 A blue chair is sitting next to a desk in a room with white tile flooring.
 The image shows a blue chair positioned in front of a desk with orange drawers, both set against a white tiled floor.
+An image with a counter, two chairs, a floor, and a cabinet.
+An image with a cabinet, two chairs, a counter, and a floor.
+An image with a cabinet, a counter, two chairs, and a floor.
+An image with a floor, two chairs, a cabinet, and a counter.
+An image with a cabinet, two chairs, a floor, and a counter.

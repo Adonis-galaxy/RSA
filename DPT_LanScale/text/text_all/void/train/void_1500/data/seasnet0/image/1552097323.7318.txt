@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer monitor on a desk with a keyboard and mouse.
 A large computer monitor on a table with a keyboard and mouse in front of it.
 The image shows a computer lab with multiple desks, each equipped with a desktop computer, a keyboard, and a mouse. The computers are turned on, and the time displayed on the monitors is 6:08.
+An image with six chairs, four mice, six keyboards, five tvs, a rug, a table, and a wall.
+An image with six keyboards, five tvs, four mice, a rug, six chairs, a wall, and a table.
+An image with five tvs, six keyboards, a table, six chairs, four mice, a wall, and a rug.
+An image with four mice, five tvs, six keyboards, six chairs, a rug, a wall, and a table.
+An image with a table, five tvs, four mice, six keyboards, a wall, six chairs, and a rug.

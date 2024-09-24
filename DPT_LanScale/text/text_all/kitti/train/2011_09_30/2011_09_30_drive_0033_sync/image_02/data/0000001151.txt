@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a tranquil residential street scene, with a clear sky overhead, a few parked cars, a bus stop shelter, and a pedestrian waiting to cross the street.
 The image shows a street scene with a large white building, a few cars parked along the street, a bus stop with a person standing, a bench, a trash can, and a street sign.
 The image depicts a quiet residential street with a clear view of a bus stop, a bench, and a few parked cars.
+An image with five people, three benches, eight cars, a flower, a wall, a fence, a road, a tree, a house, a pavement, and a sky.
+An image with eight cars, a house, five people, a road, a tree, a sky, a fence, three benches, a wall, a flower, and a pavement.
+An image with a sky, eight cars, a wall, five people, three benches, a house, a pavement, a flower, a fence, a road, and a tree.
+An image with eight cars, three benches, a sky, a pavement, five people, a fence, a wall, a flower, a house, a tree, and a road.
+An image with eight cars, a tree, five people, a fence, three benches, a house, a road, a sky, a pavement, a flower, and a wall.

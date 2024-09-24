@@ -8,3 +8,8 @@ A green plant in a planter.
 The image shows a small garden area with a variety of plants and shrubs, featuring a mix of green and brown hues, and a concrete border.
 The image shows a small green plant growing in a concrete planter.
 The image shows a garden area with a variety of plants and shrubs, featuring a concrete border and a pathway.
+An image with a tree, two walls, a dirt, and a pavement.
+An image with a tree, a pavement, a dirt, and two walls.
+An image with a pavement, a dirt, two walls, and a tree.
+An image with a tree, a dirt, two walls, and a pavement.
+An image with a dirt, a pavement, two walls, and a tree.

@@ -8,3 +8,8 @@ A black car parked on a curvy street.
 A quiet residential street, with a house and car parked, under a clear blue sky.
 A narrow, curvy road leads to a large house with a black roof, surrounded by trees and bushes.
 A curved residential street with a house on the left, a car parked on the right, and a tree-lined sidewalk.
+An image with a wall, a car, a roof, a tree, and a road.
+An image with a wall, a tree, a roof, a road, and a car.
+An image with a car, a road, a tree, a wall, and a roof.
+An image with a roof, a road, a car, a tree, and a wall.
+An image with a roof, a car, a tree, a wall, and a road.

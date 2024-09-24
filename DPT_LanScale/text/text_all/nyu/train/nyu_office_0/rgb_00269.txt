@@ -8,3 +8,8 @@ An image of an empty hallway.
 The image captures an interior space with a corridor leading to a room with a desk and chair, illuminated by overhead lights.
 The image shows an interior hallway with a large doorway leading to a room with a desk and a red chair.
 The image shows an interior view of a hallway with a doorway leading to a room with a desk and a chair, and a railing on the right side.
+An image with a tv, a door, two chairs, a fence, a floor, a ceiling, a dining, and a wall.
+An image with two chairs, a wall, a floor, a door, a ceiling, a tv, a dining, and a fence.
+An image with a tv, two chairs, a ceiling, a dining, a floor, a door, a wall, and a fence.
+An image with a floor, two chairs, a wall, a ceiling, a tv, a fence, a dining, and a door.
+An image with a ceiling, two chairs, a tv, a floor, a dining, a fence, a door, and a wall.

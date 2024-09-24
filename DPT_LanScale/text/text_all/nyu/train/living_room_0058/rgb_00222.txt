@@ -8,3 +8,8 @@ A group of chairs around a table.
 A cozy dining area with a table surrounded by chairs, set for a meal, under a large window with a view of the outdoors.
 A large round table with six chairs, surrounded by windows and a kitchen, with a view of a patio.
 A modern dining room with a round table surrounded by six chairs, a kitchenette, and large windows that let in natural light.
+An image with a ceiling, six chairs, a dining, a floor, a potted, a wall, a door, and a window.
+An image with a floor, six chairs, a potted, a ceiling, a window, a dining, a door, and a wall.
+An image with a ceiling, six chairs, a wall, a potted, a floor, a window, a dining, and a door.
+An image with six chairs, a door, a window, a ceiling, a floor, a dining, a potted, and a wall.
+An image with a dining, six chairs, a wall, a window, a door, a potted, a ceiling, and a floor.

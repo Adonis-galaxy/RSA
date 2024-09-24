@@ -8,3 +8,8 @@ A white garage door.
 A narrow, shaded pathway leads to a garage, with a person visible in the distance.
 A narrow, overgrown pathway between two garages, with a person visible in the distance.
 A narrow, shaded pathway leads to a garage with a white door, flanked by lush greenery and a stone wall.
+An image with a wall, a tree, a dirt, and a building.
+An image with a tree, a dirt, a building, and a wall.
+An image with a tree, a building, a wall, and a dirt.
+An image with a building, a dirt, a wall, and a tree.
+An image with a tree, a wall, a dirt, and a building.

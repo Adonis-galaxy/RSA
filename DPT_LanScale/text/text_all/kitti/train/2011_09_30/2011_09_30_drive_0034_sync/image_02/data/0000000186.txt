@@ -8,3 +8,8 @@ A narrow alleyway between two walls of greenery.
 A narrow, sunlit path between two hedges, with a car parked at the end of the road.
 A narrow alleyway between two walls, one lined with greenery and the other with a brick wall, with a path leading to a house in the distance.
 A narrow, sunlit pathway between two walls of lush greenery, with a solitary lamp post and a car parked in the distance.
+An image with a car, a tree, a sky, two walls, and a pavement.
+An image with a tree, a pavement, two walls, a car, and a sky.
+An image with a tree, a pavement, a car, two walls, and a sky.
+An image with a tree, a car, a sky, two walls, and a pavement.
+An image with a car, two walls, a pavement, a tree, and a sky.

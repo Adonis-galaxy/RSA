@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and apartment buildings.
 The image captures a quaint, tree-lined street in a residential area, with a mix of old and new cars parked along the side, leading to a white house with a chimney in the background.
 The image shows a narrow street lined with parked cars, a yellow car parked on the sidewalk, a blue car parked on the sidewalk, a white car parked on the sidewalk, a silver car parked on the sidewalk, a black car parked on the sidewalk, a white house with a brown roof, a white house with a brown roof, a white house with a brown roof, a white house with a brown roof, a white house with a
 A narrow street in a residential area with parked cars and a mix of old and new vehicles.
+An image with nine cars, five trucks, a pavement, a road, a tree, a house, and a grass.
+An image with five trucks, nine cars, a pavement, a grass, a tree, a house, and a road.
+An image with a tree, five trucks, nine cars, a house, a road, a grass, and a pavement.
+An image with a tree, a grass, nine cars, five trucks, a house, a road, and a pavement.
+An image with five trucks, nine cars, a grass, a pavement, a house, a road, and a tree.

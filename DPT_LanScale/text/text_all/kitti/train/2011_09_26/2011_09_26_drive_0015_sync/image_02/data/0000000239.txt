@@ -8,3 +8,8 @@ The image shows a busy street with multiple cars and trucks driving on it.
 A busy road with multiple vehicles, including cars and trucks, driving alongside a railway track, under a clear blue sky.
 A busy road with multiple vehicles, including cars and trucks, driving alongside train tracks under a clear blue sky.
 A busy road with multiple lanes, vehicles, and traffic lights, set against a backdrop of trees and a railway line.
+An image with a tree, a building, a traffic, a truck, five cars, a railroad, a grass, a sky, a stop, and a road.
+An image with a grass, a tree, five cars, a road, a railroad, a stop, a sky, a building, a traffic, and a truck.
+An image with a grass, five cars, a sky, a traffic, a building, a truck, a stop, a railroad, a tree, and a road.
+An image with a railroad, a building, five cars, a tree, a grass, a truck, a traffic, a stop, a road, and a sky.
+An image with five cars, a stop, a road, a grass, a tree, a traffic, a building, a truck, a sky, and a railroad.

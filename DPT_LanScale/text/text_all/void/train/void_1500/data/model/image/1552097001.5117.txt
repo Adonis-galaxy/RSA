@@ -8,3 +8,8 @@ A model of a building on a table.
 The image shows a model of a building, possibly a school, with a street and sidewalk in front of it, placed on a wooden shelf.
 The image shows a small model of a building, which is placed on a wooden shelf.
 The image shows a model of a building, possibly a school, with a playground in front, placed on a wooden stand.
+An image with a building, a floor, a tree, and a wall.
+An image with a building, a wall, a tree, and a floor.
+An image with a floor, a wall, a building, and a tree.
+An image with a wall, a tree, a floor, and a building.
+An image with a floor, a building, a tree, and a wall.

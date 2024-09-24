@@ -8,3 +8,8 @@ A kitchen with a stove and a refrigerator.
 The image captures a small, well-organized kitchen with a focus on the stove and oven, which are positioned next to a refrigerator and a trash can.
 The image shows a small kitchen with a stove, oven, and refrigerator.
 The image shows a small, well-organized kitchen with a stove, oven, and refrigerator, featuring a tiled floor and white cabinets.
+An image with a counter, a door, three ovens, a cabinet, a floor, a wall, and a microwave.
+An image with a floor, a microwave, a counter, three ovens, a wall, a cabinet, and a door.
+An image with a microwave, a cabinet, three ovens, a door, a wall, a counter, and a floor.
+An image with a floor, three ovens, a door, a cabinet, a wall, a microwave, and a counter.
+An image with a door, a counter, a floor, a cabinet, three ovens, a wall, and a microwave.

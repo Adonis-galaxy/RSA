@@ -8,3 +8,8 @@ A classroom with a green wall and a whiteboard.
 The image shows a room with a green wall, a large white refrigerator, a table with a chair, a desk with a chair, and a large screen with a blue border.
 The image shows a small room with a green wall, a white refrigerator, a table with a chair, a desk with a chair, and a large projector.
 The image shows a room with a green wall, a large white refrigerator, a table with a chair, a desk with a chair, a shelf with a cabinet, and a large window with a light fixture.
+An image with three chairs, a dining, a floor, a refrigerator, a person, a light, a wall, and a ceiling.
+An image with a person, a ceiling, a light, three chairs, a floor, a refrigerator, a dining, and a wall.
+An image with a ceiling, a light, a dining, a wall, a refrigerator, three chairs, a person, and a floor.
+An image with a person, three chairs, a ceiling, a refrigerator, a light, a dining, a wall, and a floor.
+An image with a dining, three chairs, a person, a wall, a light, a refrigerator, a ceiling, and a floor.

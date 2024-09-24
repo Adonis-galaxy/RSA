@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars and a train.
 A busy highway scene with multiple vehicles, including cars and a truck, driving on a road with a grassy median and power lines overhead.
 A long road with multiple cars and a train passing overhead, surrounded by greenery and a clear blue sky.
 A busy highway with multiple lanes, a railroad crossing, and a mix of vehicles, including cars and trucks, driving under power lines and a clear blue sky.
+An image with seven cars, a grass, a building, a tree, a railroad, a sky, and a road.
+An image with a grass, seven cars, a sky, a tree, a building, a railroad, and a road.
+An image with a building, a grass, seven cars, a railroad, a road, a tree, and a sky.
+An image with a building, seven cars, a sky, a road, a tree, a railroad, and a grass.
+An image with seven cars, a sky, a road, a railroad, a grass, a tree, and a building.

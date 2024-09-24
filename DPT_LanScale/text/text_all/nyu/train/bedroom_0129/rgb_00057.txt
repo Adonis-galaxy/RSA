@@ -8,3 +8,8 @@ A television on a cart.
 A television on a cart in a room with a crib and a window.
 A small television on a wooden cart in a room with a crib and a window.
 A small room with a television, a wooden cart, a door, a crib, and a window.
+An image with a couch, a rug, a window, a door, two walls, a bed, a shelf, and a tv.
+An image with two walls, a bed, a couch, a door, a rug, a tv, a shelf, and a window.
+An image with a rug, a tv, a window, a door, two walls, a couch, a shelf, and a bed.
+An image with a window, a rug, two walls, a couch, a bed, a shelf, a tv, and a door.
+An image with two walls, a rug, a door, a bed, a shelf, a window, a tv, and a couch.

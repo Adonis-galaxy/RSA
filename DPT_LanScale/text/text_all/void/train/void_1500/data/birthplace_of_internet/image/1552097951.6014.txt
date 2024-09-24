@@ -8,3 +8,8 @@ A room with a refrigerator and a table.
 The image shows a room with a refrigerator, a table, and a trash can, all set against a green wall.
 The image shows a small room with a refrigerator, a table, and a trash can.
 The image shows a room with a green wall, a refrigerator, a table, a chair, and a picture on the wall.
+An image with a floor, a refrigerator, four chairs, a ceiling, a light, two clocks, a wall, a dining, and a shelf.
+An image with a refrigerator, a shelf, a wall, four chairs, a ceiling, a floor, two clocks, a dining, and a light.
+An image with four chairs, two clocks, a floor, a shelf, a refrigerator, a wall, a dining, a ceiling, and a light.
+An image with a shelf, a refrigerator, a light, four chairs, two clocks, a wall, a floor, a ceiling, and a dining.
+An image with a shelf, two clocks, a ceiling, a light, four chairs, a dining, a floor, a refrigerator, and a wall.

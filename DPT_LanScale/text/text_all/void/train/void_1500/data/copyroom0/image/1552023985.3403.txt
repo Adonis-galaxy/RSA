@@ -8,3 +8,8 @@ A printer on a desk.
 A large white printer sits on a beige countertop, with a smaller white printer in the background.
 A large white printer sits on a beige countertop.
 A large white printer sits on top of a beige desk, with a smaller white printer in the background.
+An image with a floor, a scissors, a tv, a cabinet, a counter, and a wall.
+An image with a scissors, a tv, a wall, a floor, a counter, and a cabinet.
+An image with a tv, a floor, a counter, a scissors, a cabinet, and a wall.
+An image with a scissors, a counter, a wall, a floor, a cabinet, and a tv.
+An image with a cabinet, a wall, a counter, a tv, a scissors, and a floor.

@@ -8,3 +8,8 @@ A framed picture on a purple wall.
 The image captures a room with a purple wall, a framed picture of two women in a garden, a mirror reflecting a doorway, and a white canvas leaning against a wall.
 The image shows a room with a purple wall, a framed picture of two women in a garden, a white canvas leaning against the wall, and a doorway leading to another room.
 The image shows a room with a purple wall, a framed picture of two women in a garden, a mirror reflecting a doorway, and a white canvas leaning against the wall.
+An image with a mirror, a tv, a door, a couch, and a wall.
+An image with a wall, a door, a tv, a mirror, and a couch.
+An image with a tv, a couch, a wall, a mirror, and a door.
+An image with a tv, a couch, a door, a wall, and a mirror.
+An image with a mirror, a wall, a door, a tv, and a couch.

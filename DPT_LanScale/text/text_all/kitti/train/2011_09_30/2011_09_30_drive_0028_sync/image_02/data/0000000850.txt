@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a mix of parked and moving vehicles, lined by trees and buildings, under a bright sunny sky.
 The image shows a narrow street lined with parked cars and trees, with apartment buildings on either side.
 The image depicts a residential street with a row of houses, a sidewalk, and parked cars, all under a bright sunlight.
+An image with a road, five cars, a tree, a house, a sky, and a fence.
+An image with a road, a fence, a house, five cars, a tree, and a sky.
+An image with a fence, a road, a tree, a sky, five cars, and a house.
+An image with five cars, a fence, a house, a road, a tree, and a sky.
+An image with a tree, five cars, a sky, a fence, a road, and a house.

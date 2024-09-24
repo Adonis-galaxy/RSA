@@ -8,3 +8,8 @@ The image shows a room with an orange wall and a white floor.
 The image shows a narrow hallway with an orange wall, a white door, and a white counter.
 The image shows a narrow hallway with orange walls and a white floor, featuring a metal handrail and a white cabinet.
 The image shows a narrow hallway with an orange wall, a white door, and a white counter.
+An image with a refrigerator, a window, a wall, a cabinet, and a floor.
+An image with a cabinet, a window, a refrigerator, a floor, and a wall.
+An image with a window, a wall, a cabinet, a refrigerator, and a floor.
+An image with a wall, a floor, a cabinet, a refrigerator, and a window.
+An image with a refrigerator, a floor, a wall, a cabinet, and a window.

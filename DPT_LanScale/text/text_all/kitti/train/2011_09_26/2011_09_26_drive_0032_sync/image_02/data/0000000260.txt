@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a tranquil suburban street scene, with a clear sky overhead and a few cars driving along the road, under the watchful eyes of traffic lights and street signs.
 The image shows a wide, empty road with a few cars, a traffic light, and a street sign.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and traffic lights, leading to a clear sky.
+An image with a fence, five cars, seven traffics, a sky, a road, a tree, a stop, and a grass.
+An image with seven traffics, a stop, five cars, a fence, a sky, a road, a grass, and a tree.
+An image with five cars, seven traffics, a stop, a sky, a tree, a road, a grass, and a fence.
+An image with five cars, seven traffics, a fence, a stop, a tree, a road, a grass, and a sky.
+An image with five cars, a tree, seven traffics, a sky, a grass, a stop, a fence, and a road.

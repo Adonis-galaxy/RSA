@@ -8,3 +8,8 @@ The image shows a row of garages with cars parked in front of them.
 A row of garages with a tree-lined street in the background.
 A row of garage doors, a car parked on the street, and a car parked in a driveway.
 A row of garages with a paved road in front, bordered by trees and a car parked on the right side.
+An image with a tree, a building, two cars, a road, a sky, and a pavement.
+An image with a tree, a building, a pavement, two cars, a road, and a sky.
+An image with a sky, two cars, a road, a tree, a building, and a pavement.
+An image with a tree, a sky, a building, a road, two cars, and a pavement.
+An image with a sky, two cars, a road, a pavement, a building, and a tree.

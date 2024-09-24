@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 The image captures a quiet residential street, with a silver car driving down the road, passing by parked cars and a building with a storefront, under a clear blue sky.
 A silver car is driving down a narrow street between two-story buildings, with trees and parked cars lining the sides.
 A narrow street in a residential area with parked cars, a sidewalk, and buildings on both sides.
+An image with a pavement, eight cars, five potteds, a road, a tree, a house, and a roof.
+An image with eight cars, five potteds, a tree, a pavement, a house, a road, and a roof.
+An image with eight cars, a roof, a pavement, a tree, a road, five potteds, and a house.
+An image with a roof, eight cars, a tree, five potteds, a house, a road, and a pavement.
+An image with eight cars, five potteds, a tree, a pavement, a road, a house, and a roof.

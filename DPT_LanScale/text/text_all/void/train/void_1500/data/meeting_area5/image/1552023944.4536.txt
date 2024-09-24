@@ -8,3 +8,8 @@ The image shows a room with a table and chairs.
 The image shows a room with a table and chairs, taken from a low angle.
 The image shows a blurry view of a room with a long table and several chairs, with a focus on the table and chairs in the foreground.
 The image shows a room with a long table and several chairs, with a focus on the table and chairs in the foreground.
+An image with six chairs, two dinings, a window, and a floor.
+An image with a window, six chairs, two dinings, and a floor.
+An image with a window, two dinings, a floor, and six chairs.
+An image with six chairs, two dinings, a floor, and a window.
+An image with a window, a floor, two dinings, and six chairs.

@@ -8,3 +8,8 @@ The image shows a street view with houses and trees.
 The image captures a serene residential street, lined with lush greenery and quaint houses, under a clear blue sky.
 The image shows a residential street with houses, trees, and a sidewalk, with a large paved road and a smaller road curving to the right.
 The image depicts a residential street with a mix of architectural styles, featuring a curved road, a white house with a red roof, and a brick building with a flat roof.
+An image with a wall, a pavement, a tree, a window, a sky, a potted, a door, a road, a stairs, and a car.
+An image with a tree, a sky, a pavement, a car, a road, a door, a stairs, a potted, a wall, and a window.
+An image with a door, a road, a potted, a tree, a stairs, a car, a sky, a window, a wall, and a pavement.
+An image with a stairs, a car, a wall, a tree, a door, a sky, a pavement, a potted, a road, and a window.
+An image with a road, a sky, a wall, a potted, a stairs, a window, a car, a door, a pavement, and a tree.

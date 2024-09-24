@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes of traffic.
 The image captures a bustling highway scene with multiple lanes of traffic, a clear sky, and a mix of vehicles, including cars and trucks, all moving in the same direction under the guidance of traffic lights and railroad crossings.
 The image shows a busy highway with multiple lanes of traffic, including cars and trucks, and is flanked by grassy areas and trees. The sky is overcast, and the scene is captured from a vehicle's perspective.
 The image depicts a busy highway with multiple lanes, traffic lights, and railroad crossings, all under a bright, sunny sky.
+An image with a sky, five cars, a road, a truck, a tree, five traffics, a pavement, and a grass.
+An image with five cars, five traffics, a tree, a sky, a road, a pavement, a truck, and a grass.
+An image with five cars, five traffics, a grass, a pavement, a tree, a truck, a road, and a sky.
+An image with a sky, five cars, a grass, five traffics, a tree, a pavement, a road, and a truck.
+An image with a road, five cars, five traffics, a pavement, a truck, a tree, a sky, and a grass.

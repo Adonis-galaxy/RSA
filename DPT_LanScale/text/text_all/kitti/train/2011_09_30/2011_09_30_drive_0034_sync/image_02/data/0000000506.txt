@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded alleyway between two white buildings, with a car parked on the right side and a person standing on the left.
 A narrow alleyway between two buildings, lined with greenery and a car parked on the right side.
 A narrow, tree-lined alleyway between two buildings, with a car parked on the right side.
+An image with a car, a pavement, a tree, a house, a road, and a wall.
+An image with a car, a pavement, a wall, a tree, a house, and a road.
+An image with a house, a tree, a road, a car, a pavement, and a wall.
+An image with a pavement, a road, a house, a tree, a car, and a wall.
+An image with a pavement, a tree, a wall, a car, a house, and a road.

@@ -8,3 +8,8 @@ A blurry image of a room with a table, chair, and a remote control.
 A blurry image of a room with a table, chair, and a window.
 The image shows a small room with a desk, a chair, a window, and a remote control.
 The image shows a room with a desk, a chair, a window, and a book on the table.
+An image with a couch, two books, a rug, a chair, a dining, a cabinet, a wall, a window, and a cell.
+An image with a window, a cell, a dining, a cabinet, two books, a rug, a couch, a chair, and a wall.
+An image with two books, a cell, a couch, a window, a dining, a cabinet, a chair, a wall, and a rug.
+An image with two books, a rug, a window, a chair, a cabinet, a cell, a wall, a dining, and a couch.
+An image with a cell, a dining, a cabinet, two books, a couch, a rug, a window, a chair, and a wall.

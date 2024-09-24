@@ -8,3 +8,8 @@ The image is a photograph of a narrow street between two buildings, with a fence
 A narrow, tree-lined street between two buildings, with a car parked at the end, and a pedestrian walking on the sidewalk.
 The image shows a narrow, tree-lined street between two buildings, with a car parked on the right side and a person walking on the left side.
 A narrow, tree-lined street with houses on both sides, leading to a gate at the end.
+An image with a tree, a pavement, a house, a sky, a fence, a car, and a road.
+An image with a tree, a road, a pavement, a sky, a house, a car, and a fence.
+An image with a road, a sky, a tree, a car, a pavement, a house, and a fence.
+An image with a fence, a car, a tree, a pavement, a sky, a house, and a road.
+An image with a sky, a pavement, a tree, a house, a road, a fence, and a car.

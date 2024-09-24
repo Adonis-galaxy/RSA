@@ -8,3 +8,8 @@ The image is a black and white photograph of a residential street.
 A quiet residential street, lined with parked cars and houses, under a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A quiet residential street with parked cars, lined with houses and apartment buildings, and a paved road leading to a covered parking area.
+An image with a house, eight cars, a road, a pavement, a grass, a sky, and a tree.
+An image with eight cars, a pavement, a house, a road, a tree, a grass, and a sky.
+An image with a sky, eight cars, a pavement, a house, a grass, a tree, and a road.
+An image with a grass, eight cars, a sky, a road, a tree, a house, and a pavement.
+An image with eight cars, a house, a pavement, a road, a tree, a sky, and a grass.

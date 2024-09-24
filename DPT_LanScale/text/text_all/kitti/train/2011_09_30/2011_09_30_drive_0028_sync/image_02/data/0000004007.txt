@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a bus stop.
 The image captures a quiet suburban street scene, with parked cars lining the side of the road, a bus stop shelter, and a residential area with a house and trees in the background.
 A row of parked cars on the side of a street, with a bus stop shelter and a train station in the background.
 A row of parked cars on a street, with a bus stop and a train station in the background, under a clear sky.
+An image with a bridge, seven cars, a road, a building, a grass, a sky, and a tree.
+An image with seven cars, a road, a sky, a grass, a building, a bridge, and a tree.
+An image with a tree, seven cars, a building, a grass, a sky, a road, and a bridge.
+An image with seven cars, a building, a bridge, a tree, a grass, a road, and a sky.
+An image with a grass, a road, a building, a sky, seven cars, a bridge, and a tree.

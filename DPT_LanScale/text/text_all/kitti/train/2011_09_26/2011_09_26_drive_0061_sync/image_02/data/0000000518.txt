@@ -8,3 +8,8 @@ A narrow road between two walls of greenery.
 A narrow, tree-lined road with a parked car and a lamp post, leading to a brick wall.
 A narrow, tree-lined road with a red car parked on the side and a white lamp post.
 A narrow, tree-lined road with a parked car and a lamp post, leading to a brick wall and a tunnel.
+An image with a wall, two cars, a tree, a sky, a door, a pavement, and a road.
+An image with a pavement, two cars, a wall, a road, a tree, a door, and a sky.
+An image with a road, two cars, a pavement, a door, a tree, a wall, and a sky.
+An image with a pavement, two cars, a sky, a wall, a tree, a road, and a door.
+An image with a door, a sky, a road, two cars, a pavement, a tree, and a wall.

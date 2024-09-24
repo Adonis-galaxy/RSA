@@ -8,3 +8,8 @@ A black box on a wooden floor.
 The image shows a room with a wooden floor, a black box on the floor, a black curtain, a white wall, and a white electrical outlet.
 The image shows a small, dark-colored box on a wooden floor next to a wall with a small, square, white electrical outlet.
 The image shows a room with a wooden floor, a black box on the floor, a white wall, a blue wall, a white door frame, a black curtain, a white wall outlet, and a small black box on the floor.
+An image with a floor, a chair, a window, a wall, a curtain, a door, and a couch.
+An image with a wall, a chair, a door, a curtain, a floor, a couch, and a window.
+An image with a curtain, a door, a chair, a floor, a couch, a window, and a wall.
+An image with a wall, a chair, a couch, a door, a curtain, a floor, and a window.
+An image with a floor, a chair, a curtain, a couch, a window, a wall, and a door.

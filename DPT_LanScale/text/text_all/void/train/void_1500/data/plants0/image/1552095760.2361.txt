@@ -8,3 +8,8 @@ The image shows a garden area with a variety of plants and a concrete border.
 The image shows a garden area with a variety of plants and a brick pathway.
 The image shows a small garden area with a variety of plants and a concrete border.
 The image shows a garden area with a variety of plants and a concrete border, with a brick pattern on the ground.
+An image with a pavement, two walls, a sand, a tree, a stairs, and a fence.
+An image with a fence, two walls, a sand, a pavement, a stairs, and a tree.
+An image with a pavement, two walls, a fence, a stairs, a tree, and a sand.
+An image with a sand, a tree, two walls, a fence, a stairs, and a pavement.
+An image with a fence, a tree, a pavement, two walls, a sand, and a stairs.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 A narrow street lined with parked cars and lush greenery, leading to a row of white buildings.
 The image shows a narrow street lined with parked cars, a white van, and a hedge.
 A narrow street lined with parked cars and lush greenery, leading to a row of white buildings.
+An image with a wall, a building, seven cars, a road, a sky, a truck, and a tree.
+An image with a road, seven cars, a tree, a truck, a sky, a wall, and a building.
+An image with a sky, seven cars, a building, a tree, a truck, a wall, and a road.
+An image with a road, a tree, seven cars, a truck, a sky, a wall, and a building.
+An image with seven cars, a wall, a building, a tree, a road, a truck, and a sky.

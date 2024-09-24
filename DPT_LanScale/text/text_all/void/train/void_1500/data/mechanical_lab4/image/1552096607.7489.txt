@@ -8,3 +8,8 @@ A yellow pipe with a valve.
 The image shows a yellow pipe with a valve and a meter attached to it, located in a corner of a room with a red wall.
 The image shows a yellow pipe with a valve and a meter attached to it, located in a corner of a room with a red wall.
 The image shows a yellow pipe with a valve and a meter attached to it, located in a corner of a room with a red wall and a white floor.
+An image with a wall, a fire, and a floor.
+An image with a floor, a fire, and a wall.
+An image with a wall, a floor, and a fire.
+An image with a wall, a fire, and a floor.
+An image with a fire, a wall, and a floor.

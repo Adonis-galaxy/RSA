@@ -8,3 +8,8 @@ A set of six chairs around a table.
 A set of six matching chairs and a table, arranged in a circular pattern, with a decorative wall hanging in the background.
 A set of six chairs and a table are arranged around a round table in a room with a tiled floor.
 A set of six chairs with a round table in the center, arranged in a hexagonal pattern on a tiled floor.
+An image with four chairs, a dining, a potted, a floor, two walls, and a window.
+An image with a floor, four chairs, a window, two walls, a dining, and a potted.
+An image with four chairs, a window, two walls, a dining, a potted, and a floor.
+An image with four chairs, a window, two walls, a floor, a potted, and a dining.
+An image with a floor, two walls, a dining, four chairs, a window, and a potted.

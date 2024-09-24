@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 The image captures a tranquil suburban street scene, with a car driving away from a residential area, under a clear blue sky.
 A car is driving down a street with trees and power lines in the background.
 The image depicts a quiet, tree-lined street with a few cars parked along the side, a train track running parallel to the road, and a clear blue sky overhead.
+An image with seven cars, a tree, a house, a dirt, a grass, a sky, a railroad, a traffic, and a road.
+An image with seven cars, a road, a railroad, a tree, a traffic, a house, a sky, a dirt, and a grass.
+An image with a road, seven cars, a railroad, a sky, a traffic, a house, a tree, a grass, and a dirt.
+An image with a tree, seven cars, a road, a sky, a house, a dirt, a traffic, a railroad, and a grass.
+An image with a dirt, seven cars, a tree, a sky, a traffic, a house, a road, a railroad, and a grass.

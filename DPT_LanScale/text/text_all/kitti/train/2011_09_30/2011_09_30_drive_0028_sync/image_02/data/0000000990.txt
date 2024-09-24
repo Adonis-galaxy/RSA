@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, lined with trees and parked cars, where life seems to move at a slower pace.
 A small white car is parked on the side of a narrow street lined with trees and a sidewalk.
 A tree-lined street with parked cars and pedestrians, leading to a park.
+An image with four cars, a road, a stop, two people, a grass, a pavement, and a tree.
+An image with two people, a grass, four cars, a road, a pavement, a stop, and a tree.
+An image with a road, four cars, a pavement, two people, a stop, a grass, and a tree.
+An image with a stop, two people, four cars, a road, a pavement, a tree, and a grass.
+An image with a grass, four cars, two people, a tree, a stop, a pavement, and a road.

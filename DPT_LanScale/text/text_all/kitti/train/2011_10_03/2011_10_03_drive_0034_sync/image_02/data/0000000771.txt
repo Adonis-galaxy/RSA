@@ -8,3 +8,8 @@ The image shows a narrow street lined with tall hedges and trees, with a car par
 A quiet residential street, lined with neatly trimmed hedges and trees, leads to a row of houses, with a parked car on the sidewalk and a solitary figure walking away.
 A narrow street lined with tall hedges and trees, leading to apartment buildings.
 A narrow, tree-lined street with apartment buildings on both sides, leading to a car parked at the end.
+An image with a house, a tree, three cars, a road, a sky, and a pavement.
+An image with three cars, a tree, a pavement, a road, a house, and a sky.
+An image with three cars, a house, a tree, a road, a pavement, and a sky.
+An image with a tree, a house, three cars, a road, a sky, and a pavement.
+An image with three cars, a sky, a pavement, a tree, a road, and a house.

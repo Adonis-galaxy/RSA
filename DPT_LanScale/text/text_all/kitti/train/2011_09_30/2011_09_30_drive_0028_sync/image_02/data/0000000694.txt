@@ -8,3 +8,8 @@ The image shows a street scene with a blue car driving down a tree-lined road.
 A quiet suburban street, lined with trees and houses, where a blue car is driving away from the camera.
 A blue car is driving down a tree-lined street, passing a white house with a balcony.
 A tree-lined street with a blue car driving down it, flanked by houses on both sides.
+An image with a house, a sky, a wall, a road, a fence, two cars, a pavement, and a tree.
+An image with a house, a wall, two cars, a tree, a road, a sky, a pavement, and a fence.
+An image with a tree, two cars, a fence, a pavement, a road, a sky, a wall, and a house.
+An image with a house, a pavement, a wall, two cars, a tree, a road, a fence, and a sky.
+An image with a road, a fence, a sky, two cars, a wall, a house, a tree, and a pavement.

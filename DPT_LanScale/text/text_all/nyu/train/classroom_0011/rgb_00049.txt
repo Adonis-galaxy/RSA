@@ -8,3 +8,8 @@ A classroom with students sitting at desks.
 A classroom scene with students engaged in learning activities.
 A classroom filled with students sitting at desks, with a large bookshelf in the background.
 A classroom scene with students seated at desks, engaged in learning activities, and a teacher raising a hand in the foreground.
+An image with eight people, a ceiling, four chairs, a light, four backpacks, a rug, a shelf, four books, a laptop, a wall, a table, a handbag, and a cell.
+An image with four backpacks, eight people, a rug, a wall, four chairs, four books, a handbag, a light, a laptop, a cell, a table, a shelf, and a ceiling.
+An image with eight people, a wall, four books, a cell, a handbag, four chairs, four backpacks, a laptop, a ceiling, a shelf, a table, a rug, and a light.
+An image with a table, a wall, eight people, a cell, four backpacks, four chairs, four books, a shelf, a light, a laptop, a ceiling, a handbag, and a rug.
+An image with a rug, eight people, four chairs, four books, a laptop, a wall, a cell, four backpacks, a shelf, a table, a light, a ceiling, and a handbag.

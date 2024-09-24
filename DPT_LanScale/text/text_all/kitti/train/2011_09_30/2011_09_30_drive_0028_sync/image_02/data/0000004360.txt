@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 The image captures a quiet residential street, with a few cars parked along the side, and a mix of trees and houses lining the road.
 A narrow street lined with parked cars and trees, with a larger car in the foreground and smaller cars in the background.
 A narrow street lined with parked cars and houses, with a mix of old and new vehicles, and a canopy of trees overhead.
+An image with a pavement, a house, five cars, a road, a wall, a window, a tree, and a sky.
+An image with a wall, a house, a sky, five cars, a window, a tree, a pavement, and a road.
+An image with a window, five cars, a house, a pavement, a tree, a road, a sky, and a wall.
+An image with five cars, a window, a wall, a house, a sky, a tree, a pavement, and a road.
+An image with a road, a wall, a tree, a pavement, five cars, a window, a sky, and a house.

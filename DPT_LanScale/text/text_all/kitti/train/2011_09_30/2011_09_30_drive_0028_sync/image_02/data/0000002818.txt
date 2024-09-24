@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 The image captures a sunny day on a tree-lined street, with cars parked along the side, and a clear view of the road ahead.
 A long, tree-lined street with parked cars on the side.
 A tree-lined street with parked cars and a clear sky.
+An image with a tree, a sky, seven cars, a road, a grass, a building, and a fence.
+An image with a fence, a road, seven cars, a tree, a sky, a building, and a grass.
+An image with a tree, a fence, a sky, seven cars, a grass, a building, and a road.
+An image with seven cars, a road, a fence, a tree, a grass, a building, and a sky.
+An image with a tree, a building, seven cars, a road, a sky, a fence, and a grass.

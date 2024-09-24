@@ -8,3 +8,8 @@ A blue chair is next to a desk.
 A blue chair is positioned next to a desk with a black computer monitor on it.
 A blue chair is next to a white desk, and a black cart with a gray box is in the background.
 The image shows a blue chair tucked under a white desk, with a black cart and a gray box in the background.
+An image with a wall, a floor, a chair, a tv, and a dining.
+An image with a chair, a wall, a floor, a tv, and a dining.
+An image with a chair, a floor, a wall, a dining, and a tv.
+An image with a floor, a wall, a chair, a dining, and a tv.
+An image with a wall, a floor, a dining, a tv, and a chair.

@@ -8,3 +8,8 @@ The image shows a busy street with multiple cars and trucks, traffic lights, and
 The image captures a busy street scene with multiple vehicles, traffic lights, and a clear blue sky.
 The image shows a busy street with multiple lanes of traffic, including cars and trucks, and a multitude of traffic lights and signs.
 A busy highway with multiple lanes, traffic lights, and vehicles, including a large truck, under a clear blue sky.
+An image with a road, five cars, a tree, two traffics, a truck, and a pavement.
+An image with a pavement, five cars, a truck, a tree, two traffics, and a road.
+An image with two traffics, a tree, five cars, a pavement, a road, and a truck.
+An image with two traffics, a road, five cars, a truck, a pavement, and a tree.
+An image with a truck, two traffics, five cars, a tree, a road, and a pavement.

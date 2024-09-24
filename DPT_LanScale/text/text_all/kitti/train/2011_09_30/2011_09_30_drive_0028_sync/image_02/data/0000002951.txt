@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a sidewalk, a street, park
 The image captures a quaint, tree-lined street in a European town, where a bicycle leans against a small shop, and people are seen walking along the sidewalk, enjoying the sunny day.
 The image depicts a narrow street lined with parked cars, a bicycle, a food stand, and a building with a green roof.
 A narrow street with parked cars, a bicycle, a sidewalk, a building, a vendor's cart, and people walking.
+An image with ten cars, four people, a building, a traffic, a roof, two bicycles, a grass, a pavement, a road, and a tree.
+An image with a tree, a road, a building, ten cars, two bicycles, a traffic, four people, a grass, a roof, and a pavement.
+An image with a pavement, ten cars, four people, a traffic, two bicycles, a grass, a road, a roof, a building, and a tree.
+An image with a traffic, two bicycles, ten cars, four people, a building, a roof, a pavement, a tree, a road, and a grass.
+An image with two bicycles, ten cars, a road, a roof, a building, four people, a tree, a traffic, a grass, and a pavement.

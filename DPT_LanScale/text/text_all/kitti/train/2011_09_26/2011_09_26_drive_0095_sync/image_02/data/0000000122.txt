@@ -8,3 +8,8 @@ The image shows a street scene with a red car parked on the side of the road, a 
 The image captures a quiet residential street scene, with parked cars, bicyclists, and pedestrians, all coexisting in harmony.
 A narrow street in a European city, with parked cars, bicycles, and pedestrians, and buildings on both sides.
 A narrow street in a European city, with parked cars, bicycles, and pedestrians, leading to a row of buildings.
+An image with six people, two bicycles, eight cars, a building, a tree, a sky, a road, and a pavement.
+An image with eight cars, six people, a sky, a road, two bicycles, a tree, a building, and a pavement.
+An image with eight cars, six people, a road, a building, two bicycles, a sky, a tree, and a pavement.
+An image with six people, a sky, eight cars, two bicycles, a tree, a road, a building, and a pavement.
+An image with two bicycles, six people, eight cars, a road, a sky, a tree, a building, and a pavement.

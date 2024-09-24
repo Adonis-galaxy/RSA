@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a shaded street, with parked cars and trees lining the road.
 A person riding a bicycle on a tree-lined street.
 A tree-lined street with a bicyclist riding on the right side, cars parked on the left side, and a grassy field in the background.
+An image with three cars, a bicycle, a person, a sky, a tree, a road, and a grass.
+An image with a road, a bicycle, three cars, a tree, a grass, a sky, and a person.
+An image with a road, a tree, a bicycle, three cars, a grass, a person, and a sky.
+An image with a person, a bicycle, a tree, a grass, three cars, a road, and a sky.
+An image with three cars, a bicycle, a sky, a person, a grass, a tree, and a road.

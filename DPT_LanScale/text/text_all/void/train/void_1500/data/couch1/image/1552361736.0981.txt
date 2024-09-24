@@ -8,3 +8,8 @@ A black leather couch with a white volleyball on it.
 A black leather couch with a white volleyball on it, a wooden table with magazines on it, and a black and white cat sitting on the couch.
 A black leather couch with a white volleyball on it, a wooden table with a magazine on it, and a gray sweater on the couch.
 A black leather couch with a white volleyball on it, a wooden table with magazines on it, and a black and white striped rug.
+An image with a rug, a wall, a couch, a sports, a table, and a book.
+An image with a couch, a book, a wall, a sports, a rug, and a table.
+An image with a couch, a sports, a rug, a table, a wall, and a book.
+An image with a book, a wall, a couch, a table, a rug, and a sports.
+An image with a sports, a table, a book, a rug, a wall, and a couch.

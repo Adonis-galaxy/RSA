@@ -8,3 +8,8 @@ The image shows a tree-lined street with a sign in the foreground.
 The image captures a serene, tree-lined street in a residential area, with a clear sky overhead and a sign indicating the name of the street.
 The image shows a tree-lined street with a large building on the left, a sign indicating a pedestrian crossing, and a car parked on the right.
 The image shows a tree-lined street with a clear sky, a building in the background, and a sign indicating a pedestrian crossing.
+An image with three cars, a truck, a sky, a building, a road, a grass, a tree, a stop, and a pavement.
+An image with three cars, a tree, a stop, a grass, a road, a sky, a pavement, a truck, and a building.
+An image with a tree, a stop, a grass, a road, three cars, a sky, a pavement, a building, and a truck.
+An image with a truck, a pavement, three cars, a sky, a road, a tree, a grass, a stop, and a building.
+An image with a grass, a road, a stop, a building, three cars, a tree, a pavement, a sky, and a truck.

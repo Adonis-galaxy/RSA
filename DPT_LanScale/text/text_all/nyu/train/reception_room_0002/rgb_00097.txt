@@ -8,3 +8,8 @@ A blackboard with a red seat.
 The image captures a well-lit, modern classroom with a focus on a chalkboard, a wooden chair, and a bookshelf, all set against a clean, white wall.
 The image shows a room with a large chalkboard, a small wooden chair with a red seat, a bookshelf with a green box on top, a television, and a potted plant.
 The image shows a room with a chalkboard on a stand, a chair, a bookshelf, a television, and a window with potted plants.
+An image with three potteds, a wall, three books, two tvs, two chairs, a floor, a light, a window, and a shelf.
+An image with a window, three books, three potteds, a shelf, a wall, a floor, a light, two tvs, and two chairs.
+An image with three potteds, a shelf, a wall, a window, two chairs, a light, three books, two tvs, and a floor.
+An image with a shelf, three books, two tvs, a light, a floor, two chairs, a window, three potteds, and a wall.
+An image with three potteds, three books, a shelf, a window, a light, a wall, two tvs, two chairs, and a floor.

@@ -8,3 +8,8 @@ The image shows a street corner with a stop sign, a roundabout, and a car.
 The image captures a serene suburban street corner, where the tranquility of nature meets the orderliness of urban life.
 The image shows a street corner with a stop sign, a roundabout, a car, a pedestrian crossing, a grassy area, and a forest in the background.
 The image depicts a rural road with a curved layout, featuring a stop sign, a roundabout, and a sign indicating a wildlife crossing.
+An image with a car, a road, a tree, a grass, a sky, and a pavement.
+An image with a car, a sky, a pavement, a road, a grass, and a tree.
+An image with a grass, a sky, a road, a pavement, a car, and a tree.
+An image with a tree, a road, a pavement, a sky, a car, and a grass.
+An image with a pavement, a road, a tree, a grass, a sky, and a car.

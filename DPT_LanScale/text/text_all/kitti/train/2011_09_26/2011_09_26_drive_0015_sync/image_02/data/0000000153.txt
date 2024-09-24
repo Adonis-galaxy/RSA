@@ -8,3 +8,8 @@ The image shows a road with cars and a train.
 The image captures a moment of everyday life on a suburban street, with a focus on the interaction between vehicles and the surrounding environment.
 A car is driving on a road with a train overhead, surrounded by trees and buildings.
 The image shows a wide, tree-lined road with multiple lanes, a median, and a train track running parallel to the road.
+An image with five cars, a road, a fence, a bus, a grass, a tree, a traffic, and a building.
+An image with five cars, a traffic, a fence, a road, a bus, a tree, a grass, and a building.
+An image with five cars, a fence, a grass, a traffic, a bus, a tree, a building, and a road.
+An image with a bus, five cars, a road, a fence, a grass, a tree, a building, and a traffic.
+An image with a tree, five cars, a building, a road, a fence, a traffic, a grass, and a bus.

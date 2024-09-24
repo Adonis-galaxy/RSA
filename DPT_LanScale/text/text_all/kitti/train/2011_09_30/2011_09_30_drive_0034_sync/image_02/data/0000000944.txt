@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 The image captures a serene residential street, lined with quaint houses and lush greenery, under a clear blue sky.
 The image depicts a narrow street lined with houses, trees, and a parked truck, with a clear blue sky overhead.
 A narrow, tree-lined street in a residential area, with houses on both sides, a paved road, and a few parked vehicles.
+An image with two walls, a road, a house, a tree, a fence, a roof, a pavement, and a truck.
+An image with a fence, a road, a tree, a roof, a house, two walls, a pavement, and a truck.
+An image with a pavement, a tree, a roof, a truck, two walls, a road, a house, and a fence.
+An image with a roof, a pavement, a road, two walls, a house, a tree, a truck, and a fence.
+An image with two walls, a roof, a fence, a tree, a truck, a road, a pavement, and a house.

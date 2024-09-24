@@ -8,3 +8,8 @@ A car on a road.
 A car is parked on the side of a road, with other cars and a person in the background, under a clear sky.
 A white car is driving down a tree-lined street, passing a parked black car and a pedestrian.
 A car is driving down a tree-lined street with a sidewalk, and there are two other cars parked on the side of the road.
+An image with a sky, two people, two cars, a building, a grass, a tree, a pavement, and a road.
+An image with two cars, a sky, a pavement, a grass, two people, a tree, a building, and a road.
+An image with a road, a building, two people, two cars, a tree, a sky, a grass, and a pavement.
+An image with a building, a grass, a tree, two people, two cars, a road, a pavement, and a sky.
+An image with a grass, a road, two people, two cars, a pavement, a tree, a sky, and a building.

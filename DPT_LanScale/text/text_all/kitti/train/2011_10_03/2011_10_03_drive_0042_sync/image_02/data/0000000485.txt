@@ -8,3 +8,8 @@ A car on a highway.
 A car on a highway, with a bridge and a clear sky in the background.
 A car is driving on a highway with a bridge in the background.
 A car is driving on a highway with a bridge and a fence on the side.
+An image with a pavement, a tree, a sky, a road, a building, a car, a fence, and a grass.
+An image with a tree, a pavement, a fence, a grass, a building, a sky, a car, and a road.
+An image with a building, a road, a fence, a tree, a sky, a grass, a pavement, and a car.
+An image with a road, a fence, a building, a car, a sky, a grass, a tree, and a pavement.
+An image with a car, a tree, a sky, a grass, a building, a fence, a pavement, and a road.

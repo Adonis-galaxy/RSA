@@ -8,3 +8,8 @@ A red van parked on a street.
 A red Mercedes van parked on a tree-lined street, with a clear blue sky overhead.
 A red Mercedes van is parked on a narrow, tree-lined street.
 A red Mercedes van is parked on a narrow, tree-lined street, with a white building visible in the background.
+An image with a pavement, a sky, a wall, a road, a building, two cars, a tree, and a grass.
+An image with a tree, a road, a wall, a sky, a pavement, two cars, a grass, and a building.
+An image with a building, a road, a wall, a sky, a tree, two cars, a pavement, and a grass.
+An image with two cars, a tree, a grass, a wall, a sky, a road, a pavement, and a building.
+An image with a building, a road, a tree, a sky, a grass, two cars, a pavement, and a wall.

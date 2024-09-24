@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a staircase leadin
 The image captures a serene residential street, where the sun casts long shadows, highlighting the tranquility of the neighborhood.
 The image shows a narrow alleyway between two buildings, with a small car parked on the left side and a staircase leading up to a white building on the right.
 The image shows a narrow alleyway between two buildings, with a staircase leading to a doorway on the right side.
+An image with a pavement, a fence, a car, a tree, a bridge, a sky, a train, and a house.
+An image with a pavement, a fence, a train, a sky, a bridge, a house, a car, and a tree.
+An image with a car, a pavement, a fence, a tree, a house, a sky, a train, and a bridge.
+An image with a pavement, a bridge, a tree, a fence, a car, a train, a sky, and a house.
+An image with a bridge, a train, a fence, a tree, a sky, a house, a pavement, and a car.

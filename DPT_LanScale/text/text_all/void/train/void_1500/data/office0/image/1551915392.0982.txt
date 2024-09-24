@@ -8,3 +8,8 @@ A black leather couch in a room.
 A black leather couch with a black leather chair in a room with a white marble table.
 A black leather couch with a black leather chair in a room with a white marble table.
 The image shows a black leather couch and a black leather chair in a room with a white marble table and a white wall.
+An image with a wall, a dining, a rug, a couch, and a chair.
+An image with a dining, a wall, a couch, a rug, and a chair.
+An image with a couch, a wall, a chair, a dining, and a rug.
+An image with a wall, a rug, a couch, a dining, and a chair.
+An image with a rug, a couch, a dining, a wall, and a chair.

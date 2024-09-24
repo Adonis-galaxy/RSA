@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A man riding a bicycle on a tree-lined street, with a red tram passing by on the opposite side.
 A man rides a bicycle on a tree-lined street, passing a red train on the tracks, with a clear blue sky overhead.
 A man rides a bicycle on a tree-lined street, passing a red tram, with a clear sky overhead.
+An image with five cars, a grass, a fence, a tree, a train, a bicycle, a sky, a person, a road, a backpack, and a building.
+An image with a building, five cars, a backpack, a grass, a sky, a tree, a road, a person, a fence, a bicycle, and a train.
+An image with five cars, a backpack, a person, a fence, a train, a building, a grass, a bicycle, a tree, a sky, and a road.
+An image with a building, a sky, five cars, a road, a backpack, a fence, a person, a bicycle, a grass, a train, and a tree.
+An image with five cars, a road, a person, a fence, a grass, a backpack, a train, a tree, a sky, a bicycle, and a building.

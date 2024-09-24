@@ -8,3 +8,8 @@ The image shows a street scene with cars and a pedestrian bridge.
 The image captures a scene of a tree-lined street with a bridge overhead, cars driving on the road, and a sign indicating a parking area.
 The image shows a street scene with a large white sign, a red and white parking sign, a bridge, cars, and a large rock on the side of the road.
 The image depicts a tree-lined street with a bridge overhead, a parking sign, and a fenced area with a large rock.
+An image with five cars, a bridge, a grass, a fence, a sky, a road, a tree, a truck, and a pavement.
+An image with five cars, a fence, a bridge, a road, a truck, a tree, a sky, a pavement, and a grass.
+An image with five cars, a truck, a pavement, a road, a grass, a bridge, a sky, a tree, and a fence.
+An image with a pavement, five cars, a sky, a grass, a truck, a road, a tree, a bridge, and a fence.
+An image with a fence, a sky, five cars, a road, a bridge, a grass, a truck, a pavement, and a tree.

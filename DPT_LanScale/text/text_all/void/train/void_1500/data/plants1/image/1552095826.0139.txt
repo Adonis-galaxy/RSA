@@ -8,3 +8,8 @@ A concrete bench in a garden.
 A concrete bench is surrounded by plants and is situated next to a brick wall.
 A large, rectangular, concrete slab is leaning against a brick wall, surrounded by plants and dirt.
 A concrete bench is surrounded by plants and is situated next to a brick wall.
+An image with a dirt, two walls, a bench, and a tree.
+An image with two walls, a bench, a tree, and a dirt.
+An image with a dirt, two walls, a tree, and a bench.
+An image with a tree, two walls, a bench, and a dirt.
+An image with two walls, a tree, a bench, and a dirt.

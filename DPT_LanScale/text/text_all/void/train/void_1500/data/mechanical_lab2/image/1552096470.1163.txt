@@ -8,3 +8,8 @@ A blue chair is under a desk.
 A blue chair is tucked under a desk with a computer monitor on top.
 A blue chair is tucked under a small desk with a white countertop and orange cabinets.
 The image shows a computer lab with a desk and chair, and multiple monitors on a shelf.
+An image with five tvs, a wall, five chairs, a floor, a door, and a keyboard.
+An image with five chairs, five tvs, a floor, a keyboard, a door, and a wall.
+An image with five tvs, a keyboard, a wall, five chairs, a floor, and a door.
+An image with five chairs, five tvs, a wall, a floor, a keyboard, and a door.
+An image with five tvs, five chairs, a wall, a door, a keyboard, and a floor.

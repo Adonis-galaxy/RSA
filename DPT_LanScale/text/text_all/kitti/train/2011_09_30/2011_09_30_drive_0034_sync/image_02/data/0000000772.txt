@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 The image captures a quiet, tree-lined street in a residential area, with a few parked cars and a building on the right side.
 The image shows a narrow street lined with trees and buildings, with a car parked on the side.
 The image depicts a tree-lined street with a clear sky, a few parked cars, and a sidewalk, leading to a row of buildings with signs and awnings.
+An image with a car, a sky, a house, a wall, a window, a pavement, a road, and a tree.
+An image with a house, a sky, a car, a road, a window, a wall, a tree, and a pavement.
+An image with a road, a wall, a tree, a house, a car, a sky, a pavement, and a window.
+An image with a road, a pavement, a wall, a house, a car, a sky, a window, and a tree.
+An image with a road, a window, a house, a tree, a car, a pavement, a sky, and a wall.

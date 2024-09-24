@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 The image captures a quiet residential street with parked cars, a driveway, and a garage, set against a backdrop of trees and a clear sky.
 The image shows a narrow street with several cars parked on both sides, including a large white SUV parked on the right side of the street.
 A quiet suburban street with parked cars and a garage.
+An image with a roof, a pavement, six cars, a road, a tree, a fence, and a grass.
+An image with a road, six cars, a roof, a pavement, a fence, a grass, and a tree.
+An image with a grass, a tree, six cars, a roof, a road, a fence, and a pavement.
+An image with a pavement, six cars, a grass, a road, a roof, a fence, and a tree.
+An image with a roof, six cars, a road, a tree, a pavement, a grass, and a fence.

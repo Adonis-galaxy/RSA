@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, with a parked car on the left side, a tree-lined path leading to houses in the background, and a clear sky overhead.
 A silver car is parked on the side of a narrow street lined with trees and houses.
 A narrow, tree-lined street with parked cars and a clear sky.
+An image with a road, a roof, a tree, two cars, a pavement, a house, and a sky.
+An image with a house, a roof, a sky, a pavement, two cars, a tree, and a road.
+An image with a tree, a house, a road, two cars, a sky, a pavement, and a roof.
+An image with a tree, a house, a pavement, two cars, a sky, a roof, and a road.
+An image with a sky, a tree, two cars, a road, a roof, a house, and a pavement.

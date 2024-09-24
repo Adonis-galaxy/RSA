@@ -8,3 +8,8 @@ The image shows a street with a red car parked on the side.
 A red car parked on a tree-lined street, with a white building and a wooden fence in the background.
 A red car is parked on the side of a narrow street lined with trees and houses.
 A narrow, tree-lined street with parked cars and a red car driving down it.
+An image with four cars, a wall, a house, a tree, a pavement, a fence, a grass, and a road.
+An image with a wall, a tree, four cars, a grass, a road, a pavement, a fence, and a house.
+An image with a fence, a tree, a wall, a house, a road, four cars, a grass, and a pavement.
+An image with four cars, a pavement, a grass, a tree, a road, a wall, a house, and a fence.
+An image with four cars, a tree, a road, a wall, a fence, a house, a grass, and a pavement.

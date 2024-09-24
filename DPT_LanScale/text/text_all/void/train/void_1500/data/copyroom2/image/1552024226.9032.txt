@@ -8,3 +8,8 @@ A green mailbox with papers in it.
 A green mailbox with papers and envelopes in it.
 A green mailbox with multiple compartments, each containing various papers and envelopes.
 A green mailbox with multiple compartments, each containing various papers and envelopes.
+An image with a cabinet, a shelf, sixteen books, a wall, a paper, and a door.
+An image with sixteen books, a wall, a door, a cabinet, a paper, and a shelf.
+An image with sixteen books, a paper, a door, a wall, a shelf, and a cabinet.
+An image with sixteen books, a wall, a cabinet, a door, a shelf, and a paper.
+An image with sixteen books, a shelf, a paper, a cabinet, a wall, and a door.

@@ -8,3 +8,8 @@ The image shows a street view of a residential area with parked cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and apartment buildings standing tall in the background.
 The image shows a narrow street lined with parked cars, tall buildings, and trees, with a clear sky overhead.
 The image shows a narrow street lined with parked cars and tall buildings, with a clear sky overhead.
+An image with ten cars, a truck, a building, a tree, a grass, a road, and a sky.
+An image with ten cars, a sky, a building, a truck, a tree, a road, and a grass.
+An image with a building, a truck, ten cars, a grass, a sky, a tree, and a road.
+An image with ten cars, a grass, a sky, a truck, a building, a road, and a tree.
+An image with a truck, ten cars, a road, a building, a grass, a tree, and a sky.

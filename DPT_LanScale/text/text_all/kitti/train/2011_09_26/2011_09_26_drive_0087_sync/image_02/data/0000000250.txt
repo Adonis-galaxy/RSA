@@ -8,3 +8,8 @@ A white garage with a red roof.
 A narrow alleyway between two white garages, flanked by lush greenery.
 A small white garage with a red roof is situated between two large green hedges, with a narrow pathway leading to a white building in the distance.
 A narrow alleyway between two white garages, with a brick pillar and a metal fence on the right, and a green hedge on the left.
+An image with a sky, a tree, a house, a wall, a pavement, and a fence.
+An image with a tree, a wall, a pavement, a house, a fence, and a sky.
+An image with a house, a sky, a pavement, a tree, a fence, and a wall.
+An image with a wall, a fence, a tree, a house, a sky, and a pavement.
+An image with a house, a sky, a wall, a tree, a pavement, and a fence.

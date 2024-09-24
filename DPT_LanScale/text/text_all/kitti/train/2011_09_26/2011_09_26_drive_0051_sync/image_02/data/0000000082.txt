@@ -8,3 +8,8 @@ The image shows a street scene with a construction zone, marked by orange and wh
 A construction zone is set up on a city street, with traffic cones and barriers directing vehicles to a detour.
 A large group of construction cones are blocking off a street, with a few workers visible in the background.
 A street scene with a detour sign, construction barriers, and a parked bus.
+An image with a building, four traffics, ten cars, a truck, a tree, a person, a pavement, a road, and a grass.
+An image with a grass, a person, a tree, a road, four traffics, ten cars, a truck, a pavement, and a building.
+An image with a grass, a truck, ten cars, four traffics, a pavement, a road, a building, a person, and a tree.
+An image with ten cars, a truck, a tree, a pavement, four traffics, a road, a grass, a person, and a building.
+An image with ten cars, a grass, four traffics, a building, a pavement, a person, a truck, a road, and a tree.

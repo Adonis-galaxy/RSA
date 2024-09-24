@@ -8,3 +8,8 @@ The image shows a room with two bunk beds, a chair, and a hat on a shelf.
 The image shows a room with two bunk beds, each with a blue and yellow checkered bedspread, a chair, and a hat on a shelf.
 The image shows a small room with two bunk beds, a chair, and a hat on a shelf.
 The image shows a room with two bunk beds, a chair, and a hat on a shelf.
+An image with a window, two beds, a floor, a chair, a wall, and a cabinet.
+An image with a chair, two beds, a cabinet, a floor, a window, and a wall.
+An image with a chair, a wall, two beds, a cabinet, a window, and a floor.
+An image with two beds, a cabinet, a chair, a window, a wall, and a floor.
+An image with a floor, a window, two beds, a cabinet, a wall, and a chair.

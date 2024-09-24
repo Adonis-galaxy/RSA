@@ -8,3 +8,8 @@ The image shows a white door with a glass window.
 The image shows a white door with a glass window, partially obscured by a white cabinet and a blue trash can.
 The image shows a white door with a glass window, partially obscured by condensation, in a room with a yellow wall and a white cabinet.
 The image shows a white door with a glass window, partially obscured by a white cabinet and a blue trash can.
+An image with a door, a floor, a wall, and a cabinet.
+An image with a wall, a floor, a cabinet, and a door.
+An image with a floor, a cabinet, a wall, and a door.
+An image with a wall, a cabinet, a floor, and a door.
+An image with a cabinet, a floor, a wall, and a door.

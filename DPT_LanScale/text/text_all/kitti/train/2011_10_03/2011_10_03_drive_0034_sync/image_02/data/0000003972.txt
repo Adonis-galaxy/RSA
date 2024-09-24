@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 A quiet residential street with parked cars, lined with trees and houses, leading to a cul-de-sac.
+An image with a sky, six cars, a house, a pavement, a wall, a tree, a grass, and a road.
+An image with a road, six cars, a grass, a house, a sky, a tree, a pavement, and a wall.
+An image with a sky, a pavement, six cars, a house, a road, a wall, a grass, and a tree.
+An image with six cars, a tree, a wall, a house, a road, a sky, a grass, and a pavement.
+An image with six cars, a wall, a tree, a grass, a pavement, a road, a sky, and a house.

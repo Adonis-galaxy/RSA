@@ -8,3 +8,8 @@ A person holding a cup of coffee.
 A person in a dark room holding a cup, standing next to a bookshelf with books and a small white object, looking at a bed with a green blanket.
 A person is standing in a room with a small bookshelf, a bed, and a cup.
 A person in a dark blue shirt is standing in a bedroom with a bed, a bookshelf, and a door.
+An image with eight books, a table, a person, a wall, a shelf, a floor, a cup, a door, and a bed.
+An image with a wall, eight books, a person, a bed, a cup, a floor, a shelf, a table, and a door.
+An image with a shelf, eight books, a person, a floor, a wall, a table, a bed, a door, and a cup.
+An image with a table, eight books, a wall, a cup, a floor, a shelf, a door, a bed, and a person.
+An image with a bed, eight books, a wall, a floor, a cup, a shelf, a door, a table, and a person.

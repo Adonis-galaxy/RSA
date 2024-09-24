@@ -8,3 +8,8 @@ A black and silver toolbox.
 The image shows a room with various pieces of equipment, including a desk with a computer, a black cabinet, and a large white column.
 The image shows a room with a large white pillar, a black cabinet with shelves, a black rolling cart with drawers, a white desk with a computer monitor, and a black rolling cart with a tripod.
 The image shows a room with a white wall, a black cabinet, a black cart with drawers, a black cart with wheels, a black cart with a shelf, a black cart with a shelf and wheels, a black cart with wheels and a shelf, a black cart with wheels and a shelf, a black cart with wheels and a shelf, a black cart with wheels and a shelf, a black cart with wheels and a shelf, a black cart with wheels and a shelf, a black cart
+An image with a backpack, a table, a shelf, a cabinet, a tv, a window, a wall, a refrigerator, and a floor.
+An image with a backpack, a shelf, a wall, a refrigerator, a window, a floor, a tv, a cabinet, and a table.
+An image with a backpack, a table, a window, a cabinet, a refrigerator, a wall, a shelf, a tv, and a floor.
+An image with a table, a floor, a tv, a wall, a refrigerator, a window, a shelf, a backpack, and a cabinet.
+An image with a wall, a backpack, a refrigerator, a tv, a window, a table, a cabinet, a floor, and a shelf.

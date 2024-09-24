@@ -8,3 +8,8 @@ The image shows an empty room with a long table and several chairs.
 The image captures an empty, well-lit hallway with a row of desks and chairs, leading to a door with a red fire alarm on the wall.
 The image shows an empty room with a long table and several chairs, a door with a red fire alarm, and a wall with posters and papers.
 The image shows an empty room with a long table and several chairs, a door with a red fire alarm, and a hallway with a bulletin board and posters.
+An image with twelve chairs, a refrigerator, three dinings, a door, a floor, a wall, a ceiling, and a paper.
+An image with twelve chairs, a wall, three dinings, a paper, a floor, a ceiling, a door, and a refrigerator.
+An image with twelve chairs, three dinings, a door, a ceiling, a wall, a paper, a floor, and a refrigerator.
+An image with twelve chairs, a ceiling, a floor, three dinings, a wall, a paper, a refrigerator, and a door.
+An image with three dinings, a ceiling, twelve chairs, a door, a refrigerator, a wall, a floor, and a paper.

@@ -8,3 +8,8 @@ A car is parked on a street.
 A car is parked on a street lined with garages and trees, creating a serene suburban setting.
 A small car is parked on a narrow street between two rows of garages.
 A narrow, tree-lined street with a row of garages on one side and a parked car on the other, leading to a residential area.
+An image with a road, a car, a pavement, a fence, a tree, a building, and a sky.
+An image with a fence, a road, a building, a car, a tree, a pavement, and a sky.
+An image with a pavement, a fence, a building, a tree, a road, a car, and a sky.
+An image with a pavement, a road, a tree, a sky, a car, a building, and a fence.
+An image with a car, a building, a pavement, a fence, a sky, a road, and a tree.

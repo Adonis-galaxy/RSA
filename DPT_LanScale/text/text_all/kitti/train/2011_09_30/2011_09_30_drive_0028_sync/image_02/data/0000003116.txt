@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and lush greenery.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 The image depicts a narrow, tree-lined street lined with parked cars and houses, with a sign indicating a speed limit of 30 km/h.
 A narrow, tree-lined street with parked cars, leading to a row of white buildings with balconies and potted plants.
+An image with a potted, five cars, a pavement, a house, a grass, a stairs, a dirt, and a tree.
+An image with a stairs, five cars, a grass, a pavement, a house, a tree, a potted, and a dirt.
+An image with a pavement, five cars, a house, a stairs, a potted, a tree, a grass, and a dirt.
+An image with five cars, a pavement, a tree, a dirt, a grass, a house, a potted, and a stairs.
+An image with five cars, a house, a grass, a tree, a stairs, a potted, a pavement, and a dirt.

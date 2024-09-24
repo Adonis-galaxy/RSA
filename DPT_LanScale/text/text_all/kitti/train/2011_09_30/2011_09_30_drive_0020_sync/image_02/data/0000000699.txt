@@ -8,3 +8,8 @@ The image shows a street view of two buildings with orange doors and white walls
 The image captures a quiet residential street with two-story houses, a few parked cars, and a clear blue sky.
 The image shows a street view of two residential buildings, with a larger building on the left and a smaller one on the right. The larger building has a larger parking lot and a larger entrance, while the smaller building has a smaller parking lot and a smaller entrance.
 The image shows a residential street with two-story houses, a paved sidewalk, a parking area, and a road with parked cars.
+An image with a door, five cars, a roof, a stairs, a pavement, a window, a road, a tree, a sky, and a wall.
+An image with five cars, a sky, a door, a wall, a stairs, a roof, a window, a road, a tree, and a pavement.
+An image with five cars, a wall, a sky, a roof, a pavement, a door, a tree, a stairs, a road, and a window.
+An image with a door, a road, five cars, a pavement, a tree, a wall, a roof, a window, a sky, and a stairs.
+An image with a window, five cars, a pavement, a sky, a tree, a stairs, a roof, a door, a wall, and a road.

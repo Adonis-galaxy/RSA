@@ -8,3 +8,8 @@ The image shows a classroom with black chairs and desks.
 The image shows a classroom setting with two black chairs and two wooden desks.
 The image shows a classroom with two black chairs and two wooden desks.
 The image shows a classroom setting with two desks and two chairs, one of which is turned around.
+An image with a rug, a wall, three chairs, and a dining.
+An image with three chairs, a rug, a dining, and a wall.
+An image with a wall, a rug, three chairs, and a dining.
+An image with three chairs, a wall, a dining, and a rug.
+An image with a rug, three chairs, a wall, and a dining.

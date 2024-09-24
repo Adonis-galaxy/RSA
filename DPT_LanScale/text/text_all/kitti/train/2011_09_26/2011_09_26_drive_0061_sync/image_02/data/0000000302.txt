@@ -8,3 +8,8 @@ A narrow tree-lined street.
 A narrow, tree-lined street in a residential area, with a parked car and a bench on the right side.
 A narrow, tree-lined street with parked cars, a bench, and a fence.
 A narrow, tree-lined street with parked cars and a bench on the right side, leading to a building with a red door.
+An image with a road, a pavement, four cars, two walls, a sky, a fence, and a tree.
+An image with a fence, two walls, four cars, a tree, a sky, a road, and a pavement.
+An image with a fence, four cars, a pavement, two walls, a sky, a tree, and a road.
+An image with a road, a pavement, two walls, four cars, a sky, a tree, and a fence.
+An image with four cars, a tree, a pavement, a fence, two walls, a road, and a sky.

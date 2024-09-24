@@ -8,3 +8,8 @@ The image shows a narrow street with a speed limit of 30.
 The image captures a quiet, tree-lined street with a numbered speed limit, leading to a white building with a red sign on the sidewalk.
 The image shows a narrow street lined with trees and buildings, with a speed limit of 30 indicated by a white line on the road.
 The image depicts a narrow street lined with trees and buildings, with a speed limit of 30 indicated by a white line on the road.
+An image with a stop, a car, a house, a wall, a pavement, a roof, a sky, a bus, a window, a road, a tree, and a door.
+An image with a stop, a sky, a road, a door, a window, a car, a bus, a pavement, a house, a roof, a wall, and a tree.
+An image with a tree, a bus, a house, a door, a wall, a road, a pavement, a window, a sky, a stop, a roof, and a car.
+An image with a wall, a house, a door, a tree, a bus, a car, a pavement, a roof, a sky, a window, a stop, and a road.
+An image with a wall, a stop, a window, a sky, a door, a car, a road, a pavement, a bus, a roof, a tree, and a house.

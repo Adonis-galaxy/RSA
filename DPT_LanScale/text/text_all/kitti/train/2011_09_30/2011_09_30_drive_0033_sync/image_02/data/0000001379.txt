@@ -8,3 +8,8 @@ The image shows a street scene with a blue car driving down the road.
 A quiet residential street, lined with trees and parked cars, under a clear blue sky.
 A blue car is driving down a tree-lined street, passing a white house and a parked car.
 A narrow street with parked cars and a sidewalk, lined by trees and houses, under a clear blue sky.
+An image with two walls, four cars, a tree, a fence, a grass, a house, a sky, and a road.
+An image with a grass, a sky, a fence, a road, four cars, a tree, two walls, and a house.
+An image with two walls, four cars, a tree, a sky, a house, a grass, a road, and a fence.
+An image with two walls, a sky, a fence, four cars, a road, a house, a grass, and a tree.
+An image with two walls, four cars, a tree, a grass, a house, a fence, a sky, and a road.

@@ -8,3 +8,8 @@ A black cord on a white table.
 The image shows a workspace with a desk, chair, and a warning sign on a metal box.
 The image shows a small blue table with a black cord running across it, and a yellow caution sign with black text on a gray metal box.
 The image shows a small room with a table, a chair, and a sign on a metal box.
+An image with a floor, a wall, a table, a dining, a chair, and a remote.
+An image with a table, a wall, a chair, a floor, a remote, and a dining.
+An image with a floor, a dining, a remote, a table, a chair, and a wall.
+An image with a dining, a wall, a chair, a floor, a table, and a remote.
+An image with a remote, a floor, a chair, a table, a dining, and a wall.

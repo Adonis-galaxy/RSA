@@ -8,3 +8,8 @@ The image shows a narrow street between houses.
 The image captures a serene residential street, where the sun casts a warm glow on the brick pavement, highlighting the tranquility of the neighborhood.
 The image depicts a narrow, tree-lined street between two-story houses, with a few parked cars and a truck visible, and a potted plant on the left side.
 A narrow, tree-lined street with houses on both sides, leading to a white building with a black roof.
+An image with a sky, a tree, a house, a car, a truck, a wall, and a pavement.
+An image with a tree, a pavement, a car, a sky, a truck, a house, and a wall.
+An image with a truck, a pavement, a tree, a wall, a car, a house, and a sky.
+An image with a wall, a car, a house, a truck, a tree, a sky, and a pavement.
+An image with a pavement, a car, a sky, a wall, a tree, a truck, and a house.

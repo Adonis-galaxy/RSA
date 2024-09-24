@@ -8,3 +8,8 @@ The image shows a street scene with houses, a street sign, and a yield sign.
 The image captures a quaint, residential street scene with a mix of traditional and modern architecture, featuring a triangular street sign and a roundabout.
 The image shows a street scene with a large house on the right, a smaller house in the middle, and a triangular street sign on the left.
 The image depicts a residential street scene with a mix of architectural styles, featuring houses with varying roof colors and designs, a triangular street sign, and a clear sky.
+An image with a tree, a road, a pavement, a house, a roof, a fence, a motorcycle, a grass, a wall, and a sky.
+An image with a sky, a road, a fence, a wall, a roof, a pavement, a tree, a motorcycle, a house, and a grass.
+An image with a grass, a tree, a fence, a pavement, a road, a sky, a roof, a motorcycle, a house, and a wall.
+An image with a wall, a pavement, a grass, a road, a tree, a motorcycle, a fence, a house, a roof, and a sky.
+An image with a roof, a motorcycle, a road, a sky, a wall, a fence, a pavement, a grass, a tree, and a house.

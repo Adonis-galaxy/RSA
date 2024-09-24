@@ -8,3 +8,8 @@ A computer desk with two monitors and two keyboards.
 The image shows a computer desk with two computer monitors, two keyboards, and two mice.
 The image shows a computer desk with two desktop computers, each with a monitor, keyboard, and mouse.
 The image shows a row of computer monitors on a table, with keyboards and mice in front of each monitor.
+An image with five tvs, a mouse, two keyboards, a chair, a wall, and a table.
+An image with a chair, two keyboards, five tvs, a mouse, a wall, and a table.
+An image with five tvs, a table, a mouse, two keyboards, a wall, and a chair.
+An image with five tvs, a table, a mouse, a wall, two keyboards, and a chair.
+An image with a mouse, five tvs, a chair, two keyboards, a wall, and a table.

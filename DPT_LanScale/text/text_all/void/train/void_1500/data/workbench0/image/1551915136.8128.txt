@@ -8,3 +8,8 @@ A box of annie's cheddar bunnies on a table.
 A cup of coffee sits on a table next to a box of Annie's Cheddar Bunnies.
 A blue coffee mug sits on a wooden table next to a box of Annie's Cheddar Bunnies, a roll of tape, and a cell phone.
 A box of Annie's Cheddar Bunnies sits on a wooden table next to a roll of tape, a coffee cup, and a cell phone.
+An image with a cardboard, a cell, a tv, a wall, a umbrella, two cups, a floor, a dining, and a chair.
+An image with a cardboard, a umbrella, a chair, two cups, a cell, a dining, a wall, a tv, and a floor.
+An image with a wall, a floor, a tv, a cardboard, two cups, a cell, a umbrella, a dining, and a chair.
+An image with a tv, two cups, a wall, a cardboard, a floor, a cell, a umbrella, a dining, and a chair.
+An image with a floor, two cups, a cell, a wall, a tv, a chair, a dining, a umbrella, and a cardboard.

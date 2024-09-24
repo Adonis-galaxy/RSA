@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic cones.
 The image captures a scene of a road with multiple lanes, marked by traffic cones and barriers, leading towards a distant horizon where trees and a clear sky can be seen.
 The image shows a wide, empty highway with a few cars and trucks, flanked by trees and a grassy median.
 The image depicts a wide, multi-lane highway with a clear view of the road ahead, flanked by trees and a sidewalk, with traffic moving in both directions.
+An image with a truck, four traffics, nine cars, a tree, a road, a pavement, and a grass.
+An image with four traffics, a tree, nine cars, a truck, a road, a pavement, and a grass.
+An image with a truck, nine cars, four traffics, a pavement, a road, a tree, and a grass.
+An image with a road, nine cars, a truck, four traffics, a grass, a tree, and a pavement.
+An image with four traffics, a pavement, nine cars, a grass, a road, a tree, and a truck.

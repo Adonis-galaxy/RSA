@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car parked on the side.
 A quiet residential street, lined with houses and trees, with a parked car on the left and a clear path leading to the right.
 A car is parked in a driveway next to a tree, and the street is lined with houses and trees.
 A quiet residential street with a parked car, a sidewalk, and a tree-lined road leading to houses.
+An image with a tree, a wall, a house, a sky, a pavement, a road, and a car.
+An image with a sky, a house, a road, a tree, a wall, a pavement, and a car.
+An image with a tree, a pavement, a sky, a car, a road, a wall, and a house.
+An image with a road, a sky, a pavement, a house, a tree, a car, and a wall.
+An image with a wall, a sky, a house, a car, a road, a pavement, and a tree.

@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area.
 A quiet residential street, with a few parked cars and a truck, under a clear sky.
 A narrow street in a residential area with parked cars, a truck, and apartment buildings.
 A narrow, tree-lined street in a residential area, with parked cars and a truck, and apartment buildings on either side.
+An image with a fence, a tree, a truck, a car, a pavement, a house, a wall, and a road.
+An image with a car, a wall, a house, a pavement, a tree, a road, a fence, and a truck.
+An image with a truck, a road, a car, a house, a tree, a pavement, a fence, and a wall.
+An image with a fence, a house, a road, a wall, a tree, a truck, a pavement, and a car.
+An image with a truck, a pavement, a fence, a tree, a car, a road, a house, and a wall.

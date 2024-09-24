@@ -8,3 +8,8 @@ The image shows a classroom with two desks and two chairs.
 The image shows a classroom setting with two desks and chairs, one of which is in focus and the other is blurred.
 The image shows a classroom with two desks and two chairs, with the chairs being larger than the desks.
 The image shows a classroom setting with two desks and chairs, one of which is partially visible, and a blurred view of a table in the foreground.
+An image with a floor, four chairs, a cabinet, a wall, and a dining.
+An image with a wall, a dining, a floor, four chairs, and a cabinet.
+An image with four chairs, a floor, a cabinet, a wall, and a dining.
+An image with four chairs, a wall, a dining, a floor, and a cabinet.
+An image with a floor, four chairs, a cabinet, a dining, and a wall.

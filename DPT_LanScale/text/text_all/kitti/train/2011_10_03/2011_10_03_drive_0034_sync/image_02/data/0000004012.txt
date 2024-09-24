@@ -8,3 +8,8 @@ The image shows a residential street with parked cars.
 A quiet residential street, lined with parked cars and a single moving vehicle, under a clear sky.
 The image shows a narrow street lined with parked cars, a few trees, and houses on both sides. The street is shaded by trees, and there is a white line painted on the road.
 A quiet residential street with parked cars, lined by houses and trees, under a clear sky.
+An image with four cars, a house, a pavement, a sky, a road, a tree, and a grass.
+An image with a house, four cars, a road, a tree, a pavement, a grass, and a sky.
+An image with a house, four cars, a grass, a tree, a pavement, a sky, and a road.
+An image with four cars, a sky, a tree, a house, a grass, a pavement, and a road.
+An image with a house, a road, a sky, a grass, four cars, a pavement, and a tree.

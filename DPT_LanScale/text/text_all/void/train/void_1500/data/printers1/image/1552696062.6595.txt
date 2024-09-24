@@ -8,3 +8,8 @@ A printer on a table.
 A printer sits on a desk next to a trash can.
 The image shows a small office space with two printers on a wooden desk and a blue trash can in the corner.
 The image shows a room with a wooden desk holding two computer printers, a blue trash can, and a white wall with a light switch.
+An image with a floor, a wall, a table, and a paper.
+An image with a table, a wall, a floor, and a paper.
+An image with a table, a wall, a paper, and a floor.
+An image with a table, a floor, a wall, and a paper.
+An image with a paper, a floor, a wall, and a table.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car parked on the side.
 A quiet, tree-lined street with a few parked cars, leading to a residential area.
 The image shows a tree-lined street with a car parked on the side, a red sign on a pole, and a white building in the background.
 A tree-lined street with parked cars, a red sign, and a clear sky.
+An image with seven cars, a tree, a road, a sky, a pavement, a grass, and a house.
+An image with a road, seven cars, a pavement, a tree, a house, a grass, and a sky.
+An image with a grass, seven cars, a tree, a road, a pavement, a house, and a sky.
+An image with seven cars, a house, a grass, a tree, a sky, a pavement, and a road.
+An image with a sky, a road, seven cars, a grass, a pavement, a tree, and a house.

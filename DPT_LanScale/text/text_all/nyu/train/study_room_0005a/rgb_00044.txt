@@ -8,3 +8,8 @@ The image shows an empty room with a long counter and several chairs.
 The image captures an empty, well-lit office space with a row of gray chairs facing a long counter, which is currently unoccupied.
 The image shows an empty room with a large desk, several chairs, and a trash can.
 The image shows an empty room with a long counter, several chairs, and a doorway leading to another room.
+An image with five chairs, a floor, a door, a table, a window, a rug, a wall, and a ceiling.
+An image with five chairs, a floor, a door, a wall, a table, a window, a rug, and a ceiling.
+An image with five chairs, a door, a floor, a wall, a rug, a window, a table, and a ceiling.
+An image with five chairs, a rug, a wall, a table, a floor, a window, a door, and a ceiling.
+An image with a floor, five chairs, a ceiling, a door, a table, a wall, a window, and a rug.

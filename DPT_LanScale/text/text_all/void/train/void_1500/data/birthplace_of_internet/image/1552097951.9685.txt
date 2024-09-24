@@ -8,3 +8,8 @@ A room with a green wall and a large white machine.
 The image shows a room with a green wall, a desk, a chair, a refrigerator, and a bookshelf.
 The room is a small office with a desk, a chair, a refrigerator, and a bookshelf.
 The image shows a room with a green wall, a desk with a chair, a refrigerator, a cabinet with shelves, and a large window with lights on.
+An image with a table, a wall, a shelf, three chairs, four books, two people, a ceiling, a refrigerator, a floor, a paper, a light, and a dining.
+An image with a ceiling, a dining, a light, a table, a shelf, a paper, four books, a wall, three chairs, two people, a floor, and a refrigerator.
+An image with four books, a shelf, a wall, a refrigerator, a table, a floor, a dining, a paper, three chairs, a ceiling, two people, and a light.
+An image with a shelf, a refrigerator, four books, a table, a paper, a floor, a light, three chairs, a wall, two people, a ceiling, and a dining.
+An image with a ceiling, three chairs, four books, a light, two people, a floor, a refrigerator, a shelf, a dining, a paper, a wall, and a table.

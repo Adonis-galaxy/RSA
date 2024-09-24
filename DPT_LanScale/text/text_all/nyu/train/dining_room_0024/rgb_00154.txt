@@ -8,3 +8,8 @@ A wooden dining room table with six chairs.
 The image captures a formal dining setting with a long wooden table surrounded by matching chairs, all arranged in a symmetrical pattern, creating a sense of order and elegance.
 The image shows a long wooden dining table with six matching chairs, all of which are empty. The table and chairs are positioned in front of a window with curtains, and there is a small wooden clock on the right side of the image.
 A long wooden dining table with six matching chairs, arranged in a straight line, set against a wall with a window and a clock.
+An image with eight chairs, a wall, a dining, a floor, a clock, and a curtain.
+An image with a curtain, eight chairs, a dining, a wall, a clock, and a floor.
+An image with a floor, a wall, eight chairs, a clock, a dining, and a curtain.
+An image with a floor, eight chairs, a dining, a wall, a curtain, and a clock.
+An image with a dining, a curtain, eight chairs, a clock, a wall, and a floor.

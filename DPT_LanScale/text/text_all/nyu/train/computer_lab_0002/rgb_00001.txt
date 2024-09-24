@@ -8,3 +8,8 @@ A room with four computers on desks.
 The image shows a room with four computer desks, each equipped with a desktop computer and a chair. The desks are arranged in a square formation, and there is a clock on the wall above the desks. The room appears to be a computer lab or a shared workspace.
 The image shows a room with four desktop computers, each on a small table, and a single chair in front of each computer. The room has a white wall and a clock on it.
 The image shows a room with four computer desks, each equipped with a desktop computer and a chair, arranged in a square formation with a clock on the wall.
+An image with a rug, a wall, a table, two chairs, three keyboards, a clock, three mice, and three tvs.
+An image with three tvs, two chairs, a rug, three mice, three keyboards, a clock, a table, and a wall.
+An image with three mice, a table, a rug, a clock, three keyboards, two chairs, three tvs, and a wall.
+An image with three tvs, three mice, two chairs, a table, a rug, a clock, three keyboards, and a wall.
+An image with three mice, a table, two chairs, a clock, three keyboards, a rug, three tvs, and a wall.

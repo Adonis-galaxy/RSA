@@ -8,3 +8,8 @@ A classroom with rows of chairs and a podium.
 The image shows an empty classroom with rows of chairs and a podium at the front.
 The image shows a room with a podium and several chairs, with the podium being the smallest object in the room.
 The image shows an empty classroom with rows of chairs and a podium at the front.
+An image with sixteen chairs, a wall, a floor, a tv, and a stairs.
+An image with a wall, a tv, sixteen chairs, a floor, and a stairs.
+An image with sixteen chairs, a tv, a wall, a floor, and a stairs.
+An image with sixteen chairs, a stairs, a wall, a floor, and a tv.
+An image with sixteen chairs, a tv, a floor, a stairs, and a wall.

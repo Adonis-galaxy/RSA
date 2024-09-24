@@ -8,3 +8,8 @@ A white table with four chairs around it.
 The image captures a well-lit dining room with a table surrounded by chairs, featuring a white tablecloth and framed artwork on the wall.
 The image shows a dining room with a large white table surrounded by six chairs, a refrigerator, and two pictures on the wall.
 The image shows a dining room with a white table surrounded by six chairs, a refrigerator, and a kitchen counter.
+An image with two floors, a cabinet, five chairs, a wall, a dining, and a refrigerator.
+An image with two floors, a wall, a refrigerator, five chairs, a cabinet, and a dining.
+An image with five chairs, a refrigerator, two floors, a dining, a cabinet, and a wall.
+An image with five chairs, a refrigerator, two floors, a dining, a wall, and a cabinet.
+An image with five chairs, a wall, a dining, a refrigerator, two floors, and a cabinet.

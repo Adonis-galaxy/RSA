@@ -8,3 +8,8 @@ A blurry image of a desk with a coffee cup and papers on it.
 A blurry image of a desk with a coffee cup and papers on it.
 A blurry image of a wooden desk with a red cup, a white cup, and papers on it.
 A blurry image of a wooden desk with a red cup, a white cup, and papers on it.
+An image with two cups, a table, a paper, and a floor.
+An image with a table, a floor, a paper, and two cups.
+An image with a paper, two cups, a table, and a floor.
+An image with a floor, two cups, a table, and a paper.
+An image with a paper, two cups, a floor, and a table.

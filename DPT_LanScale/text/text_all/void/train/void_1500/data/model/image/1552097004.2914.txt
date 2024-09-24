@@ -8,3 +8,8 @@ A model of a city street with buildings.
 The image shows a model of a cityscape with buildings and a street, placed on a wooden stand.
 The image shows a small model of a cityscape, featuring a building with a red roof and a street with a car.
 The image shows a model of a cityscape with buildings and a street, displayed on a wooden stand.
+An image with a wall, a building, a floor, and a tree.
+An image with a wall, a tree, a building, and a floor.
+An image with a floor, a building, a wall, and a tree.
+An image with a building, a wall, a floor, and a tree.
+An image with a tree, a floor, a building, and a wall.

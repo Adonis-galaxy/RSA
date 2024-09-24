@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a sidewalk, and buildings.
 The image captures a typical day in a residential area, with parked cars lining the street, a few pedestrians, and a clear blue sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a person walking on the sidewalk.
 A narrow street lined with parked cars and buildings, with a pedestrian walking on the sidewalk.
+An image with thirteen cars, three trucks, a sky, a tree, a dirt, a person, a house, a pavement, a road, and a bicycle.
+An image with three trucks, thirteen cars, a dirt, a road, a tree, a pavement, a person, a house, a sky, and a bicycle.
+An image with three trucks, a person, thirteen cars, a bicycle, a sky, a pavement, a road, a tree, a house, and a dirt.
+An image with a person, thirteen cars, a dirt, a pavement, a bicycle, three trucks, a tree, a road, a sky, and a house.
+An image with three trucks, thirteen cars, a pavement, a road, a dirt, a tree, a house, a person, a bicycle, and a sky.

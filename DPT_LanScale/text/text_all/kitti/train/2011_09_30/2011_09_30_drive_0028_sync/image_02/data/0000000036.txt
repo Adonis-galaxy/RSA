@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street in a residential area, with parked cars lining the sides and a few cars driving down the middle, creating a sense of a typical day in a suburban neighborhood.
 The image shows a narrow street lined with parked cars, with buildings on both sides, and a clear sky overhead.
 A narrow street in a residential area, with parked cars on both sides and buildings on both sides, leading to a dead end.
+An image with nine cars, a road, a pavement, a house, a sky, a fence, and a tree.
+An image with nine cars, a sky, a road, a fence, a house, a tree, and a pavement.
+An image with a house, a road, nine cars, a pavement, a sky, a fence, and a tree.
+An image with a tree, nine cars, a road, a fence, a house, a pavement, and a sky.
+An image with nine cars, a sky, a fence, a house, a road, a tree, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street with a red and white sign on the right side.
 A quiet, tree-lined street with a clear path ahead, marked by a yield sign at the end.
 The image shows a narrow, tree-lined road with a red and white yield sign on the right side, a white building with a balcony on the left, and a stone wall on the right.
 A narrow, tree-lined road with a red and white yield sign at the end, leading to a stone wall and a building with a balcony.
+An image with a sky, a wall, a house, a road, a tree, and a pavement.
+An image with a road, a pavement, a wall, a tree, a sky, and a house.
+An image with a house, a road, a sky, a pavement, a tree, and a wall.
+An image with a tree, a road, a house, a pavement, a wall, and a sky.
+An image with a pavement, a sky, a road, a wall, a house, and a tree.

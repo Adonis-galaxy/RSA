@@ -8,3 +8,8 @@ A blurry image of a kitchen sink.
 A blurry image of a kitchen sink with a faucet.
 A blurry image of a small kitchen sink with a faucet.
 The image shows a small, stainless steel sink in a bathroom with a blue countertop, a white wall, and a blurred background.
+An image with a sink, a counter, a wall, and a paper.
+An image with a sink, a paper, a counter, and a wall.
+An image with a wall, a paper, a counter, and a sink.
+An image with a sink, a wall, a counter, and a paper.
+An image with a wall, a paper, a counter, and a sink.

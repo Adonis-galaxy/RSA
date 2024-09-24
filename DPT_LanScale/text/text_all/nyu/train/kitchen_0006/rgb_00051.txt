@@ -8,3 +8,8 @@ A kitchen with a white stove and oven.
 The image captures a small, somewhat cluttered kitchen with a white stove and oven, a black toaster oven, and a white wall.
 The image shows a small kitchen with a white stove and oven, a black toaster oven, a white wall, and a framed picture on the wall.
 The image shows a small, somewhat cluttered kitchen with a white stove and oven, a black toaster oven, a white wall, and a framed picture on the wall.
+An image with a wall, a towel, a suitcase, a oven, and a light.
+An image with a towel, a suitcase, a wall, a oven, and a light.
+An image with a wall, a light, a oven, a suitcase, and a towel.
+An image with a light, a towel, a oven, a suitcase, and a wall.
+An image with a oven, a towel, a wall, a suitcase, and a light.

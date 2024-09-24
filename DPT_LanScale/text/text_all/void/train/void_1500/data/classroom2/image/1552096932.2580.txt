@@ -8,3 +8,8 @@ A small orange desk in a room.
 A small orange desk is placed in a corner of a room, next to a green trash can.
 A small orange desk with a black chair in a room with a green trash can.
 A small orange desk with a black chair in a room with a green trash can and a wooden door.
+An image with two walls, a floor, a dining, two chairs, and a door.
+An image with two walls, a door, a dining, two chairs, and a floor.
+An image with a door, a dining, two walls, two chairs, and a floor.
+An image with a dining, two walls, a floor, a door, and two chairs.
+An image with two walls, a floor, two chairs, a door, and a dining.

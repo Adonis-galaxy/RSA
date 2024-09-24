@@ -8,3 +8,8 @@ The image shows a room with a red couch, a white radiator, a white wall, and a b
 The image shows a room with a red couch, a white radiator, a brown bulletin board on the wall, and a purple chair. The bulletin board is empty and has a few pins on it.
 The image shows a small room with a red couch, a white radiator, a brown bulletin board on the wall, and a door with a silver handle.
 The image shows a room with a red couch, a white radiator, a white wall, a brown bulletin board, and a maroon chair.
+An image with a chair, a couch, a light, and a wall.
+An image with a chair, a light, a couch, and a wall.
+An image with a wall, a couch, a chair, and a light.
+An image with a light, a couch, a chair, and a wall.
+An image with a couch, a wall, a chair, and a light.

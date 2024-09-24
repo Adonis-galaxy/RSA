@@ -8,3 +8,8 @@ A narrow alleyway between two houses.
 A narrow, shaded pathway between two houses, bordered by lush greenery and a stone wall, leads to a white building with a black gate.
 A narrow, shaded alleyway between two white buildings, bordered by a low stone wall and a black fence, with a tree-lined sidewalk and a street lamp.
 A narrow, shaded alleyway between two white buildings, bordered by a low stone wall and a black fence, with a paved path and a few trees.
+An image with two walls, a sky, a fence, a pavement, a house, a tree, and a roof.
+An image with a sky, a pavement, two walls, a house, a roof, a tree, and a fence.
+An image with a fence, a tree, two walls, a pavement, a house, a roof, and a sky.
+An image with a house, two walls, a pavement, a fence, a sky, a roof, and a tree.
+An image with a roof, a pavement, a house, a sky, a tree, two walls, and a fence.

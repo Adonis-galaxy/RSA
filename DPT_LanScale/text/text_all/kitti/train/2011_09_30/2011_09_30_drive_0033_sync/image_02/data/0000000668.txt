@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down the road.
 The image captures a quiet residential street, with a few parked cars and a pedestrian, under a clear blue sky.
 The image shows a residential street with a few cars, a truck, and a person, with houses and trees in the background.
 A quiet residential street with parked cars, a pedestrian walkway, and a numbered road.
+An image with five cars, a grass, a road, a house, a pavement, a potted, and a tree.
+An image with a house, five cars, a road, a pavement, a potted, a tree, and a grass.
+An image with five cars, a pavement, a tree, a potted, a grass, a house, and a road.
+An image with a road, five cars, a house, a grass, a potted, a tree, and a pavement.
+An image with a grass, five cars, a road, a potted, a tree, a pavement, and a house.

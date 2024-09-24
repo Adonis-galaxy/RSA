@@ -8,3 +8,8 @@ A black backpack on a gray chair.
 A backpack, a hat, and a magazine on a chair.
 A black backpack with a green nvidia logo, a sombrero, and a magazine on a gray couch.
 A black backpack with a green logo is placed on a gray couch, next to a sombrero and a magazine.
+An image with a backpack, a chair, a tv, a floor, a cabinet, a window, a wall, a book, and a couch.
+An image with a wall, a cabinet, a tv, a backpack, a chair, a window, a floor, a couch, and a book.
+An image with a floor, a cabinet, a tv, a chair, a wall, a backpack, a couch, a window, and a book.
+An image with a tv, a chair, a cabinet, a wall, a window, a floor, a book, a couch, and a backpack.
+An image with a cabinet, a chair, a couch, a backpack, a window, a wall, a tv, a book, and a floor.

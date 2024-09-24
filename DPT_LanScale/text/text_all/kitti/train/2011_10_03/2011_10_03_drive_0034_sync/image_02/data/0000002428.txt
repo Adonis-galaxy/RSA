@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars lining the curb and a white house with a chimney in the background.
 The image shows a narrow street with parked cars, a building with a sloped roof, and a clear sky.
 A quiet residential street with parked cars and a white house in the background.
+An image with a tree, four cars, a pavement, a mountain, a roof, a sky, a house, a fence, and a road.
+An image with a roof, four cars, a mountain, a fence, a house, a road, a sky, a tree, and a pavement.
+An image with a road, a fence, a house, four cars, a mountain, a pavement, a tree, a roof, and a sky.
+An image with a house, four cars, a fence, a pavement, a tree, a road, a roof, a mountain, and a sky.
+An image with a tree, four cars, a road, a roof, a pavement, a house, a fence, a mountain, and a sky.

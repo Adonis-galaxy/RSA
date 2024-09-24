@@ -8,3 +8,8 @@ A room with a blue wall and a refrigerator.
 The image shows a room with a blue refrigerator, a table with a chair, and a desk with a computer monitor.
 The image shows a room with a blue refrigerator, a table with a chair, a desk with a chair, and a green wall with pictures.
 The image shows a room with a blue wall, a refrigerator, a table, a stool, and a picture on the wall.
+An image with a person, three chairs, a floor, a ceiling, a light, a wall, a paper, and a dining.
+An image with three chairs, a light, a wall, a paper, a floor, a person, a ceiling, and a dining.
+An image with a paper, a light, three chairs, a dining, a ceiling, a floor, a person, and a wall.
+An image with three chairs, a floor, a wall, a dining, a light, a person, a ceiling, and a paper.
+An image with a person, three chairs, a floor, a ceiling, a dining, a wall, a paper, and a light.

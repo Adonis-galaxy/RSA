@@ -8,3 +8,8 @@ The image shows a white wall in a room with a concrete floor.
 The image shows a white wall and a white door in a room with a gray floor.
 The image shows a small, dark room with a white wall and a white door.
 The image shows a narrow hallway with two doors on the left side and a darker floor in the foreground.
+An image with a wall, a door, and a floor.
+An image with a door, a floor, and a wall.
+An image with a wall, a door, and a floor.
+An image with a door, a wall, and a floor.
+An image with a floor, a door, and a wall.

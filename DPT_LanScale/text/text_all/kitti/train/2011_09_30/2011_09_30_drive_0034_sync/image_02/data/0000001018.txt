@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A narrow, tree-lined street in a residential area, with parked cars and a gate at the end.
 The image shows a narrow, tree-lined street between two-story houses, with a few cars parked on the right side.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with a fence, two walls, a house, three cars, a tree, and a road.
+An image with a house, three cars, a fence, a tree, two walls, and a road.
+An image with a house, three cars, a road, a tree, a fence, and two walls.
+An image with a house, three cars, a fence, two walls, a tree, and a road.
+An image with three cars, a road, a fence, two walls, a house, and a tree.

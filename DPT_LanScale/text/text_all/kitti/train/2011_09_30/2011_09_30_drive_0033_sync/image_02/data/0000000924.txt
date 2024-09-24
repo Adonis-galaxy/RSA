@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with parked cars and a bench, under a clear blue sky.
 The image shows a narrow street with parked cars, a white van, and a bench, with a building under construction in the background.
 The image depicts a residential street with parked cars, a curved road, and a bench on the sidewalk.
+An image with a road, a car, a truck, a pavement, a tree, a sky, a house, and a fence.
+An image with a sky, a car, a truck, a road, a house, a pavement, a tree, and a fence.
+An image with a sky, a tree, a pavement, a truck, a road, a car, a fence, and a house.
+An image with a tree, a truck, a pavement, a house, a fence, a road, a sky, and a car.
+An image with a truck, a sky, a fence, a house, a tree, a pavement, a road, and a car.

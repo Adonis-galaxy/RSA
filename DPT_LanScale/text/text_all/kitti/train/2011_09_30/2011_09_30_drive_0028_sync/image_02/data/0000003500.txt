@@ -8,3 +8,8 @@ A white van parked on a street.
 A narrow street in a residential area, with parked cars and a white van driving down it.
 A narrow street lined with parked cars and white buildings, with a large van driving down the road.
 A narrow street lined with white fences and trees, with parked cars and a white van driving down it.
+An image with two trucks, a road, two cars, a pavement, a tree, a fence, a building, a sky, and a wall.
+An image with a road, a fence, two cars, a tree, two trucks, a wall, a pavement, a building, and a sky.
+An image with a fence, a wall, two cars, a road, a sky, two trucks, a building, a tree, and a pavement.
+An image with two cars, a tree, a road, a pavement, two trucks, a sky, a building, a fence, and a wall.
+An image with a fence, two trucks, a road, a building, a sky, a wall, a pavement, two cars, and a tree.

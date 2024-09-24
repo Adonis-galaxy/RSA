@@ -8,3 +8,8 @@ A white table with four chairs in a room.
 The image shows a small, simple room with a white table and four chairs, a refrigerator, and a bulletin board on the wall.
 The image shows a small room with a white table and four chairs, a refrigerator, and a bulletin board on the wall.
 A small, simple, and somewhat cluttered room with a white table and four chairs, a refrigerator, and a bulletin board.
+An image with a handbag, a cell, five chairs, a cup, a paper, a dining, a floor, a refrigerator, and a wall.
+An image with a handbag, a wall, five chairs, a refrigerator, a dining, a paper, a floor, a cup, and a cell.
+An image with a wall, five chairs, a cell, a floor, a handbag, a refrigerator, a dining, a paper, and a cup.
+An image with a wall, five chairs, a refrigerator, a cup, a paper, a floor, a cell, a dining, and a handbag.
+An image with five chairs, a cell, a floor, a dining, a cup, a handbag, a wall, a paper, and a refrigerator.

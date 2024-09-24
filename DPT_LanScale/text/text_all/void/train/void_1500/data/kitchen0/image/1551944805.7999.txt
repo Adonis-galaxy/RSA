@@ -8,3 +8,8 @@ A silver refrigerator in a kitchen.
 A silver refrigerator in a kitchen with a wooden cabinet and a white wall.
 A silver refrigerator with a freezer door, standing in a kitchen with an orange wall and a white door.
 A stainless steel refrigerator with papers on the door, situated in a kitchen with an orange wall and a white door.
+An image with a wall, a cabinet, a floor, a window, a refrigerator, and a door.
+An image with a cabinet, a wall, a refrigerator, a window, a door, and a floor.
+An image with a cabinet, a door, a floor, a refrigerator, a wall, and a window.
+An image with a cabinet, a door, a refrigerator, a window, a wall, and a floor.
+An image with a door, a refrigerator, a cabinet, a floor, a window, and a wall.

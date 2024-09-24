@@ -8,3 +8,8 @@ A blue car parked on the side of a street.
 A quiet residential street, with a blue car parked on the side, a few people walking on the sidewalk, and a white fence separating the street from the houses.
 A narrow street lined with parked cars and a sidewalk, with a few people walking on the sidewalk and a house on the right side.
 A quiet residential street with parked cars, a paved sidewalk, and a row of houses on the right side.
+An image with three people, two cars, a road, a pavement, a tree, a house, a wall, and a sky.
+An image with a pavement, three people, a house, two cars, a sky, a road, a wall, and a tree.
+An image with a wall, a tree, three people, a house, a sky, a pavement, a road, and two cars.
+An image with a road, a pavement, a sky, two cars, three people, a wall, a house, and a tree.
+An image with a road, a sky, a wall, a tree, a house, a pavement, two cars, and three people.

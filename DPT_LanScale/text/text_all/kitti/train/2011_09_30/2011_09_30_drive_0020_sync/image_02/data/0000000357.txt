@@ -8,3 +8,8 @@ The image shows a street scene with a variety of vehicles, including cars, truck
 A quiet residential street with a few cars and a red scooter, lined with trees and houses, under a clear blue sky.
 A small red car is driving down a narrow road between two rows of trees, with a white car following behind.
 A quiet residential street with parked cars, a paved path, and a row of trees.
+An image with two trucks, six cars, a road, a house, a tree, a grass, a dirt, and a pavement.
+An image with a tree, a road, six cars, a pavement, two trucks, a dirt, a grass, and a house.
+An image with six cars, a pavement, a road, two trucks, a dirt, a grass, a tree, and a house.
+An image with a dirt, six cars, two trucks, a pavement, a tree, a house, a road, and a grass.
+An image with a grass, a dirt, two trucks, six cars, a house, a road, a pavement, and a tree.

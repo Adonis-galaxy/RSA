@@ -8,3 +8,8 @@ The image shows a street scene with a white house, a red car, a white car, and a
 The image captures a quiet residential street, with a few parked cars and a white house, under a clear blue sky.
 The image shows a quiet residential street with a few parked cars, a white house with a sloped roof, and trees lining the road.
 The image shows a quiet residential street with parked cars, a paved road, and a row of houses with trees and bushes in front of them.
+An image with a tree, three cars, a roof, a road, and a sky.
+An image with a road, a roof, three cars, a tree, and a sky.
+An image with a roof, three cars, a sky, a tree, and a road.
+An image with three cars, a roof, a sky, a road, and a tree.
+An image with a tree, a road, three cars, a roof, and a sky.

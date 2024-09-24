@@ -8,3 +8,8 @@ A computer desk with two keyboards and two chairs.
 A computer desk with two chairs, two keyboards, and a mouse.
 The image shows a small office space with a desk, two chairs, two keyboards, and a computer monitor.
 The image shows a computer desk with two keyboards and two mice, positioned in front of a monitor, with two chairs placed on either side of the desk.
+An image with a wall, a table, a rug, a mouse, two keyboards, two chairs, and a tv.
+An image with a tv, two chairs, two keyboards, a table, a rug, a wall, and a mouse.
+An image with a rug, two keyboards, a table, a tv, two chairs, a mouse, and a wall.
+An image with a table, a mouse, two chairs, two keyboards, a wall, a rug, and a tv.
+An image with two chairs, two keyboards, a mouse, a tv, a rug, a wall, and a table.

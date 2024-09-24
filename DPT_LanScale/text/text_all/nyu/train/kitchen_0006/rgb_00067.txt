@@ -8,3 +8,8 @@ A kitchen with a white stove and a black trash can.
 The image captures a small, somewhat cluttered kitchen with a white stove and oven, a black trash can, and a white wall.
 The image shows a small kitchen with a white stove, a black trash can, and a white wall.
 The image shows a small, somewhat cluttered kitchen with a white stove, a white oven, a black trash can, and a white wall.
+An image with two walls, a oven, a floor, a towel, and a suitcase.
+An image with a oven, a towel, a suitcase, a floor, and two walls.
+An image with a oven, a towel, a floor, two walls, and a suitcase.
+An image with two walls, a towel, a oven, a floor, and a suitcase.
+An image with a towel, two walls, a oven, a suitcase, and a floor.

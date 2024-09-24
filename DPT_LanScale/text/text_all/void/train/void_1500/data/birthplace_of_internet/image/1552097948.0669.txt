@@ -8,3 +8,8 @@ A blue and black refrigerator in a room.
 The image shows a room with a blue and black refrigerator, a table with a chair, and a picture on the wall.
 The image shows a room with a blue and black refrigerator, a table with a chair, a picture on the wall, and a light fixture on the ceiling.
 The image shows a room with a blue and black refrigerator, a table with a chair, a picture on the wall, and a window.
+An image with a person, four chairs, two walls, a refrigerator, a light, a dining, a ceiling, and a floor.
+An image with four chairs, a person, a refrigerator, two walls, a light, a floor, a dining, and a ceiling.
+An image with four chairs, a dining, two walls, a person, a refrigerator, a floor, a light, and a ceiling.
+An image with a floor, a light, a ceiling, a dining, four chairs, a refrigerator, two walls, and a person.
+An image with two walls, four chairs, a light, a dining, a person, a refrigerator, a ceiling, and a floor.

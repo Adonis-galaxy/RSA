@@ -8,3 +8,8 @@ A classroom with a teacher and students.
 The image captures a classroom scene with a teacher leading a discussion with students seated at desks, while the teacher stands at the front of the room, engaged in a presentation.
 A teacher is leading a class in a small, cluttered classroom with a whiteboard, desks, and books.
 The image shows a classroom with a teacher standing at the front, engaged in a lesson with students seated at desks, which are arranged in rows. The room is equipped with a whiteboard, a bookshelf, and a computer monitor.
+An image with a rug, twelve chairs, sixteen books, five people, a table, a wall, two dinings, three tvs, and a laptop.
+An image with sixteen books, five people, twelve chairs, a laptop, a wall, three tvs, a table, two dinings, and a rug.
+An image with sixteen books, three tvs, a table, five people, two dinings, twelve chairs, a rug, a wall, and a laptop.
+An image with twelve chairs, sixteen books, five people, three tvs, two dinings, a laptop, a rug, a wall, and a table.
+An image with twelve chairs, five people, sixteen books, a table, three tvs, two dinings, a wall, a laptop, and a rug.

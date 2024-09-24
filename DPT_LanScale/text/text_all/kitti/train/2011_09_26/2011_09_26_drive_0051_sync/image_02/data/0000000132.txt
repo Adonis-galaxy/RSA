@@ -8,3 +8,8 @@ The image shows a street scene with a mix of vehicles and pedestrians.
 The image captures a typical day in a suburban area, with a mix of residential and commercial buildings, a busy street with cars and trucks, and pedestrians navigating the sidewalks.
 The image shows a street scene with a mix of vehicles, pedestrians, and traffic signs, including a large truck, a car, a person walking, and a sign indicating a pedestrian crossing.
 A busy city street with a mix of vehicles, pedestrians, and traffic signs, leading to a parked car on the side of the road.
+An image with twelve cars, a person, a building, a road, a tree, a pavement, a fence, a grass, a sky, and a traffic.
+An image with twelve cars, a tree, a person, a grass, a sky, a fence, a road, a building, a traffic, and a pavement.
+An image with twelve cars, a sky, a building, a person, a road, a traffic, a fence, a grass, a tree, and a pavement.
+An image with twelve cars, a fence, a tree, a pavement, a grass, a traffic, a sky, a person, a building, and a road.
+An image with twelve cars, a road, a sky, a person, a traffic, a grass, a building, a pavement, a fence, and a tree.

@@ -8,3 +8,8 @@ The image shows a patch of grass and weeds growing in front of a brick wall.
 The image shows a patch of green plants growing in a dirt area next to a red brick wall.
 The image shows a small patch of green grass and plants growing in front of a red brick wall.
 The image shows a patch of grass and dirt in front of a red brick wall, with a tree to the right.
+An image with a pavement, two walls, a grass, and a tree.
+An image with two walls, a pavement, a grass, and a tree.
+An image with a tree, two walls, a grass, and a pavement.
+An image with a grass, two walls, a pavement, and a tree.
+An image with two walls, a pavement, a grass, and a tree.

@@ -8,3 +8,8 @@ A truck is driving down a narrow street between buildings.
 A quiet residential street, with a construction truck parked at the end, under a clear sky.
 A large truck is driving down a narrow street between two-story buildings, with a construction site visible in the background.
 A narrow, tree-lined street in a residential area, with a truck parked on the right side and a construction site visible in the background.
+An image with a car, a pavement, a road, a stairs, a truck, a fence, a tree, a sky, a person, and a building.
+An image with a fence, a building, a sky, a road, a car, a tree, a truck, a stairs, a pavement, and a person.
+An image with a car, a building, a stairs, a fence, a tree, a sky, a road, a pavement, a truck, and a person.
+An image with a person, a pavement, a building, a tree, a car, a road, a fence, a stairs, a truck, and a sky.
+An image with a car, a fence, a road, a person, a tree, a truck, a stairs, a sky, a building, and a pavement.

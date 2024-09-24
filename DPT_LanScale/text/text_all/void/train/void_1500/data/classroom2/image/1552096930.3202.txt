@@ -8,3 +8,8 @@ The image shows a room with two black chairs and a wooden desk.
 The image shows a room with two black chairs and a wooden desk, all placed on a white floor.
 The image shows a room with two black chairs and a small orange table, all placed on a white floor.
 The image shows a room with a white floor, a wooden door, and two black chairs with orange tops.
+An image with three chairs, a wall, a floor, a door, and a table.
+An image with a wall, three chairs, a door, a floor, and a table.
+An image with a floor, a wall, three chairs, a table, and a door.
+An image with three chairs, a floor, a door, a wall, and a table.
+An image with three chairs, a door, a floor, a wall, and a table.

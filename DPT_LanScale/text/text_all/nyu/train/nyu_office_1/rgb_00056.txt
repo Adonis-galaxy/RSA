@@ -8,3 +8,8 @@ The image shows a room with two red chairs, a whiteboard, and a curtain.
 The image captures a room with two red chairs, one in front of a whiteboard with red writing, and the other chair positioned in front of a gray curtain.
 The image shows a room with two red chairs, a whiteboard with red writing, a window with a gray curtain, and a shelf with a blue item.
 The image shows a room with a whiteboard on the wall, two red chairs, a desk, and a window with curtains.
+An image with a curtain, a floor, a wall, three chairs, a shelf, and a remote.
+An image with three chairs, a shelf, a wall, a floor, a curtain, and a remote.
+An image with a curtain, a shelf, three chairs, a wall, a remote, and a floor.
+An image with a floor, a remote, three chairs, a wall, a shelf, and a curtain.
+An image with a curtain, three chairs, a remote, a wall, a shelf, and a floor.

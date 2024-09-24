@@ -8,3 +8,8 @@ A blurry image of a computer desk with a keyboard and mouse.
 The image shows a blurry office setting with a desk, chair, and computer equipment.
 The image shows a blurry office setting with a desk, chair, and keyboard, with the chair being the largest object in the frame.
 The image shows a blurry office setting with a desk, chair, and keyboard, with a focus on the chair and keyboard.
+An image with two tvs, a table, two keyboards, two chairs, a rug, a wall, a paper, and a mouse.
+An image with a wall, two tvs, a paper, two chairs, a table, two keyboards, a rug, and a mouse.
+An image with two chairs, two keyboards, a mouse, two tvs, a table, a wall, a rug, and a paper.
+An image with two chairs, a rug, a mouse, a table, two tvs, a wall, two keyboards, and a paper.
+An image with two chairs, a rug, a paper, a mouse, two keyboards, a table, two tvs, and a wall.

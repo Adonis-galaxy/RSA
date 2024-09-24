@@ -8,3 +8,8 @@ A bed in a room.
 The image captures a simple, uncluttered bedroom with a neatly made bed, a nightstand, and a window, all bathed in soft, natural light.
 The image shows a small, dimly lit bedroom with a single bed, a nightstand, and a window.
 The image shows a small, dimly lit bedroom with a single bed, a nightstand, and a window with blinds.
+An image with a light, a window, a ceiling, a bed, a floor, and a wall.
+An image with a light, a bed, a ceiling, a window, a floor, and a wall.
+An image with a window, a light, a bed, a wall, a floor, and a ceiling.
+An image with a ceiling, a bed, a window, a wall, a floor, and a light.
+An image with a floor, a bed, a wall, a light, a ceiling, and a window.

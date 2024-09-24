@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a clear view of the intersection and the surrounding buildings.
 The image shows a quiet residential street with a few parked cars, lined with houses and trees, and a clear sky overhead.
 The image depicts a quiet residential street with a mix of single-family homes and apartment buildings, lined with trees and parked cars, leading to a cul-de-sac.
+An image with a truck, a house, five cars, a road, a stop, a tree, and a sky.
+An image with a sky, five cars, a truck, a stop, a house, a tree, and a road.
+An image with five cars, a stop, a road, a sky, a truck, a tree, and a house.
+An image with a tree, five cars, a road, a house, a sky, a stop, and a truck.
+An image with five cars, a house, a tree, a road, a stop, a truck, and a sky.

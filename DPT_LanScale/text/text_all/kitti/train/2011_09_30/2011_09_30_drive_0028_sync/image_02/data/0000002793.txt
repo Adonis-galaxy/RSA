@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a row of houses forming a serene backdrop.
 The image shows a street lined with parked cars, a sidewalk, and a row of trees, with a large house on the left side.
 A tree-lined street with parked cars in front of a row of houses.
+An image with six cars, a tree, a sky, a house, a pavement, a road, and a grass.
+An image with six cars, a grass, a house, a pavement, a sky, a tree, and a road.
+An image with six cars, a pavement, a road, a grass, a house, a tree, and a sky.
+An image with six cars, a sky, a road, a grass, a house, a pavement, and a tree.
+An image with a road, a house, a grass, six cars, a sky, a tree, and a pavement.

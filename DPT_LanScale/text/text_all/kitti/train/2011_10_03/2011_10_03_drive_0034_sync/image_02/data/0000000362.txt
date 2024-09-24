@@ -8,3 +8,8 @@ The image shows a street with parked cars and a wall.
 The image captures a quiet residential street, with a row of parked cars and a lush green hillside, under a clear blue sky.
 A black van is parked on the side of a narrow street lined with trees and a stone wall.
 A row of parked cars on a tree-lined street, with a building on the left and a wall on the right.
+An image with a house, a pavement, three cars, a wall, a tree, a sky, a grass, and a road.
+An image with a tree, a house, three cars, a grass, a road, a wall, a pavement, and a sky.
+An image with three cars, a grass, a wall, a house, a road, a pavement, a sky, and a tree.
+An image with a road, three cars, a house, a grass, a wall, a sky, a tree, and a pavement.
+An image with a wall, a pavement, three cars, a grass, a sky, a road, a house, and a tree.

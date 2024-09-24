@@ -8,3 +8,8 @@ The image shows an empty classroom with a wooden table and chairs.
 The image shows an empty classroom with a large whiteboard, a projector hanging from the ceiling, a wooden table with chairs, and a clock on the wall.
 The image shows an empty classroom with a large whiteboard, a projector hanging from the ceiling, a wooden table, and several chairs.
 The image shows an empty classroom with a whiteboard, a projector hanging from the ceiling, a wooden table, and several chairs, all arranged in a typical educational setting.
+An image with six chairs, a wall, a table, a clock, a dining, and a ceiling.
+An image with a ceiling, six chairs, a wall, a table, a dining, and a clock.
+An image with a ceiling, a table, a dining, six chairs, a wall, and a clock.
+An image with six chairs, a ceiling, a clock, a dining, a wall, and a table.
+An image with a clock, six chairs, a table, a ceiling, a wall, and a dining.

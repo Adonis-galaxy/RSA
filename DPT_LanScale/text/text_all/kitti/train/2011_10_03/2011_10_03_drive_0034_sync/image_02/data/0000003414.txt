@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a quiet, tree-lined street with a brick wall and a street sign, under a clear blue sky.
 The image shows a narrow street with a brick wall on the right side, a signpost on the left, and trees lining the road.
 A quiet residential street with a brick wall, trees, and a blue street sign.
+An image with a sky, a pavement, a tree, a wall, and a road.
+An image with a sky, a tree, a road, a pavement, and a wall.
+An image with a sky, a wall, a tree, a pavement, and a road.
+An image with a wall, a sky, a pavement, a tree, and a road.
+An image with a pavement, a wall, a sky, a tree, and a road.

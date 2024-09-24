@@ -8,3 +8,8 @@ The image shows an empty conference room with a wooden table and several chairs.
 The image shows an empty conference room with a large table and several chairs, all facing a blank whiteboard on the wall, which is currently not in use.
 The image shows an empty conference room with a large table and several chairs, a whiteboard on the wall, and a camera mounted on the ceiling.
 The image shows an empty conference room with a large table and several chairs, a whiteboard on the wall, and a camera mounted on the ceiling.
+An image with eight chairs, a door, a dining, a light, a ceiling, and a wall.
+An image with a wall, a light, a ceiling, eight chairs, a dining, and a door.
+An image with a light, eight chairs, a ceiling, a door, a dining, and a wall.
+An image with a dining, eight chairs, a ceiling, a wall, a light, and a door.
+An image with eight chairs, a light, a ceiling, a dining, a wall, and a door.

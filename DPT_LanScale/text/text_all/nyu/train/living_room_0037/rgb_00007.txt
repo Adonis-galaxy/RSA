@@ -8,3 +8,8 @@ A cat tree is next to a black leather couch.
 A cat tree stands next to a black leather couch, creating a cozy and playful environment for a pet.
 A cat tree is standing next to a black leather couch in a room.
 A cat tree is positioned next to a black leather couch, both sitting on a tiled floor in a room with a white door and a pink wall.
+An image with a couch, a rug, a floor, a wall, and a door.
+An image with a couch, a floor, a wall, a rug, and a door.
+An image with a door, a floor, a wall, a couch, and a rug.
+An image with a floor, a door, a rug, a wall, and a couch.
+An image with a door, a floor, a couch, a wall, and a rug.

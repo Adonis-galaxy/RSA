@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a tree-lined street, with a brick wall and a staircase leading to a house in the background.
 A large white van is parked on a narrow street lined with trees and a stone wall.
 A narrow, tree-lined street leads to a white house with a black roof, surrounded by lush greenery.
+An image with a fence, a tree, a truck, a house, a road, a sky, a wall, and a pavement.
+An image with a tree, a road, a sky, a wall, a pavement, a truck, a house, and a fence.
+An image with a sky, a road, a house, a truck, a pavement, a wall, a tree, and a fence.
+An image with a road, a sky, a tree, a fence, a house, a wall, a truck, and a pavement.
+An image with a truck, a tree, a sky, a wall, a house, a fence, a road, and a pavement.

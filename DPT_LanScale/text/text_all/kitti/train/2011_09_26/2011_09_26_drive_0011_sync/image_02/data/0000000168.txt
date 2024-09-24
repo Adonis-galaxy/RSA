@@ -8,3 +8,8 @@ A city street scene with a bus crossing an intersection.
 A city bus is crossing a street at an intersection, with a pedestrian waiting to cross and a white van parked nearby.
 A large white bus is crossing a street at an intersection, with a woman standing on the sidewalk and a white van parked nearby.
 A city street scene with a white and red bus crossing an intersection, surrounded by trees and buildings, with traffic lights and a pedestrian crossing.
+An image with a tree, a truck, a car, three traffics, a person, a bus, a grass, a sky, and a road.
+An image with three traffics, a tree, a road, a grass, a person, a truck, a car, a sky, and a bus.
+An image with a truck, a grass, three traffics, a car, a road, a sky, a person, a bus, and a tree.
+An image with a car, three traffics, a bus, a grass, a truck, a sky, a road, a tree, and a person.
+An image with a tree, three traffics, a person, a car, a grass, a sky, a road, a truck, and a bus.

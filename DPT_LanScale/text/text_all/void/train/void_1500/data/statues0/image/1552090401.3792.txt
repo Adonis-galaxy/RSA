@@ -8,3 +8,8 @@ Two toy dinosaurs on a desk.
 Two toy dinosaurs on a desk, one is standing and the other is sitting.
 A small toy dinosaur and a small toy human are on a wooden desk.
 Two toy dinosaurs on a wooden desk, with one standing on a small pedestal.
+An image with a wall, a table, a cabinet, and a keyboard.
+An image with a wall, a table, a keyboard, and a cabinet.
+An image with a keyboard, a table, a cabinet, and a wall.
+An image with a cabinet, a wall, a table, and a keyboard.
+An image with a keyboard, a wall, a cabinet, and a table.

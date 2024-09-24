@@ -8,3 +8,8 @@ The image shows a street scene with cars and a bicycle.
 A busy street scene with a mix of vehicles and pedestrians, set against a backdrop of trees and buildings.
 A busy street with multiple cars, a bicycle, and a train, all moving in different directions, under a clear blue sky.
 A busy street scene with multiple lanes of traffic, a train track, and a bicyclist.
+An image with eight cars, a railroad, a bicycle, a house, a traffic, a tree, a road, a grass, and a person.
+An image with a railroad, a bicycle, a tree, a house, eight cars, a person, a traffic, a road, and a grass.
+An image with eight cars, a house, a grass, a person, a railroad, a traffic, a road, a bicycle, and a tree.
+An image with a road, a grass, a tree, eight cars, a traffic, a railroad, a house, a person, and a bicycle.
+An image with a house, a road, eight cars, a tree, a railroad, a person, a grass, a bicycle, and a traffic.

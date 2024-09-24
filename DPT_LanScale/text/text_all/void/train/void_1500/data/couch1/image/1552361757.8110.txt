@@ -8,3 +8,8 @@ A black leather couch with a volleyball on it.
 A black leather couch with a sports ball on it, a magazine on the armrest, and a jacket hanging on the wall.
 A black leather couch with a white volleyball on it, a wooden table with a magazine on it, and a black cord hanging on the wall.
 A black leather couch with a sports ball on it, a wooden table with a magazine on it, and a black cord hanging on the wall.
+An image with a couch, a wall, a sports, and a book.
+An image with a sports, a couch, a wall, and a book.
+An image with a wall, a book, a couch, and a sports.
+An image with a sports, a couch, a book, and a wall.
+An image with a book, a couch, a wall, and a sports.

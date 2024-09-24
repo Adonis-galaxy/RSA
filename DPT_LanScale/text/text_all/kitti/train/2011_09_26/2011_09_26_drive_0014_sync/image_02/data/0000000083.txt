@@ -8,3 +8,8 @@ The image shows a street with a car and a bus, and there are trees and buildings
 The image captures a quiet, tree-lined street with a clear sky overhead, a few cars parked along the side, and a pedestrian crossing sign indicating a safe passage for pedestrians.
 The image shows a wide, tree-lined street with a yellow sign on the right side, a blue sign on the left side, and a red bus in the distance.
 The image depicts a wide, tree-lined street with a clear view of a train track running parallel to the road, and a yellow sign indicating a pedestrian crossing.
+An image with a road, a pavement, two cars, a building, a fence, a railroad, a sky, a bus, a tree, and a wall.
+An image with a wall, a road, a fence, two cars, a sky, a building, a bus, a tree, a railroad, and a pavement.
+An image with a bus, a road, a building, a fence, a pavement, a wall, a tree, two cars, a railroad, and a sky.
+An image with a railroad, a bus, a sky, a wall, a building, two cars, a road, a tree, a fence, and a pavement.
+An image with two cars, a tree, a wall, a building, a sky, a fence, a bus, a road, a railroad, and a pavement.

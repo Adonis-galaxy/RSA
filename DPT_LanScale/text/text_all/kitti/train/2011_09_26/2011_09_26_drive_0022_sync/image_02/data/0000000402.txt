@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a typical day in a residential area, with parked cars lining the street and a mix of trees and buildings creating a serene suburban atmosphere.
 The image shows a narrow street lined with parked cars and buildings, with a mix of small and large vehicles.
 A narrow street lined with parked cars and buildings, with a mix of vehicles and trees, leading to a clear sky.
+An image with a house, ten cars, a truck, a pavement, a tree, a fence, a wall, a road, and a sky.
+An image with ten cars, a tree, a pavement, a wall, a road, a fence, a truck, a sky, and a house.
+An image with ten cars, a fence, a truck, a tree, a road, a house, a wall, a sky, and a pavement.
+An image with ten cars, a road, a sky, a house, a wall, a truck, a fence, a tree, and a pavement.
+An image with a truck, a tree, ten cars, a fence, a sky, a wall, a road, a house, and a pavement.

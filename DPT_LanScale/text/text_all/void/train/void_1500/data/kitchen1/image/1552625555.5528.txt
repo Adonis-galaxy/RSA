@@ -8,3 +8,8 @@ The image shows a kitchen counter with a blue and white box of tissues on it.
 The image shows a small, orange-colored room with a counter, a refrigerator, and a door.
 The image shows a small orange counter with a blue and white box on it, a gray cabinet underneath, and a silver handle on a door in the background.
 The image shows a small, narrow room with a counter, a refrigerator, and a door.
+An image with a wall, a window, a floor, a cup, a cabinet, and a refrigerator.
+An image with a cup, a floor, a refrigerator, a window, a wall, and a cabinet.
+An image with a cup, a floor, a cabinet, a wall, a window, and a refrigerator.
+An image with a cabinet, a refrigerator, a window, a cup, a wall, and a floor.
+An image with a cabinet, a wall, a window, a cup, a floor, and a refrigerator.

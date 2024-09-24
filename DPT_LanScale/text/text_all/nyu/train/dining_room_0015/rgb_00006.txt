@@ -8,3 +8,8 @@ A kitchen with a tile floor.
 The image shows an empty kitchen with a dining table and chairs, a refrigerator, a countertop with cabinets, and a window with curtains.
 The image shows a small, empty kitchen with a tiled floor, a black refrigerator, a white cabinet, and a counter with a few items on it.
 The image shows a kitchen with a tiled floor, a black refrigerator, a white cabinet, a countertop, and a window with curtains.
+An image with a wall, a cabinet, a floor, a chair, a curtain, a oven, and a counter.
+An image with a floor, a oven, a curtain, a counter, a wall, a chair, and a cabinet.
+An image with a counter, a cabinet, a wall, a floor, a chair, a oven, and a curtain.
+An image with a chair, a counter, a oven, a curtain, a floor, a wall, and a cabinet.
+An image with a counter, a chair, a wall, a cabinet, a oven, a curtain, and a floor.

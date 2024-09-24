@@ -8,3 +8,8 @@ A bicycle leaning against a wall.
 A bicycle parked against a wall in an indoor setting, with a door and a window nearby.
 A red bicycle is leaning against a wall in a hallway.
 A red bicycle is leaning against a gray wall in a hallway with yellow walls and wooden doors.
+An image with a bicycle, a door, a shelf, a paper, a wall, a floor, and a ceiling.
+An image with a door, a bicycle, a shelf, a wall, a paper, a ceiling, and a floor.
+An image with a bicycle, a door, a ceiling, a paper, a floor, a shelf, and a wall.
+An image with a floor, a bicycle, a door, a paper, a shelf, a ceiling, and a wall.
+An image with a shelf, a wall, a floor, a paper, a bicycle, a door, and a ceiling.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with a white van parked on the side.
 A quiet residential street, lined with trees and parked vehicles, under a clear blue sky.
 The image shows a tree-lined street with a white van parked on the left side, a blue trash can on the right side, and a large green hill in the background.
 A tree-lined street with a curved road, a parked van, and a white building on the left side, leading to a park with a grassy hill and a concrete structure on the right.
+An image with a grass, a pavement, a mountain, a tree, a bus, a wall, a sky, and a road.
+An image with a wall, a pavement, a road, a grass, a mountain, a sky, a bus, and a tree.
+An image with a mountain, a grass, a wall, a sky, a bus, a pavement, a tree, and a road.
+An image with a road, a pavement, a sky, a wall, a tree, a bus, a grass, and a mountain.
+An image with a road, a pavement, a bus, a wall, a tree, a mountain, a sky, and a grass.

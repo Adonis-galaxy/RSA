@@ -8,3 +8,8 @@ The image shows a road with cars and a train track.
 A busy highway with multiple lanes of traffic, surrounded by a lush green landscape and a clear blue sky.
 A busy highway with multiple lanes of traffic, surrounded by trees and houses, under a clear blue sky.
 A busy highway with multiple lanes, a mix of vehicles, and a clear sky.
+An image with six cars, a road, a railroad, a building, a tree, and a grass.
+An image with six cars, a tree, a road, a railroad, a building, and a grass.
+An image with a building, six cars, a railroad, a grass, a road, and a tree.
+An image with a tree, a grass, a road, a railroad, a building, and six cars.
+An image with six cars, a tree, a building, a grass, a road, and a railroad.

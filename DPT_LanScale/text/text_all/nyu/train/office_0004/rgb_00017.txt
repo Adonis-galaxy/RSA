@@ -8,3 +8,8 @@ The image shows an office room with a table, chairs, and a whiteboard.
 The image captures a room with a large wooden table surrounded by chairs, a whiteboard with notes, a counter with a green object, and a kitchen area with a refrigerator and cabinets.
 The image shows an indoor room with a large wooden table, several chairs, a whiteboard with writing, a green object on a shelf, and a ceiling with cameras and lights.
 The image shows an indoor setting with a large wooden table surrounded by chairs, a whiteboard with writing on it, a counter with a green object on top, and a kitchen area with a refrigerator and cabinets.
+An image with a floor, eight chairs, a wall, a microwave, a ceiling, a table, a cabinet, a sink, and a dining.
+An image with a sink, a cabinet, eight chairs, a ceiling, a microwave, a dining, a floor, a wall, and a table.
+An image with a wall, eight chairs, a floor, a cabinet, a microwave, a ceiling, a dining, a table, and a sink.
+An image with eight chairs, a cabinet, a dining, a wall, a sink, a floor, a microwave, a ceiling, and a table.
+An image with eight chairs, a wall, a floor, a microwave, a dining, a cabinet, a sink, a table, and a ceiling.

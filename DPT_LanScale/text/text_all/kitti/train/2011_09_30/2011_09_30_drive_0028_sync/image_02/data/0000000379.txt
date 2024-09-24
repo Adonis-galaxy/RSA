@@ -8,3 +8,8 @@ The image shows a narrow street in a residential area with parked cars and a tru
 The image captures a quiet residential street, with parked cars and a truck, leading to a row of houses, under a clear sky.
 The image shows a narrow street in a residential area with parked cars, a truck, and a sign indicating the speed limit.
 The image depicts a narrow street in a residential area, with parked cars, a truck, and a fence on the sidewalk, leading to apartment buildings.
+An image with five cars, a pavement, a truck, a house, a fence, a tree, a wall, and a road.
+An image with a pavement, a house, a wall, five cars, a road, a truck, a fence, and a tree.
+An image with five cars, a road, a pavement, a tree, a wall, a fence, a house, and a truck.
+An image with a pavement, a house, a truck, five cars, a fence, a tree, a wall, and a road.
+An image with five cars, a truck, a pavement, a fence, a tree, a house, a road, and a wall.

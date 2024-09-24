@@ -8,3 +8,8 @@ A black car driving on a road.
 A car on a road, with a train track and a street light in the background, under a clear blue sky.
 A car is driving down a road next to a train track, with trees and buildings in the background.
 A car is driving on a road that runs parallel to a train track, with a clear sky overhead and trees lining the sides.
+An image with a tree, six cars, a grass, a railroad, a fence, a road, and a building.
+An image with six cars, a grass, a building, a road, a fence, a railroad, and a tree.
+An image with six cars, a building, a grass, a road, a railroad, a tree, and a fence.
+An image with a building, six cars, a fence, a road, a tree, a grass, and a railroad.
+An image with six cars, a railroad, a tree, a building, a grass, a road, and a fence.

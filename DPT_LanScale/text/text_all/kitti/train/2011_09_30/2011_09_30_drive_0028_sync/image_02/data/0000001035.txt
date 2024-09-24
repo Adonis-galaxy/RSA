@@ -8,3 +8,8 @@ The image shows a street scene with two people riding bicycles and cars parked o
 A bicyclist and a pedestrian share a shaded street with parked cars, while a white car drives on the opposite side.
 A person riding a bicycle on a tree-lined street with cars parked on the side.
 A tree-lined street with bicyclists and cars, with a pedestrian walkway on the right side.
+An image with two bicycles, three cars, two people, a pavement, a tree, a wall, a road, and a backpack.
+An image with a backpack, two people, three cars, two bicycles, a tree, a wall, a pavement, and a road.
+An image with two bicycles, three cars, a road, a pavement, a tree, two people, a backpack, and a wall.
+An image with a backpack, two bicycles, a pavement, a road, a tree, two people, a wall, and three cars.
+An image with two people, three cars, two bicycles, a wall, a road, a tree, a pavement, and a backpack.

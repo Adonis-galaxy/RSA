@@ -8,3 +8,8 @@ The image shows a street lined with parked cars.
 A row of parked cars on a tree-lined street, with a clear sky overhead.
 A long row of parked cars on a tree-lined street.
 A long, narrow street lined with parked cars and trees, leading to a residential area.
+An image with seven cars, a tree, a grass, a road, and a house.
+An image with seven cars, a grass, a road, a house, and a tree.
+An image with a tree, seven cars, a grass, a road, and a house.
+An image with a road, seven cars, a grass, a tree, and a house.
+An image with seven cars, a road, a house, a grass, and a tree.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a red van.
 The image captures a quiet residential street, with parked cars and a dog, under a clear sky.
 The image shows a narrow street lined with parked cars and houses, with a large red van parked on the right side of the street.
 A narrow street lined with parked cars and houses, leading to a red van parked on the sidewalk.
+An image with a dog, five cars, a house, a truck, a pavement, a tree, a fence, a grass, a road, and a sky.
+An image with a pavement, a road, five cars, a dog, a house, a tree, a sky, a truck, a fence, and a grass.
+An image with five cars, a tree, a house, a grass, a truck, a pavement, a road, a fence, a dog, and a sky.
+An image with five cars, a dog, a grass, a pavement, a truck, a sky, a house, a fence, a tree, and a road.
+An image with a fence, a road, a grass, five cars, a dog, a pavement, a house, a tree, a sky, and a truck.

@@ -8,3 +8,8 @@ A blurry image of a wooden desk with books and magazines on it.
 A desk with a few books on it.
 A blurry image of a wooden desk with a few books and magazines on it.
 A wooden desk with a few books and magazines on it.
+An image with three books, a cabinet, a floor, a wall, and a table.
+An image with a cabinet, a floor, three books, a wall, and a table.
+An image with a cabinet, three books, a table, a floor, and a wall.
+An image with a wall, three books, a floor, a table, and a cabinet.
+An image with a wall, a cabinet, three books, a floor, and a table.

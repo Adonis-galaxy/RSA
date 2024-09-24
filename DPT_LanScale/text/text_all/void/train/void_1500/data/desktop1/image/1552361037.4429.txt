@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and a box of cereal.
 A computer desk with a keyboard, monitor, and a box of cereal.
 A computer desk with a keyboard, monitor, and a box of cereal.
 A computer desk with a monitor, keyboard, and a box of cereal.
+An image with a remote, a floor, a chair, a tv, a cardboard, a cabinet, a table, a wall, and a keyboard.
+An image with a cardboard, a remote, a floor, a chair, a table, a wall, a keyboard, a tv, and a cabinet.
+An image with a tv, a table, a floor, a remote, a chair, a keyboard, a cardboard, a wall, and a cabinet.
+An image with a cardboard, a cabinet, a tv, a chair, a floor, a table, a wall, a remote, and a keyboard.
+An image with a cabinet, a remote, a wall, a chair, a cardboard, a floor, a tv, a keyboard, and a table.

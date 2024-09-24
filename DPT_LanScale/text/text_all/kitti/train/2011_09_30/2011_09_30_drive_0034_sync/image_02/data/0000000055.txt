@@ -8,3 +8,8 @@ The image shows a street with a house on the right side.
 A serene suburban street, bordered by lush greenery and a quaint white house, inviting a leisurely stroll.
 A narrow road leads to a white house with a green lawn and trees on either side.
 A narrow, tree-lined road leads to a white house with a red roof, situated on a hillside.
+An image with a tree, a house, a fence, a grass, a dirt, a road, and a sky.
+An image with a road, a grass, a fence, a dirt, a sky, a house, and a tree.
+An image with a grass, a road, a dirt, a fence, a tree, a sky, and a house.
+An image with a tree, a road, a grass, a dirt, a fence, a house, and a sky.
+An image with a sky, a fence, a road, a dirt, a grass, a tree, and a house.

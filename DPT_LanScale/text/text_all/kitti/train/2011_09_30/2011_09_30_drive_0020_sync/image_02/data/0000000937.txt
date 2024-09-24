@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 A quiet suburban street, lined with trees and parked vehicles, leads to a residential area with a clear sky overhead.
 The image shows a tree-lined street with a few parked cars, a truck, and a large white sign on the sidewalk. The street is bordered by grass and trees, and there are buildings in the background.
 The image depicts a tree-lined street with a curved road, a sidewalk, and a dirt area on the right side, leading to a white building with a red roof.
+An image with five trucks, a dirt, a tree, a house, a car, a sky, a road, and a grass.
+An image with a road, a car, a house, five trucks, a tree, a sky, a dirt, and a grass.
+An image with five trucks, a car, a tree, a road, a house, a grass, a dirt, and a sky.
+An image with a tree, five trucks, a dirt, a sky, a road, a grass, a car, and a house.
+An image with a dirt, five trucks, a car, a grass, a house, a sky, a road, and a tree.

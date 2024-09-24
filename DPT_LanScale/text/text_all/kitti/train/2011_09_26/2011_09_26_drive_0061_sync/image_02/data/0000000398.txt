@@ -8,3 +8,8 @@ A car on a street.
 A solitary white car parked on a narrow, tree-lined street, with a brick wall and a wooden sign in the background.
 A small white car is parked on a narrow street between two brick walls, with a few trees and bushes lining the road.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with three cars, a tree, two walls, a door, a road, a sky, and a pavement.
+An image with a sky, three cars, a pavement, a road, two walls, a tree, and a door.
+An image with three cars, two walls, a door, a road, a tree, a sky, and a pavement.
+An image with a tree, a sky, a door, two walls, three cars, a pavement, and a road.
+An image with three cars, a tree, a pavement, a door, a sky, two walls, and a road.

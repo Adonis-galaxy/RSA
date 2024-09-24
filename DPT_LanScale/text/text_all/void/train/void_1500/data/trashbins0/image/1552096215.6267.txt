@@ -8,3 +8,8 @@ A brown chair and a blue trash can.
 A brown chair is next to a blue trash can in a room.
 A small brown chair is next to a large blue trash can in a room.
 A brown chair is placed against a white wall, next to a blue trash can.
+An image with a floor, a bottle, a chair, and a wall.
+An image with a wall, a bottle, a floor, and a chair.
+An image with a floor, a wall, a chair, and a bottle.
+An image with a floor, a wall, a chair, and a bottle.
+An image with a wall, a chair, a floor, and a bottle.

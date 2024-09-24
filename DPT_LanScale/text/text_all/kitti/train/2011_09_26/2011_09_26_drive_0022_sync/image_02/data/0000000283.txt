@@ -8,3 +8,8 @@ The image shows a street with a white garage on the left side.
 A quiet residential street, with parked cars and garages, under a clear sky.
 A long row of garages with white walls and gray doors, lined up along a tree-lined street, with a car parked in front of the first garage and a second car parked in front of the second garage.
 A quiet residential street with a row of garages, a parked car, and a lone pedestrian.
+An image with a building, a road, a pavement, two cars, a tree, and a sky.
+An image with a building, two cars, a sky, a road, a pavement, and a tree.
+An image with a building, a road, two cars, a pavement, a sky, and a tree.
+An image with a building, a tree, two cars, a road, a pavement, and a sky.
+An image with a pavement, two cars, a road, a building, a sky, and a tree.

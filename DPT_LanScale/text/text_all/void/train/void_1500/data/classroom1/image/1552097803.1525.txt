@@ -8,3 +8,8 @@ A blurry image of a chair under a table.
 A blurry image of a room with a table and a chair.
 The image shows a small room with a table and a chair, the chair is blue and is placed under the table.
 The image shows a room with a table, a chair, and a staircase.
+An image with a refrigerator, two walls, a dining, a stairs, and a floor.
+An image with a dining, a floor, two walls, a refrigerator, and a stairs.
+An image with a refrigerator, two walls, a floor, a stairs, and a dining.
+An image with a stairs, a floor, two walls, a dining, and a refrigerator.
+An image with two walls, a dining, a floor, a refrigerator, and a stairs.

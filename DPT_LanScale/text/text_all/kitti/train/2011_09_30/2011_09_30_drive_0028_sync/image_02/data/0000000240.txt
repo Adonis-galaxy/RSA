@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white van.
 The image captures a bustling city street scene, with parked cars, a white van, and a tall building, all under a clear sky.
 A narrow street with parked cars, a white van, and a person, with a large building and trees in the background.
 A narrow street in a European city, with parked cars and a white van, under a sunny sky.
+An image with a house, eight cars, a sky, a road, a tree, a stop, a truck, and a person.
+An image with a house, a road, a stop, a truck, eight cars, a sky, a tree, and a person.
+An image with eight cars, a house, a road, a stop, a sky, a truck, a tree, and a person.
+An image with a person, eight cars, a tree, a stop, a road, a truck, a sky, and a house.
+An image with eight cars, a person, a stop, a tree, a house, a road, a truck, and a sky.

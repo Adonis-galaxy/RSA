@@ -8,3 +8,8 @@ A silver car parked on a narrow street.
 A silver Volkswagen car parked on a narrow street between stone walls and lush greenery.
 A silver car is parked on a narrow street between two stone walls, with a green hedge on the right side.
 A silver Volkswagen car parked on a narrow street between stone walls and lush greenery.
+An image with a tree, two walls, a car, and a pavement.
+An image with two walls, a tree, a pavement, and a car.
+An image with a car, two walls, a tree, and a pavement.
+An image with two walls, a car, a pavement, and a tree.
+An image with a car, a tree, two walls, and a pavement.

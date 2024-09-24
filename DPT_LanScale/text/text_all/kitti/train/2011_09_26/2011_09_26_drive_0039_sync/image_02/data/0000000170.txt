@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street lined with parked cars, flanked by buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars, with a yellow car in the foreground and a silver car in the background.
 A narrow street lined with parked cars and buildings, under a clear blue sky.
+An image with ten cars, a road, a pavement, a tree, a sky, a stop, and a house.
+An image with ten cars, a house, a stop, a tree, a sky, a pavement, and a road.
+An image with ten cars, a stop, a road, a pavement, a house, a sky, and a tree.
+An image with ten cars, a road, a pavement, a stop, a tree, a house, and a sky.
+An image with a road, ten cars, a sky, a pavement, a house, a tree, and a stop.

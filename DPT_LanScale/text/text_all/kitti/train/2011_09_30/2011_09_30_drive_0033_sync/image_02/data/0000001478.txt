@@ -8,3 +8,8 @@ The image shows a winding road through a forested area.
 A serene, tree-lined road curves gently through a park, with a car approaching from the distance, and a street lamp casting a gentle shadow on the pavement.
 A winding road with a few cars, surrounded by lush greenery and trees, leading to a white fence and a gate.
 A winding road with a curved sidewalk, bordered by lush greenery and a white fence, leads to a parked car at the end of the street.
+An image with a grass, a tree, a car, a stop, a fence, a sky, a pavement, and a road.
+An image with a sky, a tree, a road, a car, a pavement, a stop, a grass, and a fence.
+An image with a fence, a grass, a sky, a pavement, a tree, a car, a road, and a stop.
+An image with a stop, a tree, a road, a sky, a pavement, a car, a fence, and a grass.
+An image with a road, a car, a fence, a tree, a pavement, a grass, a stop, and a sky.

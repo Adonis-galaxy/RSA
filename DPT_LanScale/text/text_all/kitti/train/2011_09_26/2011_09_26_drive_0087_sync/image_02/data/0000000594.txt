@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A narrow, shaded street between buildings, with a yellow car parked at the end.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a white building with balconies.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a white building with balconies and a brick wall.
+An image with a grass, a car, a road, a wall, a sky, a tree, a fence, and a house.
+An image with a house, a road, a fence, a tree, a car, a grass, a sky, and a wall.
+An image with a house, a road, a fence, a car, a sky, a wall, a grass, and a tree.
+An image with a fence, a sky, a wall, a house, a road, a tree, a grass, and a car.
+An image with a road, a house, a sky, a wall, a fence, a car, a tree, and a grass.

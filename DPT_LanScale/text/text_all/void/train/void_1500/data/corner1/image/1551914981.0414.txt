@@ -8,3 +8,8 @@ The image is blurry and shows a room with various objects, including a black obj
 The image is blurry, but it appears to be a cluttered office space with various items on a desk.
 The image is blurry and shows a cluttered room with various items, including a large black object, a desk with a white sign, and a shelf with a blue box.
 The image shows a blurry office space with various items on a desk, including a computer monitor, a printer, and some papers.
+An image with a paper, a table, two microwaves, a floor, and a wall.
+An image with two microwaves, a wall, a paper, a floor, and a table.
+An image with a paper, two microwaves, a floor, a table, and a wall.
+An image with a floor, a table, two microwaves, a paper, and a wall.
+An image with a paper, a table, a floor, a wall, and two microwaves.

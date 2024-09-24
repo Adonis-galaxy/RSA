@@ -8,3 +8,8 @@ A gun is on a desk.
 A gun is resting on a desk, next to a printer.
 A black gun is placed on a beige countertop.
 A black gun is resting on a beige countertop, with a blue device and a white paper behind it.
+An image with a paper, a wall, and a cabinet.
+An image with a cabinet, a wall, and a paper.
+An image with a wall, a paper, and a cabinet.
+An image with a paper, a cabinet, and a wall.
+An image with a cabinet, a wall, and a paper.

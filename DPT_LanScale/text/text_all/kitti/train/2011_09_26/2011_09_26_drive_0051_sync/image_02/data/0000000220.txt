@@ -8,3 +8,8 @@ The image shows a street scene with cars, trucks, and a billboard.
 The image captures a quiet, tree-lined street with parked cars and a few moving vehicles, leading towards a clear sky.
 The image shows a wide, tree-lined street with a few cars and trucks, a clear sky, and a billboard in the background.
 A tree-lined street with parked cars, a van, and a truck, leading to a building with a billboard.
+An image with a road, fifteen cars, a sky, three trucks, a tree, a grass, and a building.
+An image with a sky, fifteen cars, a grass, a tree, a road, three trucks, and a building.
+An image with fifteen cars, three trucks, a grass, a road, a tree, a building, and a sky.
+An image with three trucks, a tree, fifteen cars, a grass, a sky, a building, and a road.
+An image with fifteen cars, a grass, three trucks, a tree, a building, a road, and a sky.

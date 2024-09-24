@@ -8,3 +8,8 @@ A bicycle leaning against a wall in an office.
 A bicycle parked inside an office, leaning against a wall, with a doorway leading to a room with a person seated at a desk.
 A bicycle is parked inside an office building, leaning against a wall.
 A bicycle is parked inside an office building, leaning against a wall next to a doorway.
+An image with a person, a door, a paper, a floor, a bicycle, a wall, a chair, and a ceiling.
+An image with a floor, a bicycle, a chair, a door, a wall, a paper, a ceiling, and a person.
+An image with a floor, a bicycle, a paper, a ceiling, a wall, a door, a person, and a chair.
+An image with a floor, a ceiling, a bicycle, a door, a paper, a wall, a person, and a chair.
+An image with a paper, a ceiling, a door, a floor, a bicycle, a chair, a wall, and a person.

@@ -8,3 +8,8 @@ The image shows a parking lot with two cars parked in front of a building.
 The image captures a scene of a parking lot with two cars parked in front of a building with garage doors, surrounded by a lush green forest.
 The image shows a parking lot with two cars parked in front of a white building with garage doors, and a large tree in the background.
 The image shows a parking lot with two cars parked in front of a building with garage doors, surrounded by trees.
+An image with a grass, three cars, a road, a tree, and a building.
+An image with a road, three cars, a grass, a tree, and a building.
+An image with a grass, three cars, a tree, a road, and a building.
+An image with three cars, a road, a building, a grass, and a tree.
+An image with three cars, a building, a road, a grass, and a tree.

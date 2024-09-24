@@ -8,3 +8,8 @@ A black computer chair with silver legs.
 A black computer chair is positioned next to a white desk with a black keyboard on it.
 A black computer chair with silver legs and a black keyboard on a white desk.
 A black computer chair with silver legs is positioned next to a white desk with a black keyboard.
+An image with a rug, a keyboard, a chair, a table, a wall, and a mouse.
+An image with a wall, a table, a mouse, a keyboard, a rug, and a chair.
+An image with a chair, a wall, a table, a keyboard, a rug, and a mouse.
+An image with a mouse, a chair, a keyboard, a rug, a wall, and a table.
+An image with a mouse, a rug, a keyboard, a wall, a table, and a chair.

@@ -8,3 +8,8 @@ The image shows a whiteboard with writing on it, a brown cardboard box, and a bl
 The image shows a whiteboard with writing on it, a brown cardboard box, and a blue plastic container in a room with a carpeted floor.
 The image shows a whiteboard with writing on it, a brown cardboard box, and a blue plastic container in a room with a carpeted floor.
 The image shows a whiteboard with writing on it, a wooden cabinet, a cardboard box, and a blue object in the background.
+An image with a cabinet, a rug, a cardboard, and a wall.
+An image with a cabinet, a cardboard, a wall, and a rug.
+An image with a cabinet, a wall, a rug, and a cardboard.
+An image with a cabinet, a cardboard, a wall, and a rug.
+An image with a rug, a cardboard, a wall, and a cabinet.

@@ -8,3 +8,8 @@ A person walking on a sidewalk.
 A quiet, tree-lined street with a clear path for pedestrians and cyclists, leading to a building with a red sign.
 A person is walking down a tree-lined street, which is lined with parked cars and a red and white sign.
 A quiet, tree-lined street with a clear pathway, a stop sign, and a pedestrian walking in the shade.
+An image with a tree, a grass, four cars, a sky, a pavement, a road, a building, a bicycle, and a person.
+An image with four cars, a person, a building, a road, a grass, a sky, a pavement, a tree, and a bicycle.
+An image with a sky, a grass, four cars, a person, a bicycle, a road, a pavement, a tree, and a building.
+An image with four cars, a pavement, a bicycle, a building, a road, a tree, a grass, a sky, and a person.
+An image with four cars, a pavement, a road, a person, a bicycle, a grass, a sky, a tree, and a building.

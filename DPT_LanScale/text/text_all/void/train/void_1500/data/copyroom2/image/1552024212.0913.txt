@@ -8,3 +8,8 @@ The image shows a green wall with a white cabinet and a cardboard box.
 The image shows a green wall with a white cabinet and a cardboard box in the foreground.
 The image shows a green wall with a white cabinet and a cardboard box in the foreground.
 The image shows a room with a green wall, a white cabinet, and a cardboard box on the floor.
+An image with a couch, a light, a wall, a cabinet, a floor, and a ceiling.
+An image with a light, a wall, a cabinet, a floor, a ceiling, and a couch.
+An image with a wall, a ceiling, a cabinet, a floor, a light, and a couch.
+An image with a light, a wall, a cabinet, a ceiling, a floor, and a couch.
+An image with a ceiling, a couch, a floor, a light, a cabinet, and a wall.

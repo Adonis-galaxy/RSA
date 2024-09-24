@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a staircase leading to a doorway on the right, and a mailbox on the left.
 The image shows a narrow alleyway between two buildings, with a staircase leading up to a white house. The alley is shaded by trees and bushes, and there is a mailbox on the left side.
 A narrow, shaded alleyway between two buildings, with a staircase leading to a higher level.
+An image with a road, a tree, a car, a house, a fence, a train, and a sky.
+An image with a road, a car, a fence, a sky, a tree, a house, and a train.
+An image with a tree, a sky, a fence, a road, a car, a house, and a train.
+An image with a tree, a car, a house, a train, a fence, a road, and a sky.
+An image with a tree, a road, a fence, a sky, a car, a train, and a house.

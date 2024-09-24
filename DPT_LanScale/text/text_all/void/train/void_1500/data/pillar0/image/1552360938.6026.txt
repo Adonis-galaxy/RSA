@@ -8,3 +8,8 @@ A blue trash can next to a black bag.
 A blue trash can is placed next to a black bag on the floor.
 A blue trash can is next to a black bag on the floor.
 A blue trash can is placed next to a black bag with a red stripe, both are leaning against a white wall.
+An image with a refrigerator, a suitcase, a wall, a curtain, a cabinet, and a rug.
+An image with a wall, a suitcase, a curtain, a rug, a refrigerator, and a cabinet.
+An image with a suitcase, a refrigerator, a curtain, a wall, a cabinet, and a rug.
+An image with a cabinet, a curtain, a refrigerator, a suitcase, a wall, and a rug.
+An image with a refrigerator, a cabinet, a wall, a suitcase, a curtain, and a rug.

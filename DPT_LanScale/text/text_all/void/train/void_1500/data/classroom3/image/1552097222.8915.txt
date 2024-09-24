@@ -8,3 +8,8 @@ The image shows a room with two black chairs, a white desk, and a keyboard.
 The image shows an office space with two black chairs, a white desk, and a keyboard.
 The image shows a small office space with two black chairs, a white desk, and a keyboard.
 The image shows a small office space with two black chairs, a white desk, and a keyboard on the desk.
+An image with a rug, two keyboards, a wall, two chairs, and a table.
+An image with two keyboards, a wall, two chairs, a table, and a rug.
+An image with two keyboards, two chairs, a rug, a wall, and a table.
+An image with two chairs, a rug, two keyboards, a wall, and a table.
+An image with two chairs, a table, a wall, a rug, and two keyboards.

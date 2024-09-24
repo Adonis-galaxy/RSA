@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a tranquil residential street scene, with a black van parked in front of a line of parked cars, under the shade of tall trees, and adjacent to a stone wall.
 A black van is parked on the side of a narrow street, with a few cars parked behind it, and a white building is visible in the background.
 A narrow street lined with parked cars and a stone wall, leading to a residential area with trees and houses.
+An image with a house, a pavement, three cars, a road, a wall, a tree, and a sky.
+An image with three cars, a tree, a wall, a road, a sky, a pavement, and a house.
+An image with a tree, a sky, three cars, a wall, a house, a pavement, and a road.
+An image with three cars, a sky, a pavement, a house, a road, a tree, and a wall.
+An image with a pavement, three cars, a sky, a wall, a tree, a road, and a house.

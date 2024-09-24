@@ -8,3 +8,8 @@ The image shows a street with a car parked in front of a house.
 The image captures a quiet residential street, with a blue car parked in front of a white house, and a tree-lined road leading to a garage.
 The image shows a narrow street with a few parked cars, a white wall, and a building with a balcony.
 A narrow street with parked cars, a white wall, and a building with a balcony.
+An image with two cars, a road, a tree, a pavement, a wall, a fence, and a sky.
+An image with a sky, a tree, two cars, a fence, a road, a wall, and a pavement.
+An image with a fence, two cars, a sky, a road, a tree, a pavement, and a wall.
+An image with a road, two cars, a tree, a sky, a pavement, a wall, and a fence.
+An image with a wall, a sky, two cars, a tree, a fence, a road, and a pavement.

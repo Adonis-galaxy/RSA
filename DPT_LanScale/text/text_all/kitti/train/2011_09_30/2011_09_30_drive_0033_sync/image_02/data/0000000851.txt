@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street, with a parked car, a few benches, and a staircase leading to a white building.
 A car is parked on a street, surrounded by trees and a white wall.
 A quiet residential street with a few parked cars, benches, and a curved pathway leading to a white building with a metal railing.
+An image with a fence, five cars, a grass, a tree, a road, a fire, a bench, a pavement, a wall, and a sky.
+An image with a grass, five cars, a fence, a pavement, a sky, a bench, a road, a wall, a fire, and a tree.
+An image with a tree, a grass, a sky, a wall, a bench, five cars, a road, a fire, a fence, and a pavement.
+An image with five cars, a fence, a bench, a sky, a tree, a road, a fire, a pavement, a grass, and a wall.
+An image with five cars, a pavement, a sky, a bench, a tree, a grass, a fire, a fence, a road, and a wall.

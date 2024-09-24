@@ -8,3 +8,8 @@ A white truck driving down a tree-lined street.
 A white truck driving down a tree-lined street, with a clear sky overhead and a sunny day.
 A large truck is driving down a narrow, tree-lined street.
 A white truck is driving down a tree-lined street, with parked cars on the side and a sidewalk in front of it.
+An image with nine cars, a truck, a sky, a tree, a road, a grass, a pavement, a stop, and a wall.
+An image with a road, a truck, nine cars, a sky, a grass, a wall, a pavement, a stop, and a tree.
+An image with nine cars, a truck, a grass, a sky, a tree, a wall, a road, a pavement, and a stop.
+An image with nine cars, a pavement, a tree, a sky, a truck, a wall, a stop, a grass, and a road.
+An image with nine cars, a sky, a truck, a road, a stop, a pavement, a grass, a tree, and a wall.

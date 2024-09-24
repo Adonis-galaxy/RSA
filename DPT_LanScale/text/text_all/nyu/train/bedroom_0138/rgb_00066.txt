@@ -8,3 +8,8 @@ A man in a dark shirt is standing in a bedroom.
 A person in a dark room, standing next to a bed with a wooden headboard, holding a book.
 A person in a dark room, wearing a black shirt, is standing next to a bed with a green blanket and a wooden headboard.
 A person in a dark room, wearing a black shirt, is standing next to a bed with a green blanket, holding a book, and looking into a wooden wardrobe with a white door.
+An image with two chairs, a shelf, a wall, a bed, a door, a person, a floor, and a remote.
+An image with a wall, a remote, two chairs, a bed, a floor, a shelf, a door, and a person.
+An image with a floor, two chairs, a shelf, a wall, a door, a person, a bed, and a remote.
+An image with a remote, a shelf, a person, two chairs, a wall, a bed, a door, and a floor.
+An image with two chairs, a door, a shelf, a wall, a remote, a bed, a floor, and a person.

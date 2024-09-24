@@ -8,3 +8,8 @@ The image shows a street sign on a road.
 The image captures a quiet, tree-lined street with a yield sign indicating caution at an intersection.
 The image shows a narrow road with a large triangular sign on the right side, indicating a sharp turn ahead.
 The image depicts a narrow, tree-lined road with a yield sign on the right side, leading to a residential area with houses and cars.
+An image with a road, a sky, a grass, a tree, a fence, and a car.
+An image with a sky, a fence, a grass, a tree, a road, and a car.
+An image with a road, a tree, a grass, a fence, a car, and a sky.
+An image with a tree, a sky, a fence, a road, a car, and a grass.
+An image with a grass, a sky, a road, a fence, a car, and a tree.

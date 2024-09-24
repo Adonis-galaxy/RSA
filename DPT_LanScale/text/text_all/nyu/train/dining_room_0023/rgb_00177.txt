@@ -8,3 +8,8 @@ A white table with four chairs around it.
 The image shows a table with a white surface, flanked by two chairs, set against a wall with a window and a picture frame.
 The image shows a large white table with four chairs around it, set against a wall with a window and a picture frame.
 The image shows a room with a long white table and four chairs, with a darker room in the background.
+An image with five chairs, a wall, two dinings, and a window.
+An image with five chairs, a window, a wall, and two dinings.
+An image with five chairs, two dinings, a window, and a wall.
+An image with a window, five chairs, two dinings, and a wall.
+An image with five chairs, two dinings, a window, and a wall.

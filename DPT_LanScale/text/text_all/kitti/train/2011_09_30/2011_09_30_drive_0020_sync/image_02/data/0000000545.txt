@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, lined with houses and trees, under a clear blue sky.
 The image shows a residential street with houses, trees, and a car, all captured in a wide-angle shot.
 A quiet residential street with a mix of houses and apartments, lined with trees and parked cars, leading to a blue sky.
+An image with a truck, a house, a road, six cars, a wall, a tree, a stop, a grass, and a sky.
+An image with a stop, a house, six cars, a truck, a road, a grass, a wall, a tree, and a sky.
+An image with six cars, a truck, a grass, a road, a house, a stop, a tree, a wall, and a sky.
+An image with six cars, a house, a road, a stop, a wall, a truck, a tree, a grass, and a sky.
+An image with a tree, six cars, a sky, a house, a grass, a wall, a stop, a road, and a truck.

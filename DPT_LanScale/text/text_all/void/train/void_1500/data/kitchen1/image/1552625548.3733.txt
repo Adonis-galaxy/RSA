@@ -8,3 +8,8 @@ A blurry image of a bathroom sink.
 The image shows a small, orange-colored sink with a silver faucet, a white towel, and a yellow box of tissues on a counter.
 The image shows a small, orange-colored sink with a silver faucet, a white towel, and a yellow box on a counter.
 The image shows a small, orange-colored sink with a silver faucet, set against a wall with a white light switch and a yellow box.
+An image with a sink, a wall, a counter, and a paper.
+An image with a wall, a paper, a counter, and a sink.
+An image with a wall, a counter, a sink, and a paper.
+An image with a counter, a paper, a wall, and a sink.
+An image with a sink, a paper, a counter, and a wall.

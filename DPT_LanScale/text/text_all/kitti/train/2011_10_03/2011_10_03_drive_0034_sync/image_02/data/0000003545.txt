@@ -8,3 +8,8 @@ A red van parked on a narrow street.
 A red van parked on a narrow, tree-lined street, with a clear sky overhead.
 A red van is parked on a narrow street between two brick walls, with trees and a building in the background.
 A narrow, tree-lined street with a red van parked on the side.
+An image with a sky, a car, a road, a pavement, a tree, and a wall.
+An image with a car, a sky, a road, a tree, a wall, and a pavement.
+An image with a pavement, a tree, a wall, a road, a sky, and a car.
+An image with a sky, a car, a wall, a pavement, a tree, and a road.
+An image with a pavement, a tree, a road, a car, a wall, and a sky.

@@ -8,3 +8,8 @@ A brown turtle is walking on a sidewalk.
 A small animal is eating food on the ground near a tree and a sidewalk.
 A small brown animal is eating something on the ground near a palm tree and a concrete walkway.
 A small animal is walking on a sidewalk next to a palm tree and a garden area.
+An image with a wall, a tree, a floor, and a dirt.
+An image with a tree, a floor, a dirt, and a wall.
+An image with a wall, a dirt, a tree, and a floor.
+An image with a wall, a tree, a dirt, and a floor.
+An image with a floor, a dirt, a tree, and a wall.

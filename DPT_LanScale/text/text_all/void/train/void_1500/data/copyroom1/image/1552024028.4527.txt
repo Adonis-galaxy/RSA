@@ -8,3 +8,8 @@ A blurry image of a printer.
 The image shows a printer with a blue top and a white base, sitting in a corner of a room.
 A large blue and white printer is sitting in a corner of a room.
 The image shows a printer with a blue top and a white base, placed in a corner of a room with a yellow wall.
+An image with a door, a wall, a floor, and a cabinet.
+An image with a floor, a cabinet, a wall, and a door.
+An image with a door, a wall, a cabinet, and a floor.
+An image with a door, a cabinet, a floor, and a wall.
+An image with a door, a floor, a cabinet, and a wall.

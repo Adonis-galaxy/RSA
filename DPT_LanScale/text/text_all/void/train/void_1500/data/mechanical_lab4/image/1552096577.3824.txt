@@ -8,3 +8,8 @@ A yellow pipe with a light fixture attached to it.
 The image shows a yellow pipe with a yellow light attached to it, hanging above a sink in a bathroom.
 The image shows a yellow pipe with a yellow light attached to it, hanging above a sink with a green hose attached to it, and a sign with a picture of a person and a red circle on it.
 The image shows a yellow pipe with a yellow light attached to it, hanging above a sink with a green hose attached to it, and a sign with a picture of a person and a yellow triangle with a black arrow pointing upwards.
+An image with a paper, a sink, a light, a cabinet, and a wall.
+An image with a sink, a wall, a light, a cabinet, and a paper.
+An image with a light, a cabinet, a sink, a paper, and a wall.
+An image with a light, a cabinet, a wall, a paper, and a sink.
+An image with a paper, a sink, a wall, a cabinet, and a light.

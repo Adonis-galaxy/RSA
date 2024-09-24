@@ -8,3 +8,8 @@ The image shows a carpeted floor with a desk and chair in the foreground.
 The image shows a corner of a room with a desk and a chair, and the floor is carpeted.
 The image shows a small room with a desk and a chair, and the floor is carpeted.
 The image shows a room with a desk and chair, a white wall, and a carpeted floor.
+An image with a wall, a rug, and a laptop.
+An image with a laptop, a wall, and a rug.
+An image with a wall, a laptop, and a rug.
+An image with a laptop, a rug, and a wall.
+An image with a wall, a laptop, and a rug.

@@ -8,3 +8,8 @@ The image shows an indoor bookstore with a large bookshelf and a counter with a 
 The image captures a well-lit, spacious bookstore with a large bookshelf, a central counter with a cash register, and a cart of books in the foreground.
 The image shows a large room with a high ceiling, featuring a bookstore with a long counter and several bookshelves filled with books. There are also several carts and a large blue bin in the room.
 The image depicts a spacious bookstore with a well-organized layout, featuring a central aisle flanked by bookshelves and a counter with a cash register.
+An image with sixteen books, a light, a tv, a cabinet, a wall, a shelf, a counter, a floor, and a ceiling.
+An image with a light, a cabinet, sixteen books, a floor, a counter, a wall, a ceiling, a tv, and a shelf.
+An image with sixteen books, a cabinet, a light, a ceiling, a counter, a wall, a tv, a shelf, and a floor.
+An image with a tv, a wall, sixteen books, a cabinet, a ceiling, a counter, a shelf, a light, and a floor.
+An image with sixteen books, a light, a shelf, a floor, a wall, a tv, a ceiling, a counter, and a cabinet.

@@ -8,3 +8,8 @@ A laptop computer on a desk.
 A cluttered workspace with a laptop, red chair, and various items on a desk.
 A small office space with a red chair, a laptop, a desk, a cup, a bottle, a book, and a bulletin board.
 A cluttered office space with a red chair, a laptop, a desk, and various items scattered around.
+An image with three books, a chair, eight bottles, a wall, a cup, a table, a cabinet, a mouse, and a laptop.
+An image with three books, eight bottles, a wall, a mouse, a laptop, a cup, a table, a chair, and a cabinet.
+An image with eight bottles, three books, a cup, a chair, a mouse, a laptop, a wall, a table, and a cabinet.
+An image with eight bottles, a wall, a cabinet, a chair, a table, a cup, a mouse, three books, and a laptop.
+An image with eight bottles, three books, a table, a laptop, a wall, a chair, a cup, a mouse, and a cabinet.

@@ -8,3 +8,8 @@ A black office chair.
 A black office chair with a telephone on a desk.
 A black office chair is positioned in front of a desk with a phone, a book, and a magazine on it.
 A black office chair is positioned in front of a desk with a telephone, a book, and a magazine on it.
+An image with two chairs, a cabinet, a laptop, a wall, two books, a window, a floor, and a dining.
+An image with a laptop, two chairs, a cabinet, a floor, a window, two books, a dining, and a wall.
+An image with two books, a dining, two chairs, a laptop, a cabinet, a floor, a window, and a wall.
+An image with two books, a wall, a laptop, two chairs, a window, a cabinet, a dining, and a floor.
+An image with a wall, a floor, a cabinet, two books, two chairs, a laptop, a window, and a dining.

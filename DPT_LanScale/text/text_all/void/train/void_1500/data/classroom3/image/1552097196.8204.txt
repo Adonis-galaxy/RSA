@@ -8,3 +8,8 @@ A computer desk with multiple computer monitors and keyboards.
 A computer desk with multiple monitors and keyboards.
 The image shows a table with four computer monitors, each with a keyboard and mouse, all connected to a central computer.
 The image shows a table with four computer monitors, each with a keyboard and mouse, arranged in a square formation.
+An image with four tvs, two mice, a wall, two keyboards, and a table.
+An image with two keyboards, a table, two mice, a wall, and four tvs.
+An image with two mice, a table, four tvs, two keyboards, and a wall.
+An image with two mice, four tvs, a table, two keyboards, and a wall.
+An image with four tvs, a wall, a table, two mice, and two keyboards.

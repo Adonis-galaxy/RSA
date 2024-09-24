@@ -8,3 +8,8 @@ A model of a building on display.
 The image shows a model of a cityscape, with a focus on a building and its surroundings, displayed behind a glass case.
 The image shows a model of a cityscape, including a large building and a smaller one, displayed behind a glass case.
 The image shows a model of a cityscape with buildings and a street, displayed behind a glass case.
+An image with a building, a tree, a person, and a floor.
+An image with a floor, a person, a building, and a tree.
+An image with a building, a person, a floor, and a tree.
+An image with a tree, a person, a floor, and a building.
+An image with a person, a floor, a tree, and a building.

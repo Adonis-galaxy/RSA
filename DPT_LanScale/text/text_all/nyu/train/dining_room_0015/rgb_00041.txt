@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a formal dining room with a table set for six, surrounded by chairs, a fireplace, and a window, creating an atmosphere of elegance and intimacy.
 The image shows a dining room with a large table surrounded by several chairs, a fireplace, and a window with curtains.
 The image shows a formal dining room with a round table surrounded by chairs, a fireplace, and a window with curtains.
+An image with ten chairs, a light, a window, a vase, a curtain, a rug, a floor, and a dining.
+An image with ten chairs, a curtain, a vase, a dining, a light, a window, a floor, and a rug.
+An image with ten chairs, a window, a floor, a dining, a rug, a curtain, a light, and a vase.
+An image with a window, ten chairs, a dining, a vase, a floor, a light, a rug, and a curtain.
+An image with a rug, ten chairs, a dining, a floor, a vase, a light, a window, and a curtain.

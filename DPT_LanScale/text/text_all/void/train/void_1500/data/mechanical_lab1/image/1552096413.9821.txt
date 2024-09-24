@@ -8,3 +8,8 @@ A black metal cage on a wooden cart.
 A black metal cage with a wooden top on a white tiled floor.
 A black metal cage with a wooden top on a white tiled floor.
 A black metal cage with a wooden top on a white tiled floor.
+An image with a floor, a tv, a wall, and a table.
+An image with a floor, a table, a wall, and a tv.
+An image with a table, a tv, a floor, and a wall.
+An image with a table, a floor, a tv, and a wall.
+An image with a tv, a wall, a floor, and a table.

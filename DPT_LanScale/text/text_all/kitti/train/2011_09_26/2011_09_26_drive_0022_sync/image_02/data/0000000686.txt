@@ -8,3 +8,8 @@ The image shows a street intersection with a brick road and a sidewalk.
 The image captures a tranquil suburban street scene, with a clear pathway leading to a residential area, marked by a red and white striped barrier and a solitary street lamp standing sentinel.
 The image shows a wide, tree-lined street with a sidewalk, a grassy median, and a brick pathway. There are two red and white striped poles on the sidewalk, and a large, round, concrete structure in the background. The street is mostly empty, with a few cars parked along the side.
 The image shows a wide, tree-lined street with a pedestrian walkway leading to a roundabout, flanked by traffic signs and a grassy median.
+An image with a traffic, a grass, a car, a pavement, a tree, and a road.
+An image with a grass, a road, a traffic, a tree, a pavement, and a car.
+An image with a grass, a road, a traffic, a tree, a car, and a pavement.
+An image with a pavement, a road, a grass, a tree, a traffic, and a car.
+An image with a road, a grass, a pavement, a tree, a car, and a traffic.

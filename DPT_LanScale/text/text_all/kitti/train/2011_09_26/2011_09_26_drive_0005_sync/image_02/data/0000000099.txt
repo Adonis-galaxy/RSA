@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street scene, with a focus on a pedestrian crossing the street, a cyclist waiting at a crosswalk, and a variety of vehicles and street furniture, all set against the backdrop of tall buildings and a clear sky.
 A bustling city street with tall buildings, a yellow umbrella, a newspaper stand, a bicycle, a truck, and a pedestrian.
 A bustling city street with a mix of pedestrians, vehicles, and urban elements.
+An image with a truck, nine cars, two potteds, four people, a building, a sky, a bicycle, a umbrella, a tree, a road, and a pavement.
+An image with four people, a tree, nine cars, two potteds, a sky, a umbrella, a truck, a building, a pavement, a road, and a bicycle.
+An image with two potteds, a tree, four people, nine cars, a road, a pavement, a bicycle, a sky, a building, a umbrella, and a truck.
+An image with two potteds, a bicycle, nine cars, a truck, a tree, a pavement, four people, a sky, a road, a umbrella, and a building.
+An image with nine cars, four people, two potteds, a building, a pavement, a truck, a bicycle, a road, a umbrella, a sky, and a tree.

@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a street and sidewalk in front of it, displayed in a glass case.
 The image shows a small model of a building, which is placed on a wooden shelf.
 The image shows a model of a building, possibly a school, with a playground in front, placed on a wooden stand.
+An image with a rug, a building, a truck, a floor, and a wall.
+An image with a truck, a rug, a wall, a building, and a floor.
+An image with a truck, a building, a floor, a rug, and a wall.
+An image with a truck, a building, a floor, a wall, and a rug.
+An image with a wall, a floor, a building, a rug, and a truck.

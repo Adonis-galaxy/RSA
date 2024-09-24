@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a clear sky.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a few pedestrians, and houses on both sides. The sky is clear and blue, indicating a sunny day.
 A quiet residential street with parked cars, a few pedestrians, and a clear sky.
+An image with a tree, a pavement, a stop, a house, a sky, seven cars, a road, and a roof.
+An image with a road, seven cars, a sky, a house, a tree, a pavement, a roof, and a stop.
+An image with a tree, seven cars, a house, a stop, a sky, a roof, a pavement, and a road.
+An image with seven cars, a house, a pavement, a tree, a road, a stop, a roof, and a sky.
+An image with a pavement, a house, seven cars, a road, a sky, a roof, a stop, and a tree.

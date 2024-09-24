@@ -8,3 +8,8 @@ A large projection screen is mounted on the wall above a conference table.
 The image captures a professional meeting room setup, featuring a large projection screen, a wooden table with chairs, and a whiteboard with writing, all arranged to facilitate presentations and discussions.
 The image shows a conference room with a large projection screen, a wooden table with red chairs, a whiteboard with writing, and a window with blinds.
 The image shows an office meeting room with a large projection screen, a wooden table with red chairs, a whiteboard, and a window with blinds.
+An image with a window, seven chairs, a tv, a dining, a light, a bottle, a ceiling, a wall, a cup, and a floor.
+An image with seven chairs, a window, a light, a ceiling, a floor, a cup, a wall, a dining, a bottle, and a tv.
+An image with seven chairs, a dining, a bottle, a floor, a window, a light, a cup, a tv, a ceiling, and a wall.
+An image with a window, seven chairs, a bottle, a wall, a floor, a cup, a light, a tv, a ceiling, and a dining.
+An image with a tv, a dining, a window, seven chairs, a light, a bottle, a floor, a cup, a wall, and a ceiling.

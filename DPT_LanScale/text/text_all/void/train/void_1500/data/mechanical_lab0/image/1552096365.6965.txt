@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is tucked under a white table with a computer on it.
 A blue chair is tucked under a white table with a computer monitor on top.
 The image shows a blue chair tucked under a white desk with a computer monitor on top, and there is a yellow piece of paper on the left side of the desk.
+An image with a wall, a floor, a chair, a paper, and a table.
+An image with a wall, a table, a floor, a paper, and a chair.
+An image with a floor, a chair, a table, a paper, and a wall.
+An image with a wall, a chair, a table, a paper, and a floor.
+An image with a wall, a floor, a table, a paper, and a chair.

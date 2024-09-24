@@ -8,3 +8,8 @@ A room with a refrigerator, a table, and a bookshelf.
 The image shows a room with a refrigerator, a desk, and a bookshelf, all set against a green wall.
 The room is a small office with a large refrigerator, a desk, a chair, and a bookshelf.
 The image shows a room with a green wall, a large refrigerator, a desk with a chair, a bookshelf, and a table with a chair.
+An image with sixteen books, four chairs, a table, a paper, a person, a dining, a refrigerator, a floor, a ceiling, a light, a shelf, and a wall.
+An image with sixteen books, a light, a dining, a refrigerator, four chairs, a person, a shelf, a table, a ceiling, a wall, a floor, and a paper.
+An image with a floor, sixteen books, a wall, four chairs, a dining, a person, a table, a paper, a ceiling, a refrigerator, a shelf, and a light.
+An image with sixteen books, a light, a dining, a wall, a ceiling, a person, four chairs, a paper, a refrigerator, a floor, a shelf, and a table.
+An image with a floor, a shelf, sixteen books, a ceiling, a dining, a person, four chairs, a table, a paper, a wall, a light, and a refrigerator.

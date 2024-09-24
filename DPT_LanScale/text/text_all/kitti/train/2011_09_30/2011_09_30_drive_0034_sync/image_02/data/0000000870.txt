@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings and gre
 The image captures a serene residential street, with a white building featuring a balcony and a garden, leading to a cul-de-sac.
 The image shows a narrow street between two-story buildings, with a small garden area in front of the buildings, a sidewalk, and a street sign.
 The image shows a residential street with a row of white buildings, each featuring a balcony and a small garden area. The street is lined with greenery and a sidewalk, and there are signs and a fire hydrant visible.
+An image with a tree, a potted, a house, a grass, a road, a wall, a sky, a pavement, a window, and a fence.
+An image with a wall, a tree, a road, a window, a grass, a sky, a pavement, a potted, a house, and a fence.
+An image with a window, a tree, a grass, a potted, a fence, a house, a wall, a sky, a road, and a pavement.
+An image with a fence, a grass, a house, a tree, a pavement, a road, a potted, a sky, a wall, and a window.
+An image with a road, a house, a potted, a wall, a pavement, a fence, a sky, a tree, a grass, and a window.

@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street scene, with parked cars, a bicyclist, and pedestrians, all under a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a few people walking and bicycles parked on the sidewalk.
 A narrow street in a European city, with parked cars, bicycles, and pedestrians, leading to a row of buildings.
+An image with a road, nine cars, two bicycles, a sky, a building, four people, a tree, and a pavement.
+An image with a road, a pavement, nine cars, four people, two bicycles, a tree, a building, and a sky.
+An image with four people, nine cars, a pavement, two bicycles, a road, a tree, a sky, and a building.
+An image with four people, nine cars, a tree, a sky, a road, a building, two bicycles, and a pavement.
+An image with nine cars, four people, a pavement, a sky, two bicycles, a road, a tree, and a building.

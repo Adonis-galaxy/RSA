@@ -8,3 +8,8 @@ A yellow pipe is attached to a sink.
 A yellow pipe is connected to a sink, and there is a blue box on the wall.
 The image shows a yellow pipe connected to a sink with a green hose, and a blue box with a red cross on the wall.
 The image shows a yellow pipe connected to a sink with a green hose, and there is a blue box on the wall above the sink.
+An image with a sink, a floor, a paper, a cabinet, and a wall.
+An image with a wall, a floor, a paper, a cabinet, and a sink.
+An image with a paper, a floor, a wall, a cabinet, and a sink.
+An image with a paper, a cabinet, a sink, a wall, and a floor.
+An image with a wall, a floor, a paper, a sink, and a cabinet.

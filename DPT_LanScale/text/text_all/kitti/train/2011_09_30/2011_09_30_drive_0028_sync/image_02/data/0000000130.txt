@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a delivery truck parked in front of a building, suggesting a moment of pause in the delivery process.
 A narrow street lined with parked cars and buildings, with a truck carrying a large load of plants in the foreground.
 A narrow street lined with parked cars and buildings, with a truck carrying a load of plants and a street lamp visible.
+An image with a truck, eleven cars, a house, a road, two walls, a tree, a fence, and a pavement.
+An image with two walls, a road, eleven cars, a truck, a fence, a tree, a pavement, and a house.
+An image with eleven cars, a road, a house, two walls, a fence, a truck, a pavement, and a tree.
+An image with eleven cars, two walls, a house, a tree, a fence, a truck, a pavement, and a road.
+An image with eleven cars, a tree, a house, a road, a pavement, two walls, a fence, and a truck.

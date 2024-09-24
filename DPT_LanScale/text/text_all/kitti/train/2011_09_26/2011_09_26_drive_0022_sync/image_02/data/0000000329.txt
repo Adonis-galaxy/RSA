@@ -8,3 +8,8 @@ The image shows a street sign on a road.
 A quiet, tree-lined street leads to a small, white storage shed, with a sign indicating a nearby park.
 The image shows a narrow road with a white building on the right side, a sign on the left side, and a tree-lined path.
 A narrow road curves gently to the left, flanked by a white building with a sign on the left and a tree on the right.
+An image with a dirt, a tree, a building, a sky, and a road.
+An image with a dirt, a road, a tree, a building, and a sky.
+An image with a sky, a tree, a building, a dirt, and a road.
+An image with a dirt, a tree, a sky, a building, and a road.
+An image with a sky, a dirt, a road, a tree, and a building.

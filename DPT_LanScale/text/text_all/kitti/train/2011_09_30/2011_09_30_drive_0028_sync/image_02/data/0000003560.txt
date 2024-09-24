@@ -8,3 +8,8 @@ The image shows a street scene with cars parked along the side of the road.
 The image captures a quiet residential street, with parked cars lining the curb and apartment buildings standing tall in the background.
 The image shows a narrow street lined with parked cars and tall buildings, with a car driving down the street and a stop sign visible.
 The image depicts a residential street with parked cars, apartment buildings, and a clear sky.
+An image with a building, a road, ten cars, a truck, a stop, a tree, a pavement, and a sky.
+An image with a stop, ten cars, a road, a building, a tree, a truck, a sky, and a pavement.
+An image with ten cars, a sky, a building, a tree, a stop, a truck, a pavement, and a road.
+An image with a sky, a tree, ten cars, a truck, a building, a pavement, a stop, and a road.
+An image with ten cars, a building, a pavement, a stop, a sky, a tree, a truck, and a road.

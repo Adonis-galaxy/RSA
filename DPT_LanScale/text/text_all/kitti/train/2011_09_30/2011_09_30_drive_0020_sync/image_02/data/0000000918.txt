@@ -8,3 +8,8 @@ The image shows a street scene with houses, trees, and a clear blue sky.
 The image captures a quiet residential street, with a clear view of the road, houses, and trees, under a bright blue sky.
 The image shows a quiet residential street with houses, trees, and a clear blue sky.
 The image depicts a quiet residential street with a clear sky, lined with houses and trees, and a single car parked on the side of the road.
+An image with two trucks, a tree, a stop, a grass, a road, a house, and a pavement.
+An image with a tree, two trucks, a grass, a road, a house, a pavement, and a stop.
+An image with a pavement, two trucks, a grass, a stop, a tree, a house, and a road.
+An image with a tree, a grass, a road, a pavement, a stop, two trucks, and a house.
+An image with two trucks, a tree, a stop, a pavement, a house, a grass, and a road.

@@ -8,3 +8,8 @@ A coffee machine on a counter.
 A coffee machine is sitting on a counter next to two cups.
 A coffee machine is sitting on a counter next to two cups.
 A coffee machine is placed on a counter next to a wall, with two cups on the counter.
+An image with a wall, a cabinet, two cups, and a floor.
+An image with a cabinet, a wall, two cups, and a floor.
+An image with two cups, a wall, a floor, and a cabinet.
+An image with a floor, a wall, two cups, and a cabinet.
+An image with a floor, a cabinet, two cups, and a wall.

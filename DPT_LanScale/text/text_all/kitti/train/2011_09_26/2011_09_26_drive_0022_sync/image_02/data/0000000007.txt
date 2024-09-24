@@ -8,3 +8,8 @@ A car on a road.
 A white car is driving down a tree-lined road, passing a street sign and a pedestrian, with a clear sky overhead.
 A white car is driving down a tree-lined road, with a blue sign on the left side and a red and white striped pole on the right side.
 A white car is driving down a tree-lined road with a clear sky overhead.
+An image with a fence, two people, a tree, a car, a grass, a road, and a bicycle.
+An image with a bicycle, a grass, two people, a tree, a car, a fence, and a road.
+An image with a tree, a car, a grass, two people, a bicycle, a fence, and a road.
+An image with a tree, a grass, a bicycle, two people, a car, a fence, and a road.
+An image with two people, a bicycle, a grass, a road, a fence, a car, and a tree.

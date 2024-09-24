@@ -8,3 +8,8 @@ A blurry image of a person sitting in front of a computer.
 The image shows a person sitting in a chair, with a blurred background of a room with a desk and a computer monitor.
 The image is blurry and shows a person sitting in a chair behind a wooden cabinet.
 The image shows a person sitting in a chair, partially obscured by a wooden cabinet, with a blurred background that includes a desk and a computer monitor.
+An image with a door, two refrigerators, a wall, a floor, two bottles, and a person.
+An image with two refrigerators, a floor, a person, a wall, two bottles, and a door.
+An image with a floor, a person, a door, two refrigerators, two bottles, and a wall.
+An image with two refrigerators, two bottles, a floor, a door, a wall, and a person.
+An image with two bottles, two refrigerators, a floor, a door, a wall, and a person.

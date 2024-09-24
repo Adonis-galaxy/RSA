@@ -8,3 +8,8 @@ The image shows an office space with a row of desks and chairs.
 The image captures an office space with a row of desks, chairs, and a counter, featuring a mix of natural and artificial lighting, and a red exit sign.
 The image shows an indoor space with a large room containing multiple desks and chairs, a counter with a trash can, and a hallway with a door and windows.
 The image shows an interior space with a long counter, a row of chairs, and a series of cubicles, all under a high ceiling with recessed lighting.
+An image with nine chairs, a wall, a door, a window, a ceiling, a bench, a rug, and a light.
+An image with a ceiling, a window, nine chairs, a door, a light, a wall, a bench, and a rug.
+An image with a ceiling, a window, a bench, a light, nine chairs, a door, a rug, and a wall.
+An image with a door, nine chairs, a window, a ceiling, a rug, a light, a wall, and a bench.
+An image with a window, nine chairs, a wall, a bench, a door, a rug, a light, and a ceiling.

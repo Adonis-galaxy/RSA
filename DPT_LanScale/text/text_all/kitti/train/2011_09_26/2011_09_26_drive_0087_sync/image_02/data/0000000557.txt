@@ -8,3 +8,8 @@ The image shows a narrow street between two white buildings with black garages.
 A narrow, tree-lined street leads to a row of houses, with a car parked on the street and a trash can on the sidewalk.
 The image shows a narrow street lined with houses and trees, with a car parked on the side of the road.
 A narrow, tree-lined street leads to a row of houses, with a car parked on the side and a fence separating the road from the properties.
+An image with a tree, a car, a house, a road, a wall, a sky, and a building.
+An image with a house, a car, a building, a tree, a road, a sky, and a wall.
+An image with a tree, a house, a sky, a wall, a road, a building, and a car.
+An image with a road, a house, a car, a sky, a tree, a building, and a wall.
+An image with a sky, a road, a wall, a car, a house, a tree, and a building.

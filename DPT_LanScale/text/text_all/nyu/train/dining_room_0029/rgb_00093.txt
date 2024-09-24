@@ -8,3 +8,8 @@ The image shows a room with two chairs and a wall decorated with masks.
 The image captures a cozy living room setting with two colorful chairs, a patterned pillow, and a decorative tapestry on the wall.
 The image shows a room with two colorful chairs, a patterned pillow, a framed picture, and a mask on the wall.
 The image shows a room with two colorful chairs, a patterned pillow, and a wall decorated with masks and a tapestry.
+An image with a floor, a rug, two chairs, and a wall.
+An image with a floor, a wall, two chairs, and a rug.
+An image with a floor, two chairs, a wall, and a rug.
+An image with a wall, two chairs, a rug, and a floor.
+An image with two chairs, a wall, a floor, and a rug.

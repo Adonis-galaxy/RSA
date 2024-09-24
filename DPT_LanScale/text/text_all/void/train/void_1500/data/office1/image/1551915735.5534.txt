@@ -8,3 +8,8 @@ A table with books and a calculator on it.
 A cluttered office desk with a computer, books, and a window.
 A cluttered office desk with a computer monitor, a phone, a chair, and several books.
 A cluttered office desk with a computer, books, and a window.
+An image with three chairs, three books, a cabinet, a window, a cup, a dining, and a wall.
+An image with three chairs, a cabinet, a wall, a window, a dining, three books, and a cup.
+An image with a wall, three books, a cabinet, three chairs, a dining, a cup, and a window.
+An image with a cabinet, three chairs, three books, a dining, a window, a wall, and a cup.
+An image with three books, a cup, a cabinet, three chairs, a dining, a wall, and a window.

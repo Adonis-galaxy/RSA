@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with parked cars and a truck on the side of the road, leading to a row of houses with a clear sky overhead.
 The image shows a narrow street lined with houses and parked cars, with a stop sign visible on the right side.
 The image depicts a quiet residential street with parked cars, a truck, and a trailer, lined with houses and trees, under a clear blue sky.
+An image with a pavement, five cars, two stops, a window, a house, a roof, a tree, a sky, a truck, a road, and a wall.
+An image with five cars, a tree, two stops, a sky, a house, a truck, a roof, a window, a pavement, a road, and a wall.
+An image with a wall, five cars, a window, a road, a pavement, a sky, a roof, two stops, a tree, a truck, and a house.
+An image with a road, a wall, five cars, a tree, a truck, a window, two stops, a pavement, a roof, a sky, and a house.
+An image with five cars, a roof, two stops, a house, a sky, a wall, a tree, a window, a road, a pavement, and a truck.

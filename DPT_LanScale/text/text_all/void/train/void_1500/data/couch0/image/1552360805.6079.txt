@@ -8,3 +8,8 @@ A colorful hat is placed on the arm of a couch.
 A colorful sombrero is resting on a gray couch, next to a black backpack and a magazine.
 A colorful sombrero is placed on the arm of a gray couch, next to a black backpack and a magazine.
 A colorful sombrero is resting on the arm of a gray couch, with a black backpack and a magazine on the seat.
+An image with a rug, a wall, a floor, a remote, two books, a backpack, and a couch.
+An image with a remote, a wall, two books, a couch, a floor, a rug, and a backpack.
+An image with two books, a rug, a floor, a wall, a couch, a backpack, and a remote.
+An image with a couch, a wall, a backpack, a rug, two books, a remote, and a floor.
+An image with a wall, two books, a floor, a backpack, a couch, a remote, and a rug.

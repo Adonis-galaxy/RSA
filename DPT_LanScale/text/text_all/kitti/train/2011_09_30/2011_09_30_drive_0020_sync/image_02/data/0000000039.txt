@@ -8,3 +8,8 @@ The image shows a street scene with a building under construction, a sidewalk, a
 The image captures a quiet residential street, with a row of trees lining the sidewalk, leading to a building under construction, which is surrounded by a fenced-off area.
 The image shows a street scene with a large building under construction, a few parked cars, a sidewalk, and a row of small trees.
 The image shows a street scene with a row of trees, a sidewalk, a road, parked cars, a building under construction, and a fenced area.
+An image with seven cars, a road, a building, a tree, a grass, and a truck.
+An image with a building, a tree, seven cars, a road, a grass, and a truck.
+An image with a road, a tree, seven cars, a grass, a truck, and a building.
+An image with a tree, seven cars, a grass, a building, a road, and a truck.
+An image with seven cars, a building, a truck, a road, a grass, and a tree.

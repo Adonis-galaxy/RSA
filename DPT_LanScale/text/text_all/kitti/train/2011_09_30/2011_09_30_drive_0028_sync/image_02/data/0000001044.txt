@@ -8,3 +8,8 @@ The image shows a narrow street with cars parked on the side.
 The image captures a narrow, tree-lined street with parked cars, where the sunlight casts shadows on the pavement, creating a serene and somewhat secluded atmosphere.
 A narrow street with parked cars and a bridge overhead.
 A narrow, tree-lined street with parked cars and a pedestrian walkway.
+An image with four cars, a pavement, a wall, a sky, and a tree.
+An image with a sky, a wall, a tree, four cars, and a pavement.
+An image with a sky, a pavement, a tree, four cars, and a wall.
+An image with a sky, four cars, a pavement, a wall, and a tree.
+An image with a tree, a sky, four cars, a wall, and a pavement.

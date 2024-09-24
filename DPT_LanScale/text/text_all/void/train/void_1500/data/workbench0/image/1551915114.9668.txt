@@ -8,3 +8,8 @@ A desk with a tape dispenser, a box of annie's cheddar bunnies, a camera tripod,
 A desk with a tape dispenser, a box of Annie's Cheddar Bunnies, a pair of scissors, and a camera bag.
 A desk with a tape dispenser, a box of Annie's Cheddar Bunnies, a pair of scissors, and a black bag.
 A desk with a tape dispenser, a box of Annie's Cheddar Bunnies, a pair of scissors, and a black bag.
+An image with two chairs, a table, a wall, a cardboard, a cabinet, a floor, a window, and a tv.
+An image with a floor, two chairs, a wall, a cardboard, a tv, a cabinet, a window, and a table.
+An image with two chairs, a cardboard, a cabinet, a window, a table, a floor, a tv, and a wall.
+An image with a tv, a table, a floor, a wall, a cardboard, a cabinet, a window, and two chairs.
+An image with two chairs, a wall, a table, a floor, a window, a tv, a cabinet, and a cardboard.

@@ -8,3 +8,8 @@ The image shows a highway with a few cars driving on it.
 The image captures a moment of tranquility on a highway, with a few cars in motion, under a clear blue sky, surrounded by lush greenery.
 The image shows a highway with a few cars, a bridge in the distance, and a clear blue sky.
 A highway with multiple lanes, a bridge, and a clear blue sky.
+An image with three cars, a road, a building, a tree, a pavement, and a fence.
+An image with three cars, a tree, a road, a building, a fence, and a pavement.
+An image with a fence, three cars, a tree, a building, a pavement, and a road.
+An image with a building, three cars, a pavement, a road, a tree, and a fence.
+An image with a building, a pavement, a road, three cars, a tree, and a fence.

@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue trash can is next to a black bag with straps, and they are both leaning against a white column.
 A blue trash can is next to a black bag with straps, and they are both leaning against a white column.
 A blue trash can is next to a black bag with straps, and they are both leaning against a white column in a room with a wooden cabinet.
+An image with a refrigerator, a rug, a suitcase, a wall, a cabinet, and a cardboard.
+An image with a cardboard, a refrigerator, a wall, a suitcase, a cabinet, and a rug.
+An image with a refrigerator, a suitcase, a cardboard, a wall, a cabinet, and a rug.
+An image with a refrigerator, a cabinet, a rug, a suitcase, a cardboard, and a wall.
+An image with a rug, a cabinet, a suitcase, a refrigerator, a wall, and a cardboard.

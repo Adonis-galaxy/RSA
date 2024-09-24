@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a van.
 The image captures a quiet residential street with parked cars, a few moving vehicles, and a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a large black van parked on the right side of the street.
 A narrow street in a residential area with parked cars and a black van driving down it.
+An image with three potteds, a tree, a fence, a road, eight cars, a pavement, a sky, and a house.
+An image with a tree, eight cars, three potteds, a fence, a road, a sky, a house, and a pavement.
+An image with three potteds, a sky, eight cars, a road, a fence, a pavement, a tree, and a house.
+An image with a fence, three potteds, eight cars, a house, a tree, a road, a pavement, and a sky.
+An image with eight cars, three potteds, a road, a pavement, a tree, a house, a fence, and a sky.

@@ -8,3 +8,8 @@ A white car parked on a street.
 A white car is parked on the side of a street, adjacent to a building with a hedge and trees, and a traffic light is visible in the background.
 A small white car is parked on the side of a narrow street lined with trees and buildings.
 A white car is parked on the side of a tree-lined street in a residential area, with a curved road leading to a building with a sloped roof.
+An image with a fence, a pavement, a sky, a car, a tree, a house, and a road.
+An image with a sky, a tree, a pavement, a road, a car, a fence, and a house.
+An image with a sky, a house, a fence, a car, a pavement, a tree, and a road.
+An image with a pavement, a car, a house, a fence, a sky, a road, and a tree.
+An image with a sky, a road, a car, a pavement, a tree, a house, and a fence.

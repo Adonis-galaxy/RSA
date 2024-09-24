@@ -8,3 +8,8 @@ A black chair with white writing.
 A black office chair with a white stripe in front of a desk with two computer monitors.
 A black chair with white lettering in front of a desk with two computer monitors.
 The image shows a computer desk with two black chairs, two computer monitors, and a keyboard.
+An image with a mouse, three tvs, two chairs, two keyboards, a wall, a rug, and a table.
+An image with three tvs, a wall, two keyboards, two chairs, a rug, a mouse, and a table.
+An image with three tvs, a rug, two chairs, a table, a wall, two keyboards, and a mouse.
+An image with a rug, three tvs, two chairs, a table, a wall, two keyboards, and a mouse.
+An image with two keyboards, a wall, two chairs, a rug, three tvs, a mouse, and a table.

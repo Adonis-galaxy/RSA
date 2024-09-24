@@ -8,3 +8,8 @@ The image is a photograph of a narrow city street.
 The image captures a quaint, narrow street in a European town, where the old-world charm of the buildings and the vibrant life of the street intersect.
 A narrow street between tall buildings, with a few pedestrians, bicycles, and potted plants.
 A narrow, cobblestone street with buildings on both sides, flanked by potted plants and a traffic sign, leading to a pedestrian-friendly area with shops and people.
+An image with a sky, a traffic, a building, a railroad, three bicycles, nine people, a pavement, a flower, a handbag, and a potted.
+An image with a railroad, a pavement, a flower, nine people, a sky, three bicycles, a building, a potted, a traffic, and a handbag.
+An image with nine people, a flower, three bicycles, a potted, a traffic, a handbag, a pavement, a railroad, a sky, and a building.
+An image with a sky, nine people, a railroad, a building, a pavement, a potted, a flower, three bicycles, a traffic, and a handbag.
+An image with nine people, three bicycles, a flower, a handbag, a railroad, a sky, a traffic, a pavement, a building, and a potted.

@@ -8,3 +8,8 @@ A counter with a yellow basket and a blue basket.
 The image shows a counter with a yellow basket, a blue basket, and a white napkin on it.
 The image shows a counter with a yellow basket, a blue basket, and a white napkin on it.
 The image shows a counter with a yellow basket, a blue basket, and a white napkin on it.
+An image with a cabinet, a wall, a cup, a towel, a counter, and a toothbrush.
+An image with a cabinet, a towel, a toothbrush, a wall, a counter, and a cup.
+An image with a wall, a cup, a counter, a cabinet, a toothbrush, and a towel.
+An image with a wall, a cabinet, a toothbrush, a towel, a counter, and a cup.
+An image with a cup, a towel, a wall, a toothbrush, a cabinet, and a counter.

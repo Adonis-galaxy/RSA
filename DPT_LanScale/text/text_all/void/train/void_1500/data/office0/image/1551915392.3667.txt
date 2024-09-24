@@ -8,3 +8,8 @@ A black leather chair in front of a table.
 A black leather chair is positioned in front of a white marble table in a room with a black leather couch.
 The image shows a black leather couch, a black leather chair, and a white marble table in a room with a white wall.
 The image shows a black leather couch, a black leather chair, and a white marble table in a room with a white wall and a whiteboard.
+An image with a couch, a wall, a chair, a rug, and a dining.
+An image with a couch, a rug, a dining, a chair, and a wall.
+An image with a wall, a rug, a couch, a dining, and a chair.
+An image with a dining, a rug, a wall, a chair, and a couch.
+An image with a chair, a couch, a dining, a rug, and a wall.

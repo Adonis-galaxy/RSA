@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist rides down a tree-lined street, passing parked cars and a pedestrian, with a clear blue sky overhead.
 A person riding a bicycle on a narrow street with parked cars on both sides.
 A person riding a bicycle on a tree-lined street with parked cars and a sidewalk.
+An image with a pavement, a grass, a tree, nine cars, a handbag, a bicycle, a person, and a road.
+An image with a handbag, a tree, nine cars, a person, a pavement, a road, a grass, and a bicycle.
+An image with a pavement, a handbag, a bicycle, nine cars, a tree, a road, a person, and a grass.
+An image with a tree, a handbag, nine cars, a grass, a road, a pavement, a bicycle, and a person.
+An image with a person, nine cars, a tree, a road, a handbag, a pavement, a grass, and a bicycle.

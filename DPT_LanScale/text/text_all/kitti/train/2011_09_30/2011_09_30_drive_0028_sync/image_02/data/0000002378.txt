@@ -8,3 +8,8 @@ The image shows a street scene with a man riding a bicycle.
 A man riding a bicycle on a quiet residential street, with a clear view of the houses and the sunny day.
 A man riding a bicycle on a quiet residential street between two-story houses.
 A quiet residential street with a clear view of the houses and a lone cyclist.
+An image with seven cars, a pavement, a sky, a person, a tree, a grass, a house, a bicycle, a potted, and a road.
+An image with seven cars, a person, a grass, a bicycle, a sky, a tree, a potted, a road, a house, and a pavement.
+An image with a road, a sky, a house, seven cars, a grass, a tree, a potted, a person, a bicycle, and a pavement.
+An image with a house, a pavement, a sky, a person, a bicycle, a tree, a road, seven cars, a potted, and a grass.
+An image with seven cars, a grass, a tree, a bicycle, a sky, a house, a potted, a road, a pavement, and a person.

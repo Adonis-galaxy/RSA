@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 The image captures a quiet residential street, with a few parked cars and a lone pedestrian, under a clear blue sky.
 The image shows a narrow street lined with parked cars and tall buildings, with a large pothole in the middle of the road.
 A narrow, tree-lined street with parked cars and a single vehicle driving down it, flanked by white buildings with balconies and a brick wall on the right.
+An image with three cars, two walls, a road, a pavement, a building, and a tree.
+An image with a road, two walls, a tree, three cars, a pavement, and a building.
+An image with two walls, three cars, a tree, a road, a building, and a pavement.
+An image with three cars, a road, two walls, a building, a tree, and a pavement.
+An image with a road, a pavement, two walls, three cars, a building, and a tree.

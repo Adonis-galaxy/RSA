@@ -8,3 +8,8 @@ The image shows a room with a white air conditioner, a green hose, and a yellow 
 The image shows a room with two large white heating units, one of which has a fan attached, and a green garden hose running from the fan to the floor. There are also some stacked items in the background.
 The image shows a room with a large white air conditioner, a smaller white air conditioner on a yellow stool, a green hose, and a yellow ladder.
 The image shows an indoor space with a central heating unit, a water heater, and a fan, all connected by pipes and hoses, with a concrete floor and a brick wall.
+An image with a refrigerator, two walls, a light, a floor, and a ceiling.
+An image with a light, two walls, a ceiling, a floor, and a refrigerator.
+An image with a refrigerator, two walls, a ceiling, a floor, and a light.
+An image with a light, a refrigerator, two walls, a ceiling, and a floor.
+An image with a refrigerator, a floor, a ceiling, two walls, and a light.

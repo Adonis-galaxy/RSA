@@ -8,3 +8,8 @@ A black backpack on a gray bench.
 A backpack and a hat are placed on a gray bench, with a magazine and a metal ring on the floor.
 A black backpack, a silver hat, and a magazine on a gray bench.
 A black backpack, a black and white bag, a silver hat, and a magazine on a gray bench.
+An image with a suitcase, two backpacks, a wall, a couch, a rug, a cabinet, and a book.
+An image with a book, a wall, two backpacks, a couch, a suitcase, a rug, and a cabinet.
+An image with a cabinet, a book, a couch, a wall, a suitcase, a rug, and two backpacks.
+An image with a couch, a suitcase, a rug, two backpacks, a wall, a cabinet, and a book.
+An image with a wall, two backpacks, a couch, a suitcase, a rug, a book, and a cabinet.

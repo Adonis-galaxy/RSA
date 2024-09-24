@@ -8,3 +8,8 @@ The image shows a street scene with a white camper van parked on the side of the
 The image captures a serene residential street, with a mix of parked cars, a white camper van, and a few trees, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a white RV parked on the right side.
 The image depicts a quiet residential street with parked cars, a truck, and a trailer, lined with trees and buildings, under a clear blue sky.
+An image with four cars, a bus, a tree, a pavement, a grass, a wall, a road, a bench, a sky, and a building.
+An image with a bus, a wall, a building, four cars, a grass, a pavement, a road, a sky, a bench, and a tree.
+An image with a grass, a road, four cars, a building, a wall, a sky, a bus, a pavement, a tree, and a bench.
+An image with a grass, a road, a building, four cars, a bench, a pavement, a sky, a tree, a bus, and a wall.
+An image with a sky, a wall, a building, a tree, a bench, four cars, a bus, a grass, a pavement, and a road.

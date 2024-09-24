@@ -8,3 +8,8 @@ A kitchen with a counter and cabinets.
 The image shows an empty kitchen with a countertop and a refrigerator, with a view into the adjacent room.
 The image shows a small kitchen with a refrigerator, a countertop, and a cabinet.
 The image shows a kitchen with a tiled floor, white cabinets, a black refrigerator, and a countertop with a marble-like finish.
+An image with a wall, a counter, a floor, a cabinet, and a oven.
+An image with a oven, a cabinet, a wall, a counter, and a floor.
+An image with a floor, a wall, a oven, a counter, and a cabinet.
+An image with a cabinet, a oven, a wall, a counter, and a floor.
+An image with a wall, a counter, a cabinet, a oven, and a floor.

@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and trees.
 A quiet residential street, lined with houses and trees, with a parked truck and a few potted plants adding life to the scene.
 A narrow street lined with houses and a large truck driving down it.
 A narrow street lined with houses and a parked truck, leading to a white house with a red roof.
+An image with a tree, a fence, a roof, a pavement, a road, a wall, a building, a sky, and a truck.
+An image with a fence, a pavement, a tree, a sky, a wall, a road, a building, a truck, and a roof.
+An image with a building, a tree, a truck, a wall, a sky, a pavement, a road, a roof, and a fence.
+An image with a wall, a building, a roof, a fence, a pavement, a sky, a tree, a road, and a truck.
+An image with a pavement, a road, a wall, a sky, a fence, a roof, a building, a tree, and a truck.

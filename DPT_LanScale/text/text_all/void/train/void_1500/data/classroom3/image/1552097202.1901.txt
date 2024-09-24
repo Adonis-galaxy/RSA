@@ -8,3 +8,8 @@ The image shows a carpeted floor with two black chairs and a white wall.
 The image shows a room with two black chairs, a white desk, and a white wall with two outlets.
 The image shows a small office space with two black chairs, a white desk, and a white wall with two electrical outlets.
 The image shows a room with two black chairs on a carpeted floor, positioned in front of a white wall with two electrical outlets.
+An image with two chairs, a wall, a table, a rug, and a mouse.
+An image with a rug, a wall, a table, a mouse, and two chairs.
+An image with a table, a wall, a rug, two chairs, and a mouse.
+An image with two chairs, a mouse, a table, a rug, and a wall.
+An image with a mouse, two chairs, a rug, a table, and a wall.

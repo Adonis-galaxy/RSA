@@ -8,3 +8,8 @@ A living room with a couch, chair, and table.
 The image captures a cozy living room with a warm and inviting atmosphere, featuring a comfortable leather sofa, a matching armchair, a wooden coffee table, and a framed picture on the wall.
 The image shows a dimly lit living room with a large leather couch, a smaller leather chair, a wooden coffee table, and a framed picture on the wall.
 The image shows a well-lit living room with a dark leather sofa, a black armchair, a wooden coffee table, and a framed picture on the wall.
+An image with a wall, a window, two books, two couches, a table, a rug, a curtain, and a floor.
+An image with a wall, two couches, a table, a rug, a window, a floor, two books, and a curtain.
+An image with a floor, a rug, a window, two couches, two books, a table, a wall, and a curtain.
+An image with a floor, a curtain, a window, two couches, a table, two books, a wall, and a rug.
+An image with a wall, two books, a floor, two couches, a table, a curtain, a window, and a rug.

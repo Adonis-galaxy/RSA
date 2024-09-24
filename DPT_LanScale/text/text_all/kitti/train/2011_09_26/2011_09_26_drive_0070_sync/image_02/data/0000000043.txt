@@ -8,3 +8,8 @@ The image shows a street with a red and blue sign.
 The image captures a tranquil suburban street scene, with a clear blue sky overhead, lined by lush green trees and a mix of residential houses and commercial buildings, all under the watchful gaze of a red and blue traffic sign.
 The image shows a wide, tree-lined road with a few cars, a red and blue sign, and a white van.
 A tree-lined street with a clear sky, a red and blue sign, and a white van driving away.
+An image with two cars, a grass, a tree, a road, a house, a wall, a sky, a pavement, and a stop.
+An image with two cars, a pavement, a tree, a grass, a sky, a wall, a road, a stop, and a house.
+An image with a sky, a house, a stop, a road, a grass, a wall, two cars, a tree, and a pavement.
+An image with a pavement, a house, a tree, a stop, two cars, a sky, a road, a grass, and a wall.
+An image with a wall, a stop, a road, two cars, a house, a tree, a sky, a pavement, and a grass.

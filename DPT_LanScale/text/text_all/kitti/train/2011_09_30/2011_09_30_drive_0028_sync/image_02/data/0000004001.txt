@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, lined with parked cars and trees, leading to a large house with a bridge in the background.
 The image shows a narrow street lined with parked cars, a bus stop, and a building in the background, with trees and a bridge in the distance.
 A tree-lined street with parked cars and a bus stop.
+An image with a pavement, a tree, five cars, a grass, a road, a building, a wall, and a sky.
+An image with a sky, five cars, a road, a tree, a grass, a wall, a pavement, and a building.
+An image with a building, five cars, a grass, a wall, a pavement, a road, a tree, and a sky.
+An image with a sky, five cars, a tree, a wall, a grass, a pavement, a road, and a building.
+An image with five cars, a grass, a road, a sky, a pavement, a wall, a tree, and a building.

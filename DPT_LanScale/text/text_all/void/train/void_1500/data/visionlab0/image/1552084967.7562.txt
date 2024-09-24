@@ -8,3 +8,8 @@ A computer desk with a chair and a cup of coffee.
 A workspace with a desk, chair, and a whiteboard with a schedule on it.
 The image shows a small office cubicle with a desk, chair, and a whiteboard with a schedule on it.
 The image shows an office cubicle with a desk, chair, and a whiteboard with a schedule on it.
+An image with two chairs, a paper, a light, a table, a floor, two cups, a door, a keyboard, a wall, and a tv.
+An image with a light, two chairs, two cups, a keyboard, a paper, a tv, a door, a table, a floor, and a wall.
+An image with a floor, two chairs, a paper, two cups, a keyboard, a tv, a wall, a door, a table, and a light.
+An image with a keyboard, a table, two chairs, a floor, a tv, two cups, a paper, a wall, a door, and a light.
+An image with a tv, two cups, two chairs, a floor, a light, a paper, a table, a keyboard, a door, and a wall.

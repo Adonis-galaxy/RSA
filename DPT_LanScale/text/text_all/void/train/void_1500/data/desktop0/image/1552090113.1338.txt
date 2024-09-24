@@ -8,3 +8,8 @@ A black computer monitor on a desk.
 A computer monitor on a desk with a keyboard and mouse.
 A black computer monitor on a desk with a black keyboard and a black mouse.
 A black computer monitor on a wooden desk with a black keyboard and mouse.
+An image with a tv, a wall, a keyboard, a table, a mouse, and a mirror.
+An image with a table, a mirror, a tv, a keyboard, a mouse, and a wall.
+An image with a table, a mouse, a wall, a mirror, a tv, and a keyboard.
+An image with a keyboard, a mouse, a tv, a wall, a mirror, and a table.
+An image with a mirror, a tv, a keyboard, a mouse, a table, and a wall.

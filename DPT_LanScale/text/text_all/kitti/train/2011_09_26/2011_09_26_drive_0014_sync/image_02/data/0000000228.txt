@@ -8,3 +8,8 @@ A tree-lined street.
 A tree-lined road with a few cars and pedestrians, under a clear blue sky.
 A tree-lined road with a few cars, a person walking on the sidewalk, and a clear blue sky.
 A tree-lined road with a sidewalk, a few cars, and a person walking.
+An image with a road, four cars, two people, a tree, a building, a grass, and a handbag.
+An image with a handbag, four cars, a road, a grass, two people, a tree, and a building.
+An image with a building, four cars, two people, a handbag, a grass, a road, and a tree.
+An image with four cars, a road, a tree, a handbag, a building, a grass, and two people.
+An image with four cars, a road, a tree, two people, a grass, a handbag, and a building.

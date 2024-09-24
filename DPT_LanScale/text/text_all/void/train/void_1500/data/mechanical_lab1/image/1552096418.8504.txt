@@ -8,3 +8,8 @@ A blue and black machine on a wooden table.
 A blue and black machine with a yellow warning label on a wooden table.
 A blue and black machine with a yellow warning label on a wooden table.
 A blue and black machine with a yellow warning label on a wooden table.
+An image with a tv, a wall, a floor, and a table.
+An image with a table, a wall, a floor, and a tv.
+An image with a floor, a tv, a table, and a wall.
+An image with a tv, a floor, a wall, and a table.
+An image with a table, a tv, a wall, and a floor.

@@ -8,3 +8,8 @@ A kitchen with orange cabinets and a white counter.
 The image shows a kitchen with an orange countertop, a sink, and a cabinet.
 The image shows a small kitchen with an orange countertop, a white sink, and a white cabinet.
 The image shows a small kitchen with an orange countertop, a sink, and a cabinet above the counter.
+An image with a wall, two cups, a cabinet, a sink, and a paper.
+An image with a wall, two cups, a sink, a cabinet, and a paper.
+An image with two cups, a paper, a sink, a wall, and a cabinet.
+An image with a sink, a paper, two cups, a cabinet, and a wall.
+An image with a cabinet, a paper, a wall, a sink, and two cups.

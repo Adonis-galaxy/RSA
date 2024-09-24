@@ -8,3 +8,8 @@ A kitchen with a sink and a microwave.
 A small kitchen with a sink and a microwave.
 A small kitchen with a sink, a microwave, and a soap dispenser.
 The image shows a small kitchen with a sink, a microwave, and a countertop.
+An image with a counter, two walls, two bottles, a sink, a microwave, a cabinet, and a paper.
+An image with a microwave, two bottles, a sink, two walls, a counter, a cabinet, and a paper.
+An image with two bottles, a sink, a paper, a microwave, a counter, two walls, and a cabinet.
+An image with a cabinet, two walls, two bottles, a sink, a microwave, a paper, and a counter.
+An image with a cabinet, a paper, a microwave, a counter, two walls, two bottles, and a sink.

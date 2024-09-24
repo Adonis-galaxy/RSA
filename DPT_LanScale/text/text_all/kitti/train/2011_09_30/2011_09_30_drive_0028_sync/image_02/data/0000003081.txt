@@ -8,3 +8,8 @@ A person walking down a tree-lined street.
 A quiet residential street, lined with houses and trees, where a person is walking their dog.
 A narrow, tree-lined street between two-story buildings, with a person walking and cars parked along the sides.
 A narrow, tree-lined street between two-story buildings, with a person walking and cars parked along the sides.
+An image with two people, a house, five cars, a pavement, a sky, a tree, and a road.
+An image with five cars, two people, a sky, a pavement, a house, a road, and a tree.
+An image with five cars, a pavement, a tree, a house, two people, a road, and a sky.
+An image with five cars, two people, a house, a pavement, a tree, a road, and a sky.
+An image with a house, a pavement, five cars, a sky, a tree, two people, and a road.

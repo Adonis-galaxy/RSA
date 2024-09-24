@@ -8,3 +8,8 @@ A classroom with a green wall and a refrigerator.
 The image shows a classroom with a green wall, a refrigerator, a table, and a bulletin board.
 The image shows a small room with a green wall, a refrigerator, a table with chairs, and a large screen.
 The image shows a room with a green wall, a refrigerator, a table with chairs, and a bulletin board.
+An image with four chairs, a refrigerator, two people, a ceiling, a light, a floor, a wall, and a dining.
+An image with four chairs, a light, a ceiling, a refrigerator, a dining, a wall, two people, and a floor.
+An image with two people, four chairs, a refrigerator, a dining, a wall, a ceiling, a light, and a floor.
+An image with a refrigerator, two people, a ceiling, four chairs, a light, a floor, a dining, and a wall.
+An image with a light, four chairs, a refrigerator, two people, a wall, a ceiling, a dining, and a floor.

@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 The image captures a serene residential street, lined with lush greenery and parked cars, leading to a quaint, narrow alleyway that culminates in a charming, old-world European village.
 The image shows a narrow, tree-lined street with parked cars, a garage, and a gate.
 A narrow, tree-lined street with parked cars and a brick wall on one side, leading to a garage.
+An image with a tree, four cars, a sky, a door, a road, a fence, a pavement, a wall, and a grass.
+An image with a road, four cars, a fence, a door, a pavement, a wall, a tree, a grass, and a sky.
+An image with a grass, a wall, a fence, a sky, a road, a tree, a door, four cars, and a pavement.
+An image with a pavement, a road, a wall, a fence, a tree, a grass, a sky, four cars, and a door.
+An image with a door, a grass, a sky, four cars, a road, a tree, a pavement, a wall, and a fence.

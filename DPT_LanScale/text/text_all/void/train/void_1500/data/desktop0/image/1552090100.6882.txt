@@ -8,3 +8,8 @@ A straw hat on a desk.
 A straw hat is placed on a desk next to a chair.
 A straw hat is placed on a desk next to a computer chair.
 A colorful straw hat is placed on a desk next to a computer chair.
+An image with a floor, a table, a sink, a chair, a mouse, and a remote.
+An image with a mouse, a floor, a sink, a remote, a chair, and a table.
+An image with a table, a chair, a floor, a remote, a sink, and a mouse.
+An image with a mouse, a sink, a floor, a table, a remote, and a chair.
+An image with a sink, a chair, a floor, a remote, a table, and a mouse.

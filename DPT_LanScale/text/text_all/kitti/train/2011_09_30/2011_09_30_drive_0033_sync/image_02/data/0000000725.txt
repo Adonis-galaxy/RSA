@@ -8,3 +8,8 @@ The image shows a street scene with a white van parked in front of a house.
 A quiet residential street, with a white van parked in front of a house, and a tree with yellow leaves on the sidewalk.
 The image shows a narrow street lined with houses, a white van parked in front of one, and a tree with yellow leaves on the right side.
 A narrow, tree-lined street leads to a white house with a brown roof, parked cars, and a white van in front of it.
+An image with three cars, a pavement, a truck, a road, a house, a sky, a tree, and a roof.
+An image with three cars, a house, a sky, a roof, a truck, a tree, a pavement, and a road.
+An image with a truck, a sky, three cars, a house, a road, a pavement, a roof, and a tree.
+An image with three cars, a truck, a tree, a house, a roof, a pavement, a road, and a sky.
+An image with a sky, a truck, a road, three cars, a tree, a house, a roof, and a pavement.

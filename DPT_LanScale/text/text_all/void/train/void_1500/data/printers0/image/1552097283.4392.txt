@@ -8,3 +8,8 @@ A blue trash can with a clear bag.
 A blue trash can sits next to a desk with papers on it.
 A blue trash can sits on the floor next to a desk.
 A blue trash can is placed next to a desk with a computer and papers on it.
+An image with a rug, a dining, a paper, a wall, a bottle, and a chair.
+An image with a chair, a rug, a dining, a wall, a paper, and a bottle.
+An image with a bottle, a dining, a chair, a paper, a wall, and a rug.
+An image with a wall, a paper, a chair, a dining, a bottle, and a rug.
+An image with a paper, a chair, a wall, a bottle, a dining, and a rug.

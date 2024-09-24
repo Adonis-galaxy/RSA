@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes and a white line in the middle.
 The image captures a moment on a highway, with a car driving on the road, a traffic sign indicating directions, and a grassy area adjacent to the road.
 The image shows a wide, multi-lane highway with a few cars, a large yellow sign with black text, and a green grassy area on the side.
 A busy highway with multiple lanes, a median, and a sign indicating a nearby town.
+An image with seven cars, two people, a tree, a road, a fence, a sky, and a grass.
+An image with seven cars, two people, a fence, a tree, a sky, a road, and a grass.
+An image with seven cars, a fence, a tree, a grass, a sky, two people, and a road.
+An image with a tree, seven cars, a grass, a sky, a road, a fence, and two people.
+An image with seven cars, a grass, a sky, two people, a road, a tree, and a fence.

@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A quiet residential street, lined with houses, trees, and parked cars, with a bus parked at the end, and a garbage can on the sidewalk.
 A narrow, tree-lined street with parked cars, a bus, and a truck, leading to a row of houses.
 A narrow, tree-lined street with parked cars, a bus, and a truck, leading to a row of houses with balconies and potted plants.
+An image with three cars, a tree, a gravel, a road, a house, a person, a sky, a fence, and a truck.
+An image with a truck, a house, a sky, three cars, a tree, a fence, a person, a gravel, and a road.
+An image with a truck, a person, three cars, a road, a gravel, a fence, a house, a sky, and a tree.
+An image with three cars, a person, a tree, a gravel, a sky, a fence, a truck, a house, and a road.
+An image with a gravel, three cars, a road, a fence, a truck, a tree, a person, a house, and a sky.

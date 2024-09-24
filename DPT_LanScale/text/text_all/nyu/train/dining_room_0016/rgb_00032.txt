@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a well-lit dining room with a table surrounded by chairs, a round mirror on the wall, and a window with sunlight streaming in, creating a warm and inviting atmosphere.
 The image shows a dining room with a large table surrounded by several chairs, a round mirror on the wall, and a window with sunlight streaming in.
 The image shows a dining room with a table surrounded by chairs, a window, a door, and a round mirror on the wall.
+An image with seven chairs, a dining, a wall, a floor, a window, a cabinet, a ceiling, and a counter.
+An image with a floor, a dining, seven chairs, a wall, a ceiling, a cabinet, a window, and a counter.
+An image with a wall, seven chairs, a ceiling, a counter, a window, a floor, a dining, and a cabinet.
+An image with a wall, a window, a floor, seven chairs, a ceiling, a cabinet, a dining, and a counter.
+An image with seven chairs, a window, a floor, a counter, a dining, a ceiling, a cabinet, and a wall.

@@ -8,3 +8,8 @@ A narrow street in a residential area.
 A quiet, tree-lined street with a car parked at the end, leading to a house with a garden.
 The image shows a narrow, tree-lined street with a car parked at the end, a fence on the left side, and a house on the right side.
 A narrow, tree-lined street with a car parked at the end, leading to a house with a brown roof.
+An image with a roof, a tree, a road, a sky, a fence, a wall, a car, and a pavement.
+An image with a fence, a wall, a sky, a car, a road, a pavement, a roof, and a tree.
+An image with a roof, a road, a tree, a fence, a wall, a pavement, a sky, and a car.
+An image with a pavement, a road, a car, a fence, a sky, a wall, a roof, and a tree.
+An image with a car, a roof, a pavement, a fence, a road, a wall, a tree, and a sky.

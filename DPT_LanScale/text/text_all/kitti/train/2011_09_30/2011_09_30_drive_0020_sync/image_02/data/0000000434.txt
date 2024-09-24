@@ -8,3 +8,8 @@ The image shows a city street with a large building in the background.
 The image captures a quiet residential street with a clear view of a large building in the background, a few parked cars, and a pedestrian crossing marked by white lines.
 The image shows a wide street with a large building on the left side, a smaller building on the right, and a clear sky above.
 The image depicts a city street with a large building on the left, a crosswalk, a traffic light, and a car parked on the right side.
+An image with a sky, a pavement, a tree, nine cars, a building, a road, and a grass.
+An image with a pavement, nine cars, a grass, a sky, a building, a tree, and a road.
+An image with a pavement, nine cars, a sky, a tree, a grass, a building, and a road.
+An image with a tree, nine cars, a grass, a sky, a building, a pavement, and a road.
+An image with a pavement, a sky, nine cars, a road, a grass, a tree, and a building.

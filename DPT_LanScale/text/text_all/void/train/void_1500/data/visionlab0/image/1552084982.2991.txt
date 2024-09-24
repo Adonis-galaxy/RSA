@@ -8,3 +8,8 @@ A man in a red hoodie is standing in an office.
 A man in a red sweater is standing in front of a whiteboard, holding a cup of coffee, with a computer desk and chair in the background.
 A man in a red hoodie is standing in an office, holding a cup, with a desk and chairs in the background.
 A man in a red hoodie is standing in an office with a desk, chairs, and a whiteboard in the background.
+An image with a table, three chairs, a floor, a window, a person, a wall, and a cup.
+An image with three chairs, a floor, a wall, a cup, a person, a window, and a table.
+An image with a table, three chairs, a cup, a wall, a window, a floor, and a person.
+An image with a table, a cup, a window, three chairs, a floor, a wall, and a person.
+An image with three chairs, a floor, a wall, a person, a window, a cup, and a table.

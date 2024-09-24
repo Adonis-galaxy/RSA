@@ -8,3 +8,8 @@ A blurry image of a desk with papers, a cup, and a computer mouse.
 A blurry image of a desk with a cup, papers, and a computer mouse.
 A blurry image of a wooden desk with a red cup, a white cup, and papers on it.
 The image shows a wooden desk with a red cup, a white cup, and some papers on it.
+An image with two cups, a keyboard, a cardboard, a floor, and a table.
+An image with a table, a keyboard, a cardboard, a floor, and two cups.
+An image with a cardboard, two cups, a table, a keyboard, and a floor.
+An image with a table, two cups, a cardboard, a floor, and a keyboard.
+An image with two cups, a floor, a table, a cardboard, and a keyboard.

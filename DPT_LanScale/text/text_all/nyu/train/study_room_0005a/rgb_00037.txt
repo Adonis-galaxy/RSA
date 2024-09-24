@@ -8,3 +8,8 @@ The image shows an office setting with a desk and chairs.
 The image captures an office setting with a desk, chairs, and a counter, illuminated by overhead lights.
 The image shows an indoor setting with a large desk and several chairs, illuminated by overhead lights.
 The image shows an office space with a long counter, several chairs, and a desk area, all under fluorescent lighting.
+An image with a ceiling, a rug, a floor, a table, a door, three chairs, a tv, and a wall.
+An image with a wall, a tv, three chairs, a rug, a door, a ceiling, a floor, and a table.
+An image with a wall, a door, three chairs, a floor, a table, a ceiling, a rug, and a tv.
+An image with a wall, a rug, a door, three chairs, a tv, a floor, a ceiling, and a table.
+An image with a tv, three chairs, a wall, a door, a ceiling, a floor, a rug, and a table.

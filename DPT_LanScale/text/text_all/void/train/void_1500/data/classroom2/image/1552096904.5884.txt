@@ -8,3 +8,8 @@ The image shows a row of black chairs with wooden desks.
 The image shows a row of black chairs with wooden desks in a classroom setting.
 The image shows a row of black chairs with wooden desks in a classroom setting.
 The image shows a row of desks with black chairs in a classroom setting.
+An image with fifteen chairs, a floor, two walls, and a table.
+An image with a table, fifteen chairs, two walls, and a floor.
+An image with a floor, fifteen chairs, two walls, and a table.
+An image with fifteen chairs, two walls, a table, and a floor.
+An image with fifteen chairs, a table, two walls, and a floor.

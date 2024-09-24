@@ -8,3 +8,8 @@ The image shows a street with parked cars and apartment buildings.
 The image captures a sunny day in a residential area, with a red car parked on the side of a street lined with trees and parked cars, and apartment buildings in the background.
 The image shows a narrow street lined with parked cars, trees, and buildings, with a red car parked on the side of the road.
 A narrow street lined with parked cars and buildings, leading to a park.
+An image with nine cars, a building, a sky, a road, a tree, a grass, and a pavement.
+An image with a sky, nine cars, a pavement, a grass, a road, a building, and a tree.
+An image with nine cars, a pavement, a tree, a road, a building, a grass, and a sky.
+An image with a pavement, nine cars, a building, a road, a grass, a sky, and a tree.
+An image with a building, a sky, nine cars, a road, a grass, a pavement, and a tree.

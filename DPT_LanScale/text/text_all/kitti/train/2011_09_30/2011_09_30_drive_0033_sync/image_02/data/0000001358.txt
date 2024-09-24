@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a few parked cars and a solitary pedestrian, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a stone wall, with a building on the left side and trees on the right.
 The image depicts a narrow street lined with parked cars, a building, and a stone wall, with trees and bushes on either side, and a clear blue sky overhead.
+An image with seven cars, a pavement, a building, a fence, a dirt, a tree, a road, a sky, a person, a grass, a truck, and a wall.
+An image with a grass, seven cars, a wall, a sky, a pavement, a dirt, a truck, a fence, a building, a person, a tree, and a road.
+An image with a building, a truck, a dirt, a grass, seven cars, a fence, a tree, a person, a road, a pavement, a wall, and a sky.
+An image with seven cars, a truck, a tree, a person, a dirt, a pavement, a wall, a fence, a road, a building, a grass, and a sky.
+An image with a person, a building, a truck, seven cars, a road, a grass, a wall, a fence, a tree, a sky, a dirt, and a pavement.

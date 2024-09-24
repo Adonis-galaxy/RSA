@@ -8,3 +8,8 @@ A black car is parked on a narrow road.
 A black SUV parked on a narrow, shaded road, surrounded by lush greenery.
 A black SUV is parked on a narrow, shaded road between two hedges.
 A black SUV is parked on a narrow, tree-lined road that leads to a house with a garage door.
+An image with a house, a car, a pavement, and a tree.
+An image with a pavement, a tree, a car, and a house.
+An image with a car, a house, a pavement, and a tree.
+An image with a tree, a car, a pavement, and a house.
+An image with a pavement, a house, a car, and a tree.

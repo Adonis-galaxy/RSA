@@ -8,3 +8,8 @@ A computer desk with multiple monitors and keyboards.
 A computer lab with multiple desks, each equipped with a computer and keyboard.
 A large computer monitor on a desk with multiple keyboards and mice.
 The image shows a computer lab with multiple desks, each equipped with a desktop computer, a keyboard, and a mouse. The desks are arranged in rows, and there are chairs placed in front of each desk. The room has a carpeted floor and a large screen displaying a desktop background.
+An image with five tvs, five keyboards, a rug, three chairs, two mice, a table, and a wall.
+An image with five tvs, a rug, five keyboards, three chairs, a wall, two mice, and a table.
+An image with a rug, five keyboards, five tvs, three chairs, a table, two mice, and a wall.
+An image with five tvs, five keyboards, three chairs, a rug, a wall, a table, and two mice.
+An image with three chairs, five tvs, five keyboards, a wall, a table, a rug, and two mice.

@@ -8,3 +8,8 @@ The image shows a room with an orange wall and a white floor.
 The image shows a narrow hallway with a white floor, an orange wall, and a white door on the right.
 The image shows a narrow hallway with a white floor, an orange wall, and a white door on the right.
 The image shows a narrow hallway with a white floor, an orange wall, and a white door on the right side.
+An image with a floor, a microwave, a wall, a refrigerator, and a cabinet.
+An image with a microwave, a floor, a cabinet, a wall, and a refrigerator.
+An image with a microwave, a floor, a refrigerator, a cabinet, and a wall.
+An image with a refrigerator, a floor, a microwave, a wall, and a cabinet.
+An image with a refrigerator, a wall, a cabinet, a floor, and a microwave.

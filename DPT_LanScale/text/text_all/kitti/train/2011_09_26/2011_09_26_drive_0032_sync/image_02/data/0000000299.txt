@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a serene, empty highway with a few cars, surrounded by lush greenery and a clear sky.
 The image shows a wide, empty highway with a few cars, a clear sky, and trees on both sides.
 The image depicts a wide, empty highway with a clear sky, lined by trees and a grassy median, with a few cars driving on the road.
+An image with three people, eight cars, a building, a tree, a sky, a road, a grass, and a pavement.
+An image with eight cars, a building, a sky, three people, a pavement, a road, a tree, and a grass.
+An image with a building, eight cars, a road, a sky, three people, a grass, a tree, and a pavement.
+An image with a building, a grass, eight cars, a sky, three people, a road, a tree, and a pavement.
+An image with eight cars, three people, a sky, a tree, a road, a grass, a pavement, and a building.

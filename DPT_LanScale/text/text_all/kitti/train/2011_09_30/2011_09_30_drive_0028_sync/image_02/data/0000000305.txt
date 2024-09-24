@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 A quiet residential street, lined with neatly trimmed hedges and houses, with a single car parked at the end.
 A narrow street between two-story buildings, lined with hedges and parked cars.
 A narrow, tree-lined street between two-story buildings, with a car parked on the right side.
+An image with five cars, a pavement, a sky, a tree, and a house.
+An image with a house, a tree, five cars, a sky, and a pavement.
+An image with five cars, a house, a sky, a tree, and a pavement.
+An image with five cars, a tree, a sky, a house, and a pavement.
+An image with five cars, a house, a tree, a pavement, and a sky.

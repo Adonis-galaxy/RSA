@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 The image captures a quiet residential street, with a clear pathway leading to a row of houses, under a bright sunny sky.
 The image shows a narrow, tree-lined street with parked cars on the side, leading to a white building with a fence in the background.
 A quiet residential street with parked cars, lined by trees and apartment buildings.
+An image with four cars, a window, a pavement, a tree, a road, a house, and a sky.
+An image with four cars, a window, a pavement, a tree, a road, a sky, and a house.
+An image with four cars, a house, a tree, a pavement, a window, a road, and a sky.
+An image with a sky, a window, four cars, a pavement, a road, a tree, and a house.
+An image with a house, a road, four cars, a pavement, a sky, a window, and a tree.

@@ -8,3 +8,8 @@ The image shows a city street with a train track running down the middle.
 The image captures a bustling city street, with a focus on the vibrant life and activity along the sidewalk, where people are walking, biking, and shopping, while the street itself is lined with lush greenery and colorful flowers, creating a harmonious blend of urban life and nature.
 A narrow street with buildings on both sides, a bicycle rider, a person walking, a trash can, and a potted plant.
 A narrow, cobblestone street with buildings on both sides, a bike lane, and a few pedestrians.
+An image with six people, a pavement, a building, a tree, a railroad, a potted, and two bicycles.
+An image with a pavement, six people, a building, a railroad, two bicycles, a tree, and a potted.
+An image with a pavement, a building, six people, two bicycles, a potted, a railroad, and a tree.
+An image with a building, a potted, a pavement, a railroad, two bicycles, six people, and a tree.
+An image with a pavement, six people, a tree, a potted, a railroad, two bicycles, and a building.

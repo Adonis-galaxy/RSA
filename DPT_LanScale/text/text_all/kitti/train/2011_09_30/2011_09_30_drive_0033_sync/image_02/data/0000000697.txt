@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street scene with a few cars parked along the curb, a red car driving down the road, and a white house with a chimney in the background.
 The image shows a narrow street with two cars, one larger and one smaller, parked on the side. The larger car is red and the smaller car is green. There are houses on both sides of the street, and the sky is clear.
 A red car is driving down a curvy street in a residential area, with other cars parked or moving along the road, and houses and trees lining the street.
+An image with four cars, a tree, a road, a house, a truck, a sky, a person, and a pavement.
+An image with a sky, a person, a tree, four cars, a truck, a road, a house, and a pavement.
+An image with a sky, four cars, a person, a pavement, a house, a truck, a tree, and a road.
+An image with a person, four cars, a sky, a road, a truck, a tree, a house, and a pavement.
+An image with a pavement, four cars, a house, a road, a tree, a truck, a person, and a sky.

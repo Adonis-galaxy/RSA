@@ -8,3 +8,8 @@ A white printer on a desk.
 A white printer on a beige counter.
 A white printer sits on a beige counter, with a yellow paper attached to it.
 The image shows a white printer on top of a beige desk, with a blue cord plugged into it.
+An image with a tv, a wall, a scissors, a floor, a table, and a paper.
+An image with a paper, a wall, a scissors, a tv, a floor, and a table.
+An image with a wall, a floor, a tv, a scissors, a paper, and a table.
+An image with a wall, a table, a floor, a tv, a paper, and a scissors.
+An image with a wall, a table, a tv, a scissors, a paper, and a floor.

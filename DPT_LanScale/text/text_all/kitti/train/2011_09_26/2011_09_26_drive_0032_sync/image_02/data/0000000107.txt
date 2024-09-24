@@ -8,3 +8,8 @@ The image shows a highway with a yellow sign on the side.
 The image captures a scene of a highway with multiple lanes, a clear sky, and a sign indicating the direction of a nearby town.
 The image shows a wide, multi-lane road with a yellow sign indicating directions to Weibergen and Knielingen, and a smaller sign with a red and white striped pole.
 The image shows a highway with multiple lanes, a median, and a sign indicating the direction of a nearby town.
+An image with seven cars, a fence, a tree, a sky, a person, a grass, a road, and a pavement.
+An image with a fence, seven cars, a grass, a person, a tree, a sky, a road, and a pavement.
+An image with a person, seven cars, a pavement, a road, a sky, a fence, a tree, and a grass.
+An image with a grass, seven cars, a road, a fence, a tree, a sky, a person, and a pavement.
+An image with a sky, a grass, seven cars, a person, a pavement, a road, a tree, and a fence.

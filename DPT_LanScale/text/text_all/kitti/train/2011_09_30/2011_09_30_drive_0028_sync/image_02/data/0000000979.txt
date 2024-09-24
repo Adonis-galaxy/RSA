@@ -8,3 +8,8 @@ A car on a street.
 A car is driving on a curvy road through a forested area, with a blue sign indicating a nearby park or recreational area.
 A car is driving on a curvy road in a forested area, with a stop sign visible in the background.
 A car is driving on a curved road with trees and signs, and the sun is shining.
+An image with a sky, a tree, two cars, a grass, a pavement, a road, and a stop.
+An image with a road, a stop, a grass, a sky, a tree, a pavement, and two cars.
+An image with a stop, a road, a grass, two cars, a tree, a sky, and a pavement.
+An image with a stop, two cars, a grass, a road, a sky, a tree, and a pavement.
+An image with a road, a grass, a tree, two cars, a pavement, a sky, and a stop.

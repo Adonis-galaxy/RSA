@@ -8,3 +8,8 @@ A soccer ball in a cardboard box.
 A soccer ball in a cardboard box on a desk.
 A large cardboard box with a soccer ball on top, sitting on a desk in an office.
 A box with a soccer ball on top sits on a desk in an office with multiple chairs and desks.
+An image with a wall, three chairs, a window, a rug, two keyboards, a sports, a tv, a table, and a cardboard.
+An image with a tv, a rug, two keyboards, a window, three chairs, a table, a wall, a sports, and a cardboard.
+An image with two keyboards, a rug, three chairs, a table, a window, a sports, a cardboard, a wall, and a tv.
+An image with a table, three chairs, a sports, a rug, a wall, two keyboards, a window, a cardboard, and a tv.
+An image with a cardboard, three chairs, a wall, a rug, a window, a tv, two keyboards, a sports, and a table.

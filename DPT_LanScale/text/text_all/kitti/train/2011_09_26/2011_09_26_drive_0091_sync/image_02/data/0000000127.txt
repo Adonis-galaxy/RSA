@@ -8,3 +8,8 @@ The image shows a city street with a train track running down the middle.
 A woman walks down a narrow, cobblestone street between buildings, with a bicycle rider following behind, and a white van parked nearby.
 A woman walks on a cobblestone street between two parallel train tracks, with a white van parked on the left and a building with a blue sign on the right.
 A narrow, cobblestone street with a tram track, lined by buildings and potted plants, leads to a commercial area with shops and a bicycle rider.
+An image with four people, a stop, a pavement, a truck, six potteds, a dining, a railroad, a chair, a sky, a bicycle, and a building.
+An image with a dining, four people, six potteds, a bicycle, a building, a sky, a pavement, a stop, a chair, a truck, and a railroad.
+An image with four people, six potteds, a dining, a railroad, a truck, a stop, a sky, a bicycle, a chair, a pavement, and a building.
+An image with a sky, six potteds, four people, a pavement, a dining, a stop, a truck, a bicycle, a building, a chair, and a railroad.
+An image with a bicycle, a truck, six potteds, a railroad, four people, a pavement, a building, a sky, a stop, a dining, and a chair.

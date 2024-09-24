@@ -8,3 +8,8 @@ A roll of paper leaning against a box.
 A roll of paper leaning against a box with a caution label.
 A large roll of paper leaning against a cardboard box in a room with a checkered patterned wall.
 A roll of paper leaning against a cardboard box with a caution label on a white wall.
+An image with a wall, a door, a cardboard, and a paper.
+An image with a wall, a paper, a door, and a cardboard.
+An image with a paper, a wall, a door, and a cardboard.
+An image with a wall, a cardboard, a door, and a paper.
+An image with a cardboard, a paper, a wall, and a door.

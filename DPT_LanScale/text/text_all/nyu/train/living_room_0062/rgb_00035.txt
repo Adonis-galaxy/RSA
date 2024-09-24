@@ -8,3 +8,8 @@ A white piano in a living room.
 A cozy living room with a piano, a potted plant, a small table, and a red armchair.
 A small white piano is situated in a corner of a room, next to a potted plant and a white stool.
 A cozy living room with a piano, a red chair, a white table, a potted plant, and a bookshelf.
+An image with twelve books, a floor, two potteds, a wall, a cabinet, a table, a couch, and a curtain.
+An image with a wall, twelve books, a cabinet, two potteds, a table, a floor, a couch, and a curtain.
+An image with twelve books, a curtain, a wall, a table, a cabinet, two potteds, a couch, and a floor.
+An image with twelve books, a table, two potteds, a curtain, a couch, a cabinet, a wall, and a floor.
+An image with twelve books, a curtain, two potteds, a floor, a cabinet, a couch, a wall, and a table.

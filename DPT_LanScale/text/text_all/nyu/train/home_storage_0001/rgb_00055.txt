@@ -8,3 +8,8 @@ A room with boxes and bags.
 The image captures a cluttered room with a door, a pile of boxes, a bag, and a chair, all in a state of disarray.
 A small room with a door, a pile of boxes, a bag, and a chair.
 A cluttered room with a door, boxes, and a chair.
+An image with a chair, a shelf, two books, a rug, a wall, a handbag, a cardboard, and a door.
+An image with a door, a shelf, a wall, a chair, two books, a rug, a cardboard, and a handbag.
+An image with a handbag, a rug, a shelf, a chair, a wall, two books, a door, and a cardboard.
+An image with two books, a rug, a wall, a handbag, a shelf, a chair, a door, and a cardboard.
+An image with a shelf, a wall, a rug, two books, a handbag, a door, a chair, and a cardboard.

@@ -8,3 +8,8 @@ The image shows a street scene with a train track running down the middle.
 The image captures a bustling city street, with pedestrians walking along a sidewalk adjacent to a tram track, creating a lively urban atmosphere.
 The image depicts a narrow street lined with buildings, where people are walking on the sidewalk, and there are two train tracks running down the middle of the street.
 A narrow street with a curved layout, lined with buildings and pedestrians, leading to a restaurant.
+An image with a tree, thirteen people, a pavement, a railroad, a building, a sky, and a handbag.
+An image with thirteen people, a pavement, a railroad, a tree, a sky, a handbag, and a building.
+An image with thirteen people, a railroad, a pavement, a building, a sky, a tree, and a handbag.
+An image with a building, a tree, thirteen people, a handbag, a sky, a railroad, and a pavement.
+An image with thirteen people, a building, a railroad, a pavement, a handbag, a tree, and a sky.

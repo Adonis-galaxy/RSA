@@ -8,3 +8,8 @@ A desk with a lamp and a blue chair.
 A cluttered workspace with a blue chair, a wooden desk, a lamp, a window, and various items on the desk.
 A small room with a desk, chair, lamp, and a window with blinds.
 A small, cluttered office space with a desk, chair, lamp, and various items on the desk.
+An image with four books, a cup, a light, two chairs, a table, a rug, a wall, a window, and a bottle.
+An image with four books, a wall, a window, a light, two chairs, a cup, a rug, a bottle, and a table.
+An image with two chairs, a wall, four books, a bottle, a light, a table, a rug, a window, and a cup.
+An image with a light, two chairs, a rug, four books, a cup, a window, a bottle, a table, and a wall.
+An image with a bottle, two chairs, a light, four books, a window, a rug, a cup, a table, and a wall.

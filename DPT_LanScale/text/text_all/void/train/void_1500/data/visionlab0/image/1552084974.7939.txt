@@ -8,3 +8,8 @@ A colorful hat on a blue cushion.
 A colorful hat on a blue cushion next to a wooden cabinet.
 A colorful sombrero sits on a blue cushion next to a wooden cabinet with a silver handle.
 The image shows a cluttered office space with a desk, a chair, a trash can, a hat, and a cardboard box.
+An image with a cabinet, a floor, a wall, a refrigerator, a tv, a chair, a cardboard, and a paper.
+An image with a cabinet, a refrigerator, a cardboard, a wall, a paper, a tv, a floor, and a chair.
+An image with a tv, a cabinet, a wall, a paper, a chair, a refrigerator, a floor, and a cardboard.
+An image with a chair, a cabinet, a wall, a paper, a cardboard, a refrigerator, a floor, and a tv.
+An image with a floor, a paper, a cardboard, a tv, a chair, a wall, a refrigerator, and a cabinet.

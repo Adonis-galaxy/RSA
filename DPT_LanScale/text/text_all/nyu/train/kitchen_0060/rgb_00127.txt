@@ -8,3 +8,8 @@ A man standing in a kitchen.
 A man in a kitchen, looking at a stove with a microwave above it, and a counter with a toothbrush on it.
 A man stands in a kitchen, smiling, with a large stove and a white countertop.
 A man stands in a kitchen with a white countertop, black stove, and wooden cabinets, observing the layout and appliances.
+An image with a oven, a cabinet, a counter, a floor, a wall, and a person.
+An image with a wall, a person, a counter, a oven, a cabinet, and a floor.
+An image with a oven, a counter, a person, a cabinet, a wall, and a floor.
+An image with a floor, a person, a counter, a cabinet, a wall, and a oven.
+An image with a person, a wall, a floor, a cabinet, a counter, and a oven.

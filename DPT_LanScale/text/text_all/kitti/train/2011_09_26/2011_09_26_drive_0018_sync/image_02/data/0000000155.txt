@@ -8,3 +8,8 @@ The image shows a wide street with multiple lanes and traffic lights.
 The image captures a wide, multi-lane road with traffic lights and signs, leading to a clear blue sky, surrounded by trees and buildings.
 The image shows a wide, multi-lane road with traffic lights, street signs, and vehicles, all captured in a fisheye lens effect.
 The image depicts a wide, multi-lane road with multiple traffic lights and signs, leading to a clear blue sky.
+An image with a tree, two traffics, a bus, two cars, a pavement, a truck, and a road.
+An image with a pavement, a tree, two cars, a bus, a truck, two traffics, and a road.
+An image with a pavement, a truck, two traffics, two cars, a road, a bus, and a tree.
+An image with a pavement, two cars, a truck, a road, a tree, a bus, and two traffics.
+An image with two cars, a tree, two traffics, a pavement, a truck, a road, and a bus.

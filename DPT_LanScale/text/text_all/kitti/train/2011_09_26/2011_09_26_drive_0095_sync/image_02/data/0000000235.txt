@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A sunny day in a residential area, with people riding bicycles on a quiet street lined with parked cars and houses.
 A narrow street in a residential area with parked cars, a few pedestrians, and two bicycles.
 A sunny day in a residential area with two people riding bicycles on a quiet street lined with parked cars and houses.
+An image with two bicycles, nine cars, a stairs, a pavement, a tree, a road, a truck, a grass, a sky, two people, and a house.
+An image with nine cars, a sky, a truck, a pavement, a house, two bicycles, a tree, a stairs, two people, a grass, and a road.
+An image with a house, nine cars, a sky, two people, two bicycles, a tree, a pavement, a road, a stairs, a truck, and a grass.
+An image with nine cars, a road, a tree, a pavement, two bicycles, two people, a sky, a grass, a house, a truck, and a stairs.
+An image with nine cars, a road, two bicycles, a tree, a stairs, a house, a grass, a truck, a sky, a pavement, and two people.

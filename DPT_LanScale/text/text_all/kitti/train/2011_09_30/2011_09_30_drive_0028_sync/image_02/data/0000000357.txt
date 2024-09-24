@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a quiet, tree-lined street in a residential area, with parked cars and a clear sky overhead.
 The image shows a narrow street between two buildings, with parked cars, a truck, and a fire hydrant visible.
 The image depicts a narrow street between two-story buildings, with parked cars, a truck, and a fire hydrant visible.
+An image with five cars, a person, a house, a tree, a pavement, a fence, a truck, and a road.
+An image with a fence, five cars, a road, a pavement, a person, a tree, a truck, and a house.
+An image with a pavement, a tree, a house, five cars, a fence, a person, a truck, and a road.
+An image with a house, five cars, a truck, a tree, a fence, a person, a road, and a pavement.
+An image with five cars, a pavement, a fence, a house, a tree, a truck, a road, and a person.

@@ -8,3 +8,8 @@ The image shows a street scene with a car and a motorcycle.
 A quiet residential street, with a parked car and a few vehicles in motion, under a clear blue sky.
 The image shows a narrow street with a car parked on the side, a sidewalk, and a row of houses with trees and bushes in front of them.
 A quiet residential street with a few parked cars, lined with trees and bushes, and a building in the background.
+An image with three cars, a wall, a road, a house, a sky, a pavement, and a tree.
+An image with a sky, three cars, a wall, a tree, a road, a pavement, and a house.
+An image with a sky, a pavement, three cars, a road, a wall, a tree, and a house.
+An image with a road, a house, three cars, a sky, a wall, a pavement, and a tree.
+An image with three cars, a house, a wall, a tree, a sky, a road, and a pavement.

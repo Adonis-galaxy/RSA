@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a staircase leading to a bridge over a road.
 A narrow alleyway between two buildings, with a staircase leading to a bridge over a road.
 A narrow, shaded alleyway between two buildings, with a staircase leading to a bridge over a road.
+An image with a pavement, a sky, a tree, a fence, a car, a person, and a house.
+An image with a person, a sky, a pavement, a house, a fence, a tree, and a car.
+An image with a tree, a fence, a sky, a person, a pavement, a house, and a car.
+An image with a tree, a fence, a car, a house, a person, a pavement, and a sky.
+An image with a fence, a sky, a tree, a house, a pavement, a car, and a person.

@@ -8,3 +8,8 @@ A white chair with a green seat.
 A white desk with two chairs, one of which is pulled out, in an office setting.
 A white table with two chairs, one of which is partially visible, set on a gray carpeted floor.
 The image shows a white table with two chairs, one of which is partially visible, placed on a gray carpeted floor.
+An image with a wall, two chairs, a window, a rug, a dining, and a floor.
+An image with a wall, a window, two chairs, a rug, a dining, and a floor.
+An image with a rug, a window, a floor, two chairs, a wall, and a dining.
+An image with two chairs, a rug, a dining, a window, a floor, and a wall.
+An image with two chairs, a dining, a window, a wall, a rug, and a floor.

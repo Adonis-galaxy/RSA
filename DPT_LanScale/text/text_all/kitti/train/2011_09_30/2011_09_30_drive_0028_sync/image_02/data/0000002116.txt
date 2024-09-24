@@ -8,3 +8,8 @@ The image shows a quiet suburban street with parked cars and trees.
 The image captures a serene suburban street scene, with a parked car on the right side of the road, surrounded by lush greenery and a clear blue sky.
 The image shows a quiet suburban street with a few parked cars, a truck, and a bench, all under a clear blue sky.
 The image depicts a quiet residential street with a mix of trees, parked cars, and a park-like setting.
+An image with a boat, a grass, a road, three cars, a tree, a sky, and a pavement.
+An image with a pavement, a tree, three cars, a boat, a road, a sky, and a grass.
+An image with a pavement, a road, a grass, a sky, three cars, a tree, and a boat.
+An image with a tree, a road, a boat, three cars, a pavement, a sky, and a grass.
+An image with three cars, a road, a pavement, a grass, a boat, a sky, and a tree.

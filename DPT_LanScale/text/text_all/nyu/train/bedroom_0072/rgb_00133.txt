@@ -8,3 +8,8 @@ A view of a room.
 The image captures a simple, uncluttered bedroom scene with a focus on a wooden dresser and a doorway leading to another room.
 The image shows a small room with a wooden dresser, a door, and a bottle on top of the dresser.
 The image shows a bedroom with a wooden dresser, a doorway leading to another room, and a carpeted floor.
+An image with a floor, a bottle, a wall, a door, a cabinet, and a rug.
+An image with a cabinet, a door, a floor, a rug, a wall, and a bottle.
+An image with a bottle, a rug, a door, a floor, a cabinet, and a wall.
+An image with a bottle, a door, a floor, a wall, a rug, and a cabinet.
+An image with a door, a floor, a rug, a bottle, a wall, and a cabinet.

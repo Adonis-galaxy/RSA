@@ -8,3 +8,8 @@ The image shows a tree-lined street.
 A quiet, tree-lined street with a single car parked at the end, leading to a cul-de-sac.
 The image shows a narrow, tree-lined street with a sidewalk, a car parked on the side, and a fence on the right side.
 A quiet, tree-lined street with a sidewalk, leading to a cul-de-sac, where a car is parked, and a white wall with a gate at the end.
+An image with a pavement, a tree, a gravel, a wall, a car, a road, and a sky.
+An image with a car, a tree, a road, a wall, a pavement, a gravel, and a sky.
+An image with a gravel, a car, a wall, a pavement, a sky, a tree, and a road.
+An image with a wall, a pavement, a sky, a tree, a gravel, a road, and a car.
+An image with a pavement, a sky, a wall, a tree, a gravel, a road, and a car.

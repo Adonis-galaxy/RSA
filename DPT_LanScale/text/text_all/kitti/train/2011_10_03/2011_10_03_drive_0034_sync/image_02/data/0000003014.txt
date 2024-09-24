@@ -8,3 +8,8 @@ The image shows a black car parked on a street.
 A black car parked on a quiet residential street, with a white house and trees in the background.
 The image shows a narrow street with parked cars, a white building, and a brick wall on the left side. The street is lined with trees and bushes, and the sky is clear.
 A narrow street with parked cars, a white building, and a brick wall on the left side.
+An image with two walls, a pavement, three cars, a sky, a house, a road, and a tree.
+An image with two walls, three cars, a tree, a pavement, a road, a sky, and a house.
+An image with a road, a sky, a pavement, three cars, a tree, two walls, and a house.
+An image with three cars, a tree, two walls, a sky, a road, a pavement, and a house.
+An image with three cars, a tree, two walls, a house, a road, a sky, and a pavement.

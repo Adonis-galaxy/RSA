@@ -8,3 +8,8 @@ The image shows a carpeted floor with two office chairs and two desks.
 The image shows two desks with chairs on a gray carpet, with a round object in the center.
 The image shows two white tables with silver legs and wheels, placed on a gray carpeted floor.
 The image shows a room with two desks, each with a chair, and a round object on the floor between them.
+An image with a floor, two dinings, a door, a chair, and a wall.
+An image with two dinings, a chair, a floor, a wall, and a door.
+An image with a wall, two dinings, a floor, a chair, and a door.
+An image with a wall, a floor, two dinings, a chair, and a door.
+An image with two dinings, a chair, a wall, a door, and a floor.

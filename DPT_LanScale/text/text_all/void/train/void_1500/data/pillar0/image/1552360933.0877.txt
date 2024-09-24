@@ -8,3 +8,8 @@ A blue bucket is next to a white cylinder.
 A blue bucket is placed next to a white cylindrical object, which is situated in a corner of a room with a wooden cabinet.
 A blue bucket is placed next to a large white cylinder, which is situated in a corner next to a wooden cabinet with a silver handle.
 The image shows a wooden cabinet with a silver handle, a blue bucket, and a black bag in a room with a white cylindrical object.
+An image with a floor, a wall, a cabinet, a cardboard, and a backpack.
+An image with a cabinet, a wall, a backpack, a cardboard, and a floor.
+An image with a backpack, a floor, a wall, a cardboard, and a cabinet.
+An image with a cabinet, a backpack, a cardboard, a floor, and a wall.
+An image with a cabinet, a floor, a wall, a backpack, and a cardboard.

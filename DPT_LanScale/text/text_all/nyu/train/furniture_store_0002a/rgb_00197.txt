@@ -8,3 +8,8 @@ A woman walking in a room.
 A woman in a room with a mirror, a table, a chair, a lamp, and a white wall.
 A woman in a purple tank top walks through a spacious, well-lit living room with a large mirror, a white wall, a black chair, a white table, a white dresser, a white lamp, and a white vase.
 A woman in a purple tank top walks through a modern living room with a white wall, a round mirror, a black chair, a white table, a white dresser, a white lamp, and a white vase.
+An image with a door, a dining, three cups, a cabinet, a shelf, three chairs, a ceiling, a person, a light, a floor, a handbag, a couch, a mirror, and a wall.
+An image with three chairs, a light, a person, a cabinet, a handbag, a mirror, a wall, three cups, a floor, a dining, a couch, a door, a shelf, and a ceiling.
+An image with a dining, three chairs, three cups, a cabinet, a couch, a door, a person, a shelf, a light, a floor, a handbag, a ceiling, a mirror, and a wall.
+An image with three cups, a mirror, three chairs, a cabinet, a light, a door, a shelf, a floor, a wall, a handbag, a couch, a dining, a person, and a ceiling.
+An image with a light, a shelf, a floor, three cups, a mirror, a dining, three chairs, a cabinet, a wall, a person, a handbag, a couch, a door, and a ceiling.

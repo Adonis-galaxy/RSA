@@ -8,3 +8,8 @@ The image shows an indoor bookstore with a counter and shelves.
 The image captures a well-lit bookstore with a variety of books on shelves, a counter with a cash register, and a few customers browsing the selection.
 The image depicts a large room with a high ceiling, featuring a bookstore with a wide variety of books on shelves, a counter with a cash register, and a large display of DVDs.
 The image depicts a well-lit bookstore with a spacious layout, featuring a large bookshelf, a counter with a cash register, and a variety of books and other items on display.
+An image with three laptops, twelve books, a ceiling, a light, a mouse, a table, a wall, a floor, a tv, and a shelf.
+An image with a ceiling, three laptops, a wall, twelve books, a floor, a light, a table, a shelf, a mouse, and a tv.
+An image with twelve books, a floor, a wall, a shelf, a ceiling, a tv, three laptops, a light, a mouse, and a table.
+An image with three laptops, a table, a shelf, twelve books, a ceiling, a light, a wall, a tv, a mouse, and a floor.
+An image with twelve books, a tv, a table, a mouse, a shelf, a ceiling, three laptops, a floor, a light, and a wall.

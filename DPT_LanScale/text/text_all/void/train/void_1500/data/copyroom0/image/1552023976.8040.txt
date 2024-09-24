@@ -8,3 +8,8 @@ The image shows a blurry office setting with a printer, a computer monitor, and 
 The image shows a small office space with a desk, a printer, and a cabinet.
 The image shows a small office space with a desk, a printer, and a computer monitor.
 The image shows a small office space with a desk, a printer, and a cabinet.
+An image with a door, a wall, a table, a scissors, a book, a toaster, and a cabinet.
+An image with a door, a scissors, a wall, a book, a toaster, a table, and a cabinet.
+An image with a door, a toaster, a cabinet, a scissors, a table, a book, and a wall.
+An image with a book, a scissors, a table, a door, a cabinet, a toaster, and a wall.
+An image with a wall, a book, a cabinet, a scissors, a door, a toaster, and a table.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a clear sky.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear path leading to a white house.
 The image shows a street with parked cars on the side, a few moving cars, and trees lining the road. The sky is clear and blue, suggesting it's a sunny day.
 A tree-lined street with parked cars and a clear sky.
+An image with a house, eight cars, a tree, a truck, a pavement, a sky, and a road.
+An image with eight cars, a pavement, a tree, a road, a truck, a sky, and a house.
+An image with eight cars, a truck, a sky, a tree, a road, a house, and a pavement.
+An image with eight cars, a road, a truck, a sky, a tree, a pavement, and a house.
+An image with a house, eight cars, a road, a sky, a truck, a pavement, and a tree.

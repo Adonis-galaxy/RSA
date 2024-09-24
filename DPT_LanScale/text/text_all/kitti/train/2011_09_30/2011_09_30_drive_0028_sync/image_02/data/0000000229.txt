@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white van.
 The image captures a typical day in a European city, with a mix of cars, a white van, and a few pedestrians navigating the narrow streets between tall buildings.
 A narrow street in a residential area with parked cars and a large white van.
 A narrow street in a residential area with parked cars and a white van.
+An image with a tree, nine cars, a road, a pavement, a bus, a stop, a window, a wall, a sky, a house, and a person.
+An image with a road, a tree, nine cars, a bus, a pavement, a house, a sky, a window, a stop, a wall, and a person.
+An image with a bus, nine cars, a sky, a house, a pavement, a wall, a window, a road, a stop, a tree, and a person.
+An image with a stop, a person, nine cars, a sky, a wall, a road, a tree, a house, a bus, a pavement, and a window.
+An image with nine cars, a road, a window, a person, a wall, a bus, a tree, a house, a pavement, a sky, and a stop.

@@ -8,3 +8,8 @@ A large room with a green wall, a desk, a chair, a filing cabinet, a refrigerato
 The image shows an office space with a desk, a filing cabinet, and a refrigerator.
 The image shows a small office with a desk, a chair, a filing cabinet, a refrigerator, and a blue line on the floor.
 The image shows an office space with a desk, a filing cabinet, a refrigerator, and a bulletin board on the wall.
+An image with a paper, a floor, two refrigerators, four chairs, a shelf, a person, a dining, a wall, and a cabinet.
+An image with a paper, four chairs, a shelf, a floor, a person, a cabinet, a wall, two refrigerators, and a dining.
+An image with a paper, a dining, four chairs, a person, a shelf, a wall, a cabinet, two refrigerators, and a floor.
+An image with four chairs, a shelf, a floor, a dining, a paper, two refrigerators, a person, a wall, and a cabinet.
+An image with two refrigerators, a person, four chairs, a dining, a shelf, a paper, a wall, a floor, and a cabinet.

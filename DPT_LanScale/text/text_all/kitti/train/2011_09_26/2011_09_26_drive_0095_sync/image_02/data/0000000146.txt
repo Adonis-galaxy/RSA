@@ -8,3 +8,8 @@ A man walking down a street.
 The image captures a quiet, tree-lined street in a residential area, with a man walking on the sidewalk and a few cars parked along the road.
 A man is walking down a narrow street between two-story buildings, with parked cars and a person in the background.
 A narrow, cobblestone street in a European city, lined with tall buildings, parked cars, and pedestrians.
+An image with a building, a pavement, four cars, a tree, a road, a handbag, a person, and a sky.
+An image with four cars, a road, a person, a handbag, a tree, a sky, a building, and a pavement.
+An image with four cars, a road, a building, a pavement, a handbag, a person, a tree, and a sky.
+An image with four cars, a sky, a pavement, a road, a handbag, a building, a tree, and a person.
+An image with a sky, a tree, four cars, a person, a road, a building, a pavement, and a handbag.

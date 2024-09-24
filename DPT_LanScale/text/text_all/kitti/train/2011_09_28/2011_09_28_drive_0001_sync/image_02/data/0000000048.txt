@@ -8,3 +8,8 @@ The image shows a street scene with cars, a traffic light, and pedestrians.
 The image captures a moment of urban life, featuring a street corner with a traffic light, a pedestrian crossing, a parked car, and a person walking, all set against the backdrop of a building and trees.
 The image shows a street scene with a large SUV, a smaller car, a traffic light, a pedestrian, and a building in the background.
 The image depicts a busy street intersection with multiple lanes, traffic lights, and pedestrians, set against a backdrop of trees and buildings.
+An image with two stops, four cars, two people, a building, a sky, a tree, a traffic, and a road.
+An image with two people, four cars, two stops, a road, a traffic, a building, a sky, and a tree.
+An image with two people, a building, four cars, two stops, a sky, a road, a traffic, and a tree.
+An image with a building, two people, four cars, a sky, a road, a tree, a traffic, and two stops.
+An image with a sky, two stops, a building, a traffic, four cars, a road, a tree, and two people.

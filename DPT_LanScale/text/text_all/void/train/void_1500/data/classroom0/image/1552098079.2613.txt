@@ -8,3 +8,8 @@ A row of empty seats in a movie theater.
 A row of empty seats in a movie theater.
 The image shows a row of empty brown chairs on a tiled floor, with a green cabinet and a white sink in the background.
 The image shows a row of empty seats in a theater, with a green box and a white wall in the background.
+An image with a refrigerator, two walls, seven chairs, and a floor.
+An image with seven chairs, two walls, a refrigerator, and a floor.
+An image with two walls, seven chairs, a refrigerator, and a floor.
+An image with two walls, seven chairs, a floor, and a refrigerator.
+An image with a refrigerator, two walls, seven chairs, and a floor.

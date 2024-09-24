@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 The image captures a quiet residential street, with a yellow car parked on the side of the road, a stone wall lining the street, and a solitary street lamp standing sentinel at the corner.
 The image shows a narrow street lined with houses, a yellow car parked on the side, a trash can, a street sign, and a tree.
 A narrow street with a curved corner, lined by brick walls and houses, leads to a yellow car parked on the side.
+An image with a tree, a sky, a car, a wall, a road, a pavement, a house, and a roof.
+An image with a car, a road, a tree, a pavement, a sky, a wall, a roof, and a house.
+An image with a tree, a wall, a sky, a pavement, a car, a road, a house, and a roof.
+An image with a pavement, a road, a car, a house, a tree, a sky, a roof, and a wall.
+An image with a house, a sky, a roof, a wall, a tree, a pavement, a road, and a car.

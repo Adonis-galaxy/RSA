@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, trees, and buildings.
 The image captures a quiet residential street, with a clear view of the road, sidewalk, and houses, under a bright blue sky.
 The image shows a residential street with houses, trees, and vehicles, captured from a distance with a wide-angle lens, emphasizing the perspective of the road and the surrounding environment.
 The image depicts a quiet residential street with a curved road, lined with trees and parked vehicles, leading to a cul-de-sac.
+An image with three trucks, a tree, three cars, a road, a pavement, a grass, and a house.
+An image with three trucks, a grass, three cars, a tree, a road, a house, and a pavement.
+An image with three trucks, a grass, a pavement, three cars, a road, a tree, and a house.
+An image with three cars, three trucks, a tree, a grass, a road, a house, and a pavement.
+An image with three cars, a road, three trucks, a house, a grass, a tree, and a pavement.

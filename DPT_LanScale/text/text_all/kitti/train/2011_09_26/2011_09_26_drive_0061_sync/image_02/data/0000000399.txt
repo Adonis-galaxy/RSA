@@ -8,3 +8,8 @@ A car on a street.
 A white car parked on a narrow street between tall buildings, with a person visible in the driver's seat.
 A white car is parked on the side of a narrow street lined with trees and buildings.
 A narrow, tree-lined street with parked cars and a white building on the right side.
+An image with three cars, a sky, two walls, a door, a grass, a road, a person, a pavement, and a tree.
+An image with a sky, a person, a door, three cars, two walls, a grass, a road, a tree, and a pavement.
+An image with a sky, three cars, two walls, a person, a door, a pavement, a road, a grass, and a tree.
+An image with two walls, a pavement, a person, a tree, a door, three cars, a road, a grass, and a sky.
+An image with three cars, a door, two walls, a sky, a tree, a pavement, a grass, a road, and a person.

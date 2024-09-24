@@ -8,3 +8,8 @@ A computer desk with a chair and a box on it.
 A computer desk with a chair, a computer monitor, a keyboard, a mouse, a black computer tower, a blue drawer, a pair of shoes, and a cardboard box.
 A computer desk with a chair, a computer monitor, a keyboard, a mouse, a black computer tower, a blue drawer, a pair of sneakers, and a cardboard box.
 A computer desk with a chair, a filing cabinet, a computer monitor, and a pair of shoes on the floor.
+An image with two tvs, a chair, a cardboard, a table, a window, a floor, a wall, and a cabinet.
+An image with a cardboard, a floor, a window, two tvs, a table, a chair, a cabinet, and a wall.
+An image with a wall, a window, a table, two tvs, a cardboard, a chair, a cabinet, and a floor.
+An image with a cabinet, a window, a floor, two tvs, a table, a cardboard, a wall, and a chair.
+An image with a floor, two tvs, a cardboard, a wall, a table, a cabinet, a window, and a chair.

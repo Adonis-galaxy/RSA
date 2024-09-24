@@ -8,3 +8,8 @@ A room with two beds and a chair.
 The image shows a room with two beds, one of which has a chair placed in front of it.
 The image shows a small room with two beds, a chair, and a window with blinds.
 The image shows a room with two beds, one of which has a chair placed in front of it.
+An image with a window, a chair, a wall, two beds, a cup, and a floor.
+An image with a chair, a wall, a window, two beds, a floor, and a cup.
+An image with two beds, a cup, a chair, a wall, a window, and a floor.
+An image with a floor, a window, a cup, two beds, a wall, and a chair.
+An image with a cup, two beds, a floor, a wall, a chair, and a window.

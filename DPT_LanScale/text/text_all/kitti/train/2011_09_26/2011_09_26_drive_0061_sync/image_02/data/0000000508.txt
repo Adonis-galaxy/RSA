@@ -8,3 +8,8 @@ A narrow, tree-lined road.
 A narrow, tree-lined road leads to a secluded driveway, with a car parked at the end, and a gate on the right side.
 A narrow, tree-lined road with a car parked at the end, leading to a gate and a brick wall.
 A narrow, tree-lined road leads to a gate at the end, with a car parked on the side.
+An image with a sky, a wall, a pavement, a car, a fence, a tree, and a road.
+An image with a sky, a pavement, a road, a car, a wall, a fence, and a tree.
+An image with a wall, a sky, a car, a tree, a fence, a road, and a pavement.
+An image with a pavement, a car, a wall, a road, a fence, a sky, and a tree.
+An image with a sky, a fence, a pavement, a road, a car, a tree, and a wall.

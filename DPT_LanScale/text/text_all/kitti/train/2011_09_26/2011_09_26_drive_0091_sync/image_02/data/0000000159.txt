@@ -8,3 +8,8 @@ A narrow city street.
 The image captures a narrow, cobblestone street in a European city, with a bicycle rider navigating through the urban landscape, passing by shops and pedestrians, under a clear sky.
 A narrow street between buildings, with a bicycle rider, a traffic light, a pedestrian, a potted plant, and a street sign.
 A narrow, cobblestone street with buildings on both sides, a traffic light, a pedestrian crossing, and a bicycle rider.
+An image with a railroad, eight people, three bicycles, a flower, a tree, a sky, a building, a pavement, and a traffic.
+An image with a pavement, eight people, a sky, three bicycles, a flower, a tree, a railroad, a building, and a traffic.
+An image with eight people, a tree, three bicycles, a flower, a pavement, a railroad, a traffic, a sky, and a building.
+An image with a traffic, a flower, eight people, three bicycles, a tree, a building, a pavement, a railroad, and a sky.
+An image with eight people, a traffic, a building, a pavement, three bicycles, a railroad, a flower, a sky, and a tree.

@@ -8,3 +8,8 @@ A room with a green wall and a white ceiling.
 The image shows a room with a green wall, a desk with a chair, a refrigerator, and a shelf with papers and books.
 The image shows a room with a large white refrigerator, a small table with a chair, a desk with a computer monitor, and a bulletin board with papers on it. The room has green walls and is illuminated by fluorescent lights.
 The image shows a room with a green wall, a desk with a chair, a refrigerator, and a shelf with papers and binders.
+An image with a refrigerator, four chairs, two people, a floor, a wall, a dining, a ceiling, a light, and a shelf.
+An image with a dining, four chairs, a light, a shelf, a wall, two people, a floor, a ceiling, and a refrigerator.
+An image with four chairs, a shelf, a floor, a wall, a dining, two people, a refrigerator, a light, and a ceiling.
+An image with four chairs, a ceiling, a light, a shelf, a wall, a dining, a refrigerator, two people, and a floor.
+An image with a shelf, a ceiling, four chairs, a dining, two people, a wall, a light, a floor, and a refrigerator.

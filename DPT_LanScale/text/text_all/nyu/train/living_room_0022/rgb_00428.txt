@@ -8,3 +8,8 @@ A woman sitting at a table in a room with a man standing.
 A woman sits at a table with a man standing nearby, both in a room with a dining table and chairs, a vase with flowers, and a window.
 A woman sits at a table with a vase of flowers, while a man stands nearby, holding a tray.
 A woman sits at a table with a vase of flowers, while a man stands in the background, both in a room with a dining table and chairs, a window, and a white wall.
+An image with eight chairs, two people, a window, a vase, a handbag, a floor, two dinings, a ceiling, a potted, and a wall.
+An image with a vase, a floor, eight chairs, two people, a potted, two dinings, a ceiling, a window, a wall, and a handbag.
+An image with a potted, eight chairs, a handbag, two people, two dinings, a ceiling, a vase, a wall, a window, and a floor.
+An image with two dinings, a floor, two people, eight chairs, a potted, a ceiling, a window, a wall, a vase, and a handbag.
+An image with a wall, eight chairs, two people, a floor, two dinings, a potted, a window, a ceiling, a handbag, and a vase.

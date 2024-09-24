@@ -8,3 +8,8 @@ The image shows a wide street with white arrows painted on it, indicating direct
 The image captures a wide, tree-lined street with clear lane markings, leading towards a building in the distance.
 The image shows a wide, tree-lined street with a large building on the left side, a few cars parked along the side, and a clear sky overhead.
 The image shows a wide, tree-lined street with multiple lanes and clear markings for traffic flow.
+An image with seven cars, a building, a tree, a grass, a sky, a road, and a traffic.
+An image with a sky, seven cars, a building, a traffic, a grass, a tree, and a road.
+An image with a sky, a road, seven cars, a grass, a traffic, a building, and a tree.
+An image with a traffic, a sky, seven cars, a building, a tree, a grass, and a road.
+An image with a tree, seven cars, a building, a traffic, a sky, a road, and a grass.

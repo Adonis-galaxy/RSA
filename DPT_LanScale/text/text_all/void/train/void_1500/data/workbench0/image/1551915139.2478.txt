@@ -8,3 +8,8 @@ A blurry image of a desk with a computer monitor and keyboard.
 The image shows a cluttered office space with a desk, a computer monitor, and various other items.
 The image shows a blurry office setting with a desk, a computer monitor, and a keyboard.
 The image shows a blurry office environment with a desk, a computer monitor, and various office items.
+An image with a door, a floor, a dining, a wall, two tvs, two chairs, a table, a cardboard, and a cell.
+An image with a dining, two tvs, a wall, a door, a table, a cell, two chairs, a floor, and a cardboard.
+An image with a table, two tvs, two chairs, a cell, a cardboard, a dining, a door, a floor, and a wall.
+An image with a cardboard, a floor, two chairs, a door, a cell, a wall, a dining, two tvs, and a table.
+An image with a cardboard, two chairs, a dining, a floor, a door, a wall, a table, two tvs, and a cell.

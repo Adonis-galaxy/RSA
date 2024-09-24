@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer monitor on a desk with a straw hat on it.
 A computer monitor on a desk with a keyboard and a straw hat.
 A computer monitor and keyboard on a desk with a straw hat on it.
+An image with a keyboard, a mouse, a light, a table, a cabinet, a book, a tv, and a wall.
+An image with a light, a tv, a mouse, a book, a table, a wall, a keyboard, and a cabinet.
+An image with a light, a tv, a book, a table, a mouse, a keyboard, a cabinet, and a wall.
+An image with a table, a book, a wall, a tv, a cabinet, a mouse, a keyboard, and a light.
+An image with a table, a cabinet, a light, a book, a mouse, a wall, a keyboard, and a tv.

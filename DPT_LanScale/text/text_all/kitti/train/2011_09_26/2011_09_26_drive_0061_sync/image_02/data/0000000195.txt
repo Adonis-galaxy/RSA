@@ -8,3 +8,8 @@ The image shows a street with parked cars and a house in the background.
 The image captures a serene residential street, where parked cars are neatly lined up along the sidewalk, leading to a quaint red-roofed house nestled amidst lush greenery.
 The image shows a narrow street lined with parked cars, a building with a red roof, and trees, with the perspective taken from the sidewalk.
 A narrow street lined with parked cars and houses, leading to a red-roofed building at the end.
+An image with a wall, a road, six cars, a sky, a house, and a tree.
+An image with a wall, a tree, a sky, six cars, a house, and a road.
+An image with a road, six cars, a tree, a sky, a wall, and a house.
+An image with six cars, a house, a wall, a sky, a road, and a tree.
+An image with a sky, a wall, six cars, a road, a tree, and a house.

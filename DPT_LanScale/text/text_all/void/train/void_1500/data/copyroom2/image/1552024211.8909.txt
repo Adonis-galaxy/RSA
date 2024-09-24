@@ -8,3 +8,8 @@ The image shows a white printer in a room with green walls.
 The image shows a white printer in a room with green walls, and a brown cardboard box is in the foreground.
 The image shows a small white printer in a room with green walls, and a brown cardboard box is in the foreground.
 The image shows a room with a green wall, a white printer, and a brown cardboard box.
+An image with a ceiling, a wall, a paper, a chair, a floor, and a light.
+An image with a paper, a wall, a chair, a light, a floor, and a ceiling.
+An image with a floor, a chair, a paper, a ceiling, a light, and a wall.
+An image with a light, a ceiling, a paper, a wall, a floor, and a chair.
+An image with a chair, a light, a wall, a paper, a ceiling, and a floor.

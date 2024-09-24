@@ -8,3 +8,8 @@ A black backpack on a gray couch.
 A black backpack is placed on a gray couch, next to a colorful sombrero and a magazine.
 A black backpack is sitting on a gray couch, next to a colorful sombrero and a magazine.
 A black backpack is placed on a gray couch, with a colorful sombrero and a magazine on top of it.
+An image with a backpack, a chair, a floor, a window, a wall, a couch, a cabinet, and a book.
+An image with a floor, a window, a book, a wall, a chair, a cabinet, a backpack, and a couch.
+An image with a floor, a chair, a book, a cabinet, a backpack, a window, a couch, and a wall.
+An image with a book, a chair, a wall, a backpack, a floor, a cabinet, a window, and a couch.
+An image with a floor, a book, a wall, a window, a cabinet, a backpack, a couch, and a chair.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A man walking on a sidewalk next to a street with parked cars and buildings.
 A man is walking down a narrow street between two-story buildings, with parked cars and a white car driving down the road.
 A narrow, tree-lined street in a European city, with tall buildings on both sides, leads to a pedestrian walkway.
+An image with two people, a building, four cars, a road, a stop, a sky, a handbag, a pavement, and a tree.
+An image with four cars, a handbag, two people, a stop, a pavement, a sky, a building, a road, and a tree.
+An image with a road, four cars, two people, a pavement, a handbag, a stop, a sky, a tree, and a building.
+An image with four cars, a tree, a handbag, a building, a stop, a road, a pavement, two people, and a sky.
+An image with four cars, a road, a building, a sky, two people, a stop, a handbag, a pavement, and a tree.

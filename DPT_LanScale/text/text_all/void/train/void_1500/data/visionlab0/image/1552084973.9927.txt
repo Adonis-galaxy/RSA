@@ -8,3 +8,8 @@ An umbrella is upside down on the floor.
 A room with a whiteboard, a blue jacket, a red umbrella, a green trash can, and a hat on a blue cushion.
 The image shows a room with a whiteboard, a blue jacket, a red umbrella, a green trash can, and a desk with a chair.
 The image shows a room with a whiteboard, a blue jacket, a green trash can, a red umbrella, and a hat on a blue surface.
+An image with a wall, a chair, a umbrella, a towel, a floor, and a cardboard.
+An image with a umbrella, a cardboard, a wall, a towel, a chair, and a floor.
+An image with a umbrella, a wall, a chair, a cardboard, a towel, and a floor.
+An image with a floor, a chair, a umbrella, a wall, a cardboard, and a towel.
+An image with a towel, a umbrella, a chair, a cardboard, a floor, and a wall.

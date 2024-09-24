@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with trees and houses, where a single car is parked on the sidewalk, and a motorcycle is parked on the road.
 A narrow, tree-lined street with a few parked cars and a motorcycle, leading to a row of buildings.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with a wall, a sky, a pavement, a grass, a car, a house, a road, and a tree.
+An image with a road, a sky, a house, a tree, a car, a wall, a grass, and a pavement.
+An image with a grass, a tree, a car, a house, a road, a pavement, a wall, and a sky.
+An image with a tree, a road, a wall, a grass, a house, a sky, a car, and a pavement.
+An image with a car, a house, a pavement, a tree, a wall, a road, a grass, and a sky.

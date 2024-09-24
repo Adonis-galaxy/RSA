@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a quiet, tree-lined street with a single car in motion, under a clear blue sky.
 The image shows a wide, tree-lined street with a car driving down it, a bus stop in the distance, and a clear sky overhead.
 The image depicts a wide, tree-lined street with a clear sky, a few vehicles, and a mix of residential and commercial buildings.
+An image with three traffics, a grass, two cars, a tree, a building, a bus, and a road.
+An image with a tree, two cars, a road, three traffics, a building, a grass, and a bus.
+An image with a road, a bus, a building, three traffics, two cars, a tree, and a grass.
+An image with a grass, two cars, a road, a building, three traffics, a tree, and a bus.
+An image with two cars, three traffics, a grass, a tree, a bus, a building, and a road.

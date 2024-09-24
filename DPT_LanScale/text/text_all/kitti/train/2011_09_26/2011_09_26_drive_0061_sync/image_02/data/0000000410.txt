@@ -8,3 +8,8 @@ A black car parked on a street.
 A narrow, tree-lined street with a parked car and a person walking, leading to a brick wall and a staircase.
 A black car is parked on the side of a narrow, tree-lined street.
 A narrow, tree-lined street with a parked car, a staircase, and a brick wall.
+An image with two cars, a pavement, a grass, two walls, a sky, a road, and a tree.
+An image with a tree, two cars, a pavement, a grass, two walls, a road, and a sky.
+An image with a grass, two walls, a sky, a pavement, two cars, a tree, and a road.
+An image with a pavement, two walls, two cars, a sky, a road, a tree, and a grass.
+An image with a grass, a sky, two walls, a road, a tree, a pavement, and two cars.

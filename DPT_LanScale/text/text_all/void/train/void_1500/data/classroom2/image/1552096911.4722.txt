@@ -8,3 +8,8 @@ The image shows a room with two chairs and a small table.
 The image shows a room with two chairs and a small table.
 The image shows a room with two black chairs and an orange chair, all placed on a white floor.
 The image shows a room with two black chairs and an orange chair, all placed on a white floor.
+An image with four chairs, a wall, a floor, and a cabinet.
+An image with four chairs, a wall, a cabinet, and a floor.
+An image with four chairs, a floor, a cabinet, and a wall.
+An image with four chairs, a cabinet, a wall, and a floor.
+An image with four chairs, a wall, a floor, and a cabinet.

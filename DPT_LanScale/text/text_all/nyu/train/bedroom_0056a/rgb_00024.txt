@@ -8,3 +8,8 @@ A bedroom with a bed and a picture on the wall.
 The image captures a simple, uncluttered bedroom with a bed, a picture on the wall, and a door, all under a soft light.
 The image shows a dimly lit bedroom with a large bed, a framed picture on the wall, a door, and a ceiling light.
 The image shows a bedroom with a bed, a door, a window, a picture on the wall, and a lamp.
+An image with a light, a rug, a bed, a wall, a window, and a ceiling.
+An image with a rug, a ceiling, a wall, a window, a bed, and a light.
+An image with a rug, a ceiling, a bed, a window, a wall, and a light.
+An image with a ceiling, a window, a light, a rug, a wall, and a bed.
+An image with a rug, a wall, a bed, a window, a ceiling, and a light.

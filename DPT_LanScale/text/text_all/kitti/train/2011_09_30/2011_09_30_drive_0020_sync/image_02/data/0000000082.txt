@@ -8,3 +8,8 @@ The image shows a street scene with a stop sign, a street light, and a building 
 The image captures a quiet residential street, with a clear sky overhead and a few parked cars along the side, leading to a cul-de-sac where a construction site is visible.
 The image shows a quiet residential street with houses, a stop sign, and a street lamp, all appearing small due to the wide-angle lens used to take the photo.
 The image depicts a quiet residential street with a clear sky, lined with houses and trees, and a single car parked at the end of the road.
+An image with a pavement, two stops, two cars, a road, a house, a grass, and a tree.
+An image with a grass, two stops, a pavement, a road, two cars, a tree, and a house.
+An image with a house, two stops, a tree, a grass, a road, two cars, and a pavement.
+An image with two cars, a tree, a road, two stops, a pavement, a grass, and a house.
+An image with a pavement, a road, a tree, two stops, two cars, a grass, and a house.

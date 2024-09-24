@@ -8,3 +8,8 @@ A tree-lined street.
 A tree-lined street with a clear pathway, bordered by a neatly trimmed hedge and a building in the distance.
 A narrow, tree-lined street with a car parked on the right side.
 A narrow, tree-lined street with a curved path leading to a white building.
+An image with a pavement, a road, two cars, a tree, and a sky.
+An image with a road, a sky, a tree, two cars, and a pavement.
+An image with a road, a pavement, a sky, two cars, and a tree.
+An image with a tree, a sky, a road, a pavement, and two cars.
+An image with two cars, a tree, a road, a sky, and a pavement.

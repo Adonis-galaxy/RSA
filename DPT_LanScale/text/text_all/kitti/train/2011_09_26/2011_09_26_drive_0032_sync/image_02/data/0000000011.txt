@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes and a guardrail.
 The image captures a moment of tranquility on a highway, with a clear view of the road ahead, flanked by lush greenery and a few vehicles in motion.
 The image shows a highway with multiple lanes, a few cars, a truck, and a bus, with a clear sky and greenery on both sides.
 The image shows a highway with multiple lanes, a median, and a bridge in the background, with vehicles traveling on the road.
+An image with five cars, a grass, a bus, a tree, a truck, a road, a sky, and a fence.
+An image with five cars, a sky, a bus, a grass, a fence, a truck, a road, and a tree.
+An image with a tree, five cars, a truck, a bus, a sky, a road, a grass, and a fence.
+An image with a road, five cars, a grass, a sky, a fence, a truck, a tree, and a bus.
+An image with a grass, a fence, a bus, a sky, five cars, a truck, a road, and a tree.

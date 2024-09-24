@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear blue sky.
 The image shows a residential street with parked cars, a truck, and a few pedestrians, with houses and trees in the background.
 A quiet residential street with parked cars, a few pedestrians, and a clear sky.
+An image with a roof, a pavement, a grass, a tree, two stops, five cars, a house, a fire, a bench, a road, and a sky.
+An image with a sky, a grass, a house, a fire, a tree, a bench, five cars, two stops, a roof, a pavement, and a road.
+An image with a grass, five cars, two stops, a road, a tree, a house, a bench, a roof, a pavement, a sky, and a fire.
+An image with a fire, two stops, a grass, five cars, a house, a pavement, a bench, a road, a tree, a sky, and a roof.
+An image with a road, two stops, five cars, a pavement, a bench, a house, a sky, a tree, a grass, a fire, and a roof.

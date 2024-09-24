@@ -8,3 +8,8 @@ A room with a green wall, a bookshelf, a telephone, and a large white machine.
 The image shows a room with a green wall, a bookshelf, a desk, and a large white machine.
 The image shows a room with a green wall, a bookshelf, a desk with papers, and a large white machine.
 The image shows a room with a green wall, a bookshelf, a desk with papers, and a large white machine.
+An image with a floor, nineteen books, a light, a ceiling, a refrigerator, a chair, a shelf, a table, and a wall.
+An image with nineteen books, a light, a ceiling, a table, a wall, a refrigerator, a chair, a floor, and a shelf.
+An image with nineteen books, a floor, a light, a ceiling, a table, a refrigerator, a chair, a shelf, and a wall.
+An image with nineteen books, a refrigerator, a table, a wall, a floor, a ceiling, a chair, a light, and a shelf.
+An image with nineteen books, a refrigerator, a table, a light, a ceiling, a shelf, a floor, a chair, and a wall.

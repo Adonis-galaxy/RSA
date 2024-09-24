@@ -8,3 +8,8 @@ The image shows a road with cars and traffic cones.
 The image captures a scene of a road with multiple lanes, marked by traffic cones and barriers, leading to a clear sky in the background.
 The image shows a wide, empty highway with a few cars and trucks, surrounded by trees and a clear sky.
 The image shows a wide, multi-lane road with traffic, flanked by trees and lined with street signs and traffic lights.
+An image with three traffics, ten cars, a grass, a pavement, a tree, a road, and a truck.
+An image with a pavement, ten cars, a tree, a grass, a road, three traffics, and a truck.
+An image with ten cars, three traffics, a tree, a pavement, a road, a truck, and a grass.
+An image with ten cars, a truck, three traffics, a road, a tree, a pavement, and a grass.
+An image with a tree, ten cars, a pavement, a grass, three traffics, a road, and a truck.

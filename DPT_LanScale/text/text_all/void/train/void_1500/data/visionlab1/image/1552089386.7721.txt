@@ -8,3 +8,8 @@ A toy car on a desk.
 A toy car is sitting on a desk in an office.
 A small white toy car is sitting on top of a wooden desk.
 A white toy car is sitting on a wooden desk in an office setting.
+An image with three chairs, a car, a rug, two tvs, a bottle, a wall, and a table.
+An image with two tvs, three chairs, a table, a rug, a car, a bottle, and a wall.
+An image with two tvs, a bottle, a car, a rug, three chairs, a wall, and a table.
+An image with three chairs, a wall, two tvs, a table, a car, a bottle, and a rug.
+An image with a car, a wall, three chairs, a rug, a bottle, a table, and two tvs.

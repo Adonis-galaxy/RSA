@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white house.
 A quiet residential street with parked cars and a white house.
 The image shows a residential street with parked cars, a white house, and a fence.
 A residential street with parked cars, a white house, and a fence.
+An image with a house, seven cars, a pavement, a gravel, a sky, two trucks, a grass, a tree, a fence, and a road.
+An image with a fence, a gravel, seven cars, a pavement, a tree, a sky, a house, two trucks, a road, and a grass.
+An image with two trucks, a sky, seven cars, a grass, a road, a gravel, a pavement, a fence, a tree, and a house.
+An image with seven cars, a sky, a grass, a gravel, two trucks, a fence, a tree, a pavement, a house, and a road.
+An image with seven cars, a gravel, a road, a sky, a fence, a grass, a tree, two trucks, a pavement, and a house.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a bicycle, and a person riding 
 A person riding a bicycle on a quiet residential street, with parked cars and a truck, and a person walking on the sidewalk.
 A person riding a bicycle on a narrow street with parked cars, a truck, and a trailer.
 A quiet residential street with parked cars, bicycles, and a person on a bicycle.
+An image with a house, two bicycles, five cars, a roof, a fence, a wall, a road, a person, two trucks, a pavement, a sky, and a tree.
+An image with two bicycles, a wall, a roof, five cars, a fence, a sky, a house, two trucks, a tree, a road, a person, and a pavement.
+An image with a road, five cars, a person, a tree, a roof, a fence, two trucks, a house, a wall, two bicycles, a pavement, and a sky.
+An image with a pavement, two trucks, five cars, a sky, a road, a wall, a person, two bicycles, a fence, a tree, a house, and a roof.
+An image with a roof, a fence, two bicycles, five cars, a road, two trucks, a sky, a wall, a pavement, a house, a person, and a tree.

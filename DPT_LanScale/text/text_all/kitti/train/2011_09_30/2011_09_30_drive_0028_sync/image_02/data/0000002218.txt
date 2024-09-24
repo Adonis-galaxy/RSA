@@ -8,3 +8,8 @@ The image shows a narrow street between two-story buildings, with parked cars an
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear view down the road, leading to a row of houses.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
 A narrow, tree-lined street between two-story residential buildings, with parked cars and a few pedestrians.
+An image with seven cars, a pavement, a tree, a house, a sky, a grass, a person, and a road.
+An image with seven cars, a person, a grass, a sky, a pavement, a road, a tree, and a house.
+An image with a house, a tree, seven cars, a grass, a sky, a person, a pavement, and a road.
+An image with seven cars, a road, a house, a grass, a person, a sky, a pavement, and a tree.
+An image with a tree, seven cars, a grass, a pavement, a house, a sky, a road, and a person.

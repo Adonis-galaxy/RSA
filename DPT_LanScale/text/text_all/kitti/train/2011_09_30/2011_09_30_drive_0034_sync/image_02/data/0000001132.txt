@@ -8,3 +8,8 @@ A large blue truck is parked on a narrow street.
 A narrow street in a residential area, with parked cars and a large truck, leading to a white house with a red roof.
 A large truck is parked on a narrow street between two houses, with a blue bag and a red trash can nearby.
 A narrow street with parked cars, a truck, and a pedestrian, flanked by buildings and lined with trees and shrubs.
+An image with a tree, a house, a truck, a sky, a pavement, three cars, a person, and a wall.
+An image with a house, a truck, a tree, three cars, a person, a wall, a sky, and a pavement.
+An image with three cars, a person, a pavement, a wall, a sky, a truck, a house, and a tree.
+An image with a house, three cars, a truck, a tree, a sky, a wall, a pavement, and a person.
+An image with a wall, a truck, a tree, three cars, a house, a person, a pavement, and a sky.

@@ -8,3 +8,8 @@ A model of a building on display.
 A model of a building is displayed on a pedestal, showcasing the architectural design.
 A model of a building is displayed in a glass case on a wooden pedestal.
 The image shows a model of a building, possibly a hospital, with a clear glass case displaying it on a wooden stand.
+An image with a floor, a rug, two walls, and a building.
+An image with a rug, a building, two walls, and a floor.
+An image with a building, a floor, two walls, and a rug.
+An image with a rug, two walls, a floor, and a building.
+An image with a rug, a floor, two walls, and a building.

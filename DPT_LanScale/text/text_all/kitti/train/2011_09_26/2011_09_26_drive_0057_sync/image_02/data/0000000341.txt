@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a moment of everyday life on a suburban street, with a red car driving away from a traffic light, surrounded by parked cars and trees, under a clear sky.
 The image shows a wide, empty road with a few cars and a truck, lined with trees and signs, leading to a distant cityscape under a clear sky.
 The image depicts a wide, multi-lane road with a clear lane divider, leading to a green field and a clear sky.
+An image with twelve cars, a road, a grass, a sky, a building, a mountain, a tree, and three traffics.
+An image with twelve cars, a tree, a building, a sky, a grass, a road, a mountain, and three traffics.
+An image with a mountain, a grass, three traffics, a tree, a building, twelve cars, a sky, and a road.
+An image with twelve cars, three traffics, a grass, a road, a tree, a building, a sky, and a mountain.
+An image with a grass, twelve cars, three traffics, a road, a mountain, a sky, a building, and a tree.

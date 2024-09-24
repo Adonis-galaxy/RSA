@@ -8,3 +8,8 @@ The image shows a room with a wooden floor and a chair.
 The image shows a room with a wooden floor and walls, featuring a doorway leading to another room. There is a chair with a floral pattern and a wooden frame, and a small table with a lamp on it. The room appears to be dimly lit.
 The image shows a narrow hallway with a door on the left, a wall on the right, and a small, brown, floral-patterned couch on the right side.
 The image shows a narrow hallway with a door on the left, a wooden floor, a chair with a floral pattern, and a wall on the right.
+An image with a wall, a floor, a door, and a couch.
+An image with a wall, a door, a floor, and a couch.
+An image with a door, a wall, a floor, and a couch.
+An image with a floor, a couch, a door, and a wall.
+An image with a door, a wall, a couch, and a floor.

@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with trees and houses, where a car is parked on the side of the road.
 A tree-lined street with a car parked on the sidewalk, a bicycle on the road, and apartment buildings in the background.
 A tree-lined street with apartment buildings on either side, leading to a clear sky.
+An image with a road, a pavement, a tree, a grass, a bicycle, two cars, a house, a person, and a sky.
+An image with a bicycle, a road, two cars, a sky, a person, a tree, a pavement, a grass, and a house.
+An image with a road, a sky, two cars, a bicycle, a grass, a tree, a pavement, a house, and a person.
+An image with a tree, two cars, a person, a house, a pavement, a bicycle, a road, a sky, and a grass.
+An image with two cars, a person, a road, a house, a sky, a grass, a bicycle, a pavement, and a tree.

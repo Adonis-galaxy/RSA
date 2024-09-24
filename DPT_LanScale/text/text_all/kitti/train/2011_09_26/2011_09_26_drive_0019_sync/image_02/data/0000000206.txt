@@ -8,3 +8,8 @@ The image shows a tree-lined road with a brick surface.
 The image captures a serene, tree-lined road that gently curves to the right, with a clear sky overhead and a few parked cars along the side.
 The image shows a tree-lined road with a brick surface, a red and white striped sign, and a car parked on the side.
 The image shows a tree-lined road with a curved path leading to a dead-end street, flanked by grassy areas and a sidewalk.
+An image with a parking, a road, a sky, a pavement, a tree, a grass, and four cars.
+An image with a pavement, four cars, a tree, a sky, a parking, a grass, and a road.
+An image with a road, a grass, a pavement, a tree, four cars, a sky, and a parking.
+An image with a pavement, a road, a sky, four cars, a tree, a parking, and a grass.
+An image with a pavement, a sky, a road, four cars, a tree, a grass, and a parking.

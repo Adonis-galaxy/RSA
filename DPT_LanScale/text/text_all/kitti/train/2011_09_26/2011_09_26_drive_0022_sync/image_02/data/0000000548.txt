@@ -8,3 +8,8 @@ The image shows a red car parked on the side of a road.
 A red SUV is parked on the side of a road, with a green car approaching from behind.
 A red SUV is parked on the side of a road, with a green car driving by on the opposite side.
 A red SUV is parked on the side of a road, with a green car behind it, and a street sign in the background.
+An image with a sky, a tree, two cars, a grass, and a road.
+An image with two cars, a tree, a road, a sky, and a grass.
+An image with a sky, two cars, a tree, a grass, and a road.
+An image with two cars, a tree, a road, a grass, and a sky.
+An image with a grass, two cars, a tree, a road, and a sky.

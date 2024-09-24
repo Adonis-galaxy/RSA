@@ -8,3 +8,8 @@ A man sitting at a table in a room.
 A person is sitting at a table with a laptop, surrounded by a few chairs and personal items, in a room with a door and a hanging coat rack.
 A man is sitting at a small table in a room with a white wall, a door, and a hanging coat rack.
 A man is sitting at a table in a small room with a white wall, a door, a hanging coat rack, and a white floor.
+An image with two walls, a shelf, a person, a dining, two chairs, and a floor.
+An image with a floor, two walls, two chairs, a shelf, a dining, and a person.
+An image with two walls, a person, a floor, a dining, two chairs, and a shelf.
+An image with two walls, two chairs, a person, a floor, a dining, and a shelf.
+An image with a shelf, two chairs, a person, two walls, a floor, and a dining.

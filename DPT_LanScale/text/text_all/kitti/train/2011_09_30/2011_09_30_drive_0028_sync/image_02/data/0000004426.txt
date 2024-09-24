@@ -8,3 +8,8 @@ A car parked on a tree-lined street.
 A quiet suburban street, lined with parked cars and trees, leading to a house with a white facade.
 A car is parked on the side of a tree-lined street.
 A narrow, tree-lined street with parked cars and a building on the right side.
+An image with a building, a pavement, three cars, a road, and a tree.
+An image with a tree, a building, three cars, a road, and a pavement.
+An image with three cars, a tree, a building, a road, and a pavement.
+An image with a pavement, a building, three cars, a road, and a tree.
+An image with three cars, a tree, a building, a pavement, and a road.

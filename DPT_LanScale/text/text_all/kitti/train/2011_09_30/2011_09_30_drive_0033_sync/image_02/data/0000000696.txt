@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a residential street scene with parked cars, a curving road, and houses in the background.
 A red car is driving down a narrow street between two white houses, with a green car parked on the side.
 A narrow street with parked cars and a curved road leading to a residential area.
+An image with four cars, a house, a tree, a building, a road, a sky, and a truck.
+An image with four cars, a sky, a road, a tree, a house, a building, and a truck.
+An image with a sky, four cars, a building, a tree, a house, a road, and a truck.
+An image with a house, four cars, a truck, a tree, a sky, a road, and a building.
+An image with a sky, four cars, a road, a tree, a truck, a house, and a building.

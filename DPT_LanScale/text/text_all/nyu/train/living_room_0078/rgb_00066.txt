@@ -8,3 +8,8 @@ A brown leather couch in a living room.
 The image captures a cozy living room with a brown leather couch, two matching throw pillows, a wooden coffee table, and a dining table with chairs, all arranged in a comfortable and inviting layout.
 The image shows a large, brown leather couch with two matching throw pillows, positioned in a living room with a dining area visible in the background.
 The image shows a living room with a brown leather couch, two matching throw pillows, a beige wall, a white door, a dining table with chairs, and a framed painting on the wall.
+An image with a couch, six chairs, a dining, a wall, a door, and a floor.
+An image with a door, a dining, six chairs, a floor, a wall, and a couch.
+An image with a door, a couch, a wall, six chairs, a floor, and a dining.
+An image with six chairs, a dining, a wall, a floor, a door, and a couch.
+An image with six chairs, a dining, a door, a floor, a couch, and a wall.

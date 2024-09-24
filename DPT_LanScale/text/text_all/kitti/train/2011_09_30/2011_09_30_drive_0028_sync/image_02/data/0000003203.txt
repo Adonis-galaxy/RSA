@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a car parked on th
 A narrow, sunlit alleyway between two-story houses, lined with lush greenery and parked vehicles, leads to a white bench under a clear sky.
 The image shows a narrow, tree-lined street with parked cars, a truck, and a bench on the sidewalk.
 A narrow, tree-lined street with parked cars and a truck, leading to a white house with a covered porch.
+An image with a car, a house, a tree, a truck, a sky, a dirt, a wall, and a bench.
+An image with a car, a house, a wall, a dirt, a bench, a sky, a tree, and a truck.
+An image with a dirt, a sky, a bench, a house, a car, a wall, a truck, and a tree.
+An image with a wall, a car, a bench, a tree, a house, a dirt, a sky, and a truck.
+An image with a wall, a bench, a dirt, a sky, a car, a tree, a house, and a truck.

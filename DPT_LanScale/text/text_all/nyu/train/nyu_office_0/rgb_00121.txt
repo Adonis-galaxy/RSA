@@ -8,3 +8,8 @@ The image shows a hallway with a doorway leading to another room.
 The image captures a narrow hallway with a doorway leading to a room with green walls, illuminated by overhead lights. The hallway is flanked by black metal railings on both sides, and the floor is dark.
 The image shows a narrow hallway with a doorway leading to a room with green walls and a window. The hallway is illuminated by overhead lights.
 The image shows a narrow hallway with a doorway leading to a room with green walls and a window, flanked by black metal railings on both sides.
+An image with a fence, a wall, a door, and a floor.
+An image with a door, a fence, a wall, and a floor.
+An image with a fence, a door, a floor, and a wall.
+An image with a wall, a door, a floor, and a fence.
+An image with a wall, a floor, a door, and a fence.

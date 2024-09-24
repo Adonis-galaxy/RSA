@@ -8,3 +8,8 @@ The image shows a street view of a white house with a red door and a green bush 
 The image captures a quaint European street scene, featuring a charming white house with a red door and a green garden, a yellow sign, and a gray utility box, all set against a backdrop of a clear blue sky.
 The image shows a narrow street lined with houses, with a large building on the right side and a smaller one on the left.
 The image shows a narrow street with a row of houses, some with vines growing on their facades, leading to a larger building with a prominent arched entrance.
+An image with a house, a potted, a road, a tree, a pavement, a sky, a fence, and a grass.
+An image with a fence, a pavement, a sky, a grass, a road, a house, a potted, and a tree.
+An image with a grass, a potted, a sky, a house, a fence, a pavement, a tree, and a road.
+An image with a tree, a pavement, a fence, a sky, a road, a grass, a potted, and a house.
+An image with a potted, a tree, a grass, a sky, a pavement, a road, a fence, and a house.

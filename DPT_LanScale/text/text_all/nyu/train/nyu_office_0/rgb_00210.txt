@@ -8,3 +8,8 @@ A blurry image of a trash can and a fire extinguisher.
 The image captures a scene of a room with a green curtain, a white wall, and two trash cans, one silver and one blue, placed next to each other.
 The image shows a small trash can next to a larger trash can, with a green curtain in the background.
 The image shows a room with a green curtain, a white wall, a door, a fire extinguisher, and two trash cans.
+An image with a door, a sink, a floor, a curtain, and a wall.
+An image with a curtain, a floor, a sink, a wall, and a door.
+An image with a sink, a wall, a floor, a curtain, and a door.
+An image with a door, a floor, a curtain, a wall, and a sink.
+An image with a door, a wall, a floor, a sink, and a curtain.

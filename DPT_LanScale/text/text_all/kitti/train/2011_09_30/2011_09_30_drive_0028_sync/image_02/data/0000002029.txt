@@ -8,3 +8,8 @@ The image shows a street with parked cars and a blue van.
 The image captures a residential street scene with parked cars and apartment buildings, showcasing a typical day in a suburban neighborhood.
 A narrow street in a residential area with parked cars and a blue van driving down it.
 A narrow street in a residential area with parked cars and apartment buildings.
+An image with a grass, a pavement, a road, six cars, a house, and a tree.
+An image with a grass, a road, six cars, a pavement, a tree, and a house.
+An image with six cars, a house, a pavement, a tree, a grass, and a road.
+An image with a road, a house, six cars, a pavement, a grass, and a tree.
+An image with six cars, a house, a tree, a pavement, a road, and a grass.

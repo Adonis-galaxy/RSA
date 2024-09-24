@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 A quiet residential street with parked cars, lined by houses and trees.
 The image shows a narrow street lined with parked cars, including a red car, a black car, and a white car, with houses visible in the background.
 A narrow street lined with parked cars and houses, leading to a cul-de-sac.
+An image with a road, a fence, a grass, nine cars, a house, two trucks, a wall, a pavement, a sky, and a tree.
+An image with a house, a grass, two trucks, a road, nine cars, a pavement, a wall, a fence, a tree, and a sky.
+An image with two trucks, a fence, a road, a sky, a pavement, a tree, nine cars, a house, a wall, and a grass.
+An image with nine cars, a road, a wall, a grass, two trucks, a pavement, a house, a fence, a sky, and a tree.
+An image with nine cars, a fence, a road, a sky, two trucks, a tree, a grass, a pavement, a house, and a wall.

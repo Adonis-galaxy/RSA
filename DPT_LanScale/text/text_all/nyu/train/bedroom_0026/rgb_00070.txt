@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a cozy bedroom scene with a neatly made bed, a framed painting on the wall, and a lamp on a nightstand.
 The image shows a bedroom with a large bed, a framed picture on the wall, a lamp on a nightstand, and a window with blinds.
 The image shows a neatly made bed in a bedroom with a large painting on the wall, a lamp on a nightstand, and a window with blinds.
+An image with a floor, a bed, two chairs, a cabinet, a wall, a window, and a light.
+An image with two chairs, a floor, a cabinet, a window, a bed, a light, and a wall.
+An image with a bed, a cabinet, a wall, two chairs, a light, a window, and a floor.
+An image with a light, a cabinet, two chairs, a bed, a floor, a wall, and a window.
+An image with a floor, a window, two chairs, a bed, a light, a wall, and a cabinet.

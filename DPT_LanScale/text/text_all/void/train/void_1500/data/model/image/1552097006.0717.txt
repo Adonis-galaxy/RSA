@@ -8,3 +8,8 @@ A model of a building on display.
 A model of a building on display, with a person walking in the background.
 The image shows a small model of a building, which is placed on a wooden table.
 The image shows a model of a building with a flat roof, placed on a wooden stand, with a person in the background.
+An image with a building, a floor, a person, and a cabinet.
+An image with a floor, a cabinet, a person, and a building.
+An image with a floor, a building, a cabinet, and a person.
+An image with a floor, a cabinet, a building, and a person.
+An image with a building, a cabinet, a person, and a floor.

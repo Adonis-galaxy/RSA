@@ -8,3 +8,8 @@ A woman walking down a tree-lined street.
 A woman walks down a tree-lined street between parked cars, with a clear sky overhead.
 A woman is walking down a narrow, tree-lined street between two-story buildings, with a car parked on the right side.
 A narrow, tree-lined street between two-story buildings, with a woman walking on the sidewalk and a car parked on the right side.
+An image with two people, five cars, a house, a sky, a fence, a pavement, a road, and a tree.
+An image with a tree, two people, a house, five cars, a road, a pavement, a sky, and a fence.
+An image with a fence, a house, two people, a pavement, five cars, a road, a sky, and a tree.
+An image with five cars, a road, a house, two people, a fence, a sky, a pavement, and a tree.
+An image with two people, a road, a fence, a sky, five cars, a house, a tree, and a pavement.

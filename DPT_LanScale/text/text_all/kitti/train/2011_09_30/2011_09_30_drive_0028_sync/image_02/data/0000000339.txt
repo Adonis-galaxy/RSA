@@ -8,3 +8,8 @@ The image shows a street view of a residential area with buildings and cars.
 The image captures a quiet residential street, with a clear view of the intersection and the surrounding buildings, showcasing a typical day in a suburban neighborhood.
 The image shows a narrow street between two-story buildings, with a few cars parked along the sides and a traffic circle at the intersection.
 The image depicts a quiet residential street with a mix of single-family homes and apartment buildings, lined with trees and parked cars, leading to a cul-de-sac.
+An image with five cars, a stop, a house, a truck, a tree, a pavement, a sky, and a road.
+An image with a truck, a house, a road, a sky, a pavement, five cars, a stop, and a tree.
+An image with a truck, a sky, five cars, a pavement, a stop, a house, a tree, and a road.
+An image with a truck, five cars, a road, a house, a tree, a stop, a pavement, and a sky.
+An image with five cars, a stop, a pavement, a sky, a truck, a house, a road, and a tree.

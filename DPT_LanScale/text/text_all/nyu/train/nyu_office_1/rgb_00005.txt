@@ -8,3 +8,8 @@ A blue bicycle parked inside a building.
 A blue bicycle parked inside a building, leaning against a glass door, with a black seat and handlebars.
 A blue bicycle is parked inside a large room with a glass door, next to a black door.
 A blue bicycle is parked inside a building, leaning against a glass door, with a brick wall and a whiteboard in the background.
+An image with a wall, two chairs, a floor, a door, a paper, and a bicycle.
+An image with a floor, a door, two chairs, a wall, a paper, and a bicycle.
+An image with two chairs, a door, a wall, a floor, a paper, and a bicycle.
+An image with a floor, a paper, a bicycle, two chairs, a wall, and a door.
+An image with a paper, a door, a wall, a floor, a bicycle, and two chairs.

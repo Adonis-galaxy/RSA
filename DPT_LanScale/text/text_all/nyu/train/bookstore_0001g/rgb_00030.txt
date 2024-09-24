@@ -8,3 +8,8 @@ The image shows a bookstore with a large bookshelf filled with books.
 The image captures a well-organized bookstore with a variety of books on shelves, a desk with a computer, and a cart of books, all under a large sign.
 The image shows a bookstore with a large bookshelf filled with books, a counter with a cash register, and a foreground with a large book cart and a computer monitor.
 The image shows an indoor bookstore with a variety of books displayed on shelves, a counter with a cash register, and a large sign indicating the availability of books.
+An image with nine books, a shelf, a microwave, a ceiling, a floor, a cabinet, and a wall.
+An image with nine books, a cabinet, a microwave, a floor, a wall, a ceiling, and a shelf.
+An image with a wall, a microwave, nine books, a floor, a cabinet, a shelf, and a ceiling.
+An image with a floor, a microwave, a ceiling, nine books, a cabinet, a wall, and a shelf.
+An image with nine books, a shelf, a ceiling, a floor, a wall, a cabinet, and a microwave.

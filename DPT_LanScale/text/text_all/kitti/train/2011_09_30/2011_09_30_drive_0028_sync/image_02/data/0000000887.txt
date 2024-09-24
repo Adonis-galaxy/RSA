@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a mix of houses and trees creating a serene suburban atmosphere.
 The image shows a narrow street lined with parked cars, with a large house on the left and a smaller house on the right, and trees on both sides.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
+An image with ten cars, a dirt, a truck, a sky, a tree, a house, a road, and a fence.
+An image with ten cars, a house, a tree, a fence, a dirt, a truck, a road, and a sky.
+An image with ten cars, a sky, a fence, a house, a truck, a dirt, a tree, and a road.
+An image with a road, ten cars, a house, a sky, a fence, a truck, a dirt, and a tree.
+An image with a dirt, ten cars, a tree, a road, a truck, a sky, a fence, and a house.

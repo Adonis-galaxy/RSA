@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A quiet residential street, lined with parked cars and trees, where two cyclists are riding away from a white building.
 A small white car is parked on the side of a narrow street lined with trees and buildings.
 A narrow tree-lined street with parked cars and cyclists, leading to a white building with a covered entrance.
+An image with a tree, a house, three people, three bicycles, a road, six cars, a grass, and a pavement.
+An image with six cars, a grass, three bicycles, three people, a road, a house, a pavement, and a tree.
+An image with three people, six cars, three bicycles, a road, a house, a tree, a grass, and a pavement.
+An image with a house, six cars, three people, three bicycles, a grass, a pavement, a road, and a tree.
+An image with three people, three bicycles, a tree, six cars, a grass, a road, a pavement, and a house.

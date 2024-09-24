@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a quiet, tree-lined street with a single car in motion, flanked by parked cars and a building with a sign, suggesting a residential area with limited traffic.
 The image shows a wide, tree-lined street with a train track running parallel to it, a yellow sign indicating a one-way street, and a car driving on the road.
 The image shows a wide, tree-lined street with a train track running parallel to it, flanked by buildings on both sides, and a yellow sign indicating a one-way street.
+An image with a wall, a road, a sky, three cars, a railroad, a house, a bus, a pavement, and a tree.
+An image with a tree, a pavement, three cars, a bus, a wall, a railroad, a sky, a road, and a house.
+An image with a sky, a wall, three cars, a bus, a tree, a pavement, a house, a road, and a railroad.
+An image with a tree, three cars, a sky, a bus, a house, a railroad, a road, a wall, and a pavement.
+An image with three cars, a wall, a house, a sky, a pavement, a bus, a tree, a road, and a railroad.

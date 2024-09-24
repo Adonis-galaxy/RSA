@@ -8,3 +8,8 @@ The image shows a black suitcase leaning against a white wall.
 The image shows a room with a white column, a black bag, and a pair of skis leaning against the column.
 The image shows a large white cylinder with a black bag and ski poles leaning against it.
 The image shows a room with a white column, a black bag, and a black tripod leaning against the column.
+An image with a toilet, a door, a floor, and a wall.
+An image with a door, a floor, a wall, and a toilet.
+An image with a door, a floor, a toilet, and a wall.
+An image with a toilet, a floor, a door, and a wall.
+An image with a wall, a floor, a door, and a toilet.

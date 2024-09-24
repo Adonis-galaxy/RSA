@@ -8,3 +8,8 @@ The image shows a street scene with a train track running down the middle.
 The image captures a quaint European street scene, with a train track running down the middle, flanked by old buildings and lined with people walking on the sidewalk.
 The image shows a narrow street with a train track running down the middle, lined with buildings on both sides. There are a few people walking on the sidewalk, and the sky is clear.
 The image captures a bustling city street, with a train track running down the middle, flanked by buildings on both sides, and pedestrians walking along the sidewalk.
+An image with a tree, a bicycle, ten people, a railroad, a pavement, a building, and a truck.
+An image with a pavement, ten people, a bicycle, a truck, a building, a railroad, and a tree.
+An image with ten people, a building, a tree, a pavement, a railroad, a truck, and a bicycle.
+An image with ten people, a tree, a truck, a bicycle, a building, a pavement, and a railroad.
+An image with ten people, a pavement, a tree, a building, a railroad, a bicycle, and a truck.

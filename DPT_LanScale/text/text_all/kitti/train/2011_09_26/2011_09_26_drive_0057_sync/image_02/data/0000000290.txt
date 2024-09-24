@@ -8,3 +8,8 @@ The image shows a busy street with cars and traffic lights.
 The image captures a bustling city street with a red car at the center, surrounded by various vehicles and traffic lights, all under a clear blue sky.
 The image shows a busy street scene with a red car driving down the road, surrounded by various vehicles, traffic lights, and street signs.
 The image captures a bustling city street with a red car driving through an intersection, surrounded by various traffic lights and signs, under a clear blue sky.
+An image with eight traffics, ten cars, a grass, a mountain, a house, a sky, a pavement, a road, and a tree.
+An image with eight traffics, a tree, ten cars, a pavement, a mountain, a house, a road, a sky, and a grass.
+An image with ten cars, a mountain, eight traffics, a pavement, a tree, a house, a road, a grass, and a sky.
+An image with a house, a road, ten cars, eight traffics, a grass, a sky, a tree, a mountain, and a pavement.
+An image with a house, ten cars, a tree, eight traffics, a pavement, a mountain, a sky, a road, and a grass.

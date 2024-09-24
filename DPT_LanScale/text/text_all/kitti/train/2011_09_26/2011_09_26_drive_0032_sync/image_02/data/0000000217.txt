@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a moment of everyday life on a suburban street, with cars in motion and a clear sky overhead.
 The image shows a wide, tree-lined road with multiple lanes, a few cars, and a traffic light. The road is wet, and the sky is overcast.
 The image captures a scene of a multi-lane road with vehicles moving in both directions, flanked by trees and a clear sky.
+An image with eight cars, three traffics, a pavement, a road, a tree, a grass, and a sky.
+An image with a pavement, a sky, eight cars, three traffics, a road, a grass, and a tree.
+An image with eight cars, three traffics, a pavement, a sky, a tree, a road, and a grass.
+An image with eight cars, a pavement, a grass, three traffics, a road, a sky, and a tree.
+An image with eight cars, a road, a pavement, a tree, a grass, three traffics, and a sky.

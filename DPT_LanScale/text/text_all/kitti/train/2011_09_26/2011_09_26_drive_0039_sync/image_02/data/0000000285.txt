@@ -8,3 +8,8 @@ The image shows a street scene with cars and a bus.
 A narrow street in a residential area, with parked cars and a bus, under a clear blue sky.
 A narrow street in a residential area with parked cars, a bus, and a person.
 A narrow street in a residential area with parked cars, a bus, and a person standing on the sidewalk.
+An image with a house, a person, five cars, a sky, a pavement, a truck, a fence, a road, and a tree.
+An image with a sky, five cars, a truck, a person, a house, a pavement, a road, a tree, and a fence.
+An image with a person, a road, a pavement, a tree, five cars, a house, a sky, a fence, and a truck.
+An image with a tree, a house, five cars, a truck, a fence, a pavement, a person, a sky, and a road.
+An image with five cars, a fence, a truck, a house, a pavement, a person, a road, a sky, and a tree.

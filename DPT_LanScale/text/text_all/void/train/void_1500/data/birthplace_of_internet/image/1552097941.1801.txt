@@ -8,3 +8,8 @@ A room with a green wall and a white ceiling.
 The image shows a room with a green wall, a refrigerator, a table, and a chair.
 The image shows a room with green walls, a refrigerator, a table, a chair, and a bulletin board.
 The image shows a room with a green wall, a table with a laptop, a refrigerator, and a bulletin board with papers and photos.
+An image with a ceiling, a refrigerator, four chairs, a laptop, a light, a table, a tv, a keyboard, two people, and a wall.
+An image with two people, a ceiling, four chairs, a refrigerator, a light, a keyboard, a wall, a table, a tv, and a laptop.
+An image with a tv, four chairs, a ceiling, a light, a table, a laptop, a refrigerator, two people, a keyboard, and a wall.
+An image with a table, a tv, a light, four chairs, a ceiling, a wall, two people, a keyboard, a laptop, and a refrigerator.
+An image with a wall, a light, four chairs, a ceiling, two people, a table, a refrigerator, a tv, a keyboard, and a laptop.

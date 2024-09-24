@@ -8,3 +8,8 @@ The image shows a street with several cars and a truck.
 The image captures a scene of a narrow street lined with parked cars, with a few vehicles in motion, and a white building in the background, all under a bright sunny sky.
 The image shows a narrow street with several cars, including a red Volkswagen Beetle, a silver car, and a black car, all parked or moving along the road. The street is lined with trees and buildings, and the sky is visible in the background.
 A narrow street in a residential area with parked cars and a few moving vehicles.
+An image with seven cars, a house, a road, a fence, a tree, a wall, and a pavement.
+An image with a pavement, seven cars, a tree, a road, a wall, a fence, and a house.
+An image with seven cars, a pavement, a road, a house, a fence, a tree, and a wall.
+An image with a wall, seven cars, a fence, a tree, a house, a road, and a pavement.
+An image with seven cars, a house, a pavement, a tree, a fence, a wall, and a road.

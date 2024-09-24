@@ -8,3 +8,8 @@ The image shows a busy street with multiple traffic lights and vehicles.
 The image captures a typical day on a busy street with multiple lanes, traffic lights, and vehicles, all under a clear blue sky.
 The image shows a wide, multi-lane road with traffic lights, street signs, and a few vehicles, all captured from a distance.
 The image depicts a wide, multi-lane road with traffic lights, lined by trees and buildings, under a clear blue sky.
+An image with five cars, three trucks, three traffics, a pavement, a tree, and a road.
+An image with five cars, three traffics, three trucks, a tree, a road, and a pavement.
+An image with three trucks, five cars, a pavement, three traffics, a tree, and a road.
+An image with a tree, five cars, three traffics, three trucks, a road, and a pavement.
+An image with three trucks, three traffics, a tree, a pavement, five cars, and a road.

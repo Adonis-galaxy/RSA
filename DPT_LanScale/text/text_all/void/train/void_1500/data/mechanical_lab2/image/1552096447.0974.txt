@@ -8,3 +8,8 @@ A blurry image of a computer desk with a monitor, keyboard, and chair.
 A blue chair is positioned in front of a desk with a computer and keyboard.
 A blurry image of a blue chair in front of a desk with a computer and keyboard.
 The image shows a computer desk with a monitor, keyboard, and mouse, along with a blue chair and a blue desk.
+An image with a keyboard, a table, a floor, two chairs, a wall, a mouse, and a tv.
+An image with two chairs, a keyboard, a wall, a table, a tv, a mouse, and a floor.
+An image with a keyboard, a mouse, two chairs, a floor, a wall, a table, and a tv.
+An image with a floor, a table, a wall, two chairs, a tv, a mouse, and a keyboard.
+An image with a wall, two chairs, a keyboard, a mouse, a table, a tv, and a floor.

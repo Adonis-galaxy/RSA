@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings, green 
 The image captures a serene residential street, lined with white buildings, lush greenery, and parked cars, creating a peaceful and inviting atmosphere.
 The image shows a long, narrow street lined with parked cars and buildings, with a sidewalk on the right side. The street is bordered by grass and trees, and the sky is clear and blue.
 The image depicts a residential street with a row of houses, a paved path, and a sidewalk, lined with trees and parked cars.
+An image with eight cars, a stop, a road, a house, a sky, a grass, a person, a roof, and a tree.
+An image with a stop, eight cars, a grass, a tree, a roof, a road, a person, a house, and a sky.
+An image with eight cars, a stop, a person, a road, a roof, a grass, a house, a tree, and a sky.
+An image with a person, eight cars, a roof, a stop, a sky, a house, a road, a tree, and a grass.
+An image with a grass, a stop, a tree, eight cars, a roof, a road, a house, a person, and a sky.

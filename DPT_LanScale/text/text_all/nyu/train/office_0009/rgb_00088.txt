@@ -8,3 +8,8 @@ The image shows an empty conference room with a whiteboard on the wall.
 The image shows an empty conference room with a whiteboard, two chairs, and a table, all set up for a meeting or presentation.
 The image shows an empty conference room with a large whiteboard on the wall, two chairs, and a table.
 The image shows an empty conference room with a whiteboard on the wall, two chairs, and a table, all set up for a meeting.
+An image with a wall, a ceiling, three chairs, a light, a table, and a dining.
+An image with a ceiling, three chairs, a table, a light, a dining, and a wall.
+An image with a table, a ceiling, three chairs, a light, a wall, and a dining.
+An image with a table, three chairs, a light, a wall, a ceiling, and a dining.
+An image with a wall, three chairs, a light, a table, a ceiling, and a dining.

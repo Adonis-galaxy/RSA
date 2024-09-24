@@ -8,3 +8,8 @@ A room with a window and a piano.
 The image captures a cozy, well-lit room with a piano, a window with curtains, and a framed photograph on the wall, creating a warm and inviting atmosphere.
 The image shows a room with a large window, a piano, a desk with a lamp, and a framed photo on the wall.
 The image shows a room with a window, a piano, a desk, and a framed photo on the wall.
+An image with a table, a curtain, a potted, a floor, a wall, a window, and a toaster.
+An image with a toaster, a curtain, a window, a floor, a table, a wall, and a potted.
+An image with a toaster, a window, a curtain, a wall, a table, a potted, and a floor.
+An image with a wall, a floor, a potted, a toaster, a window, a table, and a curtain.
+An image with a floor, a window, a potted, a wall, a toaster, a table, and a curtain.

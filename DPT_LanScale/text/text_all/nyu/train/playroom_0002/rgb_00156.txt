@@ -8,3 +8,8 @@ A messy room with a bed, table, and a fan.
 The image captures a room in a state of disarray, with various items scattered around, including a bed, a table, a fan, and a window with blinds.
 The image shows a cluttered room with a large bed, a table, a fan, and various items scattered around, including a guitar and a suitcase.
 The room is cluttered with various items, including a bed, a table, a fan, and a window with curtains.
+An image with a window, a table, a wall, a ceiling, a rug, a book, a door, and a bed.
+An image with a window, a ceiling, a book, a rug, a wall, a door, a bed, and a table.
+An image with a door, a bed, a window, a wall, a rug, a ceiling, a book, and a table.
+An image with a rug, a door, a wall, a book, a ceiling, a window, a table, and a bed.
+An image with a door, a table, a window, a rug, a bed, a book, a wall, and a ceiling.

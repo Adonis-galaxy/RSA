@@ -8,3 +8,8 @@ A blue trash can next to a desk with a printer on it.
 The image shows a workspace with a printer, a trash can, and a desk.
 The image shows a small office setup with a blue printer, a white printer, a blue trash can, and a white desk.
 The image shows a workspace with a desk, a printer, a trash can, and a cabinet.
+An image with a floor, a door, a wall, a cabinet, and a scissors.
+An image with a floor, a cabinet, a scissors, a wall, and a door.
+An image with a floor, a wall, a cabinet, a door, and a scissors.
+An image with a scissors, a cabinet, a wall, a floor, and a door.
+An image with a wall, a door, a cabinet, a scissors, and a floor.

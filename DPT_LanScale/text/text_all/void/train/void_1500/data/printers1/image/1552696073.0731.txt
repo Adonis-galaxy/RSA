@@ -8,3 +8,8 @@ A computer desk with a monitor and keyboard.
 A computer desk with a monitor, keyboard, and mouse, situated in a room with a door and a carpeted floor.
 A black computer monitor on a wooden desk, with a black armrest and a black keyboard.
 A computer desk with a monitor, keyboard, and mouse, positioned against a wall with a door and an electrical outlet.
+An image with a door, a table, a rug, a wall, a tv, and a keyboard.
+An image with a door, a tv, a wall, a keyboard, a rug, and a table.
+An image with a table, a door, a keyboard, a rug, a tv, and a wall.
+An image with a table, a door, a wall, a rug, a keyboard, and a tv.
+An image with a tv, a rug, a table, a door, a keyboard, and a wall.

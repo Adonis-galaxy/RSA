@@ -8,3 +8,8 @@ The image shows a street with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sides of the road, leading to a cul-de-sac at the end, where a blue van is parked in front of a white building.
 The image shows a narrow street lined with parked cars, including a large blue van, and apartment buildings on either side.
 A narrow street lined with parked cars and buildings, leading to a cul-de-sac.
+An image with six cars, a pavement, a dirt, a road, a house, a tree, and a grass.
+An image with a road, six cars, a dirt, a grass, a house, a pavement, and a tree.
+An image with a tree, six cars, a house, a dirt, a pavement, a grass, and a road.
+An image with a house, six cars, a pavement, a grass, a tree, a road, and a dirt.
+An image with a road, six cars, a house, a pavement, a dirt, a tree, and a grass.

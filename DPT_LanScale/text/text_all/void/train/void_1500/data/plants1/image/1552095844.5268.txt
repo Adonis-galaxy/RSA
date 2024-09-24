@@ -8,3 +8,8 @@ A concrete slab in a garden.
 A concrete slab is embedded in a garden with plants and rocks.
 A large cement slab is embedded in the ground, surrounded by plants and grass.
 A concrete slab is embedded in a garden with plants and rocks.
+An image with a gravel, a tree, and a wall.
+An image with a tree, a gravel, and a wall.
+An image with a gravel, a wall, and a tree.
+An image with a wall, a gravel, and a tree.
+An image with a tree, a wall, and a gravel.

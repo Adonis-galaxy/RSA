@@ -8,3 +8,8 @@ A man is sleeping in a cubicle with a backpack on a table.
 A man is sleeping in a cubicle with a chair, desk, and a backpack on a table.
 A man is sleeping in a cubicle with a chair, a desk, a trash can, and a backpack.
 A man is sleeping in a cubicle with a desk, chair, and a backpack on a table.
+An image with a wall, a person, two books, two chairs, a suitcase, a table, a floor, a door, and a paper.
+An image with a suitcase, a floor, a paper, two books, two chairs, a wall, a person, a door, and a table.
+An image with a paper, a table, a suitcase, two chairs, a door, a wall, two books, a floor, and a person.
+An image with two chairs, a paper, a wall, a table, a suitcase, a person, two books, a door, and a floor.
+An image with two chairs, a suitcase, two books, a table, a door, a paper, a wall, a person, and a floor.

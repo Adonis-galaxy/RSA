@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a cityscape, with a focus on a white building with a green roof, surrounded by other buildings.
 The image shows a small model of a cityscape, including buildings and a courtyard, displayed behind a glass case.
 The image shows a model of a cityscape with buildings and a courtyard, displayed behind a glass case.
+An image with a ceiling, a building, a floor, a cabinet, and a wall.
+An image with a building, a floor, a ceiling, a wall, and a cabinet.
+An image with a cabinet, a floor, a wall, a building, and a ceiling.
+An image with a cabinet, a building, a ceiling, a wall, and a floor.
+An image with a ceiling, a floor, a cabinet, a building, and a wall.

@@ -8,3 +8,8 @@ A white table with a light shining on it.
 The image shows a room with a table and chairs, illuminated by a single light source, creating a stark contrast between the light and shadow.
 The image shows a large white table with a few chairs around it, illuminated by a bright light source.
 The image shows a room with a long table and four chairs, illuminated by a single light source.
+An image with two floors, four chairs, two dinings, and a wall.
+An image with two dinings, four chairs, two floors, and a wall.
+An image with two dinings, four chairs, a wall, and two floors.
+An image with two dinings, four chairs, two floors, and a wall.
+An image with two floors, four chairs, a wall, and two dinings.

@@ -8,3 +8,8 @@ A man is sleeping in a chair.
 A person is sitting in a chair, and the chair is placed in front of a wooden cabinet.
 A person is sitting in a chair in a room with a desk and a cabinet.
 The image shows a person sitting in a chair with their head resting on a wooden cabinet, with a blurred background that includes a door and a blue object.
+An image with a counter, a wall, a refrigerator, a floor, a book, a person, and a door.
+An image with a counter, a door, a refrigerator, a book, a floor, a person, and a wall.
+An image with a door, a wall, a book, a counter, a floor, a refrigerator, and a person.
+An image with a floor, a refrigerator, a door, a book, a counter, a wall, and a person.
+An image with a door, a person, a counter, a floor, a wall, a book, and a refrigerator.

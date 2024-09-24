@@ -8,3 +8,8 @@ A white truck is parked on the side of a tree-lined street.
 A white tow truck parked on a tree-lined street, with a clear sky overhead and a white building on the right side.
 A large white truck is parked on a narrow street between two buildings, with trees lining the road and a sidewalk on the right side.
 A tree-lined street with a white building on the right side, leading to a white truck parked in front of a fence.
+An image with a sky, a tree, a pavement, a road, a truck, three cars, a house, a wall, and a grass.
+An image with a sky, a pavement, a tree, a road, three cars, a house, a wall, a grass, and a truck.
+An image with a truck, three cars, a grass, a pavement, a sky, a wall, a road, a house, and a tree.
+An image with a pavement, a grass, a wall, three cars, a sky, a road, a tree, a house, and a truck.
+An image with a house, three cars, a sky, a wall, a pavement, a grass, a tree, a road, and a truck.

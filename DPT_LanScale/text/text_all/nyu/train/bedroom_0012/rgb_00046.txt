@@ -8,3 +8,8 @@ A framed picture on a wall.
 The image captures a simple, uncluttered room with a framed picture on the wall, a wooden table with a glass on it, and a bed with a pillow.
 The image shows a small room with a framed picture on the wall, a wooden table with a glass on it, and a bed with a pillow.
 The image shows a room with a framed picture on the wall, a wooden table with a glass on it, and a bed with a pillow.
+An image with a couch, a dining, a cup, and a wall.
+An image with a dining, a cup, a wall, and a couch.
+An image with a cup, a wall, a couch, and a dining.
+An image with a wall, a couch, a dining, and a cup.
+An image with a dining, a cup, a wall, and a couch.

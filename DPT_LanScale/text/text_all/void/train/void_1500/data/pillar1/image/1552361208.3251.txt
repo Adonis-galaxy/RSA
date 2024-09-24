@@ -8,3 +8,8 @@ A roll of paper leaning against a box.
 A roll of paper leaning against a box and a checkerboard sign.
 A large roll of paper leaning against a box and a checkerboard sign, all in a room with a door and a wall.
 A roll of paper leaning against a cardboard box next to a checkered board in a room with a door and a wall.
+An image with a tv, a cardboard, a floor, a wall, a door, and a paper.
+An image with a paper, a door, a tv, a wall, a cardboard, and a floor.
+An image with a tv, a door, a paper, a wall, a floor, and a cardboard.
+An image with a cardboard, a door, a paper, a tv, a wall, and a floor.
+An image with a floor, a door, a cardboard, a paper, a wall, and a tv.

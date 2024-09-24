@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a sink.
 The image shows a kitchen counter with a sink, a white box, and a few other items.
 The image shows a small kitchen with an orange countertop, a white sink, and a white cabinet.
 The image shows a small kitchen with an orange countertop, a white sink, and a white cabinet.
+An image with two bottles, a sink, a counter, a cabinet, a paper, a shelf, and a wall.
+An image with two bottles, a sink, a wall, a paper, a shelf, a cabinet, and a counter.
+An image with a sink, two bottles, a cabinet, a wall, a counter, a shelf, and a paper.
+An image with a cabinet, a sink, a counter, a shelf, a paper, two bottles, and a wall.
+An image with a shelf, a cabinet, a sink, a wall, a paper, two bottles, and a counter.

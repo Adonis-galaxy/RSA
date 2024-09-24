@@ -8,3 +8,8 @@ The image shows a blurry view of a room with a desk and some papers.
 The image shows a blurry view of a room with a desk, a pink bag, and a white door.
 The image shows a blurry view of a room with a yellow wall, a white door, and a desk with papers and a black object.
 The image shows a blurry view of a room with a yellow wall, a white door, and a desk with papers and a black object on it.
+An image with a paper, a wall, a door, and a light.
+An image with a door, a paper, a wall, and a light.
+An image with a wall, a door, a paper, and a light.
+An image with a light, a paper, a wall, and a door.
+An image with a paper, a light, a door, and a wall.

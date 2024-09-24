@@ -8,3 +8,8 @@ The image shows a street with parked cars and a person walking.
 A quiet residential street with parked cars and a clear blue sky.
 The image shows a narrow street lined with parked cars and lush greenery, with a few pedestrians visible, and a clear blue sky overhead.
 A quiet residential street with parked cars, lined by hedges and trees, leading to a house with a garage.
+An image with a sky, five cars, a road, a person, a house, a wall, a tree, and a pavement.
+An image with a sky, five cars, a person, a house, a pavement, a wall, a tree, and a road.
+An image with a house, five cars, a tree, a road, a wall, a person, a pavement, and a sky.
+An image with a tree, a pavement, five cars, a house, a wall, a road, a sky, and a person.
+An image with five cars, a person, a wall, a house, a pavement, a road, a tree, and a sky.

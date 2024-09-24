@@ -8,3 +8,8 @@ A car on a road.
 A car on a tree-lined street, with two people walking on a sidewalk, under a clear blue sky.
 A narrow road with a car and two people walking on the sidewalk, surrounded by lush greenery and trees.
 A tree-lined street with a car parked on the sidewalk, two people walking on the sidewalk, and a fence on the opposite side.
+An image with three people, two cars, a handbag, a tree, a bicycle, a fence, a road, and a pavement.
+An image with a handbag, three people, a tree, a bicycle, a pavement, a road, two cars, and a fence.
+An image with a road, three people, a pavement, a handbag, a fence, two cars, a tree, and a bicycle.
+An image with a fence, three people, a road, a pavement, two cars, a bicycle, a tree, and a handbag.
+An image with a pavement, three people, two cars, a bicycle, a fence, a tree, a road, and a handbag.

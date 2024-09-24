@@ -8,3 +8,8 @@ A room with a blue ball, a bookshelf, and a television.
 A room with a large collection of books, a blue exercise ball, and a television, all situated in a corner with a door.
 The image shows a room with a large blue exercise ball, a bookshelf filled with numerous books, and a television set.
 A room with a large bookshelf filled with books, a blue exercise ball, and a television.
+An image with twenty-four books, a curtain, a rug, a tv, a shelf, a door, a sports, and a floor.
+An image with twenty-four books, a sports, a tv, a door, a rug, a shelf, a floor, and a curtain.
+An image with twenty-four books, a rug, a tv, a door, a floor, a curtain, a sports, and a shelf.
+An image with a curtain, twenty-four books, a shelf, a door, a tv, a sports, a rug, and a floor.
+An image with twenty-four books, a door, a curtain, a rug, a tv, a sports, a shelf, and a floor.

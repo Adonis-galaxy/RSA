@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a cityscape with buildings and a street, displayed on a table.
 The image shows a model of a cityscape with buildings, including a large white building, and a person in the background.
 The image shows a model of a cityscape with various buildings, including a large white building and a smaller orange building, displayed on a table.
+An image with a cabinet, a counter, a wall, a person, and a floor.
+An image with a wall, a person, a cabinet, a counter, and a floor.
+An image with a floor, a counter, a cabinet, a wall, and a person.
+An image with a cabinet, a floor, a counter, a person, and a wall.
+An image with a cabinet, a counter, a wall, a person, and a floor.

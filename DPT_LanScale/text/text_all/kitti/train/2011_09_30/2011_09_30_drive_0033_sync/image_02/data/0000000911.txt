@@ -8,3 +8,8 @@ The image shows a residential street with houses, parked cars, and a sidewalk.
 The image captures a quiet residential street, with a clear path leading to a white house, surrounded by lush greenery and parked cars, under a bright sunny sky.
 The image shows a narrow street with parked cars, a curved road, and houses on both sides, with a large white arrow painted on the road.
 The image depicts a residential street with a curved layout, featuring houses, parked cars, and a clear sky.
+An image with six cars, a road, a house, a fence, a tree, a pavement, and a sky.
+An image with six cars, a fence, a road, a house, a sky, a pavement, and a tree.
+An image with six cars, a fence, a house, a pavement, a tree, a road, and a sky.
+An image with six cars, a pavement, a fence, a road, a tree, a sky, and a house.
+An image with a road, a house, six cars, a pavement, a tree, a fence, and a sky.

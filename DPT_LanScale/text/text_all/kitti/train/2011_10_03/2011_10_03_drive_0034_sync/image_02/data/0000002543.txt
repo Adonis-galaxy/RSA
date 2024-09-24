@@ -8,3 +8,8 @@ The image shows a street with a curved road and a white house with a black roof.
 The image captures a quiet residential street, with a series of garages and houses, leading to a cul-de-sac.
 The image shows a residential street with a large house on the left, a row of garages, a driveway, and a sidewalk. There are trees and bushes along the street, and the sky is clear.
 A quiet residential street with a cul-de-sac, featuring a row of garages, a house, and a tree-lined sidewalk.
+An image with a grass, a sky, a pavement, a road, a fence, a tree, and a house.
+An image with a tree, a pavement, a sky, a road, a fence, a grass, and a house.
+An image with a grass, a tree, a road, a pavement, a sky, a house, and a fence.
+An image with a road, a fence, a sky, a grass, a pavement, a house, and a tree.
+An image with a fence, a house, a road, a sky, a tree, a pavement, and a grass.

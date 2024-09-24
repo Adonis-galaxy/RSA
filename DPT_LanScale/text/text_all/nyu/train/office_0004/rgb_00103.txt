@@ -8,3 +8,8 @@ The image shows an indoor setting with a clock on the wall, a fire extinguisher,
 The image captures a simple, utilitarian office space with a focus on time management and safety.
 The image shows a small room with a green curtain, a clock on the wall, a fire extinguisher, a trash can, and a door.
 The image shows an indoor space with a green curtain, a clock on the wall, a fire extinguisher, a trash can, and a door.
+An image with a floor, a chair, a ceiling, a door, a clock, a wall, and a curtain.
+An image with a floor, a door, a ceiling, a curtain, a clock, a wall, and a chair.
+An image with a clock, a wall, a door, a ceiling, a chair, a floor, and a curtain.
+An image with a clock, a curtain, a door, a floor, a wall, a chair, and a ceiling.
+An image with a clock, a floor, a ceiling, a curtain, a chair, a door, and a wall.

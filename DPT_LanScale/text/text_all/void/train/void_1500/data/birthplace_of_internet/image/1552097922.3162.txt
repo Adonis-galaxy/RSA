@@ -8,3 +8,8 @@ A room with a large refrigerator and a desk.
 The image shows a room with a desk, a chair, a refrigerator, and a filing cabinet.
 The room is a small office with a desk, chair, and a large refrigerator.
 The image shows a room with a large refrigerator, a desk, a chair, a filing cabinet, and a bookshelf.
+An image with three chairs, eight books, a ceiling, a tv, a dining, a wall, a light, a cabinet, a refrigerator, a laptop, a shelf, a floor, a paper, and a person.
+An image with a wall, a dining, a floor, a person, eight books, a cabinet, a shelf, a ceiling, three chairs, a paper, a laptop, a tv, a light, and a refrigerator.
+An image with a cabinet, a light, eight books, a refrigerator, a paper, a laptop, a wall, a shelf, three chairs, a dining, a tv, a ceiling, a person, and a floor.
+An image with a dining, a light, eight books, a floor, three chairs, a laptop, a ceiling, a wall, a tv, a shelf, a cabinet, a refrigerator, a person, and a paper.
+An image with eight books, three chairs, a floor, a wall, a person, a tv, a laptop, a light, a cabinet, a paper, a refrigerator, a ceiling, a dining, and a shelf.

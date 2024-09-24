@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with a few vehicles parked, leading to a row of houses under a clear blue sky.
 A large truck is driving down a narrow street between two houses, with a construction site visible on the left side.
 A quiet residential street with parked vehicles, a paved road, and houses on both sides, under a clear blue sky.
+An image with a fence, a bench, a tree, a grass, a pavement, two cars, a road, and a bus.
+An image with a tree, a fence, a pavement, two cars, a road, a grass, a bus, and a bench.
+An image with a pavement, a grass, a bus, two cars, a tree, a fence, a bench, and a road.
+An image with a pavement, two cars, a grass, a road, a bench, a bus, a tree, and a fence.
+An image with a fence, a pavement, a grass, two cars, a bench, a road, a tree, and a bus.

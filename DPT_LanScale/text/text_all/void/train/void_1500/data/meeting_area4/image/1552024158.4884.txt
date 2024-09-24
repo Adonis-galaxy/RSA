@@ -8,3 +8,8 @@ A white office chair.
 The image shows a white desk with a chair in a room with a carpeted floor.
 The image shows a white desk with a chair in a room with a gray carpet.
 The image shows a white desk with a chair in a room with a carpeted floor and another desk in the background.
+An image with a floor, a dining, a wall, and two chairs.
+An image with a wall, two chairs, a floor, and a dining.
+An image with a floor, two chairs, a dining, and a wall.
+An image with two chairs, a wall, a floor, and a dining.
+An image with two chairs, a dining, a floor, and a wall.

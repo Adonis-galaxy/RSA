@@ -8,3 +8,8 @@ A large room with a blue line on the floor.
 The image shows an office space with a large desk, a smaller desk, a filing cabinet, and a large refrigerator.
 The image shows a small office space with a desk, chair, and a large gray filing cabinet.
 The image shows an office space with a large desk, a smaller desk, a filing cabinet, a large refrigerator, and a large cabinet. The room is painted green and has a blue line on the floor.
+An image with four chairs, a floor, two people, a shelf, a dining, a cabinet, a wall, a refrigerator, and a paper.
+An image with four chairs, a cabinet, a shelf, a paper, a floor, a refrigerator, a dining, a wall, and two people.
+An image with two people, a paper, a floor, a refrigerator, four chairs, a cabinet, a shelf, a dining, and a wall.
+An image with four chairs, a dining, a cabinet, a paper, a shelf, a refrigerator, a wall, two people, and a floor.
+An image with four chairs, two people, a dining, a floor, a wall, a cabinet, a refrigerator, a paper, and a shelf.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear sky.
 The image shows a narrow street lined with parked cars, with a large building on the left and a smaller building on the right.
 The image depicts a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with seven cars, a tree, a sky, a building, a road, and a pavement.
+An image with seven cars, a pavement, a building, a road, a sky, and a tree.
+An image with seven cars, a building, a road, a pavement, a sky, and a tree.
+An image with a building, seven cars, a pavement, a tree, a road, and a sky.
+An image with a building, a road, a tree, a pavement, seven cars, and a sky.

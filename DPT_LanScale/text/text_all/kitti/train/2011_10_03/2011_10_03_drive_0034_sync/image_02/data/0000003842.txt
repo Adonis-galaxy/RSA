@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet, tree-lined street with parked cars, leading to a residential area.
 The image depicts a narrow, tree-lined street with parked cars on the side, leading to a white building with a balcony.
 A quiet residential street with parked cars, lined by trees and apartment buildings, leading to a cul-de-sac.
+An image with five cars, a tree, a sky, a house, a stairs, a road, and a pavement.
+An image with a road, five cars, a pavement, a house, a stairs, a sky, and a tree.
+An image with a sky, five cars, a house, a road, a pavement, a stairs, and a tree.
+An image with five cars, a stairs, a tree, a road, a pavement, a house, and a sky.
+An image with a tree, a pavement, five cars, a house, a sky, a stairs, and a road.

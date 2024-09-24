@@ -8,3 +8,8 @@ A car on a road.
 A traffic jam on a tree-lined road.
 A long line of cars driving down a tree-lined road.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with six cars, a road, a sky, a tree, and a grass.
+An image with a tree, a road, a sky, six cars, and a grass.
+An image with six cars, a sky, a grass, a road, and a tree.
+An image with six cars, a sky, a tree, a road, and a grass.
+An image with six cars, a grass, a road, a sky, and a tree.

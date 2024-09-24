@@ -8,3 +8,8 @@ Two black chairs with orange armrests.
 Two black chairs with orange armrests, one in the foreground and one in the background, sitting on a white floor.
 Two black chairs with orange armrests.
 Two black chairs with orange armrests, positioned side by side against a wooden wall.
+An image with two chairs, a floor, and a wall.
+An image with a wall, a floor, and two chairs.
+An image with a floor, two chairs, and a wall.
+An image with a wall, a floor, and two chairs.
+An image with a wall, two chairs, and a floor.

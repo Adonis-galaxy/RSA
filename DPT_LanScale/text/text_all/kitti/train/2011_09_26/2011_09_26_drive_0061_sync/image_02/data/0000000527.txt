@@ -8,3 +8,8 @@ A red car driving down a narrow street.
 A red car is driving down a narrow, tree-lined street, with a lamp post on the left side and a brick wall on the right.
 A red car is driving down a narrow, tree-lined street.
 A narrow, tree-lined road with a red car driving down it, flanked by stone walls and a street lamp.
+An image with two cars, a pavement, a wall, a road, a sky, and a tree.
+An image with two cars, a wall, a sky, a tree, a road, and a pavement.
+An image with a sky, two cars, a road, a pavement, a tree, and a wall.
+An image with a wall, a tree, two cars, a sky, a road, and a pavement.
+An image with a road, a wall, a pavement, two cars, a sky, and a tree.

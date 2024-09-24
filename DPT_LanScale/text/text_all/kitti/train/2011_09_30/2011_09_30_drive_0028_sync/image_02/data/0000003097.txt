@@ -8,3 +8,8 @@ A person walking down a tree-lined street.
 A person walking down a tree-lined street between parked cars, with a dog on a leash.
 A person is walking down a narrow, tree-lined street between two-story buildings, with parked cars visible on the sides.
 A person walks down a tree-lined street between two-story buildings, with parked cars and a dog on a leash.
+An image with four cars, a house, a fence, a road, a person, a dog, a sky, a tree, and a pavement.
+An image with a fence, four cars, a tree, a road, a person, a sky, a house, a pavement, and a dog.
+An image with a sky, a pavement, four cars, a road, a fence, a dog, a house, a person, and a tree.
+An image with four cars, a pavement, a house, a road, a dog, a fence, a person, a tree, and a sky.
+An image with four cars, a sky, a fence, a tree, a pavement, a road, a house, a person, and a dog.

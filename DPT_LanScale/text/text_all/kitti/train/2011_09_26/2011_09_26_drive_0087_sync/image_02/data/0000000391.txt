@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 The image captures a narrow alleyway between two buildings, with a bridge arching overhead and a fence on the left side, leading to a street on the right.
 The image shows a narrow alleyway between two buildings, with a large archway on the left side and a smaller archway on the right side. The alleyway is lined with greenery and has a paved surface.
 The image shows a narrow alleyway between two buildings, with a bridge arching over it, and a concrete wall on the right side.
+An image with two cars, a fence, a house, a sky, a pavement, a bridge, a tree, and a wall.
+An image with two cars, a sky, a wall, a fence, a pavement, a bridge, a house, and a tree.
+An image with a pavement, two cars, a sky, a bridge, a house, a tree, a wall, and a fence.
+An image with two cars, a fence, a sky, a wall, a house, a tree, a pavement, and a bridge.
+An image with a wall, a sky, a pavement, two cars, a fence, a tree, a house, and a bridge.

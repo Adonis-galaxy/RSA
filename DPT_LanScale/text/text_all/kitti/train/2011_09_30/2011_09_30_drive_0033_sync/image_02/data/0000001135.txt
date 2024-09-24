@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quaint, tree-lined street in a European town, with a pedestrian crossing and parked cars, under a clear blue sky.
 The image shows a narrow street in a European town with a crosswalk, parked cars, and pedestrians.
 The image depicts a European street scene with a crosswalk, parked cars, and a pedestrian walking on the sidewalk.
+An image with four people, a sky, four cars, a traffic, a wall, a tree, a backpack, a fence, a house, a road, and a pavement.
+An image with a road, four cars, a sky, a tree, a pavement, four people, a house, a fence, a wall, a traffic, and a backpack.
+An image with four cars, a wall, a house, a fence, a road, four people, a pavement, a traffic, a backpack, a sky, and a tree.
+An image with a pavement, a house, a sky, four cars, a tree, a road, a traffic, four people, a fence, a wall, and a backpack.
+An image with four people, four cars, a sky, a wall, a tree, a backpack, a house, a pavement, a road, a fence, and a traffic.

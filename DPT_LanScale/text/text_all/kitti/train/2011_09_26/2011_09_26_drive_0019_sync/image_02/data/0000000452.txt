@@ -8,3 +8,8 @@ A white car driving down a tree-lined street.
 A white car is driving down a tree-lined street, with other cars following behind.
 A white car is driving down a tree-lined street, with a black car following behind.
 A white car is driving down a tree-lined street with other cars, and there are buildings on the side.
+An image with four cars, a grass, a truck, a road, a tree, and a person.
+An image with a truck, a tree, a road, a grass, four cars, and a person.
+An image with a truck, four cars, a tree, a person, a road, and a grass.
+An image with a person, four cars, a grass, a road, a truck, and a tree.
+An image with a tree, four cars, a truck, a road, a person, and a grass.

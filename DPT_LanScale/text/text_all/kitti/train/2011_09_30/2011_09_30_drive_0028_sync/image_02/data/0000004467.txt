@@ -8,3 +8,8 @@ A tree-lined street.
 A serene suburban street, lined with lush greenery and a solitary cyclist, under a clear blue sky.
 A person riding a bicycle on a shaded street next to a park.
 A tree-lined street with a parked car, a bicyclist, and a pedestrian, all under a clear sky.
+An image with a building, a bicycle, a road, a car, a grass, a tree, a pavement, and a person.
+An image with a tree, a car, a bicycle, a person, a road, a building, a grass, and a pavement.
+An image with a person, a pavement, a tree, a bicycle, a grass, a car, a building, and a road.
+An image with a building, a bicycle, a road, a person, a car, a tree, a pavement, and a grass.
+An image with a car, a pavement, a building, a tree, a grass, a road, a person, and a bicycle.

@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a clear blue sky.
 The image shows a residential street with parked cars, a sidewalk, and houses on both sides.
 A quiet residential street with parked cars, a sidewalk, and houses on both sides.
+An image with a grass, a wall, a house, a fence, a mountain, a tree, a sky, four cars, a road, and a pavement.
+An image with a fence, a grass, four cars, a house, a pavement, a mountain, a road, a tree, a sky, and a wall.
+An image with a house, a fence, a sky, a tree, four cars, a pavement, a grass, a wall, a road, and a mountain.
+An image with a mountain, four cars, a wall, a tree, a grass, a road, a house, a sky, a pavement, and a fence.
+An image with a road, a house, a pavement, four cars, a grass, a tree, a fence, a mountain, a wall, and a sky.

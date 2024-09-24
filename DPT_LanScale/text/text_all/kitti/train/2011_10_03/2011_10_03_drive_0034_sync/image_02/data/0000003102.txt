@@ -8,3 +8,8 @@ The image shows a street with parked cars and a trash can.
 A narrow street in a residential area, lined with parked cars and a few moving vehicles, under a bright sunny sky.
 A narrow street lined with parked cars and a few moving vehicles, with a mix of residential buildings and trees.
 A narrow street lined with parked cars and a few moving vehicles, with a mix of residential and commercial buildings, and a clear sky overhead.
+An image with five cars, a door, a pavement, a road, a sky, a tree, and a wall.
+An image with a sky, a door, five cars, a wall, a road, a tree, and a pavement.
+An image with five cars, a tree, a sky, a pavement, a wall, a door, and a road.
+An image with a road, a tree, five cars, a pavement, a wall, a door, and a sky.
+An image with a tree, five cars, a wall, a pavement, a door, a road, and a sky.

@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on the left side.
 A quiet suburban street, lined with trees and houses, leading to a cul-de-sac.
 A tree-lined street with a curved bend, leading to a residential area with houses and a parked car.
 A tree-lined street with a curved bend, leading to a residential area with houses and a parked car.
+An image with a house, a sky, a pavement, a grass, a road, and a tree.
+An image with a road, a house, a sky, a grass, a tree, and a pavement.
+An image with a road, a house, a pavement, a sky, a grass, and a tree.
+An image with a house, a tree, a road, a grass, a pavement, and a sky.
+An image with a sky, a tree, a pavement, a house, a grass, and a road.

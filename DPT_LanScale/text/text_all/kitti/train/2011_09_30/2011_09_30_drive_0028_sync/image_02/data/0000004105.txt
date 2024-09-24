@@ -8,3 +8,8 @@ A woman riding a bicycle on a street.
 A woman riding a bicycle on a tree-lined street, with a garbage can and a truck parked on the side.
 A woman riding a bicycle on a tree-lined street with a large truck parked on the side.
 A woman riding a bicycle on a tree-lined street with parked cars and a green trash can.
+An image with a tree, a road, a pavement, a handbag, four cars, a sky, a person, a house, and a truck.
+An image with a tree, four cars, a road, a handbag, a sky, a house, a person, a pavement, and a truck.
+An image with a truck, four cars, a tree, a pavement, a house, a person, a road, a handbag, and a sky.
+An image with four cars, a truck, a house, a tree, a handbag, a pavement, a road, a sky, and a person.
+An image with four cars, a truck, a tree, a road, a handbag, a sky, a pavement, a house, and a person.

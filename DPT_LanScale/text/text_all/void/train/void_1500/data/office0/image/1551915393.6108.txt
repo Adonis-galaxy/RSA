@@ -8,3 +8,8 @@ A book on a table.
 A table with a book, papers, and a cup on it.
 A white marble table with a yellow book and a white mug on it.
 A table with a book, papers, and a cup.
+An image with a dining, a book, a cup, and a wall.
+An image with a wall, a book, a dining, and a cup.
+An image with a wall, a dining, a cup, and a book.
+An image with a cup, a book, a wall, and a dining.
+An image with a dining, a book, a wall, and a cup.

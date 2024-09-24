@@ -8,3 +8,8 @@ A bedroom with a bed and a window.
 The image captures a cozy bedroom scene with a neatly made bed, a nightstand with a lamp, and framed artwork on the wall.
 The image shows a bedroom with a large bed, a nightstand, a lamp, a window with blinds, and framed pictures on the wall.
 The image shows a neatly made bed in a bedroom with a view of the window, a nightstand, and framed artwork on the wall.
+An image with a light, a bed, a window, a clock, a wall, a ceiling, and a floor.
+An image with a wall, a light, a floor, a bed, a ceiling, a window, and a clock.
+An image with a floor, a light, a bed, a clock, a window, a ceiling, and a wall.
+An image with a wall, a light, a ceiling, a window, a bed, a floor, and a clock.
+An image with a window, a wall, a clock, a bed, a ceiling, a floor, and a light.

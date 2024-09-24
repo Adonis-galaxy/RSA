@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear view of the road ahead.
 The image shows a narrow street lined with parked cars and a white wall on the right side, with trees and a clear blue sky above.
 A narrow, tree-lined street with parked cars and a sidewalk.
+An image with four cars, a sky, a road, a fence, a tree, a potted, and a pavement.
+An image with a tree, a road, four cars, a potted, a fence, a pavement, and a sky.
+An image with a fence, four cars, a road, a sky, a potted, a tree, and a pavement.
+An image with four cars, a potted, a sky, a road, a tree, a pavement, and a fence.
+An image with a tree, four cars, a pavement, a sky, a potted, a fence, and a road.

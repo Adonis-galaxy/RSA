@@ -8,3 +8,8 @@ The image shows a blue car driving down a tree-lined street.
 A blue Audi car is driving down a tree-lined street, with other cars parked along the side, and a yellow box on the sidewalk.
 A blue Audi car is driving down a tree-lined street, with a yellow box on the side of the road.
 A blue Audi car is driving down a tree-lined street with a few other cars parked on the side, and a yellow box on the sidewalk.
+An image with four cars, a dirt, a tree, a house, a pavement, a road, and a grass.
+An image with four cars, a tree, a pavement, a house, a dirt, a grass, and a road.
+An image with four cars, a dirt, a pavement, a house, a tree, a road, and a grass.
+An image with four cars, a grass, a house, a road, a pavement, a dirt, and a tree.
+An image with a dirt, a grass, a road, four cars, a house, a pavement, and a tree.

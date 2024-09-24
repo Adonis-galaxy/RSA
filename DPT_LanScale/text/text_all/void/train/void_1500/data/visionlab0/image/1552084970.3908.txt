@@ -8,3 +8,8 @@ A black and gray office chair.
 A black office chair with a yellow cup on a desk.
 A black and gray office chair with a yellow cup on a desk.
 A black and gray office chair with a yellow cup on a desk.
+An image with a wall, a door, a floor, a cabinet, two cups, two chairs, and a paper.
+An image with a paper, two cups, a wall, a floor, a cabinet, two chairs, and a door.
+An image with two cups, a wall, two chairs, a door, a paper, a cabinet, and a floor.
+An image with two chairs, a door, a floor, a paper, two cups, a cabinet, and a wall.
+An image with a wall, a door, two cups, two chairs, a floor, a cabinet, and a paper.

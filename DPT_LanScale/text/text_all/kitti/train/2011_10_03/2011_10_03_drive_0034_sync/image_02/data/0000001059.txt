@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a shaded street, with a clear sky above and a row of hedges lining the road.
 A person riding a motorcycle on a narrow street between hedges and trees.
 A person riding a motorcycle on a tree-lined street, with a sidewalk and a building on the right side.
+An image with a tree, a sky, a person, a car, a motorcycle, a road, a wall, and a pavement.
+An image with a car, a sky, a road, a tree, a motorcycle, a pavement, a wall, and a person.
+An image with a wall, a tree, a pavement, a person, a sky, a motorcycle, a car, and a road.
+An image with a motorcycle, a wall, a car, a pavement, a road, a person, a tree, and a sky.
+An image with a car, a motorcycle, a road, a tree, a person, a pavement, a wall, and a sky.

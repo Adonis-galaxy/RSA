@@ -8,3 +8,8 @@ A concrete curb with grass and dirt.
 The image shows a concrete curb next to a sandy area with grass and a fallen tree trunk.
 The image shows a concrete curb with a sandy area behind it, featuring a few small plants and a large piece of driftwood.
 The image shows a concrete curb with a sandy area behind it, featuring a few plants and a fallen tree trunk.
+An image with a sand, two walls, a tree, and a pavement.
+An image with a sand, a tree, two walls, and a pavement.
+An image with a sand, two walls, a pavement, and a tree.
+An image with a tree, two walls, a sand, and a pavement.
+An image with two walls, a tree, a pavement, and a sand.

@@ -8,3 +8,8 @@ The image shows a street scene with a traffic sign, cars, trucks, and a construc
 The image captures a scene of a city street with parked vehicles, a construction zone, and a pedestrian crossing, all under a clear blue sky.
 The image shows a wide street with a few parked cars, a construction zone with a traffic sign and barriers, and a clear sky.
 A busy city street with parked vehicles, a construction zone, and a pedestrian crossing.
+An image with six trucks, six cars, three people, a grass, a tree, a road, a sky, a building, and a pavement.
+An image with six cars, six trucks, a tree, a pavement, three people, a building, a sky, a grass, and a road.
+An image with a sky, six trucks, six cars, a road, a grass, three people, a pavement, a building, and a tree.
+An image with a sky, a road, six cars, three people, a building, a pavement, a tree, six trucks, and a grass.
+An image with a pavement, six cars, three people, a road, six trucks, a tree, a building, a sky, and a grass.

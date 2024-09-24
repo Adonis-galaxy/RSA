@@ -8,3 +8,8 @@ A blue kitchen cabinet.
 The image shows a blue countertop with a light fixture above it, and a brown cardboard box on the counter.
 The image shows a blue countertop with a light fixture above it, and a brown cardboard box on the counter.
 The image shows a blue countertop with a light fixture above it, and a brown cardboard box on the counter.
+An image with a paper, a cabinet, a cardboard, a light, and a wall.
+An image with a cabinet, a paper, a light, a wall, and a cardboard.
+An image with a paper, a light, a wall, a cardboard, and a cabinet.
+An image with a light, a cardboard, a paper, a wall, and a cabinet.
+An image with a cardboard, a cabinet, a light, a paper, and a wall.

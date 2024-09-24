@@ -8,3 +8,8 @@ The image shows a room with two black chairs and an orange desk.
 The image shows a room with two black chairs and an orange desk, all placed on a white floor.
 The image shows a room with two black chairs and an orange desk, all placed on a white floor.
 The image shows a room with two black chairs and an orange desk, all placed on a white floor.
+An image with a wall, three chairs, a table, and a floor.
+An image with a wall, three chairs, a table, and a floor.
+An image with three chairs, a table, a floor, and a wall.
+An image with three chairs, a table, a wall, and a floor.
+An image with three chairs, a wall, a table, and a floor.

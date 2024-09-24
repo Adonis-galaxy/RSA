@@ -8,3 +8,8 @@ The image shows a street with parked cars and a wall on the side.
 The image captures a serene residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a narrow street lined with trees and parked cars, with a large concrete wall on the right side.
 A tree-lined street with parked cars and a concrete wall on the right side.
+An image with a sky, a house, three cars, a dirt, a wall, a road, and a tree.
+An image with a road, a dirt, three cars, a house, a wall, a tree, and a sky.
+An image with a road, a tree, three cars, a dirt, a wall, a sky, and a house.
+An image with a road, three cars, a tree, a dirt, a house, a wall, and a sky.
+An image with a tree, a wall, a road, a dirt, a house, three cars, and a sky.

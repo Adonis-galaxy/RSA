@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A cyclist navigates a city street, passing a white van and a parked bicycle, while a pedestrian carries a bag and a baby stroller.
 A man riding a bicycle on a street with a white van, a bus, a truck, a car, a motorcycle, a bicycle, a bench, a tree, a building, a traffic light, and a person with a backpack.
 A cyclist rides on a street with parked bicycles, a white van, and a bus, under a tree-lined street with apartment buildings and a traffic light.
+An image with a pavement, five bicycles, two cars, a tree, two traffics, a building, a truck, a road, a handbag, a sky, and a person.
+An image with a pavement, two traffics, five bicycles, a person, a handbag, a sky, a road, a building, two cars, a tree, and a truck.
+An image with two cars, five bicycles, two traffics, a person, a handbag, a tree, a building, a truck, a pavement, a sky, and a road.
+An image with two traffics, five bicycles, a truck, a pavement, two cars, a handbag, a tree, a sky, a road, a person, and a building.
+An image with two cars, five bicycles, two traffics, a pavement, a building, a road, a person, a sky, a truck, a handbag, and a tree.

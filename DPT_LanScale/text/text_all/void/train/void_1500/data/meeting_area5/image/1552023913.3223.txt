@@ -8,3 +8,8 @@ A row of white chairs and tables.
 The image shows a row of white chairs and tables in a room, with the chairs pushed under the tables.
 The image shows a room with a long white table and several white chairs, with a yellow wall in the background.
 The image shows a row of white chairs and tables in a room with a yellow wall.
+An image with three dinings, a wall, six chairs, a floor, and a door.
+An image with six chairs, a wall, three dinings, a floor, and a door.
+An image with three dinings, six chairs, a floor, a door, and a wall.
+An image with a floor, a door, six chairs, a wall, and three dinings.
+An image with a wall, three dinings, six chairs, a door, and a floor.

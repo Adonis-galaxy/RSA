@@ -8,3 +8,8 @@ The image shows a street scene with a black SUV driving down the road.
 The image captures a moment on a tree-lined street where a black SUV is driving away from a stop sign, with other vehicles parked along the side of the road.
 The image shows a street scene with a large black SUV driving down the road, surrounded by trees and other vehicles parked on the side of the road.
 The image captures a sunny day on a tree-lined street, with a black SUV driving away from a stop sign, while other vehicles are parked along the side of the road.
+An image with seven cars, a tree, a parking, a road, a sky, a pavement, and a traffic.
+An image with seven cars, a traffic, a parking, a tree, a sky, a road, and a pavement.
+An image with seven cars, a traffic, a tree, a sky, a pavement, a road, and a parking.
+An image with a traffic, seven cars, a road, a sky, a parking, a tree, and a pavement.
+An image with a parking, seven cars, a road, a sky, a tree, a traffic, and a pavement.

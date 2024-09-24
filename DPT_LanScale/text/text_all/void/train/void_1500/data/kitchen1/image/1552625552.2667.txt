@@ -8,3 +8,8 @@ A blue basket with straws and a white basket with straws on a table.
 A blue basket with a white cup and a yellow basket with a white cup on a counter.
 A blue basket with straws and a white basket with straws on a counter.
 A blue basket with a white cup and a yellow basket with a white cup on a counter.
+An image with a refrigerator, a cup, a table, a spoon, a wall, and a food.
+An image with a wall, a spoon, a table, a food, a cup, and a refrigerator.
+An image with a refrigerator, a table, a cup, a food, a spoon, and a wall.
+An image with a food, a cup, a refrigerator, a wall, a spoon, and a table.
+An image with a food, a table, a wall, a refrigerator, a cup, and a spoon.

@@ -8,3 +8,8 @@ A kitchen with a tile floor.
 The image shows an empty room with a kitchenette featuring a countertop, a sink, and a stove. The room has a blue wall and a tiled floor, and there is a chair in the foreground.
 The image shows a small, empty kitchen with a tiled floor, a black refrigerator, a white countertop, and a window with white curtains.
 The image shows a kitchen with a tiled floor, a black refrigerator, a white countertop, a window with curtains, and a chair.
+An image with a floor, a window, a oven, a counter, a cabinet, a curtain, a chair, and a wall.
+An image with a chair, a oven, a floor, a window, a curtain, a counter, a wall, and a cabinet.
+An image with a curtain, a window, a wall, a counter, a cabinet, a oven, a floor, and a chair.
+An image with a floor, a chair, a oven, a counter, a curtain, a wall, a cabinet, and a window.
+An image with a wall, a curtain, a floor, a cabinet, a counter, a window, a chair, and a oven.

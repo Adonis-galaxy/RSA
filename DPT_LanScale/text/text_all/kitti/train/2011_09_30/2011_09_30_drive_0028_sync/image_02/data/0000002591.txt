@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow street with two cars parked on the side, a person walking on the sidewalk, and a building with a blue sign. The trees are lush and green, and the sky is clear.
 The image shows a quiet residential street with two parked cars, a sidewalk, and a row of houses with trees lining the road.
+An image with three cars, a road, a grass, a house, a sky, a person, a pavement, and a tree.
+An image with a house, a sky, a grass, three cars, a road, a person, a pavement, and a tree.
+An image with a sky, a grass, a house, a pavement, three cars, a person, a road, and a tree.
+An image with three cars, a person, a grass, a house, a road, a pavement, a sky, and a tree.
+An image with three cars, a pavement, a tree, a sky, a person, a road, a house, and a grass.

@@ -8,3 +8,8 @@ The image shows a white desk and chair in an office setting.
 The image shows a room with two white tables and chairs, one of which has a round hole in the floor beneath it.
 The image shows a room with two white tables and four white chairs, with a round white object on the floor between the tables.
 The image shows a room with two white tables and chairs, positioned on a gray carpeted floor, with a clock in the center of the room.
+An image with six chairs, a floor, a wall, two dinings, and a door.
+An image with a floor, six chairs, a door, two dinings, and a wall.
+An image with six chairs, a door, a wall, two dinings, and a floor.
+An image with a floor, a door, two dinings, six chairs, and a wall.
+An image with six chairs, a wall, a floor, two dinings, and a door.

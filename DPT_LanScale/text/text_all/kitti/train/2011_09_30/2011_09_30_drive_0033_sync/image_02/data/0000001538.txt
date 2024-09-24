@@ -8,3 +8,8 @@ A tree-lined road in a residential area.
 A quiet, tree-lined street with a single car parked at the end, leading to a residential area.
 A tree-lined road with a car parked on the side, leading to a house in the distance.
 A tree-lined road curves gently through a residential area, with a sidewalk and streetlights on the right side.
+An image with a tree, a house, a car, a pavement, a grass, a road, and a sky.
+An image with a car, a sky, a road, a grass, a house, a tree, and a pavement.
+An image with a tree, a pavement, a grass, a car, a road, a sky, and a house.
+An image with a grass, a car, a road, a tree, a house, a sky, and a pavement.
+An image with a road, a pavement, a grass, a sky, a tree, a house, and a car.

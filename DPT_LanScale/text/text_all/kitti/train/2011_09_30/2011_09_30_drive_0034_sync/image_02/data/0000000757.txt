@@ -8,3 +8,8 @@ A white van parked on the side of a street.
 A quiet, tree-lined street in a residential area, with a single van parked on the sidewalk.
 A large white van is driving down a narrow street between two-story buildings, with trees and bushes lining the road.
 A quiet, tree-lined street in a residential area, with a white van parked on the sidewalk.
+An image with two walls, a truck, a window, a house, a tree, a car, a road, a sky, and a pavement.
+An image with a sky, two walls, a tree, a truck, a pavement, a house, a road, a car, and a window.
+An image with two walls, a truck, a house, a pavement, a car, a window, a tree, a sky, and a road.
+An image with a window, two walls, a truck, a road, a pavement, a sky, a car, a tree, and a house.
+An image with two walls, a house, a sky, a truck, a window, a pavement, a tree, a road, and a car.

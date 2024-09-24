@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes of traffic.
 The image captures a scene of a busy highway with multiple lanes of traffic, surrounded by a lush green forest, with a clear sky overhead.
 A long, tree-lined road with multiple cars driving on it.
 A long, straight, tree-lined road with multiple lanes of traffic, marked by white lines and a speed limit sign, leading to a forest.
+An image with a grass, six cars, a tree, a pavement, a sky, and a road.
+An image with six cars, a road, a tree, a pavement, a sky, and a grass.
+An image with a tree, six cars, a grass, a sky, a pavement, and a road.
+An image with a pavement, six cars, a grass, a road, a tree, and a sky.
+An image with a sky, six cars, a grass, a tree, a road, and a pavement.

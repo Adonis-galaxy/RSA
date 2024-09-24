@@ -8,3 +8,8 @@ A blurry image of a cardboard box in a kitchen.
 The image shows a kitchen with a green wall, a white refrigerator, and a cardboard box on the counter.
 The image shows a small, empty cardboard box in a green room, with a white refrigerator in the background.
 The image shows a kitchen with a green wall, a white refrigerator, and a cardboard box on the counter.
+An image with a cardboard, a refrigerator, a ceiling, a light, a floor, and a wall.
+An image with a cardboard, a wall, a floor, a ceiling, a refrigerator, and a light.
+An image with a floor, a light, a wall, a cardboard, a refrigerator, and a ceiling.
+An image with a light, a ceiling, a refrigerator, a cardboard, a wall, and a floor.
+An image with a wall, a floor, a cardboard, a light, a ceiling, and a refrigerator.

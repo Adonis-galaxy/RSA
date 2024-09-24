@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is tucked under a white table.
 A blue chair with metal legs is tucked under a white table.
 A blue chair is tucked under a white table, with cords and wires on the table.
+An image with a chair, a tv, a dining, a person, and a floor.
+An image with a dining, a chair, a floor, a person, and a tv.
+An image with a floor, a person, a dining, a tv, and a chair.
+An image with a chair, a floor, a dining, a person, and a tv.
+An image with a dining, a tv, a floor, a chair, and a person.

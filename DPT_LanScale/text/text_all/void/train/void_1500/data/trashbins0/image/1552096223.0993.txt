@@ -8,3 +8,8 @@ A brown folding chair.
 The image shows a small, empty room with a door and a chair.
 The image shows a small, brown step stool in a corner of a room with a white door.
 The image shows a small room with a door, a chair, and a trash can.
+An image with a floor, a chair, and a wall.
+An image with a wall, a floor, and a chair.
+An image with a floor, a wall, and a chair.
+An image with a chair, a floor, and a wall.
+An image with a chair, a wall, and a floor.

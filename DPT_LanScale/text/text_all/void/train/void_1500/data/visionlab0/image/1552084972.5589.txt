@@ -8,3 +8,8 @@ A blue backpack on a blue chair.
 A blue backpack sits on a blue chair next to a desk with a computer monitor.
 A blue backpack is sitting on a blue chair.
 A blue backpack is sitting on a blue chair next to a desk with a computer monitor and a white car model.
+An image with a backpack, a wall, a bed, a refrigerator, and a car.
+An image with a refrigerator, a car, a backpack, a bed, and a wall.
+An image with a car, a bed, a backpack, a refrigerator, and a wall.
+An image with a backpack, a refrigerator, a bed, a car, and a wall.
+An image with a refrigerator, a backpack, a car, a bed, and a wall.

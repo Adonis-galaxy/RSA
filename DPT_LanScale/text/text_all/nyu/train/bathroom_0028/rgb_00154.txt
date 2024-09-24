@@ -8,3 +8,8 @@ A view of bathroom.
 The image captures a cozy, well-organized bedroom with a neatly made bed, a white dresser, and a bathroom with a sink and mirror.
 The image shows a small, narrow bedroom with a bed, a bathroom with a sink and mirror, and a doorway leading to the bedroom.
 The image shows a bedroom with a bed, a bathroom with a sink, and a hallway with a door, all connected in a linear layout.
+An image with a towel, a sink, a floor, a cup, a cabinet, a counter, a door, a mirror, a rug, a wall, and a bed.
+An image with a wall, a mirror, a counter, a cabinet, a towel, a sink, a door, a floor, a bed, a cup, and a rug.
+An image with a cabinet, a floor, a mirror, a rug, a cup, a sink, a door, a wall, a towel, a counter, and a bed.
+An image with a cabinet, a mirror, a floor, a towel, a rug, a counter, a bed, a sink, a wall, a cup, and a door.
+An image with a floor, a cabinet, a towel, a mirror, a door, a bed, a sink, a cup, a wall, a counter, and a rug.

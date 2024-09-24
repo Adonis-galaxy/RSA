@@ -8,3 +8,8 @@ The image shows a tree-lined street with a brick wall and a sign.
 A quiet, tree-lined street with a clear path and a few signs, leading to a brick wall and a gate.
 The image shows a narrow, tree-lined street with a small sign on the right side.
 A tree-lined street with a curved sidewalk, a brick wall, and a sign on a pole.
+An image with a wall, a grass, a road, a pavement, and a tree.
+An image with a pavement, a grass, a tree, a road, and a wall.
+An image with a pavement, a tree, a road, a wall, and a grass.
+An image with a road, a grass, a pavement, a tree, and a wall.
+An image with a tree, a pavement, a grass, a wall, and a road.

@@ -8,3 +8,8 @@ A large truck is parked on a narrow street.
 A large truck is parked on a narrow street between two houses, with a car parked on the sidewalk and a tree in the background.
 A large truck is parked on a narrow street between two houses, with a car parked on the sidewalk and a tree in the foreground.
 A narrow street with parked cars and a large truck driving down it, flanked by houses and trees.
+An image with two cars, a grass, a wall, a truck, a sky, a house, a tree, a pavement, and a person.
+An image with a wall, a sky, a pavement, a truck, a tree, two cars, a person, a grass, and a house.
+An image with a house, a person, a tree, a grass, a sky, two cars, a wall, a pavement, and a truck.
+An image with a truck, a tree, a grass, a wall, a sky, a person, two cars, a house, and a pavement.
+An image with a tree, a house, a person, two cars, a truck, a sky, a wall, a grass, and a pavement.

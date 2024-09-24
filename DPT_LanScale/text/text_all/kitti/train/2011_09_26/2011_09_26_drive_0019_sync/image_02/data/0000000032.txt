@@ -8,3 +8,8 @@ A black car driving down a road.
 A black car on a tree-lined road, with a clear sky overhead and a slight bend in the road ahead.
 A black car is driving down a tree-lined road.
 A black car is driving down a tree-lined road with a grassy embankment on the right side.
+An image with two cars, a tree, a road, a sky, a pavement, and a grass.
+An image with a road, two cars, a sky, a grass, a pavement, and a tree.
+An image with a tree, a road, two cars, a sky, a pavement, and a grass.
+An image with a grass, a tree, two cars, a pavement, a sky, and a road.
+An image with two cars, a grass, a pavement, a sky, a tree, and a road.

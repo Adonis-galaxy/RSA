@@ -8,3 +8,8 @@ The image shows a road with cars and a train track.
 The image captures a moment of everyday life on a suburban street, with a focus on the interaction between the car and the train tracks.
 A long, empty road with a few cars and a train overhead, surrounded by trees and buildings.
 A long, straight road with a few cars, a train track, and a bridge in the background, under a clear blue sky.
+An image with four cars, a tree, a grass, a building, a bus, a road, and a fence.
+An image with a grass, a tree, a building, four cars, a bus, a road, and a fence.
+An image with a road, four cars, a fence, a bus, a building, a tree, and a grass.
+An image with a grass, four cars, a bus, a road, a fence, a tree, and a building.
+An image with a building, a grass, four cars, a fence, a tree, a bus, and a road.

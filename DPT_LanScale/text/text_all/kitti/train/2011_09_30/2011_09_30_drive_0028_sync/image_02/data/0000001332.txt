@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A serene suburban street, lined with trees and houses, under a clear blue sky.
 The image shows a tree-lined street with a car parked on the side, leading to a house with a white facade and a red roof.
 A tree-lined street leads to a residential area with houses and parked cars.
+An image with a grass, a house, three cars, a sky, a pavement, a road, a tree, and a wall.
+An image with three cars, a pavement, a sky, a grass, a road, a wall, a house, and a tree.
+An image with a grass, three cars, a wall, a tree, a sky, a house, a pavement, and a road.
+An image with a wall, a road, a pavement, a house, a grass, three cars, a sky, and a tree.
+An image with three cars, a wall, a grass, a tree, a house, a pavement, a sky, and a road.

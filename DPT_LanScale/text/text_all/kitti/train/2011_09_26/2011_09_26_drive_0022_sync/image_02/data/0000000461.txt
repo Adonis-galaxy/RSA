@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white house.
 The image captures a typical day in a residential area, with parked cars lining the street, a white van driving down the road, and a red car parked on the sidewalk, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and a white house, with a large white van parked in front of the house.
 A narrow street in a residential area with parked cars and a white van.
+An image with a road, nine cars, a truck, a window, a fence, a house, a sky, a tree, and a pavement.
+An image with a road, a house, nine cars, a window, a tree, a sky, a fence, a pavement, and a truck.
+An image with nine cars, a sky, a truck, a fence, a road, a tree, a window, a pavement, and a house.
+An image with nine cars, a sky, a tree, a fence, a house, a window, a road, a truck, and a pavement.
+An image with nine cars, a window, a truck, a house, a fence, a sky, a tree, a road, and a pavement.

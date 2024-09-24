@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a quaint, narrow street lined with shops and potted plants, with a train track running down the middle, creating a unique urban landscape where commerce and transportation coexist.
 The image depicts a narrow city street lined with buildings, a train track, and various potted plants.
 The image captures a narrow, tree-lined street in a European city, with a mix of shops and residential buildings, a tram track, and pedestrians, all bathed in natural light.
+An image with nine people, a sky, five potteds, a pavement, a building, a railroad, a tree, a umbrella, and a bicycle.
+An image with nine people, a railroad, five potteds, a umbrella, a building, a sky, a pavement, a bicycle, and a tree.
+An image with nine people, five potteds, a building, a pavement, a sky, a tree, a bicycle, a umbrella, and a railroad.
+An image with five potteds, a building, nine people, a umbrella, a railroad, a pavement, a sky, a tree, and a bicycle.
+An image with a sky, nine people, a bicycle, five potteds, a railroad, a tree, a building, a umbrella, and a pavement.

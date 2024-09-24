@@ -8,3 +8,8 @@ The image shows a street lined with parked cars and a truck, with trees on both 
 A tree-lined street with parked cars and a truck, with a clear sky overhead.
 A long, narrow street lined with parked cars and trees, with a large truck parked at the end and a green trash cart on a sidewalk.
 A tree-lined street with parked cars and a truck, leading to a clearing with a sidewalk and a building.
+An image with a person, a sky, five cars, a pavement, a truck, a tree, and a road.
+An image with a person, a sky, a pavement, five cars, a tree, a road, and a truck.
+An image with five cars, a sky, a person, a tree, a road, a pavement, and a truck.
+An image with a pavement, five cars, a sky, a truck, a person, a tree, and a road.
+An image with five cars, a pavement, a tree, a truck, a sky, a road, and a person.

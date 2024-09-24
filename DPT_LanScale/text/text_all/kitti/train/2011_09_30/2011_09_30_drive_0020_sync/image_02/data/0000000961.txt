@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and grassy area.
 A quiet residential street, lined with trees and parked vehicles, under a clear blue sky.
 The image shows a tree-lined street with a sidewalk, a grassy area, and a row of houses. There are a few cars parked along the street, and a truck is visible in the distance. The sky is clear and blue, indicating a sunny day.
 A tree-lined street with a sidewalk, parked vehicles, and a building in the background.
+An image with three cars, two trucks, a pavement, a tree, a road, a house, a sky, and a grass.
+An image with three cars, a house, two trucks, a pavement, a sky, a grass, a road, and a tree.
+An image with a sky, a grass, three cars, a tree, a road, a pavement, a house, and two trucks.
+An image with a house, two trucks, three cars, a grass, a road, a tree, a sky, and a pavement.
+An image with a house, two trucks, a pavement, three cars, a grass, a road, a sky, and a tree.

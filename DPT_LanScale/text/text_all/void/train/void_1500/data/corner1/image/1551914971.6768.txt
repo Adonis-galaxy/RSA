@@ -8,3 +8,8 @@ A blue box on a table.
 The image shows a desk with a computer monitor, a chair with a vision label, and a blue box on the desk.
 The image shows a black chair with a white label on it, a blue box on a white table, and a black box on a wooden table.
 The image shows a black chair with a white label on it, a blue box on a white table, and a white sign with blue lettering on a wooden table.
+An image with a tv, a chair, a door, a cardboard, a wall, a window, a paper, a table, and a dining.
+An image with a dining, a cardboard, a table, a chair, a window, a paper, a tv, a wall, and a door.
+An image with a chair, a window, a cardboard, a wall, a table, a door, a tv, a dining, and a paper.
+An image with a chair, a door, a paper, a cardboard, a window, a dining, a wall, a tv, and a table.
+An image with a cardboard, a wall, a dining, a table, a door, a chair, a paper, a window, and a tv.

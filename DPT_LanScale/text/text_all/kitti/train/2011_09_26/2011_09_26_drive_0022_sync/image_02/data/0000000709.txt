@@ -8,3 +8,8 @@ The image shows a street scene with a car on a road, trees, and a building in th
 The image captures a serene suburban street scene, with a clear sky overhead, lush greenery on both sides, and a solitary car driving away from the viewer, creating a sense of tranquility and everyday life.
 The image shows a wide, tree-lined street with a car driving down it, a few pedestrians, and a stop sign in the distance.
 The image depicts a suburban street scene with a curved road, a sidewalk, a grassy area, trees, and a clear blue sky.
+An image with a car, a grass, a building, a tree, a stop, a road, a sky, and a traffic.
+An image with a car, a stop, a grass, a traffic, a sky, a tree, a road, and a building.
+An image with a stop, a road, a grass, a traffic, a building, a tree, a sky, and a car.
+An image with a grass, a sky, a stop, a road, a traffic, a car, a tree, and a building.
+An image with a building, a stop, a traffic, a sky, a grass, a tree, a road, and a car.

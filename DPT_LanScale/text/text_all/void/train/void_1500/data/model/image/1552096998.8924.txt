@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape with buildings and a street, displayed behind a glass case.
 The image shows a small model of a cityscape, including buildings and a street, displayed behind a glass case.
 The image shows a model of a cityscape with buildings and a street, displayed behind a glass case.
+An image with a building, and a floor.
+An image with a floor, and a building.
+An image with a building, and a floor.
+An image with a building, and a floor.
+An image with a building, and a floor.

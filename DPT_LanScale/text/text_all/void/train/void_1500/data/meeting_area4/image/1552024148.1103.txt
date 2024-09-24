@@ -8,3 +8,8 @@ A white table with a white chair in a room.
 A white table with a chair in a room with a door.
 A white table with a white chair in a room with a white door.
 The image shows a white table with a white chair in a room with a white door and a white wall.
+An image with two dinings, a door, four chairs, a floor, and a wall.
+An image with a floor, a door, four chairs, two dinings, and a wall.
+An image with two dinings, four chairs, a door, a floor, and a wall.
+An image with four chairs, a wall, two dinings, a door, and a floor.
+An image with four chairs, a door, two dinings, a floor, and a wall.

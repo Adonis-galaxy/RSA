@@ -8,3 +8,8 @@ The image shows a street with cars and a house.
 The image captures a quiet residential street, with parked cars and a numbered road, under a clear blue sky.
 The image shows a residential street with parked cars, a numbered curb, and a house in the background.
 A narrow street with parked cars and a 30 mph speed limit.
+An image with five cars, a pavement, a house, a grass, a sky, a tree, and a road.
+An image with a sky, a grass, a pavement, a tree, five cars, a house, and a road.
+An image with five cars, a sky, a tree, a road, a grass, a house, and a pavement.
+An image with five cars, a sky, a grass, a house, a tree, a pavement, and a road.
+An image with a sky, five cars, a grass, a tree, a road, a house, and a pavement.

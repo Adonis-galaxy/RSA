@@ -8,3 +8,8 @@ The image shows a door with a glass window, through which a red cart is visible.
 The image shows a door with a glass window, through which a red cart is visible, and the door is situated in a room with yellow walls and a blue trash can.
 The image shows a narrow hallway with a glass door, a blue trash can, and a yellow cabinet.
 The image shows a hallway with a glass door, a blue trash can, and a yellow cabinet.
+An image with a floor, a cabinet, a door, a wall, and a shelf.
+An image with a floor, a wall, a door, a shelf, and a cabinet.
+An image with a wall, a cabinet, a door, a shelf, and a floor.
+An image with a shelf, a cabinet, a floor, a wall, and a door.
+An image with a door, a wall, a floor, a cabinet, and a shelf.

@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars.
 A quiet residential street with parked cars and a lone vehicle, under a clear sky.
 The image shows a narrow street lined with parked cars and buildings, with a large truck parked on the sidewalk.
 A quiet residential street with parked cars, lined by a row of garages and a sidewalk.
+An image with a building, a pavement, a sky, a truck, four cars, a tree, a fence, and a road.
+An image with a fence, a pavement, a tree, a road, four cars, a sky, a building, and a truck.
+An image with a building, four cars, a truck, a road, a sky, a pavement, a fence, and a tree.
+An image with four cars, a sky, a tree, a fence, a building, a pavement, a road, and a truck.
+An image with four cars, a tree, a sky, a pavement, a truck, a building, a fence, and a road.

@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 A quiet suburban street, lined with trees and parked vehicles, leading to a residential area.
 The image shows a tree-lined street with a sidewalk, a few parked cars, and a sign indicating "North."
 A quiet suburban street with a paved pathway, lined with trees and parked vehicles, leading to a residential area with a sign indicating "North."
+An image with a grass, two cars, a tree, three trucks, a road, a building, a dirt, and a rock.
+An image with a road, a rock, a grass, three trucks, a building, two cars, a dirt, and a tree.
+An image with three trucks, a rock, a tree, a grass, a dirt, a road, a building, and two cars.
+An image with three trucks, a tree, a building, a dirt, a road, a rock, two cars, and a grass.
+An image with a building, three trucks, a road, two cars, a rock, a grass, a dirt, and a tree.

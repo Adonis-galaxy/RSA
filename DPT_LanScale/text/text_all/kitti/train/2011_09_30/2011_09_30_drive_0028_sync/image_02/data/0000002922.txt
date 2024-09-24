@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A cyclist riding down a shaded street, with parked cars and a vendor's stall on the sidewalk, under a clear sky.
 A person riding a bicycle on a tree-lined street.
 A tree-lined street with a parked car, a person riding a bicycle, and a vendor's stall on the sidewalk.
+An image with a grass, a road, five cars, three people, a pavement, a tree, a bicycle, and a building.
+An image with three people, a grass, a tree, a road, five cars, a bicycle, a pavement, and a building.
+An image with a pavement, three people, a building, five cars, a bicycle, a grass, a road, and a tree.
+An image with a road, five cars, a grass, three people, a bicycle, a pavement, a building, and a tree.
+An image with five cars, a bicycle, three people, a pavement, a building, a road, a tree, and a grass.

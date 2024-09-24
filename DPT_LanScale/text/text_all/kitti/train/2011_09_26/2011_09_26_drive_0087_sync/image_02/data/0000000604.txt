@@ -8,3 +8,8 @@ A yellow car on a narrow street.
 A yellow car is parked on a narrow street between two buildings, with a tree and a street lamp in the foreground.
 A yellow car is driving down a narrow, tree-lined street between two-story buildings.
 A narrow, tree-lined street with a yellow car parked on the right side, leading to a white building with balconies on the left.
+An image with a building, a tree, a house, a sky, a road, two walls, a grass, a pavement, and a car.
+An image with a building, a tree, a road, two walls, a car, a grass, a sky, a house, and a pavement.
+An image with two walls, a road, a sky, a pavement, a car, a building, a tree, a house, and a grass.
+An image with a road, a sky, two walls, a building, a pavement, a house, a car, a grass, and a tree.
+An image with a building, two walls, a road, a tree, a pavement, a car, a sky, a grass, and a house.

@@ -8,3 +8,8 @@ The image shows a road with several cars driving on it.
 A line of cars on a road, with a clear sky overhead and a lush green field on the side.
 A long road with multiple cars driving on it, surrounded by trees and power lines.
 A long, straight road with multiple lanes, bordered by trees and lined with power lines, leading to a train station.
+An image with six cars, a road, a railroad, a building, a grass, a tree, and a traffic.
+An image with six cars, a traffic, a building, a road, a railroad, a tree, and a grass.
+An image with a road, six cars, a traffic, a railroad, a building, a tree, and a grass.
+An image with six cars, a building, a traffic, a railroad, a road, a tree, and a grass.
+An image with a road, a building, six cars, a tree, a traffic, a grass, and a railroad.

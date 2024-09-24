@@ -8,3 +8,8 @@ A white car parked on a narrow street.
 A white car is parked on a narrow street between two buildings, with a blue fence and a brick wall nearby.
 A small white car is parked on a narrow street between two buildings, with a blue fence and a brick wall visible in the background.
 A narrow, tree-lined street in a residential area, with a parked car and a white building on the right side.
+An image with a road, two walls, a door, a fence, a tree, a dirt, and a car.
+An image with a tree, two walls, a road, a door, a fence, a dirt, and a car.
+An image with a road, a door, a dirt, a tree, two walls, a fence, and a car.
+An image with a fence, a road, a dirt, two walls, a car, a door, and a tree.
+An image with a car, a dirt, a road, a fence, a door, two walls, and a tree.

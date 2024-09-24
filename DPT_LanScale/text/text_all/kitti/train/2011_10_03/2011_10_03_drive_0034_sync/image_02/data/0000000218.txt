@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 The image captures a serene suburban street, where the sun casts a warm glow on the wet asphalt, highlighting the tranquility of the neighborhood.
 The image shows a narrow, tree-lined street leading to a house, with a clear sky overhead.
 A tree-lined street with a cul-de-sac at the end, leading to a residential area.
+An image with a grass, a road, a sky, a pavement, a tree, and a house.
+An image with a sky, a road, a grass, a house, a tree, and a pavement.
+An image with a sky, a grass, a tree, a pavement, a house, and a road.
+An image with a house, a road, a sky, a grass, a tree, and a pavement.
+An image with a sky, a house, a grass, a tree, a road, and a pavement.

@@ -8,3 +8,8 @@ The image shows a parking lot with several cars parked in front of a building.
 The image captures a scene of a parking lot with various vehicles, including cars and trucks, parked in front of a building with a white facade and a brown roof. The vehicles are arranged in a somewhat haphazard manner, and the building appears to be a residential or commercial structure.
 The image shows a parking lot with several cars parked in front of a building, with a large white van being the most prominent vehicle.
 A row of parked cars in front of a building, with a curved street and a sidewalk.
+An image with five cars, a pavement, a building, a fence, two trucks, a road, and a tree.
+An image with a pavement, five cars, a building, a tree, two trucks, a fence, and a road.
+An image with five cars, a fence, a building, a tree, two trucks, a road, and a pavement.
+An image with a tree, a pavement, a building, two trucks, five cars, a road, and a fence.
+An image with a fence, five cars, a tree, a pavement, a road, two trucks, and a building.

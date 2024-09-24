@@ -8,3 +8,8 @@ A room with a green wall and a white ceiling.
 The image shows a room with a green wall, a refrigerator, a table, and a chair.
 The image shows a room with a green wall, a refrigerator, a table, a chair, and a picture on the wall.
 The image shows a room with a green wall, a white ceiling with fluorescent lights, and various objects such as a desk, a chair, a refrigerator, and a trash can.
+An image with four chairs, a refrigerator, a wall, a ceiling, a dining, a light, a person, a tv, and a floor.
+An image with a refrigerator, a dining, a person, a wall, a light, four chairs, a tv, a floor, and a ceiling.
+An image with a dining, four chairs, a person, a tv, a refrigerator, a floor, a ceiling, a light, and a wall.
+An image with a tv, four chairs, a light, a person, a refrigerator, a ceiling, a wall, a floor, and a dining.
+An image with a tv, a floor, four chairs, a dining, a light, a ceiling, a wall, a person, and a refrigerator.

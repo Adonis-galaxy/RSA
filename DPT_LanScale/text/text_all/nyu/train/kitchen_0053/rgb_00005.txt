@@ -8,3 +8,8 @@ A dog is laying on a rug in front of a dining room table.
 A cozy dining area with a dog resting on a rug in front of a table and chairs, under a framed painting on the wall.
 A dog is sitting on a rug in front of a dining table with a checkered chair, a potted plant, and a framed picture on the wall.
 A cozy dining area with a dog resting on a rug in front of a table and chairs, a potted plant, and a framed artwork on the wall.
+An image with a rug, two potteds, a dining, a window, three chairs, a floor, a dog, a wall, and a door.
+An image with three chairs, a dining, a rug, a window, a wall, two potteds, a dog, a door, and a floor.
+An image with a door, three chairs, a dog, a wall, a dining, two potteds, a floor, a window, and a rug.
+An image with two potteds, three chairs, a dining, a wall, a floor, a dog, a rug, a window, and a door.
+An image with three chairs, a floor, a dining, a rug, a window, two potteds, a dog, a wall, and a door.

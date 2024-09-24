@@ -8,3 +8,8 @@ The image shows a road with cars driving on it.
 The image captures a serene, empty highway with a few cars, flanked by trees and a clear sky.
 The image shows a wide, empty highway with a few cars driving on it, surrounded by trees and a clear sky.
 The image depicts a wide, empty highway with a clear sky, lined with trees and a few cars driving in the opposite direction.
+An image with a grass, six cars, a tree, a road, and two traffics.
+An image with six cars, a tree, two traffics, a grass, and a road.
+An image with a tree, two traffics, six cars, a road, and a grass.
+An image with a road, six cars, a tree, a grass, and two traffics.
+An image with two traffics, six cars, a grass, a road, and a tree.

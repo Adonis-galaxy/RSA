@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear view of the buildings and trees in the background.
 The image shows a narrow street between two-story buildings, with parked cars and a truck on the right side, and a sidewalk on the left.
 The image depicts a narrow street lined with buildings, parked cars, and a curved sidewalk, with a clear sky overhead.
+An image with five cars, a tree, a road, a fence, a house, a pavement, and a truck.
+An image with five cars, a house, a road, a truck, a fence, a tree, and a pavement.
+An image with a road, a fence, a house, five cars, a truck, a tree, and a pavement.
+An image with a house, five cars, a fence, a tree, a pavement, a road, and a truck.
+An image with five cars, a tree, a road, a house, a fence, a pavement, and a truck.

@@ -8,3 +8,8 @@ A black computer chair with a white label.
 A computer desk with two monitors, two keyboards, and two mice.
 A black computer desk with two black monitors, two black keyboards, two black mice, and two black chairs.
 The image shows a computer workstation with two monitors, two keyboards, two mice, and two chairs.
+An image with four chairs, a wall, three tvs, a laptop, a rug, a table, two keyboards, and a mouse.
+An image with a mouse, four chairs, three tvs, a rug, a table, a laptop, two keyboards, and a wall.
+An image with three tvs, a table, a mouse, two keyboards, a rug, four chairs, a laptop, and a wall.
+An image with four chairs, a table, three tvs, a rug, a mouse, a wall, two keyboards, and a laptop.
+An image with two keyboards, four chairs, a rug, three tvs, a wall, a table, a mouse, and a laptop.

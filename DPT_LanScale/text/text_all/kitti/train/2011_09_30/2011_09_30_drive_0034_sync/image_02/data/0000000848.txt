@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street in a residential area, with a clear view of a building and parked cars, highlighting the tranquility and orderliness of the neighborhood.
 The image shows a narrow street lined with trees and buildings, with a bus and a car visible in the distance.
 The image depicts a quiet, tree-lined street with a clear view of a white building on the right side, a bus stop sign on the left, and a car parked in the middle.
+An image with three cars, a house, a tree, a road, a bus, a sky, and a pavement.
+An image with three cars, a bus, a house, a road, a tree, a pavement, and a sky.
+An image with a sky, a house, three cars, a tree, a pavement, a road, and a bus.
+An image with three cars, a bus, a sky, a tree, a pavement, a house, and a road.
+An image with a tree, a sky, three cars, a bus, a pavement, a house, and a road.

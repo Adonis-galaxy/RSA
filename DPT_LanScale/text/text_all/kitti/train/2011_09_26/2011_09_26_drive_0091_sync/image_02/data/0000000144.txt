@@ -8,3 +8,8 @@ The image is a photograph of a narrow city street.
 The image captures a bustling city street, with a focus on the vibrant life and activity along the sidewalk, where people are walking, biking, and shopping, while the street itself is lined with lush greenery and charming shops, creating a lively urban atmosphere.
 The image depicts a narrow street lined with buildings, a train track, and various potted plants.
 A narrow, cobblestone street with a tram track runs between two-story buildings, lined with shops and potted plants.
+An image with nine people, a bicycle, a railroad, a building, a pavement, and two potteds.
+An image with nine people, two potteds, a building, a railroad, a bicycle, and a pavement.
+An image with nine people, two potteds, a railroad, a pavement, a bicycle, and a building.
+An image with two potteds, a railroad, nine people, a building, a bicycle, and a pavement.
+An image with nine people, two potteds, a railroad, a bicycle, a building, and a pavement.

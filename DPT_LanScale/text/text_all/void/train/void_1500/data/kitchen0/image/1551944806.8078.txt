@@ -8,3 +8,8 @@ A blurry image of a refrigerator in a kitchen.
 The image captures a blurry scene of a kitchen with a refrigerator and a counter.
 The image is blurry, showing a refrigerator in a kitchen with an orange cabinet.
 The image shows a blurry view of a kitchen with an orange cabinet and a silver refrigerator.
+An image with a floor, two refrigerators, a cabinet, and a wall.
+An image with a floor, a cabinet, two refrigerators, and a wall.
+An image with two refrigerators, a wall, a cabinet, and a floor.
+An image with a cabinet, a wall, two refrigerators, and a floor.
+An image with two refrigerators, a floor, a wall, and a cabinet.

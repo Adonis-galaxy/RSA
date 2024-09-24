@@ -8,3 +8,8 @@ A blurry image of a blue trash can in an office setting.
 The image shows a small office space with a blue bench, a blue trash can, and a wooden cabinet.
 The image shows a small office space with a blue bench, a blue trash can, and a wooden cabinet.
 The image shows a small office space with a blue bench, a blue trash can, and a wooden desk.
+An image with a dining, a floor, two chairs, a table, a wall, and a cabinet.
+An image with two chairs, a dining, a wall, a cabinet, a floor, and a table.
+An image with two chairs, a dining, a table, a wall, a floor, and a cabinet.
+An image with two chairs, a floor, a cabinet, a table, a wall, and a dining.
+An image with a table, two chairs, a wall, a floor, a cabinet, and a dining.

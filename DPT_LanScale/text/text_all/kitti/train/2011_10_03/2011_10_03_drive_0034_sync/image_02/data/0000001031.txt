@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, a sidewalk, a building, a str
 The image captures a quiet residential street, with a curved road leading to a house on the right, a sidewalk on the left, and a tree on the left side.
 The image shows a residential street with a curved sidewalk, a tree-lined sidewalk, a red-roofed house, a street sign, and a car parked on the side of the road.
 The image depicts a quiet residential street with a curved road, lined with trees and houses, and marked with a few signs and a speed limit.
+An image with a pavement, a wall, a roof, a road, a sky, and a tree.
+An image with a roof, a pavement, a sky, a road, a tree, and a wall.
+An image with a tree, a pavement, a road, a roof, a sky, and a wall.
+An image with a tree, a pavement, a roof, a wall, a sky, and a road.
+An image with a wall, a tree, a road, a sky, a roof, and a pavement.

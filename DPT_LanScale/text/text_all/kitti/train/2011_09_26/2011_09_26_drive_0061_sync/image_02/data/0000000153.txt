@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 A narrow street in a residential area, lined with parked cars and houses, with a red car driving down the road.
 A narrow street lined with parked cars and houses, with a red car driving down the road.
 A narrow street in a residential area with parked cars and a red van, leading to a white house with a red roof.
+An image with seven cars, a roof, a road, a house, a tree, a pavement, two walls, and a sky.
+An image with a pavement, a roof, a sky, seven cars, a road, two walls, a tree, and a house.
+An image with a road, seven cars, a sky, a house, a tree, two walls, a roof, and a pavement.
+An image with a road, seven cars, a sky, a tree, two walls, a roof, a house, and a pavement.
+An image with seven cars, a house, a sky, a tree, two walls, a roof, a road, and a pavement.

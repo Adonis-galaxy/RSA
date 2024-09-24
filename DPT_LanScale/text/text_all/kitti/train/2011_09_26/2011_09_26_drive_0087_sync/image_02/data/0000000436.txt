@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A quiet residential street, with a parked car and a potted plant on the sidewalk, leading to a white garage with a balcony and a fence.
 A narrow street between two buildings, with a parked car, a potted plant, and a fence visible.
 A narrow, tree-lined street between two-story buildings, with a parked car and a potted plant visible.
+An image with a door, a fence, a tree, two cars, a road, a potted, a wall, and a pavement.
+An image with a potted, a fence, two cars, a door, a tree, a road, a pavement, and a wall.
+An image with a wall, a tree, a potted, a road, two cars, a door, a pavement, and a fence.
+An image with a wall, a fence, a door, two cars, a potted, a tree, a pavement, and a road.
+An image with a pavement, a door, a wall, a road, two cars, a potted, a fence, and a tree.

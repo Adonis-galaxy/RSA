@@ -8,3 +8,8 @@ The image shows an empty classroom with white walls and a long hallway.
 The image depicts an empty, well-lit hallway with a row of whiteboards on the left side, leading to a room with a long table and several chairs on the right.
 The image shows an empty classroom with a long whiteboard, several chairs, and a large wooden table.
 The image shows an empty classroom with a long whiteboard, a row of desks with chairs, and a wooden table at the end.
+An image with eleven chairs, a floor, three dinings, a wall, a ceiling, a light, and a window.
+An image with eleven chairs, a light, a ceiling, three dinings, a window, a wall, and a floor.
+An image with a light, eleven chairs, a wall, three dinings, a ceiling, a window, and a floor.
+An image with three dinings, a light, eleven chairs, a floor, a ceiling, a wall, and a window.
+An image with three dinings, eleven chairs, a ceiling, a light, a window, a floor, and a wall.

@@ -8,3 +8,8 @@ The image shows a street scene with a stop sign and two cars.
 The image captures a quiet residential street with a few parked cars, a stop sign, and a clear blue sky.
 The image shows a street scene with a few cars, a stop sign, and trees.
 The image shows a residential street with parked cars, a stop sign, and a tree-lined sidewalk.
+An image with a tree, a road, a grass, a sky, two cars, a house, a stop, and a person.
+An image with two cars, a tree, a grass, a person, a stop, a road, a house, and a sky.
+An image with a stop, a tree, a grass, a person, two cars, a house, a road, and a sky.
+An image with a stop, a road, a grass, two cars, a house, a sky, a tree, and a person.
+An image with a person, two cars, a house, a stop, a grass, a road, a tree, and a sky.

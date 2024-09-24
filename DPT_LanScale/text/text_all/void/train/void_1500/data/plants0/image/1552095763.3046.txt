@@ -8,3 +8,8 @@ A blurry image of a dog sniffing the ground.
 The image shows a small dog exploring a garden area with a variety of plants and a brick pathway.
 The image shows a small dog standing on a sidewalk next to a large concrete planter filled with various plants.
 The image shows a small garden area with a variety of plants and a stone pathway.
+An image with a dog, two walls, a dirt, a tree, and a pavement.
+An image with two walls, a tree, a pavement, a dog, and a dirt.
+An image with a dog, two walls, a tree, a dirt, and a pavement.
+An image with a dog, a pavement, a dirt, a tree, and two walls.
+An image with a dirt, two walls, a tree, a dog, and a pavement.

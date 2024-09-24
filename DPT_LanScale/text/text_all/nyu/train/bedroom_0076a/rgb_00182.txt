@@ -8,3 +8,8 @@ The image shows a room with two bunk beds.
 The image shows a room with two bunk beds, one of which is partially visible, and a dresser with a drawer. The beds are positioned against a wall with a window and a white door.
 The image shows a small room with two bunk beds, one of which is a loft bed. The room has a wooden floor and a window with blinds.
 The image shows a room with two bunk beds, one on top of the other, placed against a wall with a window and a wooden dresser.
+An image with a wall, a window, a chair, a bed, a floor, and a cabinet.
+An image with a wall, a window, a bed, a floor, a cabinet, and a chair.
+An image with a chair, a window, a bed, a cabinet, a floor, and a wall.
+An image with a bed, a floor, a window, a cabinet, a wall, and a chair.
+An image with a chair, a window, a wall, a bed, a cabinet, and a floor.

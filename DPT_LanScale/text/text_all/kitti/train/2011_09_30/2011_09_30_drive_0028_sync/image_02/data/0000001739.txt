@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 A quiet residential street, with parked cars and a child on a scooter, under a clear blue sky.
 The image shows a narrow street lined with parked cars and bicycles, with a child standing on the sidewalk.
 A narrow street in a residential area, with parked cars, a bicycle, and a child on a skateboard.
+An image with six cars, a tree, a house, a sky, a pavement, a person, a road, a grass, and a bicycle.
+An image with a pavement, six cars, a sky, a house, a tree, a bicycle, a person, a road, and a grass.
+An image with a tree, six cars, a grass, a road, a bicycle, a person, a sky, a house, and a pavement.
+An image with a sky, a road, a house, a bicycle, six cars, a person, a tree, a pavement, and a grass.
+An image with a road, six cars, a grass, a sky, a pavement, a tree, a person, a house, and a bicycle.

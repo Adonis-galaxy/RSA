@@ -8,3 +8,8 @@ A piano in a living room.
 The image captures a cozy living room with a piano, a couch, and a chair, creating a warm and inviting atmosphere.
 The image shows a room with a large couch, a piano, a chair, and a lamp. The couch is the largest object in the room.
 The image shows a room with a piano, a couch, a chair, and a window, all arranged in a symmetrical layout with a focus on the piano.
+An image with twelve books, two chairs, a rug, a couch, a light, a shelf, and a window.
+An image with twelve books, a light, two chairs, a window, a couch, a rug, and a shelf.
+An image with a light, two chairs, twelve books, a shelf, a rug, a couch, and a window.
+An image with twelve books, a light, a window, two chairs, a rug, a couch, and a shelf.
+An image with a couch, two chairs, a window, twelve books, a light, a shelf, and a rug.

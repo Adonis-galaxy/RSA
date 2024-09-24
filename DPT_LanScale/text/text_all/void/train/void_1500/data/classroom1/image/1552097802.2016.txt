@@ -8,3 +8,8 @@ A blue chair is under a table.
 A room with two tables and a chair, one table is empty and the other has a red object on it.
 The image shows a room with two tables, one of which is a folding table, and a blue chair. The room has a tiled floor and a staircase.
 The image shows a room with two tables, one of which is a folding table, and a set of stairs in the background.
+An image with two walls, two dinings, a chair, a refrigerator, a floor, and a stairs.
+An image with a refrigerator, two walls, a floor, a stairs, two dinings, and a chair.
+An image with a refrigerator, a floor, a stairs, a chair, two walls, and two dinings.
+An image with a stairs, a floor, two walls, a refrigerator, a chair, and two dinings.
+An image with a stairs, two walls, a refrigerator, two dinings, a chair, and a floor.

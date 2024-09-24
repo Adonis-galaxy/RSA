@@ -8,3 +8,8 @@ A blue and black vending machine in a room.
 The image shows a room with a blue wall, a table with a laptop, a chair, a bulletin board, and a picture on the wall.
 The image shows a room with a blue wall, a refrigerator, a table, and a picture on the wall.
 The image shows a room with a blue wall, a whiteboard, a table, a chair, and a picture on the wall.
+An image with four chairs, two walls, a person, a refrigerator, a dining, a paper, and a floor.
+An image with a dining, two walls, a paper, a refrigerator, four chairs, a person, and a floor.
+An image with a refrigerator, four chairs, two walls, a person, a paper, a dining, and a floor.
+An image with four chairs, two walls, a floor, a refrigerator, a paper, a dining, and a person.
+An image with two walls, a paper, a floor, a person, four chairs, a dining, and a refrigerator.

@@ -8,3 +8,8 @@ A black and white checkered board leaning against a white cylinder.
 A black and white checkered board leaning against a white cylindrical object.
 A black and white checkered board leaning against a white cylindrical object, with a roll of paper and a box in the background.
 A black and white checkered board leaning against a white cylindrical object, with a roll of paper and a box in the background.
+An image with a paper, a floor, a door, a cardboard, and a wall.
+An image with a cardboard, a paper, a wall, a door, and a floor.
+An image with a cardboard, a floor, a wall, a door, and a paper.
+An image with a floor, a wall, a paper, a cardboard, and a door.
+An image with a floor, a door, a cardboard, a wall, and a paper.

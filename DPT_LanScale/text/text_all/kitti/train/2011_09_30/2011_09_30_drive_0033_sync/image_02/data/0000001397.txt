@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street, with parked cars and a fence, leading to a row of houses.
 The image shows a narrow street lined with parked cars and a red brick wall, with a white building on the left and a green forest on the right.
 A narrow street in a residential area, with parked cars, a red van, and a white building on the left, leading to a fenced area on the right.
+An image with a truck, four cars, a pavement, a fence, a road, a house, a tree, and a wall.
+An image with a road, four cars, a fence, a truck, a pavement, a house, a wall, and a tree.
+An image with a truck, a pavement, four cars, a fence, a tree, a house, a road, and a wall.
+An image with four cars, a fence, a tree, a road, a truck, a wall, a pavement, and a house.
+An image with a house, a tree, four cars, a fence, a pavement, a road, a wall, and a truck.

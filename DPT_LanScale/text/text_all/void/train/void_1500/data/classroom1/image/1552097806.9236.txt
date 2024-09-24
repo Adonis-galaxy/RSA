@@ -8,3 +8,8 @@ A blue plastic chair in front of a white table.
 A blue plastic chair is positioned in front of a white table, both sitting on a white tile floor.
 A blue plastic chair is sitting next to a white folding table.
 A blue plastic chair is positioned in front of a white folding table in a room with a tiled floor.
+An image with a chair, a wall, a floor, and a dining.
+An image with a floor, a dining, a chair, and a wall.
+An image with a dining, a chair, a wall, and a floor.
+An image with a dining, a chair, a floor, and a wall.
+An image with a floor, a chair, a wall, and a dining.

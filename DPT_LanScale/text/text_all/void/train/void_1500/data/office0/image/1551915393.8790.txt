@@ -8,3 +8,8 @@ A stack of papers on a table.
 A table with a book, papers, and a cup.
 A table with a yellow book, a white mug, and papers on it.
 A table with a book, papers, and a cup.
+An image with a wall, a book, a cup, and a dining.
+An image with a cup, a book, a wall, and a dining.
+An image with a cup, a wall, a dining, and a book.
+An image with a book, a wall, a dining, and a cup.
+An image with a cup, a dining, a book, and a wall.

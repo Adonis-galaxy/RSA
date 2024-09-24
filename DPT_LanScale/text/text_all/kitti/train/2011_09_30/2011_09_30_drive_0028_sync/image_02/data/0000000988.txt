@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A car is parked on the side of a tree-lined street, with a pedestrian walking on the sidewalk.
 A car is parked on the side of a tree-lined street, with a bicycle sign visible in the background.
 A tree-lined street with a car parked on the sidewalk, a pedestrian crossing, and a bicycle lane.
+An image with two cars, a stop, a road, a grass, two people, a sky, a tree, and a pavement.
+An image with a tree, a sky, a road, a grass, two people, two cars, a stop, and a pavement.
+An image with a grass, two cars, two people, a sky, a pavement, a stop, a road, and a tree.
+An image with a grass, two people, a stop, a tree, a pavement, a road, two cars, and a sky.
+An image with two people, two cars, a stop, a grass, a sky, a tree, a road, and a pavement.

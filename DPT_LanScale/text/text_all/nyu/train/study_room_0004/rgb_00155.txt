@@ -8,3 +8,8 @@ The image shows an empty room with a long table and several chairs.
 The image captures an empty conference room with a long table and multiple chairs, all facing the same direction, suggesting a space designed for group meetings or presentations.
 The image shows an empty room with a long table and several chairs, a fire alarm on the wall, and a whiteboard in the corner.
 The image shows an empty conference room with a long table, multiple chairs, and a whiteboard on the far wall.
+An image with ten chairs, a floor, a wall, a paper, a door, three dinings, and a ceiling.
+An image with ten chairs, a paper, a door, a ceiling, three dinings, a wall, and a floor.
+An image with ten chairs, a ceiling, a floor, a door, three dinings, a wall, and a paper.
+An image with three dinings, a wall, a ceiling, ten chairs, a paper, a floor, and a door.
+An image with ten chairs, three dinings, a floor, a door, a paper, a ceiling, and a wall.

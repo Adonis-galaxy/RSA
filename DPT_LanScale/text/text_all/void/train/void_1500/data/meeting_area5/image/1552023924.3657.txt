@@ -8,3 +8,8 @@ The image shows a white table with two chairs in a room.
 The image shows a white table with two chairs, one on each side, in a room with other chairs and tables.
 The image shows a white table with two chairs, one on each side, in a room with a carpeted floor.
 The image shows a white table with two chairs, positioned in a room with other chairs and tables.
+An image with a dining, a wall, five chairs, and a floor.
+An image with a wall, a floor, five chairs, and a dining.
+An image with five chairs, a wall, a floor, and a dining.
+An image with five chairs, a wall, a floor, and a dining.
+An image with a wall, five chairs, a floor, and a dining.

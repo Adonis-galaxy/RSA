@@ -8,3 +8,8 @@ The image shows a street view of a residential area with white buildings, green 
 A quiet residential street with a mix of houses and trees, leading to a row of townhouses.
 The image shows a long, narrow street lined with houses and trees, with a clear blue sky overhead.
 A quiet residential street with a row of houses, a paved path, and a few parked cars.
+An image with a house, a tree, four cars, a truck, a potted, a bicycle, a pavement, a roof, a grass, a road, and a sky.
+An image with a bicycle, four cars, a pavement, a tree, a sky, a road, a house, a roof, a truck, a potted, and a grass.
+An image with four cars, a bicycle, a potted, a pavement, a road, a house, a roof, a grass, a truck, a tree, and a sky.
+An image with a potted, a bicycle, a sky, four cars, a road, a house, a grass, a truck, a pavement, a roof, and a tree.
+An image with a tree, a road, a truck, a house, four cars, a grass, a potted, a bicycle, a roof, a sky, and a pavement.

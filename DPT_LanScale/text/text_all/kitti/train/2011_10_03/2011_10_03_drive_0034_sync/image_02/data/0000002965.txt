@@ -8,3 +8,8 @@ A silver car parked on the side of a street.
 A silver car parked on the side of a quiet residential street, with houses and trees in the background.
 A silver car is parked on the side of a narrow street lined with houses and trees.
 A narrow street with parked cars, lined by houses and a white wall, under a clear blue sky.
+An image with three cars, a road, a house, a sky, a wall, a person, a tree, and a pavement.
+An image with a road, three cars, a sky, a house, a wall, a person, a pavement, and a tree.
+An image with a wall, a pavement, a tree, three cars, a road, a sky, a person, and a house.
+An image with a wall, three cars, a road, a tree, a sky, a pavement, a house, and a person.
+An image with three cars, a tree, a sky, a person, a pavement, a road, a wall, and a house.

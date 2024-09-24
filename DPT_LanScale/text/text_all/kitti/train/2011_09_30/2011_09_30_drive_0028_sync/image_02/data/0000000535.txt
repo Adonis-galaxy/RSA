@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a clear pathway, leading to a white building with a number 9 on it.
 The image shows a narrow, tree-lined street between two buildings, with a sidewalk on the left side and a fence on the right.
 A narrow, tree-lined street between two buildings, with a sidewalk and a fence on the right side.
+An image with a fence, a wall, a tree, a car, a sky, a pavement, a house, and a road.
+An image with a road, a tree, a sky, a house, a fence, a pavement, a wall, and a car.
+An image with a wall, a sky, a car, a fence, a tree, a pavement, a house, and a road.
+An image with a fence, a road, a sky, a tree, a car, a house, a pavement, and a wall.
+An image with a sky, a pavement, a fence, a road, a wall, a tree, a house, and a car.

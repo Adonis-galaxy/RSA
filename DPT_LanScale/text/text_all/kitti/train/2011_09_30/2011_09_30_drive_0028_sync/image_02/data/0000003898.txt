@@ -8,3 +8,8 @@ The image shows a street with parked cars and a van, with trees and buildings in
 The image captures a quiet residential street, lined with parked cars and tall buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars and tall buildings, with a few vehicles driving down the road.
 A narrow street lined with parked cars and tall buildings, with a mix of residential and commercial vehicles.
+An image with eight cars, a bus, a tree, a building, a cow, and a road.
+An image with eight cars, a building, a cow, a road, a tree, and a bus.
+An image with eight cars, a cow, a bus, a road, a building, and a tree.
+An image with eight cars, a road, a bus, a building, a tree, and a cow.
+An image with a building, a road, a cow, eight cars, a tree, and a bus.

@@ -8,3 +8,8 @@ The image shows a busy street with cars and traffic lights.
 The image captures a bustling city street scene with a red car in the foreground, a white line dividing the lanes, and various traffic lights and signs indicating a busy intersection.
 A red car is driving down a busy street, passing through an intersection with multiple traffic lights and signs.
 A busy city street with a red car driving through an intersection, surrounded by various vehicles and traffic lights.
+An image with a house, eleven cars, eight traffics, a grass, a mountain, a road, a sky, a pavement, and a tree.
+An image with eleven cars, eight traffics, a pavement, a house, a tree, a grass, a sky, a road, and a mountain.
+An image with eleven cars, a sky, eight traffics, a house, a pavement, a grass, a mountain, a tree, and a road.
+An image with eleven cars, a sky, eight traffics, a tree, a mountain, a road, a house, a grass, and a pavement.
+An image with eight traffics, eleven cars, a mountain, a tree, a pavement, a grass, a house, a road, and a sky.

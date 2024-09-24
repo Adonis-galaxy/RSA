@@ -8,3 +8,8 @@ A car driving down a tree-lined road.
 A car on a road, surrounded by trees and a clear sky.
 A car is driving down a tree-lined road with a few other cars in the distance.
 A car is driving down a tree-lined road with a clear sky overhead.
+An image with a road, seven cars, a sky, a grass, a tree, a pavement, and a person.
+An image with seven cars, a person, a tree, a sky, a grass, a pavement, and a road.
+An image with seven cars, a tree, a sky, a person, a pavement, a road, and a grass.
+An image with seven cars, a grass, a road, a person, a tree, a pavement, and a sky.
+An image with seven cars, a tree, a road, a pavement, a grass, a sky, and a person.

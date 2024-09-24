@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A man riding a bicycle on a quiet residential street, with houses and trees lining the road.
 A man riding a bicycle on a quiet residential street, with houses and trees lining the road.
 A man rides a bicycle down a quiet residential street, passing by parked cars and a white house with a blue sign.
+An image with four cars, a road, a truck, a house, a bicycle, a tree, a grass, and a person.
+An image with four cars, a road, a grass, a truck, a house, a tree, a person, and a bicycle.
+An image with four cars, a tree, a bicycle, a house, a person, a grass, a road, and a truck.
+An image with a grass, a tree, four cars, a truck, a house, a bicycle, a person, and a road.
+An image with a person, four cars, a tree, a road, a bicycle, a grass, a truck, and a house.

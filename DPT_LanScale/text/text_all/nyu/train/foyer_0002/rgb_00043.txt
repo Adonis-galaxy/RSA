@@ -8,3 +8,8 @@ A piano in a room.
 A piano in a room with a window, a bench, and a blue bag.
 The image shows a small room with a piano, a window, and a few items on the piano.
 The image shows a room with a piano, a window, and various items on the piano, including a blue bag and a book.
+An image with a handbag, a backpack, a window, a wall, a book, a bench, a floor, a curtain, and a chair.
+An image with a chair, a wall, a book, a floor, a backpack, a curtain, a window, a handbag, and a bench.
+An image with a window, a wall, a book, a bench, a curtain, a chair, a handbag, a floor, and a backpack.
+An image with a window, a curtain, a floor, a handbag, a book, a wall, a bench, a chair, and a backpack.
+An image with a window, a backpack, a curtain, a bench, a chair, a floor, a handbag, a wall, and a book.

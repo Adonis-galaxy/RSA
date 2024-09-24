@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white camper van.
 A narrow street in a residential area, with parked cars and a white camper van, under a clear blue sky.
 A narrow street in a residential area with parked cars, a white van, and a large white camper van.
 A narrow street in a residential area, with parked cars and a white camper van, leading to a white building with a red roof.
+An image with six cars, a building, a roof, a bus, a sky, a pavement, a wall, a tree, and a road.
+An image with six cars, a wall, a roof, a bus, a tree, a pavement, a building, a sky, and a road.
+An image with a sky, a tree, six cars, a bus, a road, a pavement, a building, a wall, and a roof.
+An image with a wall, six cars, a road, a tree, a bus, a building, a pavement, a sky, and a roof.
+An image with six cars, a sky, a building, a roof, a bus, a tree, a pavement, a road, and a wall.

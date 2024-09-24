@@ -8,3 +8,8 @@ The image shows a street with a car and a train.
 The image captures a quiet, tree-lined street with a clear sky, a few parked cars, and a sign indicating a nearby stadium.
 The image shows a wide, tree-lined street with a train track running parallel to it, a yellow sign with black text indicating directions, and a car driving on the road.
 The image depicts a wide, tree-lined street with a clear sky, a yellow sign indicating a stadium, a red train, and a white arrow pointing to the right.
+An image with a bus, a road, a wall, three cars, a tree, a building, a sky, and a grass.
+An image with a tree, three cars, a road, a building, a sky, a grass, a bus, and a wall.
+An image with a bus, three cars, a road, a grass, a wall, a tree, a building, and a sky.
+An image with three cars, a sky, a wall, a grass, a bus, a road, a tree, and a building.
+An image with a grass, a wall, three cars, a tree, a bus, a sky, a building, and a road.

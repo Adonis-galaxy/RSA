@@ -8,3 +8,8 @@ A narrow pathway between two hedges.
 A narrow, overgrown pathway between two walls of lush greenery, leading to a building with a white roof.
 A narrow, overgrown pathway between two walls of lush greenery, with a small gate at the end.
 A narrow, overgrown pathway between two walls of lush greenery, leading to a building with a white roof.
+An image with a sky, a fence, a tree, a house, and a pavement.
+An image with a tree, a house, a pavement, a fence, and a sky.
+An image with a tree, a pavement, a sky, a house, and a fence.
+An image with a pavement, a house, a sky, a tree, and a fence.
+An image with a fence, a sky, a tree, a pavement, and a house.

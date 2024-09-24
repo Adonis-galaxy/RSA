@@ -8,3 +8,8 @@ A blurry image of a science lab with a white table and a blue cart.
 The image shows a science lab with a large blue metal rack holding various glass tubes and a metal shelf with a large glass container.
 The image shows a large blue metal rack with multiple white pipes attached to it, placed in a laboratory setting with a blurred background.
 The image shows a laboratory setting with a blue metal rack containing multiple glass tubes connected to a white metal table, and a silver metal lamp on the table.
+An image with a cabinet, a counter, a window, a floor, a backpack, and a wall.
+An image with a backpack, a wall, a counter, a window, a floor, and a cabinet.
+An image with a cabinet, a counter, a wall, a backpack, a floor, and a window.
+An image with a cabinet, a wall, a backpack, a window, a floor, and a counter.
+An image with a window, a floor, a cabinet, a wall, a counter, and a backpack.

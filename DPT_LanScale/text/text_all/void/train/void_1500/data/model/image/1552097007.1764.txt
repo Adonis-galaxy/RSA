@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a wooden base and a white structure on top, placed on a white surface.
 The image shows a small model of a building, which is placed on a wooden stand.
 The image shows a model of a building with a flat roof, placed on a wooden stand.
+An image with a floor, a building, a microwave, and a cabinet.
+An image with a floor, a microwave, a cabinet, and a building.
+An image with a building, a floor, a microwave, and a cabinet.
+An image with a floor, a building, a microwave, and a cabinet.
+An image with a building, a microwave, a floor, and a cabinet.

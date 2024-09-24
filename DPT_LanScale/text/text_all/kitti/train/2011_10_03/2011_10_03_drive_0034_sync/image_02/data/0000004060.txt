@@ -8,3 +8,8 @@ The image shows a street view of a house with a green roof.
 The image captures a serene residential street scene, with a two-story house featuring a distinctive curved roof and a well-maintained garden, leading to a quiet cul-de-sac.
 The image shows a residential street scene with a large house on the right, a smaller house on the left, and a car parked on the street.
 The image shows a residential street scene with a two-story house, a garage, a fence, a sidewalk, and a tree-lined street.
+An image with a sky, a building, a pavement, a wall, a tree, a road, and a window.
+An image with a window, a wall, a pavement, a sky, a road, a tree, and a building.
+An image with a building, a tree, a wall, a pavement, a window, a sky, and a road.
+An image with a tree, a sky, a window, a road, a building, a pavement, and a wall.
+An image with a pavement, a building, a window, a road, a tree, a sky, and a wall.

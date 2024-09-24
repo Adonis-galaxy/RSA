@@ -8,3 +8,8 @@ A printer on a desk.
 A printer sits on a desk with a paper box and a blue stapler.
 A white printer with a yellow paper on top of it, sitting on a beige counter.
 A printer sits on a desk with a yellow wall in the background.
+An image with a chair, a paper, a scissors, a cabinet, a wall, and a counter.
+An image with a scissors, a counter, a cabinet, a wall, a chair, and a paper.
+An image with a cabinet, a paper, a counter, a chair, a scissors, and a wall.
+An image with a wall, a paper, a scissors, a cabinet, a chair, and a counter.
+An image with a paper, a cabinet, a scissors, a wall, a chair, and a counter.

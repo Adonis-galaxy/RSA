@@ -8,3 +8,8 @@ The image shows a room with two black chairs and an orange stool.
 The image shows a room with two black chairs and an orange stool, all placed on a white floor.
 The image shows a small orange table in a room with two black chairs.
 The image shows a room with two black chairs, one orange chair, and a white wall.
+An image with a bicycle, two chairs, a wall, and a floor.
+An image with two chairs, a wall, a bicycle, and a floor.
+An image with a floor, a bicycle, two chairs, and a wall.
+An image with two chairs, a bicycle, a wall, and a floor.
+An image with two chairs, a bicycle, a floor, and a wall.

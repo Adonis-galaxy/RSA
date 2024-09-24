@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars.
 A quiet residential street with parked cars and a clear sky.
 The image shows a narrow, tree-lined street with two parked cars, a white house with a black roof, and a sidewalk.
 A quiet residential street with parked cars, a sidewalk, and a paved road, lined with trees and houses.
+An image with a road, a tree, a fence, a sky, two cars, a pavement, a wall, a house, and a roof.
+An image with a sky, a pavement, a road, two cars, a wall, a house, a roof, a tree, and a fence.
+An image with a fence, a tree, a pavement, a house, a wall, a sky, two cars, a road, and a roof.
+An image with a house, two cars, a roof, a fence, a sky, a tree, a pavement, a wall, and a road.
+An image with a sky, a house, a road, a fence, a tree, two cars, a roof, a pavement, and a wall.

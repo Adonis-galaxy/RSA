@@ -8,3 +8,8 @@ The image shows a red car parked on the side of a street.
 A red car parked on the side of a street, with a sidewalk and grassy area, and a row of trees and buildings in the background.
 A red car is parked on the side of a street next to a sidewalk, with a building under construction in the background.
 A red car is parked on the side of a street lined with trees and buildings under construction.
+An image with seven cars, a person, a bicycle, a road, a grass, a building, a tree, and a pavement.
+An image with a grass, a building, seven cars, a tree, a bicycle, a pavement, a person, and a road.
+An image with seven cars, a road, a tree, a bicycle, a person, a grass, a building, and a pavement.
+An image with a bicycle, seven cars, a person, a tree, a building, a grass, a pavement, and a road.
+An image with seven cars, a person, a road, a building, a grass, a pavement, a tree, and a bicycle.

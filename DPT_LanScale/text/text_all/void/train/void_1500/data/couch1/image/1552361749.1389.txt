@@ -8,3 +8,8 @@ A black leather couch with a white ball on it.
 A black leather couch with a baseball on it, and a jacket on the armrest.
 A black leather couch with a white ball on it, a gray jacket on the armrest, and a pile of papers on the seat.
 A black leather couch with a white ball on it, sitting in a room with a white wall.
+An image with a wall, a sports, a couch, a rug, and a book.
+An image with a rug, a wall, a sports, a couch, and a book.
+An image with a couch, a wall, a rug, a book, and a sports.
+An image with a wall, a couch, a rug, a book, and a sports.
+An image with a couch, a sports, a wall, a book, and a rug.

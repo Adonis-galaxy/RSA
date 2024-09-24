@@ -8,3 +8,8 @@ The image shows a red car parked on the side of a street.
 The image captures a quiet residential street, with a red car parked on the side of the road, adjacent to a sidewalk, and a building under construction in the background.
 A red car is parked on the side of a street next to a sidewalk, with a building under construction in the background.
 A red car is parked on the side of a street lined with trees and buildings under construction.
+An image with six cars, a road, a tree, a person, a house, a wall, a grass, a pavement, a flower, a sky, and a building.
+An image with a wall, six cars, a flower, a road, a sky, a person, a tree, a building, a pavement, a grass, and a house.
+An image with a sky, six cars, a person, a tree, a building, a grass, a road, a pavement, a flower, a house, and a wall.
+An image with a sky, a pavement, a wall, a road, six cars, a tree, a house, a flower, a grass, a building, and a person.
+An image with a building, a pavement, six cars, a sky, a wall, a grass, a tree, a house, a road, a flower, and a person.

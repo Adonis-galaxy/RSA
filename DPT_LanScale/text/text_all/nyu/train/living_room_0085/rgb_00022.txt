@@ -8,3 +8,8 @@ A small, dark room with a bed, fan, and a small table.
 The image captures a small, cluttered room with a bed, a fan, a suitcase, and a television, all in a state of disarray.
 The image shows a small, dark room with a bed, a fan, a suitcase, and a small TV.
 The image shows a small, dark room with a bed, a fan, a suitcase, and a television, all arranged in a cluttered manner.
+An image with a rug, a couch, a tv, and a wall.
+An image with a rug, a couch, a wall, and a tv.
+An image with a couch, a tv, a rug, and a wall.
+An image with a rug, a tv, a couch, and a wall.
+An image with a rug, a tv, a wall, and a couch.

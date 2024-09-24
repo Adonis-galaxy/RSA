@@ -8,3 +8,8 @@ A blue backpack on a chair.
 A blue backpack sits on a blue chair next to a desk with a computer and a toy car.
 A blue backpack is sitting on a blue chair in an office setting.
 A blue backpack is placed on a blue chair in an office setting.
+An image with a floor, a car, a chair, a wall, a backpack, a table, and a person.
+An image with a floor, a person, a car, a chair, a backpack, a wall, and a table.
+An image with a car, a person, a table, a floor, a wall, a backpack, and a chair.
+An image with a person, a car, a backpack, a wall, a floor, a chair, and a table.
+An image with a backpack, a person, a floor, a chair, a wall, a car, and a table.

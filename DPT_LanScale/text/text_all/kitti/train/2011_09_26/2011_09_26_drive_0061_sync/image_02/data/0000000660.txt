@@ -8,3 +8,8 @@ A narrow dirt path between lush greenery.
 A narrow, sunlit pathway between lush greenery, bordered by a fence and flanked by signs, inviting exploration.
 A narrow, sunlit path between lush greenery, bordered by a fence and a road sign, with a small building visible in the distance.
 A narrow, shaded pathway between lush greenery, bordered by a fence and a road, with a red sign and a building in the distance.
+An image with a stop, a road, a fence, and a tree.
+An image with a stop, a fence, a road, and a tree.
+An image with a tree, a road, a fence, and a stop.
+An image with a road, a fence, a stop, and a tree.
+An image with a stop, a tree, a fence, and a road.

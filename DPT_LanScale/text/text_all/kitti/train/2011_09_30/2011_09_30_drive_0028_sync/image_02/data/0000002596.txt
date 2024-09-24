@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person walking on the side
 The image captures a quiet residential street, with parked cars and a person walking, under the shade of trees, leading to a white house with a blue sign.
 The image shows a narrow street with parked cars, a person walking, and a building with a blue sign.
 A quiet residential street with parked cars and a clear sky.
+An image with three cars, a tree, a building, a grass, a person, a sky, a road, and a pavement.
+An image with a sky, a road, a tree, a pavement, three cars, a building, a grass, and a person.
+An image with a road, a building, a pavement, three cars, a tree, a sky, a grass, and a person.
+An image with a grass, three cars, a tree, a pavement, a person, a building, a road, and a sky.
+An image with a person, a pavement, three cars, a building, a grass, a tree, a road, and a sky.

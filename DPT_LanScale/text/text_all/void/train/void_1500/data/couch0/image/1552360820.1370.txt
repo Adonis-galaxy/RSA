@@ -8,3 +8,8 @@ A black and grey backpack on a grey bench.
 A gray couch with a black bag, a hat, and a white plate on it.
 A gray couch with a black bag, a hat, and a white plate on it.
 A gray couch with a black bag, a hat, and a white plate on it.
+An image with a rug, a suitcase, two backpacks, a book, and a couch.
+An image with a couch, two backpacks, a rug, a book, and a suitcase.
+An image with a couch, two backpacks, a book, a suitcase, and a rug.
+An image with a book, a rug, two backpacks, a couch, and a suitcase.
+An image with a suitcase, a couch, a book, two backpacks, and a rug.

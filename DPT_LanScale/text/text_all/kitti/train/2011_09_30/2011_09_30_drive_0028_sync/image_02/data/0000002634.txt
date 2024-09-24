@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A quiet suburban street, lined with trees and houses, under a clear blue sky.
 A car is parked on the side of a tree-lined street, with a house in the background.
 A quiet suburban street with a car parked on the side, lined by trees and a white house, leading to a cul-de-sac.
+An image with a roof, a tree, a sky, a pavement, a road, a car, a house, and a grass.
+An image with a roof, a tree, a road, a house, a pavement, a grass, a car, and a sky.
+An image with a road, a pavement, a sky, a house, a tree, a grass, a car, and a roof.
+An image with a sky, a grass, a tree, a pavement, a road, a car, a roof, and a house.
+An image with a grass, a road, a tree, a house, a car, a sky, a roof, and a pavement.

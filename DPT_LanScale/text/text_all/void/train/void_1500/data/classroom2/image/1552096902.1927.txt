@@ -8,3 +8,8 @@ A row of black and orange chairs.
 The image shows a row of black chairs with wooden desks, all facing the same direction.
 The image shows a row of black chairs with wooden desks, all lined up against a wall.
 The image shows a row of black chairs with wooden desks, arranged in a classroom setting.
+An image with ten chairs, a wall, a dining, and a floor.
+An image with a dining, a floor, ten chairs, and a wall.
+An image with ten chairs, a floor, a dining, and a wall.
+An image with a floor, ten chairs, a dining, and a wall.
+An image with ten chairs, a floor, a wall, and a dining.

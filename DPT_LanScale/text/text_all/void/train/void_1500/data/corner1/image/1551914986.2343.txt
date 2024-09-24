@@ -8,3 +8,8 @@ A computer desk with a computer monitor, keyboard, and mouse.
 The image shows a computer desk with various items on it, including a blue box, a white sign, and a black box.
 The image shows a cluttered office space with a desk, a computer monitor, a printer, and various other items.
 The image shows a cluttered workspace with various electronic equipment, a desk with a computer monitor, keyboard, and mouse, and a sign that says "RESERVED" with a date and time.
+An image with a paper, a cardboard, a chair, a wall, a table, a window, and a tv.
+An image with a paper, a wall, a table, a window, a cardboard, a tv, and a chair.
+An image with a table, a wall, a window, a cardboard, a tv, a chair, and a paper.
+An image with a wall, a tv, a cardboard, a window, a table, a chair, and a paper.
+An image with a chair, a window, a table, a cardboard, a wall, a paper, and a tv.

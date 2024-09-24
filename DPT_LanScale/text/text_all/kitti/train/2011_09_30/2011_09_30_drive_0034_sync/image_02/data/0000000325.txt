@@ -8,3 +8,8 @@ The image shows a narrow street lined with houses and cars.
 A quiet residential street, with a mix of vehicles and a hint of urban life.
 The image shows a narrow, tree-lined street with parked cars, a truck, and a house with a garage door. The street is paved with bricks and has a fence on one side.
 A narrow, tree-lined street with parked cars, a truck, and a house with a garage door.
+An image with a sky, a truck, a tree, a pavement, two cars, a house, a roof, and a fence.
+An image with a fence, a sky, two cars, a pavement, a house, a tree, a roof, and a truck.
+An image with a truck, two cars, a roof, a fence, a tree, a sky, a pavement, and a house.
+An image with two cars, a truck, a sky, a house, a tree, a pavement, a fence, and a roof.
+An image with a sky, a tree, a roof, a house, a pavement, a truck, two cars, and a fence.

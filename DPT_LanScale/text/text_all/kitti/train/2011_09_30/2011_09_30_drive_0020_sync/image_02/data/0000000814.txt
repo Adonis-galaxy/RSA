@@ -8,3 +8,8 @@ The image shows a long, empty street lined with trees and buildings.
 The image captures a serene residential street, lined with houses, trees, and a sidewalk, under a clear blue sky.
 The image shows a long, narrow street lined with trees and buildings, with a clear sky overhead.
 A long, tree-lined street with a sidewalk and parked cars, leading to a row of buildings under a clear blue sky.
+An image with two walls, a grass, eight cars, a sky, a bicycle, a road, a house, a pavement, and a tree.
+An image with a road, eight cars, a grass, a sky, two walls, a pavement, a tree, a house, and a bicycle.
+An image with a tree, eight cars, a grass, two walls, a sky, a bicycle, a road, a house, and a pavement.
+An image with two walls, a tree, a sky, eight cars, a grass, a pavement, a house, a bicycle, and a road.
+An image with two walls, a road, a house, a pavement, eight cars, a sky, a bicycle, a grass, and a tree.

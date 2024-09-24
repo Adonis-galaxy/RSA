@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white line painted on the road.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a white line painted on the road, indicating a pedestrian crossing.
 The image shows a narrow street with parked cars on both sides, a white line painted on the road, and a line of trees in the background.
 A narrow street with parked cars, a line of trees, and a white line painted on the road.
+An image with a pavement, five cars, a road, a sky, a wall, and a tree.
+An image with a wall, a pavement, a sky, a tree, five cars, and a road.
+An image with a road, five cars, a pavement, a tree, a sky, and a wall.
+An image with a road, a wall, five cars, a sky, a pavement, and a tree.
+An image with a wall, a sky, five cars, a tree, a road, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with cars, trees, and signs.
 The image captures a quiet, tree-lined street with a few cars, a pedestrian, and a traffic light, all under a clear blue sky.
 The image shows a wide street with a few cars, a sidewalk, and trees on both sides. There are street signs and a traffic light visible.
 The image depicts a tree-lined street with a clear sky, a few cars, and a yellow sign on a metal pole.
+An image with a pavement, a sky, a building, four cars, a wall, a bus, a tree, a road, and a grass.
+An image with a grass, a tree, four cars, a building, a sky, a wall, a bus, a road, and a pavement.
+An image with four cars, a wall, a grass, a road, a building, a bus, a sky, a tree, and a pavement.
+An image with a grass, a bus, a building, a pavement, four cars, a sky, a wall, a road, and a tree.
+An image with a bus, four cars, a tree, a wall, a pavement, a grass, a sky, a building, and a road.

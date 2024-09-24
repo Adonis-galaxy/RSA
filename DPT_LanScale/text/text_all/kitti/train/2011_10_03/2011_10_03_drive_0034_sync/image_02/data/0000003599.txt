@@ -8,3 +8,8 @@ A narrow street between two walls of hedges.
 A quiet, tree-lined street with a clear path leading to a distant house.
 A narrow, tree-lined street between two walls, with a house on the left and a car on the right.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with a pavement, a house, a sky, two walls, a car, a tree, a fence, and a road.
+An image with a tree, two walls, a car, a pavement, a house, a sky, a road, and a fence.
+An image with a road, a pavement, a tree, a house, a fence, two walls, a car, and a sky.
+An image with a fence, a car, a tree, a road, a house, a pavement, two walls, and a sky.
+An image with a pavement, two walls, a road, a house, a fence, a sky, a tree, and a car.

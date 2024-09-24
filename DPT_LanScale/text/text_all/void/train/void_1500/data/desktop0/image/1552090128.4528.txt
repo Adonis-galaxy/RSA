@@ -8,3 +8,8 @@ A computer desk with a hat on it.
 A computer desk with a hat on it.
 A small office desk with a computer monitor, keyboard, mouse, and a hat on it.
 A computer desk with a keyboard, mouse, and a hat on it.
+An image with a wall, a rug, a cabinet, a keyboard, a floor, a tv, a chair, a cat, a mouse, and a table.
+An image with a mouse, a keyboard, a rug, a table, a floor, a wall, a chair, a cabinet, a cat, and a tv.
+An image with a chair, a table, a floor, a wall, a cat, a cabinet, a mouse, a tv, a rug, and a keyboard.
+An image with a cat, a tv, a table, a keyboard, a rug, a chair, a mouse, a floor, a cabinet, and a wall.
+An image with a tv, a cat, a chair, a mouse, a floor, a rug, a cabinet, a wall, a table, and a keyboard.

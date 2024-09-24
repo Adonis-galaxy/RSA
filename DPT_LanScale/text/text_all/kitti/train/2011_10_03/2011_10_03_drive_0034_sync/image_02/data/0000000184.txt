@@ -8,3 +8,8 @@ A car parked on a tree-lined street.
 A quiet suburban street, lined with trees and parked cars, under a clear blue sky.
 A car is parked on a tree-lined street in a residential area.
 A tree-lined street in a residential area, with a car parked on the side and a house visible in the background.
+An image with a dirt, a pavement, a car, a house, a road, and a tree.
+An image with a pavement, a dirt, a car, a road, a tree, and a house.
+An image with a pavement, a house, a road, a car, a dirt, and a tree.
+An image with a car, a road, a house, a pavement, a tree, and a dirt.
+An image with a pavement, a tree, a dirt, a road, a house, and a car.

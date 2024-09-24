@@ -8,3 +8,8 @@ The image shows a street scene with a white car driving down the road.
 The image captures a sunny day in a residential area, with a white car parked on the side of a tree-lined street, surrounded by buildings and other parked cars.
 A white car is driving down a tree-lined street with apartment buildings on either side.
 A sunny day in a residential area with a mix of cars and pedestrians, lined with trees and buildings.
+An image with a road, four cars, a grass, a pavement, two stops, a tree, a sky, and a building.
+An image with a pavement, two stops, a grass, four cars, a road, a building, a tree, and a sky.
+An image with four cars, two stops, a tree, a building, a pavement, a grass, a road, and a sky.
+An image with a road, four cars, a tree, a grass, a building, a sky, two stops, and a pavement.
+An image with a road, a grass, a tree, a pavement, a building, four cars, two stops, and a sky.

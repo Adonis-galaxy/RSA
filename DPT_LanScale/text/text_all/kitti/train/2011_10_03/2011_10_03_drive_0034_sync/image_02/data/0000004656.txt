@@ -8,3 +8,8 @@ The image shows a narrow street between two brick walls.
 The image captures a narrow, tree-lined street that leads to a brick building, with a red car parked on the side and a stop sign visible in the distance.
 The image shows a narrow, tree-lined street with a brick wall on one side, a red car parked on the right, and a white building with a small window on the left.
 The image captures a narrow, tree-lined street that leads to a brick building with a small window and a red car parked on the right side.
+An image with a pavement, a road, three cars, a wall, a sky, a tree, a stop, and a fence.
+An image with a wall, a stop, a tree, three cars, a pavement, a sky, a road, and a fence.
+An image with a wall, a tree, three cars, a fence, a sky, a stop, a road, and a pavement.
+An image with a road, a stop, three cars, a tree, a fence, a pavement, a wall, and a sky.
+An image with a sky, a pavement, three cars, a tree, a wall, a stop, a road, and a fence.

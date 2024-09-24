@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and houses.
 The image captures a quaint, tree-lined residential street, with parked cars and a clear sky overhead.
 The image shows a narrow street lined with parked cars, a few trees, and houses with red roofs. The street is shaded by a canopy, and there is a no-turn sign on the right side.
 A narrow, tree-lined street in a residential area, with parked cars and a few buildings, leading to a covered parking area.
+An image with eight cars, a road, a door, a pavement, two walls, a house, a tree, a stop, and a sky.
+An image with eight cars, two walls, a road, a house, a stop, a tree, a pavement, a sky, and a door.
+An image with a house, eight cars, a tree, a road, a sky, two walls, a door, a stop, and a pavement.
+An image with two walls, eight cars, a door, a tree, a house, a road, a pavement, a sky, and a stop.
+An image with eight cars, two walls, a door, a tree, a sky, a stop, a pavement, a house, and a road.

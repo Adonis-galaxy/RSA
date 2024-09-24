@@ -8,3 +8,8 @@ A whiteboard with red chairs and a table in a conference room.
 The image captures a conference room setting with a whiteboard displaying a diagram, a table with red chairs, and a window with blinds, all under a white ceiling.
 The image shows a whiteboard with various diagrams and notes, a table with red chairs, and a window with blinds.
 The image shows an office meeting room with a whiteboard on the wall, a table with red chairs, and a window with blinds.
+An image with a dining, four chairs, a tv, a cup, a ceiling, a floor, a wall, a window, and a door.
+An image with a tv, a window, four chairs, a wall, a cup, a door, a dining, a floor, and a ceiling.
+An image with a wall, a dining, four chairs, a ceiling, a window, a cup, a floor, a tv, and a door.
+An image with a floor, four chairs, a window, a ceiling, a cup, a tv, a door, a dining, and a wall.
+An image with a window, a wall, four chairs, a floor, a tv, a cup, a dining, a door, and a ceiling.

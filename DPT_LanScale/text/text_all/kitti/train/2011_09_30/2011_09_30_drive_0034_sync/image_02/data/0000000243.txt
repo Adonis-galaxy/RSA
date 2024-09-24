@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a brick sidewalk.
 A quiet residential street, with parked cars and a clear pathway, under a bright sunny sky.
 A narrow, tree-lined street with parked cars and a pedestrian walkway.
 A narrow, tree-lined street with parked cars and a pedestrian walkway.
+An image with three cars, a house, two walls, a sky, a pavement, and a tree.
+An image with two walls, a pavement, a house, three cars, a tree, and a sky.
+An image with three cars, two walls, a pavement, a sky, a tree, and a house.
+An image with a house, three cars, two walls, a pavement, a tree, and a sky.
+An image with a tree, a pavement, three cars, a sky, two walls, and a house.

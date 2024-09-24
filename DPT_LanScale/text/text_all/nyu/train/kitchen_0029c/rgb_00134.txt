@@ -8,3 +8,8 @@ The image shows a room with a door, a table, and two chairs.
 The image captures a cozy dining area with a glass table, two chairs, and a door, all set against a pinkish-white wall.
 The image shows a small room with a glass table, two chairs, a door, and a window with blinds.
 The image shows a room with a glass table, two chairs, a door, and a window with blinds.
+An image with three chairs, a window, a floor, a wall, a dining, a door, and a shelf.
+An image with three chairs, a floor, a door, a shelf, a dining, a wall, and a window.
+An image with a window, three chairs, a dining, a door, a shelf, a floor, and a wall.
+An image with a floor, a dining, a shelf, a wall, three chairs, a door, and a window.
+An image with a floor, a dining, three chairs, a window, a door, a wall, and a shelf.

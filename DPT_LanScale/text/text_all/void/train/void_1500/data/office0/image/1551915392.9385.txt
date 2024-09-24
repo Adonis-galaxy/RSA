@@ -8,3 +8,8 @@ The image shows a black chair in front of a whiteboard.
 The image shows a black chair pushed up to a white table with a marble top, and there is a whiteboard on the wall behind the chair.
 The image shows a black chair in front of a whiteboard, with a white marble table and a book in the foreground.
 The image shows a black chair positioned in front of a whiteboard, with a table and a book in the foreground.
+An image with a wall, two chairs, a dining, and a book.
+An image with a book, two chairs, a dining, and a wall.
+An image with a dining, two chairs, a book, and a wall.
+An image with a book, two chairs, a dining, and a wall.
+An image with two chairs, a dining, a wall, and a book.

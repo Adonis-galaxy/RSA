@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and a person walking.
 A quiet residential street, lined with parked cars and houses, where a person is walking down the sidewalk, and the sun is shining brightly.
 A narrow street between two-story buildings, lined with parked cars and lush greenery, with a person walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with parked cars and a person walking on the sidewalk.
+An image with three people, a fence, a tree, a road, four cars, a sky, a pavement, and a house.
+An image with a road, three people, a house, a tree, a fence, a pavement, four cars, and a sky.
+An image with a tree, three people, four cars, a fence, a sky, a pavement, a house, and a road.
+An image with a house, three people, four cars, a sky, a tree, a pavement, a fence, and a road.
+An image with four cars, a fence, a house, three people, a road, a pavement, a sky, and a tree.

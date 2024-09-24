@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 A solitary black car on a wide, empty road, with a clear blue sky overhead and a lush green landscape on either side.
 A car is driving down a road next to a train track, with a clear blue sky overhead and trees lining the road.
 A road with a train track running parallel, lined with trees and buildings, with cars driving on the road and a train passing on the track.
+An image with a tree, four cars, a building, two trucks, a grass, a fence, a road, and a railroad.
+An image with a railroad, four cars, a road, two trucks, a grass, a fence, a tree, and a building.
+An image with a building, four cars, two trucks, a road, a fence, a grass, a railroad, and a tree.
+An image with a grass, a railroad, four cars, two trucks, a fence, a building, a tree, and a road.
+An image with four cars, a railroad, a road, two trucks, a grass, a tree, a building, and a fence.

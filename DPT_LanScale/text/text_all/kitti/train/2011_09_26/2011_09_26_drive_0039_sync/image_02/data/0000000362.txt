@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a residential street, with a numbered parking spot and a fence on the sidewalk.
 A white van is parked on a narrow street between two buildings, with a number "02" painted on the road.
 A white van is parked on the side of a narrow street, with apartment buildings on either side, and a numbered parking spot marked on the road.
+An image with a window, two walls, four cars, a pavement, a house, a tree, a road, a roof, and a fence.
+An image with a road, a roof, two walls, a fence, a window, four cars, a pavement, a house, and a tree.
+An image with a fence, a road, a tree, two walls, four cars, a window, a roof, a house, and a pavement.
+An image with a tree, a house, two walls, four cars, a fence, a roof, a pavement, a road, and a window.
+An image with four cars, two walls, a house, a tree, a road, a roof, a window, a fence, and a pavement.

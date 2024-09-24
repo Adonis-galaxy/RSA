@@ -8,3 +8,8 @@ The image shows a white car parked on the side of a street.
 A small white car parked on a narrow street between two buildings, with a blue sign on a pole to the right.
 A small white car is parked on the side of a narrow street next to a building with a blue sign.
 A white car is parked on the side of a narrow street, adjacent to a sidewalk and a building with a blue sign.
+An image with a road, a tree, three cars, a sky, a pavement, and a house.
+An image with a road, a pavement, a tree, a sky, three cars, and a house.
+An image with a tree, three cars, a pavement, a sky, a house, and a road.
+An image with a tree, a sky, three cars, a pavement, a road, and a house.
+An image with three cars, a house, a tree, a road, a pavement, and a sky.

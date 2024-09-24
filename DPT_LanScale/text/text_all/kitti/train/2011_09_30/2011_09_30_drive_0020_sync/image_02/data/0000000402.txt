@@ -8,3 +8,8 @@ A white truck driving down a street.
 A white truck is driving down a tree-lined street, passing by a row of houses and a parked car.
 A large white truck is driving down a tree-lined street in a residential area.
 A white truck is driving down a tree-lined street in a residential area, with houses and parked cars on the right side.
+An image with a sky, a grass, two cars, a tree, a road, a house, a truck, a pavement, and a building.
+An image with a sky, two cars, a tree, a truck, a road, a building, a grass, a house, and a pavement.
+An image with a grass, two cars, a sky, a house, a truck, a tree, a building, a road, and a pavement.
+An image with a house, two cars, a truck, a tree, a building, a pavement, a road, a grass, and a sky.
+An image with a house, a tree, a sky, a building, a truck, a pavement, a grass, two cars, and a road.

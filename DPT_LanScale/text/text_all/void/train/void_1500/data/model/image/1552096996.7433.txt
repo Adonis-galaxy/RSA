@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape with buildings and a street, displayed on a glass shelf.
 The image shows a model of a cityscape, including a white building, a red building, and a gray building, all displayed on a glass table.
 The image shows a model of a cityscape with various buildings, including a tall white building and a red brick building, displayed on a glass shelf.
+An image with a toothbrush, a floor, and a building.
+An image with a floor, a building, and a toothbrush.
+An image with a building, a floor, and a toothbrush.
+An image with a floor, a building, and a toothbrush.
+An image with a toothbrush, a building, and a floor.

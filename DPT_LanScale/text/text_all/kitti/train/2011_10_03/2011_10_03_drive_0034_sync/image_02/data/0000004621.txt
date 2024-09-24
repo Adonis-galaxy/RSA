@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on one side and a hedge on the
 A narrow, tree-lined street with a no-turn sign, leading to a brick wall and a white mailbox.
 The image shows a narrow, tree-lined street with a no left turn sign, a mailbox, and a brick wall.
 The image depicts a narrow, tree-lined street with a brick wall on one side, a no-turn sign, and a mailbox on the right side.
+An image with two walls, a tree, a stop, a sky, and a road.
+An image with two walls, a stop, a road, a sky, and a tree.
+An image with a tree, two walls, a stop, a sky, and a road.
+An image with two walls, a tree, a stop, a road, and a sky.
+An image with a sky, a road, a tree, two walls, and a stop.

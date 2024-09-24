@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a narrow street lined with parked cars and trees, with a sidewalk and grassy area on the left side.
 A tree-lined street with parked cars and a bicycle path.
+An image with a house, a truck, a sky, three cars, a grass, a road, a pavement, and a tree.
+An image with a sky, three cars, a truck, a house, a tree, a road, a pavement, and a grass.
+An image with a house, a tree, three cars, a road, a pavement, a truck, a grass, and a sky.
+An image with a road, a grass, three cars, a house, a truck, a pavement, a sky, and a tree.
+An image with three cars, a road, a sky, a grass, a pavement, a truck, a tree, and a house.

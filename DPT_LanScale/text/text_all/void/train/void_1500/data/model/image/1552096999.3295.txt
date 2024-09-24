@@ -8,3 +8,8 @@ A model of a cityscape with buildings and a street.
 The image shows a model of a cityscape with buildings and a street, displayed behind a glass case.
 The image shows a model of a cityscape with a focus on a red brick building, which is smaller in size compared to the surrounding buildings.
 The image shows a model of a cityscape with buildings and a street, displayed behind a glass case.
+An image with a building, a person, and a floor.
+An image with a person, a floor, and a building.
+An image with a person, a building, and a floor.
+An image with a person, a floor, and a building.
+An image with a building, a floor, and a person.

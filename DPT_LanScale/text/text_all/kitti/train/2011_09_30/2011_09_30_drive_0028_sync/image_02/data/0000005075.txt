@@ -8,3 +8,8 @@ A car is driving through an intersection.
 A car is crossing a street at an intersection, with a person walking on the sidewalk and a bicycle rider approaching from the opposite direction.
 A small gray car is crossing a street at an intersection, with a person walking on the sidewalk and a bicycle rider nearby.
 A car is crossing a street intersection in a residential area with trees and buildings in the background.
+An image with a truck, a pavement, seven cars, a tree, a person, two traffics, a grass, a building, a bench, and a road.
+An image with seven cars, a tree, a pavement, a grass, a person, two traffics, a road, a building, a bench, and a truck.
+An image with a person, a grass, a truck, seven cars, a building, a pavement, a bench, two traffics, a road, and a tree.
+An image with seven cars, a road, a pavement, a building, a bench, a tree, a truck, a person, a grass, and two traffics.
+An image with seven cars, a tree, two traffics, a road, a grass, a building, a person, a truck, a bench, and a pavement.

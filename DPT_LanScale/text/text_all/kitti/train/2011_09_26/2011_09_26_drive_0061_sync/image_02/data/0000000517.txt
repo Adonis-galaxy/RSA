@@ -8,3 +8,8 @@ The image shows a narrow street lined with trees and bushes.
 A narrow, tree-lined road with a parked car and a single pedestrian, leading to a quaint village.
 A narrow, tree-lined road with a red car parked on the side and a white lamp post.
 A narrow, tree-lined road with a red car parked on the side, leading to a brick wall and a building with a sloped roof.
+An image with a sky, a wall, two cars, a tree, a pavement, and a road.
+An image with a pavement, two cars, a sky, a road, a wall, and a tree.
+An image with a tree, a road, a sky, a pavement, a wall, and two cars.
+An image with a tree, two cars, a wall, a pavement, a road, and a sky.
+An image with a wall, two cars, a pavement, a road, a tree, and a sky.

@@ -8,3 +8,8 @@ A blurry image of a lab with a blue cart and a pink cabinet.
 The image shows a small, cluttered workspace with a desk, a chair, and various items on the desk.
 The image shows a small room with a desk, a blue chair, a blue metal rack, and a blue and black backpack.
 The image shows a small, cluttered workspace with a desk, a blue chair, and various equipment and wires.
+An image with a chair, a counter, a floor, a wall, a tv, a cabinet, and a keyboard.
+An image with a tv, a keyboard, a floor, a chair, a wall, a cabinet, and a counter.
+An image with a cabinet, a floor, a chair, a wall, a counter, a keyboard, and a tv.
+An image with a cabinet, a floor, a counter, a wall, a tv, a keyboard, and a chair.
+An image with a counter, a wall, a floor, a tv, a chair, a cabinet, and a keyboard.

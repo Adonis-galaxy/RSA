@@ -8,3 +8,8 @@ The image shows a tree-lined street with a car on it.
 A tree-lined street with a car, a pedestrian, and a sign, under a clear sky.
 The image shows a tree-lined street with a car, a person on a bicycle, and a sign.
 A tree-lined road with a car, a pedestrian, and a sign, leading to a park.
+An image with three people, a tree, a grass, a road, a pavement, a sky, and a car.
+An image with a car, a grass, a pavement, a road, three people, a tree, and a sky.
+An image with a grass, three people, a car, a road, a pavement, a tree, and a sky.
+An image with a tree, a sky, a pavement, a grass, three people, a road, and a car.
+An image with a car, three people, a grass, a pavement, a tree, a sky, and a road.

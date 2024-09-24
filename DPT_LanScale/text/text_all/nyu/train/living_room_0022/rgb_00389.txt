@@ -8,3 +8,8 @@ A man sitting on a couch in a living room.
 A man sitting on a couch in a living room, looking at a tablet, with a chair in front of him and a balloon on the wall.
 A man is sitting on a couch in a room with a large table, several chairs, and a balloon.
 A man is sitting on a couch in a living room with a table, chairs, and a balloon on the wall.
+An image with seven chairs, a table, a couch, a ceiling, a dining, a remote, a person, a window, a floor, and a wall.
+An image with a floor, a dining, a wall, a table, a window, a couch, a remote, seven chairs, a person, and a ceiling.
+An image with seven chairs, a person, a table, a window, a couch, a ceiling, a wall, a dining, a remote, and a floor.
+An image with seven chairs, a wall, a ceiling, a table, a couch, a window, a floor, a person, a dining, and a remote.
+An image with a floor, seven chairs, a window, a ceiling, a couch, a person, a wall, a dining, a table, and a remote.

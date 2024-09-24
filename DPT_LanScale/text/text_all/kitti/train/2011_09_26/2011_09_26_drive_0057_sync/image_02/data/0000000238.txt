@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 The image captures a moment of urban life, with a red car driving on a street lined with trees and buildings, passing under traffic lights and street signs, while a dog waits patiently on the sidewalk.
 A red car is driving on a road with multiple lanes, passing under traffic lights and street signs, while a dog is visible in the back seat.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and surrounded by trees and buildings.
+An image with eight traffics, eleven cars, a grass, a tree, a mountain, a sky, a pavement, a road, and a house.
+An image with eleven cars, a tree, a mountain, eight traffics, a sky, a pavement, a grass, a house, and a road.
+An image with eleven cars, eight traffics, a sky, a road, a tree, a mountain, a pavement, a grass, and a house.
+An image with eleven cars, a mountain, a road, a pavement, eight traffics, a house, a grass, a sky, and a tree.
+An image with a grass, eight traffics, eleven cars, a sky, a pavement, a tree, a house, a mountain, and a road.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a tranquil day in a suburban area, where a pedestrian is seen walking on a sidewalk adjacent to a parked car, with a train station nearby and a tree-lined street leading to a residential area.
 A person is walking on a sidewalk next to a street with a car parked on the side.
 A tranquil suburban scene with a parked car, a pedestrian, a train station, and a tree-lined street.
+An image with a grass, a sky, a road, three people, two cars, a pavement, a railroad, a tree, and a building.
+An image with a building, three people, a road, two cars, a tree, a railroad, a grass, a sky, and a pavement.
+An image with a tree, two cars, a building, a railroad, a sky, a road, a grass, a pavement, and three people.
+An image with a building, two cars, three people, a tree, a sky, a road, a railroad, a pavement, and a grass.
+An image with a railroad, three people, two cars, a road, a sky, a pavement, a tree, a grass, and a building.

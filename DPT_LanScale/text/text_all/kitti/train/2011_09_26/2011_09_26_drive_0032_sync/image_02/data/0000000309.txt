@@ -8,3 +8,8 @@ The image is a photograph of a road with a speed limit sign.
 The image captures a tranquil rural road, with a few cars in motion, flanked by lush greenery and a clear sky, under the watchful gaze of a speed limit sign.
 The image shows a wide, empty road with a speed limit sign, a few cars, and a pedestrian crossing.
 The image depicts a wide, empty road with a speed limit sign, a grassy median, and a few cars driving on the right side.
+An image with six cars, a sky, a road, a stop, a grass, a tree, a pavement, and a truck.
+An image with a truck, a stop, six cars, a tree, a sky, a grass, a pavement, and a road.
+An image with six cars, a grass, a road, a pavement, a sky, a stop, a tree, and a truck.
+An image with a tree, six cars, a pavement, a truck, a road, a grass, a stop, and a sky.
+An image with six cars, a tree, a grass, a truck, a pavement, a road, a stop, and a sky.

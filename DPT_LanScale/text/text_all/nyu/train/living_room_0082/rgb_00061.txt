@@ -8,3 +8,8 @@ A man sitting at a table in a room.
 A person is sitting at a table with a backpack, while another person stands nearby, and a third person is partially visible in the background.
 A man is sitting at a table in a room with a white wall, a door, and a window.
 A man is sitting at a table in a room with a door, a window, and a lamp, while another man stands in the background.
+An image with a handbag, a floor, a wall, two people, a door, two chairs, a shelf, a cell, and a dining.
+An image with two chairs, a handbag, a shelf, two people, a dining, a floor, a cell, a door, and a wall.
+An image with a shelf, a dining, a wall, two chairs, a cell, a door, a floor, a handbag, and two people.
+An image with a shelf, a handbag, two chairs, a dining, two people, a wall, a floor, a door, and a cell.
+An image with a shelf, two chairs, a cell, two people, a dining, a door, a handbag, a floor, and a wall.

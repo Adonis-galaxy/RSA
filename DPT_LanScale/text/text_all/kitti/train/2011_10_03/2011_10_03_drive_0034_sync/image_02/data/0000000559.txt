@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 The image captures a serene residential street, lined with parked cars and trees, under a clear blue sky.
 The image shows a tree-lined street with parked cars, a motorcycle, and a few pedestrians, all under a bright sun.
 A tree-lined street with parked cars and a building on the right side.
+An image with ten cars, a tree, a flower, a grass, a road, a motorcycle, a sky, a wall, and a building.
+An image with ten cars, a road, a building, a tree, a flower, a sky, a wall, a motorcycle, and a grass.
+An image with ten cars, a grass, a tree, a motorcycle, a wall, a flower, a road, a building, and a sky.
+An image with a sky, ten cars, a tree, a building, a road, a motorcycle, a grass, a wall, and a flower.
+An image with ten cars, a wall, a motorcycle, a flower, a road, a tree, a building, a grass, and a sky.

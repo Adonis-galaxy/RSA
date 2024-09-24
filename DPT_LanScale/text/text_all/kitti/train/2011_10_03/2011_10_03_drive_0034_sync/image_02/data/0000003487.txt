@@ -8,3 +8,8 @@ The image shows a street scene with a parked car, a truck, and a building.
 A quiet residential street, with parked cars and a clear sky, under the shade of tall trees.
 A car is parked in a driveway next to a house with a white garage door, and there are two trucks parked on the street.
 A quiet residential street with parked cars, a paved driveway, and a sidewalk, lined with trees and buildings.
+An image with a road, two cars, a building, a wall, a pavement, a sky, and a tree.
+An image with two cars, a pavement, a wall, a tree, a road, a sky, and a building.
+An image with a tree, a sky, a pavement, a road, two cars, a building, and a wall.
+An image with a road, a wall, a sky, a pavement, a building, two cars, and a tree.
+An image with two cars, a wall, a building, a tree, a sky, a road, and a pavement.

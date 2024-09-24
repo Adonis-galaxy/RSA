@@ -8,3 +8,8 @@ A blurry image of a kitchen counter with a sink.
 The image shows a small, orange countertop with a sink and a white box on it, and a cabinet underneath.
 The image shows a small, orange sink counter with a white sink, a silver faucet, and a white box on top.
 The image shows a small, orange-colored kitchenette with a sink, a countertop, and a cabinet.
+An image with a floor, a paper, a sink, a counter, a chair, a wall, and a cabinet.
+An image with a chair, a sink, a counter, a paper, a cabinet, a floor, and a wall.
+An image with a chair, a paper, a counter, a wall, a floor, a sink, and a cabinet.
+An image with a paper, a cabinet, a floor, a wall, a counter, a sink, and a chair.
+An image with a floor, a chair, a counter, a paper, a wall, a cabinet, and a sink.

@@ -8,3 +8,8 @@ The image shows a row of black office chairs on a carpeted floor.
 The image shows a computer lab with several black chairs and desks, and a carpeted floor.
 The image shows a room with a long wooden desk, several black chairs, and a carpeted floor.
 The image shows a computer lab with a long wooden desk, several black chairs, and a carpeted floor.
+An image with three chairs, two keyboards, a wall, a tv, a table, a rug, and two mice.
+An image with two keyboards, three chairs, two mice, a tv, a rug, a wall, and a table.
+An image with three chairs, two keyboards, a rug, a wall, two mice, a tv, and a table.
+An image with a table, two mice, three chairs, two keyboards, a tv, a wall, and a rug.
+An image with two keyboards, two mice, three chairs, a table, a wall, a rug, and a tv.

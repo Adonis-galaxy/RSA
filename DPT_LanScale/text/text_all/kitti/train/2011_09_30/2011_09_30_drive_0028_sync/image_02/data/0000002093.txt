@@ -8,3 +8,8 @@ The image shows a street scene with a parked car, a sidewalk, a curb, a tree, a 
 The image captures a tranquil suburban scene with a parked car, a mailbox, and a playground, all set against the backdrop of a tree-lined street.
 The image shows a street scene with a parked car, a trash can, a mailbox, and a bench, all in the foreground, with a park and trees in the background.
 The image depicts a suburban street scene with a parked car, a sidewalk, a curb, a tree, a park bench, a mailbox, and a playground.
+An image with a grass, a pavement, a truck, a tree, a wall, a car, a sky, and a road.
+An image with a wall, a sky, a car, a road, a pavement, a truck, a tree, and a grass.
+An image with a grass, a car, a sky, a truck, a road, a pavement, a wall, and a tree.
+An image with a car, a wall, a pavement, a tree, a sky, a road, a grass, and a truck.
+An image with a truck, a car, a pavement, a tree, a sky, a road, a grass, and a wall.

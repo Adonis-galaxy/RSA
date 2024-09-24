@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses and trees.
 A quiet residential street, lined with houses and trees, where two people are riding bicycles, enjoying a sunny day.
 A narrow street lined with houses and trees, with a car parked on the side and a person riding a bicycle.
 A quiet residential street with a mix of houses and trees, leading to a cul-de-sac.
+An image with three people, a grass, a truck, a tree, a motorcycle, a car, a sky, a pavement, a roof, and a road.
+An image with a roof, a pavement, three people, a grass, a truck, a tree, a car, a sky, a road, and a motorcycle.
+An image with a motorcycle, three people, a car, a roof, a tree, a pavement, a grass, a road, a sky, and a truck.
+An image with a grass, three people, a car, a truck, a pavement, a tree, a roof, a sky, a motorcycle, and a road.
+An image with a truck, three people, a road, a pavement, a motorcycle, a car, a tree, a roof, a sky, and a grass.

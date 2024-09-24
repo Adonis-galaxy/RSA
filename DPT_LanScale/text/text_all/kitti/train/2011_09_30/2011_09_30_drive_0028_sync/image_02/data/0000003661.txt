@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 A quiet residential street, lined with parked cars and trees, leads to apartment buildings.
 A narrow street lined with parked cars and tall buildings, with a man walking down the sidewalk.
 A narrow, tree-lined street between two-story buildings, with parked cars and a pedestrian walking.
+An image with a tree, eight cars, a sky, a handbag, a road, a person, a building, and a dirt.
+An image with eight cars, a tree, a building, a sky, a handbag, a dirt, a person, and a road.
+An image with eight cars, a road, a dirt, a sky, a handbag, a building, a person, and a tree.
+An image with a building, eight cars, a person, a dirt, a road, a handbag, a tree, and a sky.
+An image with eight cars, a handbag, a person, a sky, a road, a dirt, a tree, and a building.

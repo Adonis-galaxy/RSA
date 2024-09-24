@@ -8,3 +8,8 @@ A whiteboard with red writing on it.
 A classroom with a whiteboard, a desk with a computer, and a blue trash can.
 A whiteboard with red writing in a classroom setting, with a blue trash can and two black chairs in the foreground.
 The image shows a classroom setting with a whiteboard, a desk with a computer, and a blue trash can.
+An image with three chairs, a wall, a table, a keyboard, a rug, a paper, and a tv.
+An image with a keyboard, a tv, three chairs, a wall, a rug, a table, and a paper.
+An image with a wall, a tv, a paper, a keyboard, a rug, three chairs, and a table.
+An image with a keyboard, a rug, a wall, three chairs, a tv, a paper, and a table.
+An image with a rug, a wall, three chairs, a paper, a keyboard, a table, and a tv.

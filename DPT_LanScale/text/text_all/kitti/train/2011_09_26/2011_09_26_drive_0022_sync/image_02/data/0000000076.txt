@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a typical day in a residential area, with parked cars lining the street and a mix of vehicles, including a truck and a car, driving down the road.
 The image shows a narrow street lined with parked cars, including a large truck, and a few larger vehicles, with a mix of smaller cars. The street is bordered by houses and trees, and the sky is visible in the background.
 A narrow street in a residential area with parked cars and a truck, leading to a white house with a red roof.
+An image with six cars, a house, a tree, a sky, a grass, a road, a pavement, a truck, and a fence.
+An image with a road, a grass, a sky, six cars, a pavement, a fence, a house, a tree, and a truck.
+An image with a truck, six cars, a tree, a road, a house, a pavement, a grass, a fence, and a sky.
+An image with six cars, a fence, a road, a grass, a pavement, a tree, a sky, a truck, and a house.
+An image with a house, six cars, a tree, a fence, a grass, a sky, a pavement, a road, and a truck.

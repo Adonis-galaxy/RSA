@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and a black van.
 A quiet residential street with parked cars and a lush green canopy overhead.
 The image shows a narrow street lined with parked cars, a white building with garages, a black van parked on the sidewalk, and a red door.
 A narrow, tree-lined street with parked cars and a white fence on the right side.
+An image with a sky, six cars, a road, two trucks, a wall, a house, a tree, a fence, and a pavement.
+An image with two trucks, a road, a wall, a pavement, six cars, a sky, a house, a fence, and a tree.
+An image with a wall, a fence, a sky, six cars, a house, two trucks, a tree, a pavement, and a road.
+An image with a fence, six cars, a sky, a wall, two trucks, a road, a tree, a house, and a pavement.
+An image with a road, a house, six cars, a sky, a tree, two trucks, a fence, a pavement, and a wall.

@@ -8,3 +8,8 @@ A classroom with a blue and white board, a desk, a chair, and a refrigerator.
 The image shows a room with a blue and white machine, a table, a chair, a refrigerator, and a picture on the wall.
 The image shows a small room with a blue and white machine, a table, a chair, a refrigerator, and a picture on the wall.
 The image shows a room with a large blue and white machine on the left, a table with a chair in the middle, a small white refrigerator on the right, and a green wall with three pictures hanging on it.
+An image with a floor, a dining, a refrigerator, a ceiling, two chairs, a light, a wall, and a tv.
+An image with two chairs, a dining, a ceiling, a light, a floor, a refrigerator, a tv, and a wall.
+An image with a floor, a ceiling, a refrigerator, a wall, two chairs, a dining, a light, and a tv.
+An image with a refrigerator, a ceiling, a wall, a tv, two chairs, a light, a dining, and a floor.
+An image with a refrigerator, a tv, a ceiling, a dining, two chairs, a floor, a light, and a wall.

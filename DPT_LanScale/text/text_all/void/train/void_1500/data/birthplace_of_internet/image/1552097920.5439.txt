@@ -8,3 +8,8 @@ A room with a refrigerator and a table.
 The image shows a room with a green wall, a desk with a computer, a bookshelf with books, and a refrigerator.
 The room is a small office with a large refrigerator, a desk with a computer, and a bookshelf.
 The image shows a room with a green wall, a large refrigerator, a table with chairs, a desk with a computer, and a bookshelf with books.
+An image with four chairs, fourteen books, a dining, a table, a paper, a ceiling, a shelf, a wall, a person, a light, a floor, and a refrigerator.
+An image with fourteen books, four chairs, a shelf, a light, a table, a floor, a ceiling, a wall, a dining, a person, a refrigerator, and a paper.
+An image with a paper, four chairs, fourteen books, a floor, a light, a refrigerator, a ceiling, a person, a wall, a table, a dining, and a shelf.
+An image with four chairs, a light, a wall, fourteen books, a person, a dining, a paper, a ceiling, a table, a shelf, a refrigerator, and a floor.
+An image with fourteen books, a light, a shelf, four chairs, a floor, a dining, a refrigerator, a person, a wall, a table, a paper, and a ceiling.

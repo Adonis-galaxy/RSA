@@ -8,3 +8,8 @@ A woman standing on a sidewalk.
 A woman stands on a sidewalk, watching a bicycle rider pass by on a sunny day.
 A woman stands on a sidewalk, looking at a bicycle, while a man rides a bicycle on a street with a few cars and a bus.
 A woman stands on a sidewalk, looking at a bicycle, while a man rides a bicycle on a street with a bus, cars, and trees in the background.
+An image with four cars, a grass, a building, a bottle, three people, a pavement, a road, a tree, a handbag, a bicycle, and a backpack.
+An image with a grass, a handbag, four cars, a bottle, a building, a tree, a road, a backpack, a pavement, a bicycle, and three people.
+An image with three people, a tree, four cars, a road, a bottle, a grass, a bicycle, a handbag, a building, a backpack, and a pavement.
+An image with three people, a pavement, four cars, a road, a tree, a backpack, a grass, a bottle, a handbag, a building, and a bicycle.
+An image with a road, a building, a tree, a bicycle, a grass, four cars, a handbag, a pavement, a bottle, three people, and a backpack.

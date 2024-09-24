@@ -8,3 +8,8 @@ The image shows a busy street with many cars parked along the side.
 The image captures a bustling city street, with a row of parked cars lining the sidewalk, and a mix of residential buildings and trees in the background, creating a lively urban atmosphere.
 The image shows a narrow street lined with parked cars, with a few cars driving down the road.
 A narrow street in a residential area with parked cars on both sides, leading to a red brick building.
+An image with thirteen cars, a road, a fence, a tree, a wall, a house, a pavement, a roof, and a sky.
+An image with a sky, a wall, thirteen cars, a tree, a house, a fence, a pavement, a roof, and a road.
+An image with thirteen cars, a roof, a house, a tree, a pavement, a road, a fence, a sky, and a wall.
+An image with thirteen cars, a road, a wall, a fence, a house, a pavement, a roof, a sky, and a tree.
+An image with thirteen cars, a pavement, a road, a roof, a fence, a house, a sky, a wall, and a tree.

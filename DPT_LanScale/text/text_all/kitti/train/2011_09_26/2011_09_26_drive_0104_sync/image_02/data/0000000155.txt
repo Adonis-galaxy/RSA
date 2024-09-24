@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and traffic.
 The image captures a bustling city street, with a mix of vehicles and pedestrians, set against the backdrop of tall buildings and lush greenery.
 The image depicts a narrow street lined with parked cars and buildings, with a few vehicles driving down the road.
 A busy city street with parked cars, a mix of commercial and residential buildings, and a clear sky.
+An image with eight cars, two trucks, a tree, a bus, a road, a sky, a building, and a pavement.
+An image with eight cars, two trucks, a tree, a building, a sky, a road, a pavement, and a bus.
+An image with a tree, eight cars, a sky, two trucks, a bus, a building, a pavement, and a road.
+An image with a sky, a pavement, a tree, a bus, a road, eight cars, two trucks, and a building.
+An image with eight cars, a sky, a pavement, a bus, a building, two trucks, a tree, and a road.

@@ -8,3 +8,8 @@ A row of garage doors.
 A row of closed garage doors, each with a single open door, lined up along a curved driveway, with a car parked at the end.
 A row of large, white garage doors with blue trim, lined up along a roadway, with a car parked in front of the first garage door.
 A row of closed garage doors on a building, with a car parked in front of the first one.
+An image with a pavement, a building, a car, a tree, and a road.
+An image with a building, a pavement, a tree, a road, and a car.
+An image with a tree, a building, a car, a road, and a pavement.
+An image with a pavement, a car, a road, a tree, and a building.
+An image with a tree, a road, a building, a car, and a pavement.

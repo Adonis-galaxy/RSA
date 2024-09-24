@@ -8,3 +8,8 @@ The image shows a street with cars parked on the side.
 The image captures a serene residential street, where a black car is parked on the side of the road, with a red car following behind, both under the shade of tall trees, and a white house with a balcony in the background.
 The image shows a narrow street lined with trees and parked cars, with a white building on the right side.
 A narrow, tree-lined street with parked cars and a few vehicles in motion, leading to a residential area.
+An image with three cars, a house, a wall, a grass, a tree, a pavement, a sky, and a road.
+An image with a road, three cars, a tree, a pavement, a house, a grass, a wall, and a sky.
+An image with three cars, a sky, a tree, a pavement, a grass, a house, a wall, and a road.
+An image with a house, a sky, a tree, a wall, a road, a pavement, three cars, and a grass.
+An image with a grass, a tree, three cars, a road, a house, a sky, a wall, and a pavement.

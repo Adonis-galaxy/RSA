@@ -8,3 +8,8 @@ A microwave on a counter.
 A silver microwave with a note on it, sitting on a counter in a kitchen.
 A small silver microwave on a wooden counter in a kitchen.
 A silver microwave with a note on it, sitting on top of a wooden counter in a kitchen.
+An image with a wall, two microwaves, a cabinet, a floor, and a paper.
+An image with two microwaves, a floor, a cabinet, a wall, and a paper.
+An image with a floor, two microwaves, a wall, a paper, and a cabinet.
+An image with two microwaves, a cabinet, a paper, a floor, and a wall.
+An image with a floor, a cabinet, a paper, two microwaves, and a wall.

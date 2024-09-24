@@ -8,3 +8,8 @@ The image shows a carpeted floor with two black chairs and a white wall.
 The image shows a small room with a desk and chair, and a white wall with two outlets.
 The image shows a small room with a white wall, a black chair, and a white desk.
 The image shows a small room with a desk and chair, a white wall, and a carpeted floor.
+An image with a floor, a wall, a dining, a chair, and a rug.
+An image with a dining, a wall, a rug, a floor, and a chair.
+An image with a floor, a rug, a wall, a chair, and a dining.
+An image with a rug, a wall, a floor, a chair, and a dining.
+An image with a dining, a chair, a rug, a floor, and a wall.

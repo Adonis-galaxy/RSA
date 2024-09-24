@@ -8,3 +8,8 @@ The image shows a street view with houses on the side.
 The image captures a serene residential street, lined with lush greenery and quaint houses, under a clear blue sky.
 The image depicts a residential street with large houses, lush greenery, and a clear sky.
 The image depicts a residential street with a mix of architectural styles, featuring a two-story house with a flat roof, a white house with a sloped roof, and a brick house with a gabled roof, all lined with trees and a sidewalk.
+An image with a sky, a stairs, a potted, a wall, a road, a car, a tree, a door, a house, and a pavement.
+An image with a stairs, a wall, a door, a road, a potted, a house, a car, a pavement, a tree, and a sky.
+An image with a house, a door, a tree, a stairs, a car, a potted, a wall, a road, a sky, and a pavement.
+An image with a house, a road, a door, a stairs, a potted, a sky, a tree, a pavement, a wall, and a car.
+An image with a house, a pavement, a tree, a sky, a door, a car, a wall, a potted, a road, and a stairs.

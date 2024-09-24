@@ -8,3 +8,8 @@ The image shows a street view of a residential area with parked cars and buildin
 The image captures a quiet residential street, with parked cars lining the sides of the road, leading to a cul-de-sac at the end, where apartment buildings stand tall.
 The image shows a narrow street lined with parked cars and tall buildings, with a large tree in the foreground.
 A narrow street between two-story buildings, lined with parked cars and trees, leading to a dead-end.
+An image with nine cars, a sky, a pavement, a building, a truck, a tree, and a road.
+An image with nine cars, a road, a building, a tree, a truck, a sky, and a pavement.
+An image with nine cars, a building, a pavement, a road, a truck, a tree, and a sky.
+An image with nine cars, a building, a pavement, a road, a sky, a truck, and a tree.
+An image with a sky, a pavement, a tree, nine cars, a building, a road, and a truck.

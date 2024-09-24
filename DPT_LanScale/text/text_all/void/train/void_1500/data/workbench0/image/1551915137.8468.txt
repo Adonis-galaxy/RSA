@@ -8,3 +8,8 @@ A table with various items on it.
 A table with various items on it, including a roll of tape, a box of cereal, and a measuring tape.
 A wooden table with a roll of tape, a box of cereal, a measuring tape, and a black object on it.
 A table with a roll of tape, a measuring tape, a box of cereal, and a black object.
+An image with a bowl, a cardboard, a chair, a wall, a tv, and a table.
+An image with a wall, a tv, a bowl, a cardboard, a table, and a chair.
+An image with a cardboard, a bowl, a wall, a chair, a table, and a tv.
+An image with a wall, a cardboard, a tv, a table, a chair, and a bowl.
+An image with a chair, a table, a cardboard, a bowl, a tv, and a wall.

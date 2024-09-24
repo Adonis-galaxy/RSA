@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white bus.
 The image captures a quiet residential street, with parked cars and a bus, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a white building, with a large green tree on the right side.
 A narrow street lined with parked cars and a white building, with trees and a blue sky overhead.
+An image with seven cars, a pavement, a tree, a bus, a road, a sky, a grass, and two walls.
+An image with seven cars, a pavement, a bus, two walls, a road, a sky, a grass, and a tree.
+An image with two walls, seven cars, a pavement, a sky, a tree, a grass, a bus, and a road.
+An image with seven cars, a bus, a grass, a sky, a pavement, a tree, two walls, and a road.
+An image with two walls, a bus, a pavement, seven cars, a sky, a grass, a tree, and a road.

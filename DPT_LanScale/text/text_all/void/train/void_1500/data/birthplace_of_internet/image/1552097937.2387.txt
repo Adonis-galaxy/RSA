@@ -8,3 +8,8 @@ A room with a green wall, a bookshelf, a telephone, and a paper dispenser.
 The image shows a room with a green wall, a bookshelf, a telephone, and a refrigerator.
 The image shows a room with a green wall, a bookshelf, a telephone, and a large white refrigerator.
 The image shows a room with a green wall, a bookshelf, a desk with papers, and a refrigerator.
+An image with nineteen books, a shelf, a floor, a refrigerator, a table, a chair, a light, a paper, a ceiling, and a wall.
+An image with a wall, nineteen books, a paper, a light, a shelf, a refrigerator, a ceiling, a floor, a table, and a chair.
+An image with nineteen books, a refrigerator, a light, a shelf, a table, a floor, a ceiling, a wall, a paper, and a chair.
+An image with a refrigerator, a paper, nineteen books, a light, a table, a shelf, a ceiling, a floor, a chair, and a wall.
+An image with nineteen books, a paper, a table, a chair, a shelf, a wall, a floor, a ceiling, a light, and a refrigerator.

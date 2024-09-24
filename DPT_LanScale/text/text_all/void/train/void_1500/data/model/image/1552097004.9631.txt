@@ -8,3 +8,8 @@ The image shows a model of a building.
 The image shows a model of a building, viewed from a high angle, with a wooden railing in the foreground.
 The image shows a model of a cityscape with a focus on a tall building, viewed from a low angle.
 The image shows a model of a cityscape with a focus on a tall building and a street view.
+An image with a table, a paper, a building, and a floor.
+An image with a floor, a building, a paper, and a table.
+An image with a table, a building, a paper, and a floor.
+An image with a paper, a building, a table, and a floor.
+An image with a floor, a paper, a table, and a building.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, with a parked car on the side of the road, a house in the background, and a tree providing shade.
 The image shows a narrow street lined with parked cars, a house, and trees, with a bright sunny day.
 A quiet residential street with parked cars, a paved road, and houses on either side, under a clear sky.
+An image with two cars, a sky, a roof, a potted, a tree, a road, and a pavement.
+An image with a sky, a pavement, a tree, a roof, a road, a potted, and two cars.
+An image with a tree, a pavement, two cars, a sky, a potted, a road, and a roof.
+An image with a tree, two cars, a road, a roof, a potted, a pavement, and a sky.
+An image with a roof, a potted, a pavement, a sky, a road, a tree, and two cars.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a red van, a white house, and t
 The image captures a quiet residential street, with parked cars lining the sidewalk and a red van driving down the road, creating a sense of everyday life in a suburban neighborhood.
 The image shows a narrow street lined with parked cars and a red van, with a white building on the left and a fence on the right.
 A narrow street in a residential area with parked cars, a red van, and a white building.
+An image with five cars, a tree, a pavement, a road, a wall, a sky, and a house.
+An image with five cars, a sky, a wall, a house, a pavement, a road, and a tree.
+An image with a pavement, a house, a tree, five cars, a sky, a wall, and a road.
+An image with a tree, five cars, a sky, a wall, a house, a road, and a pavement.
+An image with five cars, a wall, a house, a pavement, a tree, a sky, and a road.

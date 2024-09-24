@@ -8,3 +8,8 @@ The image is a photograph of a busy city street.
 The image captures a bustling city street, filled with parked cars and a few moving ones, all nestled between tall buildings and lined with trees, creating a vibrant urban scene.
 The image depicts a busy city street with tall buildings, numerous parked cars, and a few moving vehicles, all captured in a wide-angle, fisheye lens effect.
 A busy city street with parked cars, a mix of vehicles, and pedestrians, all under a clear sky.
+An image with a bus, a person, twelve cars, a grass, a tree, a road, a sky, a pavement, and a building.
+An image with twelve cars, a sky, a person, a bus, a road, a pavement, a building, a tree, and a grass.
+An image with a tree, twelve cars, a grass, a sky, a person, a pavement, a building, a road, and a bus.
+An image with twelve cars, a bus, a grass, a sky, a person, a pavement, a building, a tree, and a road.
+An image with a person, a building, twelve cars, a road, a tree, a sky, a bus, a grass, and a pavement.

@@ -8,3 +8,8 @@ The image shows a blue car parked on the side of a street in front of a building
 The image captures a quiet residential street scene, featuring a blue car parked on the side of the road, a green and brown trash can, and a white building with balconies.
 A small blue car is parked on the side of a street next to a large green and brown box.
 A blue car is parked on the side of a street in front of a white building with balconies, and there are two large green and brown boxes on the sidewalk.
+An image with a car, a door, a tree, a building, a road, a pavement, a stop, and a grass.
+An image with a car, a tree, a road, a pavement, a stop, a building, a grass, and a door.
+An image with a road, a building, a car, a pavement, a grass, a tree, a stop, and a door.
+An image with a stop, a building, a tree, a road, a car, a grass, a pavement, and a door.
+An image with a road, a stop, a pavement, a car, a tree, a grass, a building, and a door.

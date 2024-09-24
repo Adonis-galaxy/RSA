@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, tree-lined street with a brick wall and a car parked at the end.
 A narrow, tree-lined street with a brick wall on one side and a car driving down it.
 A narrow, tree-lined street with a brick wall on one side and a stone wall on the other, leading to a gate at the end.
+An image with a pavement, a tree, a road, two walls, and two cars.
+An image with two walls, two cars, a road, a tree, and a pavement.
+An image with a pavement, a tree, two walls, a road, and two cars.
+An image with two cars, a tree, two walls, a road, and a pavement.
+An image with a pavement, two walls, two cars, a tree, and a road.

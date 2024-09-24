@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a sunny day, passing under a yield sign on a tree-lined street.
 A person riding a bicycle on a street with a red yield sign in the background.
 A person riding a bicycle on a sunny day in a residential area with a clear sky, trees, and a street sign.
+An image with a road, a bicycle, a grass, four people, a building, a handbag, a sky, four cars, a pavement, and a tree.
+An image with a pavement, a road, a handbag, a building, four cars, four people, a grass, a sky, a bicycle, and a tree.
+An image with a building, four cars, four people, a grass, a handbag, a tree, a bicycle, a sky, a road, and a pavement.
+An image with a tree, a building, four people, a road, a handbag, a pavement, a grass, four cars, a sky, and a bicycle.
+An image with four people, a bicycle, a sky, four cars, a tree, a road, a pavement, a handbag, a grass, and a building.

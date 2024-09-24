@@ -8,3 +8,8 @@ The image shows a street with parked cars and trees.
 The image captures a quiet residential street, lined with parked cars and trees, under a bright sunny day.
 The image shows a narrow street lined with parked cars, with a few larger vehicles such as a bus and a truck visible, and a few trees providing shade.
 The image shows a narrow street lined with parked cars, with apartment buildings on either side, and a clear sky overhead.
+An image with ten cars, a truck, a grass, a wall, a sky, a tree, a pavement, a road, and a fence.
+An image with ten cars, a road, a tree, a wall, a grass, a fence, a pavement, a truck, and a sky.
+An image with ten cars, a pavement, a sky, a road, a fence, a grass, a wall, a truck, and a tree.
+An image with a wall, a pavement, ten cars, a sky, a fence, a grass, a tree, a road, and a truck.
+An image with ten cars, a wall, a pavement, a tree, a road, a sky, a grass, a truck, and a fence.

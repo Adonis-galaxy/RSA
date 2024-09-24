@@ -8,3 +8,8 @@ A silver car parked on a narrow street.
 A silver car parked on a narrow, tree-lined street, with a brick wall and a wooden fence on either side.
 A silver car is parked on a narrow, tree-lined street.
 A silver car is parked on a narrow, tree-lined street, with a brick wall and a wooden fence on either side.
+An image with a tree, two walls, a car, and a road.
+An image with a car, a tree, two walls, and a road.
+An image with a tree, a car, a road, and two walls.
+An image with a road, two walls, a tree, and a car.
+An image with a road, a tree, two walls, and a car.

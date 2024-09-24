@@ -8,3 +8,8 @@ A person is sleeping on a bed.
 The image shows a bed with a brown blanket, two pillows, and a wooden nightstand with a lamp. The bed is unmade, and the blanket is draped over the pillows and onto the floor.
 A small, unmade bed with a brown blanket and two blue pillows.
 A person is sleeping on a bed with blue sheets and a brown blanket, next to a desk with a computer monitor.
+An image with a tv, a chair, a table, a curtain, a wall, and a bed.
+An image with a table, a bed, a wall, a chair, a tv, and a curtain.
+An image with a tv, a chair, a table, a bed, a wall, and a curtain.
+An image with a table, a curtain, a tv, a bed, a wall, and a chair.
+An image with a tv, a curtain, a wall, a bed, a chair, and a table.

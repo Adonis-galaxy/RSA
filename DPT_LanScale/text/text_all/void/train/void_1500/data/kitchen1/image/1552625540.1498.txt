@@ -8,3 +8,8 @@ The image shows a bathroom counter with various items on it.
 The image shows a small, orange-colored kitchenette with a sink, a soap dispenser, and a bottle of hand soap.
 The image shows a small orange kitchen counter with a sink, a bottle of hand soap, a bottle of dish soap, and a can of air freshener.
 The image shows a small, orange-colored bathroom with a sink, a soap dispenser, and a bottle of hand soap on the counter.
+An image with three bottles, a wall, a cabinet, a towel, and a sink.
+An image with a wall, three bottles, a cabinet, a towel, and a sink.
+An image with a wall, a cabinet, three bottles, a towel, and a sink.
+An image with a cabinet, a sink, three bottles, a wall, and a towel.
+An image with a wall, three bottles, a towel, a cabinet, and a sink.

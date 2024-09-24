@@ -8,3 +8,8 @@ A black office chair.
 A room with a desk, chair, and window.
 The image shows a small room with a desk, chair, and window.
 The image shows a room with a desk, a chair, a window, and a bookshelf.
+An image with two books, a cup, a wall, a laptop, a window, a chair, a floor, a dining, and a table.
+An image with a chair, two books, a cup, a table, a window, a wall, a laptop, a dining, and a floor.
+An image with a wall, a floor, two books, a chair, a table, a laptop, a cup, a dining, and a window.
+An image with a wall, a dining, a floor, a window, a laptop, a chair, two books, a cup, and a table.
+An image with a chair, a dining, a wall, a floor, a laptop, a window, a table, two books, and a cup.

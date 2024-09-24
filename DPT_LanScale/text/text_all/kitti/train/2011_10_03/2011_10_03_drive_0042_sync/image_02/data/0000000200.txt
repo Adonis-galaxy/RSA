@@ -8,3 +8,8 @@ The image shows a blue car driving on a highway.
 The image captures a moment of tranquility on a highway, with a blue car driving away from a bridge, surrounded by lush greenery and a clear blue sky.
 A blue car is driving down a highway with a guardrail on the side, surrounded by trees and a clear blue sky.
 A blue car is driving on a highway with a guardrail, passing under a bridge, and surrounded by trees.
+An image with five cars, a traffic, a grass, a road, a stop, a tree, and a fence.
+An image with five cars, a stop, a grass, a fence, a traffic, a tree, and a road.
+An image with a traffic, five cars, a stop, a tree, a fence, a grass, and a road.
+An image with a road, five cars, a stop, a tree, a grass, a fence, and a traffic.
+An image with five cars, a road, a tree, a grass, a traffic, a stop, and a fence.

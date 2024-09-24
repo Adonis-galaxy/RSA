@@ -8,3 +8,8 @@ A painting of a woman in a red dress.
 The image captures a cluttered room with a large, colorful painting leaning against a wall, a mirror reflecting the room's contents, and various objects scattered on a dresser and the floor.
 The image shows a small room with a large, framed picture leaning against a wall, a mirror on the opposite wall, a desk with various items on it, and a green wall.
 The image shows a room with a large, framed picture leaning against a wall, a desk with various items on it, and a mirror on the wall.
+An image with a wall, a person, a paper, three books, a rug, three cups, and a dining.
+An image with a wall, a dining, three books, three cups, a person, a rug, and a paper.
+An image with a dining, a rug, three books, three cups, a paper, a person, and a wall.
+An image with three cups, a rug, a wall, three books, a paper, a person, and a dining.
+An image with a person, three books, a rug, three cups, a dining, a paper, and a wall.

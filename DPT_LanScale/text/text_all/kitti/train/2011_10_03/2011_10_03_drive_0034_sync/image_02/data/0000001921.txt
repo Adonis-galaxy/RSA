@@ -8,3 +8,8 @@ A road with a wall on the side.
 A winding road through a lush green forest, with a concrete barrier on the right side.
 A narrow, winding road with a concrete barrier on the right side, surrounded by trees and bushes.
 A narrow, winding road with a concrete barrier on one side, bordered by lush greenery and trees, leading to a clear blue sky.
+An image with a road, a tree, a sky, a pavement, a fence, and a grass.
+An image with a fence, a road, a grass, a pavement, a tree, and a sky.
+An image with a road, a grass, a sky, a pavement, a tree, and a fence.
+An image with a grass, a sky, a fence, a tree, a pavement, and a road.
+An image with a grass, a fence, a pavement, a tree, a sky, and a road.

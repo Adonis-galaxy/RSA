@@ -8,3 +8,8 @@ A red car parked on a narrow street.
 A quiet residential street, with a red car parked on the sidewalk, under a clear blue sky.
 A narrow street between two-story houses, lined with trees and bushes, with a red car parked on the right side.
 A narrow, tree-lined street in a residential area, with a red car parked on the right side.
+An image with a bicycle, a person, a pavement, a tree, a bus, a house, two cars, a sky, and a road.
+An image with a sky, two cars, a bicycle, a pavement, a house, a person, a road, a tree, and a bus.
+An image with a road, two cars, a house, a bicycle, a tree, a sky, a person, a bus, and a pavement.
+An image with two cars, a road, a bicycle, a bus, a tree, a house, a sky, a pavement, and a person.
+An image with a road, a bicycle, a sky, a bus, a pavement, two cars, a house, a person, and a tree.

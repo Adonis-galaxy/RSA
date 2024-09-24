@@ -8,3 +8,8 @@ A bedroom with a bed.
 The image captures a bedroom with a bed, a desk, a bookshelf, a lamp, a flag, a coat rack, a trash can, and a poster on the wall.
 The image shows a small bedroom with a large bed, a desk with a shelf above it, a poster on the wall, and a trash can.
 The image shows a bedroom with a neatly made bed, a desk with a lamp, a bookshelf, and a poster on the wall.
+An image with three books, a curtain, a rug, a paper, a wall, a shelf, and a bed.
+An image with a curtain, three books, a wall, a bed, a paper, a rug, and a shelf.
+An image with a shelf, a curtain, three books, a wall, a rug, a paper, and a bed.
+An image with a curtain, a paper, three books, a wall, a shelf, a bed, and a rug.
+An image with three books, a paper, a wall, a bed, a rug, a shelf, and a curtain.

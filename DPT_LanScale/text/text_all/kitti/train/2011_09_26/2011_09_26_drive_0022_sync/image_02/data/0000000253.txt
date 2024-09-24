@@ -8,3 +8,8 @@ A row of garage doors.
 A row of closed garage doors on a curved driveway, with a car parked on the right side.
 A large white garage with multiple doors, located on a street corner.
 A row of closed garage doors on a curved driveway, with a car parked on the right side.
+An image with a pavement, a road, a grass, a building, a tree, and a car.
+An image with a pavement, a tree, a road, a car, a building, and a grass.
+An image with a tree, a pavement, a car, a building, a grass, and a road.
+An image with a pavement, a grass, a road, a building, a car, and a tree.
+An image with a tree, a car, a pavement, a grass, a building, and a road.

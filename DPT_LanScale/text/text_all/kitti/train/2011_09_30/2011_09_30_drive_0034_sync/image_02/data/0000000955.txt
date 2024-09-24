@@ -8,3 +8,8 @@ The image shows a street scene with a van driving down a narrow road between hou
 A black van is parked on a narrow street between two white houses, with a sidewalk and a fence on the right side.
 A large black van is driving down a narrow street between two-story houses, with a white fence and a brick wall on the right side.
 A narrow street in a residential area with a mix of houses and a delivery van.
+An image with a house, a roof, a road, a pavement, a tree, a truck, a fence, a wall, and a sky.
+An image with a sky, a house, a wall, a fence, a tree, a roof, a truck, a road, and a pavement.
+An image with a sky, a road, a tree, a truck, a wall, a house, a pavement, a fence, and a roof.
+An image with a roof, a wall, a road, a truck, a pavement, a house, a sky, a fence, and a tree.
+An image with a tree, a roof, a pavement, a sky, a wall, a house, a fence, a truck, and a road.

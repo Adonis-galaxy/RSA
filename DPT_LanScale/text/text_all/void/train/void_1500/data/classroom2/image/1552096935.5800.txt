@@ -8,3 +8,8 @@ The image shows a row of black chairs with orange armrests.
 The image shows a row of black chairs with orange armrests, all facing the same direction.
 The image shows a row of black chairs with orange armrests, placed against a wooden wall.
 The image shows a row of black chairs with orange armrests, arranged in a line against a wooden wall.
+An image with two dinings, a floor, four chairs, and a wall.
+An image with two dinings, a wall, four chairs, and a floor.
+An image with two dinings, four chairs, a wall, and a floor.
+An image with two dinings, four chairs, a wall, and a floor.
+An image with two dinings, four chairs, a floor, and a wall.

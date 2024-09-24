@@ -8,3 +8,8 @@ A quiet residential street.
 A quiet residential street, lined with houses and trees, leading to a hill with more houses and a clear view of the sky.
 The image shows a narrow, tree-lined street leading up a hill, with houses on both sides, and a clear blue sky overhead.
 A quiet residential street with houses on a hill, lined with trees and a brick sidewalk.
+An image with a tree, a house, a wall, a road, a pavement, and a sky.
+An image with a tree, a sky, a pavement, a house, a road, and a wall.
+An image with a sky, a tree, a road, a wall, a house, and a pavement.
+An image with a wall, a pavement, a house, a sky, a tree, and a road.
+An image with a wall, a sky, a pavement, a road, a tree, and a house.

@@ -8,3 +8,8 @@ A brown chair in a corner of a room.
 A solitary chair sits in a corner of a room, next to a blue machine.
 A small brown chair is tucked into a corner next to a blue machine.
 A brown folding chair is placed in a corner of a room, next to a blue machine and a white wall.
+An image with a refrigerator, a chair, a floor, and a wall.
+An image with a refrigerator, a wall, a floor, and a chair.
+An image with a chair, a floor, a wall, and a refrigerator.
+An image with a chair, a wall, a refrigerator, and a floor.
+An image with a refrigerator, a chair, a wall, and a floor.

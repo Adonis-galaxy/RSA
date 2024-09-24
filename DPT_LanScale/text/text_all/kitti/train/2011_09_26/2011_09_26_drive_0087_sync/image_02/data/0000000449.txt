@@ -8,3 +8,8 @@ A car parked on a street.
 A quiet residential street, with a parked car and a garage, under a clear sky.
 A narrow street between two walls, with a parked car and a truck on the left side, and a white line painted on the right side.
 A narrow, tree-lined street with parked cars and a white-striped pedestrian path, leading to a tall, concrete wall.
+An image with three cars, a roof, a tree, a wall, a sky, a road, and a house.
+An image with a house, a wall, three cars, a roof, a road, a sky, and a tree.
+An image with three cars, a wall, a road, a tree, a sky, a house, and a roof.
+An image with three cars, a road, a roof, a sky, a house, a wall, and a tree.
+An image with a sky, a roof, a tree, a wall, a road, three cars, and a house.

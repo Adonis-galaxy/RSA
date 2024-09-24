@@ -8,3 +8,8 @@ The image shows a long, empty highway with a clear sky and a few cars.
 The image captures a long, empty highway with a clear sky, a few scattered trees, and a large, modern building with geometric shapes in the background.
 The image shows a wide, empty highway with a few cars, a large building with a distinctive yellow and white facade, and a bridge with a blue sign.
 The image depicts a long, straight road with a clear sky, a few trees, and a building with a distinctive geometric design on the right side.
+An image with four cars, a road, a tree, a pavement, a fence, a grass, and a building.
+An image with a tree, four cars, a grass, a fence, a building, a road, and a pavement.
+An image with a grass, a pavement, a building, four cars, a tree, a fence, and a road.
+An image with a building, a pavement, a grass, four cars, a fence, a road, and a tree.
+An image with four cars, a road, a tree, a grass, a building, a pavement, and a fence.

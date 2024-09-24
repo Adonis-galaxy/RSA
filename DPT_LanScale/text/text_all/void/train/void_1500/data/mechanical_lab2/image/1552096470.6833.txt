@@ -8,3 +8,8 @@ A blue chair in front of a desk.
 The image shows a classroom setting with two blue chairs positioned in front of a desk with a computer monitor on it.
 The image shows a classroom with two blue chairs, a white desk, and a blackboard.
 The image shows a classroom with two blue chairs in front of a desk with a computer monitor and a keyboard.
+An image with five chairs, two tvs, a wall, a floor, a table, and a keyboard.
+An image with a keyboard, five chairs, a wall, a table, two tvs, and a floor.
+An image with a keyboard, a table, five chairs, a wall, a floor, and two tvs.
+An image with five chairs, a table, two tvs, a keyboard, a wall, and a floor.
+An image with a keyboard, five chairs, a table, a floor, two tvs, and a wall.

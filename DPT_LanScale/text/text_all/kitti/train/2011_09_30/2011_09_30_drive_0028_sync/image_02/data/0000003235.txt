@@ -8,3 +8,8 @@ The image shows two cars parked on a street.
 The image captures a quiet residential street, with two cars parked on the side of the road, under the shade of trees, and in front of a row of houses.
 The image shows a narrow street between two buildings, with two cars parked on the side, one larger and one smaller.
 The image shows a narrow street with two cars parked on the side, a white car and a silver car, and a sidewalk with a tree and a street sign.
+An image with a sky, a road, three cars, a tree, a pavement, and a house.
+An image with a road, a pavement, three cars, a tree, a house, and a sky.
+An image with a sky, a road, three cars, a pavement, a tree, and a house.
+An image with a sky, a pavement, a road, three cars, a house, and a tree.
+An image with three cars, a sky, a tree, a pavement, a road, and a house.

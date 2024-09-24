@@ -8,3 +8,8 @@ The image shows a room with two printers and a cabinet.
 The image shows a room with a printer and a copier, both sitting on a table.
 The image shows a small office space with two printers, one white and one blue, sitting on a desk next to a white cabinet.
 The image shows a room with a white cabinet, a black refrigerator, and two printers, one white and one blue, placed on a table.
+An image with a table, a cabinet, a wall, a refrigerator, and a scissors.
+An image with a cabinet, a refrigerator, a table, a scissors, and a wall.
+An image with a cabinet, a wall, a refrigerator, a table, and a scissors.
+An image with a table, a cabinet, a scissors, a wall, and a refrigerator.
+An image with a refrigerator, a cabinet, a scissors, a wall, and a table.

@@ -8,3 +8,8 @@ The image shows a busy street intersection with various vehicles and traffic lig
 A red car is stopped at a traffic light on a city street, with a large orange truck in front of it, and a white car behind it, all under a clear blue sky.
 A red car is driving on a street, passing a large orange truck at a traffic light.
 A red car is stopped at a traffic light on a city street, with a large orange truck in front of it, and a white building in the background.
+An image with a tree, six cars, eight traffics, a road, a sky, a truck, a grass, a mountain, a pavement, and a house.
+An image with six cars, eight traffics, a truck, a mountain, a tree, a house, a grass, a sky, a road, and a pavement.
+An image with eight traffics, a tree, six cars, a grass, a pavement, a sky, a road, a truck, a mountain, and a house.
+An image with eight traffics, six cars, a grass, a truck, a sky, a road, a tree, a pavement, a mountain, and a house.
+An image with a mountain, eight traffics, six cars, a tree, a house, a sky, a truck, a road, a pavement, and a grass.

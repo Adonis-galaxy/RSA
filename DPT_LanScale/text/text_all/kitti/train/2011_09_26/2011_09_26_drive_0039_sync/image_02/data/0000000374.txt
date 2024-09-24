@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 A quiet residential street with a clear view of the houses and trees.
 A narrow, tree-lined street with parked cars and apartment buildings.
 A quiet residential street with a curved layout, lined with trees and parked cars.
+An image with a tree, a building, a sky, two walls, three cars, a fence, a road, a banner, and a pavement.
+An image with a building, a banner, a sky, three cars, a tree, two walls, a road, a pavement, and a fence.
+An image with a building, two walls, a pavement, a fence, a banner, a sky, three cars, a tree, and a road.
+An image with two walls, three cars, a tree, a sky, a building, a fence, a pavement, a banner, and a road.
+An image with a banner, two walls, three cars, a sky, a tree, a pavement, a fence, a road, and a building.

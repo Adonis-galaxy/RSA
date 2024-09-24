@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a busy street scene with parked cars lining both sides, a white car in the foreground, and a red building in the background, all under a clear blue sky.
 The image shows a narrow street lined with parked cars, with a few cars driving down the road. The street is flanked by buildings on both sides, and there are trees along the sidewalk.
 A narrow street lined with parked cars, leading to a row of buildings with red roofs.
+An image with a wall, a house, twelve cars, a road, a tree, and a sky.
+An image with a sky, twelve cars, a house, a wall, a tree, and a road.
+An image with twelve cars, a tree, a road, a wall, a sky, and a house.
+An image with a road, a tree, twelve cars, a wall, a sky, and a house.
+An image with twelve cars, a house, a wall, a tree, a road, and a sky.

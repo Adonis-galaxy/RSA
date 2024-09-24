@@ -8,3 +8,8 @@ A colorful sombrero on a desk.
 A colorful sombrero is placed on a desk next to a computer.
 A colorful sombrero is placed on a desk next to a computer chair.
 A colorful sombrero is placed on a desk next to a computer keyboard and mouse.
+An image with a chair, a rug, a keyboard, a wall, a mouse, and a table.
+An image with a rug, a wall, a mouse, a keyboard, a table, and a chair.
+An image with a chair, a mouse, a wall, a table, a rug, and a keyboard.
+An image with a keyboard, a wall, a rug, a table, a mouse, and a chair.
+An image with a table, a keyboard, a rug, a mouse, a chair, and a wall.

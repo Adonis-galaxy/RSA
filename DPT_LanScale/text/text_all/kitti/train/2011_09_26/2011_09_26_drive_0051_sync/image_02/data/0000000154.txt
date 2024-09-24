@@ -8,3 +8,8 @@ The image shows a street scene with cars, trees, and a sidewalk.
 The image captures a sunny day on a tree-lined street with parked cars, a pedestrian crossing, and a clear sky.
 The image shows a tree-lined street with cars driving on the road, a sidewalk, and a building in the background.
 A tree-lined street with parked cars, a sidewalk, and a pedestrian crossing.
+An image with a sky, eighteen cars, a pavement, a building, a tree, a truck, a person, a road, and a grass.
+An image with eighteen cars, a sky, a grass, a building, a person, a road, a tree, a pavement, and a truck.
+An image with a truck, a building, a tree, eighteen cars, a pavement, a road, a person, a grass, and a sky.
+An image with eighteen cars, a road, a building, a person, a truck, a pavement, a grass, a tree, and a sky.
+An image with eighteen cars, a truck, a tree, a building, a pavement, a person, a grass, a sky, and a road.

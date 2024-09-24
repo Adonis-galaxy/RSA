@@ -8,3 +8,8 @@ The image shows a laboratory setup with various pieces of equipment, including a
 The image shows a laboratory setup with various pieces of equipment, including a clock, a control panel, and a large machine with a glass door.
 The image shows a white wall with blue trim, featuring a clock, a control panel with various switches and knobs, and a large window with a red and white striped shade.
 The image shows a white wall with blue trim, featuring a clock, a control panel with various switches and knobs, and a large window with a red and white striped curtain.
+An image with a clock, a ceiling, a window, a wall, and a table.
+An image with a window, a clock, a wall, a table, and a ceiling.
+An image with a wall, a table, a window, a ceiling, and a clock.
+An image with a window, a clock, a ceiling, a table, and a wall.
+An image with a table, a ceiling, a clock, a wall, and a window.

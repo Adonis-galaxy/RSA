@@ -8,3 +8,8 @@ The image shows a street with parked cars, bicycles, and a sidewalk.
 The image captures a quiet residential street with parked cars, bicycles, and a few pedestrians, all under a clear blue sky.
 The image shows a street view with a row of houses, a parked car, a bicycle rack, and a sidewalk.
 A long, narrow street lined with white buildings, greenery, and parked cars, leading to a white house with a red sign.
+An image with seven cars, five bicycles, a road, a sky, a pavement, a house, a tree, and a grass.
+An image with a sky, seven cars, five bicycles, a house, a tree, a road, a grass, and a pavement.
+An image with a house, five bicycles, seven cars, a road, a tree, a pavement, a sky, and a grass.
+An image with seven cars, a sky, a grass, a house, five bicycles, a tree, a pavement, and a road.
+An image with five bicycles, seven cars, a house, a pavement, a sky, a grass, a road, and a tree.

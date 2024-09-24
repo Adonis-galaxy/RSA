@@ -8,3 +8,8 @@ A classroom with students sitting at desks.
 A classroom scene with students seated at desks, engaged in learning activities, under the supervision of a teacher.
 A classroom filled with students sitting at desks, with a teacher standing at the front of the room.
 A classroom scene with students seated at desks, engaged in learning activities, under the supervision of a teacher.
+An image with ten people, two books, a light, a rug, ten chairs, a ceiling, a dining, two cups, two windows, a table, a cell, a bottle, and a wall.
+An image with two windows, ten chairs, ten people, two books, a dining, a rug, two cups, a ceiling, a light, a wall, a bottle, a table, and a cell.
+An image with a light, ten people, two cups, ten chairs, a table, a ceiling, a rug, a cell, two windows, a bottle, a dining, a wall, and two books.
+An image with ten people, ten chairs, a ceiling, a wall, a rug, two books, two cups, a dining, a table, a light, a cell, two windows, and a bottle.
+An image with ten chairs, ten people, two windows, a light, two cups, a cell, two books, a rug, a bottle, a table, a dining, a wall, and a ceiling.

@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a serene residential street, lined with trees and parked cars, leading to a row of white buildings under a clear blue sky.
 The image shows a street scene with a large building on the right, a row of small trees along the sidewalk, a car parked on the side of the road, and a bicycle parked on the sidewalk.
 A quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a red car parked on the sidewalk.
+An image with a grass, six cars, a pavement, a house, a road, a tree, and a bicycle.
+An image with a bicycle, a tree, six cars, a house, a pavement, a road, and a grass.
+An image with a tree, a grass, six cars, a house, a pavement, a bicycle, and a road.
+An image with a pavement, a tree, a house, a bicycle, six cars, a road, and a grass.
+An image with a grass, a road, six cars, a house, a bicycle, a tree, and a pavement.

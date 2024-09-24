@@ -8,3 +8,8 @@ The image shows a busy city street with parked cars and a person walking.
 The image captures a bustling city street, with parked cars lining the sidewalk and a mix of vehicles driving down the road, creating a sense of urban life and movement.
 The image shows a narrow street lined with parked cars, with a few cars driving down the road, and a person walking on the sidewalk.
 A narrow city street with parked cars on both sides, lined with buildings and trees, leading to a sign indicating a 30 zone.
+An image with a pavement, twelve cars, a road, a grass, a tree, a person, a truck, and a building.
+An image with twelve cars, a grass, a building, a truck, a tree, a person, a road, and a pavement.
+An image with a road, twelve cars, a truck, a grass, a person, a building, a pavement, and a tree.
+An image with twelve cars, a building, a pavement, a grass, a road, a truck, a person, and a tree.
+An image with twelve cars, a truck, a person, a pavement, a road, a grass, a building, and a tree.

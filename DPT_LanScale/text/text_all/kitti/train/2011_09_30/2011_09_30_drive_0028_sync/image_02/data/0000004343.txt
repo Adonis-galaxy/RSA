@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 A narrow street lined with parked cars and trees, creating a sense of a quiet, possibly residential area.
 A narrow street lined with parked cars and trees, with a white building visible in the background.
 A narrow street lined with parked cars and trees, leading to a white building.
+An image with a road, seven cars, a pavement, a wall, a truck, a person, a tree, a building, and a sky.
+An image with a wall, seven cars, a road, a pavement, a tree, a building, a person, a sky, and a truck.
+An image with a person, a tree, seven cars, a wall, a road, a sky, a truck, a pavement, and a building.
+An image with a sky, seven cars, a person, a tree, a wall, a pavement, a building, a truck, and a road.
+An image with seven cars, a truck, a road, a wall, a building, a person, a pavement, a tree, and a sky.

@@ -8,3 +8,8 @@ The image shows a staircase with a white railing.
 The image shows a staircase with a white railing, leading to a door at the top.
 The image shows a narrow hallway with a staircase on the left side, leading to a door at the end.
 The image shows a staircase with a white railing leading to a door at the top of the stairs.
+An image with a light, a floor, a rug, and a wall.
+An image with a wall, a light, a floor, and a rug.
+An image with a light, a rug, a wall, and a floor.
+An image with a floor, a rug, a light, and a wall.
+An image with a light, a floor, a wall, and a rug.

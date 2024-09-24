@@ -8,3 +8,8 @@ A view of a room.
 The image captures a cozy, well-lit living room with a warm and inviting atmosphere, featuring a table with a vase of flowers, a bookshelf filled with books, and a window with a view of the kitchen.
 The image shows a small room with a window, a table with a tray of items, a bookshelf, a doorway leading to a kitchen, and a reflection of the room in the mirror.
 The image shows a cozy, well-lit living room with a view into a kitchen, featuring a table with a tray of items, a window with a view of a garden, and a doorway leading to a hallway.
+An image with ten books, a dining, a microwave, two walls, a oven, a window, a chair, a cabinet, two floors, and a table.
+An image with ten books, a table, a chair, two walls, a microwave, two floors, a dining, a cabinet, a oven, and a window.
+An image with ten books, a microwave, a window, a chair, a table, two walls, a dining, two floors, a oven, and a cabinet.
+An image with ten books, a table, a cabinet, a microwave, two floors, two walls, a window, a dining, a oven, and a chair.
+An image with ten books, a microwave, two floors, a cabinet, two walls, a table, a oven, a dining, a window, and a chair.

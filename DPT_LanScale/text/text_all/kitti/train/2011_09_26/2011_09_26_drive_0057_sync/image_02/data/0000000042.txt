@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 A red car is driving on a road with a white line, passing under a traffic light, and is followed by a truck on a sunny day.
 A red car is driving down a street with a traffic light, a truck, and a few other vehicles in the background.
 A red car is driving on a road with multiple lanes, passing through an intersection with traffic lights and signs, and is surrounded by a suburban landscape with trees and buildings.
+An image with eight traffics, a house, eight cars, two trucks, a sky, a building, a pavement, a grass, a road, a mountain, and a tree.
+An image with eight cars, two trucks, eight traffics, a grass, a house, a mountain, a road, a building, a tree, a sky, and a pavement.
+An image with eight cars, eight traffics, two trucks, a house, a mountain, a building, a sky, a road, a pavement, a tree, and a grass.
+An image with eight cars, a sky, a tree, two trucks, eight traffics, a house, a building, a mountain, a pavement, a grass, and a road.
+An image with eight traffics, a road, eight cars, a pavement, a mountain, a grass, a house, two trucks, a building, a sky, and a tree.

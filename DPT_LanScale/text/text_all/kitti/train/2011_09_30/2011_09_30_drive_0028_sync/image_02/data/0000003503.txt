@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white fence.
 The image captures a narrow street lined with parked cars and a white fence, with a clear sky overhead.
 A narrow street lined with parked cars and a white fence, with a large van driving down the road.
 A narrow street lined with parked cars and a white fence, leading to a row of buildings.
+An image with a tree, a house, four cars, two trucks, a road, a pavement, a wall, and a sky.
+An image with a house, two trucks, four cars, a sky, a wall, a pavement, a tree, and a road.
+An image with four cars, a road, a house, a tree, two trucks, a sky, a wall, and a pavement.
+An image with a wall, two trucks, four cars, a house, a road, a pavement, a sky, and a tree.
+An image with four cars, a house, a sky, a pavement, a wall, two trucks, a tree, and a road.

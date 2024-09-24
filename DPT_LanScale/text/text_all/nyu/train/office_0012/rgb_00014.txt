@@ -8,3 +8,8 @@ A conference room with a large screen and a table.
 The image captures a professional meeting room setup with a large screen, a table with chairs, and a whiteboard, ready for a presentation or discussion.
 The image shows a conference room with a large projection screen, a wooden table with red chairs, and a whiteboard with writing on it.
 The image shows an office conference room with a large projection screen, a wooden table, red chairs, and a whiteboard.
+An image with a tv, a bottle, seven chairs, a wall, a floor, a ceiling, a cup, a window, and a dining.
+An image with a wall, seven chairs, a tv, a window, a cup, a floor, a ceiling, a dining, and a bottle.
+An image with a tv, a bottle, a floor, a wall, seven chairs, a window, a ceiling, a cup, and a dining.
+An image with seven chairs, a dining, a window, a ceiling, a floor, a bottle, a tv, a wall, and a cup.
+An image with seven chairs, a tv, a dining, a bottle, a ceiling, a floor, a cup, a wall, and a window.

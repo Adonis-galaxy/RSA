@@ -8,3 +8,8 @@ The image is a photograph of a city street intersection.
 The image captures a bustling city intersection with a mix of vehicles, pedestrians, and urban architecture, highlighting the dynamic nature of urban life.
 The image depicts a bustling city intersection with tall buildings, a traffic light, a pedestrian crossing, and a street sign.
 The image captures a bustling city intersection with a mix of vehicles, pedestrians, and traffic lights, set against the backdrop of tall buildings and a clear sky.
+An image with three traffics, a pavement, ten cars, two people, a building, two stops, a bus, two bicycles, a tree, and a road.
+An image with ten cars, three traffics, a tree, two stops, two people, a pavement, a road, a bus, a building, and two bicycles.
+An image with two bicycles, ten cars, three traffics, a road, a building, two stops, two people, a pavement, a tree, and a bus.
+An image with ten cars, two people, three traffics, two bicycles, two stops, a building, a road, a tree, a bus, and a pavement.
+An image with ten cars, two bicycles, a tree, two stops, a bus, two people, a road, a building, three traffics, and a pavement.

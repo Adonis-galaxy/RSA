@@ -8,3 +8,8 @@ A white refrigerator in a kitchen.
 A white refrigerator stands in the corner of a room with a table and chairs, and a handbag is placed on the table.
 A small white refrigerator is positioned next to a table with a cell phone and a handbag on it.
 A small, white refrigerator is situated in a corner of a room with a table and chairs, and a handbag is placed on the table.
+An image with a cell, a wall, two chairs, a floor, a refrigerator, a handbag, and a dining.
+An image with a wall, a floor, two chairs, a dining, a cell, a refrigerator, and a handbag.
+An image with a dining, two chairs, a refrigerator, a handbag, a wall, a floor, and a cell.
+An image with a cell, a wall, two chairs, a refrigerator, a handbag, a dining, and a floor.
+An image with a refrigerator, two chairs, a wall, a floor, a dining, a handbag, and a cell.

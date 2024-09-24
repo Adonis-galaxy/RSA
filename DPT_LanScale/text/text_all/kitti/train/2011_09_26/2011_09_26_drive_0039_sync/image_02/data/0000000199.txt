@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 The image captures a quiet residential street with parked cars, a white van, and apartment buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a large van parked on the right side.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a house, five cars, a road, a sky, a truck, a fence, a pavement, and a tree.
+An image with five cars, a fence, a road, a truck, a house, a pavement, a sky, and a tree.
+An image with a truck, five cars, a fence, a tree, a sky, a road, a house, and a pavement.
+An image with a fence, a road, a house, a sky, five cars, a pavement, a truck, and a tree.
+An image with a sky, five cars, a road, a fence, a tree, a pavement, a house, and a truck.

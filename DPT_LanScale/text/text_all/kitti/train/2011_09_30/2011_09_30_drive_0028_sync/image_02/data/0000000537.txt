@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A narrow, shaded street lined with lush greenery and white buildings, leading to a serene residential area.
 A narrow, tree-lined street between two buildings, with a sidewalk on the left and a fence on the right.
 A narrow, tree-lined street between two buildings, with a sidewalk on one side and a fence on the other.
+An image with a car, a tree, a sky, a house, a road, a fence, a pavement, and a window.
+An image with a sky, a car, a fence, a pavement, a window, a road, a house, and a tree.
+An image with a sky, a tree, a car, a road, a house, a fence, a window, and a pavement.
+An image with a fence, a pavement, a tree, a road, a car, a sky, a window, and a house.
+An image with a car, a pavement, a fence, a window, a house, a road, a tree, and a sky.

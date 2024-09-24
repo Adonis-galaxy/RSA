@@ -8,3 +8,8 @@ The image shows a busy street with multiple lanes of traffic.
 The image captures a typical day on a suburban street, with cars driving on the road and traffic lights controlling the flow of traffic.
 The image shows a wide, tree-lined road with multiple lanes, a few cars, and traffic lights. The road is wet, suggesting recent rain.
 The image depicts a wide, multi-lane road with traffic flowing in both directions, flanked by trees and lined with streetlights and traffic signals.
+An image with a tree, nine cars, three traffics, a grass, a road, a sky, and a pavement.
+An image with nine cars, three traffics, a sky, a road, a tree, a grass, and a pavement.
+An image with nine cars, a grass, three traffics, a pavement, a sky, a road, and a tree.
+An image with three traffics, nine cars, a grass, a road, a sky, a pavement, and a tree.
+An image with nine cars, a pavement, three traffics, a grass, a sky, a tree, and a road.

@@ -8,3 +8,8 @@ The image shows a residential street with houses and cars.
 The image captures a serene residential street, with a quaint white house featuring a red roof and a garage, set against a backdrop of lush greenery and clear blue skies.
 The image shows a residential street with houses, a stop sign, and a car parked on the side of the road.
 The image shows a residential street with houses, a stop sign, and a car parked on the side of the road.
+An image with four cars, a house, a roof, a grass, a stop, a pavement, a road, a tree, and a sky.
+An image with four cars, a pavement, a roof, a stop, a road, a sky, a house, a tree, and a grass.
+An image with a house, four cars, a sky, a grass, a tree, a pavement, a stop, a roof, and a road.
+An image with a road, a roof, a sky, a stop, four cars, a house, a pavement, a grass, and a tree.
+An image with a grass, a house, a sky, four cars, a pavement, a road, a stop, a roof, and a tree.

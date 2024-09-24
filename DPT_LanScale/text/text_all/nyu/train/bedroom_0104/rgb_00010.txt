@@ -8,3 +8,8 @@ A room with a television, a chair, a treadmill, and a window.
 The image captures a room with a television, a chair, a treadmill, and a window, all in a dimly lit setting.
 The image shows a small room with a television, a chair, a treadmill, and a window with blinds.
 The image shows a room with a television on a stand, a chair with a treadmill, a window with blinds, and a desk with a computer monitor and a green object.
+An image with a tv, a floor, two chairs, a window, a table, and a wall.
+An image with a wall, a table, a floor, two chairs, a window, and a tv.
+An image with a tv, a floor, two chairs, a window, a wall, and a table.
+An image with a tv, a table, a wall, two chairs, a window, and a floor.
+An image with two chairs, a floor, a window, a tv, a wall, and a table.

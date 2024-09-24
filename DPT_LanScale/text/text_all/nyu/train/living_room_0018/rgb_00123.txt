@@ -8,3 +8,8 @@ A woman is sitting at a desk in a kitchen.
 A woman in a black jacket is standing in a kitchen, looking at a laptop computer on a counter, with a red chair in front of her and a wooden cabinet behind her.
 A woman is sitting at a desk in a small room, working on a laptop.
 A woman in a black jacket is standing in a small, cluttered kitchen with a laptop on a counter, a red chair, and wooden cabinets.
+An image with a floor, a counter, a ceiling, a chair, a wall, a laptop, a person, and a cabinet.
+An image with a counter, a chair, a cabinet, a ceiling, a wall, a laptop, a floor, and a person.
+An image with a wall, a counter, a cabinet, a laptop, a floor, a ceiling, a chair, and a person.
+An image with a person, a ceiling, a wall, a laptop, a chair, a floor, a counter, and a cabinet.
+An image with a chair, a counter, a person, a floor, a ceiling, a cabinet, a laptop, and a wall.

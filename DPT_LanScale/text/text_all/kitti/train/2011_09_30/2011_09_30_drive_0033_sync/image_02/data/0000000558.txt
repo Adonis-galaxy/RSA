@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building in the background
 A quiet residential street with parked cars and a few moving vehicles, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a few moving vehicles, including a large truck and a small car, with a clear blue sky overhead.
 A narrow street lined with parked cars and houses, leading to a cul-de-sac.
+An image with a pavement, five cars, a sky, a road, a house, three buses, and a tree.
+An image with a pavement, three buses, five cars, a tree, a house, a road, and a sky.
+An image with five cars, a tree, three buses, a pavement, a sky, a road, and a house.
+An image with five cars, three buses, a pavement, a tree, a house, a road, and a sky.
+An image with a tree, five cars, a house, a road, a sky, three buses, and a pavement.

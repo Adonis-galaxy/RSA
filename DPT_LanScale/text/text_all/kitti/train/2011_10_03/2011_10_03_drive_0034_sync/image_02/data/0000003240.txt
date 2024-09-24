@@ -8,3 +8,8 @@ The image shows a narrow street between two walls, with trees and bushes lining 
 The image captures a serene residential street, lined with lush greenery and quaint houses, leading to a quiet cul-de-sac.
 The image shows a narrow, tree-lined street between two brick walls, with a white lamp post on the right side.
 A narrow, tree-lined street with a brick wall on one side and a fence on the other, leading to a residential area.
+An image with two walls, a pavement, a sky, a fence, a road, and a tree.
+An image with a tree, two walls, a pavement, a road, a fence, and a sky.
+An image with two walls, a fence, a pavement, a road, a tree, and a sky.
+An image with a fence, two walls, a road, a sky, a tree, and a pavement.
+An image with a road, a pavement, a sky, two walls, a tree, and a fence.

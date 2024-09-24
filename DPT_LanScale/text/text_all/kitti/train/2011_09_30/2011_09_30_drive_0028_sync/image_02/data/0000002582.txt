@@ -8,3 +8,8 @@ The image shows a street scene with a red and white stop sign.
 The image captures a quiet residential street with a few parked cars, a stop sign, and a clear blue sky.
 The image shows a street scene with a stop sign, a red and white do not enter sign, a car, a pedestrian, and a building.
 The image shows a quiet residential street with a few parked cars, a stop sign, and a red-and-white do not enter sign.
+An image with a pavement, a person, a stop, a house, a road, two cars, a sky, a tree, and a grass.
+An image with a road, a person, a sky, a grass, a pavement, two cars, a stop, a tree, and a house.
+An image with a person, two cars, a road, a house, a sky, a grass, a stop, a pavement, and a tree.
+An image with a road, a person, two cars, a stop, a house, a tree, a sky, a grass, and a pavement.
+An image with a pavement, a grass, a sky, a stop, two cars, a person, a tree, a house, and a road.

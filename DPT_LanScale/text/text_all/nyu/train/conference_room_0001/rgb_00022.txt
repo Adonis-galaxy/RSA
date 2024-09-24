@@ -8,3 +8,8 @@ A conference room with a table and chairs.
 The image captures a well-lit conference room with a large table surrounded by chairs, featuring a presentation screen and decorative plants on the table.
 The image shows a large conference room with a long table, several chairs, and a whiteboard.
 The image shows a conference room with a long table surrounded by chairs, a whiteboard, and a presentation screen.
+An image with a rug, seven chairs, a cardboard, three potteds, a door, a dining, and a wall.
+An image with seven chairs, a rug, three potteds, a door, a cardboard, a wall, and a dining.
+An image with three potteds, seven chairs, a dining, a cardboard, a rug, a door, and a wall.
+An image with three potteds, a door, seven chairs, a rug, a cardboard, a wall, and a dining.
+An image with a dining, seven chairs, three potteds, a cardboard, a rug, a wall, and a door.

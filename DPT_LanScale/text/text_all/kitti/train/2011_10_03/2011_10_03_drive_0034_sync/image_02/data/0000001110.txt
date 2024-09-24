@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a quiet residential street, with a fence and trees lining the road.
 A person riding a motorcycle on a tree-lined street.
 A quiet residential street with a motorcyclist riding down the middle, lined by trees and a white fence.
+An image with a building, a person, a tree, a pavement, a car, a motorcycle, a fence, a window, a sky, a road, and a wall.
+An image with a car, a motorcycle, a building, a road, a person, a window, a pavement, a wall, a sky, a fence, and a tree.
+An image with a car, a wall, a tree, a building, a pavement, a road, a fence, a person, a window, a sky, and a motorcycle.
+An image with a fence, a tree, a window, a wall, a motorcycle, a car, a pavement, a person, a sky, a building, and a road.
+An image with a person, a tree, a car, a road, a wall, a building, a window, a sky, a motorcycle, a pavement, and a fence.

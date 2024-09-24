@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a parked car and a few signs, leading to a white house with a green hedge.
 A narrow alleyway between two buildings, with a parked car, a trash can, and a mailbox visible.
 A narrow, tree-lined alleyway between two buildings, with a parked car and a mailbox visible.
+An image with a road, a tree, a sky, a grass, a house, a pavement, and a car.
+An image with a house, a tree, a grass, a car, a pavement, a road, and a sky.
+An image with a tree, a pavement, a car, a sky, a road, a house, and a grass.
+An image with a road, a grass, a car, a house, a sky, a pavement, and a tree.
+An image with a house, a car, a tree, a pavement, a sky, a grass, and a road.

@@ -8,3 +8,8 @@ The image shows a street with trees on both sides.
 A quiet, tree-lined street with parked cars, leading to a house with a sloped roof.
 The image shows a narrow, tree-lined street with a few parked cars, a house on the left, and a large concrete wall on the right.
 A tree-lined street with parked cars and a house in the background.
+An image with a house, three cars, a sky, a road, a pavement, a wall, a grass, and a tree.
+An image with three cars, a road, a sky, a house, a grass, a wall, a tree, and a pavement.
+An image with three cars, a tree, a road, a grass, a house, a pavement, a wall, and a sky.
+An image with a tree, a pavement, a wall, three cars, a sky, a house, a road, and a grass.
+An image with three cars, a tree, a pavement, a sky, a road, a wall, a house, and a grass.

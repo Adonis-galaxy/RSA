@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on the left side.
 A quiet, tree-lined street in a residential area, with a clear view of the houses and a glimpse of the sky.
 A tree-lined street in a residential area, with a large house on the left and a smaller house on the right, leading to a cul-de-sac.
 A tree-lined street in a residential area, with houses on the left and a clear view of the sky on the right.
+An image with a grass, a house, a road, a sky, a pavement, and a tree.
+An image with a house, a road, a tree, a sky, a pavement, and a grass.
+An image with a pavement, a house, a tree, a road, a sky, and a grass.
+An image with a sky, a pavement, a grass, a tree, a house, and a road.
+An image with a grass, a house, a tree, a pavement, a sky, and a road.

@@ -8,3 +8,8 @@ A car on a street.
 A car is driving down a tree-lined street, passing by a building with a red roof.
 A small white car is driving down a narrow street between two large buildings, with trees lining the road and a person visible in the foreground.
 A narrow street in a residential area with parked cars and a single moving car, lined with trees and buildings.
+An image with four cars, a sky, a house, a tree, a pavement, a wall, a grass, and a road.
+An image with four cars, a road, a tree, a wall, a house, a grass, a sky, and a pavement.
+An image with a house, a tree, a sky, four cars, a wall, a pavement, a grass, and a road.
+An image with four cars, a house, a tree, a road, a sky, a pavement, a grass, and a wall.
+An image with four cars, a house, a pavement, a grass, a tree, a wall, a sky, and a road.

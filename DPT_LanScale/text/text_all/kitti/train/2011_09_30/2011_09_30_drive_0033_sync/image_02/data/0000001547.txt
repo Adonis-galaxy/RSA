@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined street leads to a residential area, with a parked car and a construction vehicle in the background.
 A narrow, tree-lined road leads to a house with a driveway, surrounded by lush greenery.
 A narrow, tree-lined road leads to a residential area with houses and a driveway.
+An image with two cars, a tree, a house, a fire, a grass, a pavement, a road, and a sky.
+An image with a tree, two cars, a pavement, a house, a road, a fire, a grass, and a sky.
+An image with a pavement, a tree, two cars, a sky, a grass, a road, a house, and a fire.
+An image with a sky, a pavement, two cars, a house, a fire, a grass, a tree, and a road.
+An image with a sky, a fire, a road, a tree, two cars, a house, a pavement, and a grass.

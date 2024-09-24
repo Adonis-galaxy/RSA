@@ -8,3 +8,8 @@ The image shows a street with a number 30 painted on it.
 The image captures a quiet residential street, with a clear sky overhead and a few parked vehicles, including a car and a truck, lining the road.
 The image shows a narrow street with a few parked cars, a truck, and a bus, with trees and a building on either side. The street is marked with a 30 mph speed limit.
 The image depicts a tree-lined street with a numbered speed limit, parked vehicles, and a clear sky.
+An image with a tree, a sky, three cars, a road, a pavement, and a wall.
+An image with a road, a sky, three cars, a wall, a pavement, and a tree.
+An image with three cars, a road, a tree, a sky, a wall, and a pavement.
+An image with a wall, three cars, a road, a tree, a pavement, and a sky.
+An image with a wall, a sky, three cars, a road, a tree, and a pavement.

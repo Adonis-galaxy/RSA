@@ -8,3 +8,8 @@ The image shows two white office chairs with black wheels.
 The image shows two white chairs with a white table in the background, all placed on a gray carpeted floor.
 The image shows a white table with two chairs, one of which is partially visible, placed on a gray carpeted floor.
 The image shows a white table with two chairs, positioned in a room with a gray carpet.
+An image with two chairs, a wall, a floor, and a dining.
+An image with two chairs, a floor, a wall, and a dining.
+An image with two chairs, a floor, a dining, and a wall.
+An image with a dining, a floor, two chairs, and a wall.
+An image with two chairs, a wall, a dining, and a floor.

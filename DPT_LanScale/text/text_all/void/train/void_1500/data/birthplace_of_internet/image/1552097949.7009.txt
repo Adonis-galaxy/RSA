@@ -8,3 +8,8 @@ A blue and black cabinet with a whiteboard on top.
 The image shows a room with a blue wall, a table with a chair, a trash can, and a bulletin board.
 The image shows a room with a blue wall, a table with a chair, a trash can, and a bulletin board.
 The image shows a room with a blue wall, a table with a chair, a trash can, and a bulletin board with a blue border.
+An image with a dining, two walls, four chairs, a person, a paper, a floor, and a refrigerator.
+An image with two walls, a paper, a dining, four chairs, a refrigerator, a floor, and a person.
+An image with a paper, a refrigerator, four chairs, two walls, a dining, a person, and a floor.
+An image with four chairs, a person, a dining, a paper, a floor, a refrigerator, and two walls.
+An image with two walls, a person, four chairs, a paper, a refrigerator, a floor, and a dining.

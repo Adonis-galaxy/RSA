@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a formal dining room with a large wooden table surrounded by multiple chairs, illuminated by natural light filtering through sheer curtains, and a grandfather clock standing in the corner.
 The image shows a large dining room with a long wooden table surrounded by multiple chairs, a chandelier hanging from the ceiling, and a large window with curtains allowing natural light to enter.
 The image shows a formal dining room with a large wooden table surrounded by multiple chairs, a chandelier, and a grandfather clock.
+An image with nine chairs, a mirror, a vase, a clock, a curtain, a dining, a wall, a light, a floor, and a potted.
+An image with a floor, a mirror, nine chairs, a dining, a vase, a potted, a light, a clock, a wall, and a curtain.
+An image with nine chairs, a mirror, a vase, a curtain, a clock, a dining, a floor, a light, a potted, and a wall.
+An image with a wall, nine chairs, a floor, a vase, a light, a potted, a mirror, a dining, a clock, and a curtain.
+An image with a light, nine chairs, a curtain, a mirror, a floor, a potted, a clock, a vase, a wall, and a dining.

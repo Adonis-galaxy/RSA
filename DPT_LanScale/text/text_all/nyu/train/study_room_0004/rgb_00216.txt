@@ -8,3 +8,8 @@ The image shows an empty room with a long hallway, several tables, chairs, and a
 The image captures an empty conference room with a long corridor leading to a series of meeting rooms, each furnished with tables and chairs, ready for use.
 The image shows an empty room with a long corridor, several tables and chairs, and a row of windows.
 The image shows an empty room with a long corridor leading to a series of classrooms, each furnished with desks and chairs, and illuminated by fluorescent lights.
+An image with three dinings, ten chairs, a window, a floor, a ceiling, a door, and a wall.
+An image with a window, a floor, three dinings, ten chairs, a wall, a ceiling, and a door.
+An image with a door, three dinings, ten chairs, a window, a ceiling, a wall, and a floor.
+An image with a ceiling, a window, ten chairs, three dinings, a floor, a door, and a wall.
+An image with ten chairs, three dinings, a ceiling, a wall, a floor, a door, and a window.

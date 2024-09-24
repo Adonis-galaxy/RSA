@@ -8,3 +8,8 @@ A roll of paper towels leaning against a wall.
 A long roll of paper leaning against a wall.
 A large roll of paper leaning against a wall.
 A long roll of paper leaning against a wall in a room with a door.
+An image with a wall, a paper, a door, and a laptop.
+An image with a wall, a laptop, a door, and a paper.
+An image with a laptop, a paper, a wall, and a door.
+An image with a paper, a door, a wall, and a laptop.
+An image with a door, a wall, a laptop, and a paper.

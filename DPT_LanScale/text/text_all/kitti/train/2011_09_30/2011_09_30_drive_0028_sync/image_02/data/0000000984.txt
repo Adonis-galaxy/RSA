@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road and a pedestrian sign on t
 A car on a street, surrounded by trees and signs, with a pedestrian crossing nearby.
 A car is driving down a tree-lined street, passing a blue sign with a white walking figure.
 A car is driving down a tree-lined street with a sidewalk, a blue sign with a white arrow, and a red and blue sign on a pole.
+An image with a road, a wall, a car, a pavement, a sky, a grass, and a tree.
+An image with a road, a pavement, a tree, a sky, a wall, a grass, and a car.
+An image with a sky, a grass, a pavement, a tree, a car, a wall, and a road.
+An image with a pavement, a sky, a tree, a grass, a wall, a road, and a car.
+An image with a pavement, a grass, a tree, a wall, a car, a road, and a sky.

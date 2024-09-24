@@ -8,3 +8,8 @@ A boy riding a scooter on a street.
 A young boy riding a scooter on a quiet residential street, with parked cars and a bicycle, under a clear sky.
 A young boy is riding a scooter on a narrow street between parked cars, with a bicycle and a stroller nearby.
 A narrow, tree-lined street in a residential area, with parked cars, a child riding a scooter, and a bicycle.
+An image with two bicycles, five cars, a wall, a person, a pavement, a tree, a road, and a sky.
+An image with two bicycles, a road, a wall, a sky, a person, a pavement, five cars, and a tree.
+An image with five cars, two bicycles, a tree, a sky, a person, a road, a pavement, and a wall.
+An image with two bicycles, a wall, five cars, a sky, a person, a road, a pavement, and a tree.
+An image with a sky, a road, a tree, two bicycles, a wall, five cars, a pavement, and a person.

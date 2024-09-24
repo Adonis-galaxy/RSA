@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a moment of urban life, with a car driving down a tree-lined street, passing by parked cars and a building, under a clear sky.
 A large vehicle is driving down a tree-lined street, passing a parked car and a bus, with a billboard visible in the background.
 A busy street scene with a mix of vehicles, including cars and a bus, driving on a road with parked cars on the side, under a clear sky.
+An image with nineteen cars, a road, a bus, a tree, a person, a sky, a building, and a grass.
+An image with a road, nineteen cars, a bus, a tree, a grass, a person, a building, and a sky.
+An image with nineteen cars, a road, a person, a bus, a tree, a grass, a sky, and a building.
+An image with nineteen cars, a bus, a person, a tree, a grass, a road, a sky, and a building.
+An image with nineteen cars, a building, a tree, a grass, a person, a sky, a road, and a bus.

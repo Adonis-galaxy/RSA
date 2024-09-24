@@ -8,3 +8,8 @@ The image shows a staircase with a white railing.
 The image shows a staircase with a white railing, leading to a darker area.
 The image shows a staircase with a white railing, leading to a darker area.
 The image shows a staircase with a white railing, leading to a darker area with a gray floor.
+An image with a floor, a wall, and a rug.
+An image with a wall, a rug, and a floor.
+An image with a rug, a floor, and a wall.
+An image with a rug, a wall, and a floor.
+An image with a rug, a wall, and a floor.

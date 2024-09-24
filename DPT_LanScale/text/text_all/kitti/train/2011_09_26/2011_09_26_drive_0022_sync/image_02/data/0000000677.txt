@@ -8,3 +8,8 @@ The image shows a street scene with a paved road, grassy areas, trees, and a par
 The image captures a serene park scene, with a pathway leading to a parked car, flanked by trees and a street lamp, under a clear blue sky.
 The image shows a wide, tree-lined street with a large, white, cylindrical structure on the left side, a smaller white structure in the center, and a red and white striped pole on the right side. The street is bordered by grass and trees, and there are no visible people or vehicles.
 The image depicts a tranquil park scene with a paved pathway leading to a grassy area, bordered by trees and lined with street lamps, with a clear sky overhead.
+An image with a road, a pavement, a car, a grass, a sky, and a tree.
+An image with a grass, a road, a car, a sky, a tree, and a pavement.
+An image with a road, a tree, a pavement, a car, a sky, and a grass.
+An image with a sky, a car, a road, a pavement, a tree, and a grass.
+An image with a car, a grass, a pavement, a sky, a road, and a tree.

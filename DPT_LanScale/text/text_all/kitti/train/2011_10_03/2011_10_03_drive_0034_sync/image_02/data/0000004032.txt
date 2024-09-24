@@ -8,3 +8,8 @@ The image is a photograph of a black car parked on a street.
 The image captures a quiet residential street, with a parked black car on the side of the road, surrounded by lush greenery and a clear blue sky.
 A small black car is parked on a narrow street, with a house and trees in the background.
 A black car is parked on the side of a tree-lined street, with a house and a garage visible in the background.
+An image with a car, a pavement, a roof, a road, a tree, and a sky.
+An image with a car, a roof, a road, a sky, a pavement, and a tree.
+An image with a tree, a road, a pavement, a sky, a car, and a roof.
+An image with a road, a tree, a car, a pavement, a sky, and a roof.
+An image with a sky, a roof, a tree, a road, a car, and a pavement.

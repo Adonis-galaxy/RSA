@@ -8,3 +8,8 @@ The image shows a silver car driving on a street.
 A silver car is driving on a street, passing a parked white car and a gas station, with a blue sky and trees in the background.
 A silver car is driving down a street, passing a white car and a gas station, with trees and a blue sky in the background.
 A silver car is driving on a street with a sidewalk, passing a parked white car and a gas station, with trees and buildings in the background.
+An image with six cars, a grass, a road, a sky, a fire, a pavement, and a tree.
+An image with a pavement, a tree, six cars, a grass, a sky, a road, and a fire.
+An image with six cars, a tree, a fire, a sky, a pavement, a road, and a grass.
+An image with a sky, a tree, six cars, a fire, a road, a pavement, and a grass.
+An image with six cars, a tree, a sky, a fire, a grass, a pavement, and a road.

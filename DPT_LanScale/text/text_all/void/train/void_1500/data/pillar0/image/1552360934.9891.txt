@@ -8,3 +8,8 @@ A blue bucket is next to a white column.
 A blue bucket is placed next to a large white cylinder, which is situated in a corner of a room with a wooden cabinet.
 A blue bucket is placed next to a large white cylinder, which is situated in a corner of a room with a wooden cabinet.
 The image shows a wooden cabinet with two drawers and a handle, positioned next to a large white cylinder, with a blue bucket placed on the floor beside the cabinet.
+An image with a floor, a wall, a cardboard, and a cabinet.
+An image with a floor, a wall, a cabinet, and a cardboard.
+An image with a cabinet, a wall, a cardboard, and a floor.
+An image with a floor, a cabinet, a cardboard, and a wall.
+An image with a cabinet, a cardboard, a floor, and a wall.

@@ -8,3 +8,8 @@ A kitchen counter with a whiteboard and a few items on it.
 The image shows a kitchen counter with a whiteboard, a yellow container, and a blue container, all set against an orange wall.
 The image shows a small kitchen with an orange countertop, a white refrigerator, and a white sink.
 The image shows a small kitchen with an orange countertop, a white refrigerator, and a white sink.
+An image with a floor, a wall, a cup, a cabinet, a refrigerator, and a chair.
+An image with a cup, a chair, a cabinet, a refrigerator, a floor, and a wall.
+An image with a cup, a floor, a chair, a refrigerator, a cabinet, and a wall.
+An image with a cup, a chair, a refrigerator, a cabinet, a floor, and a wall.
+An image with a cabinet, a wall, a refrigerator, a chair, a cup, and a floor.

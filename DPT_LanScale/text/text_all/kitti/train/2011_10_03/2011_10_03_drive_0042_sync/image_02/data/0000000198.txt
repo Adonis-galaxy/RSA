@@ -8,3 +8,8 @@ A car on a highway.
 A solitary blue car travels down a wide, empty highway, flanked by trees and a guardrail, under a clear blue sky.
 A car is driving on a highway with a guardrail, passing under a bridge, and surrounded by trees.
 A car is driving on a highway with a guardrail, passing under a bridge, and surrounded by trees.
+An image with a traffic, five cars, a sky, a grass, a road, a tree, and a fence.
+An image with a grass, five cars, a sky, a tree, a road, a traffic, and a fence.
+An image with a grass, a fence, a traffic, five cars, a sky, a road, and a tree.
+An image with a sky, five cars, a road, a grass, a tree, a traffic, and a fence.
+An image with a grass, five cars, a tree, a fence, a sky, a road, and a traffic.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a van.
 The image captures a typical day in a suburban neighborhood, with a mix of parked cars, moving traffic, and pedestrians, all under a clear blue sky.
 The image shows a narrow street with parked cars on both sides, a few traffic lights, and a building in the background.
 A busy street scene with parked cars, traffic lights, and a clear sky.
+An image with eight cars, a traffic, a bus, a parking, a window, a road, a sky, a pavement, a wall, and a tree.
+An image with a sky, eight cars, a tree, a wall, a road, a parking, a window, a bus, a traffic, and a pavement.
+An image with a sky, a pavement, eight cars, a wall, a parking, a tree, a road, a traffic, a bus, and a window.
+An image with a tree, eight cars, a wall, a sky, a traffic, a parking, a pavement, a road, a bus, and a window.
+An image with a sky, a bus, eight cars, a pavement, a window, a wall, a traffic, a parking, a tree, and a road.

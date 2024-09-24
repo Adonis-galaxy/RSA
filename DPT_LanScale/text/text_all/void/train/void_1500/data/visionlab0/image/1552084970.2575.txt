@@ -8,3 +8,8 @@ A blurry image of an office chair and desk.
 A black office chair with a cup of coffee on a desk.
 A blurry image of an office chair and desk with a coffee cup on it.
 The image shows a blurry office setting with a desk, a chair, a coffee cup, and a poster on the wall.
+An image with two chairs, two cups, a paper, a floor, a table, a door, and a wall.
+An image with two cups, a floor, two chairs, a door, a paper, a wall, and a table.
+An image with two cups, a door, a wall, two chairs, a paper, a floor, and a table.
+An image with two cups, a paper, a door, a floor, a table, two chairs, and a wall.
+An image with a wall, two cups, two chairs, a table, a door, a paper, and a floor.

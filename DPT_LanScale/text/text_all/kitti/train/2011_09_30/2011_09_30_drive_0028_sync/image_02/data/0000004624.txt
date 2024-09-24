@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 A narrow, tree-lined street with parked cars on both sides, creating a canyon-like effect.
 The image shows a narrow street lined with parked cars, a sidewalk, and a row of tall, leafy trees.
 A narrow, tree-lined street with parked cars on both sides, leading to a white building.
+An image with a tree, eight cars, a road, a sky, a wall, and a pavement.
+An image with a road, eight cars, a tree, a pavement, a wall, and a sky.
+An image with a road, a pavement, eight cars, a tree, a sky, and a wall.
+An image with a tree, a road, eight cars, a pavement, a sky, and a wall.
+An image with a pavement, eight cars, a tree, a sky, a road, and a wall.

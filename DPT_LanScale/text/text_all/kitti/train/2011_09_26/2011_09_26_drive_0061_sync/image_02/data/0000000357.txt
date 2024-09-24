@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow, tree-lined street with parked cars, a fence, and a gate, creating a sense of a quiet, residential area.
 The image shows a narrow street lined with parked cars, a fence, and trees, with a white building on the right side.
 A narrow, tree-lined street with parked cars and a fence on the right side.
+An image with five cars, a road, a fence, a pavement, a tree, two parkings, a wall, and a sky.
+An image with five cars, two parkings, a wall, a road, a sky, a fence, a tree, and a pavement.
+An image with five cars, a fence, a wall, a road, a pavement, a tree, two parkings, and a sky.
+An image with five cars, a wall, two parkings, a road, a sky, a pavement, a fence, and a tree.
+An image with a wall, two parkings, five cars, a fence, a sky, a tree, a pavement, and a road.

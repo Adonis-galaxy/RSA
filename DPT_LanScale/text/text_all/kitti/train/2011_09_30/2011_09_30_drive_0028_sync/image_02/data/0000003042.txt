@@ -8,3 +8,8 @@ The image shows a residential street with houses, parked cars, and a person walk
 A quiet residential street, lined with parked cars and bicycles, under a clear blue sky.
 The image shows a narrow street lined with parked cars and bicycles, with apartment buildings on either side, and a person walking a dog on the sidewalk.
 A quiet residential street with parked cars, bicycles, and a pedestrian, lined with trees and buildings.
+An image with a tree, two people, a road, four cars, a pavement, a bicycle, a sky, a house, and a dog.
+An image with four cars, a sky, a road, a dog, a tree, a bicycle, two people, a pavement, and a house.
+An image with a pavement, four cars, two people, a house, a bicycle, a tree, a sky, a dog, and a road.
+An image with four cars, a tree, two people, a sky, a dog, a road, a bicycle, a house, and a pavement.
+An image with a sky, a pavement, two people, a tree, a road, a dog, four cars, a house, and a bicycle.

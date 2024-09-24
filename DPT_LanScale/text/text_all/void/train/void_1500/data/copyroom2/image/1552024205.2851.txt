@@ -8,3 +8,8 @@ A cardboard box with a paper inside it.
 A cardboard box sits in a corner of a room with a green wall, and a white cabinet is in the background.
 The image shows a small, empty room with a green wall, a white cabinet, and a cardboard box with a blue label.
 The image shows a green wall with a white cabinet and a cardboard box with a blue label on it.
+An image with a floor, a light, a cabinet, a wall, a refrigerator, and a cardboard.
+An image with a refrigerator, a light, a cabinet, a wall, a floor, and a cardboard.
+An image with a cabinet, a floor, a wall, a light, a refrigerator, and a cardboard.
+An image with a cabinet, a refrigerator, a floor, a light, a cardboard, and a wall.
+An image with a light, a wall, a floor, a cardboard, a cabinet, and a refrigerator.

@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue bucket, a black bag, and a white cylinder are placed next to each other in a room.
 A blue bucket, a black bag with orange trim, and a large white cylinder are in a room.
 A blue bucket, a black bag with orange trim, and a white cylinder are placed next to each other in a room.
+An image with a wall, a rug, a suitcase, a cabinet, a tv, and a cardboard.
+An image with a wall, a suitcase, a tv, a rug, a cardboard, and a cabinet.
+An image with a cabinet, a cardboard, a wall, a rug, a suitcase, and a tv.
+An image with a rug, a tv, a suitcase, a cabinet, a wall, and a cardboard.
+An image with a cardboard, a tv, a rug, a cabinet, a suitcase, and a wall.

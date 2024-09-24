@@ -8,3 +8,8 @@ A stainless steel sink in a bathroom.
 A stainless steel sink in a bathroom with a bottle of soap and a bottle of lotion.
 A stainless steel sink in a blue countertop with a bottle of dish soap and a bottle of hand soap.
 A stainless steel sink in a blue countertop with a bottle of soap and a bottle of hand sanitizer.
+An image with a counter, a paper, two bottles, a sink, and two walls.
+An image with a counter, a paper, two walls, two bottles, and a sink.
+An image with a paper, a counter, two walls, two bottles, and a sink.
+An image with a sink, two bottles, a paper, a counter, and two walls.
+An image with a paper, a sink, two bottles, two walls, and a counter.

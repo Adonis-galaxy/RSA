@@ -8,3 +8,8 @@ A black jeep parked on the side of a road.
 A black SUV parked on the side of a narrow street, with a white building and trees in the background.
 A small black SUV is parked on the side of a narrow street, with a white building and trees in the background.
 A black SUV is parked on the side of a narrow street, adjacent to a stone wall and a white fence, with trees and a building in the background.
+An image with a pavement, two walls, a building, a tree, a road, a fence, a sky, and a truck.
+An image with a pavement, a tree, a road, two walls, a sky, a building, a truck, and a fence.
+An image with a fence, a truck, a sky, two walls, a building, a tree, a pavement, and a road.
+An image with a sky, a pavement, a road, a fence, a truck, a tree, a building, and two walls.
+An image with a fence, a truck, two walls, a tree, a road, a pavement, a sky, and a building.

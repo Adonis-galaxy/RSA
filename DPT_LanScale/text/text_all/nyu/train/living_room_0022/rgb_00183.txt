@@ -8,3 +8,8 @@ A woman standing in a kitchen.
 A woman stands in a kitchen, looking at a refrigerator with a green bottle on top, a picture on the wall, and a white door.
 A woman stands in a kitchen with a white refrigerator, a green bottle, and a picture on the wall.
 A woman stands in a kitchen with a white refrigerator, a green bottle, and a brown picture frame on the wall.
+An image with three bottles, a person, two refrigerators, a cabinet, and a wall.
+An image with a cabinet, a wall, three bottles, two refrigerators, and a person.
+An image with two refrigerators, three bottles, a cabinet, a wall, and a person.
+An image with two refrigerators, a wall, a cabinet, three bottles, and a person.
+An image with two refrigerators, a person, three bottles, a wall, and a cabinet.

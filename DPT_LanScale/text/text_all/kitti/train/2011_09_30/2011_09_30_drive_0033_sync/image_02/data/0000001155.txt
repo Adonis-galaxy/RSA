@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street with parked cars, a curved road, and a clear blue sky.
 The image shows a narrow street with parked cars, a curved road, and a white building with a red roof. The street is lined with trees and has a sidewalk.
 The image depicts a narrow, tree-lined street in a residential area with parked cars, a curved road, and a clear sky.
+An image with a wall, a house, a pavement, seven cars, a stairs, a road, a potted, a sky, a tree, and a roof.
+An image with seven cars, a pavement, a wall, a road, a house, a tree, a potted, a roof, a sky, and a stairs.
+An image with a house, seven cars, a stairs, a roof, a wall, a sky, a pavement, a potted, a road, and a tree.
+An image with a stairs, seven cars, a tree, a wall, a pavement, a roof, a road, a sky, a potted, and a house.
+An image with a potted, a pavement, seven cars, a wall, a sky, a road, a stairs, a tree, a house, and a roof.

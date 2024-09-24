@@ -8,3 +8,8 @@ The image shows a narrow street with a car parked on the side.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac at the end.
 The image shows a narrow street lined with houses and trees, with a car parked at the end of the road.
 A narrow, tree-lined street with a curved path leading to a distant road.
+An image with a sky, a car, a house, a tree, a pavement, a road, and a fence.
+An image with a pavement, a house, a fence, a sky, a tree, a road, and a car.
+An image with a road, a sky, a pavement, a fence, a tree, a house, and a car.
+An image with a house, a sky, a tree, a car, a pavement, a road, and a fence.
+An image with a fence, a sky, a tree, a house, a car, a road, and a pavement.

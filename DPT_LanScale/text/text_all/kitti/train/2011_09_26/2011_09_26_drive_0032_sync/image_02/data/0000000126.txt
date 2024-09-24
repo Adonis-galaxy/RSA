@@ -8,3 +8,8 @@ The image is a photograph of a road with a speed limit sign.
 The image captures a moment on a highway, with a car driving on the road, a speed limit sign indicating a 70 km/h limit, and a sidewalk running parallel to the road.
 A car is driving on a road with a speed limit sign, surrounded by trees and a grassy area.
 The image depicts a highway scene with a car driving on the road, a speed limit sign, and a grassy area on the side.
+An image with four cars, a house, five people, a sky, a grass, a road, a tree, a stop, and a pavement.
+An image with a grass, a road, four cars, a tree, a stop, five people, a sky, a house, and a pavement.
+An image with four cars, a house, five people, a road, a stop, a sky, a grass, a tree, and a pavement.
+An image with a tree, a road, four cars, five people, a grass, a house, a stop, a pavement, and a sky.
+An image with four cars, a pavement, a tree, five people, a sky, a grass, a stop, a road, and a house.

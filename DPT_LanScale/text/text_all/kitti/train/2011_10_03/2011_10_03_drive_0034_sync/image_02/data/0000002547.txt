@@ -8,3 +8,8 @@ The image shows a street with graffiti on it.
 The image captures a residential street scene with a focus on the graffiti on the road, which is adjacent to a row of garages and houses, creating a contrast between the urban environment and the private spaces of the homes.
 The image shows a residential street with a large house, a row of garages, a driveway, and a sidewalk. There are graffiti-like markings on the street.
 The image shows a residential street with a curved driveway leading to a row of garages, a house with a white facade, and a sidewalk with graffiti.
+An image with a pavement, a tree, a wall, a grass, a sky, a house, and a road.
+An image with a house, a pavement, a tree, a sky, a road, a grass, and a wall.
+An image with a pavement, a house, a grass, a road, a sky, a tree, and a wall.
+An image with a grass, a pavement, a sky, a road, a wall, a house, and a tree.
+An image with a wall, a grass, a tree, a road, a pavement, a house, and a sky.

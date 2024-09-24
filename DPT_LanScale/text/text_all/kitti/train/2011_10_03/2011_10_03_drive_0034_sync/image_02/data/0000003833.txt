@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with parked cars and a clear sky, reflecting the sunlight.
 The image shows a narrow street lined with parked cars and trees, with a large Mercedes parked on the right side.
 The image depicts a quiet residential street with parked cars, a paved sidewalk, and a tree-lined road.
+An image with five cars, a sky, a tree, a house, a wall, a grass, a road, and a pavement.
+An image with a wall, a tree, five cars, a house, a road, a pavement, a sky, and a grass.
+An image with a sky, five cars, a wall, a road, a pavement, a tree, a house, and a grass.
+An image with five cars, a road, a sky, a tree, a house, a grass, a wall, and a pavement.
+An image with a road, five cars, a sky, a house, a grass, a tree, a wall, and a pavement.

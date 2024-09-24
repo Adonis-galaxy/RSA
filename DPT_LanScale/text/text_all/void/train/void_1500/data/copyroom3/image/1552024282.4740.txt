@@ -8,3 +8,8 @@ A brown cardboard box on a blue counter.
 A brown cardboard box sits on a blue countertop in a room with blue walls.
 The image shows a blue countertop with a brown cardboard box on it, and a white light fixture above.
 The image shows a blue countertop with a cardboard box on it, positioned in front of a wall with a light fixture and a door.
+An image with a cardboard, a floor, a paper, a light, and a wall.
+An image with a light, a cardboard, a floor, a paper, and a wall.
+An image with a wall, a paper, a light, a floor, and a cardboard.
+An image with a floor, a wall, a light, a cardboard, and a paper.
+An image with a floor, a paper, a light, a wall, and a cardboard.

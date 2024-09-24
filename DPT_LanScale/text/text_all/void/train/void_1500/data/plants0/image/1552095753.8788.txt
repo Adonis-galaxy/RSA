@@ -8,3 +8,8 @@ The image shows a sandy area with trees and a concrete curb.
 The image shows a sandy area with a few trees and a concrete curb, with a piece of paper on the ground.
 The image shows a small, sandy area with a few plants and trees, and a concrete curb.
 The image shows a sandy area with a few trees and plants, and a concrete curb.
+An image with two walls, a tree, a sand, a pavement, and a floor.
+An image with two walls, a pavement, a tree, a sand, and a floor.
+An image with a tree, two walls, a sand, a pavement, and a floor.
+An image with a pavement, a floor, two walls, a tree, and a sand.
+An image with a floor, a pavement, two walls, a tree, and a sand.

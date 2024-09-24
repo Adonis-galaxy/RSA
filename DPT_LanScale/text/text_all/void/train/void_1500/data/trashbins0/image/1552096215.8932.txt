@@ -8,3 +8,8 @@ A brown chair in a corner of a room.
 A brown chair is sitting in a corner next to a blue trash can.
 A small brown chair is tucked into a corner next to a blue trash can.
 A brown chair is placed against a white wall, next to a blue trash can.
+An image with a floor, a chair, a refrigerator, and a wall.
+An image with a floor, a chair, a wall, and a refrigerator.
+An image with a chair, a floor, a wall, and a refrigerator.
+An image with a floor, a chair, a wall, and a refrigerator.
+An image with a floor, a refrigerator, a chair, and a wall.

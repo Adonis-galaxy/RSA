@@ -8,3 +8,8 @@ The image shows a kitchen counter with various items on it.
 The image shows a kitchen counter with various items on it, including a white card, a blue can, and a yellow bottle.
 The image shows a small orange kitchen counter with a few items on it, including a white card, a black bottle, and a blue can.
 The image shows a kitchen counter with a few items on it, and a cabinet with a white door.
+An image with a towel, a floor, a cabinet, a refrigerator, a sink, a wall, and a paper.
+An image with a wall, a floor, a paper, a towel, a cabinet, a sink, and a refrigerator.
+An image with a wall, a towel, a cabinet, a floor, a refrigerator, a sink, and a paper.
+An image with a cabinet, a floor, a towel, a refrigerator, a sink, a wall, and a paper.
+An image with a paper, a towel, a cabinet, a sink, a wall, a floor, and a refrigerator.

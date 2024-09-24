@@ -8,3 +8,8 @@ A sink with a hose attached to it.
 A sink with a hose attached to it, located in a kitchen.
 The image shows a small sink with a faucet and a hose attached to it, located in a kitchen with a yellow pipe running along the wall.
 The image shows a kitchen sink with a faucet and a sprayer, mounted on a countertop with a red cabinet underneath.
+An image with a cabinet, a wall, a floor, and a sink.
+An image with a wall, a cabinet, a floor, and a sink.
+An image with a sink, a floor, a cabinet, and a wall.
+An image with a wall, a cabinet, a sink, and a floor.
+An image with a cabinet, a sink, a floor, and a wall.

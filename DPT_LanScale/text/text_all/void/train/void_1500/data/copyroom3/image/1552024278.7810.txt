@@ -8,3 +8,8 @@ A blurry image of a microwave on a counter.
 A microwave oven is placed on top of a kitchen counter.
 A small white microwave sits on top of a white counter in a kitchen.
 The image shows a small kitchen with a white microwave on top of a white counter, next to a silver refrigerator.
+An image with a counter, a wall, a refrigerator, a microwave, a cabinet, a floor, and a paper.
+An image with a refrigerator, a wall, a cabinet, a paper, a microwave, a floor, and a counter.
+An image with a floor, a cabinet, a paper, a microwave, a counter, a refrigerator, and a wall.
+An image with a paper, a microwave, a refrigerator, a cabinet, a wall, a counter, and a floor.
+An image with a wall, a cabinet, a paper, a microwave, a floor, a counter, and a refrigerator.

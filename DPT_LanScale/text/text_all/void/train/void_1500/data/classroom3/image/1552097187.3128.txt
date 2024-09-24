@@ -8,3 +8,8 @@ A black chair with a silver frame.
 A black chair with a silver frame is positioned in front of a desk.
 A black chair with a silver frame is positioned next to a desk.
 The image shows a black office chair with a silver frame, positioned in front of a desk with a keyboard and a mouse.
+An image with a floor, a keyboard, three chairs, and a table.
+An image with a floor, a table, three chairs, and a keyboard.
+An image with three chairs, a floor, a table, and a keyboard.
+An image with three chairs, a floor, a keyboard, and a table.
+An image with three chairs, a keyboard, a floor, and a table.

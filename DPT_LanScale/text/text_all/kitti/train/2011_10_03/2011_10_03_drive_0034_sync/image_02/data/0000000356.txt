@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a serene suburban street scene, with a line of parked cars on the side of the road, under the shade of tall trees, and in front of a residential house.
 A narrow street with parked cars and a large wall on the side.
 A quiet suburban street with parked cars and a fence on the right side.
+An image with three cars, a dirt, a house, a road, a pavement, a tree, a sky, and a wall.
+An image with a wall, a dirt, a road, three cars, a tree, a pavement, a house, and a sky.
+An image with a sky, a pavement, three cars, a dirt, a house, a road, a wall, and a tree.
+An image with a sky, a wall, a house, three cars, a road, a tree, a dirt, and a pavement.
+An image with a road, three cars, a house, a wall, a pavement, a tree, a dirt, and a sky.

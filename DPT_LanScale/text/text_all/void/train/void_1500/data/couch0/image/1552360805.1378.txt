@@ -8,3 +8,8 @@ A colorful sombrero is leaning against a gray couch.
 A colorful sombrero is resting on the arm of a gray couch, next to a black bag and a stack of papers.
 A colorful sombrero is leaning against a gray couch, with a black bag and a stack of papers nearby.
 A colorful sombrero is resting on the arm of a gray couch, with a black bag and a stack of papers nearby.
+An image with a backpack, a rug, a sports, a couch, a cabinet, and a book.
+An image with a backpack, a rug, a book, a couch, a sports, and a cabinet.
+An image with a sports, a couch, a rug, a book, a cabinet, and a backpack.
+An image with a backpack, a sports, a couch, a rug, a cabinet, and a book.
+An image with a backpack, a book, a couch, a sports, a rug, and a cabinet.

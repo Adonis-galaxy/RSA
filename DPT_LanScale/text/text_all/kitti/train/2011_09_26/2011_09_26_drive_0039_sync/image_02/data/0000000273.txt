@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a truck.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars and a fence, with a few vehicles driving down the road.
 A narrow street in a residential area with parked cars and a truck, leading to a fenced-in area with a building and trees.
+An image with four cars, a sky, a person, a house, a pavement, a fence, a road, a tree, and a truck.
+An image with four cars, a road, a person, a pavement, a sky, a truck, a fence, a tree, and a house.
+An image with a pavement, a road, a person, four cars, a sky, a house, a fence, a truck, and a tree.
+An image with a house, a road, four cars, a person, a pavement, a sky, a fence, a tree, and a truck.
+An image with a pavement, a sky, four cars, a house, a truck, a tree, a road, a fence, and a person.

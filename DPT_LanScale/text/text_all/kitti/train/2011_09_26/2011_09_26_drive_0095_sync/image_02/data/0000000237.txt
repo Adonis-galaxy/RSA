@@ -8,3 +8,8 @@ The image shows a street scene with a group of people riding bicycles.
 A quiet residential street, with a few people and bicycles, under a bright sunny sky.
 A narrow street in a residential area with parked cars, a bicycle, and two people riding bikes.
 A quiet residential street with parked cars, a bicycle, and pedestrians, under a clear blue sky.
+An image with a road, two bicycles, two people, nine cars, a grass, a truck, a house, a pavement, a tree, and a stairs.
+An image with nine cars, two bicycles, a pavement, a grass, a stairs, a road, a truck, a tree, two people, and a house.
+An image with two people, nine cars, a tree, a house, a stairs, a truck, a pavement, a grass, a road, and two bicycles.
+An image with two bicycles, a stairs, nine cars, a pavement, a grass, a truck, a road, a tree, a house, and two people.
+An image with two bicycles, a stairs, nine cars, a road, a truck, a tree, a grass, a house, a pavement, and two people.

@@ -8,3 +8,8 @@ A box with a red sign on it.
 A box with a red sign on it is sitting on a desk in an office.
 The image shows an office environment with a large cardboard box containing a computer monitor and keyboard, placed on a desk.
 The image shows an office environment with a desk, chairs, and a computer monitor, with a large cardboard box prominently placed in the foreground.
+An image with a rug, a cardboard, a tv, three chairs, a window, a paper, a keyboard, a table, a sports, and a wall.
+An image with a window, three chairs, a tv, a keyboard, a paper, a cardboard, a rug, a table, a wall, and a sports.
+An image with a keyboard, a window, a rug, three chairs, a cardboard, a paper, a table, a sports, a tv, and a wall.
+An image with a sports, a window, three chairs, a rug, a keyboard, a wall, a tv, a cardboard, a table, and a paper.
+An image with a tv, three chairs, a window, a cardboard, a wall, a rug, a sports, a keyboard, a table, and a paper.

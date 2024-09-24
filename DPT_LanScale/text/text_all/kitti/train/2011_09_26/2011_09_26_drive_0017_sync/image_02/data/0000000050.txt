@@ -8,3 +8,8 @@ A white car is driving on a street.
 A white car is crossing an intersection with multiple traffic lights and signs, surrounded by a suburban setting.
 A small white car is driving down a wide, empty road with multiple traffic lights and signs.
 A white car is driving on a wide, multi-lane road with multiple traffic lights and signs, surrounded by trees and a clear blue sky.
+An image with a tree, a road, a car, three traffics, and a pavement.
+An image with a car, three traffics, a pavement, a road, and a tree.
+An image with a road, three traffics, a tree, a car, and a pavement.
+An image with three traffics, a car, a pavement, a road, and a tree.
+An image with a road, three traffics, a tree, a pavement, and a car.

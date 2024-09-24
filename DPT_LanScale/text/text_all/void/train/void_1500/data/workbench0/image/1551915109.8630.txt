@@ -8,3 +8,8 @@ The image shows a cluttered room with various electronic equipment and a sign th
 The image shows a cluttered workspace with various electronic equipment and a sign that says "reserved".
 The image shows a cluttered room with various electronic equipment, including a large black machine, a white and black machine, and a blue and white box.
 The image shows a cluttered workspace with various electronic equipment, including a computer tower, a printer, and a camera, along with a blue box and a white sign on a table.
+An image with a paper, a tv, a laptop, a cardboard, a door, a wall, and a table.
+An image with a door, a wall, a tv, a table, a laptop, a paper, and a cardboard.
+An image with a tv, a wall, a paper, a table, a laptop, a cardboard, and a door.
+An image with a wall, a laptop, a cardboard, a tv, a door, a table, and a paper.
+An image with a door, a paper, a tv, a table, a cardboard, a laptop, and a wall.

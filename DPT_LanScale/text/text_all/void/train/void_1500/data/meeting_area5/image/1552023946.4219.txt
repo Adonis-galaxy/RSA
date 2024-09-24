@@ -8,3 +8,8 @@ The image shows a white table with four chairs in a room.
 The image shows a white table with four chairs, positioned in a room with a white floor and a white wall.
 The image shows a white table with four chairs, two of which are in the foreground and two in the background.
 The image shows a white table with four chairs in a room with a whiteboard and a window.
+An image with five chairs, a window, a floor, three dinings, and two walls.
+An image with five chairs, a floor, three dinings, a window, and two walls.
+An image with five chairs, three dinings, a floor, two walls, and a window.
+An image with five chairs, three dinings, a floor, two walls, and a window.
+An image with five chairs, two walls, a floor, a window, and three dinings.

@@ -8,3 +8,8 @@ The image is blurry and shows a kitchen counter with a microwave and a light fix
 The image shows a blurry view of a kitchen with a focus on a microwave and a light fixture.
 The image shows a blurry view of a kitchen with a focus on a microwave and a light fixture.
 The image shows a blurry view of a kitchen with a focus on a microwave and a light fixture.
+An image with a cabinet, a light, a wall, a microwave, and a paper.
+An image with a cabinet, a light, a paper, a microwave, and a wall.
+An image with a wall, a cabinet, a microwave, a light, and a paper.
+An image with a light, a paper, a wall, a cabinet, and a microwave.
+An image with a microwave, a wall, a cabinet, a paper, and a light.

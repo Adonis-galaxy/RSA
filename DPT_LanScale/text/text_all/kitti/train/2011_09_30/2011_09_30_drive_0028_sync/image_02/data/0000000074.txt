@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and buildings.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few trees providing a touch of greenery.
 The image shows a narrow street lined with parked cars and buildings, with a large car parked on the side of the road.
 A narrow street in a European town, lined with parked cars and buildings, with a clear sky overhead.
+An image with a road, two chairs, eight cars, a pavement, a sky, a house, a tree, and a wall.
+An image with a road, eight cars, a house, a wall, two chairs, a sky, a tree, and a pavement.
+An image with eight cars, a pavement, two chairs, a road, a sky, a house, a wall, and a tree.
+An image with two chairs, eight cars, a wall, a pavement, a sky, a road, a house, and a tree.
+An image with a tree, two chairs, eight cars, a pavement, a road, a wall, a sky, and a house.

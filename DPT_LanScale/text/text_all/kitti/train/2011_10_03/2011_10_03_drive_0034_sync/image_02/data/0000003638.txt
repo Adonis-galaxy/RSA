@@ -8,3 +8,8 @@ The image shows a narrow street with houses on both sides.
 The image captures a serene residential street, lined with lush greenery and quaint houses, leading to a cul-de-sac at the end.
 The image shows a narrow street lined with houses and trees, with a car parked at the end of the road.
 The image depicts a narrow, tree-lined street with a curved layout, leading to a residential area with houses and a car parked on the side.
+An image with a pavement, a fence, a tree, a roof, a road, a sky, and a car.
+An image with a tree, a car, a pavement, a fence, a sky, a roof, and a road.
+An image with a sky, a pavement, a road, a roof, a fence, a car, and a tree.
+An image with a road, a car, a pavement, a tree, a fence, a roof, and a sky.
+An image with a car, a pavement, a sky, a roof, a road, a fence, and a tree.

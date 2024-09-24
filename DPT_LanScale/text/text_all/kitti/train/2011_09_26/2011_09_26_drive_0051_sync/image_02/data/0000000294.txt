@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with a mix of vehicles, pedestrians, and urban architecture, all under a clear sky.
 The image shows a wide street with a few cars, a truck, and a bus, all appearing small due to the wide angle lens used to take the photo.
 A busy street with multiple lanes, parked cars, and a mix of vehicles in motion, including a truck and a car, under a clear sky.
+An image with twenty cars, a building, a grass, a tree, a person, a sky, and a road.
+An image with twenty cars, a sky, a road, a person, a building, a tree, and a grass.
+An image with a sky, a person, twenty cars, a building, a tree, a grass, and a road.
+An image with a sky, twenty cars, a tree, a grass, a building, a person, and a road.
+An image with twenty cars, a building, a tree, a person, a grass, a sky, and a road.

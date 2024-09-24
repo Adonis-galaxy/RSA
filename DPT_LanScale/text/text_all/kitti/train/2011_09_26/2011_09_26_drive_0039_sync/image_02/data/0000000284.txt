@@ -8,3 +8,8 @@ The image shows a street scene with cars and a truck.
 A quiet residential street with parked cars and a delivery truck, under a clear blue sky.
 A narrow street in a residential area with parked cars, a truck, and a person, all under a clear blue sky.
 A narrow street in a residential area with parked cars, a delivery truck, and a person walking.
+An image with a fence, a house, a tree, a sky, a pavement, four cars, a road, a person, and a truck.
+An image with a house, a truck, a fence, four cars, a tree, a sky, a pavement, a road, and a person.
+An image with four cars, a sky, a pavement, a fence, a truck, a person, a house, a tree, and a road.
+An image with a road, a person, four cars, a fence, a truck, a tree, a house, a sky, and a pavement.
+An image with four cars, a person, a tree, a pavement, a sky, a fence, a road, a truck, and a house.

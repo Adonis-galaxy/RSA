@@ -8,3 +8,8 @@ A computer workstation with a desktop computer and two monitors.
 A computer workstation with a desktop computer, keyboard, and mouse on a table.
 A cluttered computer workstation with a desktop computer, keyboard, mouse, and monitor on a table.
 The image shows a cluttered computer workstation with a desktop computer, keyboard, mouse, and various other items on a desk.
+An image with a floor, a chair, a cabinet, a light, a window, a tv, a wall, a door, a keyboard, and a ceiling.
+An image with a chair, a window, a door, a light, a cabinet, a floor, a ceiling, a tv, a keyboard, and a wall.
+An image with a window, a chair, a door, a wall, a keyboard, a cabinet, a tv, a floor, a ceiling, and a light.
+An image with a keyboard, a window, a floor, a light, a wall, a cabinet, a tv, a door, a chair, and a ceiling.
+An image with a window, a wall, a cabinet, a ceiling, a light, a floor, a keyboard, a chair, a door, and a tv.

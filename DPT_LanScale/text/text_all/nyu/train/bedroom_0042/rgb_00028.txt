@@ -8,3 +8,8 @@ A bed with a striped blanket.
 The image captures a cozy bedroom scene with a bed adorned with a colorful striped blanket, a nightstand with a lamp, and a window with closed blinds.
 The image shows a bed with a striped blanket, a nightstand with a lamp, and a window with closed blinds.
 The image shows a cozy bedroom with a bed featuring a striped blanket and pillows, a nightstand with a lamp, a window with white blinds, and a wooden floor.
+An image with a wall, a bed, a light, a curtain, a window, and a floor.
+An image with a bed, a wall, a window, a light, a floor, and a curtain.
+An image with a bed, a light, a curtain, a window, a floor, and a wall.
+An image with a floor, a window, a curtain, a bed, a light, and a wall.
+An image with a floor, a window, a light, a bed, a curtain, and a wall.

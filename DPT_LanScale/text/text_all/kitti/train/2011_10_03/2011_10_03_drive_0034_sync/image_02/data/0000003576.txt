@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet, tree-lined residential street, with a clear path leading to a house at the end.
 The image depicts a narrow, tree-lined street with a brick sidewalk, leading to a white house with a red roof.
 A narrow, tree-lined street with a brick sidewalk and a paved road, leading to a residential area with houses and hedges.
+An image with a sky, a house, a pavement, a tree, a road, a wall, and a car.
+An image with a car, a tree, a pavement, a wall, a house, a sky, and a road.
+An image with a wall, a sky, a pavement, a road, a car, a house, and a tree.
+An image with a sky, a house, a pavement, a car, a tree, a road, and a wall.
+An image with a car, a tree, a house, a wall, a sky, a road, and a pavement.

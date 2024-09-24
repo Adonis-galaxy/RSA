@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A woman in a red dress stands on the sidewalk, leaning against a black car, with a blue parking meter nearby, and a white building with a balcony in the background.
 A woman stands next to a parked car on a narrow street lined with houses and parked cars.
 A narrow street in a residential area with parked cars, a woman standing by a car, and a blue sky.
+An image with a tree, three people, a wall, a road, four cars, a house, and a airplane.
+An image with a airplane, four cars, a house, a wall, a road, three people, and a tree.
+An image with four cars, three people, a airplane, a wall, a tree, a road, and a house.
+An image with a road, three people, four cars, a tree, a airplane, a wall, and a house.
+An image with three people, four cars, a road, a airplane, a wall, a house, and a tree.

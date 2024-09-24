@@ -8,3 +8,8 @@ A view of kitchen.
 The image captures a domestic scene with a focus on the relationship between objects in a kitchen.
 The image shows a small kitchen with a countertop, a white cabinet, and a white dish rack.
 The image shows a kitchen counter with a white dish rack, a black phone, and a stack of folded towels.
+An image with a cup, a window, a towel, a keyboard, a counter, a bowl, a ceiling, two walls, and a cabinet.
+An image with two walls, a towel, a cabinet, a bowl, a keyboard, a counter, a ceiling, a cup, and a window.
+An image with a keyboard, a cup, a towel, two walls, a ceiling, a cabinet, a window, a bowl, and a counter.
+An image with two walls, a keyboard, a ceiling, a bowl, a window, a counter, a cabinet, a towel, and a cup.
+An image with two walls, a bowl, a ceiling, a cup, a counter, a cabinet, a towel, a keyboard, and a window.

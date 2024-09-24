@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on the right side.
 A narrow, tree-lined street with a brick wall on one side and a parked car on the other, leading to a quaint, arched doorway.
 A narrow, tree-lined street with a brick wall on one side and a car parked on the other.
 A narrow, tree-lined street with a brick wall on one side and a car parked on the other, leading to a building with a green roof.
+An image with two cars, a road, a fence, a sky, a wall, a tree, a door, and a pavement.
+An image with a door, a sky, a fence, a road, a tree, a pavement, two cars, and a wall.
+An image with a road, a pavement, a door, two cars, a sky, a fence, a wall, and a tree.
+An image with two cars, a sky, a pavement, a tree, a road, a wall, a door, and a fence.
+An image with two cars, a wall, a door, a tree, a road, a sky, a fence, and a pavement.

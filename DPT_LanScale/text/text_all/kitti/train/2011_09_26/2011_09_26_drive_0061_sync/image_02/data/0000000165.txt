@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a vibrant street scene with a mix of parked cars, a red van, and a brick wall, all under a clear blue sky.
 A narrow street lined with parked cars, including a large red van, a black car, and a white building with a red roof.
 A narrow street in a residential area with parked cars and a brick wall.
+An image with six cars, a wall, a sky, a tree, a road, a house, and a roof.
+An image with six cars, a road, a tree, a sky, a house, a roof, and a wall.
+An image with a sky, a tree, six cars, a house, a road, a roof, and a wall.
+An image with a roof, six cars, a sky, a wall, a house, a tree, and a road.
+An image with six cars, a house, a sky, a road, a wall, a tree, and a roof.

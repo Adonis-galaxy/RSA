@@ -8,3 +8,8 @@ The image shows a white table with chairs in a room.
 The image shows a white table with chairs in a room, with a blurred background.
 The image shows a white table with four chairs in a room with a yellow wall.
 The image shows a long white table with several white chairs around it, placed in a room with a yellow wall and a door in the background.
+An image with a wall, three dinings, six chairs, a floor, and a door.
+An image with six chairs, a wall, a floor, three dinings, and a door.
+An image with six chairs, a wall, three dinings, a door, and a floor.
+An image with six chairs, three dinings, a floor, a wall, and a door.
+An image with six chairs, three dinings, a door, a wall, and a floor.

@@ -8,3 +8,8 @@ A blurry image of a whiteboard with writing on it.
 A blurry office space with a desk, chair, and whiteboard.
 The image shows a small office space with a desk, chair, and whiteboard.
 The image shows an office space with a desk, chair, and whiteboard in the background.
+An image with a chair, a table, a tv, a door, a wall, a floor, and a paper.
+An image with a tv, a floor, a wall, a table, a paper, a chair, and a door.
+An image with a door, a paper, a chair, a table, a tv, a floor, and a wall.
+An image with a tv, a paper, a wall, a door, a chair, a floor, and a table.
+An image with a door, a wall, a paper, a floor, a chair, a table, and a tv.

@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a brick building on the sid
 The image captures a quiet, tree-lined street with parked cars, leading to a building with a white door and a brick wall.
 The image shows a narrow street lined with parked cars and trees, with a large building on the right side.
 A narrow street lined with parked cars and buildings, leading to a white garage door.
+An image with three cars, a wall, a pavement, a sky, a road, and a tree.
+An image with a road, a wall, a sky, a pavement, three cars, and a tree.
+An image with three cars, a wall, a road, a pavement, a tree, and a sky.
+An image with a sky, a road, three cars, a tree, a pavement, and a wall.
+An image with three cars, a tree, a road, a sky, a wall, and a pavement.

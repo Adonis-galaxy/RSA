@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A car on a street, with a sidewalk and trees, and another car parked on the side of the road.
 A car is parked on the side of a road, and there is a person walking on a path next to a park.
 A car is parked on the side of a road with a bike lane, and there are trees and a park in the background.
+An image with three cars, a building, a tree, a grass, a sky, a road, and a person.
+An image with a tree, a grass, three cars, a road, a building, a person, and a sky.
+An image with a building, a grass, a road, a tree, a person, three cars, and a sky.
+An image with a building, three cars, a tree, a grass, a person, a sky, and a road.
+An image with a tree, a person, three cars, a grass, a sky, a building, and a road.

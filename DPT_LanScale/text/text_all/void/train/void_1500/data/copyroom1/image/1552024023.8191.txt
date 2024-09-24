@@ -8,3 +8,8 @@ A printer on a counter.
 A printer sits on a counter next to a box and a tablet.
 A white printer sits on a beige countertop, next to a black box and a brown box.
 A white printer sits on a beige countertop, with a black tablet and a brown box nearby.
+An image with a wall, a scissors, a counter, and a cabinet.
+An image with a wall, a scissors, a cabinet, and a counter.
+An image with a wall, a cabinet, a scissors, and a counter.
+An image with a counter, a cabinet, a wall, and a scissors.
+An image with a cabinet, a wall, a counter, and a scissors.

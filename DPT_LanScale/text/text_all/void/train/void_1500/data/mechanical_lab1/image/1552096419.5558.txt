@@ -8,3 +8,8 @@ A blurry image of a computer monitor and a printer.
 The image shows a room with various objects, including a large orange object, a black fan, and a blue box with orange writing.
 The image shows a large orange door, a black fan, a blue box, and a gray metal box with a yellow sticker on it.
 The image shows a room with various electronic equipment, including a large black fan, a blue box with orange writing, and a gray metal box with a yellow sticker.
+An image with a wall, a light, a cell, a window, and a table.
+An image with a table, a cell, a wall, a window, and a light.
+An image with a window, a cell, a table, a wall, and a light.
+An image with a table, a light, a cell, a wall, and a window.
+An image with a window, a light, a wall, a cell, and a table.

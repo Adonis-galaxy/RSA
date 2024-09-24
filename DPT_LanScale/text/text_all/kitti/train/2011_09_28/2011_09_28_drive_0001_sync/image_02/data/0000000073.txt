@@ -8,3 +8,8 @@ The image shows a street with parked cars and a clear sky.
 The image captures a quiet, tree-lined street with parked cars, a stop sign, and a clear sky overhead.
 The image shows a tree-lined street with a few cars parked on the side, a stop sign, and a clear sky.
 The image depicts a tree-lined street with parked cars on the right side, a stop sign at the intersection, and a clear view of the road ahead.
+An image with seven cars, a sky, a road, a pavement, a stop, and a tree.
+An image with seven cars, a tree, a road, a stop, a pavement, and a sky.
+An image with seven cars, a road, a sky, a tree, a stop, and a pavement.
+An image with seven cars, a pavement, a tree, a road, a stop, and a sky.
+An image with seven cars, a pavement, a sky, a tree, a road, and a stop.

@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street scene, with a focus on a small kiosk, a yellow umbrella, and a person riding a bicycle, all set against the backdrop of tall buildings and a clear sky.
 A large yellow umbrella is open above a small kiosk on a busy city street.
 A bustling city street with a mix of pedestrians, vehicles, and urban elements.
+An image with ten cars, a umbrella, a bicycle, four people, a pavement, a truck, a potted, a tree, a road, and a building.
+An image with a umbrella, four people, ten cars, a building, a road, a bicycle, a potted, a pavement, a tree, and a truck.
+An image with a building, ten cars, four people, a bicycle, a pavement, a road, a tree, a umbrella, a truck, and a potted.
+An image with a tree, ten cars, a pavement, a building, four people, a bicycle, a road, a potted, a umbrella, and a truck.
+An image with ten cars, a potted, a truck, a bicycle, a road, a tree, four people, a umbrella, a pavement, and a building.

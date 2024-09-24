@@ -8,3 +8,8 @@ The image shows a highway with a bridge and a car on it.
 The image captures a serene highway scene with a clear sky, a few cars, and a bridge with a railing, all set against a backdrop of lush green trees.
 The image shows a wide, empty highway with a few cars, a bridge, and a clear blue sky.
 The image shows a long, straight highway with multiple lanes, a central divider, and a bridge overpass, all under a clear blue sky.
+An image with three cars, a fence, a grass, a sky, a road, and a tree.
+An image with a sky, a fence, three cars, a road, a tree, and a grass.
+An image with a grass, three cars, a fence, a road, a sky, and a tree.
+An image with a fence, a road, three cars, a sky, a tree, and a grass.
+An image with a grass, a road, a fence, three cars, a sky, and a tree.

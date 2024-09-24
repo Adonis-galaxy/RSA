@@ -8,3 +8,8 @@ The image shows a white wall with a black door frame and a brown door.
 The image shows a white wall with a black door frame and a brown door handle.
 The image shows a white wall with a closed door, a brown chair, and a black railing.
 The image shows a white wall with a black door frame, a brown door, and a white wall with a brown door frame.
+An image with a wall, a floor, a refrigerator, and a chair.
+An image with a chair, a wall, a refrigerator, and a floor.
+An image with a wall, a refrigerator, a chair, and a floor.
+An image with a floor, a refrigerator, a chair, and a wall.
+An image with a chair, a wall, a floor, and a refrigerator.

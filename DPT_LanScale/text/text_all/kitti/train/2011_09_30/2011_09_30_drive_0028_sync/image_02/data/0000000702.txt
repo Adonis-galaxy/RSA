@@ -8,3 +8,8 @@ The image shows a street with a car and a truck.
 A quiet residential street, lined with trees and houses, with a single car parked on the side.
 A narrow street lined with trees and houses, with a blue car driving down it and a white van parked on the side.
 A tree-lined street with parked cars and a white building in the background.
+An image with a house, a fence, a road, two cars, a pavement, a sky, a tree, a person, and a wall.
+An image with a house, a person, a wall, a fence, a pavement, a tree, a road, a sky, and two cars.
+An image with a person, a pavement, a wall, a sky, a house, a fence, two cars, a road, and a tree.
+An image with a road, a pavement, a house, a person, a sky, a wall, two cars, a tree, and a fence.
+An image with a person, a pavement, a house, a tree, two cars, a sky, a road, a fence, and a wall.

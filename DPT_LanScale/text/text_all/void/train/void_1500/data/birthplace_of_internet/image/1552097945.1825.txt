@@ -8,3 +8,8 @@ The image shows a classroom with a chalkboard, a desk, and a projector.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a projector.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a large whiteboard with a blue border.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a projector.
+An image with four chairs, a light, two walls, a floor, a dining, a tv, and a ceiling.
+An image with a floor, four chairs, a ceiling, two walls, a light, a dining, and a tv.
+An image with a light, four chairs, two walls, a floor, a dining, a tv, and a ceiling.
+An image with two walls, a tv, four chairs, a ceiling, a floor, a dining, and a light.
+An image with four chairs, a light, a dining, two walls, a tv, a floor, and a ceiling.

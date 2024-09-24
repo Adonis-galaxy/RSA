@@ -8,3 +8,8 @@ The image shows a room with a desk, two chairs, and a computer mouse.
 The image shows an office space with a desk, two chairs, and two power outlets on the wall.
 The image shows a small office space with a desk, two chairs, and two power outlets.
 The image shows an office space with a desk, two chairs, and a computer mouse, all set against a white wall with power outlets.
+An image with a wall, a table, a rug, a mouse, a tv, a chair, and a keyboard.
+An image with a chair, a wall, a mouse, a table, a keyboard, a rug, and a tv.
+An image with a wall, a table, a keyboard, a chair, a rug, a mouse, and a tv.
+An image with a rug, a tv, a chair, a mouse, a wall, a table, and a keyboard.
+An image with a rug, a chair, a wall, a tv, a keyboard, a mouse, and a table.

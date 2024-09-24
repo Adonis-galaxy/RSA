@@ -8,3 +8,8 @@ A dog is walking in a living room.
 The image captures a cozy living room with a large, comfortable couch, a dog, and a kitchen area in the background, all under a ceiling fan.
 The image shows a large, empty living room with a white couch, a dog, a ceiling fan, a kitchen area with a counter and a stove, and a sliding door.
 The image shows a living room with a beige sofa, a dog, a kitchen area with a counter and a stove, and a ceiling fan.
+An image with a cup, a couch, two walls, a counter, a dog, a ceiling, a chair, a floor, and a bowl.
+An image with two walls, a counter, a cup, a bowl, a couch, a ceiling, a chair, a floor, and a dog.
+An image with a counter, a chair, a floor, two walls, a cup, a dog, a bowl, a ceiling, and a couch.
+An image with a couch, a dog, a floor, a counter, a bowl, two walls, a cup, a ceiling, and a chair.
+An image with a floor, a bowl, a chair, a counter, a dog, a cup, two walls, a couch, and a ceiling.

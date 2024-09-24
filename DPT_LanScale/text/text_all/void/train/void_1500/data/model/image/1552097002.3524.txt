@@ -8,3 +8,8 @@ A model of a building and its surroundings.
 The image shows a model of a building and its surroundings, including a street and trees, displayed in a glass case.
 The image shows a small model of a cityscape, including buildings and a street, displayed behind a glass case.
 The image shows a model of a cityscape with buildings, roads, and trees, displayed behind a glass case.
+An image with a floor, a grass, a tree, and a building.
+An image with a tree, a grass, a building, and a floor.
+An image with a building, a grass, a floor, and a tree.
+An image with a floor, a tree, a grass, and a building.
+An image with a grass, a tree, a floor, and a building.

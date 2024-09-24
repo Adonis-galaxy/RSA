@@ -8,3 +8,8 @@ The image shows a tree-lined street with a clear sky overhead.
 A quiet, tree-lined street with a few parked cars, leading to a residential area.
 The image shows a tree-lined street with a few cars parked on the side, a red and white sign indicating a one-way street, and a clear sky overhead.
 A tree-lined street with a clear sky overhead, leading to a residential area with parked cars and a building.
+An image with a house, a truck, a road, a stop, eight cars, a grass, a tree, a sky, and a pavement.
+An image with eight cars, a pavement, a house, a tree, a grass, a truck, a stop, a sky, and a road.
+An image with eight cars, a tree, a grass, a road, a sky, a pavement, a house, a truck, and a stop.
+An image with a road, a pavement, eight cars, a stop, a grass, a truck, a house, a tree, and a sky.
+An image with a road, a pavement, eight cars, a truck, a grass, a stop, a sky, a tree, and a house.

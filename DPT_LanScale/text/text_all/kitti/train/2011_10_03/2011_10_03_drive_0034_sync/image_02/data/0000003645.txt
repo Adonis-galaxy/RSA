@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a car parked at the end, leading to a house with a garden.
 A narrow, tree-lined street with a car parked at the end, leading to a house with a tiled roof.
 A narrow, tree-lined street with a car parked at the end, leading to a house on the right.
+An image with a tree, a wall, a car, a road, a sky, a roof, a pavement, and a fence.
+An image with a pavement, a sky, a road, a car, a tree, a fence, a roof, and a wall.
+An image with a wall, a roof, a sky, a tree, a car, a road, a fence, and a pavement.
+An image with a wall, a road, a roof, a fence, a sky, a car, a pavement, and a tree.
+An image with a roof, a wall, a car, a sky, a road, a pavement, a tree, and a fence.

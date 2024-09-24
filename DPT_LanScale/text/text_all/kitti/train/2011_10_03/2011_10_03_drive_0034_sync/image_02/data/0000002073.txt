@@ -8,3 +8,8 @@ A red van parked on a street.
 The image captures a serene residential street scene, featuring a red Mercedes van parked on the side of the road, with a clear blue sky overhead and lush greenery surrounding the street.
 A red Mercedes van is parked on a narrow, tree-lined street.
 A red Mercedes van is parked on a tree-lined street, with a white sky overhead and a house in the background.
+An image with a sky, a tree, three cars, a grass, a road, and a pavement.
+An image with a tree, a grass, three cars, a sky, a road, and a pavement.
+An image with a road, a sky, a tree, a grass, three cars, and a pavement.
+An image with a road, a pavement, three cars, a sky, a grass, and a tree.
+An image with three cars, a road, a pavement, a grass, a tree, and a sky.

@@ -8,3 +8,8 @@ A bookstore with a large selection of books.
 The image captures the essence of a bookstore, showcasing a well-stocked shelf with a variety of books, a cardboard box on the left side, and a yellow shelf divider.
 The image shows a bookstore with a large cardboard box on the left, a shelf with books on the right, and a yellow divider in the middle.
 The image shows a bookstore with a large bookshelf filled with books, a cardboard box on the left, and a yellow shelf on the right.
+An image with eight books, a cardboard, a sky, a floor, and a shelf.
+An image with eight books, a sky, a shelf, a cardboard, and a floor.
+An image with eight books, a cardboard, a sky, a shelf, and a floor.
+An image with eight books, a sky, a floor, a cardboard, and a shelf.
+An image with a cardboard, a shelf, eight books, a floor, and a sky.

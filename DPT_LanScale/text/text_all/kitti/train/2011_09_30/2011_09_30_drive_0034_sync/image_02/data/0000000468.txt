@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a few potted plants 
 A quiet residential street, lined with houses, trees, and potted plants, leading to a cul-de-sac.
 The image shows a narrow street lined with houses, plants, and a car parked on the side.
 A narrow, tree-lined street between two-story houses, with a paved pathway and a few potted plants on the side.
+An image with a pavement, three potteds, a sky, a bench, a car, a gravel, a house, a tree, a person, and a road.
+An image with three potteds, a pavement, a sky, a car, a house, a gravel, a tree, a person, a bench, and a road.
+An image with a car, a gravel, three potteds, a tree, a pavement, a bench, a house, a road, a person, and a sky.
+An image with a tree, a pavement, a car, three potteds, a sky, a bench, a gravel, a road, a person, and a house.
+An image with three potteds, a house, a car, a bench, a person, a road, a pavement, a gravel, a sky, and a tree.

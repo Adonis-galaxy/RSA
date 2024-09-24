@@ -8,3 +8,8 @@ The image shows a street with several cars parked on the side.
 A blue car is parked on a street, surrounded by other vehicles, with a white building and trees in the background.
 The image shows a narrow street with several cars parked on both sides, a blue car in the foreground, and a white car in the background.
 A narrow street with parked cars and a white building on the right side.
+An image with five cars, a building, a road, a truck, a pavement, a tree, and a grass.
+An image with five cars, a pavement, a tree, a grass, a truck, a building, and a road.
+An image with five cars, a grass, a pavement, a truck, a building, a road, and a tree.
+An image with a truck, a grass, five cars, a pavement, a building, a road, and a tree.
+An image with a grass, a tree, five cars, a building, a road, a pavement, and a truck.

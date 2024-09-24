@@ -8,3 +8,8 @@ A long table with multiple computer monitors and keyboards.
 The image shows a long table with multiple computer monitors, keyboards, and mice, all arranged in a row.
 The image shows a long table with multiple computer monitors, keyboards, and mice, all of which are black.
 The image shows a long table with multiple computer monitors, keyboards, and mice, all arranged in a row, with black chairs on either side.
+An image with five tvs, three chairs, a table, four keyboards, two mice, a wall, and a rug.
+An image with four keyboards, five tvs, a rug, three chairs, a wall, two mice, and a table.
+An image with a rug, four keyboards, two mice, three chairs, five tvs, a wall, and a table.
+An image with two mice, four keyboards, five tvs, three chairs, a rug, a wall, and a table.
+An image with four keyboards, two mice, five tvs, three chairs, a wall, a rug, and a table.

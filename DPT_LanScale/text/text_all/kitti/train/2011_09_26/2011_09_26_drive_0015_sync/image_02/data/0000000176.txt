@@ -8,3 +8,8 @@ The image shows a street scene with a car on the road.
 The image captures a typical day on a suburban street, with a mix of vehicles, pedestrians, and urban infrastructure.
 The image shows a wide, tree-lined street with a train track running parallel to it, lined with parked cars and traffic lights. The street is mostly empty, with only a few cars and a bicycle visible.
 The image depicts a wide, tree-lined road with multiple lanes, a railway crossing, traffic lights, and a clear blue sky.
+An image with four traffics, ten cars, a house, two people, a tree, a grass, a fence, a railroad, and a road.
+An image with four traffics, two people, a railroad, ten cars, a tree, a road, a grass, a fence, and a house.
+An image with ten cars, a house, a tree, two people, a fence, four traffics, a grass, a road, and a railroad.
+An image with a fence, ten cars, a grass, a road, four traffics, two people, a railroad, a house, and a tree.
+An image with two people, four traffics, ten cars, a tree, a house, a road, a grass, a railroad, and a fence.

@@ -8,3 +8,8 @@ A white and blue printer in a room.
 The image shows a white printer and a blue scanner sitting next to each other on a desk.
 The image shows a small white printer on a desk next to a larger blue printer.
 The image shows a workspace with a printer, a computer monitor, and a keyboard on a desk.
+An image with a floor, a light, a paper, a table, a scissors, and a wall.
+An image with a table, a paper, a scissors, a floor, a wall, and a light.
+An image with a floor, a paper, a light, a wall, a scissors, and a table.
+An image with a light, a wall, a table, a paper, a scissors, and a floor.
+An image with a light, a floor, a scissors, a paper, a table, and a wall.

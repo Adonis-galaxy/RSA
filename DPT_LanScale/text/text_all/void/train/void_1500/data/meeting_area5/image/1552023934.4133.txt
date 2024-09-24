@@ -8,3 +8,8 @@ White table with two chairs.
 The image shows a white table with two chairs, one on each side, and a small white sign on the table.
 The image shows a white table with two chairs, each with four legs, placed on a gray carpeted floor.
 The image shows a white table with two chairs, positioned in a room with a carpeted floor.
+An image with three chairs, a door, a dining, a wall, a frisbee, and a floor.
+An image with a frisbee, a door, a dining, three chairs, a wall, and a floor.
+An image with a frisbee, three chairs, a wall, a floor, a dining, and a door.
+An image with a dining, three chairs, a frisbee, a wall, a floor, and a door.
+An image with a frisbee, three chairs, a wall, a floor, a door, and a dining.

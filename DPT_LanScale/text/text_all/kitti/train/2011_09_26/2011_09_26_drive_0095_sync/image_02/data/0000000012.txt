@@ -8,3 +8,8 @@ The image shows a narrow city street with parked cars on both sides.
 The image captures a quaint, narrow street lined with parked cars, showcasing a typical day in a European town with its historic architecture and charming atmosphere.
 The image shows a narrow street lined with parked cars, with a mix of brick and stone buildings on either side, and trees with autumn foliage overhead.
 The image captures a narrow, tree-lined street in a European city, with parked cars on both sides and a mix of old and new buildings.
+An image with twelve cars, a fence, a sky, a truck, a tree, a road, a house, and a pavement.
+An image with a truck, twelve cars, a house, a sky, a pavement, a fence, a road, and a tree.
+An image with a sky, twelve cars, a fence, a truck, a pavement, a house, a road, and a tree.
+An image with a road, twelve cars, a fence, a house, a sky, a truck, a pavement, and a tree.
+An image with twelve cars, a tree, a house, a fence, a sky, a pavement, a truck, and a road.

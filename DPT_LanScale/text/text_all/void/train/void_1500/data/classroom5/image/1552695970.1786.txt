@@ -8,3 +8,8 @@ The image shows a room with a desk and chairs.
 The image shows a computer lab with a desk, two chairs, and a keyboard.
 The image shows a small office space with a desk, two chairs, and a carpeted floor.
 The image shows a computer lab with a desk, two chairs, and a carpeted floor.
+An image with three chairs, a window, a tv, a mouse, two keyboards, a rug, a table, and a wall.
+An image with three chairs, a tv, two keyboards, a table, a rug, a wall, a window, and a mouse.
+An image with three chairs, a tv, a window, a rug, a wall, two keyboards, a table, and a mouse.
+An image with three chairs, two keyboards, a wall, a rug, a mouse, a tv, a window, and a table.
+An image with a tv, a wall, three chairs, a rug, a table, a window, two keyboards, and a mouse.

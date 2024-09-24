@@ -8,3 +8,8 @@ A wall on the side of a building.
 The image captures a simple, everyday scene of a closet with clothes hanging on a rack, adjacent to a kitchen area with a counter and a stove.
 The image shows a small closet with a white door, containing a few clothes hanging on a rack.
 The image shows a cluttered closet with a white door, containing various items of clothing hanging on a rack, and a view into a kitchen area with a stove and cabinets.
+An image with a cabinet, a floor, a wall, a ceiling, and a oven.
+An image with a floor, a wall, a ceiling, a oven, and a cabinet.
+An image with a floor, a cabinet, a ceiling, a oven, and a wall.
+An image with a wall, a floor, a oven, a ceiling, and a cabinet.
+An image with a cabinet, a wall, a oven, a floor, and a ceiling.

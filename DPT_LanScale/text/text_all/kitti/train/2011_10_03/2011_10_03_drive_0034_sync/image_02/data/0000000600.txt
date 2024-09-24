@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a serene residential street, lined with trees and parked cars, under a clear blue sky.
 The image shows a narrow, tree-lined street with parked cars on the side, leading to a building with a white roof.
 The image depicts a tree-lined street with parked cars, a sidewalk, and a building on the left side, leading to a clear blue sky.
+An image with a house, a dirt, five cars, a sky, a tree, and a road.
+An image with a dirt, five cars, a sky, a road, a tree, and a house.
+An image with five cars, a road, a house, a dirt, a sky, and a tree.
+An image with five cars, a sky, a house, a road, a tree, and a dirt.
+An image with a sky, five cars, a road, a house, a tree, and a dirt.

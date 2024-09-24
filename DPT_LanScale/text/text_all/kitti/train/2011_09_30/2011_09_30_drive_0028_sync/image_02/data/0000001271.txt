@@ -8,3 +8,8 @@ The image shows a street with a red car parked on the side.
 A quiet residential street, lined with parked cars and trees, under a bright sunny sky.
 A narrow street lined with trees and parked cars, leading to a row of white buildings.
 A tree-lined street with parked cars and apartment buildings.
+An image with three cars, a grass, a house, a pavement, a bicycle, a sky, a tree, and a road.
+An image with a house, three cars, a tree, a road, a grass, a bicycle, a sky, and a pavement.
+An image with a bicycle, a grass, a tree, a house, a sky, a road, three cars, and a pavement.
+An image with a sky, a road, a tree, a house, a bicycle, three cars, a pavement, and a grass.
+An image with a tree, three cars, a pavement, a grass, a bicycle, a road, a house, and a sky.

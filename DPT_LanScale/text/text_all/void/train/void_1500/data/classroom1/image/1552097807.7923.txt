@@ -8,3 +8,8 @@ A white table with an orange cone on it.
 A white table with a single orange cone on it, in a room with a blue chair.
 A white plastic table with a single orange cone on it, located in a room with a blue chair and a beige wall.
 A white folding table with a single orange cone on it, sitting on a white tiled floor.
+An image with a surfboard, two walls, a stairs, a chair, and a floor.
+An image with two walls, a surfboard, a chair, a floor, and a stairs.
+An image with a floor, a stairs, a surfboard, two walls, and a chair.
+An image with two walls, a chair, a floor, a surfboard, and a stairs.
+An image with a floor, a chair, two walls, a surfboard, and a stairs.

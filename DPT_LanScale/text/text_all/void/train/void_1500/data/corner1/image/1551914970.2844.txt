@@ -8,3 +8,8 @@ A black and white office chair.
 A black desk with a vision sign, a blue box, and a white sign with a date and time.
 The image shows a black desk with a white sign that says "RESERVED" and a blue box of tissues on it.
 The image shows a black desk with a computer monitor, keyboard, and mouse on it, along with a blue box of tissues and a white sign with the word "RESERVED" on it.
+An image with a table, two chairs, a cardboard, a window, a door, a wall, and a paper.
+An image with a table, a window, a door, two chairs, a cardboard, a paper, and a wall.
+An image with a cardboard, a wall, a window, two chairs, a door, a table, and a paper.
+An image with a door, a paper, a cardboard, a table, a window, two chairs, and a wall.
+An image with a wall, two chairs, a window, a paper, a table, a door, and a cardboard.

@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 A quiet residential street, with a parked car and a garage, under a clear blue sky.
 The image shows a narrow street between two buildings, with a car parked on the right side and a tree on the left side.
 A narrow, tree-lined street leads to a row of garages and houses, with a car parked in front of a garage.
+An image with a tree, two cars, a wall, a road, a sky, a building, a fence, and a pavement.
+An image with a tree, two cars, a sky, a wall, a pavement, a fence, a road, and a building.
+An image with a road, two cars, a pavement, a building, a fence, a tree, a wall, and a sky.
+An image with a fence, a road, two cars, a building, a tree, a sky, a wall, and a pavement.
+An image with a fence, a wall, a tree, a road, two cars, a sky, a building, and a pavement.

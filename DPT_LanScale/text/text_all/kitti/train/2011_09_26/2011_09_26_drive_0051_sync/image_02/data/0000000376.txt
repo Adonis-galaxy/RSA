@@ -8,3 +8,8 @@ The image shows a street scene with vehicles and trees.
 The image captures a moment of urban life, featuring a street scene with vehicles, trees, and a clear sky.
 A large white van is driving down a tree-lined street, passing a smaller white van and a truck, with a clear blue sky overhead.
 A busy street scene with a mix of vehicles, including vans and cars, driving on a road with a median strip and lined with trees and buildings.
+An image with twelve cars, a road, a building, a tree, a truck, a grass, two people, a bus, and a sky.
+An image with twelve cars, a tree, two people, a building, a truck, a bus, a grass, a road, and a sky.
+An image with twelve cars, two people, a grass, a tree, a road, a sky, a building, a bus, and a truck.
+An image with a road, twelve cars, a bus, two people, a building, a sky, a tree, a grass, and a truck.
+An image with a truck, a bus, twelve cars, a grass, a sky, two people, a tree, a road, and a building.

@@ -8,3 +8,8 @@ The image shows a narrow street with cars parked on both sides.
 The image captures a typical urban scene with a narrow street lined by parked cars and buildings, showcasing the essence of city life with its density and limited space.
 The image shows a narrow street lined with parked cars, with a few vehicles in motion, and apartment buildings on either side.
 A narrow street between two-story buildings, with parked cars and a few moving vehicles, leading to a dead end.
+An image with a stop, a bus, five cars, two people, a sky, a tree, a grass, a house, and a road.
+An image with five cars, a stop, a bus, two people, a sky, a tree, a house, a road, and a grass.
+An image with a sky, a bus, a grass, five cars, a tree, two people, a road, a house, and a stop.
+An image with five cars, a sky, a stop, two people, a road, a grass, a tree, a bus, and a house.
+An image with a stop, a sky, five cars, a bus, two people, a tree, a road, a grass, and a house.

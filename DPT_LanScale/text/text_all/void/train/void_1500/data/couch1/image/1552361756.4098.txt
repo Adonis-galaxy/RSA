@@ -8,3 +8,8 @@ A black couch with a white ball on it.
 A black couch with a white ball and a pile of books on it.
 A black couch with a white ball on it, a gray jacket on the armrest, and a pile of books and papers on the seat.
 A black couch with a white ball on it, surrounded by books and a television hanging on the wall.
+An image with five books, a wall, a table, a couch, a sports, and a tv.
+An image with a couch, a wall, a table, five books, a sports, and a tv.
+An image with a wall, a couch, five books, a sports, a table, and a tv.
+An image with a sports, a tv, five books, a wall, a table, and a couch.
+An image with five books, a couch, a sports, a wall, a table, and a tv.

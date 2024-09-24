@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic lights.
 The image captures a serene, empty road with a few cars, flanked by trees and lined with traffic lights, signifying a quiet, possibly rural or suburban area.
 The image shows a wide, empty road with a few cars, a traffic light, and a pedestrian crossing sign.
 The image depicts a wide, empty road with a clear view of the horizon, flanked by trees and lined with traffic lights and signs.
+An image with five cars, four traffics, a tree, a building, a pavement, a grass, a bus, a road, and a sky.
+An image with five cars, a building, four traffics, a grass, a pavement, a sky, a tree, a road, and a bus.
+An image with four traffics, a bus, a sky, five cars, a grass, a road, a tree, a pavement, and a building.
+An image with a sky, four traffics, five cars, a grass, a road, a tree, a pavement, a bus, and a building.
+An image with five cars, a bus, four traffics, a tree, a grass, a building, a road, a sky, and a pavement.

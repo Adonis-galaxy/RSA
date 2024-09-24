@@ -8,3 +8,8 @@ A model of a building on a table.
 A model of a building on a table.
 A small model of a building on a table.
 The image shows a model of a building on a table, with a street and sidewalks surrounding it.
+An image with a floor, a building, and a wall.
+An image with a building, a floor, and a wall.
+An image with a floor, a wall, and a building.
+An image with a floor, a building, and a wall.
+An image with a wall, a floor, and a building.

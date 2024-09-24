@@ -8,3 +8,8 @@ The image shows a busy street with cars and a truck driving on it.
 A busy street scene with a mix of vehicles and a green fence.
 A busy highway with multiple cars, a truck, and a fence, all under a clear blue sky.
 A busy highway with multiple lanes, a green divider, and a white van driving on the right side.
+An image with six cars, a road, a grass, a tree, a sky, a pavement, a truck, and a fence.
+An image with a fence, a truck, a pavement, a road, six cars, a grass, a tree, and a sky.
+An image with a road, six cars, a sky, a grass, a fence, a truck, a tree, and a pavement.
+An image with a truck, a sky, a fence, six cars, a road, a tree, a grass, and a pavement.
+An image with six cars, a truck, a fence, a sky, a tree, a road, a pavement, and a grass.

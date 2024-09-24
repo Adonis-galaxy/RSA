@@ -8,3 +8,8 @@ The image shows an empty room with a row of chairs and a counter.
 The image captures an empty, modern lobby with a row of gray chairs, a counter with a TV, and a hallway leading to other rooms.
 The image shows an empty room with a long row of black chairs, a large screen on the right side, a counter with a trash can, and a doorway leading to another room.
 The image shows an empty room with a long corridor, multiple seating areas, and a counter with a television.
+An image with five chairs, a door, a ceiling, two walls, a rug, a window, a table, and a tv.
+An image with five chairs, a table, a door, two walls, a ceiling, a window, a tv, and a rug.
+An image with two walls, a window, five chairs, a tv, a ceiling, a door, a table, and a rug.
+An image with five chairs, a window, a tv, a table, a ceiling, a door, two walls, and a rug.
+An image with five chairs, a door, a window, a table, two walls, a rug, a tv, and a ceiling.

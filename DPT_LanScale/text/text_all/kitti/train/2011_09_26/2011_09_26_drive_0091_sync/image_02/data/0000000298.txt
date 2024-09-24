@@ -8,3 +8,8 @@ The image shows a narrow street with a train track running down the middle.
 The image captures a bustling city street, with a man standing on the sidewalk, observing the scene, while a train runs on tracks adjacent to the street, and people walk along the sidewalk, adding to the lively atmosphere.
 A man stands on a sidewalk next to a street with a train track, surrounded by buildings and people.
 A narrow, cobblestone street with a train track running down the middle, flanked by buildings and lined with people and bicycles.
+An image with eight people, a tree, a pavement, a sky, a handbag, a railroad, a building, and three bicycles.
+An image with three bicycles, a tree, eight people, a pavement, a handbag, a building, a sky, and a railroad.
+An image with three bicycles, a sky, eight people, a railroad, a tree, a handbag, a building, and a pavement.
+An image with three bicycles, eight people, a railroad, a building, a pavement, a handbag, a sky, and a tree.
+An image with eight people, a pavement, three bicycles, a sky, a handbag, a building, a railroad, and a tree.

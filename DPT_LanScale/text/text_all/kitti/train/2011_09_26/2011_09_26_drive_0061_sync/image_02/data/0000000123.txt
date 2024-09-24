@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street lined with parked cars, with a mix of white and blue vehicles, and a few trees providing shade.
 The image shows a narrow street lined with parked cars, with a few larger vehicles and a white car in the foreground, and a row of houses with red roofs in the background.
 A narrow street lined with parked cars and buildings, with a mix of white and blue vehicles, and a clear blue sky overhead.
+An image with a road, twelve cars, a tree, a wall, a pavement, a truck, a grass, a sky, and a house.
+An image with a road, twelve cars, a grass, a sky, a pavement, a tree, a house, a wall, and a truck.
+An image with a wall, twelve cars, a sky, a grass, a truck, a pavement, a tree, a house, and a road.
+An image with twelve cars, a house, a sky, a tree, a wall, a truck, a pavement, a grass, and a road.
+An image with twelve cars, a tree, a truck, a sky, a grass, a house, a wall, a road, and a pavement.

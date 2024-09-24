@@ -8,3 +8,8 @@ A car driving down a tree-lined street.
 A solitary car travels down a tree-lined street, with a clear path ahead, under a bright sunny sky.
 A car is driving down a tree-lined street, with a sidewalk on the left and a fence on the right.
 A tree-lined street with a car driving down it, surrounded by a park-like setting.
+An image with a sky, a grass, a tree, five cars, a road, and a pavement.
+An image with a tree, five cars, a grass, a pavement, a sky, and a road.
+An image with a tree, a pavement, five cars, a grass, a road, and a sky.
+An image with a grass, a road, five cars, a tree, a sky, and a pavement.
+An image with five cars, a sky, a pavement, a grass, a tree, and a road.

@@ -8,3 +8,8 @@ A person standing next to a table with a laptop on it.
 A person is standing next to a table with a laptop, a box, and a cart with various items.
 A person is standing next to a table with two laptops, a red box, and a black cart with various items on it.
 A person is standing at a desk with a laptop, a bag of trash, and a cardboard box on it.
+An image with a cup, a person, a table, two laptops, a window, a wall, a book, and a floor.
+An image with a wall, a window, a table, a book, a cup, a floor, a person, and two laptops.
+An image with a wall, a window, a cup, a table, a person, two laptops, a book, and a floor.
+An image with two laptops, a floor, a window, a person, a cup, a wall, a book, and a table.
+An image with two laptops, a cup, a floor, a wall, a window, a table, a person, and a book.

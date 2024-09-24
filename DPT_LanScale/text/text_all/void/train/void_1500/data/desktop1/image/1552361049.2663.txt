@@ -8,3 +8,8 @@ A computer desk with a keyboard, mouse, monitor, and a sombrero.
 A computer desk with a keyboard, mouse, and a sombrero.
 A computer desk with a keyboard, mouse, monitor, and a sombrero.
 A computer desk with a keyboard, mouse, monitor, and a sombrero.
+An image with a tv, a remote, a mouse, a keyboard, a floor, a table, a cardboard, a wall, and a chair.
+An image with a tv, a wall, a cardboard, a keyboard, a floor, a mouse, a table, a chair, and a remote.
+An image with a tv, a remote, a cardboard, a table, a floor, a keyboard, a chair, a wall, and a mouse.
+An image with a tv, a remote, a chair, a keyboard, a wall, a table, a mouse, a floor, and a cardboard.
+An image with a floor, a chair, a cardboard, a tv, a mouse, a wall, a table, a keyboard, and a remote.

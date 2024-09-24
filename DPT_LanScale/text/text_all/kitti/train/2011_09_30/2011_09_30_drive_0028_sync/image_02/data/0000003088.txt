@@ -8,3 +8,8 @@ A woman standing on a sidewalk.
 A woman stands on a sunlit path between two rows of hedges, with a white building and trees in the background.
 A woman stands on a narrow, sunlit path between two rows of houses, with a dog walking ahead of her.
 A woman stands on a narrow, sunlit path between two rows of houses, with a dog walking ahead of her.
+An image with a dog, four cars, two people, a pavement, a sky, a road, a tree, and a house.
+An image with four cars, a dog, two people, a house, a road, a pavement, a tree, and a sky.
+An image with a dog, four cars, two people, a road, a house, a pavement, a sky, and a tree.
+An image with four cars, two people, a sky, a dog, a road, a tree, a house, and a pavement.
+An image with a road, a dog, four cars, a house, two people, a pavement, a tree, and a sky.

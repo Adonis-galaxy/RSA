@@ -8,3 +8,8 @@ The image shows a collection of green plants growing on a wooden deck.
 The image captures a lush green plant growing on a wooden deck, with a brick wall in the background.
 The image shows a large green plant growing on a wooden deck next to a brick wall.
 The image shows a collection of green plants growing in a row on a wooden surface, with a brick wall in the background.
+An image with a potted, a floor, two walls, and a window.
+An image with a potted, a window, two walls, and a floor.
+An image with a floor, a window, two walls, and a potted.
+An image with a window, two walls, a potted, and a floor.
+An image with a potted, two walls, a floor, and a window.

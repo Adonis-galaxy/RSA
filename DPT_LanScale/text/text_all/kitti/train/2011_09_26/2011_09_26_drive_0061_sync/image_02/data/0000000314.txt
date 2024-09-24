@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a brick wall.
 A narrow, tree-lined street with parked cars and a garage on the left, leading to a residential area.
 The image shows a narrow, tree-lined street with parked cars, a brick wall, and a red garage door.
 A narrow, tree-lined street with parked cars and a brick wall on one side, leading to a red garage.
+An image with five cars, two walls, a roof, a fence, a tree, a door, a sky, a pavement, and a road.
+An image with a door, a tree, a pavement, two walls, five cars, a roof, a sky, a fence, and a road.
+An image with two walls, a fence, a door, a roof, a road, five cars, a tree, a pavement, and a sky.
+An image with five cars, two walls, a roof, a door, a road, a pavement, a tree, a fence, and a sky.
+An image with a sky, a fence, a pavement, a tree, five cars, a roof, a door, two walls, and a road.

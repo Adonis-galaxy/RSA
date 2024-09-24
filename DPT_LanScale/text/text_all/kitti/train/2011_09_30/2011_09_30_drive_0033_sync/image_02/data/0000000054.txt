@@ -8,3 +8,8 @@ A man walking on a sidewalk.
 A man walking on a path beside a tree-lined road, with a clear sky overhead.
 A man walking on a sidewalk next to a tree-lined road.
 A man walks on a paved path alongside a tree-lined road, with a clear sky overhead.
+An image with a person, a pavement, a road, a tree, a grass, and a sky.
+An image with a road, a pavement, a sky, a tree, a grass, and a person.
+An image with a person, a road, a sky, a grass, a pavement, and a tree.
+An image with a grass, a road, a sky, a tree, a person, and a pavement.
+An image with a person, a tree, a pavement, a grass, a sky, and a road.

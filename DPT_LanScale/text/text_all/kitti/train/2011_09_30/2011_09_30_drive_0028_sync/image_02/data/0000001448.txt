@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building in the background
 A quiet residential street, lined with parked cars and shaded by trees, with a white van parked in front of a house.
 A narrow street lined with parked cars and trees, with a white van driving down the road.
 A row of parked cars on a tree-lined street, with a white van leading the line and a white car following it.
+An image with four cars, a tree, a grass, a truck, a house, and a road.
+An image with four cars, a road, a tree, a house, a grass, and a truck.
+An image with a tree, a truck, four cars, a road, a grass, and a house.
+An image with a road, four cars, a truck, a house, a tree, and a grass.
+An image with four cars, a house, a tree, a grass, a road, and a truck.

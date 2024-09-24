@@ -8,3 +8,8 @@ The image shows a city street with a train track running down the middle.
 The image captures a bustling city street scene, with a tram in motion, pedestrians walking along the sidewalk, and cyclists sharing the road.
 A bustling city street with a tram, pedestrians, cyclists, benches, and a tram stop.
 A bustling city street with a tram, pedestrians, cyclists, and benches, all under a clear sky.
+An image with four benches, three bicycles, sixteen people, a pavement, a railroad, a traffic, a umbrella, a tree, a chair, a car, a building, a truck, a roof, and a sky.
+An image with sixteen people, a traffic, a umbrella, a railroad, a car, a sky, a tree, four benches, a pavement, three bicycles, a roof, a chair, a truck, and a building.
+An image with sixteen people, three bicycles, four benches, a sky, a traffic, a car, a pavement, a truck, a railroad, a building, a chair, a umbrella, a roof, and a tree.
+An image with a pavement, three bicycles, sixteen people, a railroad, a tree, four benches, a roof, a traffic, a sky, a chair, a building, a truck, a car, and a umbrella.
+An image with three bicycles, sixteen people, a building, a chair, a truck, a tree, a railroad, four benches, a pavement, a umbrella, a car, a traffic, a roof, and a sky.

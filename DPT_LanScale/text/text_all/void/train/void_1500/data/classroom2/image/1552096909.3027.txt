@@ -8,3 +8,8 @@ A row of black and brown chairs.
 The image shows a row of black and brown chairs with wooden armrests, arranged in a classroom setting.
 The image shows a row of black and brown chairs with wooden armrests and backs, arranged on a tiled floor.
 The image shows a row of black chairs with wooden armrests and backs, arranged in a classroom setting with a tiled floor and a white wall in the background.
+An image with eight chairs, a wall, a bench, and a floor.
+An image with a bench, eight chairs, a wall, and a floor.
+An image with a wall, eight chairs, a floor, and a bench.
+An image with eight chairs, a bench, a floor, and a wall.
+An image with eight chairs, a bench, a wall, and a floor.

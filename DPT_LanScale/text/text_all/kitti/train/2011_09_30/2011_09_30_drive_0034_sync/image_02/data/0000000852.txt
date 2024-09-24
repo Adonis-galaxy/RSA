@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a clear view of a parked car, a bus, and a building, all under a bright sunny sky.
 The image shows a quiet residential street with a few parked cars, a bus, and a fire hydrant, all under a clear blue sky.
 The image depicts a quiet residential street with a mix of trees, buildings, and parked cars, leading to a crosswalk and a bus stop.
+An image with three cars, a bus, a sky, a tree, a house, and a road.
+An image with three cars, a house, a bus, a road, a tree, and a sky.
+An image with a bus, three cars, a road, a sky, a house, and a tree.
+An image with a bus, three cars, a tree, a sky, a house, and a road.
+An image with a road, three cars, a house, a sky, a tree, and a bus.

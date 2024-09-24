@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a typical day in a residential area, with parked cars lining the street, a white wall separating the road from the houses, and trees providing a touch of greenery.
 The image shows a narrow street lined with parked cars, a white wall, and houses with red roofs.
 A narrow street in a residential area with parked cars on both sides, a white wall, and houses with red roofs.
+An image with ten cars, a house, a pavement, a wall, a sky, a roof, a road, and a tree.
+An image with ten cars, a wall, a road, a tree, a house, a roof, a pavement, and a sky.
+An image with a road, a house, ten cars, a wall, a roof, a sky, a pavement, and a tree.
+An image with ten cars, a pavement, a house, a sky, a tree, a roof, a road, and a wall.
+An image with a sky, a tree, a pavement, ten cars, a house, a road, a wall, and a roof.

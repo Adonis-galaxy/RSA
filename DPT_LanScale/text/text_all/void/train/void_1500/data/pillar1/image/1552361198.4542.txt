@@ -8,3 +8,8 @@ A roll of paper leaning against a box.
 A large roll of paper leaning against a cardboard box in a room.
 A large roll of paper leaning against a cardboard box in a room.
 A large roll of paper leaning against a cardboard box in a room with a door and a checkered object.
+An image with a paper, a cardboard, a floor, a tv, a door, and a wall.
+An image with a paper, a wall, a tv, a floor, a door, and a cardboard.
+An image with a door, a cardboard, a wall, a tv, a floor, and a paper.
+An image with a door, a tv, a paper, a wall, a floor, and a cardboard.
+An image with a door, a wall, a tv, a paper, a cardboard, and a floor.

@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a bustling city street, with a clear sky overhead, lined with trees and buildings, where people are seen walking and riding bicycles, and cars are parked or moving along the road.
 The image shows a wide, tree-lined street with a few cars and bicycles, and a clear sky overhead.
 The image captures a bustling city street, lined with trees and buildings, where people are seen walking and riding bicycles, under a clear blue sky.
+An image with eight people, four bicycles, three cars, two traffics, a tree, a sky, a road, and a pavement.
+An image with eight people, a sky, three cars, two traffics, a tree, a road, four bicycles, and a pavement.
+An image with eight people, four bicycles, three cars, a sky, a pavement, two traffics, a tree, and a road.
+An image with a road, eight people, three cars, two traffics, four bicycles, a tree, a pavement, and a sky.
+An image with eight people, a pavement, three cars, a sky, four bicycles, a tree, two traffics, and a road.

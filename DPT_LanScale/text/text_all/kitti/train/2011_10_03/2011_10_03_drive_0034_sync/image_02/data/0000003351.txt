@@ -8,3 +8,8 @@ The image shows a quiet residential street with a white van parked on the side o
 A quiet residential street, with a parked white van and a solitary trash can, under a clear blue sky.
 A narrow street with a white van parked on the side, a white trash can, and a brick wall.
 A quiet residential street with parked cars, a brick wall, and a white trash can.
+An image with a wall, a road, a pavement, a car, a sky, a truck, a door, a grass, a tree, and a house.
+An image with a wall, a truck, a car, a sky, a grass, a tree, a house, a pavement, a road, and a door.
+An image with a truck, a wall, a door, a tree, a pavement, a grass, a house, a car, a sky, and a road.
+An image with a car, a door, a grass, a pavement, a tree, a road, a house, a wall, a sky, and a truck.
+An image with a grass, a house, a tree, a car, a door, a sky, a truck, a road, a pavement, and a wall.

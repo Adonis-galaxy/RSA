@@ -8,3 +8,8 @@ A white microwave on a counter.
 The image shows a kitchenette with a white microwave on a countertop, and a white toaster oven on a shelf above the microwave.
 The image shows a small kitchen with orange cabinets, a white microwave, and a silver toaster oven.
 The image shows a small kitchenette with an orange countertop, a white microwave, and a silver toaster oven.
+An image with a cabinet, a paper, a towel, a floor, two microwaves, and a wall.
+An image with a cabinet, a floor, two microwaves, a wall, a towel, and a paper.
+An image with a towel, a paper, two microwaves, a wall, a floor, and a cabinet.
+An image with a paper, a floor, two microwaves, a cabinet, a wall, and a towel.
+An image with a floor, a cabinet, a towel, two microwaves, a wall, and a paper.

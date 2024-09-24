@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few trees providing a sense of tranquility.
 The image shows a residential street with parked cars, a sidewalk, and houses on both sides. The street is lined with trees and lamps, and it appears to be a sunny day.
 The image depicts a residential street with a row of houses, a paved road, and a sidewalk, with parked cars and trees lining the street.
+An image with seven cars, a grass, a house, a road, a fence, a tree, a truck, and a pavement.
+An image with a pavement, seven cars, a grass, a road, a tree, a house, a fence, and a truck.
+An image with seven cars, a pavement, a truck, a fence, a house, a grass, a road, and a tree.
+An image with a tree, a grass, a fence, seven cars, a road, a house, a truck, and a pavement.
+An image with a road, seven cars, a pavement, a fence, a truck, a grass, a house, and a tree.

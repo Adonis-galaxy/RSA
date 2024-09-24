@@ -8,3 +8,8 @@ A marble table with four chairs and three vases with grass.
 The image shows a table with three vases containing grass, surrounded by four chairs, with a door and a window in the background.
 The image shows a large, rectangular table with three small vases containing grass placed on it, surrounded by four chairs.
 A long, rectangular table with a marble top, surrounded by four chairs, each holding a small potted plant.
+An image with a wall, six chairs, a door, a dining, and three potteds.
+An image with three potteds, six chairs, a dining, a wall, and a door.
+An image with three potteds, six chairs, a door, a dining, and a wall.
+An image with a door, a wall, six chairs, three potteds, and a dining.
+An image with a dining, six chairs, three potteds, a wall, and a door.

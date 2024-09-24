@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white truck.
 The image captures a residential street scene with parked cars, a truck, and a white garage, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and trucks, with a white building on the left and a fence on the right.
 A narrow street lined with parked cars and houses, leading to a white garage.
+An image with a building, a pavement, eight cars, a wall, a fence, a grass, a sky, a tree, a roof, a truck, and a road.
+An image with a road, a tree, eight cars, a wall, a roof, a grass, a truck, a sky, a pavement, a building, and a fence.
+An image with a pavement, eight cars, a sky, a tree, a building, a road, a wall, a truck, a roof, a fence, and a grass.
+An image with eight cars, a fence, a roof, a road, a building, a truck, a sky, a wall, a tree, a grass, and a pavement.
+An image with eight cars, a tree, a grass, a wall, a fence, a truck, a sky, a roof, a pavement, a road, and a building.

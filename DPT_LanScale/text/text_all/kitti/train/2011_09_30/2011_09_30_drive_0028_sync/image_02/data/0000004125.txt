@@ -8,3 +8,8 @@ The image shows a street with a blue truck parked on the side and several cars p
 A blue truck parked on the side of a tree-lined street, with a red car parked in front of it, and a clear sky overhead.
 A large blue truck is parked on the side of a tree-lined street, with several cars parked further down the road.
 A tree-lined street with parked cars and a blue truck, leading to a residential area.
+An image with seven cars, a sky, a road, a pavement, a tree, a truck, and a grass.
+An image with seven cars, a pavement, a road, a grass, a truck, a tree, and a sky.
+An image with seven cars, a pavement, a truck, a sky, a tree, a grass, and a road.
+An image with seven cars, a sky, a tree, a truck, a pavement, a grass, and a road.
+An image with a truck, seven cars, a tree, a pavement, a sky, a grass, and a road.

@@ -8,3 +8,8 @@ A blurry image of a kitchen with a blue counter and a white door.
 The image captures a blurry view of a kitchen with a refrigerator, a blue counter, and a glass door.
 The image shows a blurry view of a kitchen with a blue counter, a white refrigerator, and a white door with a glass panel.
 The image shows a blurry view of a kitchen with a blue countertop, a white refrigerator, and a white door with a glass panel.
+An image with a light, a refrigerator, a floor, a window, a cabinet, and a wall.
+An image with a refrigerator, a wall, a window, a floor, a cabinet, and a light.
+An image with a floor, a window, a cabinet, a light, a wall, and a refrigerator.
+An image with a refrigerator, a wall, a light, a floor, a window, and a cabinet.
+An image with a floor, a window, a light, a refrigerator, a cabinet, and a wall.

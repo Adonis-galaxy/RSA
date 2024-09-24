@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A cyclist rides down a quiet residential street, passing parked cars and a pedestrian, with a clear sky overhead.
 A man riding a bicycle down a narrow street between parked cars.
 A man rides a bicycle down a narrow, tree-lined street between parked cars.
+An image with five cars, a sky, a bicycle, a tree, a road, a person, and a house.
+An image with a tree, a person, five cars, a road, a house, a sky, and a bicycle.
+An image with a sky, five cars, a tree, a bicycle, a road, a person, and a house.
+An image with a road, a bicycle, a sky, five cars, a person, a house, and a tree.
+An image with five cars, a bicycle, a person, a tree, a sky, a road, and a house.

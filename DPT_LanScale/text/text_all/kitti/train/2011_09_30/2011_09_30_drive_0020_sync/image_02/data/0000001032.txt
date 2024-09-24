@@ -8,3 +8,8 @@ A white van parked on the side of a road.
 A white van parked on the side of a street, with a blue and green advertisement on its side, is next to a building with a green roof and a tree in front of it.
 A large white van is parked on the side of a narrow street, with a blue and green truck parked behind it.
 A white van is parked on the side of a street, adjacent to a sidewalk and a building, with a tree and a fence nearby.
+An image with six cars, a fence, a road, a house, a truck, a grass, a building, and a tree.
+An image with a house, a road, six cars, a building, a grass, a tree, a truck, and a fence.
+An image with a tree, six cars, a grass, a road, a house, a truck, a building, and a fence.
+An image with six cars, a building, a house, a grass, a truck, a fence, a tree, and a road.
+An image with a fence, six cars, a grass, a building, a house, a truck, a road, and a tree.

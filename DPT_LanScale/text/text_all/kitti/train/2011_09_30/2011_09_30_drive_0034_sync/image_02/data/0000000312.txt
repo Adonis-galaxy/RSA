@@ -8,3 +8,8 @@ A narrow street between houses.
 A narrow, sunlit alleyway between houses, lined with trees and bushes, leading to a white building with a black roof.
 The image shows a narrow, sunlit alleyway between two-story houses, with a few parked cars and a truck, a potted plant, and a garbage can visible.
 A narrow, tree-lined street in a residential area, with houses on both sides, leads to a white building with a black roof.
+An image with a tree, a truck, a sky, a house, a car, a potted, and a pavement.
+An image with a tree, a potted, a house, a sky, a car, a pavement, and a truck.
+An image with a sky, a truck, a house, a car, a pavement, a tree, and a potted.
+An image with a potted, a house, a tree, a car, a sky, a truck, and a pavement.
+An image with a truck, a sky, a tree, a car, a pavement, a house, and a potted.

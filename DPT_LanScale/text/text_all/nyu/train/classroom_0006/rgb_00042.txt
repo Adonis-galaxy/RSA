@@ -8,3 +8,8 @@ The image shows a classroom with tables and chairs.
 The image captures a well-lit classroom with a large table surrounded by chairs, a blue counter, and a bulletin board, all set against a backdrop of windows and a tree.
 The image shows a classroom with a large table and several chairs, a blue counter, a window, and a bulletin board with children's drawings.
 The image shows a classroom with a large table surrounded by chairs, a blue counter, and a bulletin board with a colorful border.
+An image with a floor, a window, five chairs, three dinings, a table, and a wall.
+An image with a floor, five chairs, three dinings, a table, a wall, and a window.
+An image with five chairs, three dinings, a floor, a table, a window, and a wall.
+An image with three dinings, five chairs, a window, a wall, a table, and a floor.
+An image with five chairs, a wall, a floor, a window, a table, and three dinings.

@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a typical day on a suburban street, with cars and trucks moving along the road, passing under traffic lights and railroad crossings, and surrounded by a mix of residential and commercial buildings.
 The image shows a wide, empty road with a few cars and trucks, a crosswalk, traffic lights, and a railroad crossing.
 A busy road with multiple lanes, traffic lights, and vehicles, leading to a rural area with a field and trees.
+An image with four traffics, two trucks, a grass, five cars, a pavement, a tree, and a road.
+An image with five cars, four traffics, a tree, a road, a pavement, a grass, and two trucks.
+An image with a pavement, five cars, four traffics, two trucks, a grass, a tree, and a road.
+An image with a tree, five cars, two trucks, a pavement, four traffics, a road, and a grass.
+An image with five cars, two trucks, a pavement, four traffics, a road, a tree, and a grass.

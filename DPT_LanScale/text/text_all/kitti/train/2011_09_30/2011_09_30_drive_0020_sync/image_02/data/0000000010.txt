@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 A quiet residential street with a few parked cars, a red car parked on the sidewalk, and a bicycle leaning against a building.
 The image shows a street scene with a car parked on the sidewalk, a red car parked on the street, a bicycle leaning against a building, a few trees, and a construction site in the background.
 A quiet residential street with a paved pathway, lined with trees and parked cars, leading to a row of buildings under construction.
+An image with five cars, a sky, a grass, a bicycle, a road, a building, a tree, and a pavement.
+An image with five cars, a tree, a sky, a building, a pavement, a grass, a road, and a bicycle.
+An image with a bicycle, a grass, a sky, a building, a tree, a road, five cars, and a pavement.
+An image with a pavement, five cars, a tree, a grass, a building, a road, a sky, and a bicycle.
+An image with a building, a grass, a sky, a tree, five cars, a road, a pavement, and a bicycle.

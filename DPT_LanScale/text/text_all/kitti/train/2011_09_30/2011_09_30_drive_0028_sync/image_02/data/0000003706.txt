@@ -8,3 +8,8 @@ The image shows a blue car parked on a street in front of a white building with 
 The image captures a quiet residential street scene, with a blue car parked in front of a white building, surrounded by trees and a few parked cars.
 A small blue car is parked on the street in front of a white building with balconies.
 The image depicts a residential street scene with a blue car parked in front of a white building with balconies, surrounded by trees and parked cars.
+An image with three cars, a tree, a building, a grass, a dirt, and a road.
+An image with a tree, a road, three cars, a grass, a dirt, and a building.
+An image with a building, three cars, a dirt, a tree, a grass, and a road.
+An image with a dirt, three cars, a road, a building, a grass, and a tree.
+An image with a dirt, a tree, three cars, a grass, a road, and a building.

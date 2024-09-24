@@ -8,3 +8,8 @@ The image shows a street scene with people riding bicycles on a brick road.
 A woman rides a bicycle on a narrow street, passing by a building under construction, with other cyclists and pedestrians sharing the space.
 A narrow street with a curved sidewalk, lined with shops and pedestrians, and two people riding bicycles.
 A narrow street with a curved path, lined with shops and pedestrians, flanked by buildings and a metal scaffolding.
+An image with thirteen people, a pavement, a sky, three bicycles, a building, a railroad, and a tree.
+An image with a building, a tree, three bicycles, thirteen people, a pavement, a railroad, and a sky.
+An image with a sky, thirteen people, three bicycles, a tree, a railroad, a building, and a pavement.
+An image with a building, thirteen people, three bicycles, a tree, a pavement, a sky, and a railroad.
+An image with thirteen people, a sky, a pavement, three bicycles, a tree, a building, and a railroad.

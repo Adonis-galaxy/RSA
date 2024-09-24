@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street with parked cars and a clear sky.
 The image shows a residential street with parked cars, a sidewalk, and houses on both sides. The street is lined with trees and lampposts, and it appears to be a sunny day.
 A quiet residential street with parked cars, lined with trees and houses, under a clear blue sky.
+An image with a road, a wall, six cars, a house, a truck, a tree, a grass, a roof, and a pavement.
+An image with six cars, a road, a grass, a pavement, a wall, a house, a truck, a roof, and a tree.
+An image with a wall, a truck, six cars, a tree, a roof, a pavement, a house, a road, and a grass.
+An image with six cars, a wall, a pavement, a truck, a grass, a tree, a roof, a house, and a road.
+An image with a pavement, six cars, a grass, a wall, a truck, a roof, a tree, a road, and a house.

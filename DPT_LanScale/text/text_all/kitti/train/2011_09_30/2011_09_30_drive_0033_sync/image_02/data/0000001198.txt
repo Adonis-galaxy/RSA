@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A silver car is driving down a tree-lined street, passing by a building with a sign that reads "Stein-Cafe."
 A silver car is driving down a tree-lined street, passing by a building with a sign that says "Stein-Cafe."
 A quiet residential street with parked cars, a sidewalk, and a building with a sign.
+An image with a road, six cars, six potteds, a fence, a sky, a tree, a house, a wall, and a pavement.
+An image with a fence, six cars, six potteds, a wall, a sky, a tree, a house, a pavement, and a road.
+An image with a fence, six cars, six potteds, a wall, a tree, a sky, a road, a house, and a pavement.
+An image with six potteds, a tree, a house, six cars, a fence, a sky, a road, a pavement, and a wall.
+An image with six cars, a pavement, a tree, a sky, six potteds, a road, a fence, a house, and a wall.

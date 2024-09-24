@@ -8,3 +8,8 @@ A blurry image of a room with a whiteboard, a blue jacket, a green trash can, an
 A room with a whiteboard, a blue jacket, a green trash can, and a red object on the floor.
 The image shows a room with a whiteboard, a blue jacket, a green trash can, a red object, and a cardboard box.
 The image shows a room with a whiteboard, a blue jacket, a green trash can, and a red object on the floor.
+An image with a towel, a paper, a wall, a umbrella, a floor, and a cardboard.
+An image with a paper, a wall, a floor, a cardboard, a towel, and a umbrella.
+An image with a cardboard, a umbrella, a towel, a wall, a paper, and a floor.
+An image with a towel, a umbrella, a cardboard, a floor, a paper, and a wall.
+An image with a umbrella, a towel, a cardboard, a wall, a paper, and a floor.

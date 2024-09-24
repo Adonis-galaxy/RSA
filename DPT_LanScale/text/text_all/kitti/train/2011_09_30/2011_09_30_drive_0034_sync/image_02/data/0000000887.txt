@@ -8,3 +8,8 @@ The image shows a narrow street lined with buildings and trees.
 The image captures a quaint European alleyway, characterized by its narrowness, stone buildings, and the presence of a yellow sign on a blackboard, which adds a touch of local charm.
 The image shows a narrow street lined with buildings, trees, and bushes, with a yellow sign on the sidewalk and a red and blue sign on the building.
 The image depicts a quaint European street scene with a charming white building with a red roof, a narrow cobblestone street, and a lush green hedge lining the sidewalk.
+An image with a roof, a sky, a flower, a car, a window, two walls, a potted, a tree, and a pavement.
+An image with a potted, a window, a roof, a pavement, a tree, a car, a sky, a flower, and two walls.
+An image with a potted, a car, a sky, a tree, a window, a roof, two walls, a flower, and a pavement.
+An image with a car, a window, two walls, a flower, a pavement, a tree, a sky, a roof, and a potted.
+An image with a sky, a potted, two walls, a window, a pavement, a flower, a tree, a car, and a roof.

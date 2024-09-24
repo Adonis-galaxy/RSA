@@ -8,3 +8,8 @@ The image shows a street scene with a white van parked on the side of the road.
 A quiet residential street, with a construction site on the left, a parked car on the right, and a clear blue sky overhead.
 The image shows a narrow street with a few parked cars, a construction site with a large crane, and houses on both sides.
 A quiet residential street with parked cars, a construction site, and houses on the right.
+An image with a building, a bench, a bus, two cars, a fence, a sky, a road, a grass, a tree, and a pavement.
+An image with a sky, a grass, a tree, two cars, a bench, a fence, a road, a pavement, a building, and a bus.
+An image with a building, a pavement, a bench, a bus, a fence, a sky, two cars, a grass, a road, and a tree.
+An image with a pavement, a fence, a building, two cars, a road, a bench, a bus, a sky, a tree, and a grass.
+An image with a bus, a building, two cars, a bench, a sky, a fence, a pavement, a grass, a tree, and a road.

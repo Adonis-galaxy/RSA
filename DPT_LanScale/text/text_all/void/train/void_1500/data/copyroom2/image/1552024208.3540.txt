@@ -8,3 +8,8 @@ A printer on a desk.
 The image shows a white printer on a green desk, with a yellow paper attached to it.
 The image shows a large white printer on a green desk, with a yellow paper attached to it.
 The image shows a white printer on a green desk, with a yellow paper attached to the front of the printer.
+An image with a wall, a light, a paper, and a table.
+An image with a table, a wall, a paper, and a light.
+An image with a table, a light, a paper, and a wall.
+An image with a wall, a table, a paper, and a light.
+An image with a light, a paper, a table, and a wall.

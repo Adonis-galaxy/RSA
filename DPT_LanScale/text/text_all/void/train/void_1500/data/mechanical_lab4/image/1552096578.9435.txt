@@ -8,3 +8,8 @@ A yellow light fixture is hanging from a yellow pipe.
 A yellow light fixture is hanging from a yellow pipe on a white wall, with a sign and a red box below it.
 The image shows a yellow pipe with a yellow light attached to it, a yellow sign with a black figure on it, and a blue box with a red cross on it.
 The image shows a yellow pipe with a yellow light attached to it, hanging on a wall next to a blue box and a sign with a person and a cross symbol.
+An image with a light, a wall, a ceiling, a paper, and a cat.
+An image with a light, a cat, a paper, a wall, and a ceiling.
+An image with a ceiling, a wall, a light, a paper, and a cat.
+An image with a light, a ceiling, a cat, a paper, and a wall.
+An image with a paper, a wall, a cat, a ceiling, and a light.

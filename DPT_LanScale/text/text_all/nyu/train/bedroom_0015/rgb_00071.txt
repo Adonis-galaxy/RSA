@@ -8,3 +8,8 @@ A messy room with a cluttered desk.
 A cluttered room with a messy window sill.
 The image shows a small, cluttered room with a bookshelf, a teddy bear, a laptop, a window with closed curtains, and a small heater.
 The image shows a cluttered room with a messy desk, a bookshelf filled with books, a teddy bear, a lamp, a window with curtains, and a small heater.
+An image with ten books, a light, a shelf, a curtain, a teddy, a cardboard, and a wall.
+An image with ten books, a light, a shelf, a wall, a curtain, a cardboard, and a teddy.
+An image with ten books, a cardboard, a curtain, a light, a wall, a teddy, and a shelf.
+An image with a curtain, ten books, a cardboard, a shelf, a teddy, a wall, and a light.
+An image with a light, a wall, ten books, a shelf, a cardboard, a curtain, and a teddy.

@@ -8,3 +8,8 @@ A blurry image of a computer desk with two keyboards and two mice.
 The image shows a computer desk with two computer monitors, two keyboards, and two mice.
 The image shows a computer desk with two computer monitors, two keyboards, and two mice.
 The image shows a computer desk with two computer monitors, two keyboards, and two mice.
+An image with two chairs, a mouse, two tvs, a table, a wall, and two keyboards.
+An image with two tvs, two chairs, two keyboards, a mouse, a table, and a wall.
+An image with two keyboards, two tvs, a mouse, two chairs, a table, and a wall.
+An image with two tvs, two chairs, two keyboards, a wall, a mouse, and a table.
+An image with a table, two keyboards, two chairs, two tvs, a wall, and a mouse.

@@ -8,3 +8,8 @@ A box is sitting on the floor next to a cabinet.
 The image shows a room with a whiteboard, a cardboard box, and a black bag on the floor.
 The image shows a whiteboard with writing on it, a cardboard box, a black bag, and a green object in a room with a blue carpet.
 The image shows a room with a whiteboard on the wall, a cardboard box on the floor, and a black bag in the corner.
+An image with a suitcase, a cardboard, a cabinet, a rug, a door, a wall, and a chair.
+An image with a door, a cardboard, a suitcase, a chair, a wall, a rug, and a cabinet.
+An image with a cabinet, a suitcase, a chair, a door, a cardboard, a wall, and a rug.
+An image with a wall, a chair, a door, a suitcase, a cardboard, a rug, and a cabinet.
+An image with a chair, a cardboard, a cabinet, a wall, a door, a rug, and a suitcase.

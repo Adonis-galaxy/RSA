@@ -8,3 +8,8 @@ The image shows a road with two cars driving on it.
 The image captures a serene, tree-lined road with two cars in motion, one following the other, under a clear sky.
 The image shows a road with two cars, one larger and one smaller, driving on the right side of the road, with trees and a fence on the left side.
 The image shows a tree-lined road with two cars driving on it, one of which is a blue car.
+An image with a road, two cars, a sky, a tree, a grass, a pavement, and a fence.
+An image with a road, a tree, two cars, a grass, a fence, a sky, and a pavement.
+An image with a sky, a fence, two cars, a grass, a tree, a road, and a pavement.
+An image with two cars, a fence, a grass, a pavement, a tree, a road, and a sky.
+An image with a grass, a road, a sky, a fence, two cars, a pavement, and a tree.

@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue trash can is next to a black bag with a red stripe, both are leaning against a white cylinder.
 A blue trash can is next to a black bag with a red stripe, and they are both leaning against a white cylinder.
 A blue trash can is next to a black bag with a red stripe, and they are both leaning against a white cylinder.
+An image with a refrigerator, a wall, a cardboard, a cabinet, a tv, a suitcase, and a rug.
+An image with a suitcase, a rug, a cabinet, a tv, a wall, a refrigerator, and a cardboard.
+An image with a suitcase, a wall, a cabinet, a cardboard, a rug, a tv, and a refrigerator.
+An image with a wall, a rug, a cabinet, a tv, a refrigerator, a suitcase, and a cardboard.
+An image with a wall, a cabinet, a cardboard, a tv, a refrigerator, a suitcase, and a rug.

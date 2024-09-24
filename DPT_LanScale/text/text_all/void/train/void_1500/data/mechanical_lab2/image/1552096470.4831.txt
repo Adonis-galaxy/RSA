@@ -8,3 +8,8 @@ A blue chair is under a desk.
 The image shows a classroom setting with a desk, two chairs, and a computer monitor.
 The image shows a classroom with a desk and two blue chairs, with a computer monitor and keyboard on the desk.
 The image shows a classroom with a desk and two chairs, a computer monitor, and a keyboard.
+An image with three tvs, six chairs, a table, a floor, a keyboard, and a wall.
+An image with three tvs, a wall, six chairs, a table, a keyboard, and a floor.
+An image with a table, a keyboard, three tvs, six chairs, a wall, and a floor.
+An image with three tvs, six chairs, a keyboard, a wall, a floor, and a table.
+An image with three tvs, a table, a wall, six chairs, a keyboard, and a floor.

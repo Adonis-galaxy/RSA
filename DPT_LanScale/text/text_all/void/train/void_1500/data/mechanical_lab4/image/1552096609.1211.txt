@@ -8,3 +8,8 @@ A yellow pipe is attached to a sink.
 A sink with a hose attached to it, located in a kitchen.
 The image shows a small kitchen sink with a hose attached to it, located in a corner of a room with a yellow pipe running along the wall.
 The image shows a kitchen with a sink, a counter, and a yellow pipe running along the wall.
+An image with a wall, a floor, a cabinet, and a sink.
+An image with a wall, a cabinet, a floor, and a sink.
+An image with a floor, a wall, a sink, and a cabinet.
+An image with a sink, a wall, a cabinet, and a floor.
+An image with a floor, a sink, a wall, and a cabinet.

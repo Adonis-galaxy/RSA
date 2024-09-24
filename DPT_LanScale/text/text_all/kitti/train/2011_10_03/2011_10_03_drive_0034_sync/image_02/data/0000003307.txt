@@ -8,3 +8,8 @@ The image shows a street with a curb and a sidewalk.
 A quiet, tree-lined street with a few parked cars and a yellow box on the sidewalk.
 The image shows a narrow street with a curved road, lined by trees and a stone wall, with a small yellow sign on a pole.
 The image shows a tree-lined street with a curved road, a sidewalk, and a brick wall on the right side.
+An image with two walls, a tree, and a road.
+An image with two walls, a road, and a tree.
+An image with a road, two walls, and a tree.
+An image with a tree, a road, and two walls.
+An image with a tree, two walls, and a road.

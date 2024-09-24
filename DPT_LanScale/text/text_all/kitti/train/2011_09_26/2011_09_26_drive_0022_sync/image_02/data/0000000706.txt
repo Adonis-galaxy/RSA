@@ -8,3 +8,8 @@ The image shows a street scene with a car on a road, trees, and street lights.
 The image captures a serene suburban street scene, with a clear sky overhead, lush greenery on both sides, and a few vehicles and pedestrians adding life to the tranquil setting.
 The image shows a wide, tree-lined street with a few cars, a traffic light, and a pedestrian crossing.
 The image depicts a quiet, tree-lined street with a clear sky, a few parked cars, and a traffic light at the end of the road.
+An image with a road, a stop, a car, a traffic, a tree, a sky, and a grass.
+An image with a traffic, a tree, a road, a grass, a car, a sky, and a stop.
+An image with a sky, a car, a grass, a road, a stop, a tree, and a traffic.
+An image with a sky, a tree, a car, a traffic, a stop, a road, and a grass.
+An image with a tree, a sky, a car, a road, a grass, a traffic, and a stop.

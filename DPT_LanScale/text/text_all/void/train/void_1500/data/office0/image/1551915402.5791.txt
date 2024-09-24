@@ -8,3 +8,8 @@ The image shows a classroom setting with a whiteboard, a table, and two black ch
 The image shows a classroom setting with a whiteboard, a table, and two black chairs.
 The image shows a small room with a whiteboard, a table, and two black couches.
 The image shows a classroom setting with a whiteboard, a table with a paper on it, and two black chairs in front of the whiteboard.
+An image with a dining, a wall, a tv, a chair, and a couch.
+An image with a couch, a dining, a tv, a chair, and a wall.
+An image with a dining, a wall, a chair, a tv, and a couch.
+An image with a chair, a couch, a wall, a dining, and a tv.
+An image with a chair, a tv, a dining, a couch, and a wall.

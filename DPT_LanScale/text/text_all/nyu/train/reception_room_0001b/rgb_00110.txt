@@ -8,3 +8,8 @@ The image shows a room with a wooden floor and two potted plants.
 The image shows a room with a wooden floor and a wall-mounted television, with two potted plants placed on either side of the TV, creating a symmetrical arrangement.
 The image shows a room with a large wall-mounted TV, two potted plants on the floor, and a chair in the corner.
 The image shows a room with a wooden floor, two potted plants, a chair, and a framed picture on the wall.
+An image with three potteds, a dining, a wall, a chair, a tv, and a floor.
+An image with a floor, three potteds, a tv, a chair, a dining, and a wall.
+An image with a floor, a tv, three potteds, a dining, a wall, and a chair.
+An image with a wall, a chair, three potteds, a tv, a floor, and a dining.
+An image with a tv, three potteds, a floor, a dining, a chair, and a wall.

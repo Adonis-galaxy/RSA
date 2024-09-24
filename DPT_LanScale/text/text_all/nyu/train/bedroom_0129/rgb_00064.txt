@@ -8,3 +8,8 @@ A television on a cart.
 A television on a wooden stand in a living room, with a doorway leading to a nursery.
 A small television on a wooden cart in a living room.
 A television on a wooden stand in a living room, with a doorway leading to a nursery.
+An image with a door, a window, a shelf, two walls, a couch, a rug, a tv, and a bed.
+An image with a door, a shelf, two walls, a couch, a rug, a window, a tv, and a bed.
+An image with a window, a shelf, two walls, a tv, a door, a couch, a rug, and a bed.
+An image with a shelf, two walls, a window, a bed, a couch, a door, a rug, and a tv.
+An image with a window, a tv, a shelf, two walls, a bed, a door, a couch, and a rug.

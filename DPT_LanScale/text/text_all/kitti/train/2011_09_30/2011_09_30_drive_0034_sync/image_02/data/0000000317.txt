@@ -8,3 +8,8 @@ The image is a photograph of a narrow, tree-lined street in a residential area.
 The image captures a serene residential street, lined with houses, trees, and a brick pathway, under a clear blue sky.
 The image shows a narrow, tree-lined street with houses on both sides, a few parked cars, and a paved pathway.
 A narrow, tree-lined street with houses on both sides, leading to a white house with a black roof.
+An image with a dirt, a fence, a tree, a truck, a car, a sky, a roof, a wall, and a pavement.
+An image with a sky, a fence, a pavement, a tree, a wall, a car, a truck, a dirt, and a roof.
+An image with a wall, a dirt, a pavement, a sky, a roof, a fence, a car, a truck, and a tree.
+An image with a sky, a wall, a fence, a dirt, a truck, a tree, a car, a pavement, and a roof.
+An image with a dirt, a car, a tree, a fence, a sky, a wall, a roof, a pavement, and a truck.

@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape, with a focus on a white building and a red building, both situated on a gray base.
 The image shows a model of a cityscape, with a focus on a white building and a red building, both of which are smaller in size than the other buildings in the scene.
 The image shows a model of a cityscape with various buildings, including a large white building and a red brick building, displayed on a glass table.
+An image with a wall, a floor, and a building.
+An image with a building, a floor, and a wall.
+An image with a wall, a floor, and a building.
+An image with a floor, a wall, and a building.
+An image with a floor, a building, and a wall.

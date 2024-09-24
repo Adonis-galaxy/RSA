@@ -8,3 +8,8 @@ A car driving down a tree-lined street.
 A narrow, tree-lined street with a car parked at the end, leading to a house on the right.
 A narrow, tree-lined street with a car driving down it.
 A narrow, tree-lined street with a car parked at the end, leading to a house on the right.
+An image with a car, a fence, a sky, a tree, a road, a pavement, and a wall.
+An image with a pavement, a sky, a road, a car, a wall, a fence, and a tree.
+An image with a pavement, a sky, a fence, a tree, a car, a wall, and a road.
+An image with a wall, a road, a tree, a pavement, a sky, a car, and a fence.
+An image with a tree, a sky, a road, a car, a wall, a fence, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street scene with a car driving on the road.
 A car on a road, with a train track and a fence in the background, under a clear blue sky.
 A car is driving on a road next to a train track, with a clear blue sky overhead.
 A quiet, tree-lined street with a single car driving away from a train station.
+An image with a building, a wall, five cars, a truck, a sky, a railroad, a grass, a tree, and a road.
+An image with a sky, a wall, a grass, a railroad, five cars, a road, a building, a tree, and a truck.
+An image with a grass, a wall, a building, a sky, five cars, a truck, a railroad, a road, and a tree.
+An image with a building, five cars, a sky, a truck, a grass, a wall, a tree, a road, and a railroad.
+An image with five cars, a sky, a railroad, a road, a wall, a truck, a grass, a tree, and a building.

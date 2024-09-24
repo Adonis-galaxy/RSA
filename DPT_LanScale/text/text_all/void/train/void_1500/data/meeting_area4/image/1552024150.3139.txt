@@ -8,3 +8,8 @@ A white table with two chairs.
 A white table with two chairs in a room.
 A white table with two chairs in a room.
 The image shows a white table with two chairs, placed in a room with a carpeted floor and a whiteboard in the background.
+An image with a wall, a paper, a rug, eight chairs, a cardboard, a door, and a dining.
+An image with a rug, a dining, eight chairs, a cardboard, a door, a wall, and a paper.
+An image with a door, a wall, a rug, a paper, eight chairs, a cardboard, and a dining.
+An image with eight chairs, a wall, a door, a paper, a dining, a cardboard, and a rug.
+An image with eight chairs, a cardboard, a paper, a dining, a rug, a door, and a wall.

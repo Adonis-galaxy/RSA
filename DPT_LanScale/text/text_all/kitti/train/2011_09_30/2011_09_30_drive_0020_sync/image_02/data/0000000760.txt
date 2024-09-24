@@ -8,3 +8,8 @@ The image shows a street with parked cars and buildings on both sides.
 The image captures a quiet residential street, lined with parked cars and bicycles, leading to a row of white buildings with greenery, under a clear blue sky.
 The image shows a long, narrow street lined with parked cars and white buildings, with a clear blue sky overhead.
 A long, narrow street lined with parked cars and buildings, leading to a residential area.
+An image with a road, ten cars, a fire, a tree, a pavement, a house, a bicycle, a roof, and a grass.
+An image with a bicycle, ten cars, a road, a roof, a grass, a tree, a house, a pavement, and a fire.
+An image with ten cars, a road, a fire, a pavement, a tree, a house, a roof, a bicycle, and a grass.
+An image with a pavement, ten cars, a bicycle, a roof, a grass, a road, a tree, a fire, and a house.
+An image with a tree, ten cars, a roof, a road, a grass, a fire, a pavement, a house, and a bicycle.

@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a white toilet on the side.
 The image captures a quaint residential street scene, featuring a row of parked cars, a white toilet on the sidewalk, and a bench at the end of the street, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and a white toilet on the sidewalk.
 A narrow street in a residential area with parked cars, a white toilet, and a bench.
+An image with seven cars, two bicycles, a road, a house, a sky, a pavement, a grass, a person, a bench, and a tree.
+An image with a road, a bench, two bicycles, a pavement, seven cars, a house, a person, a sky, a grass, and a tree.
+An image with seven cars, a sky, a pavement, a person, a grass, two bicycles, a bench, a road, a house, and a tree.
+An image with a bench, a tree, two bicycles, a road, seven cars, a sky, a grass, a house, a person, and a pavement.
+An image with a sky, seven cars, a road, a house, a pavement, two bicycles, a grass, a tree, a person, and a bench.

@@ -8,3 +8,8 @@ A classroom with a long light fixture.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a picture frame on it, and a black chair.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a picture frame on it, and a black chair.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a picture frame on it, and a green wall with two framed pictures.
+An image with four chairs, a ceiling, a table, a light, two people, and a wall.
+An image with two people, a table, a wall, four chairs, a ceiling, and a light.
+An image with a ceiling, two people, a wall, four chairs, a table, and a light.
+An image with a ceiling, two people, four chairs, a wall, a light, and a table.
+An image with four chairs, a wall, two people, a table, a light, and a ceiling.

@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 The image captures a quaint, narrow street in a European town, with a bicyclist riding along the cobblestone path, passing by a variety of shops and potted plants, under a clear blue sky.
 A narrow street with a train track running down the middle, lined with buildings and potted plants.
 A narrow, cobblestone street with a train track running down the middle, lined with shops and potted plants, flanked by buildings on both sides.
+An image with eleven people, a building, a sky, two bicycles, a traffic, a railroad, a potted, and a pavement.
+An image with a traffic, two bicycles, a pavement, eleven people, a sky, a potted, a railroad, and a building.
+An image with eleven people, a potted, a pavement, two bicycles, a building, a sky, a railroad, and a traffic.
+An image with two bicycles, a railroad, eleven people, a sky, a pavement, a building, a traffic, and a potted.
+An image with eleven people, a building, two bicycles, a pavement, a railroad, a sky, a traffic, and a potted.

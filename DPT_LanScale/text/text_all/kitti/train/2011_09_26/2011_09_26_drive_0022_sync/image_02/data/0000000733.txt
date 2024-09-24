@@ -8,3 +8,8 @@ The image shows a street scene with a car and a truck on a road.
 The image captures a serene suburban street scene, with a white van driving down the road, passing under a blue sky, and surrounded by lush greenery and a few scattered trees.
 The image shows a wide, tree-lined street with a few vehicles, including a large truck, and a few pedestrians. The street is bordered by grass and trees, and there are traffic signs and lights visible.
 A quiet suburban street with a few vehicles, lined with trees and a building, under a clear blue sky.
+An image with a car, a person, a traffic, a road, a grass, a tree, a sky, and a building.
+An image with a tree, a grass, a person, a road, a building, a car, a sky, and a traffic.
+An image with a traffic, a person, a road, a building, a tree, a car, a grass, and a sky.
+An image with a traffic, a person, a building, a tree, a sky, a grass, a car, and a road.
+An image with a road, a tree, a sky, a car, a person, a building, a traffic, and a grass.

@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A solitary white SUV parked on a tree-lined street, with a clear blue sky overhead and a serene residential setting.
 A white car is parked on the side of a narrow street lined with trees and houses.
 A quiet residential street with a parked car, lined by trees and houses, leading to a cul-de-sac.
+An image with a pavement, a house, a fence, a sky, a grass, a car, a road, and a tree.
+An image with a tree, a sky, a fence, a road, a pavement, a car, a house, and a grass.
+An image with a grass, a road, a car, a pavement, a house, a sky, a fence, and a tree.
+An image with a grass, a sky, a house, a road, a fence, a tree, a pavement, and a car.
+An image with a sky, a house, a car, a tree, a fence, a grass, a road, and a pavement.

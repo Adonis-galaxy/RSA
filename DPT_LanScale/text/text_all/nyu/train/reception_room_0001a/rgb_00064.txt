@@ -8,3 +8,8 @@ A white door with a sign on it.
 The image shows a room with a white door, a chair, a table with a clock and a book, and a window with sunlight streaming in.
 The image shows a small room with a white door, a black chair, a small table with a clock and a book, and a white wall.
 The image shows a room with a white door, a black chair, a table with a clock and a book, and a wall with a sign.
+An image with two clocks, a floor, a door, a dining, a wall, and a chair.
+An image with a dining, a wall, a floor, a door, a chair, and two clocks.
+An image with a dining, a wall, two clocks, a door, a chair, and a floor.
+An image with a dining, two clocks, a wall, a door, a floor, and a chair.
+An image with a floor, two clocks, a chair, a door, a dining, and a wall.

@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a serene suburban street scene, with a red car parked on the side of the road, surrounded by lush greenery and a few other parked cars, all under a clear blue sky.
 The image shows a narrow road lined with parked cars, a red car in the foreground, and a white gate in the background.
 A narrow, tree-lined road with parked cars on both sides, leading to a white gate.
+An image with a tree, seven cars, a fence, a road, a grass, and a pavement.
+An image with seven cars, a pavement, a tree, a road, a grass, and a fence.
+An image with a fence, seven cars, a pavement, a tree, a road, and a grass.
+An image with seven cars, a pavement, a grass, a tree, a fence, and a road.
+An image with a grass, a pavement, a road, seven cars, a fence, and a tree.

@@ -8,3 +8,8 @@ A classroom with a blue and white board and a table.
 The image shows a room with a blue and white machine, a table, and a chalkboard, all under a long fluorescent light.
 The image shows a room with a large blue and white machine, a table with a poster on it, a blackboard, a desk with a chair, and a light fixture.
 The image shows a room with a blue and white machine, a table with a poster on it, and a chalkboard with writing on it. The room has a green wall and a wooden door.
+An image with two walls, a light, four chairs, a ceiling, two people, a floor, a paper, and a dining.
+An image with a paper, four chairs, two walls, a ceiling, a floor, two people, a light, and a dining.
+An image with two people, four chairs, a paper, a dining, a ceiling, two walls, a light, and a floor.
+An image with two walls, a floor, two people, a light, a paper, four chairs, a dining, and a ceiling.
+An image with four chairs, two people, a floor, two walls, a dining, a light, a ceiling, and a paper.

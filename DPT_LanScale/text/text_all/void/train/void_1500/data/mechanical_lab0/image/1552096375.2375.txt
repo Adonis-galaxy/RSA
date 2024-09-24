@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and mouse.
 A computer desk with a monitor, keyboard, and mouse.
 A computer desk with a black monitor, keyboard, mouse, and a black computer tower.
 A computer desk with a monitor, keyboard, mouse, and a chair.
+An image with a table, a keyboard, a curtain, a wall, a chair, a mouse, a floor, and a tv.
+An image with a wall, a chair, a table, a curtain, a floor, a mouse, a tv, and a keyboard.
+An image with a table, a wall, a keyboard, a floor, a curtain, a mouse, a tv, and a chair.
+An image with a tv, a chair, a table, a wall, a floor, a curtain, a mouse, and a keyboard.
+An image with a keyboard, a mouse, a table, a tv, a wall, a curtain, a floor, and a chair.

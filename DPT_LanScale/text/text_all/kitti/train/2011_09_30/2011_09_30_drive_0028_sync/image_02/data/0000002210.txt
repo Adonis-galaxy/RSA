@@ -8,3 +8,8 @@ The image shows a narrow street between two rows of houses.
 The image captures a quiet residential street, with parked cars lining the sides of the road, leading to a row of houses in the distance.
 The image shows a narrow street lined with parked cars and houses, with a clear sky overhead.
 The image depicts a narrow, tree-lined street in a residential area, with parked cars on both sides and a clear sky overhead.
+An image with ten cars, a person, a house, a sky, a tree, a road, and a pavement.
+An image with ten cars, a pavement, a tree, a road, a person, a sky, and a house.
+An image with a tree, ten cars, a sky, a road, a pavement, a house, and a person.
+An image with a road, a pavement, ten cars, a house, a tree, a person, and a sky.
+An image with a pavement, ten cars, a person, a sky, a road, a house, and a tree.

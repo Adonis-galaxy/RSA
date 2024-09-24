@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A quiet residential street, lined with houses and trees, leads to a car parked at the end, with a person walking on the sidewalk.
 A narrow, tree-lined street between two-story buildings, with a red car parked on the right side.
 A narrow, tree-lined street between two-story buildings, with a red car parked on the right side.
+An image with a motorcycle, four cars, a pavement, a person, a house, a bird, a road, a sky, and a tree.
+An image with four cars, a pavement, a motorcycle, a person, a bird, a house, a tree, a road, and a sky.
+An image with four cars, a pavement, a bird, a road, a house, a motorcycle, a person, a tree, and a sky.
+An image with a road, a pavement, a tree, a person, a house, a bird, a sky, four cars, and a motorcycle.
+An image with four cars, a motorcycle, a road, a tree, a pavement, a bird, a sky, a person, and a house.

@@ -8,3 +8,8 @@ A yellow car on a narrow street.
 A narrow, shaded street between buildings, with a yellow car parked at the end.
 A yellow car is driving down a narrow, tree-lined street between two buildings.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a white building with balconies and a green gate.
+An image with a pavement, a car, a tree, two walls, a sky, a road, and a house.
+An image with two walls, a sky, a road, a pavement, a tree, a car, and a house.
+An image with two walls, a pavement, a road, a car, a tree, a sky, and a house.
+An image with two walls, a road, a car, a house, a pavement, a sky, and a tree.
+An image with two walls, a tree, a sky, a road, a pavement, a house, and a car.

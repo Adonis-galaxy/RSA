@@ -8,3 +8,8 @@ A desk with a box of Annie's macaroni and cheese, a roll of tape, a watch, and a
 A desk with a box of Annie's macaroni and cheese, a roll of tape, a watch, and a pair of scissors.
 A desk with a box of Annie's macaroni and cheese, a roll of tape, a watch, a pair of scissors, and a black bag.
 A desk with a box of Annie's macaroni and cheese, a roll of tape, a watch, and a pair of scissors.
+An image with a dining, a floor, three chairs, a wall, a table, a cabinet, and a cardboard.
+An image with a table, a cabinet, a dining, a wall, three chairs, a cardboard, and a floor.
+An image with three chairs, a cabinet, a cardboard, a dining, a wall, a floor, and a table.
+An image with a cardboard, a table, a cabinet, a wall, three chairs, a floor, and a dining.
+An image with a dining, a table, a wall, a floor, three chairs, a cabinet, and a cardboard.

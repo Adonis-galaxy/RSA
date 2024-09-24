@@ -8,3 +8,8 @@ The image shows a black and white checkered tile on the floor.
 The image shows a black and white checkered tile leaning against a white cylindrical object, with a roll of paper and a black object in the background.
 The image shows a white cylindrical object, a black and white checkered object, and a white tube leaning against a wall.
 The image shows a white cylindrical object, a black and white checkered object, and a white tube leaning against a wall.
+An image with a wall, a door, a floor, and a book.
+An image with a wall, a door, a book, and a floor.
+An image with a floor, a wall, a door, and a book.
+An image with a wall, a door, a floor, and a book.
+An image with a wall, a book, a floor, and a door.

@@ -8,3 +8,8 @@ The image shows a white building with orange doors and windows, a sidewalk, a st
 The image captures a quiet residential street scene, with a white building featuring orange doors and windows, a small garden area, and a few parked cars.
 The image shows a large white building with multiple windows and doors, a sidewalk, a street, and a few cars parked in front of it. There is a small orange car parked in front of the building.
 The image shows a street view of a white building with orange doors and windows, a sidewalk, a street, and a few parked cars.
+An image with five cars, a grass, a pavement, a road, a tree, a building, and a bicycle.
+An image with a grass, five cars, a bicycle, a pavement, a tree, a road, and a building.
+An image with a tree, five cars, a building, a road, a grass, a bicycle, and a pavement.
+An image with a building, five cars, a road, a grass, a bicycle, a tree, and a pavement.
+An image with five cars, a pavement, a tree, a road, a bicycle, a building, and a grass.

@@ -8,3 +8,8 @@ The image shows a street scene with a car parked on the side of the road.
 The image captures a quiet residential street, with a car parked on the side of the road, a solitary figure walking down the sidewalk, and a lone street lamp standing sentinel over the scene.
 A narrow street with parked cars, lined by houses and trees, and a large white house with a blue sign in the background.
 A quiet residential street with parked cars, a curved road, and a mix of houses and trees.
+An image with four cars, a door, a grass, a road, a pavement, a tree, and a sky.
+An image with a tree, four cars, a road, a pavement, a sky, a grass, and a door.
+An image with four cars, a road, a grass, a door, a tree, a sky, and a pavement.
+An image with four cars, a door, a pavement, a grass, a sky, a tree, and a road.
+An image with a grass, four cars, a tree, a sky, a road, a pavement, and a door.

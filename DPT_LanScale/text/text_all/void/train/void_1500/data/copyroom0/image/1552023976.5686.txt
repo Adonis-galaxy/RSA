@@ -8,3 +8,8 @@ The image shows a room with a printer and a microwave.
 The image shows a small office space with a printer, a microwave, and a cabinet.
 The image shows a small office space with a white printer, a black cabinet, and a white cabinet.
 The image shows a small office space with a printer, a microwave, and a cabinet.
+An image with a table, a scissors, a wall, a refrigerator, a cabinet, and a toaster.
+An image with a refrigerator, a cabinet, a scissors, a toaster, a table, and a wall.
+An image with a refrigerator, a table, a cabinet, a toaster, a wall, and a scissors.
+An image with a toaster, a wall, a table, a scissors, a cabinet, and a refrigerator.
+An image with a scissors, a toaster, a cabinet, a table, a refrigerator, and a wall.

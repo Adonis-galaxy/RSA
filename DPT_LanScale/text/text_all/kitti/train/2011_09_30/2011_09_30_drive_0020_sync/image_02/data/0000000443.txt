@@ -8,3 +8,8 @@ The image shows a city street intersection with a crosswalk.
 The image captures a quiet, residential street corner with a clear view of a large building in the background, a few parked cars, and a pedestrian crossing marked with white stripes.
 The image shows a wide street with a crosswalk, a traffic light, and a building in the background, with a few cars parked along the side.
 The image depicts a quiet, residential street with a clear layout, featuring a crosswalk, a roundabout, and a building with a sign.
+An image with a truck, eight cars, a sky, a tree, a stop, a pavement, a road, a grass, a house, and a building.
+An image with a house, a stop, eight cars, a road, a sky, a grass, a pavement, a building, a tree, and a truck.
+An image with a sky, eight cars, a house, a grass, a road, a truck, a tree, a stop, a building, and a pavement.
+An image with eight cars, a road, a sky, a stop, a building, a truck, a tree, a pavement, a grass, and a house.
+An image with eight cars, a tree, a house, a building, a road, a pavement, a sky, a stop, a truck, and a grass.

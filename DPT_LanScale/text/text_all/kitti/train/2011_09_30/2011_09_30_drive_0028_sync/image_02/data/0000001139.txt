@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a bustling city street, with parked cars, moving vehicles, pedestrians, and a lively outdoor market, all under a clear blue sky.
 The image shows a tree-lined street with parked cars, a bicycle, and pedestrians, with a large white car in the foreground and a black car in the background.
 The image captures a bustling city street, lined with parked cars, a sidewalk, and buildings, under a clear blue sky.
+An image with a building, fourteen cars, six people, a bicycle, a tree, a traffic, a sky, a pavement, a road, and a grass.
+An image with a sky, a road, six people, fourteen cars, a building, a grass, a pavement, a tree, a traffic, and a bicycle.
+An image with fourteen cars, a building, a tree, six people, a bicycle, a sky, a road, a traffic, a pavement, and a grass.
+An image with six people, a grass, fourteen cars, a tree, a building, a bicycle, a traffic, a pavement, a sky, and a road.
+An image with fourteen cars, a sky, six people, a grass, a tree, a building, a bicycle, a traffic, a road, and a pavement.

@@ -8,3 +8,8 @@ The image shows a narrow street with a car driving down it.
 A narrow, tree-lined road with a car parked on the side, leading to a quaint village.
 A narrow, tree-lined street with a red car parked on the side and a white car driving down it.
 A narrow, tree-lined street with a car parked on the side, leading to a tunnel-like passage.
+An image with a tree, a sky, a wall, a door, a road, two cars, and a pavement.
+An image with a wall, two cars, a road, a door, a sky, a tree, and a pavement.
+An image with a sky, two cars, a wall, a road, a door, a tree, and a pavement.
+An image with two cars, a door, a tree, a sky, a wall, a road, and a pavement.
+An image with two cars, a wall, a pavement, a road, a door, a sky, and a tree.

@@ -8,3 +8,8 @@ The image shows an empty conference room with a whiteboard, a table, and several
 The image shows an empty conference room with a whiteboard, a table with chairs, and a projector mounted on the ceiling.
 The image shows an office room with a whiteboard, a table with chairs, and a projector mounted on the ceiling.
 The image shows an empty conference room with a whiteboard, a table with chairs, and a projector mounted on the ceiling.
+An image with four chairs, a wall, a tv, a dining, a light, a table, and a ceiling.
+An image with a wall, a ceiling, four chairs, a light, a table, a tv, and a dining.
+An image with a tv, a table, four chairs, a light, a ceiling, a wall, and a dining.
+An image with a light, four chairs, a ceiling, a tv, a wall, a table, and a dining.
+An image with a ceiling, a wall, a table, four chairs, a light, a tv, and a dining.

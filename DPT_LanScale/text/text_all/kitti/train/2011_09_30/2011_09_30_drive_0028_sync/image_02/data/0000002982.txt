@@ -8,3 +8,8 @@ The image shows a street scene with a crosswalk.
 The image captures a quiet residential street with parked cars, a pedestrian, and a clear sky, leading to a row of houses and apartment buildings.
 The image shows a wide street with parked cars, a pedestrian crossing, and a few buildings on either side. The street is lined with trees and there are signs indicating parking restrictions and a pedestrian crossing.
 The image depicts a quiet residential street with parked cars, a pedestrian crossing, and a few signs, all under a clear blue sky.
+An image with three people, ten cars, a road, a tree, a traffic, a pavement, a house, and a grass.
+An image with ten cars, three people, a road, a grass, a traffic, a tree, a pavement, and a house.
+An image with ten cars, three people, a grass, a pavement, a tree, a traffic, a house, and a road.
+An image with ten cars, three people, a house, a pavement, a grass, a traffic, a tree, and a road.
+An image with ten cars, a road, a grass, a house, a pavement, three people, a tree, and a traffic.

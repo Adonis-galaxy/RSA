@@ -8,3 +8,8 @@ Two computer monitors on a desk.
 The image shows a computer desk with a monitor, keyboard, and mouse.
 The image shows a computer desk with a large black monitor, a smaller black monitor, a black keyboard, a black mouse, and a white piece of paper.
 The image shows a computer desk with a monitor, keyboard, and mouse, along with a laptop and a pen.
+An image with three tvs, three keyboards, a table, three mice, a wall, and a paper.
+An image with three keyboards, three mice, three tvs, a wall, a paper, and a table.
+An image with three mice, a table, three keyboards, a wall, three tvs, and a paper.
+An image with three keyboards, a wall, three tvs, three mice, a paper, and a table.
+An image with three tvs, three keyboards, a table, a paper, three mice, and a wall.

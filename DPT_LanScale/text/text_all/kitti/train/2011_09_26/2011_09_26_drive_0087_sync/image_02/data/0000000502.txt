@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings.
 A narrow alleyway between two buildings, with a blue tarp covering a cart and a motorcycle parked on the right side.
 The image shows a narrow alleyway between two buildings, with a blue tarp covering a cart, a car parked on the right, and a trash can on the left.
 A narrow alleyway between two buildings, with a blue tarp covering a cart and a car parked on the right side.
+An image with a tree, two cars, a pavement, a roof, a door, a road, a window, a sky, and a fence.
+An image with a fence, a pavement, two cars, a road, a sky, a roof, a window, a door, and a tree.
+An image with two cars, a door, a road, a fence, a pavement, a window, a tree, a roof, and a sky.
+An image with two cars, a tree, a fence, a door, a pavement, a window, a road, a sky, and a roof.
+An image with a road, a pavement, a tree, two cars, a door, a window, a sky, a roof, and a fence.

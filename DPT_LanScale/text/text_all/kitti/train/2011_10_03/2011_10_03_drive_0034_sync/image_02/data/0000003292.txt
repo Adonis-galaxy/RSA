@@ -8,3 +8,8 @@ The image shows a street scene with a road, sidewalk, trees, and a sign.
 The image captures a serene suburban street scene, with a clear path leading to a red and white yield sign at the end of the road, surrounded by lush greenery and a quiet residential area.
 The image shows a narrow, tree-lined street with a red and white yield sign on the right side, a white utility box on the left, and a red and white yield sign on the left side.
 The image depicts a quiet, tree-lined street with a clear path leading to a red and white yield sign at the end of the road.
+An image with a road, a fire, a grass, a pavement, and a tree.
+An image with a tree, a fire, a grass, a pavement, and a road.
+An image with a grass, a fire, a tree, a pavement, and a road.
+An image with a fire, a road, a tree, a grass, and a pavement.
+An image with a fire, a road, a pavement, a tree, and a grass.

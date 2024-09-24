@@ -8,3 +8,8 @@ A tree-lined street.
 A serene, tree-lined pathway, bordered by a neatly trimmed hedge, leads to a tranquil park.
 A long, shaded, tree-lined pathway between two walls, with a gate at the end.
 A tree-lined pathway leads to a gate at the end of a long, narrow road, with a sidewalk on the left and a fence on the right.
+An image with a road, a sky, a tree, a grass, a fence, and a wall.
+An image with a tree, a fence, a road, a grass, a sky, and a wall.
+An image with a grass, a road, a wall, a sky, a tree, and a fence.
+An image with a sky, a grass, a road, a wall, a tree, and a fence.
+An image with a grass, a fence, a wall, a sky, a tree, and a road.

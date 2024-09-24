@@ -8,3 +8,8 @@ A narrow paved road between two houses.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac.
 A narrow, tree-lined street leads to a white house with a black roof, surrounded by greenery.
 A narrow, tree-lined street leads to a white house with a black roof, surrounded by lush greenery.
+An image with a fence, a house, a grass, a sky, a dirt, a road, and a tree.
+An image with a tree, a house, a sky, a fence, a dirt, a grass, and a road.
+An image with a sky, a house, a road, a fence, a grass, a tree, and a dirt.
+An image with a road, a tree, a grass, a fence, a dirt, a house, and a sky.
+An image with a road, a grass, a fence, a sky, a dirt, a tree, and a house.

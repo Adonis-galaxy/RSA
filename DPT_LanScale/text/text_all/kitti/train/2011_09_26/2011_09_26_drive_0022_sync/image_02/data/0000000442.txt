@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and a white house.
 A narrow, tree-lined street in a residential area, with parked cars and a few people, under a bright, sunny day.
 The image shows a narrow, tree-lined street with parked cars on both sides, a few pedestrians, and a mix of residential buildings.
 A narrow, tree-lined street with parked cars and a white house on the right side.
+An image with nine cars, a fence, a road, a sky, a tree, a truck, a pavement, and a house.
+An image with a pavement, a house, nine cars, a fence, a road, a sky, a truck, and a tree.
+An image with nine cars, a fence, a tree, a sky, a road, a truck, a house, and a pavement.
+An image with nine cars, a house, a road, a pavement, a truck, a fence, a sky, and a tree.
+An image with nine cars, a sky, a house, a truck, a tree, a road, a fence, and a pavement.

@@ -8,3 +8,8 @@ A whiteboard with a white marble table.
 The image shows a whiteboard with a black marker on an empty wall, placed on a white marble table with a book and a coffee cup.
 The image shows a whiteboard with a black marker on an empty wall, placed on a white marble table with a book and a coffee cup.
 The image shows a whiteboard on a white wall, with a marble table in the foreground and a book and a coffee cup on the table.
+An image with a cup, a dining, a laptop, a wall, and a book.
+An image with a wall, a dining, a book, a cup, and a laptop.
+An image with a laptop, a wall, a dining, a book, and a cup.
+An image with a dining, a cup, a laptop, a book, and a wall.
+An image with a book, a cup, a laptop, a wall, and a dining.

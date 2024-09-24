@@ -8,3 +8,8 @@ A black leather chair with a pillow in front of a piano.
 A cozy living room with a piano, a leather armchair, and a guitar, all arranged around a window.
 A small room with a black leather chair, a piano, a window, and a guitar.
 A cozy living room with a piano, leather chair, and a guitar, all arranged around a window.
+An image with a paper, a cup, a window, a potted, a table, a chair, a wall, a keyboard, and a rug.
+An image with a window, a potted, a wall, a rug, a table, a paper, a cup, a chair, and a keyboard.
+An image with a cup, a window, a paper, a wall, a chair, a table, a potted, a rug, and a keyboard.
+An image with a table, a rug, a window, a chair, a paper, a keyboard, a potted, a cup, and a wall.
+An image with a chair, a wall, a keyboard, a table, a rug, a potted, a window, a paper, and a cup.

@@ -8,3 +8,8 @@ The image shows an empty classroom with desks and chairs.
 The image captures an office space with a long hallway leading to a conference room, featuring a table and chairs, with a door on the right side.
 The image shows an empty room with a large table and several chairs, a door with a red fire alarm, and a whiteboard with a blue sign.
 The image shows an empty classroom with a long table and multiple chairs, a door with a red fire alarm, and a hallway with posters and flyers on the wall.
+An image with twelve chairs, a ceiling, a keyboard, a wall, two dinings, a paper, a floor, and a door.
+An image with a keyboard, twelve chairs, a floor, a paper, a door, a ceiling, a wall, and two dinings.
+An image with a ceiling, twelve chairs, a door, two dinings, a wall, a keyboard, a paper, and a floor.
+An image with a ceiling, twelve chairs, a floor, a wall, a door, a paper, two dinings, and a keyboard.
+An image with twelve chairs, a wall, two dinings, a keyboard, a door, a ceiling, a floor, and a paper.

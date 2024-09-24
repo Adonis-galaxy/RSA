@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A parked car on a tree-lined street, with a clear sky overhead and a path leading into the distance.
 A small car is parked on the side of a tree-lined street.
 A car is parked on the side of a tree-lined street, with a house visible in the background.
+An image with a tree, two cars, a road, a grass, a house, and a pavement.
+An image with two cars, a road, a tree, a grass, a pavement, and a house.
+An image with a house, a pavement, two cars, a grass, a road, and a tree.
+An image with two cars, a pavement, a road, a house, a grass, and a tree.
+An image with a tree, a road, a pavement, a house, two cars, and a grass.

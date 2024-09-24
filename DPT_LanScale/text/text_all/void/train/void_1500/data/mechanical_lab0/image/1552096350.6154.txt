@@ -8,3 +8,8 @@ A black desktop computer on a white table.
 A black computer tower sitting on a white desk.
 A black desktop computer on a white table.
 A black desktop computer on a white desk with a keyboard and mouse.
+An image with a cell, a chair, a floor, a table, a keyboard, a mouse, and a tv.
+An image with a cell, a chair, a mouse, a floor, a table, a tv, and a keyboard.
+An image with a mouse, a chair, a table, a keyboard, a cell, a floor, and a tv.
+An image with a tv, a mouse, a table, a floor, a keyboard, a cell, and a chair.
+An image with a cell, a chair, a tv, a floor, a mouse, a table, and a keyboard.

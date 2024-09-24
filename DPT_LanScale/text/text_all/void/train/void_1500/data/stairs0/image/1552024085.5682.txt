@@ -8,3 +8,8 @@ The image shows a set of stairs with a glass panel on the side.
 The image shows a staircase with a glass wall, leading to an unseen destination.
 The image shows a staircase with a glass panel on the side, leading to a white wall.
 The image shows a staircase with a glass railing, leading to a door.
+An image with a floor, a stairs, and a wall.
+An image with a wall, a floor, and a stairs.
+An image with a wall, a stairs, and a floor.
+An image with a stairs, a wall, and a floor.
+An image with a stairs, a floor, and a wall.

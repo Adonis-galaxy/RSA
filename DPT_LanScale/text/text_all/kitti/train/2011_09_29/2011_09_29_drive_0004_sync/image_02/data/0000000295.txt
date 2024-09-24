@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars and a truck, and a traffic sig
 The image captures a bustling highway scene with a variety of vehicles, including cars and trucks, moving in both directions under a clear sky, with a sign indicating a right turn ahead.
 A busy highway with multiple lanes of traffic, surrounded by trees and a sign indicating a curve ahead.
 A busy highway with multiple lanes of traffic, surrounded by trees and a sign indicating a curve ahead.
+An image with eight cars, a pavement, a grass, a tree, a sky, and a road.
+An image with a sky, eight cars, a road, a grass, a tree, and a pavement.
+An image with a grass, eight cars, a pavement, a sky, a road, and a tree.
+An image with eight cars, a tree, a sky, a road, a pavement, and a grass.
+An image with eight cars, a pavement, a sky, a grass, a road, and a tree.

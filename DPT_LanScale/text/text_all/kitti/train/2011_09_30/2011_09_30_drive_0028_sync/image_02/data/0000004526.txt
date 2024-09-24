@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a mix of parked cars, a curved sidewalk, a white building with a blue sign, and a church with a tall steeple.
 The image shows a residential street with a white building, a curved sidewalk, a few parked cars, a street sign, and a tree.
 The image depicts a residential street with a curved road, a white building with a blue sign, a church with a white steeple, a sidewalk, a fence, and parked cars.
+An image with a fire, a fence, two cars, a building, a wall, a pavement, a tree, a road, a stop, a sky, and a grass.
+An image with a stop, a road, a grass, a tree, two cars, a fire, a wall, a building, a fence, a pavement, and a sky.
+An image with a grass, a tree, a sky, a fence, a fire, a stop, two cars, a building, a road, a pavement, and a wall.
+An image with a fire, a tree, a wall, a grass, a road, a stop, a fence, two cars, a building, a sky, and a pavement.
+An image with a wall, a road, two cars, a stop, a fire, a tree, a sky, a pavement, a fence, a grass, and a building.

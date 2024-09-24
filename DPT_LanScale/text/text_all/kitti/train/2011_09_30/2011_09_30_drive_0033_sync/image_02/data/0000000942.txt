@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a street, surrounded by trees and a building, with a clear sky overhead.
 A white van is parked on a narrow street, surrounded by trees and a building.
 A white van is parked on a street, adjacent to a sidewalk and a building, with trees and a fence in the background.
+An image with a tree, a pavement, a road, a house, a sky, a wall, and a truck.
+An image with a road, a tree, a truck, a sky, a wall, a house, and a pavement.
+An image with a wall, a tree, a road, a pavement, a house, a truck, and a sky.
+An image with a house, a wall, a tree, a road, a pavement, a truck, and a sky.
+An image with a truck, a house, a tree, a pavement, a sky, a road, and a wall.

@@ -8,3 +8,8 @@ The image shows a residential street with houses, trees, and people walking.
 A quiet residential street, with a few pedestrians and parked cars, under a clear sky.
 A man and a woman are walking on a sidewalk next to a house with a red roof.
 A quiet residential street with a few parked cars, a man walking on the sidewalk, and a house with a red roof.
+An image with a grass, four people, a wall, a tree, a sky, a pavement, two cars, a house, a road, and a roof.
+An image with four people, a tree, a sky, a grass, a roof, a road, a pavement, a wall, a house, and two cars.
+An image with a tree, four people, a pavement, a road, two cars, a grass, a house, a wall, a sky, and a roof.
+An image with a grass, four people, a house, a tree, a pavement, a road, a wall, two cars, a roof, and a sky.
+An image with a tree, four people, a wall, a sky, a pavement, a grass, a road, two cars, a house, and a roof.

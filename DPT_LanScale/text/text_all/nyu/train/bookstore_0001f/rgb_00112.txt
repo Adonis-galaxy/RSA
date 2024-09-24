@@ -8,3 +8,8 @@ The image shows an interior view of a bookstore.
 The image captures the essence of a well-organized bookstore with aisles leading to rows of shelves, showcasing a variety of books and magazines.
 The image shows an interior view of a bookstore with aisles filled with bookshelves, and the perspective is from the middle of the store, looking towards the back.
 The image shows an interior view of a bookstore with aisles leading to shelves stocked with books, and aisle markers indicating section numbers.
+An image with a shelf, a ceiling, a wall, a light, and a floor.
+An image with a floor, a ceiling, a wall, a light, and a shelf.
+An image with a ceiling, a wall, a light, a floor, and a shelf.
+An image with a wall, a shelf, a floor, a ceiling, and a light.
+An image with a light, a wall, a ceiling, a floor, and a shelf.

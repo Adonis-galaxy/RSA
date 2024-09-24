@@ -8,3 +8,8 @@ A woman walking down a tree-lined street.
 A woman walks down a tree-lined street, passing by a woman with a dog, with houses and parked cars in the background.
 A woman walks down a narrow, sunlit street lined with houses and trees, with a car parked at the end.
 A woman walks down a tree-lined street between two-story buildings, with a clear pathway and a few cars parked along the road.
+An image with two people, four cars, a house, a dog, a pavement, a tree, a road, and a sky.
+An image with four cars, a house, two people, a dog, a tree, a sky, a road, and a pavement.
+An image with a house, a road, a tree, four cars, a pavement, two people, a sky, and a dog.
+An image with a road, a pavement, a tree, four cars, two people, a dog, a sky, and a house.
+An image with two people, four cars, a sky, a house, a tree, a road, a dog, and a pavement.

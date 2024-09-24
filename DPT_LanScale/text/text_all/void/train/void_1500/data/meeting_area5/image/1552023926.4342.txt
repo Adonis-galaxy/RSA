@@ -8,3 +8,8 @@ A white table with four chairs in a room.
 A white table with four chairs in a room with a yellow wall.
 A white table with four chairs in a room with a yellow wall.
 The image shows a white table with four chairs in a room with a yellow wall and a silver trash can.
+An image with a mirror, a wall, three chairs, a tv, a floor, a dining, and a table.
+An image with a mirror, three chairs, a dining, a tv, a floor, a table, and a wall.
+An image with a dining, three chairs, a floor, a table, a tv, a wall, and a mirror.
+An image with three chairs, a wall, a dining, a floor, a mirror, a table, and a tv.
+An image with a tv, three chairs, a dining, a wall, a table, a floor, and a mirror.

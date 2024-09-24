@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 A long, narrow street lined with parked cars and buildings, with a clear sky overhead.
 The image shows a narrow street lined with parked cars and buildings, with a large black van parked on the right side.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a sky, a door, a road, nine cars, a pavement, a house, two trucks, and a tree.
+An image with a house, nine cars, a door, a tree, a pavement, two trucks, a road, and a sky.
+An image with nine cars, a sky, a house, a road, a door, two trucks, a pavement, and a tree.
+An image with nine cars, a house, a sky, a tree, a door, a road, two trucks, and a pavement.
+An image with a house, a tree, nine cars, two trucks, a road, a sky, a pavement, and a door.

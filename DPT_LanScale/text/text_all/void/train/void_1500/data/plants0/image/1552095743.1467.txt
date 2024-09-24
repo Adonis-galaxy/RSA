@@ -8,3 +8,8 @@ A wooden bench on a wooden deck.
 A wooden bench with a metal pole, situated on a wooden deck.
 A wooden bench with a metal pole, situated on a wooden deck.
 A wooden bench with a metal frame, situated on a wooden deck.
+An image with a wall, a tree, a fence, a floor, and a dirt.
+An image with a wall, a fence, a dirt, a tree, and a floor.
+An image with a dirt, a fence, a tree, a floor, and a wall.
+An image with a tree, a fence, a dirt, a floor, and a wall.
+An image with a wall, a tree, a dirt, a floor, and a fence.

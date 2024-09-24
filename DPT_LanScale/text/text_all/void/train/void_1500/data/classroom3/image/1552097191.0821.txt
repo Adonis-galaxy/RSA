@@ -8,3 +8,8 @@ The image shows a room with two black chairs on a carpeted floor.
 The image shows a room with two chairs on a carpeted floor, with a black and white sign on the back of one of the chairs.
 The image shows a room with two black chairs on a carpeted floor.
 The image shows a room with two chairs on a carpeted floor, with a black and white sign on the back of one of the chairs.
+An image with three chairs, a rug, a window, and a floor.
+An image with a rug, three chairs, a window, and a floor.
+An image with a rug, a floor, three chairs, and a window.
+An image with a floor, three chairs, a window, and a rug.
+An image with three chairs, a floor, a window, and a rug.

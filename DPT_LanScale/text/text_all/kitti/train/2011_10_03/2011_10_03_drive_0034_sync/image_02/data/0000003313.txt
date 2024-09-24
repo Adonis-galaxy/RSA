@@ -8,3 +8,8 @@ The image shows a street with a mailbox on the side.
 A quiet, tree-lined street with a mailbox and a sign, under a clear sky.
 The image shows a narrow street with a yellow mailbox on the side, a green hedge, a brick wall, and a tree canopy overhead.
 A tree-lined street with a yellow mailbox, a blue sign, and a brick wall.
+An image with two walls, a road, and a tree.
+An image with a tree, a road, and two walls.
+An image with a road, two walls, and a tree.
+An image with a tree, two walls, and a road.
+An image with two walls, a tree, and a road.

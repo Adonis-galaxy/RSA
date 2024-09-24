@@ -8,3 +8,8 @@ A man walking in a living room.
 A man in a dark blue shirt and black socks walks into a living room with a wooden floor, passing a brown couch and a coffee table with remotes on it.
 A man in a dark blue shirt and black shorts is walking across a wooden floor in a living room, passing a brown couch, a coffee table, and a dining table.
 A man in a dark blue shirt and black shorts is walking through a living room with hardwood floors, a brown couch, a coffee table, a dining table, and a bookshelf.
+An image with four chairs, eight books, two walls, a couch, a window, a table, a person, a curtain, two remotes, a floor, and a dining.
+An image with two walls, eight books, a dining, a person, two remotes, a table, a curtain, a floor, four chairs, a window, and a couch.
+An image with eight books, a window, two walls, a table, four chairs, two remotes, a person, a curtain, a couch, a floor, and a dining.
+An image with eight books, a dining, four chairs, a table, two remotes, a window, a couch, two walls, a floor, a curtain, and a person.
+An image with a dining, a floor, a window, four chairs, two walls, two remotes, a table, eight books, a couch, a curtain, and a person.

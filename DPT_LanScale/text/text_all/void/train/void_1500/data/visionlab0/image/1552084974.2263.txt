@@ -8,3 +8,8 @@ The image shows a room with a whiteboard, a trash can, a hat, and an umbrella.
 The image shows a room with a whiteboard, a blue trash can, a green trash can, a hat on a blue object, and a red umbrella.
 The image shows a room with a whiteboard, a blue trash can, a green trash can, a red umbrella, a hat, and a cardboard box.
 The image shows a room with a whiteboard, a blue trash can, a green trash can, a hat on a blue object, and a red umbrella on the floor.
+An image with a wall, a cabinet, a person, a cardboard, a floor, a tv, and a umbrella.
+An image with a cabinet, a cardboard, a wall, a floor, a umbrella, a tv, and a person.
+An image with a person, a cardboard, a cabinet, a wall, a floor, a tv, and a umbrella.
+An image with a tv, a cardboard, a floor, a person, a umbrella, a wall, and a cabinet.
+An image with a tv, a cabinet, a floor, a umbrella, a cardboard, a wall, and a person.

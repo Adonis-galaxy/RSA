@@ -8,3 +8,8 @@ The image shows a kitchen counter with a blue and yellow box of tissues on it.
 The image shows a small orange counter with a blue and yellow container on it, next to a gray refrigerator and a white door.
 The image shows a small orange counter with a blue and yellow container on it, next to a gray refrigerator and a white door.
 The image shows a small, orange countertop with a blue and yellow container on it, next to a gray refrigerator and a white door.
+An image with a floor, a paper, a cup, a wall, a refrigerator, and a cabinet.
+An image with a refrigerator, a floor, a cup, a wall, a cabinet, and a paper.
+An image with a wall, a cabinet, a refrigerator, a floor, a cup, and a paper.
+An image with a cabinet, a wall, a paper, a refrigerator, a floor, and a cup.
+An image with a paper, a cup, a floor, a refrigerator, a cabinet, and a wall.

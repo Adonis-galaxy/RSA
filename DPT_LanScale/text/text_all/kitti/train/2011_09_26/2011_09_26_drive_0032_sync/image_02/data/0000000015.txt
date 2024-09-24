@@ -8,3 +8,8 @@ The image shows a highway with vehicles and a guardrail.
 The image captures a moment of tranquility on a highway, with a clear view of the road ahead, flanked by lush greenery and a few vehicles in motion.
 A long, empty highway with a few vehicles, including a large truck, a car, and a bus, driving in the opposite direction.
 A long, straight highway with multiple lanes, bordered by trees and a guardrail, with vehicles including cars and trucks driving on it.
+An image with a fence, five cars, two trucks, a sky, a road, a tree, and a grass.
+An image with a road, a grass, five cars, a sky, two trucks, a fence, and a tree.
+An image with a road, a tree, five cars, a fence, two trucks, a sky, and a grass.
+An image with a grass, a sky, five cars, two trucks, a fence, a road, and a tree.
+An image with five cars, a road, a sky, a fence, two trucks, a tree, and a grass.

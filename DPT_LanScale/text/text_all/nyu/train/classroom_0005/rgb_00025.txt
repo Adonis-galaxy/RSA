@@ -8,3 +8,8 @@ A classroom with desks and chairs.
 The image depicts a classroom setting with multiple tables and chairs, a teacher's desk, and a bookshelf, all arranged in a manner that suggests a space designed for learning and instruction.
 The image shows a classroom with a large number of desks and chairs, some of which are empty, and a whiteboard with writing on it.
 The image shows a classroom with a long table surrounded by chairs, a teacher's desk, a bookshelf, and a bulletin board with various educational materials and posters.
+An image with a paper, five books, a shelf, thirteen chairs, three tvs, a rug, a wall, two keyboards, a table, a ceiling, and a mouse.
+An image with thirteen chairs, two keyboards, five books, a mouse, a paper, a rug, three tvs, a shelf, a table, a ceiling, and a wall.
+An image with thirteen chairs, three tvs, five books, a ceiling, a mouse, a shelf, a paper, two keyboards, a rug, a wall, and a table.
+An image with a paper, five books, thirteen chairs, a rug, a ceiling, a wall, a shelf, a mouse, three tvs, two keyboards, and a table.
+An image with five books, a paper, thirteen chairs, three tvs, a table, a rug, two keyboards, a mouse, a wall, a ceiling, and a shelf.

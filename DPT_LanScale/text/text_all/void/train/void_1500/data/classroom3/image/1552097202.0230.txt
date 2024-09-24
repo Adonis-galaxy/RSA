@@ -8,3 +8,8 @@ The image shows a carpeted floor with two black chairs and a white desk.
 The image shows a room with a desk and two chairs, one of which has a label on it.
 The image shows a small office space with two black chairs, a white desk, and a carpeted floor.
 The image shows a room with a desk and two chairs, a white wall, and a carpeted floor.
+An image with a wall, a rug, a table, a mouse, and two chairs.
+An image with a rug, a mouse, a wall, two chairs, and a table.
+An image with two chairs, a wall, a table, a rug, and a mouse.
+An image with a table, a mouse, two chairs, a wall, and a rug.
+An image with a mouse, two chairs, a table, a rug, and a wall.

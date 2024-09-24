@@ -8,3 +8,8 @@ A messy bedroom with a bed, a lamp, a basket of laundry, and a poster of the ame
 The image captures a bedroom scene with a messy bed, a laundry basket filled with clothes, and a poster of the American flag on the wall.
 The image shows a messy bedroom with a large bed, a full laundry basket, a small lamp, a poster of the American flag, and a window with red curtains.
 The image shows a messy bedroom with a bed covered in clothes, a laundry basket filled with more clothes, and a window with red curtains.
+An image with a cabinet, a wall, a curtain, a light, and a bed.
+An image with a bed, a wall, a curtain, a light, and a cabinet.
+An image with a curtain, a cabinet, a wall, a bed, and a light.
+An image with a curtain, a cabinet, a light, a bed, and a wall.
+An image with a light, a cabinet, a wall, a bed, and a curtain.

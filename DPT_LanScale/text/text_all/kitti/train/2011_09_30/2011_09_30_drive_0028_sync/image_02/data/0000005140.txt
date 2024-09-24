@@ -8,3 +8,8 @@ The image shows a street scene with a car, a trash can, and a parking meter.
 The image captures a quiet suburban street scene with a focus on the juxtaposition of urban infrastructure and nature.
 The image shows a street scene with a large white trash can on the sidewalk, a smaller white trash can on the side of the road, a car driving on the road, and trees lining the street.
 A quiet suburban street with a parked car, a pedestrian crossing, a trash can, and a tree-lined sidewalk.
+An image with a sky, seven cars, a tree, a road, a pavement, and a grass.
+An image with seven cars, a sky, a road, a pavement, a tree, and a grass.
+An image with seven cars, a sky, a pavement, a tree, a grass, and a road.
+An image with a tree, a sky, seven cars, a grass, a pavement, and a road.
+An image with a road, seven cars, a sky, a tree, a grass, and a pavement.

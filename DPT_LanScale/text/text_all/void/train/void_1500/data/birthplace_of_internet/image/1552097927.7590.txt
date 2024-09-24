@@ -8,3 +8,8 @@ A room with a refrigerator and a table.
 The image shows an office space with a desk, chair, and a refrigerator, all set against a green wall.
 The image shows a small room with a large refrigerator, a desk, a chair, and a trash can.
 The image shows an office space with a desk, chair, and a refrigerator, all set against a green wall.
+An image with two walls, three chairs, a tv, a floor, a refrigerator, a towel, a person, a shelf, and a dining.
+An image with a floor, three chairs, a refrigerator, a towel, a tv, a dining, two walls, a shelf, and a person.
+An image with a refrigerator, a tv, three chairs, a shelf, a person, two walls, a floor, a towel, and a dining.
+An image with two walls, a dining, a person, three chairs, a shelf, a floor, a tv, a refrigerator, and a towel.
+An image with three chairs, a shelf, a dining, two walls, a tv, a towel, a person, a floor, and a refrigerator.

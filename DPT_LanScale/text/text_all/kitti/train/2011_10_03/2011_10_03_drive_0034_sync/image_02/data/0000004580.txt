@@ -8,3 +8,8 @@ The image shows a street scene with a yellow car parked on the side of the road.
 A quiet residential street with a parked car and a sign indicating a one-way street.
 A yellow car is parked on the side of a narrow street, with a blue and red sign on a pole and a brick wall on the right side.
 A narrow, tree-lined street with parked cars, a yellow car, and a blue sign on a pole.
+An image with a sky, a wall, a tree, a grass, a pavement, a stop, two cars, and a road.
+An image with a tree, two cars, a wall, a pavement, a sky, a grass, a road, and a stop.
+An image with a road, a grass, two cars, a sky, a stop, a wall, a tree, and a pavement.
+An image with a wall, a sky, a grass, a tree, two cars, a pavement, a stop, and a road.
+An image with two cars, a stop, a sky, a tree, a pavement, a wall, a grass, and a road.

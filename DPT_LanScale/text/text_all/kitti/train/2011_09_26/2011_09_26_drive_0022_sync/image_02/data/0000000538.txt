@@ -8,3 +8,8 @@ The image shows a street scene with two cars parked on the side of the road.
 The image captures a moment of two cars parked on a street, with a third car approaching from the opposite direction, set against a backdrop of a tree-lined road and a fence.
 A red car is driving down a narrow road between two larger vehicles, with a blue car parked on the side.
 A narrow road with two cars parked on the side, one red and one blue, and a white gate on the left.
+An image with three cars, a fence, a sky, a road, a tree, a stop, and a grass.
+An image with a sky, a grass, three cars, a fence, a road, a stop, and a tree.
+An image with three cars, a stop, a fence, a sky, a tree, a grass, and a road.
+An image with a fence, a sky, a road, three cars, a grass, a tree, and a stop.
+An image with three cars, a fence, a tree, a stop, a sky, a grass, and a road.

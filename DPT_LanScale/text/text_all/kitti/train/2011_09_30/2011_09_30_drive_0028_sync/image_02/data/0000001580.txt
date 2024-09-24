@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a quiet residential street with a few parked cars, a curved road, and a clear blue sky.
 The image shows a residential street with a few parked cars, a sidewalk, and houses on both sides.
 The image depicts a residential street with a curved layout, featuring a mix of parked and moving vehicles, and a clear sky.
+An image with a building, five cars, a tree, a house, a road, a grass, a sky, and a pavement.
+An image with five cars, a house, a grass, a building, a sky, a tree, a road, and a pavement.
+An image with a tree, a road, a grass, five cars, a house, a sky, a pavement, and a building.
+An image with a road, a pavement, a house, five cars, a tree, a building, a grass, and a sky.
+An image with five cars, a tree, a road, a grass, a pavement, a building, a sky, and a house.

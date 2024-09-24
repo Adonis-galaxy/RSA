@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 The image captures a typical day in a suburban area, with a mix of residential and commercial buildings, a busy street with parked cars and pedestrians, and a train track running parallel to the road.
 The image shows a wide street with a crosswalk, lined with parked cars and trees, and a train track running alongside. There are also traffic lights and a few pedestrians visible.
 The image depicts a city street with a crosswalk, parked cars, a train track, and a pedestrian sidewalk.
+An image with a pavement, nine cars, a tree, a sky, a building, a person, a grass, a fence, a railroad, and a road.
+An image with nine cars, a railroad, a road, a person, a fence, a building, a sky, a tree, a pavement, and a grass.
+An image with nine cars, a fence, a sky, a tree, a building, a person, a pavement, a road, a railroad, and a grass.
+An image with a fence, a person, a tree, nine cars, a pavement, a building, a sky, a railroad, a road, and a grass.
+An image with nine cars, a sky, a grass, a building, a pavement, a person, a road, a fence, a railroad, and a tree.

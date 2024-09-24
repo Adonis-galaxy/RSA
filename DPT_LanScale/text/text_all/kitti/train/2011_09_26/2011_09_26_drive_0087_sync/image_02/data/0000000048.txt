@@ -8,3 +8,8 @@ A black car parked on a street.
 A black car parked on a narrow, shaded street, with a white garage in the background.
 A black car is parked in a narrow alleyway between two walls, with a white garage door in the background.
 A black car is parked on a narrow street between two walls of greenery, with a garage visible in the background.
+An image with a house, a tree, a car, and a pavement.
+An image with a tree, a car, a house, and a pavement.
+An image with a tree, a car, a pavement, and a house.
+An image with a car, a tree, a pavement, and a house.
+An image with a car, a pavement, a house, and a tree.

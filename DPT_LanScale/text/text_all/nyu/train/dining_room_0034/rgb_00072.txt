@@ -8,3 +8,8 @@ A window in a room.
 The image captures a cozy corner of a room, featuring a window with a view of the outside, a wooden cabinet with a glass door, a chair, and a table with various objects on it, including a menorah and a vase.
 The image shows a room with a large window, a dark wooden counter, a framed picture on the wall, a shelf with various items, a chair, and a table.
 The image shows a room with a window, a counter, a chair, and various decorative items, including a menorah and a framed picture.
+An image with three chairs, a cup, a window, a wall, a dining, a book, and a cabinet.
+An image with a book, three chairs, a dining, a window, a cabinet, a cup, and a wall.
+An image with a cabinet, three chairs, a window, a cup, a dining, a book, and a wall.
+An image with a book, a cup, a window, three chairs, a wall, a dining, and a cabinet.
+An image with a window, a wall, a book, three chairs, a cabinet, a dining, and a cup.

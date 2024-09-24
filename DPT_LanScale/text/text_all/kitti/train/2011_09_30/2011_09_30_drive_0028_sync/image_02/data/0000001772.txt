@@ -8,3 +8,8 @@ The image shows a quiet residential street.
 A quiet residential street, lined with houses and trees, leads to a cul-de-sac.
 The image shows a narrow, tree-lined street between two-story houses, with a car parked on the right side and a person walking on the left side.
 A narrow, tree-lined street with houses on both sides, leading to a cul-de-sac.
+An image with a stop, two cars, a person, a road, a sky, a tree, a pavement, a grass, a house, a wall, and a truck.
+An image with two cars, a grass, a house, a wall, a road, a tree, a stop, a pavement, a sky, a person, and a truck.
+An image with a house, a tree, a sky, a pavement, a person, two cars, a stop, a grass, a wall, a truck, and a road.
+An image with a truck, a tree, a road, a person, a wall, two cars, a sky, a pavement, a grass, a stop, and a house.
+An image with a sky, two cars, a truck, a wall, a pavement, a person, a grass, a road, a stop, a tree, and a house.

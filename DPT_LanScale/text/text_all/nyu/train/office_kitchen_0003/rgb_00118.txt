@@ -8,3 +8,8 @@ A white refrigerator in a kitchen.
 A small, empty room with a white refrigerator, a white table, a white chair, and a few personal items.
 A small white chair is in front of a large white refrigerator in a room with a yellow wall.
 A small, simple kitchenette with a white refrigerator, a white table, a white chair, and a few personal items.
+An image with a dining, a wall, a chair, a floor, a handbag, a cell, and a refrigerator.
+An image with a wall, a refrigerator, a handbag, a cell, a floor, a dining, and a chair.
+An image with a wall, a handbag, a refrigerator, a dining, a cell, a floor, and a chair.
+An image with a handbag, a wall, a refrigerator, a cell, a floor, a dining, and a chair.
+An image with a refrigerator, a wall, a handbag, a chair, a dining, a floor, and a cell.

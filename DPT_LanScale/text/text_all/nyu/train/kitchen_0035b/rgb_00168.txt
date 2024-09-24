@@ -8,3 +8,8 @@ A kitchen with a stove and a microwave.
 The image captures a well-lit kitchen with a dark brown wooden cabinet, a stainless steel oven, a white door, and a television mounted on the wall.
 The image shows a kitchen with a large refrigerator and a microwave oven.
 The image shows a kitchen with a dark wood cabinet, a stainless steel oven, a white door, and a blue wall.
+An image with a floor, a refrigerator, a cabinet, a microwave, a wall, a sink, two ovens, a door, and a counter.
+An image with a floor, two ovens, a door, a refrigerator, a wall, a microwave, a counter, a cabinet, and a sink.
+An image with a refrigerator, a floor, two ovens, a cabinet, a door, a sink, a wall, a counter, and a microwave.
+An image with two ovens, a door, a sink, a floor, a microwave, a wall, a cabinet, a refrigerator, and a counter.
+An image with a refrigerator, a counter, a floor, two ovens, a cabinet, a door, a sink, a wall, and a microwave.

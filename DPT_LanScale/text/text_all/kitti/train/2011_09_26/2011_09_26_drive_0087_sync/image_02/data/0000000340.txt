@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded alleyway between two buildings, with a fence and a staircase leading to a higher level.
 The image shows a narrow alleyway between two buildings, with a white fence on the left and a green fence on the right, and a ladder leading up to a balcony on the right side.
 A narrow, shaded alleyway between two buildings, with a fence and a staircase leading to a higher level.
+An image with a house, a bridge, a fence, a car, a grass, a tree, a sky, a road, and a roof.
+An image with a tree, a bridge, a road, a car, a roof, a grass, a sky, a fence, and a house.
+An image with a bridge, a car, a house, a fence, a sky, a tree, a roof, a grass, and a road.
+An image with a car, a sky, a road, a fence, a bridge, a house, a roof, a grass, and a tree.
+An image with a grass, a house, a tree, a car, a road, a roof, a bridge, a sky, and a fence.

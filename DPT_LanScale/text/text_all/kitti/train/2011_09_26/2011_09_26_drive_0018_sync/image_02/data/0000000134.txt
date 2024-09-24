@@ -8,3 +8,8 @@ The image shows a busy street with multiple cars and traffic lights.
 The image captures a bustling city intersection with a mix of vehicles and traffic signals, set against a backdrop of trees and a clear blue sky.
 The image shows a wide, multi-lane road with traffic lights, street signs, and vehicles, including a large white van, a car, and a bus, all captured in a fisheye lens effect.
 The image depicts a busy street intersection with multiple lanes, traffic lights, and vehicles, set against a backdrop of trees and a clear blue sky.
+An image with five cars, a road, a pavement, three traffics, a truck, and a tree.
+An image with five cars, a pavement, three traffics, a road, a tree, and a truck.
+An image with five cars, a truck, three traffics, a pavement, a tree, and a road.
+An image with a road, three traffics, a tree, a truck, five cars, and a pavement.
+An image with a road, five cars, a tree, three traffics, a pavement, and a truck.

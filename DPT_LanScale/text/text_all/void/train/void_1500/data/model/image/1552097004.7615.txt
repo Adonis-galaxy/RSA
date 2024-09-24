@@ -8,3 +8,8 @@ A blurry model of a building.
 The image shows a model of a cityscape with a focus on a building, taken from a low angle.
 The image shows a model of a cityscape with a tall building and a street, with a focus on the building's facade and the street leading to it.
 The image shows a model of a cityscape with a focus on a building, a street, and a sidewalk.
+An image with a floor, a building, and a person.
+An image with a person, a floor, and a building.
+An image with a floor, a person, and a building.
+An image with a building, a person, and a floor.
+An image with a building, a person, and a floor.

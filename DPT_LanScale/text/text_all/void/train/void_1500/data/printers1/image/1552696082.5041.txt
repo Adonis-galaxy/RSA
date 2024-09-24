@@ -8,3 +8,8 @@ Two printers on a table.
 Two printers on a table with a paper on it.
 Two large printers on a wooden table.
 Two identical printers are placed side by side on a wooden table, with a piece of paper on the table between them.
+An image with a wall, a rug, a paper, and a table.
+An image with a paper, a rug, a wall, and a table.
+An image with a paper, a table, a rug, and a wall.
+An image with a rug, a wall, a paper, and a table.
+An image with a wall, a rug, a table, and a paper.

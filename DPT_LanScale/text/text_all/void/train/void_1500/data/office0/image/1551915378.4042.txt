@@ -8,3 +8,8 @@ A stack of papers on a desk.
 A cluttered desk with a coffee cup and papers.
 A cluttered desk with a stack of papers, a coffee cup, and a book.
 A cluttered desk with a stack of papers and a coffee cup.
+An image with two books, a refrigerator, a wall, a cup, and a table.
+An image with a cup, a wall, a refrigerator, two books, and a table.
+An image with two books, a table, a wall, a cup, and a refrigerator.
+An image with a cup, a refrigerator, two books, a wall, and a table.
+An image with a table, a refrigerator, a cup, two books, and a wall.

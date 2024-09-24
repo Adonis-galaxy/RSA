@@ -8,3 +8,8 @@ A tow truck is parked on a narrow street.
 A tow truck is parked on a narrow street between two buildings, with trees lining the road.
 A large truck is driving down a narrow street between two buildings, with trees lining the sides.
 A narrow street lined with trees and buildings, with a tow truck parked on the side.
+An image with a building, a truck, a road, a grass, three cars, a pavement, a fence, a window, and a tree.
+An image with three cars, a road, a pavement, a building, a fence, a tree, a truck, a grass, and a window.
+An image with a road, a window, three cars, a tree, a building, a grass, a pavement, a truck, and a fence.
+An image with a building, a truck, a pavement, three cars, a grass, a fence, a tree, a road, and a window.
+An image with a building, a road, a truck, three cars, a window, a fence, a pavement, a grass, and a tree.

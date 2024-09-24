@@ -8,3 +8,8 @@ The image shows a street scene with a yellow van parked on the side of the road.
 A quiet residential street with a yellow van parked at the bottom, a stone wall, and a white building with a black gate.
 The image shows a narrow street with a yellow van parked on the side, a brick wall, a white building with a black gate, a street sign, and a tree.
 A narrow, tree-lined street with a yellow van parked on the right side, leading to a white building with a black gate and a brick wall.
+An image with a grass, a road, a pavement, a house, a tree, a wall, a car, and a sky.
+An image with a car, a grass, a road, a wall, a tree, a sky, a pavement, and a house.
+An image with a grass, a tree, a road, a wall, a pavement, a house, a car, and a sky.
+An image with a sky, a wall, a pavement, a car, a house, a grass, a tree, and a road.
+An image with a wall, a sky, a pavement, a grass, a tree, a road, a car, and a house.

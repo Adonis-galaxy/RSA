@@ -8,3 +8,8 @@ The image shows a tree-lined street.
 A quiet, tree-lined street with a clear view of the sky.
 The image shows a narrow, tree-lined street with a sidewalk, a small building, and a utility box on the right side.
 A tree-lined street with a curved road leading to a cul-de-sac, bordered by a sidewalk and a fence.
+An image with a sky, a road, a tree, a pavement, and a fence.
+An image with a sky, a tree, a fence, a pavement, and a road.
+An image with a sky, a fence, a road, a pavement, and a tree.
+An image with a pavement, a fence, a tree, a road, and a sky.
+An image with a fence, a pavement, a road, a tree, and a sky.

@@ -8,3 +8,8 @@ A woman standing on the side of a road.
 A woman stands on a sidewalk, watching cars parked on a tree-lined street.
 A woman stands on a sidewalk, holding a dog on a leash, while cars are parked along a narrow street.
 A woman stands on a sidewalk, watching cars parked along a tree-lined street.
+An image with seven cars, a handbag, a road, a sky, a wall, a truck, a tree, a person, and a pavement.
+An image with seven cars, a sky, a person, a handbag, a tree, a truck, a pavement, a road, and a wall.
+An image with seven cars, a truck, a wall, a person, a handbag, a sky, a road, a pavement, and a tree.
+An image with a sky, seven cars, a pavement, a handbag, a tree, a wall, a road, a truck, and a person.
+An image with a tree, a handbag, a truck, a sky, seven cars, a person, a wall, a pavement, and a road.

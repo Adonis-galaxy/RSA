@@ -8,3 +8,8 @@ A black chair is in the corner of a room.
 A bag sits on a table next to a chair, with a phone and a paper on the table.
 A small table with a handbag, a cell phone, and a white paper on it.
 A simple, uncluttered room with a white table, a black chair, a gray bag, a white bag, and a black phone.
+An image with a wall, a handbag, a dining, a cell, two chairs, and a refrigerator.
+An image with a handbag, a refrigerator, a wall, two chairs, a cell, and a dining.
+An image with a refrigerator, two chairs, a cell, a wall, a handbag, and a dining.
+An image with a cell, two chairs, a dining, a handbag, a refrigerator, and a wall.
+An image with a wall, two chairs, a dining, a handbag, a cell, and a refrigerator.

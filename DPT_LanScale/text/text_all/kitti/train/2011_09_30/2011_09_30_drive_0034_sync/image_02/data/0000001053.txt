@@ -8,3 +8,8 @@ A narrow street in a residential area.
 A young child stands on a sidewalk, looking at a house with a wooden fence and a brick driveway, under a clear blue sky.
 A narrow street lined with houses and trees, with a small child walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with houses on both sides, leads to a cul-de-sac.
+An image with a road, a sky, a house, a fence, a tree, a person, a car, and a grass.
+An image with a road, a sky, a car, a person, a tree, a house, a grass, and a fence.
+An image with a fence, a tree, a sky, a person, a road, a house, a grass, and a car.
+An image with a road, a car, a house, a fence, a grass, a person, a tree, and a sky.
+An image with a road, a house, a tree, a grass, a fence, a person, a car, and a sky.

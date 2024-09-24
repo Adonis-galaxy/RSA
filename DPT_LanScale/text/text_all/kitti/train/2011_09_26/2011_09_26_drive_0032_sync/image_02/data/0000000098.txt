@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes and a median, with cars driving on
 The image captures a scene of a highway with multiple lanes, a median, and a sign indicating a road ahead. The highway is lined with trees and there are cars driving on it.
 The image shows a wide, multi-lane highway with a few cars driving on it, surrounded by a grassy area and trees, with a large yellow sign on the right side of the road.
 A highway with multiple lanes, a median, and a sign indicating a toll road.
+An image with a grass, a tree, two people, six cars, a road, and a fence.
+An image with six cars, a tree, two people, a fence, a road, and a grass.
+An image with six cars, two people, a grass, a tree, a road, and a fence.
+An image with six cars, two people, a grass, a road, a fence, and a tree.
+An image with six cars, two people, a grass, a fence, a tree, and a road.

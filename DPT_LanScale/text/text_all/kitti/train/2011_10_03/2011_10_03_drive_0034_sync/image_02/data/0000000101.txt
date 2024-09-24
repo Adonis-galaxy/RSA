@@ -8,3 +8,8 @@ The image shows a street with a car driving down it.
 A car is driving down a tree-lined street, with a clear sky overhead and a building in the distance.
 A car is driving down a tree-lined street.
 A car is driving down a tree-lined street with a crosswalk, and there are parked cars on the side of the road.
+An image with three cars, a tree, a grass, a road, a building, a pavement, and a sky.
+An image with a building, a pavement, three cars, a sky, a road, a grass, and a tree.
+An image with three cars, a road, a building, a pavement, a sky, a grass, and a tree.
+An image with a grass, three cars, a building, a sky, a tree, a road, and a pavement.
+An image with a pavement, three cars, a sky, a grass, a road, a tree, and a building.

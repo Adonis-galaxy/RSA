@@ -8,3 +8,8 @@ A room with a green wall and a bookshelf.
 The image shows a room with a green wall, a bookshelf, a refrigerator, and a desk with papers and a phone.
 The image shows a room with a green wall, a bookshelf, a refrigerator, and a desk with papers and a phone.
 The image shows an office space with a green wall, a bookshelf filled with books, a whiteboard, and a desk with papers and a phone.
+An image with nineteen books, a refrigerator, a floor, a wall, a light, a ceiling, a paper, and a shelf.
+An image with nineteen books, a refrigerator, a light, a ceiling, a wall, a paper, a floor, and a shelf.
+An image with nineteen books, a wall, a floor, a shelf, a ceiling, a light, a paper, and a refrigerator.
+An image with nineteen books, a light, a floor, a wall, a refrigerator, a shelf, a ceiling, and a paper.
+An image with nineteen books, a floor, a ceiling, a light, a wall, a paper, a shelf, and a refrigerator.

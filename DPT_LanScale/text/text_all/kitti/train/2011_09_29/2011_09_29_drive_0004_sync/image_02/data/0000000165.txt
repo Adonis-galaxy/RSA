@@ -8,3 +8,8 @@ The image shows a busy highway with cars and a sign.
 A busy highway with a mix of vehicles, including cars and trucks, driving under a clear sky, with a sign indicating a lane change ahead.
 A busy highway with multiple lanes of traffic, surrounded by lush green trees and a clear blue sky.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with eight cars, a pavement, a sky, a road, a grass, and a tree.
+An image with eight cars, a road, a sky, a tree, a pavement, and a grass.
+An image with a road, eight cars, a tree, a sky, a grass, and a pavement.
+An image with a sky, eight cars, a grass, a road, a pavement, and a tree.
+An image with a pavement, a grass, a sky, a road, eight cars, and a tree.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a mix of vehicles and pedestrians, under a clear sky.
 The image shows a narrow street lined with trees and buildings, with a bus and a car visible in the distance.
 The image depicts a quiet residential street with a mix of trees, buildings, and parked cars, leading to a clear sky.
+An image with three cars, a tree, a bus, a sky, a road, and a house.
+An image with three cars, a bus, a tree, a road, a house, and a sky.
+An image with three cars, a road, a sky, a house, a bus, and a tree.
+An image with three cars, a sky, a house, a road, a bus, and a tree.
+An image with a tree, three cars, a bus, a road, a sky, and a house.

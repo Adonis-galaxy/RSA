@@ -8,3 +8,8 @@ The image shows a street scene with a large truck, a small car, and a sidewalk.
 A large truck parked on the side of a narrow street, with a white car parked behind it and a row of houses lining the street.
 A large truck is parked on the side of a narrow street, with a small car parked behind it and a white building in the background.
 A narrow street in a residential area with parked cars, a truck, and a white building.
+An image with a road, a sky, two trucks, six cars, a house, a pavement, and a tree.
+An image with a pavement, two trucks, six cars, a road, a tree, a sky, and a house.
+An image with a sky, six cars, a road, two trucks, a house, a pavement, and a tree.
+An image with six cars, a sky, a pavement, a house, a road, two trucks, and a tree.
+An image with two trucks, a sky, a tree, a pavement, six cars, a road, and a house.

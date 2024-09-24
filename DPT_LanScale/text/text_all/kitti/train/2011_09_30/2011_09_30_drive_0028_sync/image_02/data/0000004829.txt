@@ -8,3 +8,8 @@ A person walking across a street.
 A person stands in the middle of a crosswalk, surrounded by tall buildings and trees, with a red car parked nearby.
 A person is standing in the middle of a crosswalk in front of apartment buildings.
 A person stands in the middle of a crosswalk in front of apartment buildings, with a red car parked on the left side of the street.
+An image with a grass, a road, a building, a stop, a person, a car, a tree, and a sky.
+An image with a car, a grass, a person, a building, a sky, a tree, a stop, and a road.
+An image with a building, a stop, a person, a car, a grass, a road, a tree, and a sky.
+An image with a stop, a sky, a tree, a car, a road, a person, a grass, and a building.
+An image with a car, a tree, a sky, a grass, a stop, a road, a person, and a building.

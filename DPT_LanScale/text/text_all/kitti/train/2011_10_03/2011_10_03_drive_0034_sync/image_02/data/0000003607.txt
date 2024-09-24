@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with houses and trees, leading to a cul-de-sac.
 The image shows a narrow street lined with houses and trees, with a large concrete wall on the right side.
 A narrow, tree-lined street leads to a house with a red roof, situated on a hill.
+An image with a wall, a pavement, a tree, a house, a fence, a car, a road, and a sky.
+An image with a pavement, a fence, a tree, a house, a car, a road, a wall, and a sky.
+An image with a pavement, a house, a fence, a wall, a car, a sky, a tree, and a road.
+An image with a house, a road, a car, a wall, a fence, a tree, a sky, and a pavement.
+An image with a house, a fence, a pavement, a tree, a sky, a car, a road, and a wall.

@@ -8,3 +8,8 @@ The image shows a row of empty seats in an auditorium.
 The image shows a row of empty seats in an auditorium, with the focus on the back of the seats.
 The image shows a row of empty seats in a lecture hall, with the chairs facing the front of the room.
 The image shows a row of empty seats in an auditorium, with the chairs facing the same direction.
+An image with fifteen chairs, a wall, and a floor.
+An image with fifteen chairs, a wall, and a floor.
+An image with fifteen chairs, a floor, and a wall.
+An image with fifteen chairs, a floor, and a wall.
+An image with a floor, fifteen chairs, and a wall.

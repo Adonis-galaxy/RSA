@@ -8,3 +8,8 @@ The image shows a room with a doorway leading to another room.
 The image captures a cozy living room with a doorway leading to another room, featuring a white door, a flat-screen TV, and a clock on the wall.
 The image shows a small, dimly lit room with a white door and a white wall. A clock is mounted on the wall, and there is a television in the corner. The room appears to be a bedroom or a small living area.
 The image shows a room with a white door, a white wall, a wooden floor, a black television, a white clock, and a white door frame.
+An image with a book, a floor, a wall, a tv, a door, and a clock.
+An image with a tv, a clock, a wall, a door, a book, and a floor.
+An image with a door, a tv, a clock, a wall, a floor, and a book.
+An image with a book, a floor, a door, a clock, a wall, and a tv.
+An image with a floor, a wall, a book, a door, a clock, and a tv.

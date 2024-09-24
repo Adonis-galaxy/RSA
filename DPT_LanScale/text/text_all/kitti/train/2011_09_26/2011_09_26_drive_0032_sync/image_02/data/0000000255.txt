@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a tranquil scene of a tree-lined road with a few cars, where the sunlight creates a serene atmosphere.
 The image shows a wide, empty road with a few cars, a traffic light, and a sign, all captured in a fisheye lens effect.
 The image depicts a wide, tree-lined road with multiple lanes, a median, and traffic lights, leading to a roundabout at the end.
+An image with five cars, six traffics, a grass, a road, a tree, a stop, a truck, and a pavement.
+An image with a tree, five cars, a stop, six traffics, a road, a pavement, a grass, and a truck.
+An image with five cars, six traffics, a truck, a grass, a pavement, a road, a stop, and a tree.
+An image with five cars, six traffics, a pavement, a road, a grass, a tree, a truck, and a stop.
+An image with a grass, six traffics, five cars, a truck, a road, a pavement, a stop, and a tree.

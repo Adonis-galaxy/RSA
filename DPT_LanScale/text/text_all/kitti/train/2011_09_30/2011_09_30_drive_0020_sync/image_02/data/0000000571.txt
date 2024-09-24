@@ -8,3 +8,8 @@ The image shows a street with parked cars and a blue truck.
 A quiet residential street with parked cars and a blue truck, under a clear blue sky.
 A large blue truck is parked on the side of a narrow street lined with white buildings and trees.
 A narrow street lined with parked cars and buildings, with a blue truck parked on the side.
+An image with a truck, a traffic, ten cars, a grass, a tree, a road, a pavement, a sky, and a house.
+An image with ten cars, a road, a house, a pavement, a truck, a tree, a traffic, a grass, and a sky.
+An image with ten cars, a tree, a truck, a grass, a road, a traffic, a sky, a pavement, and a house.
+An image with ten cars, a sky, a traffic, a house, a road, a grass, a tree, a truck, and a pavement.
+An image with ten cars, a truck, a sky, a grass, a tree, a road, a pavement, a traffic, and a house.

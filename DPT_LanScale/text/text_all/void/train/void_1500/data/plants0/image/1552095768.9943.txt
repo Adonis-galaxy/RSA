@@ -8,3 +8,8 @@ A concrete curb next to a sandy area with grass and a tree stump.
 The image shows a concrete curb next to a sandy area with grass and a fallen tree branch.
 The image shows a concrete curb next to a sandy area with grass and a piece of wood.
 The image shows a concrete curb next to a sandy area with grass and a fallen tree trunk.
+An image with a wall, a sand, a pavement, a floor, and a tree.
+An image with a floor, a pavement, a wall, a tree, and a sand.
+An image with a wall, a pavement, a tree, a floor, and a sand.
+An image with a pavement, a wall, a floor, a tree, and a sand.
+An image with a sand, a wall, a tree, a pavement, and a floor.

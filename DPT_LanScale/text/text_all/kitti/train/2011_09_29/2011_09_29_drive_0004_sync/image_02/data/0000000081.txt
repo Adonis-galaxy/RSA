@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars driving on it.
 The image captures a scene of a busy road with multiple vehicles, including cars and a truck, driving in both directions under a clear sky, with a forest on one side and a road sign indicating a speed limit of 50 on the other.
 A busy highway with multiple cars, a speed limit sign, and a construction sign, all set against a backdrop of lush green trees.
 A busy highway with multiple lanes, surrounded by lush greenery and trees, with a clear sky overhead.
+An image with eight cars, a sky, a stop, a tree, a road, and a grass.
+An image with a sky, eight cars, a grass, a road, a tree, and a stop.
+An image with eight cars, a grass, a stop, a tree, a road, and a sky.
+An image with a sky, a grass, eight cars, a road, a stop, and a tree.
+An image with a sky, eight cars, a stop, a grass, a road, and a tree.

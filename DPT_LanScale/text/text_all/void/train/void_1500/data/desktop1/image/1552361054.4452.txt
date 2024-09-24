@@ -8,3 +8,8 @@ A computer desk with a keyboard, mouse, monitor, and a box of annie's cheddar bu
 A computer desk with a keyboard, mouse, monitor, and a box of annie's cheddar bunnies.
 A computer desk with a keyboard, mouse, monitor, and a box of annie's cheddar bunnies.
 A computer desk with a keyboard, mouse, monitor, and a box of Annie's cheddar bunnies.
+An image with a tv, a mouse, a chair, a cardboard, a wall, a cat, a keyboard, a table, and a cell.
+An image with a mouse, a table, a wall, a tv, a keyboard, a cardboard, a cat, a cell, and a chair.
+An image with a cell, a keyboard, a mouse, a cardboard, a chair, a tv, a wall, a cat, and a table.
+An image with a keyboard, a cardboard, a table, a chair, a mouse, a cat, a wall, a cell, and a tv.
+An image with a cell, a table, a cat, a mouse, a cardboard, a tv, a wall, a chair, and a keyboard.

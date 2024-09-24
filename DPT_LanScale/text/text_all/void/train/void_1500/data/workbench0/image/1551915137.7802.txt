@@ -8,3 +8,8 @@ A desk with various items on it.
 A desk with a tape measure, a roll of tape, a box of pasta, and a coffee cup.
 A desk with a box of macaroni, a roll of tape, a pair of scissors, a ruler, and a coffee cup.
 A desk with a box of cereal, a roll of tape, a pair of scissors, and a ruler.
+An image with two chairs, a bowl, a cardboard, a wall, and a table.
+An image with a bowl, two chairs, a table, a wall, and a cardboard.
+An image with two chairs, a table, a cardboard, a bowl, and a wall.
+An image with a cardboard, a bowl, a table, two chairs, and a wall.
+An image with two chairs, a cardboard, a table, a bowl, and a wall.

@@ -8,3 +8,8 @@ A bedroom with a bed, desk, chair, and television.
 A small, cluttered bedroom with a bed, desk, chair, and television.
 The image shows a small, dimly lit room with a bed, a chair, a desk with a computer monitor, and a window with brown curtains.
 The image shows a small, dark room with a bed, a desk with a computer monitor, a chair, and a window with brown curtains.
+An image with a wall, a suitcase, a curtain, a rug, a table, a bed, a chair, and a tv.
+An image with a rug, a curtain, a wall, a tv, a bed, a suitcase, a chair, and a table.
+An image with a tv, a table, a chair, a wall, a rug, a suitcase, a curtain, and a bed.
+An image with a tv, a wall, a suitcase, a bed, a chair, a curtain, a rug, and a table.
+An image with a bed, a rug, a tv, a chair, a table, a curtain, a suitcase, and a wall.

@@ -8,3 +8,8 @@ A row of empty seats in a waiting room.
 A row of empty seats in a waiting area.
 A row of empty brown theater seats on a tiled floor.
 The image shows a row of empty seats in a waiting area, with a green cabinet and a black armrest in the foreground.
+An image with a floor, six chairs, a wall, and a refrigerator.
+An image with a wall, six chairs, a refrigerator, and a floor.
+An image with six chairs, a floor, a wall, and a refrigerator.
+An image with six chairs, a refrigerator, a wall, and a floor.
+An image with six chairs, a wall, a refrigerator, and a floor.

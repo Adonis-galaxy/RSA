@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with houses, parked cars, and a lush greenery, under a clear blue sky.
 The image depicts a narrow, tree-lined street lined with parked cars and houses, with a brick sidewalk and a red trash can.
 A narrow, tree-lined street with parked cars, leading to a row of houses with garages and windows.
+An image with a door, a pavement, a window, a tree, a house, five cars, a roof, a building, a fence, a sky, and a chair.
+An image with a door, a building, a tree, five cars, a sky, a roof, a pavement, a window, a house, a fence, and a chair.
+An image with five cars, a tree, a building, a pavement, a window, a sky, a roof, a chair, a house, a fence, and a door.
+An image with five cars, a roof, a tree, a house, a window, a building, a pavement, a door, a sky, a chair, and a fence.
+An image with a house, five cars, a pavement, a building, a roof, a sky, a chair, a tree, a door, a fence, and a window.

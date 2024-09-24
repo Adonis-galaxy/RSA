@@ -8,3 +8,8 @@ The image shows a highway with a clear view of the road ahead.
 The image captures a long, empty highway with a clear sky, a few signs, and a distant view of a cityscape.
 The image shows a wide, empty highway with a clear blue sky, a few trees, and a few signs, with no visible traffic.
 The image shows a long, straight road with multiple lanes, a central divider, and a clear sky above.
+An image with a tree, a pavement, a train, a grass, a fence, and a road.
+An image with a fence, a road, a grass, a pavement, a train, and a tree.
+An image with a train, a pavement, a fence, a road, a grass, and a tree.
+An image with a road, a grass, a pavement, a tree, a fence, and a train.
+An image with a grass, a fence, a pavement, a road, a tree, and a train.

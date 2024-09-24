@@ -8,3 +8,8 @@ A black car parked on the side of a street.
 A black Audi car parked on the side of a tree-lined street, with a white gate and a brick wall in the background.
 A black car is parked on the side of a narrow street, with a white gate and a brick wall on the right side.
 A black Audi car is parked on the side of a tree-lined street, with a white fence and a brick wall on the right side, and a white house with a blue sky in the background.
+An image with a road, two cars, a tree, a door, two walls, a sky, a pavement, a fence, and a house.
+An image with two cars, two walls, a tree, a pavement, a house, a fence, a sky, a door, and a road.
+An image with a pavement, two cars, a road, a fence, two walls, a tree, a house, a door, and a sky.
+An image with two walls, a road, a pavement, a house, a fence, two cars, a sky, a door, and a tree.
+An image with a house, a fence, two walls, two cars, a pavement, a tree, a sky, a door, and a road.

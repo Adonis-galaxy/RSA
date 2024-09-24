@@ -8,3 +8,8 @@ The image shows a room with three black chairs and two orange tables.
 The image shows a room with three black chairs and two orange tables, with one chair and table in the foreground and the other two in the background.
 The image shows three black chairs with orange tops, placed in a room with a white floor and a gray trash can.
 The image shows a room with three black chairs and two orange tables, arranged in a way that the chairs are facing the tables.
+An image with a dining, two walls, three chairs, and a floor.
+An image with three chairs, two walls, a floor, and a dining.
+An image with two walls, three chairs, a dining, and a floor.
+An image with a floor, three chairs, a dining, and two walls.
+An image with three chairs, two walls, a dining, and a floor.

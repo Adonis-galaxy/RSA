@@ -8,3 +8,8 @@ The image shows a street scene with a car on a road, a crosswalk, and buildings 
 The image captures a quiet, tree-lined street in a European town, with a few cars parked along the side and a pedestrian crossing in the foreground.
 The image shows a narrow street in a European town, with a mix of old and new buildings, a few cars, and a pedestrian crossing.
 The image depicts a European city street with a mix of old and new architecture, featuring a zebra crossing, a red car, and a blue sign.
+An image with eight cars, a traffic, a tree, a road, a pavement, a grass, a wall, a house, a mountain, and a building.
+An image with a tree, eight cars, a traffic, a wall, a house, a grass, a pavement, a road, a building, and a mountain.
+An image with eight cars, a house, a grass, a wall, a building, a traffic, a road, a tree, a mountain, and a pavement.
+An image with a tree, a pavement, a grass, eight cars, a road, a house, a wall, a mountain, a traffic, and a building.
+An image with eight cars, a traffic, a house, a mountain, a pavement, a wall, a building, a road, a grass, and a tree.

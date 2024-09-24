@@ -8,3 +8,8 @@ A model of a cityscape.
 The image shows a model of a cityscape with buildings and a street, displayed on a glass shelf.
 The image shows a model of a city with buildings, a street, and a courtyard, all displayed on a glass shelf.
 The image shows a model of a city with various buildings, including a large white building, and a street running through the center.
+An image with a building, a floor, and a table.
+An image with a building, a floor, and a table.
+An image with a building, a table, and a floor.
+An image with a table, a floor, and a building.
+An image with a building, a table, and a floor.

@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a quiet residential street, with a house nestled among lush greenery, a street sign standing sentinel at the corner, and a tree casting a gentle shadow over the asphalt.
 The image shows a street corner with a small sign on a pole, a brick wall, a house with a red roof, a tree with red leaves, and a street with white lines.
 The image shows a residential street with a curved road, a brick wall, a house with a chimney, a street sign, and trees lining the road.
+An image with a wall, a tree, a roof, a road, and a sky.
+An image with a roof, a wall, a tree, a sky, and a road.
+An image with a road, a roof, a tree, a sky, and a wall.
+An image with a tree, a roof, a sky, a wall, and a road.
+An image with a road, a sky, a wall, a roof, and a tree.

@@ -8,3 +8,8 @@ A black chair with a white label on it.
 A black desk with a blue box of tissues and a white sign that says "reserved" on it.
 The image shows a black desk with a blue box of tissues on it, a white sign that says "reserved" in the foreground, and a large black machine in the background.
 The image shows a black desk with a computer monitor, keyboard, and mouse on it, along with a blue box and a white sign that says "RESERVED" on a wooden table in a room with a large window.
+An image with a window, a paper, three chairs, a wall, a tv, a cardboard, and a table.
+An image with a window, three chairs, a table, a paper, a tv, a wall, and a cardboard.
+An image with a table, a paper, a tv, a cardboard, a window, a wall, and three chairs.
+An image with a paper, a cardboard, a table, a window, a wall, three chairs, and a tv.
+An image with three chairs, a table, a cardboard, a wall, a window, a tv, and a paper.

@@ -8,3 +8,8 @@ A car on a street.
 A car is driving down a tree-lined street, passing by a building with a red roof.
 A small silver car is driving down a tree-lined street in a residential area.
 A car is driving down a tree-lined street in a residential area, with apartment buildings and houses visible in the background.
+An image with five cars, a road, a house, a grass, a sky, a tree, and a pavement.
+An image with five cars, a grass, a sky, a road, a tree, a pavement, and a house.
+An image with five cars, a house, a sky, a grass, a pavement, a road, and a tree.
+An image with a house, five cars, a tree, a sky, a grass, a road, and a pavement.
+An image with five cars, a house, a tree, a grass, a road, a sky, and a pavement.

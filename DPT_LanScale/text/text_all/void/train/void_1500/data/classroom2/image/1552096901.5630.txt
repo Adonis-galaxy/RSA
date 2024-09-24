@@ -8,3 +8,8 @@ A row of black chairs with wooden tops.
 A row of black chairs with wooden tops, lined up against a wall.
 The image shows a row of black chairs with wooden tops, lined up against a wall.
 The image shows a row of black chairs with wooden desks, arranged in a classroom setting.
+An image with nine chairs, a dining, a floor, and a wall.
+An image with a wall, a dining, nine chairs, and a floor.
+An image with a floor, nine chairs, a wall, and a dining.
+An image with nine chairs, a floor, a dining, and a wall.
+An image with a dining, nine chairs, a wall, and a floor.

@@ -8,3 +8,8 @@ A tree-lined street.
 A narrow, shaded street between two walls, with a lone pedestrian and a parked car, under a clear blue sky.
 A narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a distant view of a hill.
 A narrow, tree-lined road with a brick wall on one side and a fence on the other, leading to a clearing at the end.
+An image with a sky, a wall, a tree, a pavement, a road, and a fence.
+An image with a road, a tree, a pavement, a sky, a wall, and a fence.
+An image with a sky, a wall, a pavement, a fence, a road, and a tree.
+An image with a fence, a road, a tree, a pavement, a wall, and a sky.
+An image with a fence, a road, a tree, a wall, a pavement, and a sky.

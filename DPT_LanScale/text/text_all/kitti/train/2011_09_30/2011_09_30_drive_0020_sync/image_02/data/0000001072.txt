@@ -8,3 +8,8 @@ A car is driving down a street.
 A car is driving down a street, passing by a building with a fenced-off area in front of it.
 A small silver car is driving down a street in a residential area, passing by a white building with a fence in front of it.
 A car is driving down a street in a residential area, passing by a white building with a fenced-off construction site in front of it.
+An image with a wall, three cars, a fence, a pavement, two stops, a building, a tree, a sky, a house, a road, and a grass.
+An image with three cars, a grass, a building, a road, a sky, two stops, a pavement, a fence, a tree, a wall, and a house.
+An image with a grass, three cars, a road, a tree, a fence, a pavement, two stops, a building, a sky, a house, and a wall.
+An image with a pavement, three cars, a fence, a grass, two stops, a tree, a house, a wall, a building, a sky, and a road.
+An image with a grass, a house, a road, a wall, two stops, a sky, three cars, a building, a pavement, a tree, and a fence.

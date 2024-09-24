@@ -8,3 +8,8 @@ The image shows a street scene with a blue and red sign on a pole.
 The image captures a residential street scene with a focus on apartment buildings, a street sign, and a tree-lined sidewalk.
 The image shows a residential street scene with a large building on the right, a blue and red sign on a pole, a green hedge, and a sidewalk.
 The image shows a residential street with apartment buildings, a sidewalk, a road, and a sign indicating a one-way street.
+An image with a stop, a bench, a road, a building, and a tree.
+An image with a tree, a building, a road, a bench, and a stop.
+An image with a tree, a bench, a road, a building, and a stop.
+An image with a tree, a stop, a road, a bench, and a building.
+An image with a bench, a road, a stop, a tree, and a building.

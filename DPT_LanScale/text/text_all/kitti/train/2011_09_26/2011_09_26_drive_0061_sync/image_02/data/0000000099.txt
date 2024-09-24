@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street with parked cars.
 The image captures a residential street scene, with parked cars lining the sidewalk, a building with a balcony, and trees providing shade.
 The image shows a narrow street lined with parked cars, trees, and buildings, with a clear sky overhead.
 The image depicts a tree-lined residential street with parked cars on the side, leading to a row of houses.
+An image with ten cars, a sky, a road, a house, a fence, a pavement, and a tree.
+An image with a sky, a fence, ten cars, a tree, a road, a pavement, and a house.
+An image with ten cars, a fence, a sky, a house, a road, a pavement, and a tree.
+An image with ten cars, a pavement, a fence, a tree, a sky, a house, and a road.
+An image with a road, a fence, ten cars, a tree, a house, a sky, and a pavement.

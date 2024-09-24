@@ -8,3 +8,8 @@ A classroom with students sitting at desks.
 A classroom scene with students seated at desks, engaged in learning activities, with a teacher standing at the front of the room, and a variety of educational materials and equipment visible.
 A classroom with students seated at desks, a teacher standing at the front, and a whiteboard with writing on it.
 A classroom with students seated at desks, engaged in learning activities, and a teacher standing at the front of the room.
+An image with ten chairs, a cup, two windows, a ceiling, six people, three dinings, three backpacks, a rug, a wall, a light, two bottles, and a shelf.
+An image with a ceiling, three backpacks, a rug, a cup, ten chairs, two bottles, a light, three dinings, six people, a shelf, two windows, and a wall.
+An image with ten chairs, three dinings, three backpacks, six people, a ceiling, a rug, two bottles, a shelf, a wall, two windows, a light, and a cup.
+An image with three dinings, two bottles, two windows, a shelf, a light, three backpacks, a rug, six people, ten chairs, a ceiling, a wall, and a cup.
+An image with three backpacks, six people, ten chairs, a ceiling, two bottles, a wall, three dinings, a shelf, a light, two windows, a cup, and a rug.

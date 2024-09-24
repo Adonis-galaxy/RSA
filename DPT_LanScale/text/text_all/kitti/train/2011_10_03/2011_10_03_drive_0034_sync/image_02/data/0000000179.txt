@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A serene suburban street, lined with lush trees and a parked car, inviting a leisurely stroll.
 A tree-lined street with a car parked at the end, surrounded by houses and a park.
 A tree-lined street in a residential area, with a car parked on the side and a house visible in the background.
+An image with a car, a stairs, a road, a pavement, a house, a dirt, and a tree.
+An image with a tree, a pavement, a car, a stairs, a road, a dirt, and a house.
+An image with a pavement, a tree, a road, a dirt, a car, a house, and a stairs.
+An image with a road, a pavement, a dirt, a tree, a house, a stairs, and a car.
+An image with a stairs, a house, a pavement, a dirt, a car, a tree, and a road.

@@ -8,3 +8,8 @@ A box with a soccer ball on top of it.
 An office cubicle with a desk, chair, computer, and a box with a sign on it.
 The image shows an office with a large cardboard box on a desk, containing a monitor and a soccer ball, with a red sign on the box that says "caution".
 The image shows an office space with a desk, chairs, and a computer, with a large cardboard box in the foreground containing a sign that reads "Caution: Do Not Open."
+An image with three chairs, a window, a cardboard, two keyboards, a tv, a sports, a wall, a rug, a light, a book, and a table.
+An image with a tv, a light, a book, a window, a wall, a sports, two keyboards, a cardboard, a rug, three chairs, and a table.
+An image with a window, two keyboards, a tv, a cardboard, three chairs, a sports, a light, a wall, a table, a book, and a rug.
+An image with a tv, a book, a rug, three chairs, a table, a window, two keyboards, a sports, a wall, a light, and a cardboard.
+An image with three chairs, a tv, two keyboards, a cardboard, a table, a window, a book, a wall, a light, a sports, and a rug.

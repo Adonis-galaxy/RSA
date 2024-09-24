@@ -8,3 +8,8 @@ A motorcycle riding down a tree-lined street.
 A motorcyclist rides down a tree-lined street, passing parked cars and a van, with a building in the background.
 A motorcyclist rides down a tree-lined street, passing parked cars and a van, with a large building in the background.
 A motorcyclist rides down a tree-lined street, passing parked cars and a van, with a building on the left and a clear sky overhead.
+An image with eight cars, a house, a sky, a motorcycle, a road, a tree, a dirt, and a person.
+An image with a sky, a house, eight cars, a motorcycle, a dirt, a tree, a person, and a road.
+An image with a dirt, eight cars, a road, a sky, a person, a motorcycle, a house, and a tree.
+An image with a person, a dirt, eight cars, a tree, a road, a motorcycle, a house, and a sky.
+An image with a person, a tree, a motorcycle, a sky, a dirt, a house, eight cars, and a road.

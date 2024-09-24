@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a clear path leading to a white house with a black roof.
 The image shows a narrow street lined with parked cars, a few potted plants, and a building with a balcony.
 The image depicts a narrow residential street with parked cars, lined with houses and trees, and a clear sky overhead.
+An image with three potteds, seven cars, a road, a pavement, a fence, a house, a sky, and a tree.
+An image with a fence, a pavement, seven cars, a road, a house, three potteds, a sky, and a tree.
+An image with three potteds, a sky, seven cars, a road, a house, a tree, a pavement, and a fence.
+An image with seven cars, a pavement, a house, three potteds, a sky, a fence, a road, and a tree.
+An image with a house, three potteds, a tree, seven cars, a sky, a road, a pavement, and a fence.

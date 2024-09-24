@@ -8,3 +8,8 @@ A dining room with a table and chairs.
 The image captures a formal dining room with a large table surrounded by multiple chairs, a rug, and a large painting on the wall.
 The image shows a dining room with a large table surrounded by several chairs, a rug, and a large painting on the wall.
 The image shows a dining room with a long table surrounded by chairs, a rug, and a large painting on the wall.
+An image with eight chairs, a rug, two dinings, a shelf, a curtain, a wall, a bowl, and a floor.
+An image with a shelf, a rug, a bowl, eight chairs, a floor, two dinings, a wall, and a curtain.
+An image with eight chairs, a bowl, a rug, two dinings, a wall, a floor, a shelf, and a curtain.
+An image with a floor, eight chairs, a bowl, a rug, a shelf, a curtain, two dinings, and a wall.
+An image with eight chairs, a shelf, two dinings, a floor, a rug, a curtain, a wall, and a bowl.

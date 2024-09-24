@@ -8,3 +8,8 @@ The image shows a white table with three chairs.
 The image shows a white table with three chairs, all on a gray carpeted floor.
 The image shows a white table with three chairs, each with four legs, placed on a gray carpeted floor.
 The image shows a white table with three chairs, all on a gray carpeted floor.
+An image with three chairs, a frisbee, a wall, a dining, a floor, and a curtain.
+An image with a wall, three chairs, a floor, a dining, a curtain, and a frisbee.
+An image with three chairs, a curtain, a dining, a wall, a floor, and a frisbee.
+An image with three chairs, a dining, a floor, a wall, a frisbee, and a curtain.
+An image with a dining, a curtain, three chairs, a floor, a wall, and a frisbee.

@@ -8,3 +8,8 @@ A narrow, shaded pathway between two walls of greenery.
 A narrow, sunlit path between two walls of lush greenery, with a solitary figure walking away from the camera.
 A narrow, sunlit pathway between two tall, lushly leafed hedges, with a street lamp and a car parked at the end.
 A narrow, sunlit pathway between two walls of lush greenery, with a street lamp and a car parked at the end.
+An image with a tree, a wall, a house, a car, a pavement, and a sky.
+An image with a house, a sky, a pavement, a car, a wall, and a tree.
+An image with a house, a pavement, a wall, a tree, a car, and a sky.
+An image with a pavement, a car, a sky, a wall, a house, and a tree.
+An image with a tree, a sky, a pavement, a wall, a house, and a car.

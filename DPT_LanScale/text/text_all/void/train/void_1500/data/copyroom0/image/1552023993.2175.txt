@@ -8,3 +8,8 @@ The image shows a wall with a paper hanging on it, a whiteboard, and a desk with
 The image shows a small room with a desk, a phone, and a paper on the wall.
 The image shows a small room with a whiteboard on the wall, a desk with a phone and a calculator, and a white paper on the wall.
 The image shows a small room with a desk, a phone, and a paper on the wall.
+An image with a paper, a table, a mouse, a wall, a cell, a book, and a keyboard.
+An image with a keyboard, a book, a mouse, a paper, a wall, a cell, and a table.
+An image with a cell, a keyboard, a book, a paper, a table, a mouse, and a wall.
+An image with a paper, a cell, a book, a mouse, a wall, a keyboard, and a table.
+An image with a cell, a book, a wall, a mouse, a paper, a keyboard, and a table.

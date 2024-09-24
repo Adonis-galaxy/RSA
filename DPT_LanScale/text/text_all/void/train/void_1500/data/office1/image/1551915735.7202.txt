@@ -8,3 +8,8 @@ A table with books and a phone on it.
 A table with a phone, books, and a cup.
 A table with a phone, books, and a cup.
 A table with a phone, books, and magazines on it, with black chairs around it.
+An image with three chairs, a cabinet, a laptop, a dining, four books, a cup, a window, a table, and a wall.
+An image with a cabinet, a table, four books, a window, a cup, a wall, three chairs, a laptop, and a dining.
+An image with three chairs, a table, four books, a laptop, a cabinet, a cup, a dining, a window, and a wall.
+An image with a cabinet, four books, a dining, a table, a wall, three chairs, a window, a cup, and a laptop.
+An image with four books, a table, a window, a dining, a cup, three chairs, a wall, a cabinet, and a laptop.

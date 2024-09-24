@@ -8,3 +8,8 @@ A bed in a bedroom.
 The image captures a cozy bedroom scene with a neatly made bed, a nightstand with a lamp, and a painting on the wall.
 The image shows a neatly made bed with a floral comforter, two large pillows, and a wooden nightstand with a lamp.
 The image shows a neatly made bed with a floral comforter and two pillows, placed in a bedroom with a wooden nightstand, a framed picture on the wall, and a lamp.
+An image with a door, a wall, a rug, a clock, a cabinet, a light, a chair, and a bed.
+An image with a wall, a chair, a light, a rug, a door, a cabinet, a bed, and a clock.
+An image with a clock, a bed, a door, a light, a cabinet, a wall, a chair, and a rug.
+An image with a rug, a clock, a wall, a cabinet, a bed, a light, a chair, and a door.
+An image with a wall, a light, a rug, a bed, a door, a chair, a clock, and a cabinet.

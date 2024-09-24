@@ -8,3 +8,8 @@ The image shows a white car parked on a street.
 The image captures a quiet residential street, with a small white car parked on the side of the road, adjacent to a sidewalk and a building, under a clear blue sky.
 A small white car is parked on a narrow street between two larger cars, with a blue sign on a pole visible in the background.
 A white car is parked on the side of a narrow street between two buildings, with a sign indicating a one-way street and a sidewalk leading to a hedge-lined path.
+An image with a tree, a pavement, a window, a road, a sky, and two cars.
+An image with two cars, a sky, a pavement, a tree, a road, and a window.
+An image with a pavement, a road, two cars, a tree, a window, and a sky.
+An image with a road, two cars, a tree, a window, a sky, and a pavement.
+An image with a pavement, a road, a sky, a window, two cars, and a tree.

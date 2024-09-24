@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white house.
 A quiet residential street with parked cars and a white house.
 The image shows a residential street with parked cars, a white house with a red roof, a black SUV, a red car, a white truck, and a green fence.
 A residential street with parked cars, a white house, and a fence.
+An image with a tree, nine cars, two trucks, a pavement, a sky, a gravel, a grass, a house, a fence, and a road.
+An image with nine cars, a sky, a pavement, a grass, a fence, a gravel, a road, two trucks, a tree, and a house.
+An image with nine cars, two trucks, a fence, a gravel, a pavement, a tree, a road, a sky, a grass, and a house.
+An image with two trucks, nine cars, a fence, a grass, a tree, a gravel, a road, a house, a pavement, and a sky.
+An image with a gravel, a grass, nine cars, a tree, a pavement, two trucks, a road, a sky, a house, and a fence.

@@ -8,3 +8,8 @@ A tree-lined street.
 A tree-lined pathway between two walls, with a clear sky overhead.
 A tree-lined pathway between two walls, with a clear sky overhead.
 A tree-lined, sunlit pathway between two walls, leading to a clearing.
+An image with a grass, a tree, a road, a wall, and a sky.
+An image with a wall, a road, a sky, a grass, and a tree.
+An image with a road, a sky, a tree, a grass, and a wall.
+An image with a tree, a sky, a wall, a road, and a grass.
+An image with a wall, a road, a sky, a grass, and a tree.

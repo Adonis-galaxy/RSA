@@ -8,3 +8,8 @@ A woman walking her dog on a sunny day.
 A woman walks her dog on a sunny day down a tree-lined street, with parked cars and apartment buildings in the background.
 A woman walks her dog on a sunny day down a tree-lined street between white buildings.
 A woman walks her dog on a sunny day down a tree-lined street between white buildings, with parked cars and a fence visible.
+An image with a tree, a person, a house, a sky, a dog, three cars, a pavement, a road, and a fence.
+An image with a tree, three cars, a sky, a fence, a road, a house, a person, a pavement, and a dog.
+An image with a house, a fence, a person, a sky, three cars, a tree, a road, a pavement, and a dog.
+An image with a pavement, three cars, a dog, a fence, a house, a sky, a road, a tree, and a person.
+An image with a house, three cars, a tree, a fence, a pavement, a person, a sky, a dog, and a road.

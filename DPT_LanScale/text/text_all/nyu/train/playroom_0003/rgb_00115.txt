@@ -8,3 +8,8 @@ A messy living room with a blue and white stool.
 A child's playroom with a messy floor, featuring a brown couch, a blue and white stool, a toy train, and various toys scattered around.
 The image shows a small, cluttered living room with a large brown couch, a blue and white stool, and various toys scattered on the floor.
 The image shows a child's playroom with a blue and white stool, a brown couch, a carpeted floor, and various toys scattered around.
+An image with a rug, a table, a cup, a couch, a window, and a wall.
+An image with a table, a cup, a wall, a rug, a window, and a couch.
+An image with a cup, a table, a rug, a window, a wall, and a couch.
+An image with a rug, a table, a wall, a window, a couch, and a cup.
+An image with a wall, a window, a cup, a table, a couch, and a rug.

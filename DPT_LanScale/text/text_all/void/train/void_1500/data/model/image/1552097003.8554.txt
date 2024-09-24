@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a cityscape, with a focus on a large building and its surrounding area.
 The image shows a small model of a cityscape, featuring a large building with a red roof and a smaller building with a green roof.
 The image shows a model of a cityscape with buildings, roads, and trees, all displayed on a wooden platform.
+An image with a building, a tree, a wall, and a grass.
+An image with a grass, a building, a tree, and a wall.
+An image with a grass, a wall, a building, and a tree.
+An image with a grass, a wall, a tree, and a building.
+An image with a tree, a building, a wall, and a grass.

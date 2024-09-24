@@ -8,3 +8,8 @@ A narrow road between two buildings.
 A quiet residential street, lined with houses and trees, leads to a garage with a car parked in front.
 The image shows a narrow street lined with houses and trees, with a car parked on the side.
 A narrow, tree-lined street leads to a white house with a black garage, flanked by apartment buildings and a parked car.
+An image with a tree, a pavement, a house, a car, a light, a building, a wall, and a sky.
+An image with a building, a house, a light, a pavement, a wall, a car, a tree, and a sky.
+An image with a car, a tree, a house, a wall, a building, a sky, a light, and a pavement.
+An image with a building, a car, a pavement, a house, a tree, a sky, a wall, and a light.
+An image with a tree, a pavement, a car, a sky, a light, a house, a wall, and a building.

@@ -8,3 +8,8 @@ The image is a color photograph of a residential street.
 A quiet residential street, lined with parked cars and a bicycle, under a canopy of trees, with a pedestrian and a cyclist enjoying the shade.
 A man riding a bicycle on a tree-lined street with parked cars, a sidewalk, and apartment buildings.
 A tree-lined street with parked cars, a bicyclist, and a pedestrian, all under a bright sun.
+An image with a tree, a road, a bicycle, a sky, a pavement, a dirt, a house, four cars, a person, and a grass.
+An image with a dirt, four cars, a tree, a sky, a road, a person, a pavement, a grass, a bicycle, and a house.
+An image with a grass, four cars, a person, a dirt, a bicycle, a sky, a house, a road, a tree, and a pavement.
+An image with a house, four cars, a bicycle, a sky, a tree, a pavement, a dirt, a grass, a person, and a road.
+An image with four cars, a pavement, a tree, a house, a person, a grass, a sky, a dirt, a road, and a bicycle.

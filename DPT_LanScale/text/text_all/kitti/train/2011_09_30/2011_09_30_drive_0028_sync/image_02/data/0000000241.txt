@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a white van.
 The image captures a typical urban scene with parked cars on a narrow street, adjacent to apartment buildings, under a clear sky.
 A narrow street with parked cars, a white van, and a building with a blue shuttered window.
 A narrow street in a residential area with parked cars and a white van.
+An image with eight cars, a road, a grass, a sky, a truck, a tree, a stop, and a person.
+An image with a tree, eight cars, a stop, a sky, a person, a truck, a grass, and a road.
+An image with a grass, eight cars, a road, a person, a truck, a tree, a stop, and a sky.
+An image with eight cars, a stop, a truck, a tree, a sky, a grass, a road, and a person.
+An image with eight cars, a stop, a sky, a truck, a person, a road, a tree, and a grass.

@@ -8,3 +8,8 @@ The image is blurry and shows a bathroom with a blue wall and a white light fixt
 The image shows a blurry view of a bathroom, with a focus on the sink and a poster on the wall.
 The image shows a blurry view of a bathroom with a blue wall, a sink, and a cabinet above the sink.
 The image shows a blurry view of a bathroom with a blue wall, a sink, and a mirror.
+An image with a ceiling, a wall, a light, a toothbrush, and a paper.
+An image with a light, a ceiling, a wall, a paper, and a toothbrush.
+An image with a toothbrush, a wall, a paper, a ceiling, and a light.
+An image with a light, a wall, a toothbrush, a paper, and a ceiling.
+An image with a wall, a light, a paper, a ceiling, and a toothbrush.

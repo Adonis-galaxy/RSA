@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 A cyclist rides down a quiet residential street, passing parked cars and a pedestrian, with apartment buildings lining the street.
 A person riding a bicycle on a narrow street between parked cars and tall buildings.
 A quiet residential street with parked cars, a bicyclist, and pedestrians, lined with buildings and trees.
+An image with six cars, two people, a tree, a bicycle, a grass, a pavement, a wall, a road, a sky, and a building.
+An image with two people, a grass, six cars, a road, a wall, a bicycle, a pavement, a building, a sky, and a tree.
+An image with six cars, a tree, two people, a wall, a pavement, a bicycle, a building, a grass, a road, and a sky.
+An image with a sky, a building, a bicycle, six cars, a pavement, a grass, a road, two people, a tree, and a wall.
+An image with a building, six cars, a tree, a wall, two people, a bicycle, a road, a sky, a grass, and a pavement.

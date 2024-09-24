@@ -8,3 +8,8 @@ A model of a building on display.
 A model of a building on display, with a person walking in the background.
 A model of a building with a red roof and a white exterior, placed on a wooden table.
 The image shows a model of a building with a clear glass display case.
+An image with a cabinet, a person, a floor, and a building.
+An image with a person, a building, a floor, and a cabinet.
+An image with a cabinet, a floor, a person, and a building.
+An image with a cabinet, a floor, a person, and a building.
+An image with a building, a cabinet, a person, and a floor.

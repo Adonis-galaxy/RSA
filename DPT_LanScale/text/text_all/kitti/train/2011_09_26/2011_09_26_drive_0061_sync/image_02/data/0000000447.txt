@@ -8,3 +8,8 @@ The image shows a narrow street with a car driving down it.
 A narrow, tree-lined street with a parked car and a pedestrian crossing.
 A car is driving down a narrow, tree-lined street with a brick wall on the right side.
 A narrow, tree-lined street with a brick wall on one side and a metal gate on the other, leading to a winding road.
+An image with a stop, a road, a car, a wall, a house, a fence, a sky, a pavement, and a tree.
+An image with a house, a road, a car, a tree, a sky, a wall, a pavement, a stop, and a fence.
+An image with a road, a house, a car, a sky, a pavement, a stop, a fence, a tree, and a wall.
+An image with a house, a car, a fence, a pavement, a tree, a sky, a wall, a road, and a stop.
+An image with a road, a fence, a wall, a pavement, a stop, a sky, a tree, a house, and a car.

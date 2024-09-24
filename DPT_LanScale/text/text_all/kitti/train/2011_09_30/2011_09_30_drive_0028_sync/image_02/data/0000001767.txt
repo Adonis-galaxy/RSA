@@ -8,3 +8,8 @@ A sunny day in a residential area.
 A quiet residential street, lined with houses and trees, leads to a sunlit intersection.
 A narrow, tree-lined street between two-story buildings, with a person walking on the right side.
 A narrow, tree-lined street between two-story buildings, with a clear sky overhead.
+An image with a tree, a person, two cars, a bus, a stop, a house, a pavement, a road, and a sky.
+An image with a tree, a house, a pavement, a bus, a person, two cars, a road, a sky, and a stop.
+An image with a sky, a stop, two cars, a person, a road, a bus, a house, a pavement, and a tree.
+An image with a bus, a road, two cars, a stop, a house, a pavement, a tree, a sky, and a person.
+An image with a tree, a road, a house, a pavement, a person, a sky, two cars, a bus, and a stop.

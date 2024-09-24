@@ -8,3 +8,8 @@ A row of white chairs in front of a table.
 The image shows a modern office space with a long white table and white chairs, a blackboard on the wall, and a trash can in the corner.
 The image shows a large white table with several white chairs around it, positioned in front of a blackboard on a yellow wall.
 The image shows a long white table with several white chairs on either side, positioned in front of a large black screen mounted on a yellow wall.
+An image with a floor, five chairs, a table, a door, a dining, a paper, a wall, and a tv.
+An image with a dining, five chairs, a wall, a door, a paper, a floor, a tv, and a table.
+An image with a dining, five chairs, a table, a floor, a door, a wall, a tv, and a paper.
+An image with five chairs, a table, a paper, a tv, a wall, a dining, a door, and a floor.
+An image with five chairs, a wall, a dining, a tv, a floor, a paper, a door, and a table.

@@ -8,3 +8,8 @@ A concrete planter with a green plant.
 The image shows a concrete pathway with a small patch of green plants growing in the corner, creating a contrast between the natural and man-made elements.
 The image shows a small concrete planter with a few green plants growing in it, located on a sidewalk.
 The image shows a close-up of a concrete sidewalk with a plant growing in a planter box, and the ground is covered with sand and grass.
+An image with a wall, a pavement, a stairs, a tree, and a dirt.
+An image with a stairs, a pavement, a dirt, a wall, and a tree.
+An image with a wall, a tree, a pavement, a dirt, and a stairs.
+An image with a pavement, a dirt, a stairs, a wall, and a tree.
+An image with a dirt, a wall, a tree, a pavement, and a stairs.

@@ -8,3 +8,8 @@ A concrete planter with plants and dirt.
 The image shows a small garden area with a variety of plants and a stone border.
 The image shows a small garden area with a variety of plants and grasses, featuring a concrete border and a red brick walkway.
 The image shows a concrete pathway with a raised planter containing various plants and grasses, and a small animal is visible in the background.
+An image with a wall, a dirt, a tree, a stairs, a floor, and a pavement.
+An image with a dirt, a floor, a wall, a stairs, a tree, and a pavement.
+An image with a stairs, a pavement, a floor, a dirt, a tree, and a wall.
+An image with a stairs, a dirt, a floor, a pavement, a tree, and a wall.
+An image with a tree, a wall, a stairs, a dirt, a floor, and a pavement.

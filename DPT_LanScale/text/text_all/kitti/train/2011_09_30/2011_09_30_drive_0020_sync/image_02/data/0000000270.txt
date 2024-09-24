@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, empty street corner with a few signs and a car parked, under a clear blue sky.
 The image shows a large, empty parking lot with a few cars parked in the distance, a few trees, a stop sign, and a construction fence.
 The image depicts a quiet, empty street with a clear sky, lined by trees and buildings, leading to a construction site with a fence and signs.
+An image with a grass, a wall, a road, a stop, a banner, a tree, a fence, and a car.
+An image with a stop, a road, a car, a banner, a fence, a tree, a wall, and a grass.
+An image with a banner, a grass, a car, a stop, a fence, a wall, a tree, and a road.
+An image with a fence, a tree, a stop, a banner, a grass, a road, a wall, and a car.
+An image with a tree, a banner, a car, a stop, a fence, a grass, a road, and a wall.

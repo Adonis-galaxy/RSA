@@ -8,3 +8,8 @@ The image shows a green filing cabinet with drawers.
 The image shows a green counter with a row of green filing cabinets, each with a label, and a black stapler on the counter.
 The image shows a green counter with a row of green filing cabinets, each with a label and a few papers inside, and a black stapler on the counter.
 The image shows a green counter with several green storage compartments, each containing a white label, and a black telephone on the counter.
+An image with five toothbrushes, a floor, a paper, a shelf, a book, a wall, and a cabinet.
+An image with five toothbrushes, a shelf, a paper, a cabinet, a floor, a book, and a wall.
+An image with a paper, a cabinet, a book, a floor, five toothbrushes, a shelf, and a wall.
+An image with five toothbrushes, a wall, a paper, a book, a floor, a shelf, and a cabinet.
+An image with a paper, a wall, a book, a cabinet, five toothbrushes, a floor, and a shelf.

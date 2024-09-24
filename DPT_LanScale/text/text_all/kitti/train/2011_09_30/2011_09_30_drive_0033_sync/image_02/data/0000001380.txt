@@ -8,3 +8,8 @@ The image shows a street scene with a blue car driving down the road.
 The image captures a quiet residential street, with a blue car driving down the road, passing by parked cars and a white house with a red roof, under a clear blue sky.
 A blue car is driving down a tree-lined street, passing by parked cars and a white sign.
 A narrow street in a residential area with parked cars and a blue van driving down it.
+An image with six cars, a road, a grass, a sky, a person, a wall, a fence, a house, and a tree.
+An image with six cars, a road, a wall, a grass, a person, a fence, a tree, a sky, and a house.
+An image with a sky, a house, a fence, six cars, a road, a tree, a person, a wall, and a grass.
+An image with a person, six cars, a tree, a house, a sky, a fence, a road, a wall, and a grass.
+An image with a grass, six cars, a person, a road, a sky, a house, a wall, a fence, and a tree.

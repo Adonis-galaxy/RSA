@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a fence.
 A quiet, tree-lined street with parked vehicles and a clear sky overhead.
 The image shows a narrow, tree-lined street with a few parked cars and a truck, leading to a house in the distance.
 A tree-lined street with parked cars and a fence on the right side.
+An image with a tree, a pavement, a truck, four cars, a wall, a fence, a sky, and a road.
+An image with a road, a pavement, four cars, a fence, a wall, a truck, a sky, and a tree.
+An image with a road, four cars, a pavement, a sky, a wall, a tree, a fence, and a truck.
+An image with four cars, a sky, a pavement, a road, a truck, a tree, a fence, and a wall.
+An image with a wall, four cars, a truck, a sky, a road, a tree, a fence, and a pavement.

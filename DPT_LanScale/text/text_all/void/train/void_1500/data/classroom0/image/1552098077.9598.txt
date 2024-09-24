@@ -8,3 +8,8 @@ A row of empty seats in a classroom.
 The image shows an empty classroom with rows of chairs facing a green cabinet.
 The image shows a classroom with rows of empty seats, a green cabinet, and a white cabinet.
 The image shows a classroom with rows of empty seats facing a green cabinet and a whiteboard.
+An image with a floor, twelve chairs, two refrigerators, two dinings, and a wall.
+An image with twelve chairs, two dinings, two refrigerators, a floor, and a wall.
+An image with two dinings, a floor, twelve chairs, two refrigerators, and a wall.
+An image with twelve chairs, two refrigerators, two dinings, a wall, and a floor.
+An image with two refrigerators, twelve chairs, a floor, two dinings, and a wall.

@@ -8,3 +8,8 @@ A stack of books on a table.
 A stack of books on a table.
 A stack of books on a table.
 A stack of books and papers on a desk.
+An image with a mirror, a bed, three books, a cell, a wall, and a cup.
+An image with three books, a bed, a cell, a cup, a mirror, and a wall.
+An image with three books, a mirror, a cup, a cell, a bed, and a wall.
+An image with a cup, a cell, three books, a mirror, a bed, and a wall.
+An image with a cell, a cup, a bed, a mirror, three books, and a wall.

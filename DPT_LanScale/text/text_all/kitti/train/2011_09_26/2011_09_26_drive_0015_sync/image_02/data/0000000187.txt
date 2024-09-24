@@ -8,3 +8,8 @@ The image shows a street scene with cars driving on a road.
 The image captures a typical day on a suburban street, with cars driving along the road, passing under traffic lights, and parked along the side.
 The image shows a busy street with multiple cars and traffic lights, with a large building in the background.
 A busy street scene with multiple lanes of traffic, a railroad crossing, and a mix of vehicles and pedestrians.
+An image with nine cars, a railroad, four traffics, a house, a person, a airplane, a road, a grass, a building, and a tree.
+An image with a road, nine cars, a grass, a house, a railroad, four traffics, a airplane, a person, a building, and a tree.
+An image with nine cars, a road, four traffics, a tree, a airplane, a person, a railroad, a building, a house, and a grass.
+An image with nine cars, four traffics, a house, a person, a tree, a building, a road, a railroad, a airplane, and a grass.
+An image with a grass, nine cars, four traffics, a road, a railroad, a person, a house, a tree, a airplane, and a building.

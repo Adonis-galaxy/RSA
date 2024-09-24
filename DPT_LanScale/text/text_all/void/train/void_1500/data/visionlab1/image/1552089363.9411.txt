@@ -8,3 +8,8 @@ A box with a warning label on it.
 A box with a warning label on it sits on a desk in an office.
 The image shows an office environment with a large cardboard box containing a computer monitor and keyboard, placed on a desk in front of a window.
 The image shows an office space with a desk, chair, computer, and a box with a warning label on it.
+An image with a table, a wall, a cardboard, three chairs, a sports, a light, a window, two keyboards, a paper, a rug, a tv, and a book.
+An image with a table, two keyboards, three chairs, a cardboard, a rug, a paper, a light, a book, a wall, a window, a sports, and a tv.
+An image with a rug, three chairs, a table, a wall, a paper, a cardboard, a window, a sports, a tv, two keyboards, a book, and a light.
+An image with a wall, a book, a rug, a table, two keyboards, a window, three chairs, a tv, a light, a paper, a cardboard, and a sports.
+An image with two keyboards, a sports, a table, a light, a tv, three chairs, a wall, a cardboard, a rug, a paper, a book, and a window.

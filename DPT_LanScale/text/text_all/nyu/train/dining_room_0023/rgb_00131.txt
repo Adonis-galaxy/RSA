@@ -8,3 +8,8 @@ The image shows a room with a wooden floor and a white table.
 The image shows a room with a wooden floor, a white table, and two chairs, with a doorway leading to another room.
 The image shows a room with a wooden floor, a white table, two chairs, and a doorway leading to a kitchen.
 The image shows a room with a wooden floor, a white table, two chairs, and a doorway leading to a kitchen.
+An image with a dining, three chairs, a door, a wall, a cabinet, and a floor.
+An image with a floor, a door, three chairs, a cabinet, a dining, and a wall.
+An image with three chairs, a cabinet, a floor, a door, a dining, and a wall.
+An image with a wall, three chairs, a floor, a dining, a cabinet, and a door.
+An image with a cabinet, a dining, three chairs, a floor, a door, and a wall.

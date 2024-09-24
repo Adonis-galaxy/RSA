@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and apartment buildings.
 The image captures a typical urban scene with parked cars on a narrow street, adjacent to apartment buildings, under a clear sky.
 The image shows a narrow street with parked cars on both sides, a building in the background, and a clear sky.
 The image shows a narrow street with parked cars on both sides, leading to a row of buildings with a mix of residential and commercial architecture.
+An image with eight cars, a tree, a window, a building, a wall, a road, a stop, a traffic, and a sky.
+An image with eight cars, a traffic, a window, a wall, a building, a tree, a sky, a stop, and a road.
+An image with eight cars, a wall, a traffic, a stop, a sky, a window, a building, a tree, and a road.
+An image with a stop, eight cars, a wall, a sky, a building, a traffic, a tree, a road, and a window.
+An image with eight cars, a road, a building, a sky, a window, a tree, a wall, a stop, and a traffic.

@@ -8,3 +8,8 @@ A black cart with a projector on top.
 A black cart with a projector on top, sitting on a checkered floor in a room with a stage.
 A black cart with a projector on top, sitting on a tiled floor in a room with a stage.
 The image shows a black cart with a projector on top, placed in a room with a checkered floor, a white wall, and a few chairs.
+An image with two chairs, a tv, a wall, a floor, and a dining.
+An image with two chairs, a tv, a dining, a floor, and a wall.
+An image with a dining, a wall, two chairs, a tv, and a floor.
+An image with two chairs, a tv, a wall, a dining, and a floor.
+An image with a tv, a floor, two chairs, a dining, and a wall.

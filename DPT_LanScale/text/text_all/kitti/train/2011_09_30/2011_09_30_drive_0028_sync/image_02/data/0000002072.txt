@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A quiet suburban street, lined with trees and parked cars, leads to a park with a playground.
 The image shows a tree-lined street with a parked car, a stop sign, and a roundabout.
 A quiet suburban street with a parked car, a roundabout, and a white sign on a pole.
+An image with a pavement, a car, a wall, a tree, two trucks, a stop, a sky, a grass, and a road.
+An image with a wall, a stop, a grass, a road, two trucks, a car, a sky, a pavement, and a tree.
+An image with a car, a wall, a grass, a road, two trucks, a stop, a sky, a pavement, and a tree.
+An image with a car, a stop, two trucks, a tree, a sky, a grass, a pavement, a road, and a wall.
+An image with two trucks, a wall, a car, a road, a grass, a pavement, a stop, a sky, and a tree.

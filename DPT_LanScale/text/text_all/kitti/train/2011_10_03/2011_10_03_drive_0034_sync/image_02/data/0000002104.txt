@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses and parked cars.
 A quiet residential street with parked cars, lined by houses and trees, under a clear blue sky.
 The image shows a narrow street lined with houses, cars parked along the sides, and a few trees. The sky is clear and blue, indicating a sunny day.
 A quiet residential street with a mix of houses and garages, lined with trees and bushes, leading to a cul-de-sac.
+An image with a house, a wall, five cars, a roof, a tree, a pavement, and a sky.
+An image with five cars, a pavement, a wall, a roof, a sky, a house, and a tree.
+An image with five cars, a pavement, a tree, a house, a sky, a wall, and a roof.
+An image with five cars, a house, a pavement, a sky, a tree, a wall, and a roof.
+An image with a roof, five cars, a tree, a house, a sky, a wall, and a pavement.

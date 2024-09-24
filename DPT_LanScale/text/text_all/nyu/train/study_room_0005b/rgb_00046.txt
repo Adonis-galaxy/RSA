@@ -8,3 +8,8 @@ The image shows an office space with cubicles and desks.
 The image captures an office space with a row of desks, chairs, and a counter, featuring a mix of modern and traditional furniture, and a red exit sign.
 The image shows an office space with a large open area featuring a row of cubicles, a central desk with a computer monitor, and a row of chairs. The office is well-lit with recessed lighting and has a modern design.
 The image shows an office space with a row of desks, chairs, and a counter, all arranged in a linear fashion along a corridor with windows and doors.
+An image with a window, ten chairs, a wall, a cabinet, a rug, a door, a table, a tv, and a ceiling.
+An image with a cabinet, ten chairs, a tv, a ceiling, a rug, a window, a table, a wall, and a door.
+An image with ten chairs, a table, a tv, a wall, a window, a door, a cabinet, a rug, and a ceiling.
+An image with a table, a ceiling, ten chairs, a wall, a window, a cabinet, a tv, a rug, and a door.
+An image with ten chairs, a rug, a ceiling, a wall, a window, a cabinet, a door, a tv, and a table.

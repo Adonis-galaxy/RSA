@@ -8,3 +8,8 @@ A wooden bench with a metal pole.
 A wooden bench with a metal pole, surrounded by plants and trees, in a park setting.
 A wooden bench with a metal pole, surrounded by grass and plants, in a park setting.
 A wooden bench with a metal pole in the middle, surrounded by plants and trees.
+An image with a floor, a dirt, a fence, a tree, two benches, and a wall.
+An image with a floor, two benches, a tree, a fence, a wall, and a dirt.
+An image with a tree, a dirt, a wall, a fence, two benches, and a floor.
+An image with a tree, two benches, a dirt, a wall, a fence, and a floor.
+An image with a floor, two benches, a fence, a dirt, a wall, and a tree.

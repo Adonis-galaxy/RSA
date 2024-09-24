@@ -8,3 +8,8 @@ A wooden bench with plants on it.
 A wooden bench with a plant on it, situated on a wooden deck.
 A wooden bench with a metal frame, situated on a wooden deck.
 A wooden bench with a metal frame, situated on a wooden deck, surrounded by greenery.
+An image with a bench, a tree, a floor, a dirt, and a fence.
+An image with a dirt, a bench, a floor, a tree, and a fence.
+An image with a floor, a bench, a dirt, a fence, and a tree.
+An image with a dirt, a floor, a bench, a tree, and a fence.
+An image with a tree, a floor, a bench, a fence, and a dirt.

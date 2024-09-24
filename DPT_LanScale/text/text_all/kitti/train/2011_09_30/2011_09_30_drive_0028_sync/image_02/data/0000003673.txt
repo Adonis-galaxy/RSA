@@ -8,3 +8,8 @@ The image shows a blue car parked on a street next to a building.
 The image captures a quiet residential street, with a blue car parked on the side of the road, a white trash can nearby, and apartment buildings in the background.
 The image shows a narrow street lined with parked cars, a blue car parked on the left side, a white trash can in the middle, and apartment buildings on both sides.
 The image shows a narrow street lined with parked cars, apartment buildings, and trees, with a blue car parked on the side of the road.
+An image with six cars, a dirt, a road, a building, and a tree.
+An image with a road, six cars, a dirt, a tree, and a building.
+An image with six cars, a dirt, a building, a tree, and a road.
+An image with six cars, a tree, a dirt, a road, and a building.
+An image with a building, six cars, a tree, a road, and a dirt.

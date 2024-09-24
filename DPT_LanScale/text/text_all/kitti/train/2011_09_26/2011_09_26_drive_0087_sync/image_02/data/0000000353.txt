@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two buildings, with a staircase leadin
 The image captures a serene, tree-lined street with a white house on the left, a staircase leading to it, and a car parked on the right, all under a clear sky.
 The image shows a narrow alleyway between two buildings, with a staircase leading up to a white house. The alley is shaded by trees and has a paved surface.
 A narrow, shaded alleyway between two buildings, with a staircase leading to a higher level.
+An image with a tree, a pavement, a car, a fence, a sky, and a house.
+An image with a car, a house, a pavement, a sky, a tree, and a fence.
+An image with a fence, a tree, a sky, a car, a house, and a pavement.
+An image with a sky, a house, a tree, a pavement, a fence, and a car.
+An image with a house, a car, a fence, a sky, a pavement, and a tree.

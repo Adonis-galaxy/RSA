@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a typical day in a residential area, with cars parked along the street and buildings in the background, reflecting the everyday life of the neighborhood.
 The image shows a narrow street lined with parked cars, with a mix of old and new models, and a few trees and buildings in the background.
 The image shows a narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with four trucks, a tree, nine cars, a wall, a stairs, a pavement, a building, a sky, and a road.
+An image with nine cars, four trucks, a sky, a road, a pavement, a wall, a building, a stairs, and a tree.
+An image with four trucks, a sky, nine cars, a tree, a pavement, a stairs, a road, a wall, and a building.
+An image with nine cars, four trucks, a tree, a building, a wall, a road, a sky, a stairs, and a pavement.
+An image with four trucks, a road, a building, nine cars, a wall, a tree, a stairs, a sky, and a pavement.

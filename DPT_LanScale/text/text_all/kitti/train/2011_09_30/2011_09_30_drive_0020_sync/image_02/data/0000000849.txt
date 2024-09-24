@@ -8,3 +8,8 @@ The image shows a street with a red car parked on the sidewalk.
 A quiet residential street, lined with trees and parked cars, leading to a row of buildings under construction.
 The image shows a tree-lined street with a red car parked on the sidewalk, a white building under construction in the background, and a clear blue sky.
 A quiet residential street with a mix of old and new buildings, lined with trees and parked cars, leading to a red car parked on the sidewalk.
+An image with a tree, five cars, a building, a pavement, a road, a person, and a grass.
+An image with five cars, a road, a grass, a building, a tree, a person, and a pavement.
+An image with a tree, five cars, a person, a road, a building, a pavement, and a grass.
+An image with a grass, five cars, a road, a person, a tree, a building, and a pavement.
+An image with five cars, a tree, a road, a person, a pavement, a grass, and a building.

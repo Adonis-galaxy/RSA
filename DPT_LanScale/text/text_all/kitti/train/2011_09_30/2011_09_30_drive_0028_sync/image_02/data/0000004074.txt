@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck.
 A narrow street lined with parked cars, under a canopy of trees, with a clear sky overhead.
 The image shows a narrow street lined with parked cars, with a large truck parked on the side, and a green dumpster in the middle of the road.
 A narrow street lined with parked cars and trees, leading to a bridge.
+An image with six cars, a tree, a truck, a sky, a bridge, a grass, a pavement, and a road.
+An image with a tree, six cars, a pavement, a sky, a truck, a bridge, a grass, and a road.
+An image with a truck, six cars, a pavement, a bridge, a sky, a road, a grass, and a tree.
+An image with a bridge, a grass, six cars, a tree, a truck, a road, a sky, and a pavement.
+An image with a pavement, six cars, a tree, a truck, a road, a bridge, a grass, and a sky.

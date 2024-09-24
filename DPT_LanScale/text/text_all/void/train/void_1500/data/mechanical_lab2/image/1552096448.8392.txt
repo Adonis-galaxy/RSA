@@ -8,3 +8,8 @@ A blurry image of a computer desk with a chair.
 A computer desk with a chair, a computer monitor, and a keyboard.
 A blurry image of a small desk with a computer, keyboard, mouse, and a blue chair.
 A computer desk with a chair, a monitor, a keyboard, and a mouse.
+An image with a tv, a floor, a shelf, a keyboard, a wall, a chair, and a table.
+An image with a floor, a table, a chair, a wall, a tv, a shelf, and a keyboard.
+An image with a table, a tv, a wall, a keyboard, a floor, a chair, and a shelf.
+An image with a shelf, a tv, a floor, a wall, a chair, a table, and a keyboard.
+An image with a floor, a chair, a wall, a keyboard, a table, a shelf, and a tv.

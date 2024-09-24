@@ -8,3 +8,8 @@ A man riding a bicycle on a street.
 A cyclist rides down a quiet residential street, passing parked cars and a pedestrian, with a clear sky overhead.
 A man riding a bicycle on a quiet residential street, with parked cars and houses in the background.
 A man rides a bicycle down a quiet residential street, passing parked cars and a white house with a black roof.
+An image with six cars, a house, a grass, a tree, a road, a bicycle, a potted, a person, a roof, and a sky.
+An image with six cars, a grass, a person, a house, a tree, a road, a sky, a bicycle, a roof, and a potted.
+An image with a grass, a bicycle, six cars, a person, a potted, a roof, a sky, a tree, a house, and a road.
+An image with a roof, six cars, a person, a tree, a potted, a house, a sky, a grass, a bicycle, and a road.
+An image with a road, six cars, a potted, a house, a person, a grass, a bicycle, a roof, a tree, and a sky.

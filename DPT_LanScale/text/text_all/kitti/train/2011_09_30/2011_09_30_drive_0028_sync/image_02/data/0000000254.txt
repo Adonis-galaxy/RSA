@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a stop sign.
 The image captures a typical day in a residential area, with parked cars lining the street in front of apartment buildings, and a stop sign indicating the intersection.
 The image shows a street scene with a red car parked in front of a white building, a silver car parked on the side of the street, a black car parked in front of a white building, a red car parked in front of a white building, a silver car parked on the side of the street, a black car parked in front of a white building, a red car parked in front of a white building, a silver car parked on the side of
 The image shows a residential street with parked cars, a roundabout, and apartment buildings.
+An image with eight cars, a tree, a wall, a house, a sky, a road, a pavement, a parking, and a stop.
+An image with a road, a wall, eight cars, a stop, a parking, a tree, a sky, a pavement, and a house.
+An image with a parking, a sky, eight cars, a wall, a pavement, a road, a stop, a tree, and a house.
+An image with a stop, a house, eight cars, a tree, a parking, a pavement, a road, a wall, and a sky.
+An image with a sky, eight cars, a wall, a house, a road, a parking, a stop, a tree, and a pavement.

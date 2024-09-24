@@ -8,3 +8,8 @@ The image shows a street scene with a car, a van, and a bus.
 A quiet residential street, with parked cars and a van, under a canopy of trees.
 A narrow street in a residential area with parked cars, a van, and a bus.
 A narrow street in a residential area with parked cars, a van, and a bus, lined with trees and a sidewalk.
+An image with six cars, a grass, a sky, a road, a tree, and a bus.
+An image with six cars, a bus, a grass, a sky, a road, and a tree.
+An image with six cars, a sky, a grass, a tree, a bus, and a road.
+An image with six cars, a road, a tree, a bus, a grass, and a sky.
+An image with six cars, a sky, a road, a tree, a bus, and a grass.

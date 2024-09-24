@@ -8,3 +8,8 @@ A kitchen with a marble table and chairs.
 The image captures a cozy dining area with a marble table, four chairs, and a staircase leading to another level.
 The image shows a dining area with a large table, four chairs, a countertop, and a staircase.
 The image shows a kitchen with a dining table, chairs, and a countertop, with a staircase leading to another level.
+An image with eight cups, three chairs, a cabinet, a wall, a fence, a floor, a banana, a shelf, and a dining.
+An image with three chairs, eight cups, a fence, a floor, a cabinet, a banana, a wall, a dining, and a shelf.
+An image with a wall, eight cups, a banana, three chairs, a shelf, a dining, a fence, a floor, and a cabinet.
+An image with three chairs, a dining, eight cups, a wall, a cabinet, a shelf, a fence, a banana, and a floor.
+An image with eight cups, a banana, a wall, three chairs, a cabinet, a floor, a fence, a dining, and a shelf.

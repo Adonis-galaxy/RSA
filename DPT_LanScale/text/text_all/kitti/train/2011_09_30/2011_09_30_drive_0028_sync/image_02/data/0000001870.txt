@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with trees and houses, where a car is parked on the side of the road, and a person is walking on the sidewalk, enjoying the peaceful atmosphere.
 The image shows a residential street with houses on both sides, lined with trees and bushes. The road curves gently to the right, and there are cars parked along the side. The sky is clear and blue, indicating a sunny day.
 The image depicts a residential street with a curved layout, lined with houses, trees, and parked cars.
+An image with a roof, a sky, seven cars, a stop, a grass, a road, and a tree.
+An image with seven cars, a tree, a road, a grass, a sky, a roof, and a stop.
+An image with a sky, a grass, a tree, a roof, a stop, seven cars, and a road.
+An image with seven cars, a stop, a tree, a road, a sky, a grass, and a roof.
+An image with a grass, a stop, seven cars, a road, a sky, a roof, and a tree.

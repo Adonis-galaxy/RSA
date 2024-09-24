@@ -8,3 +8,8 @@ The image shows a street corner with a curved road and a white house.
 The image captures a serene residential street corner, with a curved road leading to a white house nestled among trees, under a clear blue sky.
 The image shows a residential street with a curved road, a white house with a black roof, a tree, a lamp post, and a small monument.
 The image shows a residential street with a curved road, a roundabout, and a cul-de-sac, with houses and trees lining the street.
+An image with a pavement, a road, a grass, a house, a tree, and a sky.
+An image with a road, a pavement, a sky, a tree, a house, and a grass.
+An image with a grass, a tree, a house, a road, a pavement, and a sky.
+An image with a tree, a sky, a house, a road, a grass, and a pavement.
+An image with a house, a grass, a pavement, a sky, a tree, and a road.

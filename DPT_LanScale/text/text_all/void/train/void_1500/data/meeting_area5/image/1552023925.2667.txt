@@ -8,3 +8,8 @@ A white table with a white chair.
 The image shows a white table with a white chair in a room with other white furniture.
 The image shows a white table with a white chair in a room with a gray floor.
 The image shows a white table with a white chair in a room with a gray floor and a yellow wall.
+An image with six chairs, a wall, a floor, and two dinings.
+An image with two dinings, six chairs, a floor, and a wall.
+An image with six chairs, a wall, two dinings, and a floor.
+An image with a floor, six chairs, two dinings, and a wall.
+An image with six chairs, a floor, a wall, and two dinings.

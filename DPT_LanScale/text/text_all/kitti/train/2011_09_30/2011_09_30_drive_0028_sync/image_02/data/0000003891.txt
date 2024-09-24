@@ -8,3 +8,8 @@ The image shows a tree-lined street with parked cars and a van driving down the 
 A quiet residential street, lined with parked cars and tall buildings, under a clear blue sky.
 A narrow street lined with parked cars and tall buildings, with a few vehicles driving down the road.
 A tree-lined street with parked cars, a sidewalk, and buildings on both sides, leading to a clear sky.
+An image with seven cars, a building, a road, a bus, a dirt, and a tree.
+An image with a bus, a building, seven cars, a road, a dirt, and a tree.
+An image with a tree, a building, a dirt, seven cars, a bus, and a road.
+An image with seven cars, a dirt, a building, a road, a bus, and a tree.
+An image with a road, a dirt, seven cars, a tree, a bus, and a building.

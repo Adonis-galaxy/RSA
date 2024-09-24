@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a clear view of parked cars, a person walking, and a solitary tree, all under a bright sunny sky.
 A narrow street between two-story buildings, lined with parked cars and lush greenery, with a person walking in the middle.
 A narrow, tree-lined street between two-story residential buildings, with parked cars and a person walking in the middle.
+An image with a fence, a flower, a house, eight cars, a sky, a pavement, a tree, a road, a person, a stairs, a grass, and a bicycle.
+An image with a tree, a person, eight cars, a flower, a grass, a fence, a bicycle, a stairs, a sky, a pavement, a house, and a road.
+An image with a grass, a pavement, a sky, eight cars, a bicycle, a flower, a person, a stairs, a fence, a tree, a house, and a road.
+An image with a person, eight cars, a flower, a house, a fence, a pavement, a tree, a sky, a bicycle, a stairs, a road, and a grass.
+An image with a bicycle, a house, eight cars, a grass, a sky, a pavement, a road, a fence, a flower, a tree, a person, and a stairs.

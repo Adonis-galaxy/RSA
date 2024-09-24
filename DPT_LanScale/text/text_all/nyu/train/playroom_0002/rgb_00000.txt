@@ -8,3 +8,8 @@ The room is messy.
 The image captures a room in a state of disarray, with various items scattered around, including a bed, a table, and a window with blinds.
 The image shows a room with a large bed, a table with various items on it, and a window with blinds.
 The image shows a room with a cluttered layout, featuring a bed with a black mattress, a table with various items on it, and a window with blinds partially open.
+An image with a shelf, a window, a bed, a wall, a cabinet, a ceiling, and a rug.
+An image with a cabinet, a window, a wall, a rug, a shelf, a ceiling, and a bed.
+An image with a window, a shelf, a bed, a rug, a cabinet, a ceiling, and a wall.
+An image with a wall, a shelf, a rug, a ceiling, a cabinet, a window, and a bed.
+An image with a shelf, a ceiling, a rug, a wall, a bed, a cabinet, and a window.

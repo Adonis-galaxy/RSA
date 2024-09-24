@@ -8,3 +8,8 @@ The image shows a blurry view of a sidewalk with a red and white striped pattern
 The image shows a blurry scene of a sidewalk with a red and white striped curb, a tree, and some plants.
 The image shows a blurry view of a sidewalk with a red and white striped curb, a concrete wall, and a patch of dirt with plants and a tree.
 The image shows a blurry view of a concrete pathway with a red and white striped curb, leading to a garden area with various plants and a tree.
+An image with a wall, a stairs, a tree, and a dirt.
+An image with a dirt, a stairs, a tree, and a wall.
+An image with a stairs, a tree, a wall, and a dirt.
+An image with a stairs, a wall, a tree, and a dirt.
+An image with a tree, a stairs, a wall, and a dirt.

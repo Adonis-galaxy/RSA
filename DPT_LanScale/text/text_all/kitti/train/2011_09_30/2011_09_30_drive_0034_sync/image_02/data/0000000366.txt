@@ -8,3 +8,8 @@ A white van parked on a narrow street.
 A white delivery van parked on a narrow, cobblestone street between two buildings, with a blue toilet on the right side.
 A large white van is parked on a narrow street between two toilets.
 A white delivery van is parked on a narrow, cobblestone street in a residential area, with a blue toilet on the right side.
+An image with a truck, a car, a pavement, a grass, a tree, a roof, a house, a wall, and a sky.
+An image with a house, a grass, a sky, a roof, a wall, a pavement, a tree, a car, and a truck.
+An image with a car, a wall, a pavement, a house, a grass, a sky, a tree, a roof, and a truck.
+An image with a car, a pavement, a sky, a tree, a truck, a house, a roof, a grass, and a wall.
+An image with a grass, a tree, a house, a sky, a truck, a wall, a roof, a pavement, and a car.

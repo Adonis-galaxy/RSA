@@ -8,3 +8,8 @@ The image shows a street scene with a green truck parked on the side of the road
 The image captures a tranquil residential street, lined with trees and parked cars, leading to a white building with a red roof, under a clear blue sky.
 The image shows a street scene with a large truck parked on the side of the road, a row of houses in the background, and a clear blue sky overhead.
 A tree-lined street with a paved pathway, parked cars, and a truck with pallets, leading to a white building with a red roof.
+An image with six cars, a house, a banner, a building, a road, three trucks, a tree, and a grass.
+An image with six cars, a grass, a tree, a building, three trucks, a road, a house, and a banner.
+An image with a house, three trucks, a building, a grass, six cars, a road, a tree, and a banner.
+An image with a road, six cars, a grass, a building, three trucks, a banner, a house, and a tree.
+An image with a tree, three trucks, six cars, a road, a building, a house, a banner, and a grass.

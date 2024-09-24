@@ -8,3 +8,8 @@ A book with a woman's face on the cover is on a table.
 A table with a book and papers on it.
 A table with a book, papers, and a cup on it.
 A table with a book, papers, and a cup.
+An image with a dining, a cup, two books, and a wall.
+An image with two books, a cup, a dining, and a wall.
+An image with two books, a cup, a wall, and a dining.
+An image with two books, a wall, a dining, and a cup.
+An image with a dining, two books, a cup, and a wall.

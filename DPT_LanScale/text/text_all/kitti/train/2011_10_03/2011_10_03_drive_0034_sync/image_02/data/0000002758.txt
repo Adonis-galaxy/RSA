@@ -8,3 +8,8 @@ The image shows a residential street with houses and trees.
 A quiet residential street, lined with houses and trees, under a clear blue sky.
 The image shows a residential street with houses, trees, and a sidewalk, with a large rock in the foreground and a car parked on the street.
 A quiet residential street with a mix of houses and garages, lined with trees and a paved road.
+An image with a roof, a rock, a sky, a grass, a building, a tree, a road, a pavement, and a car.
+An image with a sky, a building, a road, a grass, a pavement, a car, a tree, a rock, and a roof.
+An image with a grass, a building, a car, a tree, a sky, a roof, a pavement, a road, and a rock.
+An image with a road, a building, a tree, a grass, a car, a sky, a roof, a pavement, and a rock.
+An image with a tree, a building, a rock, a grass, a pavement, a car, a road, a sky, and a roof.

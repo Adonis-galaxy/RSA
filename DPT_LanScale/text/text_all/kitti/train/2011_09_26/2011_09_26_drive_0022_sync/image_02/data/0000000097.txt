@@ -8,3 +8,8 @@ The image shows a street scene with a truck, cars, and a sidewalk.
 A quiet residential street with parked cars and a delivery truck, under a clear sky.
 The image shows a narrow street lined with parked cars and trucks, with a large truck on the left and a small car on the right.
 A narrow street lined with parked cars and a truck, leading to a residential area with houses and trees.
+An image with a sky, seven cars, a pavement, two trucks, a wall, a road, a house, and a tree.
+An image with seven cars, two trucks, a road, a tree, a sky, a wall, a pavement, and a house.
+An image with seven cars, a pavement, a house, two trucks, a tree, a wall, a sky, and a road.
+An image with seven cars, two trucks, a sky, a wall, a pavement, a tree, a road, and a house.
+An image with a tree, a wall, seven cars, a house, two trucks, a road, a sky, and a pavement.

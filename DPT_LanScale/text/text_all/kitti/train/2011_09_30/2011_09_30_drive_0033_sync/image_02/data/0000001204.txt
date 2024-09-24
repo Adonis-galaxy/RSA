@@ -8,3 +8,8 @@ The image shows a quiet residential street with parked cars and potted plants.
 A quiet residential street, lined with parked cars, potted plants, and a sidewalk, under a clear blue sky.
 The image shows a narrow street lined with parked cars, potted plants, and a building on the right side.
 A quiet residential street with parked cars, lined with houses and trees, and adorned with potted plants and flowers.
+An image with nine potteds, a pavement, a stairs, a sky, a roof, a tree, a dirt, four cars, a road, a wall, and a window.
+An image with a stairs, a pavement, nine potteds, a tree, four cars, a sky, a dirt, a roof, a window, a wall, and a road.
+An image with a wall, nine potteds, a tree, a window, a pavement, four cars, a stairs, a roof, a sky, a dirt, and a road.
+An image with a dirt, a stairs, four cars, a road, a sky, nine potteds, a pavement, a roof, a wall, a tree, and a window.
+An image with a sky, a wall, a window, nine potteds, four cars, a stairs, a tree, a pavement, a road, a dirt, and a roof.

@@ -8,3 +8,8 @@ The image shows a sandy area with trees and a building in the background.
 The image shows a sandy area with a few trees and a building in the background.
 The image shows a small patch of dirt with a few plants and trees, surrounded by a sidewalk and a building.
 The image shows a small patch of dirt with a few plants and trees, surrounded by a concrete curb and a brick building in the background.
+An image with two walls, a window, a water, a tree, a door, and a pavement.
+An image with a tree, two walls, a window, a door, a pavement, and a water.
+An image with a tree, a door, a water, two walls, a pavement, and a window.
+An image with a water, a window, a door, a pavement, two walls, and a tree.
+An image with a water, a pavement, a tree, a door, a window, and two walls.

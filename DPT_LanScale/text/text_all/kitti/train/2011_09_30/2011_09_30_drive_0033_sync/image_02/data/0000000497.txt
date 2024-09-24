@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a few vehicles moving along the road, under a clear blue sky.
 The image shows a narrow street lined with parked cars, a few trees, and houses on both sides. The street is shaded by trees, and the sky is clear.
 A narrow, tree-lined street in a residential area with parked cars and a few moving vehicles.
+An image with seven cars, a tree, a stop, a sky, a road, a house, a pavement, a wall, a roof, and a flower.
+An image with a roof, a stop, a road, seven cars, a sky, a pavement, a tree, a house, a wall, and a flower.
+An image with seven cars, a road, a wall, a tree, a pavement, a roof, a stop, a flower, a house, and a sky.
+An image with a flower, a pavement, seven cars, a road, a tree, a stop, a wall, a sky, a house, and a roof.
+An image with seven cars, a house, a pavement, a sky, a tree, a road, a wall, a roof, a flower, and a stop.

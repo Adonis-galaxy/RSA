@@ -8,3 +8,8 @@ The image shows a room with a wall-mounted painting and two framed pictures on t
 The image captures a room with a collection of framed artwork on the wall, a patterned floor, and a row of chairs, creating a space that is both decorative and functional.
 The image shows a room with a large painting on the wall, two smaller paintings, a white wall, a white floor, and a row of black chairs.
 The image shows a room with a wall-mounted painting, two framed pictures, a white wall, a beige floor, and a row of black chairs.
+An image with a wall, a person, two chairs, a floor, and a dining.
+An image with a dining, two chairs, a floor, a wall, and a person.
+An image with a floor, a person, two chairs, a wall, and a dining.
+An image with a wall, two chairs, a floor, a dining, and a person.
+An image with a dining, a floor, two chairs, a person, and a wall.

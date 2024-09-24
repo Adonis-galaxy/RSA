@@ -8,3 +8,8 @@ A microwave on a counter.
 A small microwave oven is placed on a kitchen counter.
 A small microwave oven is placed on a white countertop in a kitchen.
 A small kitchen with a white countertop, a silver microwave, a sink, and a blue wall.
+An image with a light, a counter, a paper, a cabinet, two bottles, a microwave, a sink, a floor, and a wall.
+An image with a cabinet, a microwave, a light, a paper, a sink, a floor, two bottles, a wall, and a counter.
+An image with a cabinet, a counter, a floor, two bottles, a light, a microwave, a paper, a wall, and a sink.
+An image with a paper, two bottles, a sink, a floor, a wall, a cabinet, a light, a counter, and a microwave.
+An image with a microwave, a light, two bottles, a counter, a cabinet, a sink, a floor, a wall, and a paper.

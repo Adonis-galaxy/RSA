@@ -8,3 +8,8 @@ The image shows a room with three black chairs and a wooden desk.
 The image shows a room with three black chairs and a wooden desk.
 The image shows a room with three black chairs and a small orange desk.
 The image shows a room with three black chairs and a desk, all set against a wooden wall.
+An image with three chairs, a floor, two walls, and two dinings.
+An image with a floor, three chairs, two walls, and two dinings.
+An image with a floor, three chairs, two dinings, and two walls.
+An image with two dinings, three chairs, two walls, and a floor.
+An image with two dinings, three chairs, a floor, and two walls.

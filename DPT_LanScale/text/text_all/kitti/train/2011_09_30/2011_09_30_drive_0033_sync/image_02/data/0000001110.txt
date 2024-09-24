@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quaint European street scene, featuring a charming two-story house with a red roof, a motorcycle parked in front, a street sign indicating "50," and a pedestrian crossing marked with a zebra crossing.
 The image shows a street scene with a large house on the left, a smaller house on the right, and a car parked on the right side of the street.
 The image depicts a quaint European street scene with a mix of residential and commercial buildings, a paved road with a pedestrian crosswalk, and a clear sky.
+An image with a road, three cars, a house, a wall, a fence, a tree, a sky, a dirt, a motorcycle, and a pavement.
+An image with three cars, a pavement, a fence, a house, a road, a sky, a wall, a tree, a motorcycle, and a dirt.
+An image with three cars, a motorcycle, a pavement, a tree, a fence, a dirt, a house, a road, a sky, and a wall.
+An image with a motorcycle, a tree, a pavement, three cars, a fence, a road, a house, a dirt, a sky, and a wall.
+An image with three cars, a wall, a tree, a dirt, a motorcycle, a fence, a pavement, a house, a road, and a sky.

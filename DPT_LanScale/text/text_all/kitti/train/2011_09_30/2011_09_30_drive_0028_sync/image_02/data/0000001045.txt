@@ -8,3 +8,8 @@ The image shows a narrow street with cars parked on the side.
 The image captures a narrow, tree-lined street with a red car parked on the side, a silver car driving down the road, and a white wall on the right side.
 A red car is driving down a narrow street between two walls, with a larger car following behind.
 A narrow, tree-lined street with parked cars and a pedestrian walkway.
+An image with a sky, four cars, a road, a tree, a pavement, and a wall.
+An image with four cars, a wall, a sky, a road, a pavement, and a tree.
+An image with a sky, four cars, a tree, a road, a pavement, and a wall.
+An image with a tree, a road, a pavement, a sky, a wall, and four cars.
+An image with a wall, a tree, a sky, four cars, a pavement, and a road.

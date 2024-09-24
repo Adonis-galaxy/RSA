@@ -8,3 +8,8 @@ A blurry image of a desk with various items on it.
 The image shows a desk with various items on it, including a roll of tape, a ruler, and a black object that could be a bag or a case.
 The image shows a wooden desk with a black tape dispenser, a roll of tape, a ruler, and a black bag.
 The image shows a wooden desk with various items on it, including a roll of tape, a ruler, and a black object that could be a bag or a case. The desk is situated in an office environment, with a black shelf and a white wall in the background.
+An image with three chairs, a table, a wall, a cardboard, and a book.
+An image with a book, three chairs, a table, a wall, and a cardboard.
+An image with a table, three chairs, a cardboard, a book, and a wall.
+An image with a table, a book, a wall, three chairs, and a cardboard.
+An image with a cardboard, three chairs, a wall, a table, and a book.

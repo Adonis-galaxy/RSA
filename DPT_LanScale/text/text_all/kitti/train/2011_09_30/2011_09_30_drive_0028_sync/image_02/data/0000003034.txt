@@ -8,3 +8,8 @@ The image shows a street scene with a building, a sidewalk, a street sign, a bik
 A quiet residential street, with a bicycle parked on the sidewalk and a dog walking on the sidewalk, under a clear blue sky.
 The image shows a residential street with a large building on the left, a sidewalk with a few people walking, a dog on a leash, and a bicycle parked on the sidewalk.
 A quiet residential street with apartment buildings, parked cars, and a few pedestrians.
+An image with two people, a pavement, three cars, a door, a house, a stairs, a sky, a tree, a bicycle, a dog, a road, and a stop.
+An image with three cars, a tree, a stairs, a bicycle, a road, two people, a dog, a pavement, a stop, a house, a door, and a sky.
+An image with a pavement, a tree, a bicycle, two people, a stop, three cars, a house, a sky, a road, a dog, a stairs, and a door.
+An image with a stop, a dog, two people, a stairs, a bicycle, a house, three cars, a tree, a pavement, a sky, a road, and a door.
+An image with a tree, two people, three cars, a sky, a pavement, a door, a dog, a bicycle, a house, a stairs, a road, and a stop.

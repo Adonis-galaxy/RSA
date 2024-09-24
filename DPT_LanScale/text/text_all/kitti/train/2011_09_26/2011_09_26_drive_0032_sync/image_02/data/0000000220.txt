@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes and vehicles.
 The image captures a moment of everyday life on a suburban street, with cars in motion, a clear sky, and a sign indicating the direction of a nearby town.
 The image shows a wide, empty road with a few cars, a traffic light, and a sign.
 The image depicts a wide, multi-lane road with a clear lane marking system, surrounded by greenery and a few vehicles, captured from a perspective that suggests the viewer is in a vehicle on the road.
+An image with four traffics, a truck, nine cars, a sky, a road, a pavement, a tree, and a grass.
+An image with nine cars, four traffics, a grass, a sky, a tree, a truck, a pavement, and a road.
+An image with four traffics, nine cars, a road, a tree, a truck, a sky, a grass, and a pavement.
+An image with four traffics, nine cars, a tree, a pavement, a road, a grass, a truck, and a sky.
+An image with a sky, a grass, four traffics, a road, nine cars, a pavement, a truck, and a tree.

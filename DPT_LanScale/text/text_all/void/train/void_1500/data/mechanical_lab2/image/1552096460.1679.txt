@@ -8,3 +8,8 @@ A blue and white lab bench with a computer monitor on it.
 The image shows a small, cluttered workspace with a desk, a chair, and a blue cart with white pipes.
 The image shows a small room with a desk, a blue chair, a blue cart, and a black bag.
 The image shows a small, cluttered workspace with a desk, a chair, a blue cart with white pipes, and a computer monitor.
+An image with a mouse, a cabinet, a wall, a keyboard, a chair, a tv, a table, and a floor.
+An image with a cabinet, a chair, a tv, a mouse, a keyboard, a floor, a wall, and a table.
+An image with a cabinet, a keyboard, a mouse, a chair, a wall, a table, a tv, and a floor.
+An image with a tv, a floor, a wall, a chair, a cabinet, a mouse, a table, and a keyboard.
+An image with a keyboard, a table, a wall, a chair, a cabinet, a mouse, a tv, and a floor.

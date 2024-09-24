@@ -8,3 +8,8 @@ A bathroom scale.
 A bathroom scale sits on the floor next to a tiled wall, reflecting in the mirror above the sink.
 A small white scale is placed on the floor of a bathroom, next to a tiled wall.
 A bathroom with a tiled floor, a white scale, and a mirrored wall.
+An image with a mirror, a floor, three bottles, two walls, and a clock.
+An image with a floor, a clock, three bottles, two walls, and a mirror.
+An image with a mirror, two walls, three bottles, a floor, and a clock.
+An image with two walls, three bottles, a mirror, a floor, and a clock.
+An image with three bottles, two walls, a clock, a mirror, and a floor.

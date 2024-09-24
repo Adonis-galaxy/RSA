@@ -8,3 +8,8 @@ The image shows a room with two black chairs and a white table.
 The image shows a room with two black chairs, a white table, and a white wall. The chairs are positioned in front of the table, and there are two electrical outlets on the wall.
 The image shows a small room with two black chairs, a white desk, and a white wall.
 The image shows a room with two black chairs, a white desk, and a white wall. The chairs are positioned in the foreground, while the desk is in the background. The room appears to be a simple, functional space.
+An image with two chairs, a rug, a table, a wall, and a keyboard.
+An image with a table, a keyboard, a wall, a rug, and two chairs.
+An image with a keyboard, a table, two chairs, a wall, and a rug.
+An image with two chairs, a keyboard, a rug, a wall, and a table.
+An image with a table, a keyboard, a wall, two chairs, and a rug.

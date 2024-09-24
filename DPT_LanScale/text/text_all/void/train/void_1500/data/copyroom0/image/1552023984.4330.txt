@@ -8,3 +8,8 @@ A blue trash can with a white liner.
 A trash can filled with paper, sitting next to a filing cabinet.
 A blue trash can with a white liner, filled with papers, sitting next to a white filing cabinet.
 A blue trash can with a white liner, filled with papers, sitting next to a white filing cabinet.
+An image with a paper, a cabinet, a wall, and a table.
+An image with a table, a paper, a wall, and a cabinet.
+An image with a wall, a cabinet, a paper, and a table.
+An image with a table, a cabinet, a wall, and a paper.
+An image with a cabinet, a table, a paper, and a wall.

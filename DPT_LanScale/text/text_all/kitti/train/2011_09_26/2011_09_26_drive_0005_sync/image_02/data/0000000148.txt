@@ -8,3 +8,8 @@ A person riding a bicycle on a narrow street.
 A cyclist rides down a narrow, sunlit street between parked cars, with a pedestrian walking on the sidewalk and a man standing on the corner.
 A person riding a bicycle on a narrow street between parked cars.
 A narrow street in a European city, with parked cars, a bicyclist, and pedestrians, under a bright sun.
+An image with eleven cars, a pavement, three people, a building, a truck, a bicycle, a tree, a sky, and a road.
+An image with eleven cars, a sky, a tree, a bicycle, three people, a truck, a pavement, a building, and a road.
+An image with eleven cars, a building, a bicycle, three people, a pavement, a tree, a road, a truck, and a sky.
+An image with eleven cars, a road, a building, a sky, three people, a tree, a truck, a pavement, and a bicycle.
+An image with a tree, a building, three people, eleven cars, a truck, a bicycle, a pavement, a road, and a sky.

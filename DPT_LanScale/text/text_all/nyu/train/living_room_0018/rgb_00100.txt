@@ -8,3 +8,8 @@ A person sitting at a desk in a room.
 A person is sitting at a desk in a kitchen, using a laptop, with a red chair and a lamp nearby, while another person is taking a photo of them.
 A person is sitting at a desk in a small room, using a laptop.
 A person is sitting at a desk in a small room with a red wall, a white counter, and a red chair, using a laptop.
+An image with a shelf, a floor, a ceiling, a counter, two people, a laptop, a table, two chairs, a door, a wall, and a cabinet.
+An image with two chairs, a ceiling, a laptop, a counter, two people, a wall, a shelf, a floor, a table, a door, and a cabinet.
+An image with two chairs, a ceiling, two people, a cabinet, a door, a counter, a floor, a shelf, a table, a wall, and a laptop.
+An image with two chairs, a ceiling, a cabinet, a wall, a floor, a shelf, a table, two people, a counter, a laptop, and a door.
+An image with two chairs, a cabinet, a floor, a laptop, two people, a ceiling, a shelf, a wall, a door, a table, and a counter.

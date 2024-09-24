@@ -8,3 +8,8 @@ A table with books and a phone on it.
 A cluttered office desk with a phone, books, and a chair.
 The image shows a table with a black chair, a black phone, a white phone, a red pen, a book, and a magazine.
 The image shows a table with a phone, a book, and a magazine on it, with two black chairs on either side.
+An image with three chairs, three books, a wall, a table, a dining, a window, and a cup.
+An image with three books, a table, a wall, a window, a dining, three chairs, and a cup.
+An image with three chairs, a wall, three books, a window, a table, a dining, and a cup.
+An image with three chairs, a window, a wall, three books, a cup, a dining, and a table.
+An image with three chairs, a dining, a cup, a wall, three books, a window, and a table.

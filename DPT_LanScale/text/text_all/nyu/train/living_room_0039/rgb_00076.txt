@@ -8,3 +8,8 @@ The image is a blurry photograph of a living room.
 The image captures a cluttered living room with a large sliding door, a coffee table with a few items, a couch, a chair, and a dog bed.
 The image shows a small, cluttered living room with a large window, a sliding door, and a dog bed.
 The image shows a living room with a cluttered arrangement of furniture and items, including a couch, a coffee table, a dog bed, a chair, a rug, and a television.
+An image with a ceiling, two chairs, two books, a dining, a wall, a cup, a rug, a laptop, a floor, a table, a bottle, and a couch.
+An image with a laptop, a table, two books, a floor, two chairs, a dining, a bottle, a wall, a ceiling, a couch, a rug, and a cup.
+An image with a couch, a ceiling, two books, a table, two chairs, a laptop, a bottle, a cup, a floor, a wall, a rug, and a dining.
+An image with a dining, a bottle, two books, a table, two chairs, a cup, a laptop, a wall, a floor, a couch, a ceiling, and a rug.
+An image with a table, two books, a bottle, two chairs, a rug, a wall, a ceiling, a cup, a couch, a floor, a dining, and a laptop.

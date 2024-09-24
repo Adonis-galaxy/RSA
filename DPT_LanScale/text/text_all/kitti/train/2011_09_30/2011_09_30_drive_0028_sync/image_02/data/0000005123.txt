@@ -8,3 +8,8 @@ The image shows a silver car on a street.
 A silver hatchback car is parked on the side of a street, with a white sign on a pole in the background.
 A silver car is driving down a street, passing a white trash can and a blue sign.
 A silver hatchback car is driving on a curved street with parked cars, trees, and a blue sky.
+An image with six cars, a pavement, a person, a road, a fire, a grass, a tree, and a sky.
+An image with six cars, a road, a grass, a person, a tree, a sky, a pavement, and a fire.
+An image with six cars, a tree, a person, a sky, a grass, a pavement, a fire, and a road.
+An image with a tree, a pavement, six cars, a road, a sky, a grass, a fire, and a person.
+An image with six cars, a pavement, a tree, a person, a road, a fire, a grass, and a sky.

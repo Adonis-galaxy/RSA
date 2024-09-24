@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white camper van with bicycles o
 A white camper van parked on a street with a blue car, a red car, and a bicycle on its back.
 A large white camper van is parked on a narrow street, with a blue car parked in front of it and a red car parked behind it. The camper van has bicycles attached to its back.
 A narrow street in a residential area with parked cars, a white camper van, and a blue van, with bicycles on the back of the van.
+An image with seven cars, two bicycles, a tree, a sky, a house, a fence, a truck, and a road.
+An image with seven cars, a truck, a sky, a house, two bicycles, a fence, a road, and a tree.
+An image with a tree, a road, a truck, seven cars, a fence, two bicycles, a sky, and a house.
+An image with seven cars, a fence, two bicycles, a house, a tree, a truck, a sky, and a road.
+An image with a road, a truck, a tree, a house, two bicycles, seven cars, a sky, and a fence.

@@ -8,3 +8,8 @@ The image is a photograph of a road with multiple lanes of traffic.
 The image captures a bustling highway scene with a variety of vehicles, including cars and trucks, moving in both directions under a clear sky.
 The image shows a busy highway with multiple lanes of traffic, including cars and trucks, and a clear sky overhead.
 A busy highway with multiple lanes, a median, and a mix of vehicles, including cars and trucks, driving in both directions under a clear sky.
+An image with a traffic, a pavement, a grass, seven cars, a sky, a truck, a road, and a tree.
+An image with seven cars, a truck, a traffic, a tree, a road, a grass, a pavement, and a sky.
+An image with seven cars, a pavement, a truck, a grass, a road, a traffic, a sky, and a tree.
+An image with a truck, seven cars, a tree, a pavement, a road, a traffic, a sky, and a grass.
+An image with a grass, seven cars, a sky, a road, a tree, a traffic, a truck, and a pavement.

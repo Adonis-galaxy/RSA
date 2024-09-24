@@ -8,3 +8,8 @@ A whiteboard with red chairs and a table in front of it.
 The image captures a classroom setting with a whiteboard displaying a diagram, a wooden table with chairs, and a projection screen, all under a white ceiling.
 The image shows a classroom with a whiteboard, a table with red chairs, a projector screen, and a whiteboard with writing on it.
 The image shows an office meeting room with a whiteboard, a table with red chairs, and a projection screen on the wall.
+An image with a tv, a ceiling, four chairs, a window, a dining, two cups, and a wall.
+An image with four chairs, a wall, a tv, two cups, a dining, a ceiling, and a window.
+An image with a wall, a dining, two cups, a ceiling, a window, four chairs, and a tv.
+An image with a ceiling, four chairs, a dining, a tv, a wall, a window, and two cups.
+An image with a dining, a wall, a window, two cups, four chairs, a ceiling, and a tv.

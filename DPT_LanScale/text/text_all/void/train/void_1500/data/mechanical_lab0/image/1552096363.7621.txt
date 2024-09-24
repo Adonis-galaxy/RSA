@@ -8,3 +8,8 @@ A blue chair is under a table.
 A blue chair is tucked under a table with a black cord on it.
 A blue chair with a metal frame is sitting under a white table.
 A blue chair is tucked under a white table, with a black cord running across the table.
+An image with two chairs, a floor, and a dining.
+An image with a dining, two chairs, and a floor.
+An image with a floor, two chairs, and a dining.
+An image with two chairs, a floor, and a dining.
+An image with a dining, a floor, and two chairs.

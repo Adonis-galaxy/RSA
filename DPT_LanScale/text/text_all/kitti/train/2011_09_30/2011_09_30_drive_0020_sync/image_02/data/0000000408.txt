@@ -8,3 +8,8 @@ A white truck on a street.
 A white truck with a blue and white logo driving down a tree-lined street, passing by a building with a red awning.
 A large white truck is driving down a street lined with trees and buildings.
 A white truck with a blue and white logo is driving down a tree-lined street in a residential area, passing by a building with a red roof.
+An image with a building, a pavement, three cars, a grass, a sky, a road, a truck, and a tree.
+An image with a pavement, three cars, a grass, a tree, a building, a truck, a sky, and a road.
+An image with three cars, a pavement, a road, a building, a tree, a truck, a grass, and a sky.
+An image with a tree, a truck, three cars, a sky, a grass, a road, a pavement, and a building.
+An image with three cars, a tree, a truck, a road, a pavement, a grass, a building, and a sky.

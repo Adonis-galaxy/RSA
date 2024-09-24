@@ -8,3 +8,8 @@ A computer on a desk.
 A computer setup on a desk with a monitor, keyboard, and mouse.
 A computer setup on a desk with a monitor, keyboard, and mouse, with a blue chair in front of it.
 A computer setup on a desk with a monitor, keyboard, and mouse, with a blue chair in front of it.
+An image with two chairs, a mouse, a wall, a table, a paper, a keyboard, a rug, and a tv.
+An image with a tv, a rug, a keyboard, a table, two chairs, a mouse, a wall, and a paper.
+An image with a tv, a wall, two chairs, a paper, a table, a rug, a mouse, and a keyboard.
+An image with a tv, a keyboard, a rug, a wall, two chairs, a mouse, a paper, and a table.
+An image with a rug, a mouse, two chairs, a wall, a tv, a table, a keyboard, and a paper.

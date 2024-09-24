@@ -8,3 +8,8 @@ A tree-lined street with cars driving down it.
 A quiet suburban street, lined with trees and parked cars, leads to a pedestrian pathway.
 A narrow street with parked cars, a sidewalk, and a fence on both sides, surrounded by lush greenery.
 A tree-lined street with parked cars and pedestrians, leading to a fenced area with a gate.
+An image with five people, a road, two cars, a tree, a handbag, a fence, a pavement, and a bicycle.
+An image with five people, a tree, two cars, a bicycle, a pavement, a road, a fence, and a handbag.
+An image with a bicycle, two cars, a pavement, five people, a fence, a road, a tree, and a handbag.
+An image with a road, five people, a tree, a handbag, two cars, a pavement, a fence, and a bicycle.
+An image with two cars, five people, a fence, a handbag, a bicycle, a pavement, a tree, and a road.

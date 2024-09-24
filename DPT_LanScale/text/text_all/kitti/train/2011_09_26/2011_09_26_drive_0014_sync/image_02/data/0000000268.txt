@@ -8,3 +8,8 @@ The image shows a street with a car on it.
 The image captures a quiet, tree-lined street with a single car in motion, under a clear sky.
 The image shows a wide, tree-lined street with a car in the distance, a red and white sign on the right side, and a blue and white sign on the left side.
 The image depicts a tree-lined street with a clear sky, a car in the distance, and a red and blue sign on the right side.
+An image with a sky, a grass, a car, a road, a tree, a stop, and a traffic.
+An image with a sky, a stop, a traffic, a road, a grass, a car, and a tree.
+An image with a grass, a road, a tree, a stop, a traffic, a car, and a sky.
+An image with a tree, a road, a stop, a grass, a traffic, a sky, and a car.
+An image with a car, a grass, a traffic, a road, a stop, a tree, and a sky.

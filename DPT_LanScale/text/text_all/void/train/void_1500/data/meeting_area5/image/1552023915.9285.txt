@@ -8,3 +8,8 @@ A row of white chairs around a table.
 The image shows a white table with chairs in a room, with a whiteboard in the background.
 The image shows a large white table with several chairs around it, placed in a room with a yellow wall and a door in the background.
 The image shows a long white table with several white chairs on either side, placed in a room with a yellow wall and a door in the background.
+An image with five chairs, three dinings, a wall, a door, a cabinet, and a floor.
+An image with three dinings, five chairs, a cabinet, a floor, a door, and a wall.
+An image with three dinings, five chairs, a wall, a door, a floor, and a cabinet.
+An image with a door, a wall, five chairs, a floor, three dinings, and a cabinet.
+An image with a door, three dinings, five chairs, a floor, a wall, and a cabinet.

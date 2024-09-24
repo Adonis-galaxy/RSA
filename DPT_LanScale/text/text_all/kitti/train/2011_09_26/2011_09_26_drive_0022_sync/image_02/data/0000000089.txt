@@ -8,3 +8,8 @@ A large truck parked on the side of a road.
 A large truck parked on a narrow street, with a car parked on the sidewalk and a Mercedes-Benz parked in front of a house.
 A large truck is parked on the side of a narrow street, with a smaller car parked behind it.
 A large truck is parked on the side of a narrow street, with a car parked on the opposite side, and a sidewalk in front of a row of houses.
+An image with a tree, five cars, a road, two trucks, a pavement, a house, and a sky.
+An image with five cars, a house, a sky, a road, a pavement, two trucks, and a tree.
+An image with a tree, a sky, five cars, two trucks, a pavement, a house, and a road.
+An image with five cars, two trucks, a sky, a tree, a road, a house, and a pavement.
+An image with five cars, a tree, a pavement, two trucks, a road, a house, and a sky.

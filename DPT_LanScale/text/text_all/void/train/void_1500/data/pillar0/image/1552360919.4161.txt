@@ -8,3 +8,8 @@ A black bag with a red stripe on the floor.
 A black bag with a red stripe is sitting next to a black camera bag and a black tripod.
 A black bag with a red stripe is sitting on the floor next to a large white cylinder and a black tripod.
 A black bag with a red stripe is sitting on the floor next to a white cylinder and a black tripod.
+An image with a floor, a wall, a suitcase, and a door.
+An image with a suitcase, a wall, a door, and a floor.
+An image with a floor, a suitcase, a door, and a wall.
+An image with a door, a suitcase, a wall, and a floor.
+An image with a floor, a suitcase, a wall, and a door.

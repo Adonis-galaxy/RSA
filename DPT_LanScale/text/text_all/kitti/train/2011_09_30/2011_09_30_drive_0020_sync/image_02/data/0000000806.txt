@@ -8,3 +8,8 @@ The image shows a street with parked cars and a bicycle.
 A quiet residential street with parked cars and bicycles, lined with trees and buildings, under a clear blue sky.
 The image shows a long, narrow street lined with trees and parked cars, with apartment buildings on both sides.
 A tree-lined street in a residential area, with parked cars and bicycles, leading to a row of houses.
+An image with six cars, a tree, a grass, a road, a bicycle, and a house.
+An image with a house, a tree, six cars, a grass, a road, and a bicycle.
+An image with a tree, a house, a grass, a bicycle, six cars, and a road.
+An image with six cars, a tree, a grass, a road, a house, and a bicycle.
+An image with six cars, a house, a tree, a bicycle, a road, and a grass.

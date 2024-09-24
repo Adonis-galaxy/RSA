@@ -8,3 +8,8 @@ The image shows a busy street with cars and a bus.
 The image captures a moment of urban life, with a black bus driving down a street lined with trees and buildings, passing under power lines and sharing the road with other vehicles.
 A large black bus is driving down a road with a white line, passing a smaller black car and a white building with a red roof.
 A busy street scene with a black bus driving down the road, passing under power lines, and surrounded by various vehicles and buildings.
+An image with eight cars, a road, two traffics, two people, a grass, a fence, a truck, a building, and a tree.
+An image with two traffics, a truck, eight cars, two people, a tree, a fence, a grass, a building, and a road.
+An image with eight cars, two people, a grass, a truck, a tree, two traffics, a building, a road, and a fence.
+An image with eight cars, two traffics, a grass, two people, a truck, a tree, a road, a fence, and a building.
+An image with a tree, eight cars, a truck, a grass, two people, two traffics, a building, a road, and a fence.

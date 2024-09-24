@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles and traffic lights.
 The image captures a moment of tranquility on a tree-lined road, with a few cars gently moving along the asphalt, under the watchful eyes of traffic lights and street signs.
 The image shows a wide, empty road with a few cars and trucks, a traffic light, and trees on both sides.
 The image depicts a wide, multi-lane road with a clear view of traffic lights and signs, indicating a well-regulated traffic system.
+An image with eight cars, seven traffics, a pavement, a grass, a road, a sky, a tree, a person, and a stop.
+An image with seven traffics, a sky, eight cars, a pavement, a tree, a road, a person, a grass, and a stop.
+An image with seven traffics, a sky, eight cars, a stop, a grass, a pavement, a tree, a person, and a road.
+An image with seven traffics, eight cars, a sky, a person, a road, a grass, a tree, a pavement, and a stop.
+An image with eight cars, seven traffics, a road, a tree, a sky, a pavement, a person, a grass, and a stop.

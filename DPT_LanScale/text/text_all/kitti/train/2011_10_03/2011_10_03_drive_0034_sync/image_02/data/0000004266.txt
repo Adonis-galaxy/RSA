@@ -8,3 +8,8 @@ The image shows a quiet residential street with a curved road and a sidewalk.
 The image captures a quiet residential street, lined with trees and houses, with a clear sky overhead and a few signs indicating directions.
 The image shows a quiet residential street with a few parked cars, lined with trees and houses, and marked with white lines indicating parking restrictions.
 The image depicts a quiet residential street with a curved layout, lined with trees and houses, and featuring a clear sky.
+An image with a pavement, a road, a wall, a house, a sky, and a tree.
+An image with a house, a road, a tree, a sky, a pavement, and a wall.
+An image with a house, a wall, a tree, a sky, a pavement, and a road.
+An image with a house, a tree, a wall, a sky, a road, and a pavement.
+An image with a tree, a road, a wall, a sky, a pavement, and a house.

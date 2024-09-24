@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet, tree-lined street with a car parked at the side, a pedestrian crossing, and a building with a bridge in the background.
 The image shows a street scene with a car, a bicycle, a pedestrian, a traffic light, a bridge, a building, trees, and a sidewalk.
 The image captures a tranquil scene of a tree-lined street, with a car parked on the side, a pedestrian crossing, and a building with a bridge in the background.
+An image with a house, two bicycles, six cars, a tree, a pavement, a grass, a person, a sky, a road, a railroad, and a bridge.
+An image with a person, a road, six cars, a pavement, a railroad, two bicycles, a sky, a bridge, a grass, a tree, and a house.
+An image with six cars, a grass, a sky, a house, a road, a bridge, a railroad, two bicycles, a tree, a pavement, and a person.
+An image with a road, a bridge, a sky, six cars, a tree, a railroad, a house, a person, a grass, a pavement, and two bicycles.
+An image with two bicycles, a railroad, six cars, a road, a pavement, a tree, a house, a sky, a grass, a bridge, and a person.

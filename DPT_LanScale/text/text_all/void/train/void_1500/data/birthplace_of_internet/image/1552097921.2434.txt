@@ -8,3 +8,8 @@ A room with a large refrigerator and a desk.
 The image depicts a small, cluttered office space with a focus on a large, gray refrigerator.
 The room is a small office with a desk, two chairs, a refrigerator, a filing cabinet, and a bookshelf.
 The image shows an office space with a desk, chairs, a refrigerator, and a bookshelf.
+An image with twelve books, a shelf, a wall, a tv, four chairs, a refrigerator, a ceiling, a paper, a light, a floor, a dining, a table, and a laptop.
+An image with twelve books, four chairs, a table, a tv, a light, a floor, a dining, a laptop, a shelf, a wall, a paper, a refrigerator, and a ceiling.
+An image with twelve books, a table, a wall, a dining, a shelf, four chairs, a floor, a refrigerator, a ceiling, a light, a laptop, a paper, and a tv.
+An image with a wall, a floor, a ceiling, twelve books, four chairs, a shelf, a laptop, a refrigerator, a paper, a light, a table, a dining, and a tv.
+An image with a table, twelve books, a laptop, a tv, a light, four chairs, a ceiling, a floor, a shelf, a paper, a refrigerator, a wall, and a dining.

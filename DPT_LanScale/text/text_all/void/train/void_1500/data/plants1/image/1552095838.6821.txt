@@ -8,3 +8,8 @@ The image shows a patch of dirt with sparse vegetation, including weeds and smal
 The image shows a patch of dirt with sparse vegetation, located next to a building with a brick wall.
 The image shows a patch of dirt with sparse vegetation, including small plants and weeds, in front of a building with a brick wall and a metal door.
 The image shows a patch of dirt with sparse vegetation, located next to a building with a brick wall and a metal door.
+An image with a tree, a window, a pavement, and two walls.
+An image with a tree, a pavement, two walls, and a window.
+An image with two walls, a window, a tree, and a pavement.
+An image with two walls, a tree, a window, and a pavement.
+An image with a tree, two walls, a pavement, and a window.

@@ -8,3 +8,8 @@ A yellow pipe connected to a sink.
 The image shows a yellow pipe connected to a sink, with a red cabinet underneath.
 The image shows a yellow pipe connected to a sink, with a red cabinet underneath.
 The image shows a yellow pipe connected to a sink, with a red cabinet underneath the sink.
+An image with a cabinet, a floor, a sink, and a wall.
+An image with a sink, a cabinet, a floor, and a wall.
+An image with a cabinet, a sink, a wall, and a floor.
+An image with a floor, a wall, a cabinet, and a sink.
+An image with a cabinet, a wall, a sink, and a floor.

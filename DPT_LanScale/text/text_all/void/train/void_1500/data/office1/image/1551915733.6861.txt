@@ -8,3 +8,8 @@ A black leather office chair.
 A black leather office chair in a room with a white wall.
 A black leather office chair with a high back and armrests, positioned in front of a white wall.
 The image shows a black leather office chair positioned in front of a white wall, with another similar chair to its right.
+An image with a remote, a wall, two chairs, a dining, and a rug.
+An image with a remote, a wall, two chairs, a rug, and a dining.
+An image with a dining, a wall, two chairs, a rug, and a remote.
+An image with a dining, a rug, two chairs, a wall, and a remote.
+An image with a rug, a remote, a wall, two chairs, and a dining.

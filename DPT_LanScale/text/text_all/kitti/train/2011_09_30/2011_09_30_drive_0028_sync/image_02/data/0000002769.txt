@@ -8,3 +8,8 @@ The image shows a tree-lined street with houses on the left side.
 A quiet residential street, lined with houses and trees, where a cyclist is riding under the shade of the trees.
 A tree-lined street with houses, parked cars, and a person riding a bicycle.
 A tree-lined street with houses on one side and a park on the other, leading to a clear sky.
+An image with seven cars, a house, a road, a sky, a tree, a pavement, a person, a bicycle, and a grass.
+An image with a sky, seven cars, a person, a pavement, a bicycle, a grass, a road, a tree, and a house.
+An image with a bicycle, seven cars, a person, a pavement, a grass, a road, a tree, a house, and a sky.
+An image with a road, a grass, a tree, seven cars, a bicycle, a person, a pavement, a house, and a sky.
+An image with a road, seven cars, a pavement, a grass, a house, a bicycle, a person, a sky, and a tree.

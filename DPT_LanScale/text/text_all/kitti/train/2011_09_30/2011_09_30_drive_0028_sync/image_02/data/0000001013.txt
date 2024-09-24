@@ -8,3 +8,8 @@ A man and woman walking on a sidewalk.
 A serene day in a park-like setting, with people enjoying a leisurely walk on a tree-lined path, while cars drive by on a road adjacent to the path.
 A man and woman are walking on a sidewalk next to a road with parked cars, while a man is riding a bicycle on the road.
 A tree-lined street with a parked car, pedestrians walking on a sidewalk, and a man with a bicycle.
+An image with two people, a tree, two cars, a sky, a road, a handbag, a fence, a pavement, and a bicycle.
+An image with two cars, a tree, a pavement, two people, a sky, a handbag, a road, a fence, and a bicycle.
+An image with two people, a bicycle, two cars, a handbag, a road, a tree, a sky, a pavement, and a fence.
+An image with two cars, a pavement, a bicycle, a road, a fence, two people, a sky, a tree, and a handbag.
+An image with two people, a bicycle, a sky, a road, a handbag, two cars, a pavement, a fence, and a tree.

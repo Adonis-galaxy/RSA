@@ -8,3 +8,8 @@ A concrete bench on a sidewalk.
 The image shows a concrete bench with a wooden seat, situated on a sidewalk next to a patch of dirt and plants.
 The image shows a long, narrow, concrete bench with a red stripe on the ground next to it.
 The image shows a concrete bench with a wooden seat, situated on a sidewalk next to a patch of dirt and plants.
+An image with a bench, two walls, a tree, a dirt, and a floor.
+An image with a dirt, a tree, two walls, a floor, and a bench.
+An image with two walls, a bench, a floor, a dirt, and a tree.
+An image with two walls, a tree, a bench, a floor, and a dirt.
+An image with a floor, a bench, two walls, a tree, and a dirt.

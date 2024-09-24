@@ -8,3 +8,8 @@ A narrow street between two buildings.
 A narrow, shaded street between buildings, with a yellow car parked at the end.
 A narrow, tree-lined street between two buildings, with a yellow car parked on the right side.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a white building with balconies.
+An image with a fence, a tree, a grass, a car, a sky, two walls, a house, a road, and a pavement.
+An image with a tree, two walls, a house, a fence, a road, a car, a sky, a pavement, and a grass.
+An image with a sky, two walls, a tree, a grass, a pavement, a car, a road, a fence, and a house.
+An image with a tree, a grass, two walls, a sky, a fence, a road, a car, a house, and a pavement.
+An image with a fence, two walls, a grass, a sky, a road, a pavement, a house, a car, and a tree.

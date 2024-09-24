@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white building with garage doors
 The image captures a quiet residential street with parked cars, a white garage, and a clear blue sky.
 The image shows a street scene with a large white garage on the left, a row of parked cars, a white truck driving down the street, and a tall green tree on the right.
 A quiet residential street with parked cars, a white garage, and a line of trees.
+An image with a grass, a tree, four cars, a sky, a pavement, a truck, a roof, a wall, a road, and a building.
+An image with a sky, four cars, a grass, a road, a wall, a roof, a truck, a pavement, a tree, and a building.
+An image with a building, four cars, a truck, a pavement, a sky, a road, a grass, a roof, a tree, and a wall.
+An image with four cars, a wall, a tree, a road, a roof, a sky, a grass, a truck, a pavement, and a building.
+An image with a road, a roof, a truck, a sky, a wall, four cars, a pavement, a building, a grass, and a tree.

@@ -8,3 +8,8 @@ A person riding a motorcycle on a street.
 A person riding a motorcycle on a curvy street, with a roundabout, surrounded by trees and houses.
 A person riding a motorcycle on a curvy street, with a large white monument in the background and a house with a pointed roof in the distance.
 A person riding a motorcycle on a curvy street in a residential area with houses and trees.
+An image with a tree, a house, a person, a sky, a car, a road, a motorcycle, a grass, a pavement, and a building.
+An image with a road, a house, a person, a motorcycle, a grass, a building, a sky, a car, a tree, and a pavement.
+An image with a grass, a house, a motorcycle, a tree, a sky, a car, a building, a road, a person, and a pavement.
+An image with a sky, a road, a tree, a grass, a building, a motorcycle, a car, a house, a person, and a pavement.
+An image with a building, a pavement, a grass, a sky, a house, a car, a tree, a person, a motorcycle, and a road.

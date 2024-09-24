@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a cityscape, with a focus on a white building, and it is displayed on a table in a room.
 The image shows a model of a cityscape with buildings and a street, displayed on a table.
 The image shows a model of a cityscape with buildings and a street, displayed on a table with a glass case.
+An image with a person, a floor, a wall, a building, and a cabinet.
+An image with a cabinet, a person, a building, a floor, and a wall.
+An image with a person, a wall, a building, a floor, and a cabinet.
+An image with a cabinet, a person, a building, a wall, and a floor.
+An image with a cabinet, a building, a person, a wall, and a floor.

@@ -8,3 +8,8 @@ The image shows a dark hallway with a greenish glow coming from a doorway.
 The image captures a narrow hallway with a greenish glow, featuring a doorway leading to a room with a greenish light, and a black metal railing on the left side.
 The image shows a narrow hallway with a black metal railing on the left side, a white wall on the right, and a doorway with a greenish light coming from the other room.
 The image shows a narrow hallway with a greenish glow, featuring a doorway at the end, a black metal railing on the left, and a black metal railing on the right.
+An image with a window, a fence, a ceiling, a floor, and a wall.
+An image with a floor, a window, a wall, a fence, and a ceiling.
+An image with a floor, a window, a wall, a ceiling, and a fence.
+An image with a floor, a ceiling, a wall, a window, and a fence.
+An image with a ceiling, a wall, a fence, a window, and a floor.

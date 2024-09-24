@@ -8,3 +8,8 @@ The image shows a busy street with various vehicles and traffic lights.
 A red car is driving on a road with a truck, other vehicles, and traffic lights, while a dog is in the back seat.
 A red car is driving down a street with a large truck in the background, and there are traffic lights and signs visible.
 A busy street scene with a red car driving on the right side of the road, surrounded by various vehicles, traffic lights, and road signs.
+An image with eight cars, nine traffics, a pavement, a truck, a sky, a mountain, a tree, a road, and a grass.
+An image with eight cars, a tree, a grass, a truck, nine traffics, a pavement, a mountain, a sky, and a road.
+An image with nine traffics, eight cars, a tree, a mountain, a road, a pavement, a grass, a truck, and a sky.
+An image with nine traffics, a mountain, eight cars, a grass, a tree, a truck, a sky, a road, and a pavement.
+An image with eight cars, nine traffics, a road, a truck, a grass, a sky, a pavement, a mountain, and a tree.

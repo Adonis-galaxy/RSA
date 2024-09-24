@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars and a truck.
 The image captures a busy highway scene with multiple vehicles, including cars and trucks, moving in both directions, surrounded by a lush green forest.
 A busy highway with multiple lanes of traffic, surrounded by trees and a sign indicating a right turn.
 A busy highway with multiple lanes of traffic, surrounded by a lush green forest.
+An image with eight cars, a pavement, a tree, a road, a grass, and a sky.
+An image with eight cars, a grass, a pavement, a road, a sky, and a tree.
+An image with eight cars, a pavement, a sky, a road, a tree, and a grass.
+An image with eight cars, a sky, a grass, a pavement, a tree, and a road.
+An image with a road, a pavement, eight cars, a sky, a tree, and a grass.

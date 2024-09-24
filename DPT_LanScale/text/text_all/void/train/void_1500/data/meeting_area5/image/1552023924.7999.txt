@@ -8,3 +8,8 @@ The image shows a white table with chairs in a classroom setting.
 The image shows a white table with two chairs, one of which is partially obscured by the other.
 The image shows a white table with two chairs, one of which is partially visible.
 The image shows a white table with two chairs in a room with other tables and chairs.
+An image with a floor, a wall, six chairs, and a dining.
+An image with six chairs, a wall, a dining, and a floor.
+An image with six chairs, a dining, a floor, and a wall.
+An image with a floor, six chairs, a dining, and a wall.
+An image with a dining, a wall, six chairs, and a floor.

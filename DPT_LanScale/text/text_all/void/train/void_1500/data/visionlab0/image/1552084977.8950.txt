@@ -8,3 +8,8 @@ A room with a whiteboard, a black cabinet, and a blue box.
 The image shows a room with a whiteboard, a black cabinet, a cardboard box, and a green object.
 The image shows a room with a whiteboard, a black cabinet, a cardboard box, a green object, and a blue object.
 The image shows a room with a whiteboard, a black cabinet, a desk with a computer, and a box on the floor.
+An image with a tv, a cardboard, a backpack, a wall, a refrigerator, a floor, a shelf, a cabinet, a light, and a ceiling.
+An image with a refrigerator, a shelf, a tv, a backpack, a cardboard, a ceiling, a wall, a light, a floor, and a cabinet.
+An image with a floor, a cardboard, a wall, a ceiling, a shelf, a refrigerator, a tv, a backpack, a light, and a cabinet.
+An image with a tv, a ceiling, a cardboard, a shelf, a floor, a backpack, a light, a wall, a cabinet, and a refrigerator.
+An image with a backpack, a cardboard, a tv, a light, a refrigerator, a shelf, a floor, a ceiling, a cabinet, and a wall.

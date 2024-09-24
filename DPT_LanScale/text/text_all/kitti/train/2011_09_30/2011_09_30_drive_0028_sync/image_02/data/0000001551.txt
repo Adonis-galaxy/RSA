@@ -8,3 +8,8 @@ A silver van driving down a street.
 A large white van is parked on the side of a street, with a hedge and a building in the background.
 A large white van is driving down a narrow street lined with parked cars and apartment buildings.
 A large white van is parked on the side of a tree-lined street, with a few cars and a building in the background.
+An image with six cars, a tree, a house, a bus, a pavement, a sky, a grass, and a road.
+An image with six cars, a pavement, a house, a grass, a tree, a bus, a road, and a sky.
+An image with six cars, a sky, a tree, a bus, a road, a grass, a house, and a pavement.
+An image with six cars, a grass, a house, a tree, a bus, a road, a pavement, and a sky.
+An image with a road, a bus, six cars, a grass, a tree, a pavement, a sky, and a house.

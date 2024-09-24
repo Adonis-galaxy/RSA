@@ -8,3 +8,8 @@ A white van parked on a street.
 A white van parked on a street, adjacent to a wooden fence and a house, with a pedestrian crossing symbol nearby.
 A white van is parked on the side of a narrow street, next to a wooden fence and a house with a black roof.
 A white van is parked on a street next to a sidewalk, with a pedestrian crossing symbol on the road.
+An image with a pavement, a road, a car, a fence, a house, a tree, and a sky.
+An image with a car, a fence, a sky, a house, a tree, a road, and a pavement.
+An image with a pavement, a house, a car, a sky, a tree, a road, and a fence.
+An image with a car, a pavement, a road, a fence, a tree, a house, and a sky.
+An image with a sky, a house, a fence, a tree, a pavement, a road, and a car.

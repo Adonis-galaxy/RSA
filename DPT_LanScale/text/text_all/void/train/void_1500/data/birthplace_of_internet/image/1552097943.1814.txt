@@ -8,3 +8,8 @@ The image shows a room with a long fluorescent light fixture, a blue and white c
 The image shows a room with a long fluorescent light, a blue and white machine, a table with a picture on it, and a few other items.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a picture frame on it, and a few other items.
 The image shows a room with a long fluorescent light fixture, a blue and white cabinet, a table with a poster on it, and a few other items.
+An image with a wall, a person, a ceiling, a tv, four chairs, a light, a dining, and a keyboard.
+An image with a light, a person, four chairs, a wall, a dining, a keyboard, a tv, and a ceiling.
+An image with four chairs, a ceiling, a light, a dining, a person, a keyboard, a tv, and a wall.
+An image with a wall, a keyboard, a ceiling, four chairs, a tv, a dining, a light, and a person.
+An image with a tv, four chairs, a dining, a person, a keyboard, a light, a ceiling, and a wall.

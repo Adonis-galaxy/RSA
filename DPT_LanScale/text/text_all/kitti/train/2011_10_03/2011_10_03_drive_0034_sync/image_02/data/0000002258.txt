@@ -8,3 +8,8 @@ A car parked on the side of a street.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 A small car is parked on the side of a narrow street lined with hedges and houses.
 A narrow, tree-lined street in a residential area, with parked cars and a sidewalk.
+An image with a pavement, a house, three cars, a sky, a tree, a road, and a railroad.
+An image with a road, a pavement, a railroad, a sky, three cars, a tree, and a house.
+An image with three cars, a tree, a sky, a railroad, a road, a house, and a pavement.
+An image with a sky, a tree, a railroad, a pavement, a road, three cars, and a house.
+An image with three cars, a pavement, a railroad, a house, a road, a tree, and a sky.

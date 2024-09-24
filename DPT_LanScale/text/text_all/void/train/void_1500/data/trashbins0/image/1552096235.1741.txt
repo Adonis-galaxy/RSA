@@ -8,3 +8,8 @@ The image shows a corner of a room with a white wall and a white floor.
 The image shows a corner of a room with a white wall and a white floor, where the wall meets the floor.
 The image shows a small, dirty corner of a room with a white wall and a beige baseboard.
 The image shows a corner of a room with a white wall and a white floor, with a small gap between the two.
+An image with a wall, and a floor.
+An image with a floor, and a wall.
+An image with a floor, and a wall.
+An image with a wall, and a floor.
+An image with a wall, and a floor.

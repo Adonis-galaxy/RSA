@@ -8,3 +8,8 @@ A city bus driving down a street.
 A large city bus is driving down a tree-lined street, passing through an intersection with a pedestrian crossing.
 A large bus is driving down a street with a crosswalk, surrounded by trees and traffic lights.
 A city street scene with a bus, traffic lights, and pedestrians, with a clear layout and a sense of order.
+An image with a grass, four cars, three traffics, two buses, a building, a tree, a person, and a road.
+An image with two buses, a grass, three traffics, four cars, a tree, a building, a person, and a road.
+An image with four cars, two buses, three traffics, a grass, a tree, a person, a building, and a road.
+An image with three traffics, a grass, two buses, a person, a road, a building, four cars, and a tree.
+An image with four cars, two buses, a tree, three traffics, a person, a road, a building, and a grass.

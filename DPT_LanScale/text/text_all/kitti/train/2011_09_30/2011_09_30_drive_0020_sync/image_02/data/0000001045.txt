@@ -8,3 +8,8 @@ The image shows a street scene with a white building, a car, a truck, a pedestri
 A quiet residential street with a white building, parked cars, and a pedestrian crossing sign.
 The image shows a narrow street lined with parked cars, a sidewalk, and a building. There are signs indicating a pedestrian crossing and a construction zone ahead. The street appears to be in a residential area.
 A quiet residential street with a white building, parked cars, a sidewalk, and a pedestrian crossing sign.
+An image with eight cars, a grass, a road, a house, a building, a tree, and a fence.
+An image with a house, a road, a tree, a grass, eight cars, a fence, and a building.
+An image with eight cars, a building, a house, a fence, a tree, a road, and a grass.
+An image with a building, a road, eight cars, a house, a grass, a fence, and a tree.
+An image with eight cars, a road, a tree, a fence, a building, a grass, and a house.

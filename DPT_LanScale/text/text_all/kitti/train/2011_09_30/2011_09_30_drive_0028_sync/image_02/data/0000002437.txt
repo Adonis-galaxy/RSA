@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street lined with parked cars, a sidewalk, and a row of houses, with a clear sky overhead.
 The image shows a narrow street lined with parked cars, a sidewalk, and houses on both sides, with a clear sky overhead.
 A quiet residential street with parked cars and a clear sky.
+An image with seven cars, a roof, a tree, a sky, a pavement, a road, a bird, a grass, and a house.
+An image with seven cars, a house, a bird, a tree, a roof, a grass, a pavement, a sky, and a road.
+An image with seven cars, a bird, a road, a tree, a sky, a house, a roof, a grass, and a pavement.
+An image with seven cars, a grass, a road, a pavement, a bird, a sky, a house, a tree, and a roof.
+An image with a pavement, seven cars, a house, a sky, a tree, a grass, a road, a roof, and a bird.

@@ -8,3 +8,8 @@ A checkers board on a table.
 The image captures a cozy living room with a checkered tabletop, a rug, a couch, a chair, and a doorway leading to another room.
 The image shows a living room with a checkerboard table, a rug, a couch, a chair, a bookshelf, and a doorway leading to another room.
 The image shows a living room with a checkerboard table, a rug, a couch, a chair, a bookshelf, and a doorway leading to another room.
+An image with twelve books, five chairs, a stairs, a couch, a door, a shelf, two walls, a dining, a vase, a rug, and a cabinet.
+An image with twelve books, two walls, a rug, a dining, a door, five chairs, a vase, a shelf, a couch, a stairs, and a cabinet.
+An image with two walls, a door, twelve books, a shelf, a dining, a stairs, five chairs, a vase, a rug, a couch, and a cabinet.
+An image with five chairs, a rug, two walls, twelve books, a couch, a shelf, a dining, a cabinet, a door, a stairs, and a vase.
+An image with a vase, twelve books, five chairs, a shelf, two walls, a dining, a cabinet, a couch, a rug, a stairs, and a door.

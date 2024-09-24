@@ -8,3 +8,8 @@ A black and white checkered tile on the floor.
 A black and white checkerboard on the floor next to a white cylinder and a black object.
 The image shows a black and white checkered tile on the floor, a white cylindrical object, and a black and white checkered tile on the wall.
 The image shows a black and white checkered tile on the floor, a white cylindrical object, and a black object with a silver tip.
+An image with a wall, a floor, a door, and a paper.
+An image with a wall, a paper, a floor, and a door.
+An image with a door, a paper, a wall, and a floor.
+An image with a wall, a door, a floor, and a paper.
+An image with a wall, a paper, a floor, and a door.

@@ -8,3 +8,8 @@ The image shows a street intersection with a paved road and grassy areas.
 The image captures a tranquil suburban street scene, with a clear path leading to a park, surrounded by lush greenery and a few scattered trees, under a bright blue sky.
 The image shows a wide, tree-lined street with a sidewalk, a grassy median, and a few parked cars. The street is lined with street lamps and there are traffic lights at the intersection. The trees are green and the sky is blue.
 The image shows a tree-lined street with a clear sky, a grassy median, and a road that curves to the right.
+An image with a tree, a sky, a road, a pavement, a grass, a stop, a traffic, and a car.
+An image with a car, a traffic, a tree, a stop, a pavement, a road, a sky, and a grass.
+An image with a stop, a tree, a pavement, a traffic, a grass, a road, a sky, and a car.
+An image with a car, a tree, a pavement, a sky, a road, a stop, a grass, and a traffic.
+An image with a sky, a pavement, a grass, a car, a tree, a traffic, a stop, and a road.

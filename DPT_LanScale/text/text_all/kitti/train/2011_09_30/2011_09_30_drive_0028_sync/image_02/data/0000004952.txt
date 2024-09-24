@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a mix of parked cars and a few moving vehicles, under a clear blue sky.
 The image shows a narrow street lined with parked cars and buildings, with a stop sign visible in the foreground.
 The image depicts a quiet residential street with a mix of buildings, trees, and parked cars, leading to a cul-de-sac.
+An image with two stops, a pavement, a tree, five cars, a road, two people, a building, and a wall.
+An image with five cars, a building, two stops, two people, a pavement, a wall, a road, and a tree.
+An image with five cars, a tree, a road, a wall, two people, a pavement, a building, and two stops.
+An image with two people, a building, five cars, two stops, a tree, a wall, a road, and a pavement.
+An image with five cars, two stops, a road, two people, a wall, a tree, a building, and a pavement.

@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet residential street, with a row of parked cars lined up along the sidewalk, under the shade of trees, and adjacent to a sidewalk that leads to a pathway.
 The image shows a street with a few parked cars, a sidewalk, and trees, with a clear blue sky above.
 A quiet suburban street with parked cars, a sidewalk, and a tree-lined road.
+An image with a grass, a tree, three cars, a sky, a road, a pavement, and a dirt.
+An image with a sky, a dirt, a pavement, three cars, a tree, a grass, and a road.
+An image with three cars, a road, a grass, a sky, a tree, a pavement, and a dirt.
+An image with a pavement, a grass, a road, three cars, a sky, a tree, and a dirt.
+An image with a grass, a tree, a sky, a dirt, three cars, a road, and a pavement.

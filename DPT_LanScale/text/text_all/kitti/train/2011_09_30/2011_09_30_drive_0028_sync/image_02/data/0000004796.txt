@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with cars parked on the s
 The image captures a quiet residential street, lined with parked cars and lush greenery, leading to a row of buildings under a clear blue sky.
 The image shows a narrow street lined with parked cars and tall buildings, with a large tree in the middle of the street.
 A narrow, tree-lined street between two-story buildings, with parked cars and a red sign on a pole.
+An image with two cars, a pavement, a road, a building, a stop, a sky, and a tree.
+An image with two cars, a tree, a building, a stop, a sky, a pavement, and a road.
+An image with two cars, a stop, a pavement, a tree, a road, a sky, and a building.
+An image with a road, a pavement, a tree, two cars, a stop, a sky, and a building.
+An image with a sky, a building, a road, two cars, a tree, a stop, and a pavement.

@@ -8,3 +8,8 @@ The image is a photograph of a street scene with a round manhole cover in the fo
 The image captures a quiet residential street, with a focus on the circular manhole cover at the center of the road, surrounded by apartment buildings and trees.
 The image shows a street scene with a large tree, a round manhole cover, and a sign indicating a one-way street.
 The image depicts a residential street scene with apartment buildings, a roundabout, and a tree-lined sidewalk.
+An image with a pavement, a building, a tree, a sky, a road, and a stop.
+An image with a stop, a road, a sky, a tree, a pavement, and a building.
+An image with a building, a stop, a road, a sky, a pavement, and a tree.
+An image with a pavement, a road, a building, a tree, a sky, and a stop.
+An image with a building, a road, a sky, a pavement, a stop, and a tree.

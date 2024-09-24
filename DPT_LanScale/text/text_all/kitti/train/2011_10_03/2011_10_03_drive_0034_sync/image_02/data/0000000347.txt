@@ -8,3 +8,8 @@ The image shows a street with a car parked on the side.
 A quiet, tree-lined street with parked cars, leading to a house with a garage.
 The image shows a narrow, tree-lined street with a few parked cars, a house on the left, and a wall on the right.
 A narrow, tree-lined street with parked cars and a house on the left, leading to a dead-end road.
+An image with three cars, a wall, a road, a house, a pavement, a tree, and a sky.
+An image with a road, a tree, a sky, three cars, a wall, a pavement, and a house.
+An image with a sky, a tree, a wall, a house, three cars, a road, and a pavement.
+An image with a road, a sky, three cars, a tree, a wall, a pavement, and a house.
+An image with a tree, a pavement, a road, a house, three cars, a wall, and a sky.

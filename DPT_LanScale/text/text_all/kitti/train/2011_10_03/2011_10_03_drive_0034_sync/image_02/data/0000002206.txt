@@ -8,3 +8,8 @@ The image shows a tree-lined street with a blue car parked on the side.
 A quiet residential street, lined with trees and houses, with a blue car parked on the side.
 The image shows a narrow, tree-lined street with a blue car parked on the side, a fence on the right, and a building with a red tree in front of it.
 A narrow, tree-lined street with a blue car parked on the left side, leading to a fenced-in area on the right.
+An image with three cars, a sky, a road, a fence, a pavement, a tree, and a house.
+An image with a tree, a house, three cars, a fence, a pavement, a sky, and a road.
+An image with three cars, a sky, a house, a fence, a tree, a pavement, and a road.
+An image with three cars, a fence, a sky, a tree, a pavement, a road, and a house.
+An image with three cars, a fence, a road, a sky, a pavement, a house, and a tree.

@@ -8,3 +8,8 @@ A white table with four chairs around it.
 The image shows a room with a table and chairs, illuminated by a light source that casts a shadow on the table, creating a contrast between the light and dark areas.
 The image shows a large white table with four chairs around it, illuminated by a bright light source.
 The image shows a room with a long white table and four chairs, illuminated by a single light source.
+An image with four chairs, a window, a wall, and a dining.
+An image with four chairs, a window, a dining, and a wall.
+An image with a window, four chairs, a dining, and a wall.
+An image with a window, four chairs, a wall, and a dining.
+An image with four chairs, a dining, a wall, and a window.

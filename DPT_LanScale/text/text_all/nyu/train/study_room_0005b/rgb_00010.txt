@@ -8,3 +8,8 @@ The image shows an office space with rows of desks and chairs.
 The image captures an empty office space with rows of desks and chairs, a long corridor with windows, and a ceiling with recessed lighting.
 The image shows an office space with a long hallway containing several rows of black office chairs, a large desk with a computer monitor, and a red exit sign.
 The image shows an office space with a long corridor featuring multiple rows of black office chairs and desks, leading to a large open area with a high ceiling and a row of windows.
+An image with fifteen chairs, a wall, a floor, a table, a light, a dining, a window, and a ceiling.
+An image with a ceiling, fifteen chairs, a wall, a dining, a table, a light, a floor, and a window.
+An image with a wall, a light, fifteen chairs, a ceiling, a dining, a floor, a window, and a table.
+An image with fifteen chairs, a floor, a wall, a table, a dining, a window, a light, and a ceiling.
+An image with a dining, fifteen chairs, a window, a light, a ceiling, a floor, a table, and a wall.

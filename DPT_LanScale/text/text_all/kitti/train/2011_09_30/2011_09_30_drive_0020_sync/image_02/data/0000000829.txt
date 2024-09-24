@@ -8,3 +8,8 @@ The image shows a tree-lined street with cars parked on the side.
 The image captures a serene residential street, lined with trees and parked cars, leading to a row of white buildings under a clear blue sky.
 The image shows a long, narrow street lined with trees and parked cars, leading to a row of white buildings with balconies and under construction.
 A quiet residential street with a row of houses, a paved path, and a few parked cars.
+An image with seven cars, a person, two bicycles, a tree, a pavement, a building, two potteds, a road, and a grass.
+An image with two bicycles, a person, seven cars, a grass, a road, a building, a tree, a pavement, and two potteds.
+An image with two bicycles, a pavement, seven cars, a building, two potteds, a road, a grass, a person, and a tree.
+An image with a person, seven cars, a building, a tree, a road, a pavement, a grass, two potteds, and two bicycles.
+An image with a grass, two potteds, a pavement, two bicycles, seven cars, a building, a road, a tree, and a person.

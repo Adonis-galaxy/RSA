@@ -8,3 +8,8 @@ A group of chairs around a table.
 A group of chairs around a table, with a view of the outdoors through large windows.
 A large round table with six chairs, surrounded by windows and a door, in a room with a tiled floor.
 A modern dining room with a round table surrounded by six black chairs, set against a backdrop of large windows and a patio door.
+An image with a door, six chairs, a dining, a wall, a window, and a floor.
+An image with a dining, six chairs, a floor, a door, a window, and a wall.
+An image with a floor, a wall, six chairs, a window, a dining, and a door.
+An image with a window, six chairs, a dining, a door, a wall, and a floor.
+An image with six chairs, a floor, a window, a wall, a dining, and a door.

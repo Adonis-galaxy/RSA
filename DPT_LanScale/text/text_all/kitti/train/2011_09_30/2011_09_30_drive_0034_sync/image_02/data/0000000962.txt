@@ -8,3 +8,8 @@ A black van driving down a narrow street.
 A delivery van is parked on a narrow street between two-story houses, with a sidewalk and a fence on the right side.
 A large black van is driving down a narrow street between two-story houses, with a sidewalk and a fence on the right side.
 A narrow street in a residential area, with a delivery van driving down it, flanked by houses and a fence.
+An image with a house, a potted, a bus, a fence, a tree, a grass, a wall, a road, a pavement, a sky, and a stairs.
+An image with a bus, a potted, a stairs, a tree, a fence, a wall, a road, a grass, a pavement, a sky, and a house.
+An image with a road, a stairs, a tree, a grass, a pavement, a bus, a sky, a house, a fence, a potted, and a wall.
+An image with a sky, a tree, a road, a grass, a potted, a stairs, a wall, a pavement, a bus, a house, and a fence.
+An image with a potted, a tree, a fence, a sky, a wall, a house, a bus, a road, a pavement, a stairs, and a grass.

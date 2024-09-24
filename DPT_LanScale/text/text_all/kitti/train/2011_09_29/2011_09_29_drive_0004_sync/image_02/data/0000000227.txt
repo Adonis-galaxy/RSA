@@ -8,3 +8,8 @@ The image shows a busy highway with multiple cars and trucks driving in both dir
 A busy highway with multiple lanes of traffic, surrounded by a lush green forest.
 A long, winding road with multiple cars driving on it, surrounded by trees and a clear sky.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with a sky, five cars, a grass, a road, a pavement, and a tree.
+An image with a road, a grass, a tree, a sky, a pavement, and five cars.
+An image with a road, five cars, a grass, a tree, a pavement, and a sky.
+An image with five cars, a tree, a grass, a sky, a pavement, and a road.
+An image with five cars, a sky, a grass, a pavement, a road, and a tree.

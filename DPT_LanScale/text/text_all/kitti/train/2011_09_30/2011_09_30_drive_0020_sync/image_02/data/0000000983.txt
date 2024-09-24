@@ -8,3 +8,8 @@ The image shows a street scene with a green truck parked on the side of the road
 A tranquil residential street, lined with parked cars and a green truck, under a clear blue sky.
 The image shows a street scene with a large green truck parked on the side of the road, a row of houses in the background, and a few cars parked along the street.
 A quiet residential street with parked cars, a green truck, and a blue bin, lined with trees and houses, under a clear blue sky.
+An image with three trucks, five cars, a grass, a tree, a road, a building, a pavement, and a house.
+An image with a tree, a building, five cars, a grass, three trucks, a road, a house, and a pavement.
+An image with a pavement, a tree, a road, five cars, a building, a house, three trucks, and a grass.
+An image with five cars, a grass, a building, a pavement, a house, a tree, a road, and three trucks.
+An image with five cars, three trucks, a grass, a pavement, a house, a road, a building, and a tree.

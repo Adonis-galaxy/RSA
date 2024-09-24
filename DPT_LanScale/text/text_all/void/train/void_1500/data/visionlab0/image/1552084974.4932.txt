@@ -8,3 +8,8 @@ A room with a hat on a blue chair, a trash can, and a cabinet.
 A room with a hat on a blue chair, a trash can, and a cabinet.
 The image shows a room with a blue chair, a trash can, a hat on a blue chair, and a whiteboard with writing on it.
 The image shows a cluttered office space with a desk, a trash can, and a chair, with a hat and a plate on a blue surface.
+An image with a cardboard, a wall, a tv, a cabinet, a paper, and a floor.
+An image with a paper, a wall, a tv, a cabinet, a floor, and a cardboard.
+An image with a floor, a cardboard, a tv, a wall, a paper, and a cabinet.
+An image with a floor, a wall, a cardboard, a cabinet, a tv, and a paper.
+An image with a floor, a wall, a paper, a cardboard, a cabinet, and a tv.

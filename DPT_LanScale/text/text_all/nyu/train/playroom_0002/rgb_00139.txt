@@ -8,3 +8,8 @@ The room is messy.
 The image captures a cluttered room with a disorganized bedroom, featuring a messy bed, a cluttered dresser, and a disarrayed living area.
 The room is filled with various objects, including a large bed, a chair, a table, a shelf, and a window with blinds. The objects are of different sizes, and the room appears to be in a state of disarray.
 The room is cluttered with various items, including a bed, a desk, a chair, and a window with blinds.
+An image with a bed, a cabinet, a table, a window, a ceiling, a wall, and a rug.
+An image with a rug, a window, a wall, a cabinet, a ceiling, a table, and a bed.
+An image with a table, a ceiling, a window, a wall, a cabinet, a rug, and a bed.
+An image with a cabinet, a window, a bed, a ceiling, a rug, a table, and a wall.
+An image with a table, a rug, a window, a bed, a ceiling, a cabinet, and a wall.

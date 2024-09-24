@@ -8,3 +8,8 @@ A tree-lined street.
 A quiet, tree-lined street with a brick building and a person walking in the distance.
 A narrow, tree-lined street with a brick building on the left, a person walking on the right, and a stop sign at the end.
 A narrow, tree-lined street with a brick building on the left, a sidewalk on the right, and a person walking on the right side of the street.
+An image with a grass, a wall, a pavement, a tree, a road, and a person.
+An image with a grass, a tree, a wall, a person, a road, and a pavement.
+An image with a tree, a road, a person, a wall, a pavement, and a grass.
+An image with a wall, a grass, a tree, a person, a pavement, and a road.
+An image with a grass, a tree, a pavement, a wall, a person, and a road.

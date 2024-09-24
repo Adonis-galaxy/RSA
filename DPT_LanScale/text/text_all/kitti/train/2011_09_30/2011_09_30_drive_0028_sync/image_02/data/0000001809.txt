@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street scene, with a white house featuring a balcony and a garden, surrounded by lush greenery and a blue sky.
 The image shows a residential street scene with a large white house on the right, a smaller white house on the left, a blue sign on the right side, a street sign on the left side, a car parked on the right side, and a tree on the left side.
 The image shows a residential street with a two-story house on the corner, a curved sidewalk, and a street sign.
+An image with three cars, a pavement, a road, a tree, a window, a sky, and a house.
+An image with a sky, a tree, three cars, a house, a window, a pavement, and a road.
+An image with a sky, three cars, a road, a tree, a window, a house, and a pavement.
+An image with a road, three cars, a house, a window, a tree, a sky, and a pavement.
+An image with three cars, a pavement, a window, a house, a road, a tree, and a sky.

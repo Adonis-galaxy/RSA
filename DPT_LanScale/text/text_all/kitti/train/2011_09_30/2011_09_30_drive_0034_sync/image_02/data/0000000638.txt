@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a mix of houses and trees, under a clear blue sky.
 The image shows a narrow street lined with houses, a sidewalk, and a gate. The houses are of various sizes, and there are signs and a bicycle lane indicated by white lines on the street.
 The image depicts a quiet residential street with a mix of houses and trees, a clear sky, and a sunny day.
+An image with a sky, a traffic, a house, a fence, a wall, a tree, a road, a pavement, and a fire.
+An image with a tree, a road, a traffic, a pavement, a wall, a house, a sky, a fire, and a fence.
+An image with a tree, a fire, a road, a sky, a house, a pavement, a traffic, a fence, and a wall.
+An image with a house, a traffic, a fence, a pavement, a wall, a sky, a tree, a fire, and a road.
+An image with a wall, a fire, a fence, a tree, a sky, a pavement, a traffic, a road, and a house.

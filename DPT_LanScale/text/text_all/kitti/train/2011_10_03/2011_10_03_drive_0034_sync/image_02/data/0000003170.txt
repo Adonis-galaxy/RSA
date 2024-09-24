@@ -8,3 +8,8 @@ The image shows a quiet residential street with houses on both sides.
 A quiet, tree-lined street in a residential area, with a clear view of a house and a parked car.
 The image shows a narrow, tree-lined street with a curved sidewalk, a brick wall, and a white building with a pointed roof in the background.
 A quiet residential street with a curved road, lined with houses, trees, and a brick wall.
+An image with a sky, two walls, a car, a pavement, a house, a tree, and a road.
+An image with a house, a pavement, two walls, a car, a road, a sky, and a tree.
+An image with a tree, two walls, a road, a pavement, a house, a car, and a sky.
+An image with a house, two walls, a tree, a road, a sky, a pavement, and a car.
+An image with a sky, two walls, a car, a pavement, a tree, a road, and a house.

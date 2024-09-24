@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 The image captures a serene, tree-lined street in a residential area, with a clear sky overhead and a sign indicating a nearby facility.
 The image shows a tree-lined street with a clear sky, a white building on the right, and a sign indicating a parking garage on the left.
 The image depicts a tree-lined street with a clear sky, leading to a row of buildings on the right side.
+An image with a car, a sky, a tree, a house, a pavement, a road, and a wall.
+An image with a wall, a road, a car, a sky, a tree, a house, and a pavement.
+An image with a tree, a pavement, a house, a wall, a sky, a car, and a road.
+An image with a road, a wall, a sky, a house, a tree, a car, and a pavement.
+An image with a house, a tree, a car, a road, a wall, a pavement, and a sky.

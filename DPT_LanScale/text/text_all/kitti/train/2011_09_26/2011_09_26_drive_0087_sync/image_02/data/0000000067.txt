@@ -8,3 +8,8 @@ A white garage door.
 A narrow, shaded pathway leads to a garage, with a white door and a yellow wall, surrounded by lush greenery.
 The image shows a narrow alleyway between two buildings, with a white garage door on the right and a green wall on the left.
 A narrow, shaded pathway leads to a garage with a white door, situated between a lush green wall and a yellow building.
+An image with a tree, a wall, a building, and a dirt.
+An image with a dirt, a building, a wall, and a tree.
+An image with a wall, a building, a dirt, and a tree.
+An image with a building, a tree, a dirt, and a wall.
+An image with a wall, a dirt, a tree, and a building.

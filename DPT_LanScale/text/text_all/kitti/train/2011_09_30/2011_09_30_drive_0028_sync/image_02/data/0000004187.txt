@@ -8,3 +8,8 @@ A man riding a bicycle on a tree-lined street.
 A man riding a bicycle on a shaded street, with parked cars and a person walking on the sidewalk, under a canopy of trees.
 A man riding a bicycle on a tree-lined street with parked cars and a person walking in the distance.
 A tree-lined street with parked cars, a bicyclist, and pedestrians, leading to a building on the right.
+An image with a tree, ten cars, two bicycles, a pavement, a backpack, two people, a road, a house, and a sky.
+An image with ten cars, two bicycles, a house, a pavement, a tree, a road, two people, a backpack, and a sky.
+An image with ten cars, a pavement, a tree, two people, two bicycles, a road, a backpack, a house, and a sky.
+An image with ten cars, two bicycles, two people, a road, a house, a backpack, a sky, a pavement, and a tree.
+An image with a sky, ten cars, two bicycles, two people, a pavement, a house, a tree, a backpack, and a road.

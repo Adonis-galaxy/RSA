@@ -8,3 +8,8 @@ The image shows a highway with a car driving on it.
 The image captures a serene, empty highway under a clear blue sky, with a few cars in the distance, and a bridge with a railing in the foreground.
 The image shows a wide, empty highway with a few cars, a bridge, and a clear blue sky.
 The image shows a long, straight, multi-lane highway with a clear sky, a few cars, and a bridge in the distance.
+An image with two cars, a road, a bus, a tree, a pavement, a building, and a fence.
+An image with a tree, a fence, a pavement, a building, two cars, a road, and a bus.
+An image with two cars, a fence, a pavement, a road, a bus, a tree, and a building.
+An image with two cars, a tree, a building, a bus, a road, a pavement, and a fence.
+An image with two cars, a road, a bus, a building, a fence, a tree, and a pavement.

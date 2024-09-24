@@ -8,3 +8,8 @@ The image shows a narrow street with a brick wall on one side and a car parked o
 The image captures a quiet, tree-lined street with a parked car and a sign, suggesting a peaceful residential area.
 A narrow, tree-lined street with a brick wall, a car, and a sign.
 A narrow, tree-lined street with a brick wall, a car parked on the side, and a sign indicating no parking.
+An image with a road, a wall, a roof, two cars, a fence, a sky, a pavement, a tree, and a stop.
+An image with a roof, a stop, a tree, a pavement, a sky, a fence, a road, two cars, and a wall.
+An image with a roof, a pavement, a wall, two cars, a sky, a fence, a road, a tree, and a stop.
+An image with two cars, a fence, a pavement, a tree, a sky, a road, a roof, a wall, and a stop.
+An image with a tree, a roof, a road, a pavement, two cars, a stop, a fence, a sky, and a wall.

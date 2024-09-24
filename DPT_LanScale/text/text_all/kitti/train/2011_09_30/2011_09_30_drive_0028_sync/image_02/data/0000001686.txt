@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a truck.
 The image captures a narrow street in a residential area, with parked cars on both sides, a red car in the foreground, and a white building with a blue roof in the background.
 A narrow street in a residential area with parked cars, a red car, a white van, and a black truck.
 A narrow street in a residential area, with parked cars on both sides and a red car driving down the middle.
+An image with seven cars, a sky, a road, a house, two trucks, and a tree.
+An image with seven cars, a road, a house, a tree, two trucks, and a sky.
+An image with seven cars, a sky, a house, two trucks, a road, and a tree.
+An image with a house, a sky, seven cars, two trucks, a tree, and a road.
+An image with two trucks, a tree, seven cars, a sky, a house, and a road.

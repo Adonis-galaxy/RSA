@@ -8,3 +8,8 @@ A toy car on a desk.
 A toy car is sitting on top of a wooden desk, next to a blue chair.
 A small white toy car is sitting on top of a wooden desk.
 A small white toy car is placed on top of a wooden desk, with a blue cushion on the chair in front of the desk.
+An image with a table, three chairs, a car, a wall, two bottles, a floor, and a laptop.
+An image with a car, a table, two bottles, three chairs, a floor, a wall, and a laptop.
+An image with a table, three chairs, a wall, two bottles, a floor, a laptop, and a car.
+An image with two bottles, three chairs, a laptop, a wall, a table, a car, and a floor.
+An image with a laptop, three chairs, a table, two bottles, a wall, a floor, and a car.

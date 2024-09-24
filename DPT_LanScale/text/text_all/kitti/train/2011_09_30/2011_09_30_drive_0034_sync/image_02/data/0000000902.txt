@@ -8,3 +8,8 @@ A narrow alleyway between two buildings.
 A narrow, shaded alleyway between two buildings, with a street lamp and a tree on the left, and a brick wall on the right.
 The image shows a narrow alleyway between two buildings, with a brick wall on the right side, a tree on the left, and a lamp post in the center.
 A narrow, tree-lined alleyway between two buildings, with a street lamp at the end.
+An image with a sky, a house, a pavement, a tree, and a wall.
+An image with a house, a wall, a sky, a pavement, and a tree.
+An image with a pavement, a wall, a sky, a tree, and a house.
+An image with a pavement, a wall, a sky, a house, and a tree.
+An image with a sky, a house, a tree, a wall, and a pavement.

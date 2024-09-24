@@ -8,3 +8,8 @@ A black and white checkered board leaning against a white wall.
 A black and white checkered board leaning against a white wall next to a cardboard box and a roll of paper.
 A black and white checkered board leaning against a white wall next to a cardboard box and a roll of paper.
 A black and white checkered board leaning against a white wall next to a cardboard box and a roll of paper.
+An image with a paper, a floor, a cardboard, and a wall.
+An image with a cardboard, a paper, a floor, and a wall.
+An image with a floor, a wall, a paper, and a cardboard.
+An image with a paper, a wall, a cardboard, and a floor.
+An image with a wall, a cardboard, a floor, and a paper.

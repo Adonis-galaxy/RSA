@@ -8,3 +8,8 @@ The image shows a dining room with a table and chairs.
 The image captures a dining room scene with a table set for four, featuring a wooden table with a glass top, four matching chairs, a bowl of fruit, and a framed picture on the wall.
 The image shows a dining room with a large wooden table surrounded by six matching chairs, a bowl of fruit, and a framed picture on the wall.
 The image shows a dining room with a table set for four, featuring a wooden table with a glass top, four matching wooden chairs, a bowl of fruit, and a framed picture on the wall.
+An image with a curtain, a dining, a floor, six chairs, a rug, and a wall.
+An image with a dining, six chairs, a floor, a curtain, a rug, and a wall.
+An image with six chairs, a floor, a curtain, a dining, a rug, and a wall.
+An image with a floor, a curtain, a rug, six chairs, a dining, and a wall.
+An image with a floor, a wall, a rug, a curtain, six chairs, and a dining.

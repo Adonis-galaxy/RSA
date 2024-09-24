@@ -8,3 +8,8 @@ A row of black office chairs.
 The image shows a computer lab with a desk, two chairs, and a carpeted floor.
 The image shows a small office space with a desk, two chairs, and a carpeted floor.
 The image shows a computer lab with a desk and three chairs, all on a carpeted floor.
+An image with three chairs, two keyboards, a wall, a tv, a window, a floor, and a table.
+An image with a tv, three chairs, a table, two keyboards, a window, a wall, and a floor.
+An image with a wall, a floor, two keyboards, three chairs, a tv, a table, and a window.
+An image with a floor, three chairs, a tv, two keyboards, a window, a table, and a wall.
+An image with two keyboards, three chairs, a table, a tv, a wall, a floor, and a window.

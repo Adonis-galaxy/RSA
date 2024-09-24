@@ -8,3 +8,8 @@ A table with a stack of papers on it.
 A table with a stack of papers and a book on it, with a black chair in front of it.
 The image shows a small round table with a stack of papers on it, and a black chair in the foreground.
 The image shows a table with a stack of papers and a book on it, with a black chair in front of it and a whiteboard in the background.
+An image with a tv, three books, a dining, a couch, a chair, and a wall.
+An image with a wall, a chair, three books, a dining, a couch, and a tv.
+An image with three books, a tv, a dining, a wall, a couch, and a chair.
+An image with a wall, three books, a chair, a tv, a couch, and a dining.
+An image with a dining, three books, a tv, a couch, a chair, and a wall.

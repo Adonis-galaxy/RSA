@@ -8,3 +8,8 @@ The image shows a street scene with a car driving down a tree-lined road.
 A quiet residential street with a few parked cars, lined with houses and trees, under a clear blue sky.
 A small silver car is driving down a narrow street lined with houses and trees.
 A narrow street in a residential area with parked cars, a blue car driving, and houses with red roofs.
+An image with seven cars, a pavement, a house, a stop, a tree, a sky, a wall, and a road.
+An image with a wall, a sky, a tree, seven cars, a stop, a house, a road, and a pavement.
+An image with seven cars, a wall, a sky, a road, a tree, a pavement, a house, and a stop.
+An image with a house, seven cars, a tree, a wall, a pavement, a sky, a road, and a stop.
+An image with a wall, a sky, a stop, seven cars, a pavement, a house, a tree, and a road.

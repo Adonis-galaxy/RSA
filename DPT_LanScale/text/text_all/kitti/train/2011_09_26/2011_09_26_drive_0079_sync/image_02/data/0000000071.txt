@@ -8,3 +8,8 @@ The image shows a tree on a sidewalk.
 A quiet residential street, lined with lush greenery and a few parked cars, leads to a white building with a green lawn.
 The image shows a narrow street lined with trees and bushes, with a white building on the right side. The street is shaded by the trees, and there is a small bush in the foreground.
 A tree-lined street with a white building on the right, a car parked in front of it, and a sidewalk with a small bush on the left.
+An image with a car, a house, a road, a pavement, a sky, a tree, a grass, and a wall.
+An image with a car, a tree, a road, a house, a grass, a sky, a wall, and a pavement.
+An image with a grass, a road, a tree, a wall, a pavement, a car, a house, and a sky.
+An image with a sky, a house, a wall, a tree, a road, a pavement, a car, and a grass.
+An image with a car, a house, a grass, a tree, a sky, a road, a pavement, and a wall.

@@ -8,3 +8,8 @@ The image shows a highway with multiple lanes of traffic.
 The image captures a busy highway scene with multiple lanes of traffic, a clear sky, and a sign indicating a nearby town.
 The image shows a wide, multi-lane highway with a few cars, a yellow sign on the right side, and a green field on the left side.
 A busy highway with multiple lanes, a median, and a sign indicating a nearby town.
+An image with six cars, two people, a road, a grass, a pavement, a tree, and a fence.
+An image with a fence, six cars, two people, a road, a tree, a grass, and a pavement.
+An image with a tree, a grass, six cars, two people, a road, a fence, and a pavement.
+An image with a grass, two people, six cars, a road, a fence, a pavement, and a tree.
+An image with six cars, a pavement, two people, a tree, a fence, a road, and a grass.

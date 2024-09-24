@@ -8,3 +8,8 @@ A white table with four chairs in a room with a blackboard.
 A white table with four chairs in a room with a black television on the wall.
 A large white table with four chairs in a room with a black flat screen TV on the wall.
 The image shows a modern conference room with a large white table surrounded by white chairs, a black flat screen TV mounted on the wall, and a glass door in the background.
+An image with a floor, three chairs, a paper, a table, a door, a wall, a dining, and a tv.
+An image with a paper, a table, a wall, three chairs, a floor, a dining, a tv, and a door.
+An image with a table, a door, a floor, a tv, three chairs, a paper, a wall, and a dining.
+An image with three chairs, a door, a wall, a dining, a tv, a paper, a table, and a floor.
+An image with a table, a floor, a door, a dining, a tv, three chairs, a paper, and a wall.

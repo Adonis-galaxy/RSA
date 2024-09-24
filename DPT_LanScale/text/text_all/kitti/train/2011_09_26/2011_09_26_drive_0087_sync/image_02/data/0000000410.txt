@@ -8,3 +8,8 @@ A narrow alleyway between two white fences.
 A narrow, shaded street between white fences and houses, with a car parked at the end.
 The image shows a narrow alleyway between two white fences, with a car parked on the right side and a house with a porch on the left.
 A narrow, tree-lined street between white fences and houses, with a car parked on the right side.
+An image with a grass, a sky, a tree, two cars, a pavement, a house, and a wall.
+An image with a pavement, two cars, a sky, a house, a grass, a tree, and a wall.
+An image with a pavement, a house, two cars, a wall, a grass, a tree, and a sky.
+An image with a sky, two cars, a pavement, a tree, a grass, a house, and a wall.
+An image with a wall, a sky, a pavement, two cars, a grass, a house, and a tree.

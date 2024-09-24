@@ -8,3 +8,8 @@ A man standing at a desk with a laptop and a bag of coffee.
 A man is standing at a desk with a laptop, a bag of coffee, and a box of cereal.
 A man is standing at a desk with two laptops, a bag of coffee, and a box of cereal.
 A man is standing at a desk with two laptops, a bag of coffee, and a box of cereal.
+An image with a window, three cups, a chair, a floor, a person, a wall, a table, two laptops, and a cardboard.
+An image with two laptops, a chair, three cups, a window, a table, a person, a wall, a cardboard, and a floor.
+An image with three cups, two laptops, a wall, a floor, a window, a cardboard, a chair, a person, and a table.
+An image with three cups, a window, two laptops, a table, a wall, a person, a cardboard, a floor, and a chair.
+An image with two laptops, a chair, a person, three cups, a window, a wall, a floor, a cardboard, and a table.

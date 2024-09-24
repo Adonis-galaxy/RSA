@@ -8,3 +8,8 @@ The image shows a highway with a clear blue sky.
 The image captures a clear, sunny day on a highway with a few cars, a stop sign, and a bridge in the distance, all under a blue sky.
 The image shows a wide, empty highway with a clear blue sky, a few cars, a stop sign, and a bridge in the distance.
 The image shows a long, straight, multi-lane highway with a clear sky, a few cars, and a stop sign on the left side, leading to a bridge in the distance.
+An image with three cars, a road, a fence, a tree, a building, and a stop.
+An image with a road, three cars, a fence, a building, a stop, and a tree.
+An image with three cars, a stop, a road, a fence, a tree, and a building.
+An image with a tree, three cars, a stop, a fence, a road, and a building.
+An image with a fence, a stop, a tree, a building, three cars, and a road.

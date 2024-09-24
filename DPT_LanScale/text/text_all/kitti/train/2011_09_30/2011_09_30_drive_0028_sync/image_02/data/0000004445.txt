@@ -8,3 +8,8 @@ A truck is parked on a street.
 A small truck on a shaded road, surrounded by lush greenery and parked near a car.
 A small truck is parked on a narrow, shaded street lined with trees and bushes.
 A narrow, shaded road with a parked truck and a car, bordered by lush greenery and a sidewalk.
+An image with a tree, a road, a grass, and a car.
+An image with a grass, a tree, a road, and a car.
+An image with a tree, a car, a grass, and a road.
+An image with a grass, a car, a tree, and a road.
+An image with a road, a grass, a car, and a tree.

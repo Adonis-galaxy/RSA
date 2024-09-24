@@ -8,3 +8,8 @@ The room is cluttered with various items.
 The image captures a cluttered room filled with various items, including a crib, a chair, a table, and a lamp, all seemingly disorganized and in need of tidying up.
 The room is filled with various items, including a large crib, a chair, a table, a lamp, a refrigerator, and a pile of boxes, all of which are relatively small in size.
 The room is cluttered with various items, including a crib, a chair, a table, and a lamp, all placed in a disorganized manner.
+An image with two chairs, a rug, two beds, a window, a cardboard, a table, a ceiling, a wall, and a couch.
+An image with two beds, two chairs, a ceiling, a table, a wall, a window, a cardboard, a rug, and a couch.
+An image with two chairs, a rug, a cardboard, a couch, a table, a ceiling, a wall, two beds, and a window.
+An image with two beds, two chairs, a cardboard, a ceiling, a table, a wall, a rug, a window, and a couch.
+An image with a window, a wall, a table, two chairs, a cardboard, a rug, two beds, a couch, and a ceiling.

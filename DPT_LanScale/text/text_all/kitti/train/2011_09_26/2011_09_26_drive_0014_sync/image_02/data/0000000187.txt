@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a typical day on a suburban street, with various vehicles and pedestrians navigating the road and sidewalk.
 The image shows a wide street with a mix of vehicles, including cars and a bus, and a few pedestrians, with trees lining the sides and traffic lights at intervals.
 The image depicts a tree-lined street with a mix of vehicles, including cars and a bus, moving in both directions, with a clear sky overhead.
+An image with three people, a sky, two traffics, four cars, a pavement, a building, a tree, a bicycle, a grass, and a road.
+An image with a tree, a bicycle, a sky, a pavement, three people, a grass, a building, four cars, a road, and two traffics.
+An image with three people, a pavement, a bicycle, a grass, four cars, a road, a tree, two traffics, a building, and a sky.
+An image with a tree, a grass, two traffics, a road, four cars, three people, a building, a pavement, a bicycle, and a sky.
+An image with two traffics, three people, a building, four cars, a tree, a grass, a sky, a pavement, a bicycle, and a road.

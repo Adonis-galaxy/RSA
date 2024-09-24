@@ -8,3 +8,8 @@ A chair is under a table.
 A room with a table and a chair, with a staircase in the background.
 The image shows a room with a table, a chair, and a set of stairs.
 The image shows a room with a table and a chair, with a staircase in the background.
+An image with a wall, a refrigerator, a floor, a dining, and a stairs.
+An image with a floor, a stairs, a refrigerator, a wall, and a dining.
+An image with a wall, a dining, a stairs, a floor, and a refrigerator.
+An image with a floor, a stairs, a wall, a dining, and a refrigerator.
+An image with a refrigerator, a stairs, a floor, a dining, and a wall.

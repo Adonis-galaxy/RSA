@@ -8,3 +8,8 @@ The image shows a street scene with a sidewalk, grass, and buildings.
 The image captures a serene residential street, lined with houses, trees, and a clear blue sky, creating a sense of tranquility and community.
 The image depicts a long, narrow street lined with parked cars and buildings, with a sidewalk on the right side.
 A quiet residential street with a mix of houses and apartment buildings, lined with trees and parked cars, leading to a pedestrian walkway.
+An image with seven cars, a road, a grass, a person, a house, a tree, a pavement, a truck, and a roof.
+An image with seven cars, a house, a pavement, a roof, a tree, a grass, a truck, a road, and a person.
+An image with a house, seven cars, a person, a roof, a pavement, a truck, a grass, a tree, and a road.
+An image with a house, seven cars, a person, a truck, a road, a roof, a tree, a pavement, and a grass.
+An image with a person, a tree, a pavement, seven cars, a grass, a roof, a house, a road, and a truck.

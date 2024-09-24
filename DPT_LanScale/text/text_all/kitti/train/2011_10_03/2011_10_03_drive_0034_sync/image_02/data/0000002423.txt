@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a bicycle lane.
 The image captures a quiet residential street with parked cars, a bicycle lane, and a house in the background.
 The image shows a residential street with parked cars, a bicycle lane, and a house with a tree in front of it.
 A quiet residential street with parked cars and a bicycle lane.
+An image with a house, five cars, a tree, a sky, a pavement, a wall, and a road.
+An image with five cars, a sky, a road, a wall, a house, a tree, and a pavement.
+An image with five cars, a house, a tree, a pavement, a wall, a sky, and a road.
+An image with a house, a road, five cars, a sky, a tree, a wall, and a pavement.
+An image with five cars, a tree, a road, a pavement, a wall, a sky, and a house.

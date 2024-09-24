@@ -8,3 +8,8 @@ The image shows a street scene with cars parked on the side of the road.
 The image captures a serene residential street, where the essence of the scene is the harmonious coexistence of parked cars, trees, and houses, all under a clear blue sky.
 The image shows a street scene with a large car parked on the side of the road, a smaller car driving around a corner, and a bus parked in front of a building with a red roof.
 The image depicts a residential street with parked cars, a bus stop, and a pedestrian crossing, all set against a backdrop of houses and trees.
+An image with eight cars, a house, a tree, a truck, a pavement, a sky, a road, and a grass.
+An image with a pavement, a sky, eight cars, a house, a tree, a grass, a truck, and a road.
+An image with eight cars, a sky, a road, a tree, a house, a pavement, a truck, and a grass.
+An image with a grass, a sky, a truck, eight cars, a road, a house, a pavement, and a tree.
+An image with eight cars, a pavement, a grass, a truck, a house, a road, a sky, and a tree.

@@ -8,3 +8,8 @@ The image shows an empty classroom with tables and chairs.
 The image captures an empty classroom with rows of desks and chairs, a long table, and a whiteboard, all under fluorescent lighting.
 The image shows a long, narrow hallway with a row of tables and chairs, a few posters on the wall, and a ceiling with fluorescent lights.
 The image shows an empty classroom with a long hallway leading to it, featuring a row of desks and chairs, a table, and a whiteboard.
+An image with ten chairs, a floor, a paper, three dinings, a window, a light, a wall, a door, and a ceiling.
+An image with a light, ten chairs, a ceiling, a paper, three dinings, a floor, a wall, a window, and a door.
+An image with a light, ten chairs, three dinings, a window, a wall, a paper, a door, a floor, and a ceiling.
+An image with a paper, ten chairs, a floor, a door, three dinings, a window, a wall, a light, and a ceiling.
+An image with three dinings, ten chairs, a window, a ceiling, a door, a floor, a paper, a wall, and a light.

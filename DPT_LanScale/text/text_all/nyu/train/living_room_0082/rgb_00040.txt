@@ -8,3 +8,8 @@ A man sitting at a table in a room.
 A man in a room with a table, chairs, and storage boxes, looking down at a table with a blue object on it.
 A man is sitting at a table in a small room with a chair, a table, a lamp, a coat rack, a hanging shirt, a box, a towel, and a book.
 A man is sitting at a table in a room with a tiled floor, a chair, a table, a hanging shirt, a striped towel, a white plastic container, and a window.
+An image with a wall, a window, a dining, a towel, a shelf, a book, a person, a floor, a chair, and a cardboard.
+An image with a cardboard, a window, a chair, a wall, a towel, a book, a floor, a dining, a person, and a shelf.
+An image with a dining, a person, a window, a floor, a towel, a cardboard, a chair, a wall, a shelf, and a book.
+An image with a book, a person, a cardboard, a dining, a floor, a wall, a chair, a towel, a window, and a shelf.
+An image with a floor, a dining, a towel, a cardboard, a person, a shelf, a chair, a wall, a book, and a window.

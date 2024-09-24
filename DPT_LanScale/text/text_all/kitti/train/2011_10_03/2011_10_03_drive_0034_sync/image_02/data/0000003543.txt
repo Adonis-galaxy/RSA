@@ -8,3 +8,8 @@ A red car parked on a narrow street.
 A red car parked on a narrow street between two black vehicles, with a clear sky overhead and lush greenery on both sides.
 A red car is parked on a narrow street between two black cars, with a brick wall and trees in the background.
 A narrow, tree-lined street with a red car parked on the side and a black car parked in front of it.
+An image with a wall, a pavement, a road, two cars, a tree, a house, and a sky.
+An image with a sky, two cars, a house, a road, a wall, a tree, and a pavement.
+An image with a house, a wall, a sky, two cars, a pavement, a tree, and a road.
+An image with two cars, a house, a pavement, a road, a tree, a wall, and a sky.
+An image with two cars, a wall, a tree, a road, a pavement, a sky, and a house.

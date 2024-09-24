@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and white buildings.
 The image captures a quiet residential street, lined with parked cars and white buildings, under a clear blue sky.
 The image shows a narrow street lined with parked cars and white buildings, with a few larger vehicles and a blue garage door.
 A narrow street between two rows of houses, with parked cars and garages on both sides.
+An image with a tree, a wall, a sky, seven cars, a truck, a house, a door, a road, a pavement, and a roof.
+An image with a tree, a sky, seven cars, a roof, a door, a wall, a pavement, a road, a house, and a truck.
+An image with seven cars, a roof, a door, a wall, a tree, a house, a sky, a pavement, a road, and a truck.
+An image with a door, seven cars, a road, a house, a pavement, a roof, a truck, a sky, a wall, and a tree.
+An image with a sky, a road, seven cars, a wall, a truck, a door, a tree, a roof, a house, and a pavement.

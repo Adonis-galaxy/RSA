@@ -8,3 +8,8 @@ The image shows a residential street with parked cars and houses.
 A quiet residential street, lined with parked cars and lush greenery, under a bright sunny sky.
 The image shows a narrow, tree-lined street with parked cars, apartment buildings, and a few potted plants.
 A narrow, tree-lined street with parked cars and apartment buildings on either side.
+An image with a road, five cars, a dirt, a potted, a tree, a house, a grass, and a sky.
+An image with a dirt, five cars, a sky, a house, a road, a grass, a potted, and a tree.
+An image with a road, a grass, five cars, a potted, a tree, a dirt, a sky, and a house.
+An image with five cars, a potted, a road, a tree, a sky, a house, a grass, and a dirt.
+An image with five cars, a house, a grass, a road, a potted, a tree, a sky, and a dirt.

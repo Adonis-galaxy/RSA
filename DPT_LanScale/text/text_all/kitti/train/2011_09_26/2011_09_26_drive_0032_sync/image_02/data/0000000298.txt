@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a moment of tranquility on a highway, with a few cars gently moving along the road, surrounded by a lush green landscape.
 The image shows a wide, empty highway with a few cars driving on it, and a sidewalk running parallel to the road.
 The image captures a wide, empty highway with a clear sky, lined by trees and a grassy median, with a few cars driving on the road.
+An image with two people, a road, seven cars, a grass, a tree, and a pavement.
+An image with a road, seven cars, two people, a pavement, a grass, and a tree.
+An image with a tree, seven cars, two people, a road, a pavement, and a grass.
+An image with seven cars, two people, a grass, a road, a tree, and a pavement.
+An image with seven cars, a grass, a road, a tree, a pavement, and two people.

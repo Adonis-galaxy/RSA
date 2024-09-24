@@ -8,3 +8,8 @@ A white car parked on a street.
 A white car is parked on a tree-lined street in front of a house with a hedge and a fence.
 A white car is parked on a narrow street between two houses, with a person pushing a cart in the background.
 A white car is parked on a tree-lined street in a residential area, with a curved sidewalk and a building with a balcony in the background.
+An image with a car, a tree, a house, a pavement, a sky, a fence, a wall, and a road.
+An image with a car, a house, a sky, a wall, a tree, a fence, a pavement, and a road.
+An image with a house, a tree, a sky, a road, a fence, a wall, a car, and a pavement.
+An image with a pavement, a road, a sky, a house, a wall, a tree, a car, and a fence.
+An image with a pavement, a fence, a road, a sky, a tree, a house, a wall, and a car.

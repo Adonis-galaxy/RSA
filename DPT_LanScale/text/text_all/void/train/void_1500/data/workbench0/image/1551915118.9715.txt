@@ -8,3 +8,8 @@ A coffee maker on a table.
 A coffee maker sits on a table next to a mug and a trash can.
 A coffee maker sits on a wooden table next to a white mug and a blue trash can.
 A coffee maker sits on a wooden table in an office setting, with a blue trash can and a white coffee mug nearby.
+An image with a backpack, a cup, a bowl, a dining, a wall, a rug, a cardboard, and two umbrellas.
+An image with two umbrellas, a rug, a wall, a cup, a cardboard, a bowl, a backpack, and a dining.
+An image with a rug, a cup, a wall, a cardboard, two umbrellas, a backpack, a bowl, and a dining.
+An image with a dining, a wall, a bowl, a backpack, a rug, a cup, two umbrellas, and a cardboard.
+An image with a wall, a dining, a bowl, two umbrellas, a backpack, a rug, a cardboard, and a cup.

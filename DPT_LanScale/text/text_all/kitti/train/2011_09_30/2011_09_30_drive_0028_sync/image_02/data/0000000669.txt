@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a serene suburban scene, featuring a tree-lined street with a mailbox and a street sign, set against a backdrop of a clear blue sky.
 The image shows a street scene with a large tree on the sidewalk, a sign on a pole, and a mailbox on the side of the road.
 The image depicts a tree-lined street with a clear sky, a green field in the background, and a sign indicating the name of the street.
+An image with a grass, a tree, a sky, and a road.
+An image with a tree, a sky, a grass, and a road.
+An image with a grass, a road, a sky, and a tree.
+An image with a road, a tree, a sky, and a grass.
+An image with a road, a grass, a sky, and a tree.

@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quaint, narrow street lined with charming houses, lush greenery, and a few parked vehicles, all bathed in the warm glow of a sunny day.
 The image depicts a narrow street lined with houses, trees, and a parked truck, with a large building on the left and a smaller one on the right.
 The image depicts a narrow street lined with houses and trees, with a clear sky overhead.
+An image with a house, a tree, a pavement, two walls, a truck, a road, a fence, a window, and a roof.
+An image with a house, a fence, a window, two walls, a tree, a pavement, a road, a roof, and a truck.
+An image with a roof, a road, a house, a window, a truck, two walls, a pavement, a fence, and a tree.
+An image with a tree, two walls, a fence, a pavement, a roof, a road, a house, a truck, and a window.
+An image with a tree, a house, two walls, a truck, a road, a pavement, a fence, a window, and a roof.

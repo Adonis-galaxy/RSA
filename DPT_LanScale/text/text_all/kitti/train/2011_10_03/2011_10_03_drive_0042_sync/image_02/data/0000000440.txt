@@ -8,3 +8,8 @@ The image shows a long, straight road with a clear view of the horizon.
 The image captures a long, empty highway with a clear sky, a few trees, and a distant cityscape, with a sign indicating a nearby town.
 The image shows a wide, empty highway with a few cars, a large bridge in the distance, and a yellow sign with white lettering indicating a speed limit of 70 km/h.
 The image shows a long, straight road with a clear view of the horizon, flanked by a bridge on one side and a series of buildings on the other, with a yellow sign indicating a speed limit of 70 km/h.
+An image with a road, a tree, a fence, a building, a car, and a grass.
+An image with a grass, a car, a tree, a building, a fence, and a road.
+An image with a tree, a road, a grass, a car, a building, and a fence.
+An image with a grass, a road, a fence, a car, a tree, and a building.
+An image with a fence, a grass, a road, a building, a tree, and a car.

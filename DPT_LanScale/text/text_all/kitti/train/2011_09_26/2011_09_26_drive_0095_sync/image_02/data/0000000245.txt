@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person riding a bicycle.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a bicyclist riding down the middle of the road, under the shade of trees with autumn leaves.
 The image shows a narrow street lined with parked cars and a person riding a bicycle.
 A narrow street in a residential area with parked cars, a bicycle, and a person riding a bicycle.
+An image with eleven cars, a sky, a truck, a person, a tree, a wall, a road, a pavement, and a bicycle.
+An image with eleven cars, a wall, a truck, a pavement, a road, a sky, a person, a tree, and a bicycle.
+An image with eleven cars, a pavement, a tree, a wall, a sky, a person, a truck, a road, and a bicycle.
+An image with a wall, eleven cars, a sky, a truck, a person, a tree, a pavement, a bicycle, and a road.
+An image with eleven cars, a sky, a road, a pavement, a person, a bicycle, a truck, a tree, and a wall.

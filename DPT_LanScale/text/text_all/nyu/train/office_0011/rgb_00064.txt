@@ -8,3 +8,8 @@ A view of room through a wire mesh door.
 The image captures a scene of a room with a metal fence, a desk with a computer, a bookshelf, and a couch, all viewed through the fence.
 The image shows a room with a large metal mesh door, through which a desk with a computer and a bookshelf filled with books can be seen.
 The image shows an interior space with a metal mesh fence separating two areas, one with a desk and shelves, and the other with a couch and a person partially visible.
+An image with a wall, a chair, five books, a table, a floor, a fence, and a microwave.
+An image with a chair, a table, a floor, five books, a microwave, a wall, and a fence.
+An image with a fence, five books, a microwave, a table, a chair, a wall, and a floor.
+An image with a microwave, five books, a floor, a wall, a fence, a table, and a chair.
+An image with a microwave, five books, a floor, a wall, a chair, a table, and a fence.

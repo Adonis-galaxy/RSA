@@ -8,3 +8,8 @@ The image shows a street scene with parked cars, a sidewalk, and a brick wall.
 The image captures a quiet residential street, with parked cars lining the sidewalk and a brick wall separating the road from the houses.
 The image shows a narrow street lined with parked cars and a stone wall, with a few trees and buildings in the background.
 A narrow street in a residential area with parked cars, a brick wall, and trees lining the road.
+An image with seven cars, a pavement, a wall, a fence, a building, a sky, a tree, and a road.
+An image with a tree, a wall, seven cars, a sky, a building, a road, a pavement, and a fence.
+An image with seven cars, a sky, a road, a fence, a pavement, a wall, a building, and a tree.
+An image with a pavement, a road, seven cars, a sky, a building, a wall, a tree, and a fence.
+An image with a pavement, a building, seven cars, a wall, a fence, a sky, a tree, and a road.

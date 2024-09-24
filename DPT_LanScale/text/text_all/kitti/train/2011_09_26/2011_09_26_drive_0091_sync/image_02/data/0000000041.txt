@@ -8,3 +8,8 @@ The image shows a street scene with a train track in the middle.
 The image captures a bustling city street, with a focus on the interaction between pedestrians, cyclists, and the urban environment.
 The image depicts a narrow street lined with buildings, trees, and a train track, with people walking and sitting on the sidewalk, and a few bicycles parked nearby.
 The image captures a bustling city street, lined with buildings, trees, and a train track, where people are walking and enjoying the outdoor seating of cafes and restaurants.
+An image with fifteen people, three chairs, two umbrellas, two bicycles, a pavement, a railroad, a bench, a building, a motorcycle, two potteds, a truck, a tree, a handbag, and a dining.
+An image with fifteen people, two potteds, two umbrellas, two bicycles, a dining, a bench, a truck, a building, three chairs, a motorcycle, a tree, a pavement, a handbag, and a railroad.
+An image with three chairs, fifteen people, a bench, two umbrellas, a motorcycle, two potteds, a railroad, a building, a tree, two bicycles, a dining, a pavement, a handbag, and a truck.
+An image with a tree, fifteen people, a pavement, two umbrellas, a truck, two bicycles, a dining, a building, a bench, three chairs, two potteds, a motorcycle, a handbag, and a railroad.
+An image with two potteds, fifteen people, a truck, two umbrellas, a pavement, two bicycles, three chairs, a tree, a bench, a handbag, a railroad, a motorcycle, a building, and a dining.

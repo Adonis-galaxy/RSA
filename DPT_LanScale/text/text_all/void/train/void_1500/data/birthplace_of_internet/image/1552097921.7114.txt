@@ -8,3 +8,8 @@ A room with a desk, chairs, and a large machine.
 The image shows a room with a desk, a chair, a filing cabinet, a printer, and a large cabinet.
 The room is a small office with a desk, two chairs, a filing cabinet, a printer, and a large cabinet.
 The image shows a room with a desk, a chair, a filing cabinet, a bookshelf, a refrigerator, and a large window.
+An image with seven books, a wall, a shelf, a paper, a floor, a dining, a refrigerator, a person, a table, four chairs, a light, and a ceiling.
+An image with a refrigerator, four chairs, seven books, a dining, a table, a shelf, a light, a paper, a person, a ceiling, a wall, and a floor.
+An image with seven books, a dining, a floor, four chairs, a refrigerator, a ceiling, a light, a shelf, a person, a table, a paper, and a wall.
+An image with four chairs, seven books, a refrigerator, a table, a shelf, a dining, a paper, a light, a floor, a person, a ceiling, and a wall.
+An image with a shelf, a paper, four chairs, seven books, a refrigerator, a wall, a person, a dining, a ceiling, a floor, a light, and a table.

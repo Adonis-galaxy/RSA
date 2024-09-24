@@ -8,3 +8,8 @@ The image shows a bathroom with a white toilet and a green wall.
 The image shows a bathroom with a white toilet, a white shower curtain, a white shower base, a white door, and a green wall. The shower curtain is partially open, revealing the shower base. The door is open, leading to another room.
 The image shows a narrow hallway with a white toilet, a white shower curtain, a white tiled floor, and a white door. The hallway is lined with green walls and has a white door frame.
 The image shows a bathroom with a white toilet, a white shower curtain, a white shower base, a white tiled floor, a white door, and a green wall.
+An image with a floor, a rug, a door, a wall, a toilet, and a curtain.
+An image with a door, a curtain, a rug, a floor, a wall, and a toilet.
+An image with a curtain, a rug, a floor, a wall, a toilet, and a door.
+An image with a toilet, a door, a curtain, a rug, a wall, and a floor.
+An image with a toilet, a wall, a curtain, a rug, a floor, and a door.

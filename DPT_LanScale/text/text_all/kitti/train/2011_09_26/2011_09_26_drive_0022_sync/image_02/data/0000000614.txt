@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A tree-lined street with a car parked on the side, a red and white sign on a pole, and a clear sky overhead.
 The image shows a tree-lined street with a car parked on the side, a red and white sign on a pole, and a sidewalk.
 A tree-lined street with a car parked on the side, a red and white sign, and a sidewalk.
+An image with a car, two people, a sky, a tree, a road, a grass, and a pavement.
+An image with a road, a pavement, a car, a tree, two people, a sky, and a grass.
+An image with two people, a sky, a grass, a car, a pavement, a tree, and a road.
+An image with a car, two people, a tree, a sky, a pavement, a road, and a grass.
+An image with a sky, a pavement, a road, two people, a car, a tree, and a grass.

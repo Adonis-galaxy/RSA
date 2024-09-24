@@ -8,3 +8,8 @@ The image shows a blurry model of a building.
 The image shows a blurry view of a model building with a wooden pole in the foreground.
 The image shows a blurry view of a model building with a wooden pole in the foreground.
 The image shows a blurry view of a model building with a wooden pole in the foreground.
+An image with a paper, two walls, a ceiling, a floor, and a truck.
+An image with a truck, a ceiling, a paper, two walls, and a floor.
+An image with two walls, a truck, a ceiling, a paper, and a floor.
+An image with two walls, a paper, a truck, a ceiling, and a floor.
+An image with two walls, a paper, a floor, a ceiling, and a truck.

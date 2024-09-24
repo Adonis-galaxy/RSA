@@ -8,3 +8,8 @@ A bedroom with a bed, a ceiling fan, and a checkered bedspread.
 The image shows a bedroom with a bed, a ceiling fan, and a doorway leading to another room. The room is dimly lit and has a checkered bedspread.
 The image shows a bedroom with a large bed, a ceiling fan, a doorway to another room, and a hallway leading to another room.
 The image shows a bedroom with a bed, a ceiling fan, a lamp, a door, and a hallway leading to another room.
+An image with a light, a rug, a wall, a cabinet, a door, a bed, and a ceiling.
+An image with a wall, a rug, a ceiling, a light, a bed, a door, and a cabinet.
+An image with a light, a rug, a cabinet, a door, a ceiling, a wall, and a bed.
+An image with a bed, a light, a cabinet, a wall, a door, a ceiling, and a rug.
+An image with a cabinet, a door, a bed, a light, a wall, a ceiling, and a rug.

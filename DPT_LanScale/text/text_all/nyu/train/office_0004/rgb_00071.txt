@@ -8,3 +8,8 @@ The image shows an office setting with a projection screen, a desk, a chair, and
 The image captures a room with a projection screen, a desk with a computer, a chair, and a green curtain, all arranged in a functional yet somewhat cluttered manner.
 The image shows a room with a large projection screen, a desk with a computer monitor, a chair, and a green curtain.
 The image shows an office setting with a large projection screen, a desk with a computer, a chair, and a green curtain.
+An image with a ceiling, two chairs, a floor, a table, a wall, a curtain, and a tv.
+An image with a wall, two chairs, a curtain, a floor, a ceiling, a table, and a tv.
+An image with two chairs, a table, a tv, a curtain, a floor, a wall, and a ceiling.
+An image with a ceiling, a tv, a curtain, a floor, a wall, two chairs, and a table.
+An image with a tv, two chairs, a ceiling, a wall, a table, a floor, and a curtain.

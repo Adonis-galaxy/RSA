@@ -8,3 +8,8 @@ A whiteboard with a book on top of a desk.
 A whiteboard with a book on top of a desk.
 A whiteboard with a book on top of a desk, with a cup of coffee next to it.
 A whiteboard on a wall with a desk in front of it, holding a book and a coffee cup.
+An image with a cup, a bed, a book, and a wall.
+An image with a bed, a cup, a book, and a wall.
+An image with a book, a cup, a bed, and a wall.
+An image with a wall, a cup, a book, and a bed.
+An image with a bed, a wall, a book, and a cup.

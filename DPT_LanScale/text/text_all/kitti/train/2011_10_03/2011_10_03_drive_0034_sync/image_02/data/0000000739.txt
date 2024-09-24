@@ -8,3 +8,8 @@ A black car parked on a street.
 A parked black car on a shaded street, surrounded by lush greenery and a neatly trimmed hedge.
 A small black car is parked on the side of a narrow street lined with trees and bushes.
 A narrow, tree-lined street with a parked car and a sidewalk.
+An image with a road, a tree, a sky, three cars, and a pavement.
+An image with a pavement, a tree, a road, a sky, and three cars.
+An image with three cars, a tree, a road, a sky, and a pavement.
+An image with a pavement, three cars, a tree, a road, and a sky.
+An image with a sky, three cars, a pavement, a tree, and a road.

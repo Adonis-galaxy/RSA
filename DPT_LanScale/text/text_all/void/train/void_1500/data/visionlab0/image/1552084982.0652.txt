@@ -8,3 +8,8 @@ A man in a red shirt is standing in an office.
 A man in a red shirt is standing in an office, looking at a computer screen, with a whiteboard in the background.
 A man in a red shirt is standing in an office, looking at a laptop on a desk.
 A man in a red shirt is standing in an office with a desk, chairs, and a whiteboard in the background.
+An image with a laptop, a wall, a window, a person, a chair, two cups, a floor, a paper, and a table.
+An image with a wall, two cups, a person, a window, a laptop, a chair, a table, a floor, and a paper.
+An image with a floor, a laptop, two cups, a paper, a chair, a table, a window, a person, and a wall.
+An image with a floor, a laptop, two cups, a paper, a window, a table, a wall, a person, and a chair.
+An image with two cups, a wall, a paper, a laptop, a person, a chair, a window, a table, and a floor.

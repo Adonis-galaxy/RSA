@@ -8,3 +8,8 @@ A man is standing on a construction site.
 A construction site on a city street, with a man standing on a scaffolding, a truck parked nearby, and a building under renovation.
 A large construction site with a man standing on a scaffolding, a truck parked on the side of the road, and a building under construction.
 A construction site with a fenced-off area, a sidewalk, a building under renovation, and a man standing on a scaffolding.
+An image with six cars, a house, three people, a grass, a road, a bicycle, a tree, a building, a truck, a fence, and a pavement.
+An image with a tree, a grass, a fence, a truck, six cars, a road, a bicycle, a building, three people, a pavement, and a house.
+An image with three people, a house, a truck, six cars, a pavement, a fence, a building, a road, a tree, a bicycle, and a grass.
+An image with six cars, a pavement, three people, a bicycle, a truck, a tree, a building, a fence, a grass, a house, and a road.
+An image with a road, six cars, a bicycle, three people, a house, a tree, a grass, a truck, a building, a fence, and a pavement.

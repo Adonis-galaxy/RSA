@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a quiet residential street, with a clear view of parked cars and a person walking down the middle of the road, surrounded by houses and trees.
 The image shows a narrow street lined with parked cars and houses, with a person skateboarding in the middle of the street.
 A narrow, tree-lined street between two-story residential buildings, with parked cars and a person walking on the sidewalk.
+An image with a person, a road, nine cars, a sky, a flower, a tree, a house, a grass, a fence, a bicycle, and a pavement.
+An image with a bicycle, a tree, nine cars, a fence, a flower, a grass, a house, a person, a sky, a pavement, and a road.
+An image with a sky, a grass, a person, nine cars, a pavement, a fence, a house, a road, a flower, a bicycle, and a tree.
+An image with a bicycle, nine cars, a pavement, a grass, a sky, a house, a flower, a person, a road, a tree, and a fence.
+An image with a sky, nine cars, a house, a person, a pavement, a tree, a bicycle, a flower, a grass, a road, and a fence.

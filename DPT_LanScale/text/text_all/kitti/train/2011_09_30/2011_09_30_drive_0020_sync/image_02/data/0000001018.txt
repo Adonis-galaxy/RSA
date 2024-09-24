@@ -8,3 +8,8 @@ A white van parked on the side of a road.
 A white van is parked on the side of a street, next to a white truck with a trailer attached, which is parked in front of a building with a blue sign.
 A large white van is parked on the side of a road, next to a smaller white van with a trailer attached, and in front of a row of houses.
 A white van is parked on the side of a street, next to a white building, with a white truck parked behind it, and a white car parked in front of the building.
+An image with three trucks, a grass, five cars, a person, a building, a road, a fence, a pavement, a roof, and a tree.
+An image with a roof, five cars, three trucks, a road, a person, a fence, a grass, a pavement, a building, and a tree.
+An image with three trucks, five cars, a person, a fence, a building, a grass, a road, a tree, a roof, and a pavement.
+An image with a building, a pavement, five cars, a fence, a grass, three trucks, a roof, a person, a road, and a tree.
+An image with a grass, five cars, a roof, a building, a pavement, a person, three trucks, a road, a fence, and a tree.

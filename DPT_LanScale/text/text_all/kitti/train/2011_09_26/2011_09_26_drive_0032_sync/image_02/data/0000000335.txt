@@ -8,3 +8,8 @@ The image is a photograph of a road with cars and traffic lights.
 The image captures a moment of everyday life on a suburban road, with cars in motion and a clear sky overhead.
 The image shows a road with a car, a truck, and a few traffic lights. The car is in the foreground, while the truck is in the middle ground, and the traffic lights are in the background. The road is lined with trees and there is a sidewalk on the right side.
 The image shows a road with a car, a sidewalk, and trees on both sides, with a clear sky and traffic lights in the background.
+An image with eight cars, a sky, a tree, a road, a grass, and a pavement.
+An image with eight cars, a pavement, a sky, a road, a tree, and a grass.
+An image with eight cars, a tree, a pavement, a grass, a sky, and a road.
+An image with eight cars, a pavement, a grass, a tree, a road, and a sky.
+An image with a tree, a pavement, eight cars, a road, a sky, and a grass.

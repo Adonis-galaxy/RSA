@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars.
 The image captures a narrow street lined with parked cars, with a clear sky overhead and a building on the right side.
 The image shows a narrow street lined with parked cars, with a few larger vehicles and a truck visible, and a building with a red and white sign on the left side.
 A narrow street lined with parked cars and buildings, with a clear sky overhead.
+An image with a tree, six cars, a wall, a truck, a road, a sky, a pavement, and a building.
+An image with six cars, a sky, a building, a road, a wall, a pavement, a tree, and a truck.
+An image with a wall, a sky, six cars, a road, a tree, a pavement, a building, and a truck.
+An image with a tree, six cars, a road, a sky, a pavement, a wall, a building, and a truck.
+An image with a sky, six cars, a truck, a road, a building, a tree, a wall, and a pavement.

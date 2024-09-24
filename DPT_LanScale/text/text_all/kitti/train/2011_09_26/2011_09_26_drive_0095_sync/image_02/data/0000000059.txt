@@ -8,3 +8,8 @@ The image is a photograph of a narrow city street.
 The image captures a typical day in a European city, with a mix of old and new architecture, narrow streets, parked cars, and pedestrians navigating the urban landscape.
 The image depicts a narrow street lined with parked cars and buildings, with a few pedestrians and cyclists, and a tree with orange leaves in the background.
 A narrow street in a European city, lined with parked cars, bicycles, and pedestrians, with a mix of old and new buildings, and trees casting shadows.
+An image with three bicycles, two people, a truck, twelve cars, a road, a pavement, a sky, a tree, and a building.
+An image with twelve cars, a sky, a building, a tree, three bicycles, a truck, two people, a pavement, and a road.
+An image with twelve cars, two people, a truck, a building, a road, a sky, a tree, three bicycles, and a pavement.
+An image with three bicycles, twelve cars, two people, a truck, a pavement, a road, a building, a tree, and a sky.
+An image with three bicycles, twelve cars, a sky, a pavement, a truck, a road, a building, a tree, and two people.

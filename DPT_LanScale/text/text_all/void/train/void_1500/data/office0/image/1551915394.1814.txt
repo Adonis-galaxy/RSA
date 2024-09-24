@@ -8,3 +8,8 @@ A stack of papers on a table.
 A stack of papers and a book on a table.
 A stack of papers and a book on a marble table.
 A stack of papers and a book on a table with a marble top.
+An image with a cup, a dining, a book, and a wall.
+An image with a book, a cup, a dining, and a wall.
+An image with a wall, a cup, a dining, and a book.
+An image with a wall, a dining, a cup, and a book.
+An image with a book, a dining, a wall, and a cup.

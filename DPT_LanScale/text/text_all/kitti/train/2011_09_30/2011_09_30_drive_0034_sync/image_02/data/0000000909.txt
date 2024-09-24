@@ -8,3 +8,8 @@ The image shows a narrow alleyway between two brick buildings.
 The image captures a narrow alleyway between two brick buildings, with a red trash can on the left and a green ivy-covered wall on the right, leading to a white sky above.
 The image shows a narrow alleyway between two brick buildings, with a red trash can on the left side and a green ivy-covered wall on the right.
 The image captures a narrow alleyway between two brick buildings, with a tree-lined street leading to a white sky.
+An image with a car, a pavement, a sky, a tree, and a wall.
+An image with a tree, a wall, a sky, a car, and a pavement.
+An image with a wall, a pavement, a sky, a car, and a tree.
+An image with a sky, a car, a wall, a tree, and a pavement.
+An image with a car, a wall, a sky, a tree, and a pavement.

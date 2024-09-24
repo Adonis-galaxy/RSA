@@ -8,3 +8,8 @@ A black backpack with a green logo on it.
 A backpack, a newspaper, and a sombrero are placed on a bench.
 A black backpack is sitting on a gray bench next to a newspaper and a straw hat.
 A black backpack with a green logo is placed on a gray bench next to a newspaper and a straw hat.
+An image with two walls, a couch, a backpack, a paper, and a book.
+An image with a paper, two walls, a couch, a book, and a backpack.
+An image with a paper, two walls, a book, a couch, and a backpack.
+An image with a paper, two walls, a backpack, a book, and a couch.
+An image with a couch, two walls, a book, a backpack, and a paper.

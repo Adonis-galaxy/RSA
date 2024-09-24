@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a school, with a clear glass case displaying it.
 The image shows a small model of a building, which is placed on a wooden shelf.
 The image shows a model of a building with a clear glass display case, placed on a wooden stand.
+An image with a building, a floor, a truck, and a tree.
+An image with a building, a truck, a floor, and a tree.
+An image with a truck, a building, a tree, and a floor.
+An image with a floor, a truck, a building, and a tree.
+An image with a floor, a tree, a truck, and a building.

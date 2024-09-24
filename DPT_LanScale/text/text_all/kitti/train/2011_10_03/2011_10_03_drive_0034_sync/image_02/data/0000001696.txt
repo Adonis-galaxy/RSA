@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 A quiet residential street, with a few people walking on the sidewalk, under the shade of trees, and with parked cars on the side.
 A narrow street lined with houses and trees, with a few people walking on the sidewalk.
 A quiet residential street with a few parked cars, a sidewalk, and a row of houses.
+An image with four people, three cars, a grass, a wall, a tree, a pavement, a sky, a roof, and a road.
+An image with four people, a grass, a pavement, a sky, a wall, three cars, a road, a tree, and a roof.
+An image with a tree, three cars, four people, a roof, a sky, a pavement, a grass, a road, and a wall.
+An image with four people, three cars, a grass, a sky, a wall, a roof, a pavement, a tree, and a road.
+An image with a roof, three cars, four people, a tree, a sky, a grass, a wall, a pavement, and a road.

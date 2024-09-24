@@ -8,3 +8,8 @@ The image shows a green car parked on a street.
 A vibrant green car parked on a tree-lined street, with a white building and a blue sky in the background.
 A green car is parked on the side of a narrow street lined with trees and houses.
 A narrow, tree-lined street with parked cars and a sidewalk.
+An image with five cars, a pavement, a building, a road, a tree, a sky, a house, a fence, and a wall.
+An image with five cars, a pavement, a house, a wall, a fence, a building, a road, a tree, and a sky.
+An image with a house, five cars, a building, a sky, a pavement, a road, a fence, a wall, and a tree.
+An image with five cars, a tree, a wall, a pavement, a building, a house, a road, a fence, and a sky.
+An image with a pavement, a tree, five cars, a building, a fence, a house, a sky, a road, and a wall.

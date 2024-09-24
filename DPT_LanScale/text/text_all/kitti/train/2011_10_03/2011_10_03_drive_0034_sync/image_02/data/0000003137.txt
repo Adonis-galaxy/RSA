@@ -8,3 +8,8 @@ A black car on a street.
 A black Audi car is parked on the side of a tree-lined street, with a clear blue sky overhead and a white house in the background.
 A black Audi car is driving down a narrow, tree-lined street.
 A black Audi car is parked on the side of a tree-lined street, with a brick wall and a white house in the background.
+An image with a tree, two walls, a house, two cars, a sky, a pavement, and a road.
+An image with a pavement, two walls, a sky, two cars, a house, a road, and a tree.
+An image with two cars, a pavement, a house, two walls, a road, a tree, and a sky.
+An image with a tree, a sky, two cars, two walls, a house, a road, and a pavement.
+An image with two walls, two cars, a house, a road, a sky, a tree, and a pavement.

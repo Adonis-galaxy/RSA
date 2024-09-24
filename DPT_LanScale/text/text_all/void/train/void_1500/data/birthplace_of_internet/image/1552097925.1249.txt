@@ -8,3 +8,8 @@ A room with a refrigerator, table, and chairs.
 The image shows a room with a large refrigerator, a table with a chair, and a desk with a chair. The room has a green wall and a white floor.
 The image shows a small room with a refrigerator, a table, and a filing cabinet.
 The image shows a room with a large refrigerator, a table with chairs, a filing cabinet, and a desk with a computer monitor. The room has a green wall and a white floor.
+An image with four chairs, two refrigerators, a wall, two people, a floor, a shelf, a paper, and a dining.
+An image with two people, a wall, a floor, four chairs, two refrigerators, a shelf, a dining, and a paper.
+An image with a floor, two people, two refrigerators, a paper, four chairs, a dining, a shelf, and a wall.
+An image with a floor, four chairs, a paper, a wall, two refrigerators, two people, a shelf, and a dining.
+An image with a paper, four chairs, a shelf, a floor, two refrigerators, a dining, a wall, and two people.

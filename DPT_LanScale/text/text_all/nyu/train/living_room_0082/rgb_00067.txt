@@ -8,3 +8,8 @@ A man sitting at a table in a room.
 A person is sitting at a table with a bag, a lamp, and a red object on the wall, in a room with a door and a white floor.
 A person is sitting at a small table in a room with a white wall, a door, and a window.
 A person is sitting at a table in a room with a white wall, a door, a window, and a chair.
+An image with a door, a handbag, two people, three chairs, a wall, a dining, a shelf, a light, and a floor.
+An image with two people, a dining, three chairs, a light, a floor, a door, a handbag, a shelf, and a wall.
+An image with three chairs, a dining, two people, a door, a floor, a wall, a handbag, a shelf, and a light.
+An image with a shelf, three chairs, two people, a dining, a handbag, a light, a floor, a wall, and a door.
+An image with two people, three chairs, a dining, a shelf, a wall, a handbag, a light, a door, and a floor.

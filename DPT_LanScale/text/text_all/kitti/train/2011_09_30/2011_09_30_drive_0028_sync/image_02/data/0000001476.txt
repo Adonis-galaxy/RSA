@@ -8,3 +8,8 @@ A car on a tree-lined street.
 A solitary car travels down a shaded, tree-lined street, with a clear sky overhead.
 A small car is driving down a tree-lined street.
 A tree-lined street with a car parked on the right side, leading to a building with a sign on the left.
+An image with a tree, a pavement, a building, a road, a grass, and a car.
+An image with a tree, a grass, a pavement, a road, a building, and a car.
+An image with a tree, a building, a road, a pavement, a grass, and a car.
+An image with a grass, a pavement, a road, a car, a building, and a tree.
+An image with a building, a tree, a grass, a road, a car, and a pavement.

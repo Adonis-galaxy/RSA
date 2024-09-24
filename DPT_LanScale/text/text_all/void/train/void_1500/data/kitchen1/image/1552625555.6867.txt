@@ -8,3 +8,8 @@ The image shows a room with an orange counter, a gray cabinet, and a white door.
 The image shows a small, orange countertop with a gray cabinet underneath, and a gray door with a silver handle in the background.
 The image shows a small orange countertop with a gray cabinet underneath, a gray door handle, and a gray door frame.
 The image shows a small room with an orange counter, a gray cabinet, and a white door.
+An image with a wall, a floor, a refrigerator, a cabinet, and a window.
+An image with a floor, a refrigerator, a cabinet, a window, and a wall.
+An image with a refrigerator, a cabinet, a window, a wall, and a floor.
+An image with a wall, a floor, a cabinet, a window, and a refrigerator.
+An image with a window, a floor, a refrigerator, a wall, and a cabinet.

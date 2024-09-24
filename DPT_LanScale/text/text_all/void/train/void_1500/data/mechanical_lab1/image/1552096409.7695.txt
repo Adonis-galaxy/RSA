@@ -8,3 +8,8 @@ A room with a table and chairs, and a large black object.
 The image shows a workspace with a large black machine, a white table, blue chairs, and orange panels.
 The image shows a large industrial machine with a black hose attached to it, sitting on a white tile floor in a room with orange walls and blue tables.
 The image shows a room with a large table and chairs, a black machine with a red hose, and a yellow object on the table.
+An image with a floor, a table, two chairs, a tv, a wall, and a window.
+An image with two chairs, a table, a window, a tv, a floor, and a wall.
+An image with a floor, a window, a wall, a table, two chairs, and a tv.
+An image with a tv, a wall, two chairs, a window, a table, and a floor.
+An image with a wall, a tv, two chairs, a table, a floor, and a window.

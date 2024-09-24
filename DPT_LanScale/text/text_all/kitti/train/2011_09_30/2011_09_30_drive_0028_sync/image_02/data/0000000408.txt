@@ -8,3 +8,8 @@ The image shows a narrow street between two buildings, with a car parked on the 
 A quiet residential street, lined with houses and trees, with a car parked at the end.
 The image shows a narrow street lined with houses and trees, with a car parked on the side and a person walking on the sidewalk.
 A narrow, tree-lined street between two-story residential buildings, with a car parked on the right side.
+An image with a fence, a grass, a car, a sky, a house, a pavement, a wall, a truck, a road, and a tree.
+An image with a fence, a wall, a pavement, a car, a road, a tree, a grass, a truck, a house, and a sky.
+An image with a grass, a pavement, a sky, a road, a truck, a wall, a house, a tree, a fence, and a car.
+An image with a pavement, a truck, a road, a tree, a wall, a car, a house, a sky, a grass, and a fence.
+An image with a pavement, a grass, a truck, a tree, a wall, a sky, a road, a fence, a house, and a car.

@@ -8,3 +8,8 @@ A red van is parked on a street.
 A red van is parked on a quiet, tree-lined street, adjacent to a building with garages, and the sun is shining brightly.
 A red van is driving down a narrow, tree-lined street.
 A red van is parked on a narrow, tree-lined street, adjacent to a building with garages and a sidewalk.
+An image with two cars, a pavement, a building, a road, a sky, and a tree.
+An image with a sky, two cars, a building, a road, a tree, and a pavement.
+An image with two cars, a tree, a building, a road, a sky, and a pavement.
+An image with two cars, a sky, a building, a road, a tree, and a pavement.
+An image with a road, a sky, a pavement, two cars, a tree, and a building.

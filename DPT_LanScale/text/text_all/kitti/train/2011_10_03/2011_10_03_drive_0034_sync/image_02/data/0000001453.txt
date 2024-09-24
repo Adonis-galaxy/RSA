@@ -8,3 +8,8 @@ A black car parked on a street.
 A quiet residential street, with a parked car and a few trees, under a clear blue sky.
 A black car is parked on a narrow street between two houses, with a brick wall on the right side.
 A narrow, tree-lined street leads to a house with a black car parked on the side.
+An image with a sky, two cars, a roof, a wall, a road, and a tree.
+An image with a roof, a wall, a sky, a road, a tree, and two cars.
+An image with two cars, a tree, a road, a wall, a sky, and a roof.
+An image with a wall, two cars, a roof, a road, a tree, and a sky.
+An image with a tree, a road, a wall, a roof, a sky, and two cars.

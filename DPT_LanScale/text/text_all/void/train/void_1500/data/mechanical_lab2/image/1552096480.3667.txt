@@ -8,3 +8,8 @@ The image shows a computer desk with a computer monitor, keyboard, and mouse on 
 The image shows a computer desk with a computer monitor, keyboard, and mouse, and a blue shelf with various industrial equipment and pipes.
 The image shows a computer desk with a computer monitor, keyboard, and mouse on the left side, and a large industrial machine with pipes and valves on the right side.
 The image shows a computer desk with a monitor, keyboard, and mouse on the left side, and a blue shelf with various electronic components and a whiteboard on the right side.
+An image with a wall, a clock, a tv, a paper, a mouse, a keyboard, and a table.
+An image with a table, a mouse, a tv, a keyboard, a clock, a wall, and a paper.
+An image with a tv, a wall, a keyboard, a clock, a table, a mouse, and a paper.
+An image with a table, a paper, a mouse, a clock, a keyboard, a tv, and a wall.
+An image with a clock, a table, a paper, a wall, a keyboard, a tv, and a mouse.

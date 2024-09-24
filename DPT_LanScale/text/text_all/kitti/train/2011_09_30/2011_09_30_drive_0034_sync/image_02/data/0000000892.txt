@@ -8,3 +8,8 @@ The image shows a narrow street lined with buildings and trees.
 The image captures a quaint, narrow street lined with charming buildings, lush greenery, and a clear blue sky.
 The image shows a narrow street lined with buildings, a sidewalk, and a hedge.
 The image depicts a quaint European alleyway, characterized by its narrow, cobblestone path, stone buildings, and lush greenery.
+An image with a sky, a potted, a road, a house, a flower, a roof, two walls, a tree, and a window.
+An image with a sky, a tree, a road, two walls, a house, a potted, a window, a flower, and a roof.
+An image with two walls, a flower, a roof, a house, a tree, a window, a potted, a road, and a sky.
+An image with a house, two walls, a roof, a flower, a tree, a potted, a window, a sky, and a road.
+An image with two walls, a flower, a tree, a sky, a potted, a road, a house, a window, and a roof.

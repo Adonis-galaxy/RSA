@@ -8,3 +8,8 @@ A kitchen with a stove and a microwave.
 The image captures a well-equipped kitchen with a focus on the stainless steel oven and microwave, set against a dark background.
 The image shows a kitchen with a large stainless steel oven, a microwave, a toaster, a sink, and wooden cabinets.
 The image shows a kitchen with dark wood cabinets, stainless steel appliances, and a tiled floor.
+An image with two walls, two ovens, a refrigerator, a cabinet, a microwave, a counter, and a floor.
+An image with a floor, two ovens, two walls, a counter, a cabinet, a refrigerator, and a microwave.
+An image with two walls, a floor, a counter, a refrigerator, two ovens, a microwave, and a cabinet.
+An image with two ovens, two walls, a cabinet, a microwave, a counter, a refrigerator, and a floor.
+An image with two walls, two ovens, a floor, a counter, a microwave, a cabinet, and a refrigerator.

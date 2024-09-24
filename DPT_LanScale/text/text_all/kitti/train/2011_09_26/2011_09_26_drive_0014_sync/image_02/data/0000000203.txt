@@ -8,3 +8,8 @@ A group of people crossing a street.
 A group of people crossing a street at a crosswalk, with a bicyclist waiting for the traffic light to change.
 A group of people are crossing a street at a crosswalk, with a bicyclist leading the way.
 A group of people are crossing a street at a crosswalk, with traffic lights and a bicycle nearby.
+An image with four cars, six people, three traffics, a tree, three bicycles, two handbags, a backpack, a pavement, a building, a wall, and a grass.
+An image with four cars, a wall, a backpack, three bicycles, three traffics, six people, a grass, two handbags, a tree, a pavement, and a building.
+An image with a pavement, three bicycles, four cars, six people, a tree, two handbags, three traffics, a building, a backpack, a wall, and a grass.
+An image with a wall, four cars, six people, three traffics, two handbags, three bicycles, a tree, a pavement, a building, a backpack, and a grass.
+An image with four cars, three traffics, a grass, three bicycles, two handbags, a backpack, six people, a tree, a pavement, a wall, and a building.

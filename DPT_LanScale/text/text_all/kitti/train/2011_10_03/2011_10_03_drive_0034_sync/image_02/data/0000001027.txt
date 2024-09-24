@@ -8,3 +8,8 @@ The image shows a street with a curved road and a sidewalk.
 The image captures a quiet residential street, with a mix of houses and trees, leading to a cul-de-sac.
 The image shows a quiet residential street with a few houses, trees, and signs, with a large tree casting a shadow over the road.
 The image depicts a quiet residential street with a curved road, lined with houses, trees, and a sidewalk.
+An image with a tree, a road, a sky, a pavement, and a wall.
+An image with a tree, a pavement, a sky, a wall, and a road.
+An image with a sky, a tree, a road, a wall, and a pavement.
+An image with a wall, a pavement, a tree, a sky, and a road.
+An image with a tree, a pavement, a sky, a road, and a wall.

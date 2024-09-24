@@ -8,3 +8,8 @@ The image shows a two-lane highway with a median strip, surrounded by trees and 
 The image captures a serene, tree-lined highway with a clear sky overhead, providing a sense of tranquility and open road ahead.
 The image shows a wide, empty highway with a few cars in the distance, surrounded by a lush green forest.
 The image shows a two-lane highway with a median strip, surrounded by a lush green landscape with trees and bushes, and a clear sky overhead.
+An image with three cars, a sky, a road, a tree, and a grass.
+An image with a sky, three cars, a grass, a road, and a tree.
+An image with a road, three cars, a sky, a tree, and a grass.
+An image with a road, a grass, three cars, a tree, and a sky.
+An image with three cars, a grass, a road, a sky, and a tree.

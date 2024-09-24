@@ -8,3 +8,8 @@ A bookstore with a large bookshelf.
 The image captures a well-organized bookstore with a focus on the bookshelves and the central aisle, where a cart is parked, ready for customers to browse and select their reading materials.
 The image shows a large room with a high ceiling, filled with bookshelves containing numerous books. There are also stacks of books on the floor, and a cart with books on it. The room has a white column and a red fire extinguisher.
 The image shows an interior view of a bookstore with a large open space, wooden shelves filled with books, and a central aisle leading to a white column.
+An image with two walls, eighteen books, a cardboard, a chair, a mouse, a floor, a ceiling, a shelf, and a table.
+An image with eighteen books, a ceiling, a floor, a cardboard, a table, two walls, a mouse, a chair, and a shelf.
+An image with a ceiling, eighteen books, two walls, a mouse, a shelf, a cardboard, a floor, a table, and a chair.
+An image with eighteen books, a cardboard, a table, a chair, two walls, a mouse, a ceiling, a shelf, and a floor.
+An image with a chair, eighteen books, a table, two walls, a floor, a mouse, a ceiling, a cardboard, and a shelf.

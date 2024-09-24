@@ -8,3 +8,8 @@ The image shows a highway with a median strip and a grassy area on the side.
 The image captures a wide, empty highway with a clear sky, a few scattered cars, and a lush green field on the side, with a fence and trees in the background.
 The image shows a wide, empty highway with a few cars, a sidewalk, and a grassy area on the right side. The highway is bordered by trees and a guardrail.
 The image shows a wide, empty highway with a clear sky, lined by trees and a grassy area on the right side, with a few cars and traffic cones in the distance.
+An image with a sky, a tree, a pavement, a grass, four cars, a truck, and a road.
+An image with a sky, four cars, a grass, a pavement, a truck, a road, and a tree.
+An image with four cars, a pavement, a tree, a sky, a grass, a truck, and a road.
+An image with four cars, a sky, a truck, a grass, a pavement, a tree, and a road.
+An image with four cars, a road, a truck, a grass, a tree, a pavement, and a sky.

@@ -8,3 +8,8 @@ A narrow street in a residential area.
 A narrow, tree-lined street in a residential area, with a child walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with a child walking on the sidewalk.
 A narrow, tree-lined street in a residential area, with houses on both sides, a sidewalk, and a fence.
+An image with a fence, two cars, a truck, a grass, a person, a sky, a wall, a road, a tree, and a house.
+An image with a house, a sky, a fence, a road, two cars, a grass, a truck, a wall, a person, and a tree.
+An image with two cars, a wall, a grass, a sky, a house, a fence, a truck, a person, a road, and a tree.
+An image with a road, a person, a sky, a grass, a truck, two cars, a wall, a fence, a house, and a tree.
+An image with two cars, a sky, a fence, a wall, a road, a person, a grass, a truck, a tree, and a house.

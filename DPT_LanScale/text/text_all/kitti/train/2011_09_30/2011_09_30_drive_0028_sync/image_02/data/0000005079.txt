@@ -8,3 +8,8 @@ A car driving on a street.
 A gray car is driving across a street intersection, passing a white parking meter and a person walking on the sidewalk.
 A small gray car is driving across a street intersection, passing a white parking meter and a white electrical box, with a person walking on the sidewalk in the background.
 A gray car is driving on a street with a roundabout, passing a white parking meter and a blue sign, while a person is walking on the sidewalk.
+An image with a grass, a road, nine cars, a sky, a person, a pavement, and a tree.
+An image with a sky, nine cars, a pavement, a road, a grass, a tree, and a person.
+An image with a tree, nine cars, a road, a grass, a person, a pavement, and a sky.
+An image with nine cars, a tree, a road, a pavement, a sky, a person, and a grass.
+An image with a person, a tree, nine cars, a road, a sky, a grass, and a pavement.

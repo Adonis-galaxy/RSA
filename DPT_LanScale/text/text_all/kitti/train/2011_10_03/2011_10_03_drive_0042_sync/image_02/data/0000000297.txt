@@ -8,3 +8,8 @@ The image shows a long, straight road with a clear view of the horizon.
 The image captures a long, straight road with a clear horizon, flanked by trees and a few distant buildings, under a blue sky with a few clouds.
 The image shows a long, straight road with a clear view of the horizon, a few trees, and a stop sign in the distance.
 The image shows a long, straight, empty highway with a clear sky, a few trees, and a distant cityscape.
+An image with a dirt, a fence, a stop, a tree, a building, a car, a truck, a road, and a grass.
+An image with a road, a building, a car, a tree, a truck, a dirt, a stop, a grass, and a fence.
+An image with a building, a dirt, a grass, a car, a truck, a fence, a road, a stop, and a tree.
+An image with a tree, a grass, a car, a building, a stop, a fence, a road, a truck, and a dirt.
+An image with a truck, a tree, a dirt, a car, a stop, a road, a building, a fence, and a grass.

@@ -8,3 +8,8 @@ A stainless steel sink with a faucet.
 A stainless steel sink with a faucet and a hose in a kitchen.
 A stainless steel sink with a silver faucet, located in a kitchen with a red countertop.
 A stainless steel sink with a faucet and a hose, located in a kitchen with a red countertop.
+An image with a wall, a cabinet, a sink, and a counter.
+An image with a wall, a sink, a counter, and a cabinet.
+An image with a sink, a cabinet, a counter, and a wall.
+An image with a wall, a cabinet, a counter, and a sink.
+An image with a counter, a cabinet, a sink, and a wall.

@@ -8,3 +8,8 @@ A man riding a bicycle on a city street.
 A cyclist navigates a city street, passing a parked car and a pedestrian, while a man with a bicycle waits at a crosswalk.
 A man rides a bicycle on a street with a white van, a white car, a white truck, a white bus, a white car, a white van, a white truck, a white car, a white van, a white car, a white van, a white car, a white van, a white car, a white van, a white car, a white van, a white car, a white van, a white car, a white van, a white
 A man rides a bicycle on a street with a white crosswalk, a white van, a white car, a white truck, a white bus, a white building, a white traffic light, a white street sign, a white bicycle lane, a white bicycle lane crossing, a white bicycle lane crossing sign, a white bicycle lane crossing line, a white bicycle lane crossing line sign, a white bicy
+An image with two traffics, a building, a person, a sky, five bicycles, a handbag, two trucks, a pavement, a tree, and a road.
+An image with a pavement, a handbag, two traffics, two trucks, a person, five bicycles, a tree, a building, a sky, and a road.
+An image with five bicycles, a road, a person, two traffics, a tree, a building, two trucks, a handbag, a sky, and a pavement.
+An image with five bicycles, two trucks, a sky, a pavement, a road, a person, two traffics, a tree, a building, and a handbag.
+An image with a handbag, five bicycles, two trucks, a building, two traffics, a sky, a tree, a road, a pavement, and a person.

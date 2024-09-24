@@ -8,3 +8,8 @@ A room with a chair, a bookshelf, and a window with curtains.
 A cozy corner of a room with a chair, a lamp, a bookshelf, and a window with curtains.
 The image shows a room with a large window covered by a curtain, a chair with a floral pattern, a bookshelf filled with books, and a lamp.
 The image shows a cozy room with a chair, a bookshelf filled with books, and a window covered with a curtain.
+An image with twenty-five books, two chairs, a window, a shelf, a floor, a wall, and a curtain.
+An image with twenty-five books, a window, a curtain, a shelf, a wall, two chairs, and a floor.
+An image with twenty-five books, two chairs, a window, a shelf, a wall, a curtain, and a floor.
+An image with twenty-five books, a window, two chairs, a shelf, a curtain, a wall, and a floor.
+An image with twenty-five books, a curtain, two chairs, a window, a wall, a floor, and a shelf.

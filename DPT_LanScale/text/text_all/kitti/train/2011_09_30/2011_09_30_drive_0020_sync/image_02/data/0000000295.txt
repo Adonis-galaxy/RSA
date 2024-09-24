@@ -8,3 +8,8 @@ The image shows a residential street with houses and cars.
 The image captures a residential street scene with a focus on a small house, parked cars, and a stop sign.
 The image shows a residential street scene with a small car parked on the side of the road, a house with a brown roof and white walls, a red and white sign, and a car parked in front of the house.
 The image shows a residential street with a two-story house on the right side, a car parked on the left side, and a red and white sign on the right side.
+An image with a road, a grass, a roof, a stop, a house, three cars, and a tree.
+An image with three cars, a road, a tree, a roof, a house, a grass, and a stop.
+An image with a road, three cars, a grass, a house, a tree, a roof, and a stop.
+An image with a grass, three cars, a house, a tree, a stop, a roof, and a road.
+An image with a stop, a tree, three cars, a roof, a grass, a house, and a road.

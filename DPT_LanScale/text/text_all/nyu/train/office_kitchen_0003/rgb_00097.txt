@@ -8,3 +8,8 @@ A white chair with a black seat.
 The image shows a simple, utilitarian space with a white table, a black chair, a water dispenser, and a refrigerator, all arranged in a functional yet unadorned manner.
 A small white table with a black chair in front of a white refrigerator.
 A white table with a black chair, a water dispenser, a refrigerator, and a bag on it, all in a room with a beige wall and tiled floor.
+An image with a handbag, a wall, two chairs, a refrigerator, a cell, a floor, and a dining.
+An image with a wall, a cell, a refrigerator, a dining, a handbag, two chairs, and a floor.
+An image with a cell, a wall, two chairs, a handbag, a refrigerator, a floor, and a dining.
+An image with a handbag, a wall, a dining, two chairs, a floor, a refrigerator, and a cell.
+An image with a refrigerator, a wall, two chairs, a cell, a dining, a floor, and a handbag.

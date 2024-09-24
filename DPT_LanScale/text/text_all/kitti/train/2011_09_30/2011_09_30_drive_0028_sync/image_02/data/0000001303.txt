@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A tranquil suburban street, lined with lush greenery and quaint houses, where a cyclist enjoys a leisurely ride under the shade of tall trees.
 A person riding a bicycle on a tree-lined street between two-story buildings.
 A tree-lined street with a car parked on the side, a person riding a bicycle, and a green trash can.
+An image with two cars, a house, a sky, a grass, a road, a person, a tree, a pavement, and a bicycle.
+An image with two cars, a sky, a pavement, a road, a person, a tree, a grass, a bicycle, and a house.
+An image with a person, a sky, two cars, a grass, a road, a pavement, a house, a tree, and a bicycle.
+An image with two cars, a tree, a sky, a person, a grass, a pavement, a house, a bicycle, and a road.
+An image with two cars, a road, a tree, a sky, a pavement, a house, a grass, a person, and a bicycle.

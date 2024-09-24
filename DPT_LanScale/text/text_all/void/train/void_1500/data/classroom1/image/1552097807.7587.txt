@@ -8,3 +8,8 @@ Orange cone on a table.
 An orange cone on a dirty table.
 A white folding table with a single orange cone on it, sitting on a white tiled floor.
 A white folding table with a few items on it, placed on a tiled floor.
+An image with two walls, a door, a stairs, a floor, a surfboard, and a chair.
+An image with a door, two walls, a chair, a surfboard, a floor, and a stairs.
+An image with a surfboard, two walls, a door, a stairs, a floor, and a chair.
+An image with a door, two walls, a stairs, a chair, a surfboard, and a floor.
+An image with a surfboard, two walls, a floor, a stairs, a door, and a chair.

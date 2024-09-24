@@ -8,3 +8,8 @@ The image shows a street scene with people riding bicycles on a brick road.
 The image captures a lively street scene with a mix of pedestrians, cyclists, and shops, all coexisting harmoniously within a narrow urban space.
 A narrow street with a train track running down the middle, lined with buildings and people riding bicycles.
 A narrow street with a train track running down the middle, lined with buildings and pedestrians, creating a vibrant urban scene.
+An image with three bicycles, a tree, eight people, a railroad, a sky, a pavement, and a building.
+An image with eight people, a sky, three bicycles, a building, a railroad, a tree, and a pavement.
+An image with three bicycles, eight people, a sky, a building, a railroad, a pavement, and a tree.
+An image with eight people, three bicycles, a tree, a building, a railroad, a sky, and a pavement.
+An image with three bicycles, eight people, a pavement, a sky, a railroad, a tree, and a building.

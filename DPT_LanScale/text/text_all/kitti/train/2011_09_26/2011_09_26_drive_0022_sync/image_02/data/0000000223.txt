@@ -8,3 +8,8 @@ The image shows a street scene with several cars parked along the side of the ro
 The image captures a quiet residential street with parked cars, a sidewalk, and a street sign, all under the shade of trees.
 The image shows a street scene with a blue car, a black car, a white building, a white garage, a green bush, a tree, a street sign, and a sidewalk.
 A row of parked cars on a tree-lined street, with a blue car leading the line and a white building in the background.
+An image with four cars, a pavement, a road, a tree, a truck, and a building.
+An image with a truck, four cars, a road, a building, a pavement, and a tree.
+An image with a building, four cars, a truck, a road, a pavement, and a tree.
+An image with a road, four cars, a pavement, a building, a truck, and a tree.
+An image with four cars, a truck, a tree, a building, a pavement, and a road.

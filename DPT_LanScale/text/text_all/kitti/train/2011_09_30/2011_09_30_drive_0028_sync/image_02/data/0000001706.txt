@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and buildings.
 A quiet residential street with parked cars and a delivery van, under a clear sky.
 The image shows a narrow street lined with parked cars and a few moving vehicles, including a large white van and a small black car, with apartment buildings on either side.
 A narrow street in a residential area with parked cars and a van, lined with trees and buildings.
+An image with five cars, a road, a tree, two trucks, a pavement, a sky, a grass, and a building.
+An image with five cars, a pavement, a sky, a grass, a building, a tree, a road, and two trucks.
+An image with five cars, a pavement, a sky, a building, a road, two trucks, a grass, and a tree.
+An image with five cars, a tree, a grass, a building, a road, a sky, two trucks, and a pavement.
+An image with a building, five cars, a grass, two trucks, a sky, a road, a tree, and a pavement.

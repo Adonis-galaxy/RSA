@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white camper van with bicycles o
 A quiet residential street, with parked cars and a white camper van, where bicycles are securely stored on the back.
 A narrow street with parked cars, a white camper van, a blue van, a red car, a white truck, and a bicycle rack.
 A narrow street with parked cars, a blue van, a white camper, and bicycles.
+An image with six cars, a tree, two trucks, a fence, a house, a bicycle, a road, and a sky.
+An image with six cars, two trucks, a bicycle, a road, a fence, a house, a sky, and a tree.
+An image with two trucks, six cars, a sky, a house, a tree, a fence, a road, and a bicycle.
+An image with two trucks, a road, a fence, six cars, a tree, a house, a bicycle, and a sky.
+An image with six cars, a fence, a bicycle, two trucks, a tree, a house, a sky, and a road.

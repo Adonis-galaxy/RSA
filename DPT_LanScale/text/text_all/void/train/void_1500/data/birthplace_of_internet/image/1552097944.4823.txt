@@ -8,3 +8,8 @@ A classroom with a blue and white cabinet and a chalkboard.
 The image shows a classroom with a blue and white cabinet, a chalkboard, a desk, and a window.
 The image shows a room with a large blue and white machine, a desk with a chair, a chalkboard with writing on it, and a window with a light on.
 The image shows a classroom with a green wall, a chalkboard, a desk, a chair, and a large machine with a blue panel.
+An image with four chairs, a floor, a wall, a ceiling, a dining, a light, and a door.
+An image with a ceiling, a door, four chairs, a floor, a wall, a light, and a dining.
+An image with a ceiling, a dining, a wall, four chairs, a door, a light, and a floor.
+An image with a ceiling, a wall, a door, four chairs, a dining, a floor, and a light.
+An image with a light, four chairs, a floor, a door, a dining, a wall, and a ceiling.

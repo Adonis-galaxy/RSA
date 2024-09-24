@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a tranquil suburban scene with a clear path leading to a lush green field, marked by a red and white striped sign on the right side of the road.
 The image shows a road with a sign indicating a crosswalk, a larger sign with a red and blue circle, and a smaller sign with a red and blue x. The road is lined with trees and grass, and the signs are on poles.
 The image shows a road with a grassy median, two signs on poles, and trees lining the sides.
+An image with a stop, a road, a tree, and a grass.
+An image with a road, a stop, a tree, and a grass.
+An image with a grass, a road, a stop, and a tree.
+An image with a stop, a tree, a grass, and a road.
+An image with a tree, a grass, a stop, and a road.

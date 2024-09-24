@@ -8,3 +8,8 @@ The image shows a street view with a brick wall, a house, a street sign, and a t
 The image captures a serene residential street, with a brick wall, lush greenery, and a house nestled amidst nature.
 The image shows a narrow street with a brick wall on the right side, a house with a red roof in the background, and a street sign on the right side of the road.
 The image shows a residential street with a brick wall, a house with a red roof, a street sign, and a tree-lined sidewalk.
+An image with a wall, a pavement, a road, a roof, a sky, and a tree.
+An image with a road, a sky, a tree, a wall, a pavement, and a roof.
+An image with a sky, a wall, a pavement, a roof, a road, and a tree.
+An image with a wall, a road, a pavement, a sky, a roof, and a tree.
+An image with a sky, a road, a tree, a roof, a wall, and a pavement.

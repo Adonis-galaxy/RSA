@@ -8,3 +8,8 @@ A yellow car on a street.
 A yellow car is parked on the side of a narrow street lined with trees and buildings, with a brick wall and a white fence nearby.
 A yellow car is driving down a narrow street between two buildings, with a brick wall on the right side and a white building on the left.
 A narrow street with a yellow car parked on the side, lined by a stone wall and a white building with a blue sky above.
+An image with two walls, two cars, a pavement, a house, a tree, a fence, a road, and a sky.
+An image with two cars, a pavement, two walls, a tree, a house, a fence, a sky, and a road.
+An image with a pavement, two cars, two walls, a house, a road, a tree, a sky, and a fence.
+An image with a tree, two walls, two cars, a sky, a fence, a house, a road, and a pavement.
+An image with two walls, a pavement, a sky, a fence, a house, a road, two cars, and a tree.

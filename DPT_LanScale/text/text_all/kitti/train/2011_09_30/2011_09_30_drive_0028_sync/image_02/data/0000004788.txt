@@ -8,3 +8,8 @@ The image shows a narrow street lined with parked cars and apartment buildings.
 A narrow, tree-lined street in a residential area, with parked cars and apartment buildings.
 The image shows a narrow street lined with parked cars and tall buildings, with a clear sky overhead.
 A narrow, tree-lined street in a residential area, with parked cars and apartment buildings.
+An image with four cars, a tree, a building, a pavement, a sky, and a road.
+An image with a tree, a sky, a building, four cars, a road, and a pavement.
+An image with a tree, a road, four cars, a pavement, a sky, and a building.
+An image with a sky, a pavement, a building, four cars, a tree, and a road.
+An image with a tree, four cars, a sky, a road, a pavement, and a building.

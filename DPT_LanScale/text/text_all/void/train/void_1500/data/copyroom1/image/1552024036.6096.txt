@@ -8,3 +8,8 @@ A blue and white trash can.
 A blue and white trash can is placed next to a counter in a room.
 A blue and white trash can is placed next to a counter in a room.
 A blue and white trash can is placed next to a counter in a room with a yellow wall.
+An image with a wall, a door, a light, and a counter.
+An image with a door, a light, a wall, and a counter.
+An image with a light, a door, a wall, and a counter.
+An image with a door, a light, a wall, and a counter.
+An image with a wall, a light, a counter, and a door.

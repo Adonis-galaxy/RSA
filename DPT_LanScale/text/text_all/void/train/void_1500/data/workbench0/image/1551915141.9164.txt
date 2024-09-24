@@ -8,3 +8,8 @@ A blue box of tissues on a desk.
 The image shows a computer desk with a blue box of tissues, a black computer monitor, and a white sign that says "reserved" on it.
 The image shows a desk with a blue box on it, a black chair, and a whiteboard with a reserved sign on it.
 The image shows a cluttered workspace with various electronic equipment, a desk with a blue box and a white sign, and a black chair.
+An image with a floor, a wall, a cardboard, a paper, a tv, a chair, and a table.
+An image with a tv, a paper, a wall, a floor, a table, a cardboard, and a chair.
+An image with a paper, a wall, a table, a floor, a chair, a cardboard, and a tv.
+An image with a tv, a chair, a floor, a cardboard, a wall, a paper, and a table.
+An image with a table, a floor, a paper, a tv, a chair, a cardboard, and a wall.

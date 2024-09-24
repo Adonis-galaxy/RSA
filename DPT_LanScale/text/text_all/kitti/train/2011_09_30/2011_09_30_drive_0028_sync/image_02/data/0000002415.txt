@@ -8,3 +8,8 @@ The image shows a street scene with a white house, a person riding a bicycle, a 
 A cyclist rides past a row of houses, with a street sign and a car parked on the side of the road.
 A man riding a bicycle on a street with parked cars, a white house with a pointed roof, and a street sign.
 A residential street scene with a white house, a bicyclist, parked cars, and a street sign.
+An image with a pavement, six cars, a sky, a house, a tree, a road, a bicycle, and a person.
+An image with six cars, a sky, a person, a house, a road, a pavement, a bicycle, and a tree.
+An image with six cars, a tree, a person, a sky, a road, a pavement, a bicycle, and a house.
+An image with six cars, a pavement, a sky, a house, a person, a tree, a bicycle, and a road.
+An image with a house, a bicycle, a pavement, six cars, a road, a person, a sky, and a tree.

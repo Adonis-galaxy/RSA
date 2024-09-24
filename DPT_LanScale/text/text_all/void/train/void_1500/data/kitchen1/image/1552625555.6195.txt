@@ -8,3 +8,8 @@ The image shows a kitchen with an orange countertop and a gray refrigerator.
 The image shows a kitchen with an orange countertop, a gray cabinet, and a refrigerator with a handle.
 The image shows a small orange refrigerator in a room with a white floor and a wooden counter.
 The image shows a kitchen with an orange countertop, a gray cabinet, a white refrigerator, and a white floor.
+An image with a floor, a cabinet, a refrigerator, a window, and a cup.
+An image with a cabinet, a cup, a refrigerator, a window, and a floor.
+An image with a window, a cup, a floor, a refrigerator, and a cabinet.
+An image with a window, a cup, a refrigerator, a cabinet, and a floor.
+An image with a floor, a cup, a window, a cabinet, and a refrigerator.

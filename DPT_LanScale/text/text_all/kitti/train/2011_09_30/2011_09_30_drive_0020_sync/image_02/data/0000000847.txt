@@ -8,3 +8,8 @@ The image shows a tree-lined street with a red car parked on the sidewalk.
 A quiet residential street with a few parked cars, bicycles, and a red car, lined with trees and buildings under a clear blue sky.
 The image shows a tree-lined street with a car parked on the sidewalk, a bicycle rack, and a building under construction.
 A tree-lined street with a red car parked on the sidewalk, leading to a row of buildings under construction.
+An image with two bicycles, a road, seven cars, a sky, a grass, a pavement, a tree, and a house.
+An image with two bicycles, a pavement, seven cars, a road, a tree, a sky, a house, and a grass.
+An image with seven cars, two bicycles, a road, a pavement, a tree, a grass, a sky, and a house.
+An image with seven cars, two bicycles, a house, a tree, a pavement, a road, a sky, and a grass.
+An image with seven cars, a house, a grass, a tree, a pavement, two bicycles, a road, and a sky.

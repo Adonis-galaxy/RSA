@@ -8,3 +8,8 @@ A bed in a hotel room.
 The image captures a neatly arranged hotel room, featuring a bed with a white comforter, a desk with a chair, and a lamp, all set against a beige wall.
 The image shows a bedroom with a large bed, a desk with a chair, and a lamp.
 The image shows a neatly made bed in a hotel room with a desk and chair, a lamp, and a mirror on the wall.
+An image with a table, a wall, a chair, a floor, a mirror, a light, and a bed.
+An image with a table, a wall, a bed, a chair, a mirror, a light, and a floor.
+An image with a chair, a bed, a mirror, a table, a floor, a light, and a wall.
+An image with a floor, a light, a table, a chair, a mirror, a bed, and a wall.
+An image with a bed, a wall, a mirror, a light, a chair, a floor, and a table.

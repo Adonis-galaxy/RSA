@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 A person riding a bicycle on a street, with trees and buildings in the background.
 A person riding a bicycle on a street with trees and buildings in the background.
 A person riding a bicycle on a curved street with parked cars and trees in the background.
+An image with four cars, a dirt, a tree, a building, three people, a pavement, a sky, a handbag, a road, and a bicycle.
+An image with four cars, three people, a bicycle, a road, a handbag, a building, a pavement, a tree, a dirt, and a sky.
+An image with four cars, a dirt, a road, a handbag, a pavement, a building, three people, a bicycle, a sky, and a tree.
+An image with a sky, a road, three people, a pavement, a handbag, a bicycle, four cars, a building, a tree, and a dirt.
+An image with a building, a sky, a road, a tree, four cars, three people, a bicycle, a handbag, a pavement, and a dirt.

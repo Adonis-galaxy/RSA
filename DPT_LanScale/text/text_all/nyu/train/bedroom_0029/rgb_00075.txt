@@ -8,3 +8,8 @@ A room with a desk, chairs, and a painting.
 The image shows a room with a desk, two chairs, and a painting on the wall.
 The image shows a room with a wooden dresser, two folding chairs, a painting on the wall, and a desk with a pen and notebook.
 The image shows a room with a wooden dresser, two folding chairs, a painting on the wall, and a window with curtains.
+An image with a curtain, a door, a rug, two chairs, a wall, a book, a cabinet, and a laptop.
+An image with two chairs, a book, a door, a wall, a laptop, a cabinet, a curtain, and a rug.
+An image with a laptop, a book, a curtain, a cabinet, a wall, two chairs, a rug, and a door.
+An image with a door, two chairs, a book, a rug, a cabinet, a curtain, a laptop, and a wall.
+An image with a laptop, a wall, two chairs, a book, a door, a rug, a cabinet, and a curtain.

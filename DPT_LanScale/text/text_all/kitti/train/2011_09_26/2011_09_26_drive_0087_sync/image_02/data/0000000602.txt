@@ -8,3 +8,8 @@ The image shows a narrow street between buildings.
 A narrow, shaded street between buildings, with a yellow car parked at the end.
 A narrow, tree-lined street with a yellow car parked at the end, a white building with balconies on the left, and a green sign on the right.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a white building with balconies and a green gate.
+An image with a house, a tree, a wall, a pavement, a car, a sky, and a road.
+An image with a sky, a car, a house, a road, a wall, a pavement, and a tree.
+An image with a house, a car, a tree, a road, a sky, a pavement, and a wall.
+An image with a road, a pavement, a wall, a house, a sky, a tree, and a car.
+An image with a sky, a car, a house, a road, a pavement, a wall, and a tree.

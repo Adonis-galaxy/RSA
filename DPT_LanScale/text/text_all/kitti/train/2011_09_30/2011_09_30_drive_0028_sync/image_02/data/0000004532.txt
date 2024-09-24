@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a serene residential street corner, with a blue sign indicating a one-way street, a red and white sign warning of a crosswalk, and a white building with a green fence and lush landscaping, all under a clear blue sky.
 The image shows a street scene with a large building, a street sign, a fence, and a tree.
 The image shows a residential street corner with a white building, a green fence, a brick sidewalk, a blue sign with a white arrow, and a red sign with a white x.
+An image with a road, a sky, a house, a tree, a wall, a window, a fence, and a stop.
+An image with a wall, a road, a stop, a window, a fence, a house, a sky, and a tree.
+An image with a stop, a window, a fence, a road, a tree, a wall, a house, and a sky.
+An image with a fence, a house, a road, a stop, a window, a sky, a wall, and a tree.
+An image with a house, a sky, a road, a stop, a window, a wall, a fence, and a tree.

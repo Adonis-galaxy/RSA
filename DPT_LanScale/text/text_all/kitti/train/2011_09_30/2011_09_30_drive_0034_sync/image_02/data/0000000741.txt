@@ -8,3 +8,8 @@ A tree-lined street in a residential area.
 A quiet residential street, lined with trees and houses, with a single vehicle parked at the end.
 A narrow street with a large truck parked on the side, lined with trees and houses.
 A quiet residential street with a mix of houses and trees, leading to a clear sky.
+An image with a fence, a road, a house, a roof, a grass, a sky, two walls, a truck, a tree, a pavement, a stairs, and a building.
+An image with a tree, a roof, a stairs, a building, a truck, a house, two walls, a pavement, a grass, a fence, a road, and a sky.
+An image with a stairs, a building, a grass, a road, a house, a truck, a pavement, two walls, a roof, a fence, a tree, and a sky.
+An image with a stairs, a building, two walls, a house, a roof, a truck, a tree, a grass, a fence, a sky, a pavement, and a road.
+An image with a fence, a roof, two walls, a truck, a tree, a pavement, a building, a sky, a grass, a stairs, a house, and a road.

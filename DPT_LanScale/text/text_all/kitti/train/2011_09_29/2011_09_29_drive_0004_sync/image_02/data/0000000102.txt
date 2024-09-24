@@ -8,3 +8,8 @@ A busy highway with many cars.
 A long, winding road through a lush, tree-lined forest, with a line of vehicles moving in the same direction.
 A long, winding road with a mix of cars and trucks, surrounded by lush greenery and trees.
 A long, tree-lined road with multiple lanes of traffic, including cars and trucks, moving in both directions.
+An image with six cars, a pavement, a tree, a sky, a grass, a road, and a truck.
+An image with a road, a truck, six cars, a tree, a pavement, a sky, and a grass.
+An image with a pavement, six cars, a grass, a road, a tree, a truck, and a sky.
+An image with a grass, a sky, six cars, a pavement, a tree, a road, and a truck.
+An image with a grass, six cars, a truck, a sky, a road, a pavement, and a tree.

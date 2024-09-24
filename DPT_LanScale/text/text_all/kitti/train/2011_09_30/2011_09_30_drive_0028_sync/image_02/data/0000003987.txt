@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a tranquil suburban scene, featuring a tree-lined street with parked cars, a train station, and a residential area with a house and a park.
 A large train is passing by a street with parked cars and a person, and there are trees and a building in the background.
 A tranquil suburban scene with a parked car, a train station, a pedestrian walkway, and a tree-lined street.
+An image with a person, a grass, four cars, a building, a road, a tree, a house, a pavement, and a sky.
+An image with four cars, a person, a sky, a road, a pavement, a building, a tree, a house, and a grass.
+An image with a road, four cars, a house, a pavement, a building, a tree, a grass, a person, and a sky.
+An image with a sky, four cars, a road, a building, a grass, a house, a pavement, a person, and a tree.
+An image with four cars, a person, a grass, a house, a tree, a pavement, a building, a sky, and a road.

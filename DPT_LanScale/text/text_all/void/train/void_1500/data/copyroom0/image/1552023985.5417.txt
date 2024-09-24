@@ -8,3 +8,8 @@ A blurry image of a desk with a printer and a stack of papers.
 The image shows a beige office desk with a printer, a stack of papers, and a blue pen.
 The image shows a beige desk with a printer, a stack of papers, and a blue pen.
 The image shows a beige office desk with a printer, a stack of papers, and a computer monitor.
+An image with a tv, a floor, a wall, a scissors, a cabinet, and a cardboard.
+An image with a cabinet, a floor, a tv, a cardboard, a scissors, and a wall.
+An image with a floor, a tv, a cabinet, a scissors, a wall, and a cardboard.
+An image with a floor, a cardboard, a tv, a scissors, a cabinet, and a wall.
+An image with a cardboard, a floor, a wall, a cabinet, a scissors, and a tv.

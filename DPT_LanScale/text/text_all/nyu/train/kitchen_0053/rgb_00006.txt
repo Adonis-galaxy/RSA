@@ -8,3 +8,8 @@ A dog is laying on a rug in front of a dining room table.
 A dog rests peacefully on a rug in a dining room, surrounded by chairs and a table, with a potted plant and a painting adding to the homely atmosphere.
 A dog is sitting on a rug in front of a dining table with a glass top, surrounded by chairs and potted plants.
 A dog is sitting on a rug in front of a dining table with chairs, a potted plant, and a painting on the wall.
+An image with a floor, a window, four chairs, a door, a rug, two potteds, a dog, a dining, and a wall.
+An image with a wall, four chairs, a dog, a rug, a floor, a window, two potteds, a door, and a dining.
+An image with four chairs, a rug, a door, two potteds, a dog, a floor, a dining, a window, and a wall.
+An image with a floor, a dining, a door, four chairs, two potteds, a dog, a wall, a window, and a rug.
+An image with four chairs, a window, a dining, a wall, a floor, a dog, two potteds, a rug, and a door.

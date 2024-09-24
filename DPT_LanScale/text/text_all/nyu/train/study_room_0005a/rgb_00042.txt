@@ -8,3 +8,8 @@ The image shows an office space with a desk and chairs.
 The image captures an office space with a desk, chairs, and a counter, illuminated by overhead lights.
 The image shows an office space with a large desk, a few chairs, a trash can, and a door. The room is lit by fluorescent lights.
 The image shows an office space with a row of cubicles, a reception area, and a break room.
+An image with five chairs, a ceiling, a rug, a light, a wall, a table, a window, a floor, and a door.
+An image with a light, a window, five chairs, a wall, a floor, a rug, a ceiling, a door, and a table.
+An image with five chairs, a door, a table, a rug, a wall, a ceiling, a light, a floor, and a window.
+An image with five chairs, a table, a light, a rug, a floor, a window, a door, a wall, and a ceiling.
+An image with a light, a floor, five chairs, a door, a window, a table, a wall, a ceiling, and a rug.

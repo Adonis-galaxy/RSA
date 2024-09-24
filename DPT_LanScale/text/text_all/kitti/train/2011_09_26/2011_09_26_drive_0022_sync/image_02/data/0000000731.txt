@@ -8,3 +8,8 @@ The image shows a street scene with a white van driving on a road.
 A quiet suburban street, with a single vehicle in motion, under a clear blue sky.
 A large white building is visible in the background, with a street sign indicating a blue street name. A white van is driving down a tree-lined street, passing under a traffic light.
 A quiet suburban street with a single vehicle, a white van, driving away from a white building with a blue sign, under a clear blue sky.
+An image with a person, a traffic, a bus, a road, a grass, a building, and a tree.
+An image with a bus, a tree, a traffic, a grass, a road, a building, and a person.
+An image with a tree, a traffic, a grass, a road, a person, a building, and a bus.
+An image with a grass, a traffic, a building, a tree, a person, a bus, and a road.
+An image with a bus, a person, a road, a building, a traffic, a tree, and a grass.

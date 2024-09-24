@@ -8,3 +8,8 @@ A blue chair is under a desk.
 A blue chair is placed under a white desk, with a computer keyboard and monitor on the desk.
 A blue chair is tucked under a white desk with a black keyboard on it.
 A blue chair is tucked under a white desk with a black keyboard and monitor.
+An image with a floor, a table, a chair, a tv, a cabinet, and a keyboard.
+An image with a keyboard, a cabinet, a floor, a chair, a tv, and a table.
+An image with a floor, a table, a keyboard, a chair, a tv, and a cabinet.
+An image with a chair, a cabinet, a floor, a tv, a table, and a keyboard.
+An image with a chair, a table, a cabinet, a floor, a keyboard, and a tv.

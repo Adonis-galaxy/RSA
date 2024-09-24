@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a red van.
 The image captures a typical day in a residential area, with parked cars lining the street, a red van driving down the road, and a white house with a red roof in the background.
 The image shows a narrow street lined with parked cars and a red van, with a white building on the left and a fence on the right.
 A narrow street in a residential area with parked cars, a red van, and a white building.
+An image with three cars, a tree, a house, a truck, a wall, a pavement, a sky, a fence, and a road.
+An image with a pavement, a truck, a house, three cars, a wall, a road, a sky, a fence, and a tree.
+An image with a house, a pavement, three cars, a wall, a fence, a truck, a sky, a tree, and a road.
+An image with three cars, a fence, a sky, a house, a pavement, a truck, a road, a tree, and a wall.
+An image with three cars, a tree, a truck, a pavement, a wall, a house, a sky, a fence, and a road.

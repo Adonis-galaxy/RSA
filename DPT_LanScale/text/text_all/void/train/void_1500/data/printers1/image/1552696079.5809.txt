@@ -8,3 +8,8 @@ Three printers on a table.
 Three printers on a table, with one in the foreground and two in the background.
 Three large printers on a table.
 Three printers are lined up on a wooden table, with a paper on the left side of the table.
+An image with a wall, a table, a paper, and a floor.
+An image with a floor, a paper, a wall, and a table.
+An image with a wall, a paper, a table, and a floor.
+An image with a paper, a floor, a table, and a wall.
+An image with a table, a wall, a paper, and a floor.

@@ -8,3 +8,8 @@ The image shows a street sign on a pole.
 The image captures a quiet residential street, with a clear sign indicating a no-turning zone, and a building with balconies and a tree in front of it.
 The image shows a street scene with a large building, a tree, a street sign, and a car.
 The image shows a residential street scene with apartment buildings, a tree-lined sidewalk, and a street sign.
+An image with a tree, a building, a road, a bench, a stop, and a pavement.
+An image with a pavement, a stop, a building, a tree, a road, and a bench.
+An image with a building, a stop, a tree, a pavement, a bench, and a road.
+An image with a stop, a pavement, a tree, a building, a road, and a bench.
+An image with a stop, a building, a pavement, a tree, a road, and a bench.

@@ -8,3 +8,8 @@ The image shows an office space with a large room containing multiple tables and
 The image captures an office space with a large open area featuring a long table surrounded by numerous chairs, a central desk area, and a corridor leading to other rooms.
 The image shows an indoor space with a large number of chairs and tables, some of which are occupied by smaller objects, suggesting a room designed for meetings or group work.
 The image shows an empty room with a long table and several chairs, a counter with a computer, and a doorway leading to another room.
+An image with a table, twelve chairs, a wall, a window, a dining, a ceiling, a rug, and a door.
+An image with a ceiling, twelve chairs, a table, a door, a dining, a window, a wall, and a rug.
+An image with twelve chairs, a wall, a door, a window, a table, a rug, a ceiling, and a dining.
+An image with a dining, a wall, twelve chairs, a door, a rug, a ceiling, a window, and a table.
+An image with twelve chairs, a ceiling, a table, a door, a wall, a rug, a window, and a dining.

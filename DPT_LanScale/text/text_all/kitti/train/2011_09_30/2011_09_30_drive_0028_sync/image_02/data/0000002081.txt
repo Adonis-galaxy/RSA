@@ -8,3 +8,8 @@ The image shows a street intersection with a stop sign and two cars.
 The image captures a quiet, tree-lined street corner with a few parked cars, a stop sign, and a pedestrian walkway.
 The image shows a street scene with a large white sign, a small car, a medium-sized truck, and a tiny car parked in a parking lot.
 The image shows a parked car on a street corner, with a roundabout and a pedestrian walkway leading to a park.
+An image with a pavement, a grass, a tree, a sky, a truck, a wall, a road, a car, and a stop.
+An image with a grass, a stop, a tree, a pavement, a road, a truck, a wall, a car, and a sky.
+An image with a grass, a car, a truck, a pavement, a tree, a stop, a sky, a wall, and a road.
+An image with a truck, a car, a stop, a tree, a sky, a pavement, a grass, a road, and a wall.
+An image with a stop, a truck, a car, a tree, a grass, a pavement, a road, a wall, and a sky.

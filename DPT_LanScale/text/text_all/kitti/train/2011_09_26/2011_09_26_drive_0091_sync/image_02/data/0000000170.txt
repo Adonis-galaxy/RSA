@@ -8,3 +8,8 @@ A person riding a bicycle on a street.
 The image captures a quaint, narrow street in a European town, with a mix of old and new buildings, a tram track, a traffic light, and a few pedestrians, cyclists, and cars, all coexisting in harmony.
 A narrow street with buildings on both sides, a traffic light, a bicycle, a person, a street sign, and a person riding a bicycle.
 A narrow, cobblestone street with buildings on both sides, a traffic light, and a bicycle rider.
+An image with a building, eight people, a sky, a traffic, two umbrellas, a handbag, three bicycles, a tree, a potted, a pavement, and a railroad.
+An image with a traffic, a sky, a pavement, eight people, three bicycles, two umbrellas, a potted, a building, a railroad, a handbag, and a tree.
+An image with eight people, a pavement, a building, a sky, a tree, three bicycles, a handbag, a railroad, two umbrellas, a traffic, and a potted.
+An image with a traffic, two umbrellas, eight people, three bicycles, a building, a handbag, a railroad, a sky, a potted, a pavement, and a tree.
+An image with three bicycles, eight people, a railroad, a potted, a tree, two umbrellas, a sky, a building, a traffic, a pavement, and a handbag.

@@ -8,3 +8,8 @@ A view of room through a wire mesh door.
 The image captures a scene of a room with a metal gate, a desk with a printer, a bookshelf, and a couch, all viewed through the gate.
 The image shows a room with a large, open doorway leading to a room with a desk and shelves filled with books.
 The image shows an interior space with a doorway leading to a room with a desk, shelves, and a couch, and another doorway leading to a room with a desk and shelves.
+An image with five books, a door, a wall, a suitcase, and a floor.
+An image with a floor, five books, a wall, a door, and a suitcase.
+An image with five books, a suitcase, a floor, a door, and a wall.
+An image with a wall, five books, a suitcase, a floor, and a door.
+An image with five books, a suitcase, a door, a floor, and a wall.

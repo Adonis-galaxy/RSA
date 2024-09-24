@@ -8,3 +8,8 @@ A white printer on a wooden table.
 A blue trash can is next to a printer in a room.
 A blue trash can is next to a printer on a desk.
 A blue trash can is next to a printer on a desk in a room with a white wall and a wooden door.
+An image with a door, a wall, a floor, a paper, and a table.
+An image with a paper, a wall, a door, a table, and a floor.
+An image with a paper, a wall, a floor, a table, and a door.
+An image with a wall, a paper, a door, a table, and a floor.
+An image with a door, a floor, a paper, a table, and a wall.

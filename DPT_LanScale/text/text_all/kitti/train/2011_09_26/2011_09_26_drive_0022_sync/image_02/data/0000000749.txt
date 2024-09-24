@@ -8,3 +8,8 @@ The image shows a street corner with a sign indicating a pedestrian crossing.
 The image captures a serene suburban street corner, with a clear sky overhead, a curved road leading to a white building, and a lush green field on the right, all underlined by a network of street signs and lampposts.
 The image shows a street corner with a sign indicating a pedestrian crossing, a grassy area, a building in the background, and a street sign on a pole.
 The image depicts a suburban street corner with a curved road, a pedestrian crossing sign, a grassy area, and a building in the background.
+An image with a grass, two cars, a sky, a building, a pavement, a road, and a tree.
+An image with a tree, a building, a grass, two cars, a pavement, a road, and a sky.
+An image with a building, a grass, two cars, a sky, a road, a tree, and a pavement.
+An image with a sky, a building, a road, two cars, a tree, a grass, and a pavement.
+An image with two cars, a tree, a grass, a pavement, a building, a sky, and a road.

@@ -8,3 +8,8 @@ A white office chair.
 The image shows a white table with two chairs, placed on a gray carpeted floor.
 The image shows a white table with two chairs, placed on a gray carpeted floor.
 The image shows a white table with two chairs, placed on a gray carpeted floor.
+An image with two chairs, a dining, a wall, and a rug.
+An image with a wall, a rug, two chairs, and a dining.
+An image with a dining, two chairs, a wall, and a rug.
+An image with a dining, a rug, a wall, and two chairs.
+An image with two chairs, a rug, a dining, and a wall.

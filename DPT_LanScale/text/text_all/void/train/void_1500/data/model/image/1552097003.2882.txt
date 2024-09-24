@@ -8,3 +8,8 @@ A model of a building.
 A model of a building with a street and trees, displayed behind a glass case.
 The image shows a small model of a building, which is placed on a wooden shelf.
 The image shows a model of a building with a green lawn and a parking lot, placed on a wooden display case.
+An image with a floor, a building, a tree, and a truck.
+An image with a truck, a floor, a building, and a tree.
+An image with a truck, a tree, a floor, and a building.
+An image with a tree, a floor, a truck, and a building.
+An image with a floor, a tree, a truck, and a building.

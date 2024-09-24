@@ -8,3 +8,8 @@ The image is a photograph of a city street.
 A bicyclist navigates a busy city street, with a mix of pedestrians, vehicles, and urban infrastructure.
 A bicyclist rides past a large orange truck on a busy city street, with a yellow umbrella and a white bus in the background.
 A bustling city street with a mix of pedestrians, cyclists, and vehicles, under a clear blue sky.
+An image with nine cars, a truck, four people, a road, three bicycles, a tree, a building, a umbrella, a dirt, and a pavement.
+An image with a tree, nine cars, four people, a pavement, a truck, a umbrella, three bicycles, a dirt, a road, and a building.
+An image with a building, a road, nine cars, a umbrella, four people, a tree, a dirt, three bicycles, a truck, and a pavement.
+An image with a road, nine cars, a pavement, a umbrella, a building, a truck, three bicycles, a dirt, four people, and a tree.
+An image with four people, a truck, three bicycles, nine cars, a dirt, a umbrella, a tree, a building, a road, and a pavement.

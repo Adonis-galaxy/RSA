@@ -8,3 +8,8 @@ A kitchen counter with a white box and blue containers on it.
 The image shows a kitchen counter with a white appliance, a white cabinet, and a white wall.
 The image shows a kitchen counter with a white microwave, a white toaster, and a white coffee maker, all sitting on a wooden counter.
 The image shows a kitchen counter with a white appliance, a white cabinet, and a white wall.
+An image with a cabinet, a counter, a cup, a sink, a refrigerator, and a wall.
+An image with a refrigerator, a counter, a cup, a sink, a cabinet, and a wall.
+An image with a counter, a refrigerator, a cabinet, a sink, a cup, and a wall.
+An image with a wall, a counter, a cup, a sink, a cabinet, and a refrigerator.
+An image with a refrigerator, a cup, a sink, a wall, a cabinet, and a counter.

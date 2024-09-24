@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene residential street, with a parked car on the left, a curving road leading to a house on the right, and a sidewalk with a bench and bushes in the foreground.
 The image shows a residential street with a parked car, a few trees, and a bench.
 The image depicts a suburban street scene with a car parked on the side of the road, a curved driveway leading to a house, and a sidewalk with a bench and bushes.
+An image with a sky, four cars, a road, a wall, a grass, a bench, a house, a tree, a fire, and a pavement.
+An image with a house, a fire, a wall, a bench, four cars, a tree, a sky, a grass, a pavement, and a road.
+An image with four cars, a wall, a tree, a house, a road, a fire, a pavement, a sky, a grass, and a bench.
+An image with a house, four cars, a road, a sky, a bench, a fire, a pavement, a tree, a grass, and a wall.
+An image with a sky, a bench, a house, four cars, a grass, a road, a fire, a pavement, a tree, and a wall.

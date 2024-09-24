@@ -8,3 +8,8 @@ The image shows a street with parked cars and motorcycles.
 A quiet residential street, lined with parked cars and motorcycles, under a clear blue sky.
 The image shows a narrow street lined with hedges and trees, with a car parked on the side, a motorcycle parked in the middle, and a truck parked at the end.
 A quiet residential street with parked cars, motorcycles, and a truck, lined by a hedge and a sidewalk, under a clear blue sky.
+An image with two cars, a wall, a tree, a sky, a road, a motorcycle, and a house.
+An image with a tree, a wall, two cars, a house, a motorcycle, a sky, and a road.
+An image with a tree, a motorcycle, a sky, a house, a wall, two cars, and a road.
+An image with a wall, two cars, a house, a sky, a tree, a motorcycle, and a road.
+An image with two cars, a motorcycle, a sky, a road, a wall, a tree, and a house.

@@ -8,3 +8,8 @@ A microwave on a counter.
 A microwave oven is placed on top of a cabinet, with a white microwave next to it.
 A microwave is sitting on top of a cabinet, and a white microwave is next to it.
 A microwave is placed on top of a cabinet with a white microwave next to it.
+An image with two microwaves, a floor, a paper, a wall, and a cabinet.
+An image with two microwaves, a paper, a floor, a wall, and a cabinet.
+An image with a paper, two microwaves, a cabinet, a wall, and a floor.
+An image with a floor, a cabinet, two microwaves, a wall, and a paper.
+An image with two microwaves, a cabinet, a wall, a paper, and a floor.

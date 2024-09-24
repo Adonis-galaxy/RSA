@@ -8,3 +8,8 @@ A green counter with many drawers.
 The image shows a green counter with a row of green storage compartments, each containing a white label, and a black telephone on the counter.
 The image shows a green counter with a row of green storage compartments, each containing a white label, and a black stapler on the counter.
 The image shows a green counter with multiple drawers and compartments, some of which are open, revealing various items inside.
+An image with a wall, five books, a cabinet, a shelf, a floor, a toothbrush, a paper, and a cup.
+An image with a toothbrush, five books, a wall, a paper, a shelf, a cabinet, a cup, and a floor.
+An image with a toothbrush, five books, a wall, a floor, a cup, a paper, a shelf, and a cabinet.
+An image with five books, a paper, a toothbrush, a wall, a cup, a floor, a cabinet, and a shelf.
+An image with a toothbrush, a cup, a paper, a wall, five books, a shelf, a cabinet, and a floor.

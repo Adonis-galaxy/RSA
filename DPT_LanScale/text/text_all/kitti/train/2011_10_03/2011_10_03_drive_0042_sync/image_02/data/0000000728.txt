@@ -8,3 +8,8 @@ The image shows a long, empty highway with a clear sky and a few trees.
 The image captures a serene, empty highway with a clear sky, lined by trees and signs, leading towards a distant horizon.
 The image shows a wide, empty highway with a few cars, a blue sky, and a few trees on the side.
 The image shows a long, straight road with a clear sky, a few trees, and a blue sign indicating a car lane ahead.
+An image with two cars, a grass, a railroad, a tree, a fence, a road, a sky, and a stop.
+An image with a road, two cars, a railroad, a stop, a fence, a sky, a grass, and a tree.
+An image with a grass, a railroad, two cars, a stop, a tree, a road, a fence, and a sky.
+An image with a sky, a stop, a railroad, a tree, a fence, two cars, a road, and a grass.
+An image with a road, two cars, a stop, a fence, a sky, a tree, a railroad, and a grass.

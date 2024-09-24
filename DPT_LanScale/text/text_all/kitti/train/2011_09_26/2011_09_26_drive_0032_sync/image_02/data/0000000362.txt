@@ -8,3 +8,8 @@ The image is a photograph of a road with vehicles.
 The image captures a moment of everyday life on a rural highway, with vehicles in motion and traffic lights guiding the flow of traffic.
 The image shows a wide, multi-lane road with a few cars driving on it, surrounded by greenery and a clear sky.
 The image depicts a wide, multi-lane road with traffic flowing in both directions, flanked by greenery and a clear sky.
+An image with two traffics, four cars, a pavement, a grass, a sky, a truck, a road, and a tree.
+An image with two traffics, a grass, four cars, a truck, a road, a sky, a tree, and a pavement.
+An image with a grass, a truck, four cars, a sky, two traffics, a road, a tree, and a pavement.
+An image with a sky, a tree, four cars, two traffics, a road, a truck, a grass, and a pavement.
+An image with a sky, four cars, a road, a truck, a tree, a grass, two traffics, and a pavement.

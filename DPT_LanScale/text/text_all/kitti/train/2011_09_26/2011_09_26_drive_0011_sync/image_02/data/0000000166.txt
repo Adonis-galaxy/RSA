@@ -8,3 +8,8 @@ A white bus is driving down a street.
 A white van is stopped at a red traffic light, allowing a white and orange bus to pass through an intersection.
 A large white bus is crossing a street at an intersection, with a woman standing on the sidewalk next to a traffic light.
 A city street scene with a white bus, a white van, a pedestrian, traffic lights, and trees.
+An image with three traffics, a truck, two cars, a person, a sky, a bus, a tree, a grass, and a road.
+An image with a tree, a person, two cars, a grass, a bus, three traffics, a sky, a truck, and a road.
+An image with a truck, three traffics, a sky, two cars, a bus, a tree, a road, a person, and a grass.
+An image with a grass, a sky, a truck, three traffics, two cars, a person, a bus, a road, and a tree.
+An image with a person, two cars, a grass, three traffics, a tree, a sky, a truck, a bus, and a road.

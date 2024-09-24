@@ -8,3 +8,8 @@ The image shows a narrow street with a car parked on the side.
 A quiet residential street, with a yellow car parked at the end, shaded by trees and bordered by a brick wall.
 The image shows a narrow street lined with houses and trees, with a yellow car parked on the side.
 A narrow, tree-lined street with a yellow car parked at the end, leading to a white building with balconies and a brick wall.
+An image with two walls, a car, a sky, a road, a tree, a pavement, a grass, and a house.
+An image with a grass, a house, a tree, a car, a road, a sky, two walls, and a pavement.
+An image with a sky, a pavement, a car, a house, a road, a grass, a tree, and two walls.
+An image with a house, a road, a tree, a grass, two walls, a car, a sky, and a pavement.
+An image with a car, a sky, a house, two walls, a tree, a grass, a road, and a pavement.

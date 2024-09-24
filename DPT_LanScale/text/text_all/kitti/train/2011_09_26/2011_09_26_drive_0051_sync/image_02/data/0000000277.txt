@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a serene, tree-lined street with a few cars parked on the side, leading towards a clear sky.
 The image shows a wide, tree-lined street with a few cars and trucks, and a clear sky overhead.
 The image depicts a wide, tree-lined street with multiple lanes, a median, and a clear sky.
+An image with fifteen cars, a grass, a building, a truck, a road, a tree, a sky, and a person.
+An image with a truck, fifteen cars, a person, a building, a grass, a sky, a tree, and a road.
+An image with fifteen cars, a tree, a road, a building, a sky, a person, a truck, and a grass.
+An image with fifteen cars, a grass, a sky, a tree, a person, a building, a truck, and a road.
+An image with fifteen cars, a road, a grass, a building, a truck, a tree, a sky, and a person.

@@ -8,3 +8,8 @@ The image shows a street scene with parked cars and a person walking.
 The image captures a quiet residential street, with parked cars and a person walking, set against a backdrop of trees and houses.
 The image shows a narrow street lined with parked cars and houses, with a person walking on the sidewalk.
 A narrow street in a residential area with parked cars, a person walking, and a bicycle.
+An image with a fence, two bicycles, six cars, a roof, two trucks, a sky, a road, a tree, a person, and a house.
+An image with a person, two trucks, a tree, a sky, six cars, two bicycles, a roof, a house, a road, and a fence.
+An image with six cars, a fence, two trucks, two bicycles, a sky, a roof, a tree, a road, a house, and a person.
+An image with a roof, a sky, a person, a road, six cars, two bicycles, two trucks, a fence, a tree, and a house.
+An image with six cars, two bicycles, a road, a sky, a house, a person, two trucks, a tree, a fence, and a roof.

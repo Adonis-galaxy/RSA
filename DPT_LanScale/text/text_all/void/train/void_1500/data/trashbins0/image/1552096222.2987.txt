@@ -8,3 +8,8 @@ A brown chair is in the corner of a room.
 A solitary chair sits in a corner of a room, next to a blue trash can.
 A small brown chair is tucked into a corner next to a blue trash can.
 The image shows a brown chair with a black seat, placed against a white wall, next to a blue trash can, in a room with a beige door and a beige floor.
+An image with a floor, a door, a chair, and a wall.
+An image with a chair, a door, a wall, and a floor.
+An image with a wall, a floor, a chair, and a door.
+An image with a floor, a wall, a door, and a chair.
+An image with a door, a chair, a wall, and a floor.

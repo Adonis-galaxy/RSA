@@ -8,3 +8,8 @@ A white delivery truck on a road.
 A white delivery truck is parked on the side of a road, with a person walking their bicycle nearby, and a car parked further down the road.
 A large white delivery truck is parked on the side of a narrow road, with a person riding a bicycle nearby.
 A white delivery truck is parked on the side of a road, with a bicyclist passing by and a pedestrian walking on the opposite side.
+An image with a car, a road, two bicycles, three people, a tree, a grass, and a truck.
+An image with three people, a tree, a car, a truck, a grass, two bicycles, and a road.
+An image with two bicycles, a tree, a car, a grass, three people, a truck, and a road.
+An image with three people, a road, a grass, a truck, two bicycles, a car, and a tree.
+An image with a tree, a road, three people, two bicycles, a truck, a car, and a grass.

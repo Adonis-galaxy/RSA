@@ -8,3 +8,8 @@ A black car parked on a narrow street.
 A black car parked on a narrow, tree-lined street, with a brick wall and a wooden fence in the background.
 A black car is parked on the side of a narrow street lined with trees and a brick wall.
 A narrow, tree-lined street with a parked car, a pedestrian walkway, and a brick wall on the right side.
+An image with a pavement, a grass, a wall, two cars, a road, a tree, and a sky.
+An image with a pavement, two cars, a sky, a grass, a tree, a road, and a wall.
+An image with a wall, a pavement, a tree, a road, a sky, two cars, and a grass.
+An image with a road, a wall, two cars, a sky, a tree, a pavement, and a grass.
+An image with two cars, a wall, a tree, a sky, a pavement, a grass, and a road.

@@ -8,3 +8,8 @@ A car on a street.
 A quiet residential street, with a parked car and a bicycle, under the shade of trees, leading to a building with a sign.
 A small white car is parked on the side of a narrow street, with a few people and bicycles nearby.
 A narrow, tree-lined street with parked cars and bicyclists, leading to a building with a covered patio.
+An image with three bicycles, six cars, a road, a pavement, a grass, two people, a tree, and a house.
+An image with two people, a road, a pavement, three bicycles, a tree, six cars, a grass, and a house.
+An image with two people, a house, six cars, a tree, three bicycles, a pavement, a road, and a grass.
+An image with six cars, three bicycles, a road, a grass, two people, a pavement, a tree, and a house.
+An image with three bicycles, a pavement, a house, two people, six cars, a tree, a grass, and a road.

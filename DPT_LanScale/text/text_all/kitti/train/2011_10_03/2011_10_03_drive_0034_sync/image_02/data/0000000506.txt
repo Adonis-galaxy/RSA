@@ -8,3 +8,8 @@ The image shows a row of parked cars on a street.
 The image captures a sunny day in a residential area, with parked cars lined up along a street, a sidewalk, and a curb, leading to a building with a sign, and a tree providing shade.
 The image shows a street scene with several cars parked along the side of the road, a sidewalk, and a building in the background.
 The image shows a row of parked cars on a street, with a sidewalk and a building in the background, and a tree in the foreground.
+An image with seven cars, a grass, a tree, a house, a pavement, a road, and a sky.
+An image with a tree, seven cars, a pavement, a road, a sky, a house, and a grass.
+An image with seven cars, a tree, a sky, a pavement, a grass, a house, and a road.
+An image with seven cars, a sky, a house, a road, a grass, a tree, and a pavement.
+An image with a pavement, a tree, seven cars, a sky, a road, a house, and a grass.

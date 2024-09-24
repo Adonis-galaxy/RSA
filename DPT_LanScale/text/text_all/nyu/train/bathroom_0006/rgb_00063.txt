@@ -8,3 +8,8 @@ A pair of socks hanging from a shower curtain rod.
 A pair of socks hangs from a shower door, suspended by a towel rack.
 A pair of socks hangs from a shower door, with a bottle of soap on the floor of the shower.
 A bathroom with a shower, toilet, and sink, featuring a hanging jacket and a bottle of soap.
+An image with a door, a bottle, a towel, a light, a sink, and a wall.
+An image with a towel, a door, a wall, a bottle, a sink, and a light.
+An image with a sink, a door, a towel, a bottle, a wall, and a light.
+An image with a light, a sink, a wall, a bottle, a door, and a towel.
+An image with a sink, a bottle, a door, a light, a wall, and a towel.

@@ -8,3 +8,8 @@ A computer desk with a monitor, keyboard, and a stuffed animal.
 A computer desk with a monitor, keyboard, and a box of cereal.
 A computer desk with a monitor, keyboard, and a box of cereal.
 A computer desk with a monitor, keyboard, and a box of cereal.
+An image with a keyboard, a tv, a table, a cat, a floor, a wall, and a cardboard.
+An image with a table, a keyboard, a tv, a floor, a wall, a cardboard, and a cat.
+An image with a floor, a wall, a table, a tv, a keyboard, a cat, and a cardboard.
+An image with a keyboard, a wall, a tv, a floor, a cardboard, a table, and a cat.
+An image with a cardboard, a table, a floor, a cat, a tv, a keyboard, and a wall.

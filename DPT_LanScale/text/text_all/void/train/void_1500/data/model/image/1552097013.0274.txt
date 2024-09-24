@@ -8,3 +8,8 @@ A model of a building.
 The image shows a model of a building, possibly a museum, with a glass display case and a wooden base.
 The image shows a model of a building, which is placed on a wooden stand.
 The image shows a model of a building with a glass display case, placed on a wooden stand.
+An image with a rug, a floor, and a building.
+An image with a building, a floor, and a rug.
+An image with a floor, a building, and a rug.
+An image with a floor, a rug, and a building.
+An image with a rug, a floor, and a building.

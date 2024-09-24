@@ -8,3 +8,8 @@ The image shows a red car driving on a street.
 A red car is stopped at a traffic light on a street corner, surrounded by other vehicles and traffic signs.
 A red car is driving on a road with white lines, passing under a traffic light and a street sign, while a large truck is visible in the background.
 A red car is driving on a road with a white line, passing through an intersection with traffic lights and signs, surrounded by a suburban area with trees and buildings.
+An image with nine cars, a pavement, six traffics, a grass, a mountain, a truck, a road, a sky, and a tree.
+An image with six traffics, nine cars, a grass, a tree, a pavement, a mountain, a truck, a sky, and a road.
+An image with six traffics, a pavement, nine cars, a road, a tree, a sky, a truck, a mountain, and a grass.
+An image with nine cars, six traffics, a grass, a mountain, a tree, a truck, a pavement, a road, and a sky.
+An image with nine cars, a pavement, a road, six traffics, a tree, a mountain, a truck, a grass, and a sky.

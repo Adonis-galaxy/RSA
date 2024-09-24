@@ -8,3 +8,8 @@ A computer tower on the floor.
 A computer tower is plugged into an outlet on the wall, sitting on the floor next to a wooden cabinet.
 The image shows a computer tower sitting on the floor next to a wooden cabinet.
 The image shows a computer setup in a corner of a room, with a desk, a computer tower, and a keyboard.
+An image with a cabinet, a keyboard, a floor, a wall, and a tv.
+An image with a keyboard, a floor, a wall, a cabinet, and a tv.
+An image with a keyboard, a cabinet, a tv, a wall, and a floor.
+An image with a floor, a keyboard, a tv, a cabinet, and a wall.
+An image with a wall, a tv, a keyboard, a floor, and a cabinet.

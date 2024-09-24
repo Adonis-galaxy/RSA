@@ -8,3 +8,8 @@ A black car driving on a road.
 A busy highway with a mix of vehicles, including cars and a truck, driving in both directions, surrounded by lush greenery and a clear sky.
 A busy highway with multiple cars, some larger and some smaller, driving in both directions under a clear sky.
 A busy highway with multiple lanes of traffic, surrounded by lush greenery and a clear sky.
+An image with a grass, five cars, a tree, a pavement, a sky, and a road.
+An image with five cars, a sky, a road, a pavement, a tree, and a grass.
+An image with five cars, a sky, a grass, a pavement, a tree, and a road.
+An image with a road, a tree, five cars, a grass, a pavement, and a sky.
+An image with a pavement, a road, five cars, a sky, a grass, and a tree.

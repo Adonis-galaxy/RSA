@@ -8,3 +8,8 @@ A blue chair is under a white table.
 A blue chair is positioned in front of a white desk with a computer monitor and wires on it.
 A blue chair is tucked under a white desk with a computer monitor and wires on it.
 The image shows a white desk with a blue chair, a computer monitor, and a few cables on it.
+An image with a book, a dining, a chair, and a floor.
+An image with a floor, a dining, a book, and a chair.
+An image with a chair, a book, a dining, and a floor.
+An image with a dining, a floor, a chair, and a book.
+An image with a dining, a chair, a book, and a floor.

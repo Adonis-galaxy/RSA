@@ -8,3 +8,8 @@ A room with a large white refrigerator.
 The image shows a small office space with a desk, chair, and a refrigerator.
 The image shows a small office with a desk, a chair, a filing cabinet, a refrigerator, and a bookshelf.
 The image shows a room with a large white refrigerator, a desk with a chair, a filing cabinet, and a counter with a drawer. The room has a green wall and a white floor, and there are pictures on the wall.
+An image with a floor, two people, four chairs, a dining, a cabinet, a wall, a shelf, a refrigerator, and a book.
+An image with two people, four chairs, a floor, a dining, a cabinet, a book, a shelf, a refrigerator, and a wall.
+An image with four chairs, a shelf, two people, a cabinet, a dining, a floor, a book, a refrigerator, and a wall.
+An image with four chairs, a wall, a book, two people, a floor, a shelf, a dining, a refrigerator, and a cabinet.
+An image with four chairs, a wall, a shelf, a book, a dining, a floor, a refrigerator, two people, and a cabinet.

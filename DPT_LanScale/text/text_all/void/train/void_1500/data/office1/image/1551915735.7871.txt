@@ -8,3 +8,8 @@ A table with several books and a phone on it.
 A cluttered office desk with various items on it.
 A cluttered office desk with a phone, books, and magazines.
 A cluttered office desk with a phone, books, and magazines.
+An image with a wall, a cup, a window, four books, a cabinet, a dining, three chairs, and a laptop.
+An image with three chairs, a laptop, four books, a cabinet, a window, a wall, a dining, and a cup.
+An image with four books, three chairs, a laptop, a wall, a cabinet, a cup, a window, and a dining.
+An image with four books, a cabinet, three chairs, a cup, a wall, a dining, a laptop, and a window.
+An image with a laptop, four books, a cabinet, a cup, a dining, three chairs, a wall, and a window.

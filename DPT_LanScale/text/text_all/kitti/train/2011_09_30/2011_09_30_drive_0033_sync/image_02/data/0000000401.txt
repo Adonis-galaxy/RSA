@@ -8,3 +8,8 @@ A truck parked on a street.
 A construction truck parked on a residential street, with a clear view of the sky and a building under construction in the background.
 A large truck is parked on a narrow street next to a construction site, with a blue portable toilet and a crane in the background.
 A construction site with a truck parked on a narrow street, surrounded by buildings and a fence.
+An image with a sky, two cars, a pavement, a house, two trucks, a road, a mountain, a tree, and a grass.
+An image with a pavement, two cars, two trucks, a mountain, a sky, a grass, a road, a tree, and a house.
+An image with a pavement, two cars, a grass, a house, two trucks, a mountain, a road, a tree, and a sky.
+An image with two trucks, two cars, a house, a road, a pavement, a sky, a mountain, a grass, and a tree.
+An image with a road, two cars, a sky, a house, a pavement, a tree, a grass, two trucks, and a mountain.

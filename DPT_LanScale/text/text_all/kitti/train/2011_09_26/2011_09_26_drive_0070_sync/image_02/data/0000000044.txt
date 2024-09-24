@@ -8,3 +8,8 @@ The image shows a street with a car driving on it.
 The image captures a serene, tree-lined road with a clear sky overhead, a single vehicle in motion, and a few signs indicating directions and warnings.
 The image shows a wide, tree-lined road with a blue and red sign indicating a crosswalk ahead.
 A tree-lined road with a blue and red sign indicating a crosswalk and a white arrow pointing right.
+An image with a sky, a tree, a stop, two cars, a wall, a pavement, a grass, a road, and a house.
+An image with a stop, two cars, a sky, a grass, a pavement, a tree, a road, a house, and a wall.
+An image with two cars, a road, a wall, a tree, a sky, a house, a pavement, a stop, and a grass.
+An image with a tree, a wall, a stop, a sky, two cars, a road, a grass, a house, and a pavement.
+An image with a stop, a sky, a pavement, a house, a wall, a grass, a tree, two cars, and a road.

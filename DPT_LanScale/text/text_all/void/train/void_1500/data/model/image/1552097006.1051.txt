@@ -8,3 +8,8 @@ A model of a building on a table.
 A model of a building on a table.
 The image shows a small model of a building, which is placed on a table.
 The image shows a model of a building with a flat roof, placed on a wooden table, with a person's feet visible in the background.
+An image with a person, a cabinet, a building, and a floor.
+An image with a building, a cabinet, a person, and a floor.
+An image with a cabinet, a floor, a person, and a building.
+An image with a floor, a building, a cabinet, and a person.
+An image with a building, a person, a cabinet, and a floor.

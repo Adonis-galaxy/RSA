@@ -8,3 +8,8 @@ A person riding a bicycle on a sunny day.
 A person riding a bicycle on a tree-lined street, with a clear view of the road ahead.
 A person riding a bicycle on a tree-lined street.
 A tree-lined street with a parked car, a person riding a bicycle, and a person walking on the sidewalk.
+An image with five cars, a grass, a road, a building, a pavement, a bicycle, a sky, two people, and a tree.
+An image with a building, five cars, two people, a grass, a bicycle, a sky, a tree, a road, and a pavement.
+An image with a sky, five cars, a building, a road, two people, a tree, a pavement, a bicycle, and a grass.
+An image with a sky, two people, a building, a tree, a bicycle, five cars, a pavement, a grass, and a road.
+An image with five cars, a sky, a pavement, a tree, a grass, two people, a road, a building, and a bicycle.

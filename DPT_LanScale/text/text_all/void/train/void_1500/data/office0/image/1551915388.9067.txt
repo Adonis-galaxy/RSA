@@ -8,3 +8,8 @@ A black leather couch in a room.
 A black leather couch in a room with a wooden table and a white wall.
 A black leather couch in a room with a wooden table and a white wall.
 A black leather couch in a room with a table and a wooden cabinet.
+An image with a wall, a rug, a couch, a chair, a cabinet, and a dining.
+An image with a wall, a dining, a rug, a couch, a chair, and a cabinet.
+An image with a chair, a dining, a wall, a rug, a couch, and a cabinet.
+An image with a rug, a wall, a chair, a cabinet, a couch, and a dining.
+An image with a couch, a chair, a wall, a dining, a rug, and a cabinet.

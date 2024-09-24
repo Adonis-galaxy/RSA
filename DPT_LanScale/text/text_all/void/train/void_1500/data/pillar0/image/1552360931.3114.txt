@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A blue bucket sits next to a black bag on the floor.
 A blue bucket is placed next to a black bag on the floor.
 A blue bucket is placed next to a black bag on the floor.
+An image with a handbag, a rug, a curtain, a cabinet, and a wall.
+An image with a rug, a wall, a cabinet, a curtain, and a handbag.
+An image with a curtain, a wall, a rug, a handbag, and a cabinet.
+An image with a rug, a handbag, a wall, a curtain, and a cabinet.
+An image with a curtain, a cabinet, a handbag, a rug, and a wall.

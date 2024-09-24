@@ -8,3 +8,8 @@ The image is a photograph of a street scene.
 The image captures a quiet residential street, with a mix of trees, buildings, and parked bicycles, evoking a sense of tranquility and community.
 The image shows a narrow street lined with trees and buildings, with a few parked bicycles on the sidewalk.
 The image depicts a narrow street lined with trees, buildings, and parked bicycles, with a clear sky overhead.
+An image with a bus, a tree, a car, a pavement, a bicycle, a window, a building, a stop, a road, and a wall.
+An image with a window, a tree, a wall, a car, a building, a pavement, a bus, a road, a bicycle, and a stop.
+An image with a wall, a car, a road, a stop, a pavement, a tree, a window, a bicycle, a bus, and a building.
+An image with a car, a wall, a window, a tree, a stop, a pavement, a bicycle, a road, a building, and a bus.
+An image with a pavement, a stop, a building, a bicycle, a window, a bus, a car, a road, a wall, and a tree.

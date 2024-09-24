@@ -8,3 +8,8 @@ The image shows a road with a median strip and a guardrail.
 The image captures a scene of a road with multiple lanes, marked by white arrows, flanked by green grass and trees, with a clear sky overhead.
 The image shows a wide, empty highway with a few cars and trucks, flanked by trees and a grassy median.
 The image shows a road with a clear lane for vehicles, marked by white arrows and a solid white line, flanked by a grassy area and a guardrail on the right side.
+An image with five people, a tree, three cars, a road, a fence, and a grass.
+An image with a road, five people, three cars, a tree, a grass, and a fence.
+An image with five people, a grass, three cars, a tree, a road, and a fence.
+An image with three cars, five people, a fence, a grass, a road, and a tree.
+An image with a road, five people, a fence, three cars, a grass, and a tree.

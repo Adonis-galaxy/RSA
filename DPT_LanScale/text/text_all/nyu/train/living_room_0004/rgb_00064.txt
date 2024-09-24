@@ -8,3 +8,8 @@ A black flat screen television.
 A small, dark television set on a wooden stand in a dimly lit room, with a framed picture on a side table.
 A small black flat-screen TV is sitting on a wooden stand in a dimly lit room.
 A small, dimly lit living room with a flat-screen TV on a wooden stand, a framed picture on a side table, and a rug on the floor.
+An image with a wall, a tv, a cabinet, a table, a floor, and a rug.
+An image with a table, a floor, a cabinet, a rug, a tv, and a wall.
+An image with a table, a floor, a cabinet, a wall, a tv, and a rug.
+An image with a cabinet, a wall, a tv, a rug, a table, and a floor.
+An image with a cabinet, a wall, a table, a rug, a tv, and a floor.

@@ -8,3 +8,8 @@ A blurry image of a person sitting in a chair with a backpack on a table.
 A person is sitting in a chair with their head down, while a backpack and other items are placed on a table next to a door.
 A blurry image of a person sitting in a chair with a backpack and papers on a table next to a door.
 The image shows a person sitting in a chair with their head down, a desk with a computer monitor and papers, a wooden chair, and a whiteboard with writing on it.
+An image with three chairs, three books, a wall, a floor, a door, a table, and a person.
+An image with a person, a wall, three books, three chairs, a floor, a door, and a table.
+An image with a floor, three books, a person, a table, a door, three chairs, and a wall.
+An image with a table, a floor, three chairs, three books, a person, a wall, and a door.
+An image with a door, three books, a person, three chairs, a table, a floor, and a wall.

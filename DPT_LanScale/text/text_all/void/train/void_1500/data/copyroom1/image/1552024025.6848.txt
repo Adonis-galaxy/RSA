@@ -8,3 +8,8 @@ A blue and white trash can.
 A blue and white trash can is placed next to a cabinet.
 A blue and white trash can is placed next to a cabinet.
 A blue and white trash can is placed next to a beige cabinet with a white paper dispenser on top.
+An image with a door, a floor, a wall, and a cabinet.
+An image with a floor, a wall, a door, and a cabinet.
+An image with a door, a cabinet, a wall, and a floor.
+An image with a floor, a cabinet, a wall, and a door.
+An image with a cabinet, a wall, a floor, and a door.

@@ -8,3 +8,8 @@ The image shows a street with trees and a car.
 The image captures a serene suburban street, lined with trees and houses, leading to a cul-de-sac, with a car parked at the end, under a clear blue sky.
 The image shows a tree-lined street with a car parked on the side, a traffic sign, and a sidewalk. The trees are large, and the car is small.
 The image depicts a tree-lined street with a curved road, a parked car, a traffic sign, and a sidewalk.
+An image with a grass, a road, a pavement, a wall, two cars, a sky, and a tree.
+An image with a tree, two cars, a pavement, a grass, a sky, a road, and a wall.
+An image with a pavement, a grass, a sky, a road, two cars, a tree, and a wall.
+An image with two cars, a sky, a tree, a grass, a road, a pavement, and a wall.
+An image with a sky, two cars, a tree, a pavement, a grass, a wall, and a road.

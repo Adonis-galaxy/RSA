@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A quiet residential street, lined with trees and houses, leads to a cul-de-sac where a car is parked, and a bicycle leans against a fence.
 The image depicts a narrow, tree-lined street with a car parked on the side, a bicycle leaning against a fence, and a stop sign at the end of the road.
 A quiet residential street with a curved road, lined with trees and houses, and a bicycle parked on the sidewalk.
+An image with a stop, a road, a sky, a grass, a bicycle, a pavement, a house, a car, a truck, and a tree.
+An image with a grass, a car, a house, a sky, a bicycle, a road, a stop, a truck, a pavement, and a tree.
+An image with a car, a pavement, a road, a bicycle, a house, a grass, a sky, a truck, a stop, and a tree.
+An image with a truck, a tree, a grass, a sky, a stop, a car, a road, a bicycle, a house, and a pavement.
+An image with a road, a tree, a sky, a house, a pavement, a grass, a bicycle, a stop, a truck, and a car.

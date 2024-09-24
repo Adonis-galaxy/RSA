@@ -8,3 +8,8 @@ A long fluorescent light fixture in a room.
 The image shows a long fluorescent light fixture in a room with a green wall, a bookshelf with books, and a refrigerator.
 The image shows a long fluorescent light fixture mounted on a green wall, with a bookshelf containing books and papers underneath it.
 The image shows a room with a long fluorescent light fixture, a green wall, a bookshelf with books, and a whiteboard with papers attached to it.
+An image with twenty books, a shelf, a refrigerator, a light, a wall, and a ceiling.
+An image with twenty books, a shelf, a wall, a ceiling, a light, and a refrigerator.
+An image with twenty books, a shelf, a refrigerator, a light, a ceiling, and a wall.
+An image with twenty books, a light, a refrigerator, a wall, a shelf, and a ceiling.
+An image with twenty books, a ceiling, a light, a wall, a refrigerator, and a shelf.

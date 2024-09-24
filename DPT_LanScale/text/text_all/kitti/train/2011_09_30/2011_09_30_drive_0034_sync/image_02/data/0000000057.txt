@@ -8,3 +8,8 @@ The image shows a street with a house on the right side.
 A narrow road leads to a house nestled in a lush green field, with a tall pole standing guard on the side.
 A narrow road leads to a white house with a red roof, surrounded by lush greenery and a fence.
 A narrow, tree-lined road leads to a white house with a red roof, situated on a hillside with a fence and a gate.
+An image with a tree, a house, a sky, a grass, a dirt, a road, and a fence.
+An image with a house, a fence, a dirt, a tree, a road, a sky, and a grass.
+An image with a grass, a tree, a sky, a house, a dirt, a fence, and a road.
+An image with a sky, a road, a dirt, a house, a fence, a tree, and a grass.
+An image with a road, a tree, a grass, a house, a dirt, a fence, and a sky.

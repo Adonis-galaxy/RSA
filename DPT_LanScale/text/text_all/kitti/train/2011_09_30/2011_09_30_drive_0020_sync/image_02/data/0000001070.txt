@@ -8,3 +8,8 @@ A car is driving down a street.
 A car is driving down a street next to a building, with a fence and trees in the background.
 A small silver car is driving down a narrow street between two white buildings, with a chain-link fence on the right side.
 A car is driving down a street lined with trees and buildings, passing by a white fence and a construction site.
+An image with a stop, a grass, a house, a window, three cars, a fence, a tree, a building, and a road.
+An image with three cars, a stop, a road, a fence, a window, a grass, a building, a tree, and a house.
+An image with a tree, three cars, a grass, a fence, a building, a house, a window, a road, and a stop.
+An image with a fence, three cars, a stop, a building, a window, a tree, a grass, a road, and a house.
+An image with three cars, a fence, a tree, a stop, a grass, a road, a building, a house, and a window.

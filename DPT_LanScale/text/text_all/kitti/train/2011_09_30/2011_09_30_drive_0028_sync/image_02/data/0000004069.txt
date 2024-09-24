@@ -8,3 +8,8 @@ The image shows a street with parked cars.
 The image captures a quiet, tree-lined street where several cars are parked along the side, with a stop sign visible in the foreground, and a bridge in the background.
 The image shows a narrow street lined with parked cars, a stop sign, and trees, with a clear sky overhead.
 A tree-lined street with parked cars and a stop sign.
+An image with seven cars, a bridge, a stop, a truck, a grass, a road, a pavement, a sky, a person, and a tree.
+An image with seven cars, a tree, a grass, a pavement, a road, a truck, a person, a stop, a bridge, and a sky.
+An image with a grass, a tree, seven cars, a road, a bridge, a stop, a pavement, a truck, a person, and a sky.
+An image with seven cars, a bridge, a pavement, a truck, a sky, a grass, a tree, a road, a stop, and a person.
+An image with a person, a stop, a grass, a sky, a tree, seven cars, a road, a pavement, a truck, and a bridge.

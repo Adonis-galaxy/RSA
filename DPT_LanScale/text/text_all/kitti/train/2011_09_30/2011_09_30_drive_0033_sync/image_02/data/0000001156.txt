@@ -8,3 +8,8 @@ The image shows a street scene with a curved road, parked cars, and buildings.
 The image captures a quiet residential street with parked cars, a curved road, and a clear blue sky.
 The image shows a narrow street with parked cars, a curved road, and a white building with a red roof. The street is marked with a white arrow and the number 30.
 The image depicts a narrow, tree-lined street in a residential area, with parked cars, a curved road, and a white building with a red roof.
+An image with a tree, two walls, eight cars, a grass, a sky, a roof, a house, a pavement, a road, and a flower.
+An image with a tree, eight cars, a house, a flower, a roof, two walls, a grass, a pavement, a sky, and a road.
+An image with eight cars, a pavement, a tree, a house, a roof, two walls, a road, a sky, a flower, and a grass.
+An image with eight cars, a house, a road, a tree, a flower, a grass, a pavement, a roof, two walls, and a sky.
+An image with two walls, a house, eight cars, a roof, a flower, a road, a grass, a tree, a pavement, and a sky.

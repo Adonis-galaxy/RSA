@@ -8,3 +8,8 @@ A blue van driving down a road.
 A blue van driving down a tree-lined road, with a clear sky overhead and a fence on the side.
 A large blue truck is driving down a tree-lined road with a few cars in the distance.
 A blue van is driving down a tree-lined road with a fence on the side, passing under a clear blue sky.
+An image with five cars, a truck, a tree, a grass, a sky, and a road.
+An image with a truck, a grass, five cars, a sky, a road, and a tree.
+An image with a grass, a sky, a truck, five cars, a road, and a tree.
+An image with a road, five cars, a truck, a tree, a sky, and a grass.
+An image with five cars, a sky, a tree, a road, a truck, and a grass.

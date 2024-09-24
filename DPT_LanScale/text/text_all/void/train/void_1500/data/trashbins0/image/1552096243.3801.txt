@@ -8,3 +8,8 @@ The image shows a white wall with a black door frame and a brown door.
 The image shows a closed door with a metal handle and a sign on the wall.
 The image shows a large, white door with a black hinge and a small, brown bench in the corner.
 The image shows a white door with a black hinge, a white wall, and a brown bench in the background.
+An image with a chair, a floor, a wall, and a refrigerator.
+An image with a wall, a refrigerator, a chair, and a floor.
+An image with a floor, a wall, a chair, and a refrigerator.
+An image with a floor, a refrigerator, a chair, and a wall.
+An image with a wall, a floor, a refrigerator, and a chair.

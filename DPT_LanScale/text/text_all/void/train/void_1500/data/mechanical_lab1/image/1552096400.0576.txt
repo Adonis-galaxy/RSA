@@ -8,3 +8,8 @@ A blue and black machine with a yellow sign on it.
 A blue and black machine with a yellow sign on a gray box.
 The image shows a blue and black machine with a yellow sign on a gray box, placed on a wooden table.
 The image shows a blue machine with a yellow sign on a gray box, placed on a wooden table.
+An image with a knife, a table, a wall, and a floor.
+An image with a wall, a table, a knife, and a floor.
+An image with a table, a floor, a wall, and a knife.
+An image with a knife, a floor, a wall, and a table.
+An image with a knife, a wall, a floor, and a table.

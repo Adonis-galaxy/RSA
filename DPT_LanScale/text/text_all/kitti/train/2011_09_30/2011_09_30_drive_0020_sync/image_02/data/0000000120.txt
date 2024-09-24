@@ -8,3 +8,8 @@ The image shows a street with a sidewalk and a grassy area.
 The image captures a serene suburban street scene, with a clear path leading to a row of houses, a parked truck, and a sign indicating a nearby business.
 The image shows a wide, tree-lined street with parked vehicles, a sidewalk, and a clear sky.
 A tree-lined street with parked vehicles, a sidewalk, and a building in the background.
+An image with three trucks, eight sheep, two cars, a tree, a dirt, a road, a house, and a grass.
+An image with a tree, two cars, three trucks, a road, eight sheep, a grass, a dirt, and a house.
+An image with eight sheep, a tree, three trucks, two cars, a dirt, a road, a house, and a grass.
+An image with three trucks, a dirt, eight sheep, two cars, a tree, a house, a road, and a grass.
+An image with a road, eight sheep, a dirt, three trucks, a grass, a house, a tree, and two cars.

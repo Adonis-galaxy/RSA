@@ -8,3 +8,8 @@ A car parked on the side of a road.
 A parked car on a shaded street, adjacent to a sidewalk and a park, with a bus stop and trees in the background.
 A small car is parked on the side of a street next to a sidewalk, with a tree and a street sign visible in the background.
 A tree-lined street with a parked car, a sidewalk, and a train station in the background.
+An image with a tree, a grass, three cars, a person, a pavement, and a road.
+An image with three cars, a pavement, a tree, a grass, a person, and a road.
+An image with a tree, three cars, a road, a person, a pavement, and a grass.
+An image with a grass, a pavement, a tree, three cars, a person, and a road.
+An image with a person, a pavement, three cars, a grass, a tree, and a road.

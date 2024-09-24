@@ -8,3 +8,8 @@ The image is blurry and shows a chair and a desk.
 The image shows a blurry office setting with a desk, chair, and a poster on the wall.
 The image shows a blurry office setting with a desk, a chair, and a computer monitor.
 The image shows a blurry office environment with a desk, chair, and a poster on the wall.
+An image with a cabinet, a book, a table, a wall, a chair, a tv, and a rug.
+An image with a chair, a book, a wall, a cabinet, a table, a rug, and a tv.
+An image with a chair, a wall, a table, a cabinet, a book, a rug, and a tv.
+An image with a tv, a table, a rug, a cabinet, a chair, a wall, and a book.
+An image with a wall, a cabinet, a chair, a rug, a tv, a book, and a table.

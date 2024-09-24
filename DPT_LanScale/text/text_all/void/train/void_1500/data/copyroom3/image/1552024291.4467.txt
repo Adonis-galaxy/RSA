@@ -8,3 +8,8 @@ A blurry image of a bathroom with a blue counter and a shower.
 The image shows a blurry view of a bathroom with a blue counter and a white shower door.
 The image shows a small, narrow kitchen with blue cabinets and a white countertop, featuring a white door and a white shower curtain.
 The image shows a narrow hallway with a blue cabinet on the right and a white shower stall on the left.
+An image with a door, a wall, a light, a window, a floor, and a cabinet.
+An image with a wall, a window, a light, a cabinet, a door, and a floor.
+An image with a floor, a cabinet, a wall, a window, a light, and a door.
+An image with a light, a floor, a wall, a door, a cabinet, and a window.
+An image with a door, a floor, a window, a light, a wall, and a cabinet.

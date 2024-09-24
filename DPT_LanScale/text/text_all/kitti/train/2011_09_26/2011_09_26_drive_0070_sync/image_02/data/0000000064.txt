@@ -8,3 +8,8 @@ The image shows a road with two cars driving on it.
 The image captures a serene, tree-lined road with two vehicles in motion, one following the other, under a clear blue sky.
 A two-lane road with a white line down the middle, bordered by a concrete wall on one side and trees on the other, with two vehicles traveling on it.
 A two-lane road with a concrete barrier on the left side, bordered by trees and a grassy hill on the right, with two vehicles traveling in opposite directions.
+An image with two cars, a tree, a sky, a grass, a pavement, a road, and a wall.
+An image with a sky, two cars, a wall, a grass, a pavement, a road, and a tree.
+An image with a grass, two cars, a pavement, a tree, a sky, a road, and a wall.
+An image with two cars, a wall, a tree, a pavement, a sky, a grass, and a road.
+An image with a wall, a tree, a grass, two cars, a road, a pavement, and a sky.

@@ -8,3 +8,8 @@ The image shows an empty conference room with a long table and several chairs.
 The image captures an empty conference room with a long table and multiple chairs, a red fire alarm on the wall, and a whiteboard with a blue poster on it.
 The image shows an empty conference room with a long table and several chairs, a red fire alarm on the wall, and a bulletin board with papers and posters.
 The image shows an empty conference room with a long table and multiple chairs, a red fire alarm on the wall, and various posters and flyers attached to the wall.
+An image with three dinings, twelve chairs, a tv, a door, a floor, a paper, a wall, and a ceiling.
+An image with twelve chairs, a wall, a ceiling, a door, three dinings, a floor, a paper, and a tv.
+An image with a tv, twelve chairs, a paper, a ceiling, three dinings, a floor, a door, and a wall.
+An image with twelve chairs, a ceiling, a door, three dinings, a wall, a paper, a tv, and a floor.
+An image with twelve chairs, three dinings, a paper, a door, a ceiling, a floor, a tv, and a wall.

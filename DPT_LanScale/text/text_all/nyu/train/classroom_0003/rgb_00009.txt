@@ -8,3 +8,8 @@ The image shows an empty classroom with desks and chairs.
 The image depicts an empty classroom with a desk, chairs, and a window, suggesting a quiet and unoccupied learning environment.
 The image shows a classroom with a large desk, several chairs, and a window with blinds.
 The image shows an empty classroom with a long table, several chairs, a desk, and a window with blinds.
+An image with ten books, twelve chairs, a cardboard, a table, a floor, a window, a wall, a cabinet, and a curtain.
+An image with a cabinet, ten books, twelve chairs, a floor, a table, a cardboard, a window, a curtain, and a wall.
+An image with a wall, twelve chairs, ten books, a cardboard, a table, a window, a curtain, a floor, and a cabinet.
+An image with ten books, a wall, a cardboard, twelve chairs, a window, a table, a floor, a curtain, and a cabinet.
+An image with ten books, twelve chairs, a wall, a curtain, a cabinet, a floor, a table, a cardboard, and a window.

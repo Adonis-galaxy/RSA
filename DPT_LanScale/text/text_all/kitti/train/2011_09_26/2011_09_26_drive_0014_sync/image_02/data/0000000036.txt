@@ -8,3 +8,8 @@ The image shows a street scene with cars and a sidewalk.
 The image captures a typical day on a suburban street, with cars parked along the side, a few moving along the road, and a clear blue sky overhead.
 The image shows a wide street with a few cars, a sidewalk, and trees on both sides, under a clear blue sky.
 A tree-lined street with parked cars and a clear sky.
+An image with seven cars, a road, a tree, a roof, a person, a sky, a airplane, a pavement, a grass, and a wall.
+An image with seven cars, a sky, a person, a tree, a wall, a road, a grass, a roof, a airplane, and a pavement.
+An image with a sky, a road, seven cars, a roof, a wall, a pavement, a person, a grass, a airplane, and a tree.
+An image with a road, a person, seven cars, a tree, a airplane, a sky, a wall, a pavement, a grass, and a roof.
+An image with a grass, seven cars, a tree, a pavement, a road, a sky, a person, a airplane, a roof, and a wall.

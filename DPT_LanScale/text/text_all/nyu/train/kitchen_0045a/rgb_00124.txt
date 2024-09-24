@@ -8,3 +8,8 @@ A bottle of water on a counter.
 A bottle of water sits on a countertop next to a refrigerator, with a partially eaten sandwich nearby.
 A large plastic bottle of water sits on a counter next to a refrigerator.
 A kitchen with a white refrigerator, a counter with a bottle of water, a stove, and a trash can.
+An image with two sinks, a wall, a cabinet, a dining, a counter, a refrigerator, a bottle, a bowl, a cup, a floor, a window, a door, and a food.
+An image with two sinks, a window, a door, a cabinet, a cup, a counter, a dining, a food, a wall, a refrigerator, a bottle, a floor, and a bowl.
+An image with a cabinet, a dining, a window, a refrigerator, a counter, two sinks, a bottle, a door, a wall, a bowl, a food, a floor, and a cup.
+An image with a refrigerator, two sinks, a wall, a bowl, a window, a bottle, a door, a dining, a cabinet, a floor, a food, a cup, and a counter.
+An image with a bottle, a cabinet, a floor, a bowl, a window, a dining, two sinks, a door, a wall, a food, a refrigerator, a counter, and a cup.

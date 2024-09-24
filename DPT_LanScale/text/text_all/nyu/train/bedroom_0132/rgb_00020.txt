@@ -8,3 +8,8 @@ A messy bedroom with a bed and a lamp.
 The image captures a bedroom scene with a bed that appears unmade, a nightstand with a lamp, a window with curtains, and a checkered quilt.
 The image shows a small, messy bedroom with a bed, a nightstand, a lamp, a window with curtains, and a checkered quilt.
 The image shows a bedroom with a messy bed, a nightstand with a lamp, a window with curtains, and a checkered quilt.
+An image with eight books, a floor, a curtain, a light, a bed, a cup, and a wall.
+An image with eight books, a wall, a light, a curtain, a bed, a floor, and a cup.
+An image with eight books, a bed, a floor, a light, a wall, a curtain, and a cup.
+An image with eight books, a wall, a light, a floor, a curtain, a cup, and a bed.
+An image with a cup, a light, a floor, eight books, a bed, a wall, and a curtain.

@@ -8,3 +8,8 @@ A kitchen with a sink and cabinets.
 The image shows a small kitchen with a sink, a counter, and cabinets.
 The image shows a small kitchen with a sink, a cabinet, and a counter.
 The image shows a small kitchen with a sink, a counter, and cabinets.
+An image with a counter, two bottles, a paper, a sink, a wall, and a cabinet.
+An image with a sink, two bottles, a counter, a wall, a cabinet, and a paper.
+An image with a cabinet, a wall, two bottles, a paper, a counter, and a sink.
+An image with a counter, a cabinet, a wall, two bottles, a sink, and a paper.
+An image with two bottles, a cabinet, a counter, a sink, a wall, and a paper.

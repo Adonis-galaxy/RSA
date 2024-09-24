@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a serene residential street, lined with houses and trees, under a clear blue sky.
 The image shows a residential street with houses, trees, and a sidewalk, with a large house on the left and a smaller house on the right.
 The image depicts a residential street with a mix of architectural styles, featuring a curved road, a sidewalk, and houses with varying facades, including a modern building with a flat roof and a traditional building with a pitched roof.
+An image with a sky, a road, a tree, a wall, a potted, a house, and a pavement.
+An image with a tree, a wall, a road, a potted, a sky, a pavement, and a house.
+An image with a house, a sky, a potted, a tree, a pavement, a road, and a wall.
+An image with a tree, a sky, a road, a wall, a house, a pavement, and a potted.
+An image with a road, a tree, a wall, a sky, a potted, a house, and a pavement.

@@ -8,3 +8,8 @@ The image shows a narrow street with parked cars and a bus.
 A narrow street in a residential area, with parked cars and a bus, under a clear blue sky.
 A large black bus is parked on the side of a narrow street between two white buildings, with a smaller car parked behind it.
 A narrow street in a residential area with parked cars and a bus, with buildings on both sides and a fence on the right.
+An image with six cars, a house, a pavement, a truck, a tree, a sky, a wall, a fence, a road, and a person.
+An image with a sky, six cars, a pavement, a truck, a tree, a person, a road, a fence, a wall, and a house.
+An image with a wall, six cars, a pavement, a truck, a tree, a fence, a house, a sky, a road, and a person.
+An image with a wall, six cars, a sky, a house, a truck, a road, a fence, a person, a pavement, and a tree.
+An image with a road, six cars, a fence, a pavement, a person, a tree, a house, a truck, a wall, and a sky.

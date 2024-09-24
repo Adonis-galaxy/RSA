@@ -8,3 +8,8 @@ The image shows a narrow, tree-lined street in a residential area.
 A quiet residential street, lined with houses and trees, leads to a serene cul-de-sac.
 The image depicts a narrow, tree-lined street between two-story houses, with parked cars and a few potted plants visible.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with three cars, a pavement, a flower, a wall, a roof, a tree, a house, and a sky.
+An image with a sky, a wall, a roof, three cars, a flower, a house, a pavement, and a tree.
+An image with a flower, three cars, a pavement, a house, a roof, a tree, a sky, and a wall.
+An image with three cars, a house, a tree, a flower, a pavement, a wall, a roof, and a sky.
+An image with a house, three cars, a roof, a sky, a tree, a pavement, a wall, and a flower.

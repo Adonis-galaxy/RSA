@@ -8,3 +8,8 @@ A blurry image of a room with a whiteboard, a cardboard box, and a black cabinet
 The image shows a room with a whiteboard, a cardboard box, a black bag, and a green object.
 The image shows a room with a whiteboard, a cardboard box, a black bag, and a green object.
 The image shows a room with a whiteboard on the left side, a black cabinet on the right side, and a cardboard box in the middle of the room.
+An image with a cabinet, a tv, a cardboard, a floor, and a wall.
+An image with a tv, a wall, a floor, a cabinet, and a cardboard.
+An image with a tv, a cardboard, a wall, a floor, and a cabinet.
+An image with a cabinet, a cardboard, a tv, a floor, and a wall.
+An image with a cabinet, a tv, a wall, a cardboard, and a floor.

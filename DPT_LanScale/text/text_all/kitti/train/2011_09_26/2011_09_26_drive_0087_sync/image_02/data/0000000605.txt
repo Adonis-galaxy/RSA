@@ -8,3 +8,8 @@ A yellow car on a street.
 A quiet residential street, with a yellow car parked at the end, shaded by trees and bordered by a stone wall.
 A yellow car is driving down a narrow, tree-lined street between two-story buildings.
 A narrow, tree-lined street with a yellow car parked on the right side, leading to a white building with a balcony on the left.
+An image with a building, a house, a car, a pavement, a tree, a sky, two walls, a road, and a fence.
+An image with two walls, a fence, a car, a building, a tree, a sky, a road, a house, and a pavement.
+An image with a building, a car, a fence, a road, a tree, a sky, two walls, a house, and a pavement.
+An image with a road, a fence, a pavement, a house, two walls, a tree, a sky, a car, and a building.
+An image with two walls, a tree, a pavement, a car, a building, a house, a road, a sky, and a fence.

@@ -8,3 +8,8 @@ A blurry image of a bathroom sink.
 The image shows a small, clean bathroom with a sink, a mirror, and a laptop on the counter.
 The image shows a small, blue bathroom sink with a laptop on the counter.
 The image shows a small, blue-toned bathroom with a sink, a mirror, and a laptop on the counter.
+An image with a sink, a light, a cabinet, a microwave, a wall, a counter, and a floor.
+An image with a sink, a cabinet, a light, a counter, a floor, a microwave, and a wall.
+An image with a floor, a wall, a sink, a light, a cabinet, a counter, and a microwave.
+An image with a floor, a wall, a sink, a microwave, a counter, a light, and a cabinet.
+An image with a cabinet, a counter, a sink, a light, a microwave, a wall, and a floor.

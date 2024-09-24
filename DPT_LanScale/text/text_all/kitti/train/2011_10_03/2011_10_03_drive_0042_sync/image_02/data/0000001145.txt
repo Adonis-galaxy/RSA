@@ -8,3 +8,8 @@ The image shows a highway with a bridge overpassing it.
 The image captures a serene highway scene with a clear sky, a few cars, and a bridge, all set against a backdrop of lush greenery.
 The image shows a long, empty highway with a few cars, a truck, and a bus, all appearing small due to the perspective of the camera.
 The image captures a long, straight road with multiple lanes, flanked by guardrails and overpasses, leading towards a distant horizon where trees and a blue sky meet.
+An image with nine cars, a grass, a road, a fence, a tree, a truck, a wall, and two traffics.
+An image with nine cars, two traffics, a fence, a grass, a road, a wall, a truck, and a tree.
+An image with nine cars, a wall, a road, two traffics, a fence, a grass, a tree, and a truck.
+An image with a road, nine cars, a wall, two traffics, a truck, a grass, a tree, and a fence.
+An image with a road, nine cars, a fence, a grass, a wall, a tree, two traffics, and a truck.

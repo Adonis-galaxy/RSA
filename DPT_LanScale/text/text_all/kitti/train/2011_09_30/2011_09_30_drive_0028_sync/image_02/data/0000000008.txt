@@ -8,3 +8,8 @@ The image shows a busy street with cars and a truck.
 The image captures a bustling city street, with a variety of vehicles, including cars and a truck, navigating through a narrow alley between buildings.
 The image shows a narrow street in a European town, with parked cars on both sides, a red truck in the foreground, and a white car in the background.
 A narrow street in a residential area with parked cars and a red truck.
+An image with nine cars, a sky, a truck, a door, a road, a tree, a pavement, a house, and a fence.
+An image with a road, nine cars, a sky, a tree, a truck, a pavement, a house, a fence, and a door.
+An image with a sky, nine cars, a truck, a road, a fence, a house, a tree, a door, and a pavement.
+An image with nine cars, a road, a sky, a fence, a tree, a truck, a house, a door, and a pavement.
+An image with nine cars, a sky, a house, a truck, a pavement, a fence, a road, a door, and a tree.

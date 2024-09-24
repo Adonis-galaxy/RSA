@@ -8,3 +8,8 @@ A table with a cup and books on it.
 A table with a cup, books, and a remote control.
 The image shows a table with a white cup, a book, and a remote control on it, with two black chairs on either side.
 The image shows a table with a white cup, a book, and a magazine on it, with a black chair and a window in the background.
+An image with a cell, three books, two chairs, a cup, a window, a remote, a wall, and a dining.
+An image with two chairs, a cell, a remote, three books, a window, a cup, a wall, and a dining.
+An image with two chairs, a wall, three books, a cell, a cup, a remote, a window, and a dining.
+An image with a cell, a window, a dining, a cup, three books, a remote, two chairs, and a wall.
+An image with two chairs, three books, a wall, a dining, a cell, a window, a cup, and a remote.

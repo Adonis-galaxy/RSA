@@ -8,3 +8,8 @@ The image is a photograph of a tree-lined street.
 A person walking on a sidewalk, with a staircase leading to a park and trees lining the street.
 A person is walking down a tree-lined street, which is lined with parked cars and benches, and there is a house in the background.
 A tree-lined street with a curved path, a person walking on the sidewalk, and a bench at the end of the road.
+An image with a road, a pavement, three people, a stairs, a house, a bench, a sky, and a tree.
+An image with a house, three people, a road, a tree, a bench, a sky, a pavement, and a stairs.
+An image with a stairs, a tree, three people, a house, a pavement, a sky, a road, and a bench.
+An image with a bench, a house, three people, a pavement, a tree, a sky, a road, and a stairs.
+An image with three people, a tree, a pavement, a house, a road, a sky, a bench, and a stairs.

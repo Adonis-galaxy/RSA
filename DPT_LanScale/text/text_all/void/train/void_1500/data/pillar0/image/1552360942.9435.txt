@@ -8,3 +8,8 @@ A blue bucket next to a black bag.
 A room with a white wall, a blue bucket, a black bag, and a black tripod.
 A blue bucket, a black bag, and a black tripod leaning against a white wall.
 A room with a white wall, a blue bucket, a black bag, and a black tripod.
+An image with a suitcase, a wall, a floor, a cabinet, and a door.
+An image with a door, a suitcase, a cabinet, a floor, and a wall.
+An image with a door, a cabinet, a floor, a suitcase, and a wall.
+An image with a suitcase, a door, a floor, a wall, and a cabinet.
+An image with a suitcase, a floor, a wall, a cabinet, and a door.

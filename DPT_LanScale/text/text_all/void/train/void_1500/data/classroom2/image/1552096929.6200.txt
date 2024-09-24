@@ -8,3 +8,8 @@ The image shows a black chair in a room with a white and gray floor.
 The image shows a black chair in a room with a white and gray floor, a green trash can, and a brown door.
 The image shows a black chair in the foreground, a green trash can to the left, and a brown door in the background. The floor is a light color, and the wall is white.
 The image shows a room with a trash can, a door, and a chair, with a white and gray floor.
+An image with two chairs, a rug, a door, a floor, and a wall.
+An image with a rug, two chairs, a floor, a door, and a wall.
+An image with a wall, two chairs, a door, a rug, and a floor.
+An image with a rug, a floor, a door, two chairs, and a wall.
+An image with a wall, a floor, a door, two chairs, and a rug.

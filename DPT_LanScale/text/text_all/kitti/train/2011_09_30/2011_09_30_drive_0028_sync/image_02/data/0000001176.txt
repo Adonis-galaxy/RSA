@@ -8,3 +8,8 @@ The image shows a street scene with a car, a bicycle, a person, a trash can, and
 A quiet residential street with a few people and vehicles, marked with a 30 speed limit.
 A man rides a bicycle on a street with a 30 mph speed limit, passing a car and a newspaper stand.
 A quiet residential street with a bicycle path, parked cars, and a few pedestrians, under a clear blue sky.
+An image with three people, a sky, a tree, a pavement, two cars, a road, a bicycle, a house, a paper, and a grass.
+An image with a road, a bicycle, three people, two cars, a pavement, a grass, a house, a sky, a tree, and a paper.
+An image with a road, a paper, a grass, a sky, a tree, three people, a house, a bicycle, two cars, and a pavement.
+An image with two cars, three people, a paper, a sky, a road, a pavement, a bicycle, a grass, a house, and a tree.
+An image with a house, two cars, a paper, a bicycle, a tree, a sky, a road, three people, a pavement, and a grass.

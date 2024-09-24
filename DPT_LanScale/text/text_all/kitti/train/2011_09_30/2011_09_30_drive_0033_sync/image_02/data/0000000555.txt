@@ -8,3 +8,8 @@ The image is a photograph of a residential street.
 The image captures a residential street scene with parked cars, a parked motorhome, and a few moving vehicles, all under a clear blue sky.
 The image shows a narrow street lined with parked cars and a few moving vehicles, including a large white truck and a smaller black car. The street is bordered by houses and trees, and the sky is clear.
 A narrow street lined with parked cars and parked vehicles, leading to a residential area with houses and trees.
+An image with eight cars, a tree, two buses, a roof, a truck, a house, a pavement, a sky, and a road.
+An image with a tree, eight cars, a pavement, a house, two buses, a sky, a truck, a road, and a roof.
+An image with eight cars, a tree, two buses, a house, a sky, a road, a pavement, a truck, and a roof.
+An image with two buses, a road, a truck, eight cars, a roof, a house, a pavement, a sky, and a tree.
+An image with eight cars, a road, a tree, a truck, a sky, two buses, a roof, a pavement, and a house.

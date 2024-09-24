@@ -8,3 +8,8 @@ A white delivery truck on a street.
 A white delivery truck is driving down a tree-lined street, passing a blue car and a bicyclist, with a pedestrian walking on the sidewalk.
 A large white delivery truck is driving down a tree-lined street, passing a blue car and a bicyclist.
 A white delivery truck is driving down a tree-lined street, passing a blue car and a bicyclist, with a pedestrian crossing the road in front of a white house.
+An image with four people, a truck, a bicycle, two cars, a grass, a tree, and a road.
+An image with a truck, two cars, a grass, four people, a bicycle, a road, and a tree.
+An image with four people, a grass, two cars, a truck, a bicycle, a road, and a tree.
+An image with two cars, four people, a tree, a truck, a grass, a road, and a bicycle.
+An image with a grass, two cars, a bicycle, four people, a road, a truck, and a tree.

@@ -8,3 +8,8 @@ A red car is driving down a tree-lined street.
 A quiet residential street, lined with parked cars and lush greenery, under a clear blue sky.
 A red car is driving down a narrow, tree-lined street, with a large building on the left and a smaller building on the right.
 A quiet, tree-lined street with a parked red car, a solitary pedestrian, and a few parked vehicles, all under a clear blue sky.
+An image with a sky, two cars, a road, a building, a pavement, and a tree.
+An image with two cars, a road, a sky, a tree, a pavement, and a building.
+An image with a tree, a building, a pavement, two cars, a road, and a sky.
+An image with two cars, a sky, a pavement, a building, a road, and a tree.
+An image with two cars, a pavement, a sky, a tree, a building, and a road.

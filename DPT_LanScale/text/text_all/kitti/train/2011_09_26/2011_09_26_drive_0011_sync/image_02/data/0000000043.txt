@@ -8,3 +8,8 @@ The image shows a wide street with a clear view of the road ahead.
 The image captures a wide, tree-lined street with a clear sky, leading to a large building with a flat roof, surrounded by a well-maintained landscape.
 The image shows a wide, tree-lined street with a large building on the left side, a few cars parked along the right side, and a clear sky overhead.
 The image shows a wide, tree-lined street with a clear view of a building on the left side, a traffic light in the distance, and a clear sky.
+An image with six cars, a grass, a sky, a building, a pavement, a road, and a tree.
+An image with six cars, a pavement, a tree, a grass, a road, a sky, and a building.
+An image with a building, six cars, a sky, a road, a grass, a pavement, and a tree.
+An image with six cars, a grass, a road, a tree, a sky, a pavement, and a building.
+An image with a grass, a pavement, a road, six cars, a building, a tree, and a sky.

@@ -8,3 +8,8 @@ The image shows a street scene with cars and houses.
 The image captures a quiet residential street, with a few cars parked along the side, and a red car driving down the road, surrounded by lush greenery and houses.
 The image shows a narrow street with a few cars, including a red car, a white car, and a truck, parked or moving along the road. The street is lined with trees and houses, and the sky is clear.
 A narrow street with parked cars and a red car driving down it, surrounded by houses and trees.
+An image with five cars, a sky, a wall, a house, a tree, a road, and a truck.
+An image with five cars, a sky, a house, a truck, a road, a tree, and a wall.
+An image with five cars, a truck, a road, a house, a tree, a wall, and a sky.
+An image with a house, a tree, five cars, a sky, a wall, a truck, and a road.
+An image with a road, five cars, a truck, a tree, a wall, a house, and a sky.

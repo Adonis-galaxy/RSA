@@ -8,3 +8,8 @@ The image shows a street with parked cars and a sidewalk.
 A quiet residential street, lined with parked cars and a single motorcycle, under a clear sky.
 The image depicts a narrow street lined with parked cars and lush greenery, with apartment buildings visible in the background.
 A narrow, tree-lined street with parked cars and a motorcycle, leading to apartment buildings.
+An image with a building, nine cars, a pavement, a road, a tree, a sky, and a grass.
+An image with a grass, a road, a pavement, nine cars, a tree, a building, and a sky.
+An image with a pavement, nine cars, a road, a building, a grass, a tree, and a sky.
+An image with a tree, nine cars, a sky, a building, a grass, a pavement, and a road.
+An image with nine cars, a road, a sky, a building, a tree, a pavement, and a grass.

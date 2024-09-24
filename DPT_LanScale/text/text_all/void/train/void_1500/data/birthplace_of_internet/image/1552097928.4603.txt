@@ -8,3 +8,8 @@ A room with a large refrigerator and a table.
 The image shows a small, cluttered office space with a green wall, a desk, a chair, a refrigerator, and a trash can.
 The image shows a small room with a green wall, a desk with a chair, a refrigerator, a trash can, and a cabinet.
 The image shows a room with a large refrigerator, a table with a chair, a trash can, and a cabinet with a countertop. The room has a green wall and a white floor, and there are blue lines on the floor.
+An image with four chairs, a wall, a floor, a dining, two refrigerators, two people, a shelf, and a paper.
+An image with four chairs, two people, two refrigerators, a paper, a floor, a dining, a shelf, and a wall.
+An image with four chairs, a wall, a floor, two people, two refrigerators, a paper, a shelf, and a dining.
+An image with a dining, a wall, two people, four chairs, a paper, a floor, two refrigerators, and a shelf.
+An image with four chairs, two refrigerators, two people, a dining, a paper, a floor, a wall, and a shelf.

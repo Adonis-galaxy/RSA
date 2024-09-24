@@ -8,3 +8,8 @@ The image shows a street with parked cars and a truck, and a sign indicating no 
 A tranquil residential street, lined with parked cars and a truck, under a clear blue sky, with a red and blue sign indicating a no-entry zone.
 A narrow street lined with parked cars and a truck, with a red and blue sign on the right side.
 A narrow street lined with parked cars and a truck, leading to a residential area with houses and trees.
+An image with a tree, four cars, a fence, a pavement, a sky, a roof, a stop, a road, and a house.
+An image with a stop, four cars, a tree, a fence, a road, a house, a pavement, a roof, and a sky.
+An image with a roof, a sky, a fence, a road, four cars, a stop, a tree, a house, and a pavement.
+An image with four cars, a sky, a pavement, a roof, a road, a tree, a house, a stop, and a fence.
+An image with four cars, a pavement, a stop, a house, a tree, a fence, a sky, a road, and a roof.

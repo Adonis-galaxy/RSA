@@ -8,3 +8,8 @@ The image shows a street with parked cars and a tree-lined road.
 The image captures a serene suburban street scene, with a mix of parked cars and a few moving vehicles, all under the shade of leafy trees, creating a peaceful and residential atmosphere.
 The image shows a narrow street lined with parked cars, with a larger car on the left and a smaller car on the right, and a tree on the left side.
 A narrow, tree-lined street with parked cars and a clear sky.
+An image with six cars, a tree, a pavement, a sky, a road, and a wall.
+An image with a sky, six cars, a road, a wall, a pavement, and a tree.
+An image with a sky, a pavement, six cars, a road, a wall, and a tree.
+An image with a wall, six cars, a sky, a tree, a pavement, and a road.
+An image with a tree, a wall, six cars, a sky, a road, and a pavement.

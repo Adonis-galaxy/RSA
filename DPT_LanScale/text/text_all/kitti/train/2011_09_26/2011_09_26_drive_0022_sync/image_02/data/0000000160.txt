@@ -8,3 +8,8 @@ The image shows a street with parked cars and a person walking.
 The image captures a quiet residential street, with parked cars and a few pedestrians, under a clear sky.
 The image shows a narrow street lined with parked cars, including a blue car parked next to a white building.
 A narrow street in a residential area with parked cars, a person walking, and a bicycle.
+An image with seven cars, a bicycle, a tree, a fence, a house, a pavement, a road, a sky, a person, and a truck.
+An image with a bicycle, a fence, a pavement, a house, a truck, a person, seven cars, a road, a sky, and a tree.
+An image with a house, seven cars, a person, a fence, a sky, a road, a truck, a pavement, a tree, and a bicycle.
+An image with a road, a tree, seven cars, a person, a pavement, a house, a sky, a bicycle, a truck, and a fence.
+An image with seven cars, a road, a truck, a sky, a person, a house, a pavement, a fence, a bicycle, and a tree.

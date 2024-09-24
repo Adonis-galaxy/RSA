@@ -8,3 +8,8 @@ The image shows a street scene with a blue car parked on the side of the road, a
 A quiet residential street, with a few people and bicycles, under a bright sunny day.
 A narrow street in a residential area with parked cars, a bicycle, and two people riding bikes.
 A quiet residential street with parked cars, a few pedestrians, and cyclists, under a bright sunny day.
+An image with a road, ten cars, a stairs, two bicycles, a truck, a sky, a house, a flower, a tree, a pavement, a grass, and two people.
+An image with ten cars, a grass, a stairs, two people, two bicycles, a truck, a flower, a sky, a road, a pavement, a house, and a tree.
+An image with ten cars, a pavement, a grass, a stairs, two bicycles, a truck, two people, a house, a tree, a sky, a road, and a flower.
+An image with a pavement, a house, ten cars, a truck, two bicycles, a flower, a grass, a road, two people, a stairs, a sky, and a tree.
+An image with a pavement, two bicycles, a stairs, two people, ten cars, a house, a tree, a sky, a flower, a road, a grass, and a truck.

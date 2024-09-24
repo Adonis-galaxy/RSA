@@ -8,3 +8,8 @@ A blurry image of a bathroom counter with various items on it.
 The image shows a bathroom counter with a few items on it, including a toothbrush and a bottle of mouthwash.
 The image shows a blurry bathroom counter with a sink, a cabinet, and a few bottles on it.
 The image shows a bathroom counter with a sink, a cabinet, and a few items on it.
+An image with a sink, a wall, a paper, two bottles, and a counter.
+An image with a paper, a sink, two bottles, a counter, and a wall.
+An image with a wall, two bottles, a paper, a counter, and a sink.
+An image with a wall, two bottles, a counter, a paper, and a sink.
+An image with a counter, a paper, a sink, two bottles, and a wall.

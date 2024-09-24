@@ -8,3 +8,8 @@ A white door with a blue sign on it.
 The image shows a room with two black chairs positioned in front of a white door, which has a sign on it.
 The image shows a small room with a white door, two black chairs, and a blue sign on the door.
 The image shows a room with a white door, two black chairs, and a window casting shadows on the wall.
+An image with a door, two chairs, a floor, and a wall.
+An image with a door, a wall, a floor, and two chairs.
+An image with two chairs, a door, a floor, and a wall.
+An image with a door, a floor, two chairs, and a wall.
+An image with a floor, a wall, two chairs, and a door.

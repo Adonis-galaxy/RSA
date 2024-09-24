@@ -8,3 +8,8 @@ A computer monitor on a desk.
 A computer monitor on a stand in front of a row of computer monitors on desks.
 The image shows a computer desk with multiple monitors, keyboards, and mice, with a large monitor on a stand in the center.
 The image shows a computer lab with multiple desks, each equipped with a desktop computer, a keyboard, and a mouse. The monitors are turned off, and the room appears to be empty.
+An image with five chairs, a wall, eight tvs, two mice, a rug, four keyboards, and a table.
+An image with eight tvs, five chairs, a wall, a rug, two mice, a table, and four keyboards.
+An image with eight tvs, five chairs, four keyboards, a rug, two mice, a wall, and a table.
+An image with eight tvs, a rug, five chairs, four keyboards, a wall, two mice, and a table.
+An image with a rug, five chairs, eight tvs, four keyboards, two mice, a table, and a wall.

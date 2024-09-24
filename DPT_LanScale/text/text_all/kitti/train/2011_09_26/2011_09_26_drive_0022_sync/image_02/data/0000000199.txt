@@ -8,3 +8,8 @@ The image shows a street with parked cars and a white house.
 The image captures a quiet residential street, with parked cars and garages, under a clear sky.
 The image shows a narrow street lined with parked cars and garages, with a large SUV parked on the right side of the street.
 The image shows a residential street with parked cars, garages, and a white house with a covered porch.
+An image with two trucks, three cars, a building, a pavement, a road, and a tree.
+An image with a pavement, two trucks, three cars, a building, a road, and a tree.
+An image with three cars, a road, a pavement, two trucks, a building, and a tree.
+An image with a pavement, three cars, a tree, two trucks, a road, and a building.
+An image with three cars, a pavement, a building, two trucks, a tree, and a road.

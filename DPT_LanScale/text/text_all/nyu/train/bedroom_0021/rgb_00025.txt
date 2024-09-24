@@ -8,3 +8,8 @@ A bed in a room.
 The image captures a simple, well-lit bedroom with a neatly made bed, a window with blinds, and a radiator, all under a soft, natural light.
 A small, dark bedroom with a single bed, a window with blinds, and a radiator.
 A simple, uncluttered bedroom with a neatly made bed, a window with blinds, and a radiator.
+An image with a window, a bed, a chair, a floor, and a wall.
+An image with a chair, a window, a floor, a bed, and a wall.
+An image with a floor, a chair, a window, a wall, and a bed.
+An image with a window, a bed, a floor, a wall, and a chair.
+An image with a chair, a window, a floor, a bed, and a wall.

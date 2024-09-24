@@ -8,3 +8,8 @@ The image shows a narrow street between two walls, with a car parked on the left
 A quiet residential street, lined with houses and parked cars, under a clear blue sky.
 The image shows a narrow, tree-lined street between two-story houses, with a car parked on the left side and a white garage door on the right.
 A narrow, tree-lined street with houses on both sides, leading to a dead-end.
+An image with two cars, a tree, three potteds, a roof, a pavement, a house, a wall, a door, and a road.
+An image with a roof, two cars, a wall, three potteds, a house, a tree, a door, a road, and a pavement.
+An image with a pavement, a wall, a tree, a door, a house, a road, three potteds, two cars, and a roof.
+An image with a house, two cars, a road, a pavement, a tree, a wall, a door, three potteds, and a roof.
+An image with a pavement, a wall, a tree, two cars, a door, a road, three potteds, a roof, and a house.

@@ -8,3 +8,8 @@ A television on a wooden stand.
 A television on a wooden stand in a living room.
 A small television on a wooden stand in a living room.
 A small television on a wooden stand in a living room.
+An image with a tv, a rug, a shelf, a wall, a couch, and a door.
+An image with a door, a tv, a couch, a rug, a wall, and a shelf.
+An image with a couch, a tv, a shelf, a rug, a wall, and a door.
+An image with a rug, a couch, a door, a shelf, a tv, and a wall.
+An image with a wall, a tv, a door, a couch, a rug, and a shelf.

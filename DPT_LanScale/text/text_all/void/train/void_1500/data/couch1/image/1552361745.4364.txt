@@ -8,3 +8,8 @@ A white ball on a black couch.
 A white volleyball sits on a black leather couch, next to a gray sweatshirt.
 A white ball is sitting on a black leather couch.
 A white ball is sitting on a black leather couch, with a gray sweater draped over the armrest.
+An image with a book, a couch, a wall, and a sports.
+An image with a wall, a book, a sports, and a couch.
+An image with a sports, a couch, a book, and a wall.
+An image with a sports, a couch, a wall, and a book.
+An image with a book, a sports, a wall, and a couch.

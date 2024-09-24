@@ -8,3 +8,8 @@ The image shows a dining room with a table and chairs.
 The image captures a well-lit, spacious dining room with a large table surrounded by chairs, a fireplace, and a china cabinet.
 The image shows a large dining room with a long table, chairs, a fireplace, and a china cabinet.
 The image shows a formal dining room with a long table, chairs, a fireplace, and a china cabinet.
+An image with five chairs, a cabinet, a ceiling, two walls, a door, a floor, and two dinings.
+An image with a ceiling, five chairs, a door, two walls, two dinings, a cabinet, and a floor.
+An image with two walls, five chairs, a ceiling, a cabinet, two dinings, a door, and a floor.
+An image with a floor, a cabinet, a ceiling, two walls, two dinings, five chairs, and a door.
+An image with a floor, two walls, five chairs, two dinings, a cabinet, a door, and a ceiling.

@@ -8,3 +8,8 @@ A black car parked on a street.
 The image captures a quiet residential street, with a parked car on the side of the road, a house in the background, and a clear sky overhead.
 A small black car is parked on a narrow street next to a house with a white roof.
 A black car is parked on a tree-lined street in a residential area, with a house and a garage visible in the background.
+An image with a sky, a pavement, a tree, a door, a roof, a car, and a road.
+An image with a door, a sky, a car, a pavement, a roof, a tree, and a road.
+An image with a pavement, a door, a roof, a tree, a road, a sky, and a car.
+An image with a pavement, a roof, a road, a door, a car, a tree, and a sky.
+An image with a sky, a car, a pavement, a tree, a roof, a road, and a door.

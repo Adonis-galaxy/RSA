@@ -8,3 +8,8 @@ The image shows a black car driving down a tree-lined road.
 A black car is driving down a tree-lined road, with a white fence on the right side and a blue sign on the left side.
 A black car is driving down a tree-lined road, with a white car following behind.
 A black car is driving down a tree-lined road with a white line in the middle, passing under a bridge with a railing and street lamps on both sides.
+An image with two cars, a fence, a road, a grass, a pavement, and a tree.
+An image with two cars, a grass, a road, a pavement, a fence, and a tree.
+An image with a grass, a fence, two cars, a tree, a pavement, and a road.
+An image with a grass, a pavement, a road, a tree, two cars, and a fence.
+An image with a fence, a road, two cars, a pavement, a tree, and a grass.

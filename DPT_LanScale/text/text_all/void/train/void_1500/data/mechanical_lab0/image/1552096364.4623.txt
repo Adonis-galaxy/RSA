@@ -8,3 +8,8 @@ A blue chair is next to a black and brown cart.
 A blue chair is positioned next to a table with a black cord running along the floor to a black box.
 A blue chair is next to a black and brown cart with a gray box on it.
 A blue chair is placed next to a table with a black cord running along the floor to a black box with a yellow label.
+An image with a chair, a tv, a dining, a floor, and a remote.
+An image with a remote, a floor, a tv, a chair, and a dining.
+An image with a floor, a remote, a dining, a tv, and a chair.
+An image with a remote, a chair, a dining, a tv, and a floor.
+An image with a tv, a dining, a remote, a floor, and a chair.

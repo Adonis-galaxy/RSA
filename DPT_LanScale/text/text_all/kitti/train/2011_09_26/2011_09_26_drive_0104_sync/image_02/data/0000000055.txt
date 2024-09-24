@@ -8,3 +8,8 @@ A man standing on a sidewalk.
 The image captures a bustling city street, with a man walking on the sidewalk, cars parked along the curb, and a white van driving down the road, all set against the backdrop of tall buildings and lush green trees.
 A man stands on a sidewalk next to a busy street filled with parked cars and a few moving vehicles, including a large white van.
 A busy city street with parked cars, a man walking, and apartment buildings on both sides.
+An image with three trucks, thirteen cars, a building, a tree, a person, a handbag, a pavement, a stop, a grass, and a road.
+An image with thirteen cars, a building, a grass, a handbag, a pavement, three trucks, a road, a person, a stop, and a tree.
+An image with thirteen cars, three trucks, a person, a grass, a pavement, a stop, a tree, a handbag, a road, and a building.
+An image with thirteen cars, a tree, three trucks, a person, a pavement, a building, a road, a grass, a handbag, and a stop.
+An image with a building, thirteen cars, a road, three trucks, a tree, a pavement, a grass, a stop, a person, and a handbag.
