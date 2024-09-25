@@ -33,7 +33,7 @@ def get_text(data_path, sample_path, mode="train", dataset=None, combine_words_n
             # print(txt_path, flush=True)
             # for multi captions
             if mode=="train":
-                random_number = random.randint(0, 9)
+                random_number = random.randint(0, 14)
             else:
                 random_number = 0
             for j, line in enumerate(file):

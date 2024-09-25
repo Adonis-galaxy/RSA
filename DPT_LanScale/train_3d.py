@@ -796,7 +796,7 @@ def main():
                 print("Global Step=",global_step, flush=True)
                 now_time = time.time()
                 time_up_to_now = now_time - start_time
-                total_seconds = time_up_to_now.total_seconds()
+                total_seconds = time_up_to_now
                 hours = int(total_seconds // 3600)
                 minutes = int((total_seconds % 3600) // 60)
                 seconds = int(total_seconds % 60)
