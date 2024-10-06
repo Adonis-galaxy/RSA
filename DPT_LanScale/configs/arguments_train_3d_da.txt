@@ -1,4 +1,4 @@
---model_name 1001_3d_da_15_captions_e200_medium_tmux0
+--model_name 1001_3d_da_15_captions_e200_large_tmux0
 --batch_size 32
 --num_threads 8
 --num_epochs 200
