@@ -214,8 +214,6 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
 
             # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            scale_pred = scale_pred.unsqueeze(2)
-            shift_pred = shift_pred.unsqueeze(2)
             factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
             factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
             factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
@@ -328,8 +326,6 @@ def eval_void(LanScale_model, depth_model, CLIP_model, dataloader_eval, ground_t
 
             # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            scale_pred = scale_pred.unsqueeze(2)
-            shift_pred = shift_pred.unsqueeze(2)
             factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
             factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
             factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
@@ -632,8 +628,6 @@ def main():
                 ).squeeze(1)
             # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            scale_pred = scale_pred.unsqueeze(2)
-            shift_pred = shift_pred.unsqueeze(2)
             factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
             factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
             factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
@@ -701,8 +695,6 @@ def main():
 
             # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            scale_pred = scale_pred.unsqueeze(2)
-            shift_pred = shift_pred.unsqueeze(2)
             factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
             factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
             factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
@@ -774,8 +766,6 @@ def main():
 
             # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
             # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            scale_pred = scale_pred.unsqueeze(2)
-            shift_pred = shift_pred.unsqueeze(2)
             factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
             factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
             factor_3 = relative_depth.shape[2]//scale_pred.shape[2]

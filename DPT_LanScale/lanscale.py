@@ -2,6 +2,10 @@ import torch
 import torch.nn as nn
 import math
 
+FACTOR = 4
+HEIGHT = 2
+WIDTH = 2
+
 class LanScaleModel(nn.Module):
     '''
     LanScaleModel Network class
@@ -33,7 +37,7 @@ class LanScaleModel(nn.Module):
             nn.LeakyReLU(),
             nn.Linear(128, 64),
             nn.LeakyReLU(),
-            nn.Linear(64, 4)
+            nn.Linear(64, FACTOR)
         )
 
         self.scale_net = nn.Sequential(
@@ -45,7 +49,7 @@ class LanScaleModel(nn.Module):
             nn.LeakyReLU(),
             nn.Linear(128, 64),
             nn.LeakyReLU(),
-            nn.Linear(64, 4)
+            nn.Linear(64, FACTOR)
         )
 
     def forward(self, text_feat):
@@ -63,7 +67,7 @@ class LanScaleModel(nn.Module):
         '''
         scene_feat = self.scene_feat_net(text_feat)
 
-        scale_pred = torch.exp(self.scale_net(scene_feat))
-        shift_pred = torch.exp(self.shift_net(scene_feat))
+        scale_pred = torch.exp(self.scale_net(scene_feat)).reshape(-1, HEIGHT, WIDTH)
+        shift_pred = torch.exp(self.shift_net(scene_feat)).reshape(-1, HEIGHT, WIDTH)
 
         return scale_pred, shift_pred
