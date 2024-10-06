@@ -33,7 +33,7 @@ class LanScaleModel(nn.Module):
             nn.LeakyReLU(),
             nn.Linear(128, 64),
             nn.LeakyReLU(),
-            nn.Linear(64, 1)
+            nn.Linear(64, 4)
         )
 
         self.scale_net = nn.Sequential(
@@ -45,7 +45,7 @@ class LanScaleModel(nn.Module):
             nn.LeakyReLU(),
             nn.Linear(128, 64),
             nn.LeakyReLU(),
-            nn.Linear(64, 1)
+            nn.Linear(64, 4)
         )
 
     def forward(self, text_feat):

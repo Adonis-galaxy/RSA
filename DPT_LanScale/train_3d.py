@@ -212,8 +212,15 @@ def eval(LanScale_model, depth_model, CLIP_model, dataloader_eval, post_process=
                     align_corners=False,
                 ).squeeze(1)
 
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2)
+            shift_pred = shift_pred.unsqueeze(2)
+            factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
+            factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
+            factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
+            scale_pred = scale_pred.repeat(factor_1,factor_2,factor_3)
+            shift_pred = shift_pred.repeat(factor_1,factor_2,factor_3)
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
 
@@ -319,8 +326,15 @@ def eval_void(LanScale_model, depth_model, CLIP_model, dataloader_eval, ground_t
                     align_corners=False,
                 ).squeeze(1)
 
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2)
+            shift_pred = shift_pred.unsqueeze(2)
+            factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
+            factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
+            factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
+            scale_pred = scale_pred.repeat(factor_1,factor_2,factor_3)
+            shift_pred = shift_pred.repeat(factor_1,factor_2,factor_3)
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred)
 
@@ -616,9 +630,15 @@ def main():
                     mode="bicubic",
                     align_corners=False,
                 ).squeeze(1)
-
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2)
+            shift_pred = shift_pred.unsqueeze(2)
+            factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
+            factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
+            factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
+            scale_pred = scale_pred.repeat(factor_1,factor_2,factor_3)
+            shift_pred = shift_pred.repeat(factor_1,factor_2,factor_3)
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
             # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
@@ -679,8 +699,16 @@ def main():
                     align_corners=False,
                 ).squeeze(1)
 
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2)
+            shift_pred = shift_pred.unsqueeze(2)
+            factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
+            factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
+            factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
+            scale_pred = scale_pred.repeat(factor_1,factor_2,factor_3)
+            shift_pred = shift_pred.repeat(factor_1,factor_2,factor_3)
+
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
             # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
@@ -744,8 +772,15 @@ def main():
                     align_corners=False,
                 ).squeeze(1)
 
-            scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
-            shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # scale_pred = scale_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            # shift_pred = shift_pred.unsqueeze(2).expand(relative_depth.shape[0], relative_depth.shape[1], relative_depth.shape[2])
+            scale_pred = scale_pred.unsqueeze(2)
+            shift_pred = shift_pred.unsqueeze(2)
+            factor_1 = relative_depth.shape[0]//scale_pred.shape[0]
+            factor_2 = relative_depth.shape[1]//scale_pred.shape[1]
+            factor_3 = relative_depth.shape[2]//scale_pred.shape[2]
+            scale_pred = scale_pred.repeat(factor_1,factor_2,factor_3)
+            shift_pred = shift_pred.repeat(factor_1,factor_2,factor_3)
 
             pred_depth = 1 / (scale_pred * relative_depth + shift_pred + EPS)
             # pred_depth =  1 / ((shift_pred - scale_pred) * relative_depth + scale_pred + EPS) # min max
