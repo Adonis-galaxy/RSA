@@ -17,7 +17,7 @@ https://arxiv.org/pdf/2108.10531.pdf
 import numpy as np
 from PIL import Image
 
-
+DATA_PATH_VOID = "/media/staging1/zyzeng/"
 def read_paths(filepath):
     '''
     Reads a newline delimited file containing paths
@@ -36,7 +36,7 @@ def read_paths(filepath):
             # If there was nothing to read
             if path == '':
                 break
-            path = "/media/staging1/zyzeng/" + path
+            path = DATA_PATH_VOID + path
             path_list.append(path)
 
     return path_list
