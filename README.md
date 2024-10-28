@@ -48,7 +48,7 @@ sh train_3d_da.sh
 ```
 Before running new experiments, remember to change the model_name in train_3d_da.sh and config/arguments_train_3d_da.txt to be the same.
 
-## Run training for Midas on NYU-Depth-V2 / KITTI / VOID ##
+## Run training for MiDaS on NYU-Depth-V2 / KITTI / VOID ##
 Specify GPU Number in sh/train_3d_midas.sh, then run by:
 ```
 sh train_3d_midas.sh
@@ -106,3 +106,25 @@ The structure of dataset should look like this:
     │   │   │   ├── birthplace_of_internet
     │   │   │   │   ├── ...
     │   └── ...
+
+
+## Acknowledgements ##
+We would like to acknowledge the use of code snippets from various open-source libraries and contributions from the online coding community, which have been invaluable in the development of this project. Specifically, we would like to thank the authors and maintainers of the following resources:
+
+[CLIP](https://github.com/openai/CLIP)
+
+[WorDepth](https://github.com/Adonis-galaxy/WorDepth)
+
+[Depth Anything](https://github.com/LiheYoung/Depth-Anything)
+
+[MiDaS](https://github.com/isl-org/MiDaS)
+
+[DPT](https://github.com/isl-org/DPT)
+
+[MaskDINO](https://github.com/IDEA-Research/MaskDINO)
+
+[LLaVA](https://github.com/haotian-liu/LLaVA)
+
+[KBNet](https://github.com/alexklwong/calibrated-backprojection-network)
+
+[VOID-dataset] (https://github.com/alexklwong/void-dataset)
