@@ -127,4 +127,4 @@ We would like to acknowledge the use of code snippets from various open-source l
 
 [KBNet](https://github.com/alexklwong/calibrated-backprojection-network)
 
-[VOID-dataset] (https://github.com/alexklwong/void-dataset)
+[VOID](https://github.com/alexklwong/void-dataset)
