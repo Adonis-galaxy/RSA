@@ -68,6 +68,7 @@ Before running new experiments, remember to change the model_name in train_3d_da
 ### Prepare Datasets ###
 Download [NYU-Depth-v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html), [KITTI](https://www.cvlibs.net/datasets/kitti/), and [VOID](https://github.com/alexklwong/void-dataset). Or you can refer to [KBNet](https://github.com/alexklwong/calibrated-backprojection-network) to prepare datasets through the provided download scripts.
 
+For VOID. Please use VOID-1500. The number indicates the number of point for depth completion, and it doesn't affect this task.
 Then change the data_path and gt_path in train_3d.py and DATA_PATH_VOID in eval_void/data_utils.py
 
 The structure of dataset should look like this:
