@@ -17,7 +17,7 @@ Authors: Ziyao Zeng, Yangchao Wu, Hyoungseob Park, Daniel Wang, Fengyu Yang, Ste
 ### Poster ### -->
 
 ## TODO: ##
-Here we release the training code. I am still reorganizing the code (code is a little messy now). Will release the final version and the CKPT soon.
+Here we release the training code and checkpoints. I am still reorganizing the code (code is a little messy now). Will release the final version and the evaluation code soon.
 
 ## Setup Environment ##
 Create Virtual Environment:
@@ -108,6 +108,10 @@ The structure of dataset should look like this:
     │   │   │   │   ├── ...
     │   └── ...
 
+
+
+## Evaluate Checkpoints ##
+Checkpoints are put under ./checkpoints. The evaluation code will be coming soon.
 
 ## Acknowledgements ##
 We would like to acknowledge the use of code snippets from various open-source libraries and contributions from the online coding community, which have been invaluable in the development of this project. Specifically, we would like to thank the authors and maintainers of the following resources:
