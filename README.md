@@ -8,16 +8,12 @@ Paper Link: https://arxiv.org/abs/2410.02924
 
 Authors: Ziyao Zeng, Yangchao Wu, Hyoungseob Park, Daniel Wang, Fengyu Yang, Stefano Soatto, Dong Lao, Byung-Woo Hong, Alex Wong
 
-<!-- ## Overview ##
+## Overview ##
+![Overview](./RSA/figures/pipeline.png)
 
-### Pipeline ###
+### Poster ###
+![RSA Poster](./RSA/figures/RSA_Poster.png)
 
-### Visualization on NYU-Depth-v2 ###
-
-### Poster ### -->
-
-## TODO: ##
-Here we release the training code and checkpoints. I am still reorganizing the code (code is a little messy now). Will release the final version and the evaluation code soon.
 
 ## Setup Environment ##
 Create Virtual Environment:
@@ -111,7 +107,7 @@ The structure of dataset should look like this:
 
 
 ## Evaluate Checkpoints ##
-Checkpoints are put under ./checkpoints. The evaluation code will be coming soon.
+Checkpoints are put under ./checkpoints. To run evaluation only, specify args.load_ckpt_path and args.eval_before_train to conduct evaluation.
 
 ## Acknowledgements ##
 We would like to acknowledge the use of code snippets from various open-source libraries and contributions from the online coding community, which have been invaluable in the development of this project. Specifically, we would like to thank the authors and maintainers of the following resources:
