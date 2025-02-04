@@ -2,7 +2,7 @@
 
 Official implementation of the paper "RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions"
 
-Accepted by NeurIPS 2024
+_**Accepted by NeurIPS 2024**_
 
 Paper Link: https://arxiv.org/abs/2410.02924
 
